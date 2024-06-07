@@ -1,0 +1,168 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+exx������������d��Esembox>�
+exx������������d��Es[K[30C[H[H[2Jembox>�
+exx������������d��Es[K[30Cembox>�
+exx������������d��Es�[K[31C
+embox>
+�
+tish error: #-22
+embox>
+������������
+�: Command not found
+tish error: #-2
+embox>
+xexembox>
+xex[K[11C[H[H[2Jembox>
+xex[K[11Cembox>
+xex�[K[12Cembox>
+xex�x[K[13Cembox>
+xex�x[K[14Cembox>
+xex�x[K[14Cxeiembox>
+xex�xxei[K[17Cembox>
+xex�xxeix[K[18Cembox>
+xex�xxeixe[K[19Cembox>
+xex�xxeixei[K[20Cembox>
+xex�xxeixei[K[21Cembox>
+xex�xxeixei[K[20C[H[H[2Jembox>
+xex�xxeixei[K[20Cembox>
+xex�xxeixei�[K[21C
+tish error: #-22
+embox>
+�
+@@@@@@@embox>
+adduser.conf[K@@embox>
+adduser.conf@@[K[21C��@@@@@@@@"embox>
+adduser.conf@@��@@@@@@@@[K[31C�embox>
+adduser.conf@@��@@@@@@@@[K[31C[H[H[2Jembox>
+adduser.conf@@��@@@@@@@@[K[31C�xiji![H[H[2Jembox>
+adduser.conf@@��@@@@@@@@�xiji![K[40C�
+adduser.conf@@��@@@@@@@@�x: Command not found
+tish error: #-2
+embox>
+�
+exxeh��[H[H[2Jembox>
+�
+exxeh��[K[18C
+�: Command not found
+tish error: #-2
+embox>
+;
+;: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[9Cxxeiembox>
+xxei[K[14C[H[H[2Jembox>
+xxei[K[14Cembox>
+xxei�[K
+tish error: #-22
+embox>
+��ex#xepembox>
+��ex#xep[K[17C
+tish error: #-22
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l
+��: Command not found
+tish error: #-2
+embox>
+} embox>[K[13C 
+tish error: #-22
+embox>
+embox>
+embox>
+}embox>
+}3
+}3: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��}
+��}: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+{j�ej
+tish error: #-22
+embox>
+ � 
+tish error: #-22
+embox>
+?0?�"���b���
+?0?�"���: Command not found
+tish error: #-2
+embox>
+dd
+dd: Command not found
+tish error: #-2
+embox>
+ls  
+ls: Command not found
+tish error: #-2
+embox>
+s}>
+s}>: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��
+tish error: #-22
+embox>
+����xei
+����xei: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+pei
+��: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+[H[H[2J
+tish error: #-22
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�euplogouto�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

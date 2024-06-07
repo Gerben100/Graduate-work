@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>iy�embox>iy�[K[6Cembox>xiy�[K[7Cembox>xeiy�[K[8Cembox>xexiy�[K[9Cembox>xexiiy�[K[10Cembox>xexitiy�[K[11Cembox>xexitiy�[K[12Cembox>xexitiy�[K[13Cembox>xexit�iy�[K[14C
+embox>�]�embox>�]�[K[6Cembox>W�]�[K[7Cembox>W��]�[K[8Cembox>W��]�[K[9C
+embox>�[@@�ھ&ex@@embox>�[@@�ھ&ex@@[K[6Cembox>�[@@�ھ&ex@@[K[7C
+embox>
+hh�T�������������������������������hnhh�T���������
+hh�T�������������������������������hnhh�T���������: Command not found
+tish error: #-2
+embox>�����������������������embox>�����������������������[K[30C
+�����������������������: Command not found
+tish error: #-2
+embox>
+hnhh�T������������������٠������������HHHHHHHHHHH
+hnhh�T�������������������: Command not found
+tish error: #-2
+embox>HHHHHHHHHHembox>HHHHHHHHHH[K[16C
+HHHHHHHHHH: Command not found
+tish error: #-2
+embox>
+�nhk
+�nhk: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+ls�@�
+ls�@�: Command not found
+tish error: #-2
+embox>
+�ls
+�ls: Command not found
+tish error: #-2
+embox>
+pd��embox>
+pd�[K[15Cp�I5 @56@embox>
+pd�p�I5 @56@[K6
+tish error: #-22
+embox>
+]��@]
+]��@]: Command not found
+tish error: #-2
+embox>
+^ d
+^: Command not found
+tish error: #-2
+embox>
+@@@@@Q?exp
+@@@@@Q?exp: Command not found
+tish error: #-2
+embox>
+^��[?5h[?5lg
+embox>
+embox>
+^��
+^��: Command not found
+tish error: #-2
+embox>
+^��d
+^�d: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+^logout�H
+^logout�H: Command not found
+tish error: #-2
+embox>
+^��[?5h[?5l
+^��[?5h[?5l: Command not found
+tish error: #-2
+embox>
+^@
+^@: Command not found
+tish error: #-2
+embox>
+W
+W: Command not found
+tish error: #-2
+embox>
+^���
+^: Command not found
+tish error: #-2
+embox>
+^�e���expo�t�r������������������������рk�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

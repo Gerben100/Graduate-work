@@ -1,0 +1,120 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@j
+embox>
+
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+tcc
+tcc: Command not found
+tish error: #-2
+embox>
+thui�thui�
+thui: Command not found
+tish error: #-2
+embox>
+tuv
+tuv: Command not found
+tish error: #-2
+embox>
+8�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>E
+[K[7Cembox>E�
+[K[8Cembox>E�
+[K[9C
+E�: Command not found
+tish error: #-2
+embox>
+yeei%�ye�e�xe\
+yeei: Command not found
+tish error: #-2
+embox>
+lstlogoutut
+lstlogoutut: Command not found
+tish error: #-2
+embox>
+U
+U: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+tt
+tt: Command not found
+tish error: #-2
+embox>
+VO�Vj�
+VO�Vj�: Command not found
+tish error: #-2
+embox>
+ut
+ut: Command not found
+tish error: #-2
+embox>
+t�itZ
+tish error: #-22
+embox>
+�ej�lT|ut
+ttut: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+tt�������n
+tt: Command not found
+tish error: #-2
+embox>
+th
+t: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+d[xWtx���[?5h[?5l
+d[xWtx���[?5h[?5l: Command not found
+tish error: #-2
+embox>
+tt
+tt: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+tt: Command not found
+tish error: #-2
+embox>
+tulogexitptt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

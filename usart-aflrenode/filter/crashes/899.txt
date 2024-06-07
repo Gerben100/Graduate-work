@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Rembox>[K[6C�66
+embox>
+Rembox>
+[K[7C�66[H[H[2Jembox>
+�66[K[12C@@��[embox>
+�66@@��[[K[6Cembox>�
+�66@@��[[K[7Cembox>� 
+�66@@��[[K[8Cembox>� @
+�66@@��[[K[9Cembox>� @@
+�66@@��[[K[10Cembox>� @@@
+�66@@��[[K[11Cembox>� @@@@
+�66@@��[[K[12Cembox>� @@@@t
+�66@@��[[K[13Cembox>� @@@@tt
+�66@@��[[K[14Cembox>� @@@@tt@
+�66@@��[[K[15Cembox>� @@@@tt@@
+�66@@��[[K[16Cembox>� @@@@tt@@ 
+�66@@��[[K[17Cembox>� @@@@tt@@ .
+�66@@��[[K[18Cembox>� @@@@tt@@ .@
+�66@@��[[K[19Cembox>� @@@@tt@@ .@@
+�66@@��[[K[20Cembox>� @@@@tt@@ .@@@
+�66@@��[[K[21Cembox>� @@@@tt@@ .@@@@
+�66@@��[[K[22Cembox>� @@@@tt@@ .@@@@@
+�66@@��[[K[23C
+�: Command not found
+tish error: #-2
+embox>
+R@@embox>� @@@@tt@@ .@@@@@
+�66[K[28C��[embox>� @@@@tt@@ .@@@@@
+�66��[[K[6Cembox>@� @@@@tt@@ .@@@@@
+�66��[[K[7Cembox>@ � @@@@tt@@ .@@@@@
+�66��[[K[8Cembox>@ @� @@@@tt@@ .@@@@@
+�66��[[K[9Cembox>@ @@� @@@@tt@@ .@@@@@
+�66��[[K[10Cembox>@ @@@� @@@@tt@@ .@@@@@
+�66��[[K[11Cembox>@ @@@@� @@@@tt@@ .@@@@@
+�66��[[K[12Cembox>@ @@@@�� @@@@tt@@ .@@@@@
+�66��[[K[13Cembox>@ @@@@�� @@@@tt@@ .@@@@@
+�66��[[K[14Cembox>@ @@@@�� @@@@tt@@ .@@@@@
+�66��[[K[13Cembox>@ @@@@�@� @@@@tt@@ .@@@@@
+�66��[[K[14Cembox>@ @@@@�@ � @@@@tt@@ .@@@@@
+�66��[[K[15Cembox>@ @@@@�@ .� @@@@tt@@ .@@@@@
+�66��[[K[16Cembox>@ @@@@�@ .@� @@@@tt@@ .@@@@@
+�66��[[K[17Cembox>@ @@@@�@ .@@� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#t� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#tt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt�� @@@@tt@@ .@@@@@
+�66��[[K[25Cembox>@ @@@@�@ .@@@@#ttt�u� @@@@tt@@ .@@@@@
+�66��[[K[26Cembox>@ @@@@�@ .@@@@#ttt�ut� @@@@tt@@ .@@@@@
+�66��[[K[27Cembox>@ @@@@�@ .@@@@#ttt�utt� @@@@tt@@ .@@@@@
+�66��[[K[28Cembox>@ @@@@�@ .@@@@#ttt�uttt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt�utttt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt�uttttt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt�utttttt� @@@@tt@@ .@@@@@
+�66��[[Kembox>@ @@@@�@ .@@@@#ttt�uttttttt� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttt� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�uttttttttt� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W?� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W?G� @@@@tt@@ .@@@@@
+�66��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge� @@@@tt@@ .@@@@@
+�66��[
+@: Command not found
+tish error: #-2
+embox>
+Rembox>
+[K[7C�66[H[H[2Jembox>
+�66[K[12C@@embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@t@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@tt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@ttt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@tttt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[[K[16Cembox>@ @@@@ttttt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[[Kembox>@ @@@@tttttt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[[Kembox>@ @@@@ttttttt@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[[Kembox>@ @@@@ttttttt@@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[[Kembox>@ @@@@ttttttt@G@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@ttttttt@G?@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@ttttttt@G?G@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[embox>@ @@@@ttttttt@G?Ge@ @@@@�@ .@@@@#ttt�utttttttttt@W?Ge��[
+@: Command not found
+tish error: #-2
+embox>
+tttttt�tt����embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C����cd�����exit���@@@@embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6C����cd������embox>����cd�����[K[17C
+����cd�����: Command not found
+tish error: #-2
+embox>
+R[?5h[?5l�66[H[H[2Jembox>
+R[?5h[?5l�66[K[14C@@�@tt��utttttttt@@ .W
+R[?5h[?5l�66: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+�[K[10Cembox>
+��[K[11Cembox>
+��[K[6C
+tish error: #-22
+embox>
+���embox>
+��[K[9Clpo
+��lpo: Command not found
+tish error: #-2
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+R-�d�po
+R-�d�po: Command not found
+tish error: #-2
+embox>
+R-�dr�o
+R-�dr�o: Command not found
+tish error: #-2
+embox>
+RRRRRRRRRRRRR-��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,148 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>tish[K[10C�
+tish�: Command not found
+tish error: #-2
+embox>
+�embox>tish�[K[16C�@��vuuuuuuu
+tish�: Command not found
+tish error: #-2
+embox>
+pi"txeiembox>
+pi"txei[K[14C[H[H[2Jembox>
+pi"txei[K[14Cembox>
+pi"txei�[K[15Cembox>
+pi"txei�y[K[16Cembox>
+pi"txei�y[K[17Cembox>
+pi"txei�ye[K[18Cembox>
+pi"txei�yee[K[19Cembox>
+pi"txei�yeee[K[20Cembox>
+pi"txei�yeeee[K[21Cembox>
+pi"txei�yeeeet[K[22C
+pi"txei�y: Command not found
+tish error: #-2
+embox>
+e��e�
+e��e�: Command not found
+tish error: #-2
+embox>
+e��embox>
+e�[K[9C,
+e�,: Command not found
+tish error: #-2
+embox>
+e��embox>
+e��[K[6Cembox>�
+e��[K[7Cembox>��
+e��[K[8Cembox>���
+e��[K[9Cembox>����
+e��[K[10Cembox>����d
+e��[K[11Cembox>����de
+e��[K[12Cembox>����de�
+e��[K[13Cembox>����de��
+e��[K[14Cembox>����de��
+e��[K[15Cembox>����de��
+e��[K[6Cembox>e����de��
+e��[K[7Cembox>ee����de��
+e��[K[8Cembox>eee����de��
+e��[K[9Cembox>eeee����de��
+e��[K[10Cembox>eeeee����de��
+e��[K[11Cembox>eeeeee����de��
+e��[K[12Cembox>eeeeeeW����de��
+e��[K[13Cembox>eeeeeeWd����de��
+e��[K[14Cembox>eeeeeeWde����de��
+e��[K[15Cembox>eeeeeeWdex����de��
+e��[K[16Cembox>eeeeeeWdex�����de��
+e��[K[17Cembox>eeeeeeWdex�i����de��
+e��[K[18Cembox>eeeeeeWdex�in����de��
+e��[K[19Cembox>eeeeeeWdex�inp����de��
+e��[K[20Cembox>eeeeeeWdex�inp�����de��
+e��[K[21Cembox>eeeeeeWdex�inp������de��
+e��[K[22Cembox>eeeeeeWdex�inp������de��
+e��[K[23Cembox>eeeeeeWdex�inp������de��
+e��[K[24C
+eeeeeeWdex�inp��: Command not found
+tish error: #-2
+embox>
+eX��=xPeX��embox>
+eX��=xPeX�[K�xPzi�
+eX��=: Command not found
+tish error: #-2
+embox>
+e��"embox>
+e��"[K[6Cembox>�
+e��"[K[7Cembox>��
+e��"[K[8Cembox>���
+e��"[Kembox>����
+e��"[Kembox>����Q
+e��"[Kembox>����Q�
+e��"[K
+����Q�: Command not found
+tish error: #-2
+embox>
+e��embox>
+e��[K[6Cembox>�
+e��[K[7Cembox>�d
+e��[K[8Cembox>�d�
+e��[K[9Cembox>�d��
+e��[K[10Cembox>�d��d
+e��[K[11Cembox>�d��d�
+e��[K[12C
+�d��d�: Command not found
+tish error: #-2
+embox>
+e��������d�����embox>
+e��������d�����[K[23C����dembox>�d��d�
+e��[K[17C�d�
+�d��d�: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cembox>[K[6Cd�
+d�: Command not found
+tish error: #-2
+embox>
+[5;80H ֤
+�
+[6;80H ֤
+�: Command not found
+tish error: #-2
+embox>
+e��
+����d����: Command not found
+tish error: #-2
+embox>
+e��
+��: Command not found
+tish error: #-2
+embox>
+e���d�
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+���d�
+���d�: Command not found
+tish error: #-2
+embox>
+e皀d�
+e皀d�: Command not found
+tish error: #-2
+embox>
+�Kp2����Kp2�}��p2
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

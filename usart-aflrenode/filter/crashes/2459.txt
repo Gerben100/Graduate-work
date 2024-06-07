@@ -1,0 +1,170 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>p�[K[7C[?5h[?5lembox>p7�[K[8Cembox>p7�[K[7Cembox>pp7�[K[8C[?5h[?5lembox>pp77�[K[9Cembox>pp77�[K[10Cembox>pp7�7�[K[11Cembox>pp7�7�[K[12Cembox>pp7��7�[K[13C
+pp7: Command not found
+tish error: #-2
+embox>
+.
+embox>pembox>passwd[K[12C/embox>passwd[K[12C�
+passwd�: Command not found
+tish error: #-2
+embox>
+�6
+tish error: #-22
+embox>
+��pembox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>cd7�
+cd7: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>p[K[7C
+embox>embox>[K[7Cembox>[K[8Cembox>�[K[9C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p
+embox>p11�
+p: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>p7�
+p7: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p ��
+p: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pp�embox>passwdp�[K[14Cembox>passwdpp�[K[15C[?5h[?5lembox>passwdpp�[K[16Cembox>passwdppp�[K[17Cembox>passwdpppi�[K[18Cembox>passwdpppi��[K[19Cembox>passwdpppi�i�[K[20Cembox>passwdpppi�i��[K[21C
+passwdpppi�i��: Command not found
+tish error: #-2
+embox>
+lembox>
+lembox>[K[6Cembox>sembox>s�
+s�: Command not found
+tish error: #-2
+embox>
+cd
+embox>pcdpipi�
+pipi�: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5lxNpexpo�
+pxNpexpo�: Command not found
+tish error: #-2
+embox>
+p
+tish error: #-22
+embox>
+
+embox>p[?5h[?5lpi�
+pipi�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+
+embox>p[?5h[?5lbinpi�
+pbinpi�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>
+embox>
+embox> 
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>p[?5h[?5lpi�
+ppi�: Command not found
+tish error: #-2
+embox>
+
+embox>o[?5h[?5l
+o: Command not found
+tish error: #-2
+embox>
+
+embox>Pls�i�
+Pls: Command not found
+tish error: #-2
+embox>
+)pin�
+tish error: #-22
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+embox>�
+pipi��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>��Ĩ�ĳľ���cd�c�����Ħ�����������cd�cd������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

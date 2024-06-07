@@ -1,0 +1,13 @@
+mach create
+machine LoadPlatformDescription $ORIGIN/stm32f429.repl
+showAnalyzer sysbus.usart2
+emulation CreateUartPtyTerminal "term" "/tmp/uart" True
+connector Connect sysbus.usart2 term
+macro reset
+"""
+     sysbus LoadELF $ORIGIN/../embox_update 
+"""
+
+runMacro $reset
+
+

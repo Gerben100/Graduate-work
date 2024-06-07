@@ -1,0 +1,213 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cxxogout�x�embox>xxogout�x[K[16Cxxoxr xgout�x,embox>xxogout�xxxoxr xgout�x[K[33Cxxox
+xxo: Command not found
+tish error: #-2
+embox>r xxxx
+r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cexport�dxU�������oinx3
+export�dxU�������o: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>g
+[K[7Cembox>g@
+[K[8Cembox>g@c
+[K[9Cembox>g@cd
+[K[10Cembox>g@cd
+[K[11Cembox>g@cd
+[K[6Cembox>g@cd
+[K[7Cembox>xg@cd
+[K[8Cembox>x!g@cd
+[K[9Cembox>x!gg@cd
+[K[10Cembox>x!gwg@cd
+[K[11Cembox>x!gw|g@cd
+[K[12Cembox>x!gw|Qg@cd
+[K[13Cembox>x!gw|Q6g@cd
+[K[14Cembox>x!gw|Q6Ag@cd
+[K[15Cembox>x!gw|Q6A@g@cd
+[K[16Cembox>x!gw|Q6A@g@cd
+[K[17Cembox>x!gw|Q6A@eg@cd
+[K[18Cembox>x!gw|Q6A@exg@cd
+[K[19Cembox>x!gw|Q6A@expg@cd
+[K[20Cembox>x!gw|Q6A@expog@cd
+[K[21Cembox>x!gw|Q6A@exporg@cd
+[K[22Cembox>x!gw|Q6A@exportg@cd
+[K[23Cembox>x!gw|Q6A@export@g@cd
+[K[24Cembox>x!gw|Q6A@export@@g@cd
+[K[25Cembox>x!gw|Q6A@export@g@cd
+[K[24Cembox>x!gw|Q6A@export@�g@cd
+[K[25Cembox>x!gw|Q6A@export@��g@cd
+[K[26Cembox>x!gw|Q6A@export@���g@cd
+[K[27Cembox>x!gw|Q6A@export@����g@cd
+[K[28Cembox>x!gw|Q6A@export@����@g@cd
+[K[29Cembox>x!gw|Q6A@export@����@g@cd
+[K[30Cembox>x!gw|Q6A@export@����@�g@cd
+[K[31Cembox>x!gw|Q6A@export@����@�xg@cd
+[K[32Cembox>x!gw|Q6A@export@����@�g@cd
+[K[31Cembox>x!gw|Q6A@export@����@�,g@cd
+[K[32Cembox>x!gw|Q6A@export@����@�,g@cd
+[K[33Cembox>x!gw|Q6A@export@����@�,g@cd
+[K[34Cembox>x!gw|Q6A@export@����@�,g@cd
+[K[35Cembox>x!gw|Q6A@export@����@�,xg@cd
+[K[36Cembox>x!gw|Q6A@export@����@�,xxg@cd
+[K[37Cembox>x!gw|Q6A@export@����@�,xxog@cd
+[Kembox>x!gw|Q6A@export@����@�,xxog@cd
+[Kembox>x!gw|Q6A@export@����@�,xxoxg@cd
+[K
+embox>r�xx�@�xembox>r�xx�@�[K[14C,xxoxr�xxxx
+r�xx�@�,: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>g
+[K[7Cembox>go
+[K[8Cembox>g
+[K[7Cembox>ga
+[K[8Cembox>gax
+[K[9Cembox>gaxr
+[K[10Cembox>gaxrp
+[K[11Cembox>gaxrpY
+[K[12Cembox>gaxrpYn
+[K[13Cembox>gaxrpYn
+[K[14Cembox>gaxrpYn�
+[K[15Cembox>gaxrpYn�x
+[K[16Cembox>gaxrpYn�xx
+[K[17Cembox>gaxrpYn�xxx
+[K[18Cembox>gaxrpYn�xxx�
+[K[19C
+gaxrpYn: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>o
+[K[7Cembox>ox
+[K[8Cembox>oxx
+[K[9Cembox>oxxx
+[K[10Cembox>oxxxx
+[K[11Cembox>oxxxxb
+[K[12Cembox>oxxxxbx
+[K[13Cembox>oxxxxbx�
+[K[14Cembox>oxxxxbx�
+[K[15Cembox>oxxxxbx�x
+[K[16Cembox>oxxxxbx�xx
+[K[17Cembox>oxxxxbx�xxx
+[K[18Cembox>oxxxxbx�xxxx
+[K[19Cembox>oxxxxbx�xxxxx
+[K[20Cembox>oxxxxbx�xxxxxx
+[K[21Cembox>oxxxxbx�xxxxxx?
+[K[22Cembox>oxxxxbx�xxxxxx?�
+[K[23Cembox>oxxxxbx�xxxxxx?��
+[K[24Cembox>oxxxxbx�xxxxxx?���
+[K[25Cembox>oxxxxbx�xxxxxx?���
+[K[6Cembox>oxxxxbx�xxxxxx?���
+[K[7Cembox>woxxxxbx�xxxxxx?���
+[K[8Cembox>wboxxxxbx�xxxxxx?���
+[K[9Cembox>wbxoxxxxbx�xxxxxx?���
+[K[10Cembox>wbxxoxxxxbx�xxxxxx?���
+[K[11Cembox>wbxxxoxxxxbx�xxxxxx?���
+[K[12Cembox>wbxxxxoxxxxbx�xxxxxx?���
+[K[13Cembox>wbxxxxxoxxxxbx�xxxxxx?���
+[K[14Cembox>wbxxxxxxoxxxxbx�xxxxxx?���
+[K[15Cembox>wbxxxxxxxoxxxxbx�xxxxxx?���
+[K[16Cembox>wbxxxxxxxxoxxxxbx�xxxxxx?���
+[K[17Cembox>wbxxxxxxxxxoxxxxbx�xxxxxx?���
+[K[18Cembox>wbxxxxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�oxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�joxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxxxxxoxxxxbx�xxxxxx?���
+embox>wbxxxxxxxxxxxxxx�jxxxxxxxxoxxxxbx�xxxxxx?���
+
+embox>xxxxxx�qxr��xembox>gaxrpYn[K[13Cx
+gaxrpYnx: Command not found
+tish error: #-2
+embox>
+��pembox>
+��p[K[9Cembox>
+���p[K[10Cembox>
+���hp[K[11Cembox>
+���h�p[K[12Cembox>
+���h�pp[K[13Cembox>
+���h�p%p[K[14Cembox>
+���h�p%Jp[K[15Cembox>
+���h�p%J�p[K[16C[H[H[2Jembox>
+���h�p%J�p[K[16Cembox>
+���h�p%J�np[Kembox>
+���h�p%J�nnp[Kembox>
+���h�p%J�nnnp[K[19Cembox>
+���h�p%J�nnnbp[K[20C
+���h�p%J�nnnbp: Command not found
+tish error: #-2
+embox>
+���
+embox>��
+embox>�pinp"
+�pinp": Command not found
+tish error: #-2
+embox>
+�h�h�pb
+�h: Command not found
+tish error: #-2
+embox>
+pbpb
+pbpb: Command not found
+tish error: #-2
+embox>
+logouth�pb
+logouth�pb: Command not found
+tish error: #-2
+embox>
+�h
+�h: Command not found
+tish error: #-2
+embox>
+�v
+�v�h�pb: Command not found
+tish error: #-2
+embox>
+�h
+b: Command not found
+tish error: #-2
+embox>
+`  �
+`: Command not found
+tish error: #-2
+embox>
+�i
+�iHh�Rb: Command not found
+tish error: #-2
+embox>
+�h~sbcd�����l~sb
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

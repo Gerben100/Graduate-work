@@ -1,0 +1,111 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>\e�ex
+\e�: Command not found
+tish error: #-2
+embox>
+�ex
+�: Command not found
+tish error: #-2
+embox>
+�tj�jjjjhjjjjjjjjjjjjt~tt
+�tj�jjjjhjjjjjjjjjjjjt~tt: Command not found
+tish error: #-2
+embox>
+�PPP�embox>
+�PPP�[K[13C�el
+�PPP��: Command not found
+tish error: #-2
+embox>
+'embox>
+'[K[6Cembox>
+'[K[7Cembox>
+'[K[8Cembox>u
+'[K[9Cembox>ut
+'[K[10Cembox>ut�
+'[K[11Cembox>ut��
+'[K[12Cembox>ut���
+'[K[13Cembox>ut���
+'[K[14Cembox>ut��瀀
+'[K[15Cembox>ut��瀀i
+'[K[16Cembox>ut��瀀it
+'[K[17Cembox>ut��瀀itU
+'[K[18Cembox>ut��瀀itUx
+'[K[19C
+embox>
+_x
+_x: Command not found
+tish error: #-2
+embox>
+���xembox>
+���x[K[6Cembox>o
+���x[K[7Cembox>or
+���x[K[8Cembox>orl
+���x[K[9Cembox>orlo
+���x[K[10Cembox>orlo
+���x[K[11Cembox>orlo�
+���x[K[12Cembox>orlo�s
+���x[K[13Cembox>orlo�st
+���x[K[14Cembox>orlo�st�
+���x[K[15Cembox>orlo�st�
+���x[K[16Cembox>orlo�st�@
+���x[K[17Cembox>orlo�st�@e
+���x[K[18Cembox>orlo�st�@e
+���x[K[19C
+orlo�st�: Command not found
+tish error: #-2
+embox>
+�&tY��YYYYYYYYYYYYYYYYYYYYYbYYYY\e�ex
+�&tY��YYYYYYYYYYYYYYYYYYYYYbYYYY\e�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+��2Y��\e�ddex
+��2Y��\e�ddex: Command not found
+tish error: #-2
+embox>
+�&t`oiembox>
+�&t`oi[Kembox>
+�&t`oi�[Kembox>
+�&t`oi��[Kembox>
+�&t`oi���[Kembox>
+�&t`oi����[Kembox>
+�&t`oi����embox>
+�&t`oi�����embox>
+�&t`oi������embox>
+�&t`oi�������embox>
+�&t`oi��������embox>
+�&t`oi��������hembox>
+�&t`oi��������h�embox>
+�&t`oi��������h��embox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19C
+�pin�h: Command not found
+tish error: #-2
+embox>���uye
+���uye: Command not found
+tish error: #-2
+embox>
+�&t�`oi
+embox>��u
+��u: Command not found
+tish error: #-2
+embox>
+�&t`oi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

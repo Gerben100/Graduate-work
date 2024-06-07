@@ -1,0 +1,168 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��#
+��#: Command not found
+tish error: #-2
+embox>
+�cd_embox>
+�cd_[K[6Cembox>
+�cd_[K[7Cembox>
+�cd_[K[8Cembox>
+�cd_[K[9Cembox>
+�cd_[K[10Cembox>
+�cd_[K[11Cembox>
+�cd_[K[12Cembox>
+�cd_[K[13Cembox>
+�cd_[K[14Cembox>s
+�cd_[K[15Cembox>s�
+�cd_[K[16Cembox>s�
+�cd_[K[17C
+embox>
+
+
+tish error: #-22
+embox>
+gi`
+
+gi`: Command not found
+tish error: #-2
+embox>
+�ls`
+
+�ls`: Command not found
+tish error: #-2
+embox>
+��dembox>
+��d[K[11C�
+��d: Command not found
+tish error: #-2
+embox>
+lsp��embox>
+lsp��[K[6Cembox>
+lsp��[K[7Cembox>
+lsp��[K[8Cembox>
+lsp��[K[9Cembox>h
+lsp��[K[10Cembox>hl
+lsp��[K[11Cembox>hlo
+lsp��[K[12Cembox>hlog
+lsp��[K[13Cembox>hlogo
+lsp��[K[14Cembox>hlogou
+lsp��[K[15Cembox>hlogout
+lsp��[K[16Cembox>hlogoutt
+lsp��[K[17Cembox>hlogoutt�
+lsp��[K[18Cembox>hlogoutt�s
+lsp��[K[19C
+embox>
+A�pin
+A�pin: Command not found
+tish error: #-2
+embox>
+�
+
+tish error: #-22
+embox>
+�rss��
+
+�rss��: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cembox>
+[K[6Cembox>
+�rss��
+[K[14C@
+�rss��: Command not found
+tish error: #-2
+embox>
+@lcd
+
+@lcd: Command not found
+tish error: #-2
+embox>
+iV*
+iV*: Command not found
+tish error: #-2
+embox>
+���
+
+tish error: #-22
+embox>
+ t�;
+t�;: Command not found
+tish error: #-2
+embox>
+�`�
+t�;: Command not found
+tish error: #-2
+embox>
+Q
+`: Command not found
+tish error: #-2
+embox>
+lo`
+
+tish error: #-22
+embox>
+L
+L: Command not found
+tish error: #-2
+embox>
+��� 
+���: Command not found
+tish error: #-2
+embox>
+WW
+WW: Command not found
+tish error: #-2
+embox>
+cd�
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+W|��
+W|��: Command not found
+tish error: #-2
+embox>
+wdetport�Pfd�d
+`: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��ܺjo
+��ܺjo: Command not found
+tish error: #-2
+embox>
+n��
+n��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+`[H[H[2Js[?5h[?5l���[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�[H[2J__s)���[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+�__s)���: Command not found
+tish error: #-2
+embox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�[H[H[2J�slogout�[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�[H[2J�s
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

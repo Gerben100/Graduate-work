@@ -1,0 +1,148 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exi��
+exi: Command not found
+tish error: #-2
+embox>
+embox>exi[K[9Cembox>exi[K[6Cembox>exi[K[7Cembox>exi[K[8Cembox>exi[K[9Cembox>exi[K[10Cembox>exi[K[11Cembox>exi[K[6Cembox>exi[K[7Cembox>exi[K[8Cembox>exi[K[6Cembox>
+[K[7C
+tish error: #-22
+embox>
+���������������������embox>
+��������������������[K[27C
+��������������������: Command not found
+tish error: #-2
+embox>
+Jt�tembox>
+Jt�t[K[6Cembox>z
+Jt�t[K[7Cembox>zt
+Jt�t[K[8Cembox>ztt
+Jt�t[K[9Cembox>zttt
+Jt�t[K[10Cembox>ztttt
+Jt�t[K[11Cembox>zttttU
+Jt�t[K[12Cembox>zttttUt
+Jt�t[K[13Cembox>zttttUtt
+Jt�t[K[14Cembox>zttttUttt
+Jt�t[K[15Cembox>zttttUtttt
+Jt�t[K[16Cembox>zttttUttttt
+Jt�t[K[17Cembox>zttttUtttttc
+Jt�t[K[18Cembox>zttttUtttttcq
+Jt�t[K[19Cembox>zttttUtttttcqt
+Jt�t[K[20Cembox>zttttUtttttcq
+Jt�t[K[19C[?5h[?5lembox>zttttUtttttcq�
+Jt�t[K[20Cembox>zttttUtttttcq�t
+Jt�t[K[21Cembox>zttttUtttttcq�t
+Jt�t[K[22Cembox>zttttUtttttcq�t
+Jt�t[K[6Cembox>zzttttUtttttcq�t
+Jt�t[K[7Cembox>ztzttttUtttttcq�t
+Jt�t[K[8Cembox>ztzttttUtttttcq�t
+Jt�t[K[9Cembox>zt@zttttUtttttcq�t
+Jt�t[K[10Cembox>zt@tzttttUtttttcq�t
+Jt�t[K[11Cembox>zt@ttzttttUtttttcq�t
+Jt�t[K[12Cembox>zt@tttzttttUtttttcq�t
+Jt�t[K[13Cembox>zt@ttttzttttUtttttcq�t
+Jt�t[K[14Cembox>zt@tttttzttttUtttttcq�t
+Jt�t[K[15Cembox>zt@ttttttzttttUtttttcq�t
+Jt�t[K[16Cembox>zt@tttttttzttttUtttttcq�t
+Jt�t[K[17Cembox>zt@ttttttttzttttUtttttcq�t
+Jt�t[K[18Cembox>zt@tttttttttzttttUtttttcq�t
+Jt�t[K[19Cembox>zt@tttttttttczttttUtttttcq�t
+Jt�t[K[20Cembox>zt@tttttttttcqzttttUtttttcq�t
+Jt�t[K[21Cembox>zt@tttttttttcqtzttttUtttttcq�t
+Jt�t[K[22Cembox>zt@tttttttttcqzttttUtttttcq�t
+Jt�t[K[21C[?5h[?5l
+zt: Command not found
+tish error: #-2
+embox>
+e����embox>
+e���[K[11C��ulolsc
+e����: Command not found
+tish error: #-2
+embox>
+cdit$embox>
+cdit[K[11Cembox>
+cdit[K[11C
+cdit: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+����embox>
+cdit[K[11C���������������embox>
+cdit���������������embox>
+cdit���������������embox>
+cdit���������������
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls}d\
+ls}d\: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+clogoutd'
+clogoutd': Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�lll�itrogot�noitloEoro�ot�nogotlgotloE
+�lll�: Command not found
+tish error: #-2
+embox>o��
+o��: Command not found
+tish error: #-2
+embox>
+�llllllxitrogot�noitloEoro�ot�nogotlgotloE
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

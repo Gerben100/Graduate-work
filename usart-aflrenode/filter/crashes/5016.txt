@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�llogoutopembox>�llogoutop[K[16Cp�pNppp^vpA
+�llogoutopp�pNppp^vpA: Command not found
+tish error: #-2
+embox>
+�llogoutoA
+embox>�AAAAAAcbpxppqppppl�ppA
+embox>�AAAAAA
+�: Command not found
+tish error: #-2
+embox>cbpx cc�pembox>cbpx cc�p[K[6Cembox>pcbpx cc�p[K[7Cembox>pNcbpx cc�p[K[8Cembox>pNpcbpx cc�p[K[9Cembox>pNppcbpx cc�p[K[10Cembox>pNpppcbpx cc�p[K[11Cembox>pNppp^cbpx cc�p[K[12Cembox>pNppp^vcbpx cc�p[K[13Cembox>pNppp^vpcbpx cc�p[K[14Cembox>pNppp^vpAcbpx cc�p[K[15C
+pNppp^vpAcb: Command not found
+tish error: #-2
+embox>
+�llogoutop�qppppl�ppA
+embox>�AAA%AAAcbpxpcc�pxpNppp
+�AAA%AAAcb: Command not found
+tish error: #-2
+embox>^vpA
+^vpA: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+�llogoutoppqwpppl�pembox>
+�llogoutoppqwpppl�pembox>
+�llogoutoppqwpppl�pembox>
+�llogoutoppqwpppl�p
+embox>�AAAAAAAcbpxpcc�pxpNppp
+�AAAAAAAcb: Command not found
+tish error: #-2
+embox>^vpA
+^vpA: Command not found
+tish error: #-2
+embox>
+�llogoutopembox>[Kqpppxlsc�pxpNppp^vpA
+qpppxlsc�pxpNppp^vpA: Command not found
+tish error: #-2
+embox>
+�llogoutoppqppppt�l�poF,,=,,
+embox>�AAAAAAAcbpxpcc�p
+�AAAAAAAcb: Command not found
+tish error: #-2
+embox>xpNppp^vpA
+xpNppp^vpA: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+�lnogou p��8l
+�lnogou: Command not found
+tish error: #-2
+embox>
+�llogoutop�go��pp 
+embox>�AAAAAAAcbpxpcc�pxpN�pp
+�AAAAAAAcb: Command not found
+tish error: #-2
+embox>^vpA
+^vpA: Command not found
+tish error: #-2
+embox>
+�llogoutoppqpp�pl�ppA
+embox>�AAAAAAAcbpxc�pxp�
+embox>pt
+pt: Command not found
+tish error: #-2
+embox>^vpA
+^vpA: Command not found
+tish error: #-2
+embox>
+�Zlogo�toppqppq�AEAAAAAcbp{pcc�p@pNppp�p@pNppp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,72 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e�Rort
+e�Rort: Command not found
+tish error: #-2
+embox>
+_q_embox>
+_q[K[9C**
+_q**: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+_m�__�*,
+_m�__�*,: Command not found
+tish error: #-2
+embox>
+_d_embox>
+_d[K[9C**
+_d**: Command not found
+tish error: #-2
+embox>
+Kq�_M*
+Kq�_M*: Command not found
+tish error: #-2
+embox>
+_�_�A�6�s6@@embox>
+_�_�A�6�s6@@[K[19Ct��d@@?��@@@P@6 -�@@@P@@@@@?@@@@@?�
+_�_�A�6�s6@@t��d@@?��@@@P@6: Command not found
+tish error: #-2
+embox>���e�port��d
+embox>
+_�_�A�@�s6@@embox>
+_�_�A�@�s6@@[Kt��d@@?��@@@P@@ ��@@@P@@@@@?@@@@@?�
+_�_�A�@�s6@@t��d@@?��@@@P@@: Command not found
+tish error: #-2
+embox>���e�port��d
+embox>
+��]embox>[K[6Cd
+d: Command not found
+tish error: #-2
+embox>
+_��6�s6@@ot��d@I?��+��d
+_: Command not found
+tish error: #-2
+embox>
+_�_�A�6�s6@@embox>
+_�_�A�6�s6@@t��d@@?��@@@Pl?@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>?����e�port��d
+?: Command not found
+tish error: #-2
+embox>
+_�_�A�6�s6@@t��d@@?��@@@Pa@ ��@@@P'@@@@?@@@@@?�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

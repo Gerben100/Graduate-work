@@ -1,0 +1,48 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�n�it@�
+�n�it@�: Command not found
+tish error: #-2
+embox>
+A{7embox>�n�it@�[K[13C77eX�t7ls"7�cdembox>�n�it@�77eX�t7ls"7�cd[K[6Cembox> �n�it@�77eX�t7ls"7�cd[K[7Cembox> p�n�it@�77eX�t7ls"7�cd[K[8Cembox> po�n�it@�77eX�t7ls"7�cd[K[9Cembox> pos�n�it@�77eX�t7ls"7�cd[K[10Cembox> pos"�n�it@�77eX�t7ls"7�cd[K[11Cembox> pos"7�n�it@�77eX�t7ls"7�cd[K[12Cembox> pos"7�n�it@�77eX�t7ls"7�cd[K[13Cembox> pos"7��n�it@�77eX�t7ls"7�cd[K[14Cembox> pos"7��n�it@�77eX�t7ls"7�cd[K[15Cembox> pos"7�c�n�it@�77eX�t7ls"7�cd[K[16Cembox> pos"7�cd�n�it@�77eX�t7ls"7�cd[K[17Cembox> pos"7�cd�n�it@�77eX�t7ls"7�cd[K[6Cembox>t pos"7�cd�n�it@�77eX�t7ls"7�cd[K[7Cembox>tp pos"7�cd�n�it@�77eX�t7ls"7�cd[K[8Cembox>tpo pos"7�cd�n�it@�77eX�t7ls"7�cd[K[9Cembox>tpo� pos"7�cd�n�it@�77eX�t7ls"7�cd[K[10Cembox>tpo�p pos"7�cd�n�it@�77eX�t7ls"7�cd[K[11Cembox>tpo�p7 pos"7�cd�n�it@�77eX�t7ls"7�cd[K[12Cembox>tpo�p7" pos"7�cd�n�it@�77eX�t7ls"7�cd[K[13Cembox>tpo�p7"7 pos"7�cd�n�it@�77eX�t7ls"7�cd[K[14Cembox>tpo�p7"7 pos"7�cd�n�it@�77eX�t7ls"7�cd[K[15Cembox>tpo�p7"7� pos"7�cd�n�it@�77eX�t7ls"7�cd[K[16Cembox>tpo�p7"7� pos"7�cd�n�it@�77eX�t7ls"7�cd[K[17Cembox>tpo�p7"7�c pos"7�cd�n�it@�77eX�t7ls"7�cd[K[18Cembox>tpo�p7"7�cd pos"7�cd�n�it@�77eX�t7ls"7�cd[K[19Cembox>tpo�p7"7�cd pos"7�cd�n�it@�77eX�t7ls"7�cd[K[6Cembox>ttpo�p7"7�cd pos"7�cd�n�it@�77eX�t7ls"7�cd[K[7C
+ttpo�p7"7: Command not found
+tish error: #-2
+embox>7embox>ttpo�p7"7[K[15C7
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+a{7embox>��[K[8C77eXt7ls"7embox>[K[6Ccdembox>cd[K[6Cembox>tcd[K[7Cembox>tpcd[K[8Cembox>tpocd[K[9Cembox>tpowcd[K[10Cembox>tpowpcd[K[11Cembox>tpowp7cd[K[12Cembox>tpowp7"cd[K[13Cembox>tpowp7"7cd[K[14Cembox>tpowp7"7cd[K[15Cembox>tpowp7"7�cd[K[16Cembox>tpowp7"7�cd[K[17Cembox>tpowp7"7�ccd[K[18Cembox>tpowp7"7�cdcd[K[19Cembox>tpowp7"7�cdcd[K[6Cembox>ttpowp7"7�cdcd[K[7Cembox>t7tpowp7"7�cdcd[K[8Cembox>t7"tpowp7"7�cdcd[K[9Cembox>t7"7tpowp7"7�cdcd[K[10Cembox>t7"7'tpowp7"7�cdcd[K[11Cembox>t7"7'7tpowp7"7�cdcd[K[12Cembox>t7"7'77tpowp7"7�cdcd[K[13Cembox>t7"7'777tpowp7"7�cdcd[K[14Cembox>t7"7'7777tpowp7"7�cdcd[K[15Cembox>t7"7'77777tpowp7"7�cdcd[K[16Cembox>t7"7'777777tpowp7"7�cdcd[K[17Cembox>t7"7'777777^tpowp7"7�cdcd[K[18Cembox>t7"7'777777^7tpowp7"7�cdcd[K[19C
+t7"7'777777^7tpowp7"7: Command not found
+tish error: #-2
+embox>�P
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+A{7embox>��[K[8C77eX�t7ls"7�cdembox>��77eX�t7ls"7�cd[K[6Cembox>t��77eX�t7ls"7�cd[Kembox>t7��77eX�t7ls"7�cd[Kembox>t7"��77eX�t7ls"7�cd[Kembox>t7"7��77eX�t7ls"7�cd[Kembox>t7"77��77eX�t7ls"7�cdembox>t7"777��77eX�t7ls"7�cdembox>t7"7777��77eX�t7ls"7�cdembox>t7"77777��77eX�t7ls"7�cdembox>t7"777777��77eX�t7ls"7�cdembox>t7"777777o��77eX�t7ls"7�cdembox>t7"777777ou��77eX�t7ls"7�cdembox>t7"777777out��77eX�t7ls"7�cdembox>t7"777777out7��77eX�t7ls"7�cdembox>t7"777777out7"��77eX�t7ls"7�cdembox>t7"777777out7"7��77eX�t7ls"7�cdembox>t7"777777out7"7��77eX�t7ls"7�cdembox>t7"777777out7"7��77eX�t7ls"7�cdembox>t7"777777out7"7���77eX�t7ls"7�cdembox>t7"777777out7"7���77eX�t7ls"7�cdembox>t7"777777out7"7�c��77eX�t7ls"7�cdembox>t7"777777out7"7�cd��77eX�t7ls"7�cdembox>t7"777777out7"7�cd��77eX�t7ls"7�cdembox>tt7"777777out7"7�cd��77eX�t7ls"7�cdembox>tpt7"777777out7"7�cd��77eX�t7ls"7�cdembox>tpot7"777777out7"7�cd��77eX�t7ls"7�cdembox>tpo�t7"777777out7"7�cd��77eX�t7ls"7�cdembox>tpo�pt7"777777out7"7�cd��77eX�t7ls"7�cdembox>tpo�plt7"777777out7"7�cd��77eX�t7ls"7�cd
+tpo�plt7"777777out7"7: Command not found
+tish error: #-2
+embox>og7777�P
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+AMM\{7embox>��77et7]s"7�cdembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

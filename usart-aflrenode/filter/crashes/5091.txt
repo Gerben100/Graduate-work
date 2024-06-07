@@ -1,0 +1,141 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+B:xiBBBBKBBembox>
+B:xiBBBBKBB[K[18Cembox>
+B:xiBBBBKBB[K[19Cembox>
+B:xiBBBBKB�B[K[20Cembox>
+B:xiBBBBKB�yB[K[21C
+B:x: Command not found
+tish error: #-2
+embox>
+B:wڀ���
+embox>embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[7Cembox>[K[8Cembox>�[K[9Cembox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>�[K[7Cembox>�[K[8Cembox>��[K[9Cembox>�y�[K[10C
+embox>
+embox>
+[K[7Cembox>[K[6Cembox>[K[6C
+embox>
+B::xiexitiaembox>
+B::xiexitia[K[19Cembox>
+B::xiexitia[K[20C
+B::x: Command not found
+tish error: #-2
+embox>
+exporwembox>
+expor[K[12C����
+expor�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>p
+[K[7Cembox>po
+[K[8Cembox>pow
+[K[9Cembox>powt
+[K[10Cembox>pow
+[K[9Cembox>pow
+[K[10Cembox>pow
+[K[11Cembox>pow[K[11Cembox>pow�[K[12Cembox>pow��[K[13Cembox>pow��[K[14Cembox>pow���[K[15C
+pow: Command not found
+tish error: #-2
+embox>
+expo[uembox>
+expo[[K[12C����
+expo[: Command not found
+tish error: #-2
+embox>
+�ebit
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�d�
+�d�: Command not found
+tish error: #-2
+embox>
+xit�logout
+xit�logout: Command not found
+tish error: #-2
+embox>
+xembox>
+[K�XRnr��@l�cd���
+�XRnr��: Command not found
+tish error: #-2
+embox>
+e�T[?5h[?5lt�
+e�T[?5h[?5lt�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e@
+e@: Command not found
+tish error: #-2
+embox>
+ex�[H[H[2J�pin���
+ex��: Command not found
+tish error: #-2
+embox>
+e�z{3��
+embox> {3��
+embox> pi
+tish error: #-22
+embox>
+eexit�{-
+eexit: Command not found
+tish error: #-2
+embox>
+exp��
+embox>�3��
+embox> &o�{��
+embox> p
+tish error: #-22
+embox>
+exp{���� p{3��
+embox> pj
+tish error: #-22
+embox>
+exr[?5h[?5l��J��
+embox> p
+embox> x�[n�{3��
+embox> pi3 
+�: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+embox>
+embox>�
+embox>  Qi3�� pi
+tish error: #-22
+embox>
+expexport{3�.
+embox> p{3��
+embox> pi
+tish error: #-22
+embox>
+e�����������ɪ���lsxL
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

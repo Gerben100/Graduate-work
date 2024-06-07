@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>h�0
+embox>
+hNembox>
+hN[K[9C�t
+hN: Command not found
+tish error: #-2
+embox>
+h@�tt
+h@: Command not found
+tish error: #-2
+embox>
+h@@
+h@@: Command not found
+tish error: #-2
+embox>
+h
+h: Command not found
+tish error: #-2
+embox>
+hNembox>
+hN[K[9C�~
+hN�~: Command not found
+tish error: #-2
+embox>
+h@t
+h@t: Command not found
+tish error: #-2
+embox>
+\@�z��
+\@: Command not found
+tish error: #-2
+embox>
+h-�[?5h[?5l
+embox>i�embox>i�[K[7Cembox>i�[K[8Cembox>i��[K[9Cembox>i�y�[K[10Cembox>i�yu�[K[11Cembox>i�yui�[K[12Cembox>i�yui��[K[13Cembox>i�yui�f�[K[14Cembox>
+\@[K[9C�embox>
+\@[K[9Cuiyembox>i[K[7C�P@@ ��@@@P@@@@@?@@y��e�
+i: Command not found
+tish error: #-2
+embox>
+hembox>
+h[K[6Cembox>
+h[K[7Cembox>i
+h[K[8Cembox>i�
+h[K[9Cembox>i�
+h[K[8Cembox>ie�
+h[K[9Cembox>iex�
+h[K[10Cembox>iexi�
+h[K[11Cembox>iexig�
+h[K[12Cembox>iexigi�
+h[K[13Cembox>iexigi��
+h[K[14Cembox>iexigi�f�
+hembox>i[K[7C�embox>i[K[7Cui�embox>iui�[K[9Cembox>iui�[K[10Cembox>iui��[K[11Cembox>iui�y�[K[12Cembox>iui�y��[K[13Cembox>iui�y�i�[K[14Cembox>iui�y�i��[K[15Cembox>iui�y�i�e�[K[16Cembox>iui�y�i�e��[K[17C
+iui: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+h��embox>
+h�[Kui�embox>[K[11Cembox>[K[12C
+embox>yui�ecdembox>
+�[K�embox>
+�[Kui�embox>
+�ui�[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>iui�embox>iui
+iui: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+hui��ui�
+ui: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+h|i��yexit�T
+embox>�&bj�els���
+embox>
+_�ui���yui�f�uillll�
+uillll: Command not found
+tish error: #-2
+embox>
+exino
+exino: Command not found
+tish error: #-2
+embox>
+h
+��i�e�: Command not found
+tish error: #-2
+embox>
+"
+(null): Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[23;80H ݀
+exid �ex_dexid 
+[23;80H ݀
+exid: Command not found
+tish error: #-2
+embox>
+�
+embox>
+�������������iiƊ����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

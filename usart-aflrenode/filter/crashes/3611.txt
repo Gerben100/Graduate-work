@@ -1,0 +1,68 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>n
+n: Command not found
+tish error: #-2
+embox>
+ ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ
+: Command not found
+tish error: #-2
+embox>
+qsn
+qsn: Command not found
+tish error: #-2
+embox>
+ÔøΩd
+ÔøΩd: Command not found
+tish error: #-2
+embox>
+@ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ
+tish error: #-22
+embox>
+tÔøΩtninGxin
+tÔøΩtninGxin: Command not found
+tish error: #-2
+embox>
+embox>
+tÔøΩtninGxin[K[17Cembox>
+[K[7CÔøΩ
+tish error: #-22
+embox>
+UUUUUUUpUU8UUUUUUembox>
+UUUUUUUpUU8UUUUUYUUUUUUUUUUUUUUUsU
+UUUUUUUpUU8UUUUUYUUUUUUUUUUUUUUUsU: Command not found
+tish error: #-2
+embox>
+sgxtortoOÔøΩoOÔøΩlt
+sgxtortoOÔøΩoOÔøΩlt: Command not found
+tish error: #-2
+embox>
+ÔøΩ`s\
+ÔøΩ`s\: Command not found
+tish error: #-2
+embox>
+eVpzn
+tish error: #-22
+embox>
+ÔøΩ
+ÔøΩ: Command not found
+tish error: #-2
+embox>
+~ÔøΩ˜èèèÔøΩÔøΩÔøΩÔøΩexpopinrt6rÔøΩ6:5[?5h[?5l@c6logoutElogr@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,196 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x
+embox>embox>[K[6C%i�'ogou
+%i�'ogou: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Coogou
+oogou: Command not found
+tish error: #-2
+embox>
+Ao[H[H[2Jembox>
+Ao[K[10Cembox>
+Ao[K[6C
+Ao: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>
+Ao[K[10C� o�g[
+Ao�: Command not found
+tish error: #-2
+embox>
+xlogout {go�
+xlogout: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Cembox>
+x[K[7Cembox>
+x[K[8Cembox>
+x[K[9Cembox>
+x[K[10Cembox>
+�x[K[11Cembox>
+� x[K[12Cembox>
+� �x[K[13Cembox>
+� �jx[K[14Cembox>
+� �jjx[Kembox>
+� �jjjx[Kembox>
+� �jjjjx[Kembox>
+� �jjjjtx[Kembox>
+� �jjjjtjx[K[19Cembox>
+� �jjjjtjjx[K[20Cembox>
+� �jjjjtjjjx[K[21Cembox>
+� �jjjjtjjjjx[K[22Cembox>
+� �jjjjtjjjjjx[Kembox>
+� �jjjjtjjjjjjx[Kembox>
+� �jjjjtjjjjjjjx[Kembox>
+� �jjjjtjjjjjjjjx[Kembox>
+� �jjjjtjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoxembox>
+� �jjjjtjjjjjjjjjjjjjjoexembox>
+� �jjjjtjjjjjjjjjjjjjjoe�xembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjjxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjjJxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjjJxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjJxembox>
+� �jjjjtjjjjjjjjjjjjjjoe�jjjjjjjjjjjjjJx
+tish error: #-22
+embox>� �jjjjtjjjjjjjjjjjjjoe�
+embox>embox>[K[6C[?5h[?5li�
+embox>embox>[K[6C[?5h[?5li� oex�tohou
+[?5h[?5li�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>��
+embox>��
+embox>��
+embox>���
+embox>����
+
+����: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>e
+embox>ex
+embox>exp
+embox>expo
+embox>[Kembox>[Kembox>[Kembox>[K
+export: Command not found
+tish error: #-2
+embox>
+@@
+@@������: Command not found
+tish error: #-2
+embox>
+@dO@
+@dO@: Command not found
+tish error: #-2
+embox>
+@m
+@@������m: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+sl
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+@O
+@@������O: Command not found
+tish error: #-2
+embox>
+�pVrt�
+pVrt�: Command not found
+tish error: #-2
+embox>
+3dO
+3dO: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+e
+tish error: #-22
+embox>
+`l�#pi�4###0####"#
+embox>expor
+expor: Command not found
+tish error: #-2
+embox>
+r
+r: Command not found
+tish error: #-2
+embox>
+`l�#pi�5##|`)#0####"#
+embox>##[H[H[2J#expor
+###expor: Command not found
+tish error: #-2
+embox>
+_##"r�A#���������������������������`l�#pe
+_##"r�: Command not found
+tish error: #-2
+embox>
+embox>
+`l�#pi�4###0"#
+embox>�por
+�por: Command not found
+tish error: #-2
+embox>
+`l�#pi�G�
+embox>#0###"#
+embox>expor
+expor: Command not found
+tish error: #-2
+embox>
+`l�#pi�4i�4##"�3###"
+embox>�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

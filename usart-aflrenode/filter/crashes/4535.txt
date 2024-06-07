@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>�[K[7Cembox>�c[K[8Cembox>�c�[K[9Cembox>�c�d[K[10Cembox>�c�dx[K[11Cembox>�c�dxl[K[12Cembox>�c�dxlo[K[13Cembox>�c�dxlo[K[14Cembox>�c�dxlo�[K[15Cembox>�c�dxlo�@[K[16Cembox>�c�dxlo�@P[K[17Cembox>�c�dxlo�@PP[K[18Cembox>�c�dxlo�@PPP[K[19Cembox>�c�dxlo�@PPPP[K[20Cembox>�c�dxlo�@PPPPP[K[21Cembox>�c�dxlo�@PPPPPP[K[22Cembox>�c�dxlo�@PPPPPPP[K[23Cembox>�c�dxlo�@PPPPPPPP[K[24Cembox>�c�dxlo�@PPPPPPPPP[K[25Cembox>�c�dxlo�@PPPPPPPPP�[K[26Cembox>�c�dxlo�@PPPPPPPPP�P[K[27Cembox>�c�dxlo�@PPPPPPPPP�PP[K[28Cembox>�c�dxlo�@PPPPPPPPP�PPP[K[29Cembox>�c�dxlo�@PPPPPPPPP�PPPP[K[30Cembox>�c�dxlo�@PPPPPPPPP�PPPPP[K[31Cembox>�c�dxlo�@PPPPPPPPP�PPPPPP[K[32Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPP[K[33Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPP[K[34Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPP[K[35Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP[K[36Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�[K[37Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P[K[38Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�[K[39Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�P[K[40Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PP[K[41Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPP[K[42Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPP[K[43Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPP[K[44Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPP[K[45Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPP[K[46Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPPP[K[47Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPPPP[K[48Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPPPPP[K[49Cembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPPPPP[Kembox>�c�dxlo�@PPPPPPPPP�PPPPPPPPPP�P�PPPPPPPPPP�[K[51C
+�c�dxlo: Command not found
+tish error: #-2
+embox>PPPP
+PPPP: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>P
+[K[7Cembox>P�
+[K[8Cembox>P�c
+[K[9Cembox>P�c�
+[K[10Cembox>P�c�d
+[K[11Cembox>P�c�dx
+[K[12Cembox>P�c�dxl
+[K[13Cembox>P�c�dxlo
+[K[14Cembox>P�c�dxlo
+[K[15Cembox>P�c�dxlo�
+[K[16Cembox>P�c�dxlo�@
+[K[17Cembox>P�c�dxlo�@e
+[K[18Cembox>P�c�dxlo�@ei
+[K[19Cembox>P�c�dxlo�@ei�
+[K[20Cembox>P�c�dxlo�@ei�
+[K[19Cembox>P�c�dxlo�@ei�
+[K[20Cembox>P�c�dxlo�@ei��
+[K[21Cembox>P�c�dxlo�@ei���
+[K[22Cembox>P�c�dxlo�@ei���
+[K[23Cembox>P�c�dxlo�@ei���
+[K[24Cembox>P�c�dxlo�@ei��|�
+[K[25Cembox>P�c�dxlo�@ei��|p�
+[K[26Cembox>P�c�dxlo�@ei��|pd�
+[K[27Cembox>P�c�dxlo�@ei��|pdd�
+[K[28Cembox>P�c�dxlo�@ei��|pddn�
+[K[29Cembox>P�c�dxlo�@ei��|pddne�
+[K[30Cembox>P�c�dxlo�@ei��|pddneP�
+[K[31Cembox>P�c�dxlo�@ei��|pddnePP�
+[K[32Cembox>P�c�dxlo�@ei��|pddnePPP�
+[K[33C
+P�c�dxlo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>P�c�dxlo[K[14C�c�dx PPembox>PPPP[K[10C�Pp�PPPlo�@PP PPPPPPP4Pembox>�c�dxlo[K[13C�PPPPP
+�c�dxlo�P: Command not found
+tish error: #-2
+embox>
+P:Pjjd<APPPPPPPPPPPPembox>
+P:Pjjd<APPPPPPPPPPPP[K[31CEPPP
+P:Pjjd<: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+P:Pjjd<[K[15C�c�dxlh�@PPPPpinPPembox>�c�dxlo�P[K[15C�embox>�c�dxlo�P[K[15CPPPPPP�PPPPPPembox>P�c�dxlo�c�dx PP[K[22C�PPPPP�PPP
+P�c�dxlo�c�dx: Command not found
+tish error: #-2
+embox>P�PPPP
+P: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�d
+[K[9Cembox>�dx
+[K[10Cembox>�dxl
+[K[11Cembox>�dxlo
+[K[12Cembox>�dxlo�
+[K[13Cembox>�dxlo��
+[K[14Cembox>�dxlo��@
+[K[15Cembox>�dxlo��@P
+[K[16Cembox>P[K[7CPPOlP�ogouW<PPs�l�PPP
+PPPOlP: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>PPPOlP[K[12C���dxlo�@PdPPPPPPPPPPembox>P[K�PPPPPPPPPP�PPPP
+P�PPPPPPPPPP: Command not found
+tish error: #-2
+embox>
+�c�exportdxlo�@PPPPPPP�PPPPPPPPPPPP�PPPPPP
+P�PPPPPP: Command not found
+tish error: #-2
+embox>PPPP�PPPP
+PPPP: Command not found
+tish error: #-2
+embox>
+�c�dxlo�@PPPPPPPPP�P�PPPPPPPPPP�PPPPPPPPPP�
+P�PPPPPPPPPP: Command not found
+tish error: #-2
+embox>PPPP
+PPPP: Command not found
+tish error: #-2
+embox>
+�c�dxlo�@PPPPPPPPP�PPPPPPPPP[PP�PPPPPPPPPP�
+�PPPPPPPPP[PP�PPPPPPPPPP: Command not found
+tish error: #-2
+embox>PPPP
+PPPP: Command not found
+tish error: #-2
+embox>
+�lLPou
+P�PPPPPPPPPP�c�dxlo�lLPou: Command not found
+tish error: #-2
+embox>
+�Q��Q�n�n
+tish error: #-22
+embox>
+�Q�n
+embox>
+@embox>
+@[K[6Cembox>
+@[K[7Cembox> 
+@[K[8Cembox> �
+@[K[9Cembox> �
+@[K[10Cembox> ��
+@[K[11Cembox> ��
+@[K[12Cembox> ��
+@[K[13C
+embox>
+�p�������expo�t�i�
+embox>V1
+V1: Command not found
+tish error: #-2
+embox>
+�������������������d����������Q
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

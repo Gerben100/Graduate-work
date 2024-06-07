@@ -1,0 +1,42 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>}}Re�xi�w��6�embox>}}Re�xi�w��6[K[18C@@D@:P@@1#��
+embox>@H\@@@@1#�embox>@H\@@@@1#[K[17C@@@@@@@?
+embox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?: Command not found
+tish error: #-2
+embox>
+}}Re�xiembox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?[K[40Cw��6�embox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?w��6[K[44C@@@logout@H\@��@@@.s@D@:P@@@#���
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?w��6@@@logout@H\@��@@@.s@D@:P@@@#���: Command not found
+tish error: #-2
+embox>@H\@A��embox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@?[K[40Cembox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@[K[39C�ut@H\@��@@@@s@D@:P@@1#�embox>
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@�ut@H\@��@@@@s@D@:P@@1#@@`@@@@?
+}}@@Ittt@@@@@@A@A?j��t1tRtt�/�@�ut@H\@��@@@@s@D@:P@@1#@@`@@@@?: Command not found
+tish error: #-2
+embox>
+}}Re�xi�w��6�embox>
+}}Re�xi�w��6[K[20C@@@logout@H\@��@@@@s@D@:P@@1#��
+embox>
+embox>@H\@@��embox>[K[71Cembox>[K[70C�ut@H\@��embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

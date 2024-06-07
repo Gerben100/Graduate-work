@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>t�lsembox>t�ls[K[10C�xlogout
+t�ls�xlogout: Command not found
+tish error: #-2
+embox>
+�^i�����tttt~t�ztexitt�embox>
+�^i�����tttt~t�ztexitt�[K[6Cembox>
+�^i�����tttt~t�ztexitt�[K[7Cembox>
+�^i�����tttt~t�ztexitt�[K[8Cembox>t
+�^i�����tttt~t�ztexitt�[K[9Cembox>t�
+�^i�����tttt~t�ztexitt�[K[10Cembox>t��
+�^i�����tttt~t�ztexitt�[K[11Cembox>t��t
+�^i�����tttt~t�ztexitt�[K[12Cembox>t��tt
+�^i�����tttt~t�ztexitt�[K[13Cembox>t��ttt
+�^i�����tttt~t�ztexitt�[K[14Cembox>t��tttt
+�^i�����tttt~t�ztexitt�[K[15Cembox>t��ttttt
+�^i�����tttt~t�ztexitt�[K[16Cembox>t��tttttt
+�^i�����tttt~t�ztexitt�[K[17Cembox>t��ttttttt
+�^i�����tttt~t�ztexitt�[K[18Cembox>t��tttttttt
+�^i�����tttt~t�ztexitt�[K[19Cembox>t��ttttttttt
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t�
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t��
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t���
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t���t
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t���
+�^i�����tttt~t�ztexitt�[K[H[H[2Jembox>t��ttttttttt�t���
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t���
+�^i�����tttt~t�ztexitt�[Kembox>t��ttttttttt�t����
+�^i�����tttt~t�ztexitt�[K[27C
+embox>ttttttttt~t�ztembox>t�ls�xlogout[K[18Ct�embox>t�ls�xlogoutt�[K[6Cembox>t�ls�xlogoutt�[K[7Cembox>t�ls�xlogoutt�[K[8Cembox>tt�ls�xlogoutt�[K[9Cembox>t�t�ls�xlogoutt�[K[10Cembox>t��t�ls�xlogoutt�[K[11Cembox>t��tt�ls�xlogoutt�[K[12Cembox>t��ttt�ls�xlogoutt�[K[13Cembox>t��tttt�ls�xlogoutt�[K[14Cembox>t��ttttt�ls�xlogoutt�[K[15Cembox>t��tttttt�ls�xlogoutt�[K[16Cembox>t��ttttttt�ls�xlogoutt�[K[17Cembox>t��tttttttt�ls�xlogoutt�[K[18Cembox>t��ttttttttt�ls�xlogoutt�[K[19Cembox>t��tttttttttt�ls�xlogoutt�[K[20Cembox>t��ttttttttt�t�ls�xlogoutt�[K[21Cembox>t��ttttttttt�tt�ls�xlogoutt�[K[22Cembox>t��ttttttttt�t}t�ls�xlogoutt�[K[23Cembox>t��ttttttttt�t}�t�ls�xlogoutt�[K[24Cembox>t��ttttttttt�t}�tt�ls�xlogoutt�[K[25Cembox>t��ttttttttt�t}�ttt�ls�xlogoutt�[K[26Cembox>t��ttttttttt�t}�tttt�ls�xlogoutt�[K[27Cembox>t��ttttttttt�t}�ttt�t�ls�xlogoutt�[K[28Cembox>t��ttttttttt�t}�ttt�[K[28C�xlo
+embox>gout
+gout: Command not found
+tish error: #-2
+embox>
+�x�xi�������tlsttttttttttttttt�ttttt��ttttttttttt
+�x�xi�������tlsttttttttttttttt�ttttt��ttttttttttt: Command not found
+tish error: #-2
+embox>t�t�t�embox>t�t�t�[K[12C�xgout
+t�t�t��xgout: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��tlsttt
+��tlsttt: Command not found
+tish error: #-2
+embox>
+�ytembox>
+��tlsttt[Kpintt��ctQ��tt�[H[H[2Jembox>[K[30Cembox>[K[30Cxlogout
+��tlstttpintt��ctQ��tt�xlogout: Command not found
+tish error: #-2
+embox>
+�dgout
+�dgout: Command not found
+tish error: #-2
+embox>
+x�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+x�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@e
+@@@@@5: Command not found
+tish error: #-2
+embox>
+�tlsttttttttttttttt�ttttt��tttttttttt�ttt��xlog
+@@@@@5: Command not found
+tish error: #-2
+embox>out
+out: Command not found
+tish error: #-2
+embox>
+ut
+ut: Command not found
+tish error: #-2
+embox>
+�xi������kstkttgttttttgxi�exit��tkstkttgtout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

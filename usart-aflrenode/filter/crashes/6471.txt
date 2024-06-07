@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�C
+�C: Command not found
+tish error: #-2
+embox>
+�uxX
+�uxX: Command not found
+tish error: #-2
+embox>
+XX�c
+XX�c: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+���fexit���edX
+tish error: #-22
+embox>
+eeeeeexporteeeeeeeeeeeeeeeeeeeereeeeeeeeedxportembox>
+[K[7Ce
+e: Command not found
+tish error: #-2
+embox>eeeeeeeeeeeeembox>eeeeeeeeeeee[K[6Cembox>eeeeeeeeeeeee[K[7Cembox>eeeeeeeeeeeeee[K[8Cembox>eeeeeeeeeeeeeee[K[9Cembox>eeeeeeeeeeeeeeee[K[10Cembox>eeeereeeeeeeeeeee[K[11Cembox>eeeer\eeeeeeeeeeee[K[12Cembox>eeeer\�eeeeeeeeeeee[K[13Cembox>eeeer\�eeeeeeeeeeeee[K[14Cembox>eeeer\�eeeeeeeeeeeeee[K[15Cembox>eeeer\�eeeeeeeeeeeeeee[K[16Cembox>eeeer\�eeeeeeeeeeeeeeee[K[17Cembox>eeeer\�eeeeeeeeeeeeeeeee[K[18Cembox>eeeer\�eeeeeeeeeeeeeeeee[K[19Cembox>eeeer\�eeeee�eeeeeeeeeeee[K[20Cembox>eeeer\�eeeee�eeeeeeeeeeeee[K[21Cembox>eeeer\�eeeee�eeeeeeeeeeeeee[K[22Cembox>eeeer\�eeeee�eeeeeeeeeeeeeee[K[23Cembox>eeeer\�eeeee�eeeeeeeeeeeeeeee[K[24Cembox>eeeer\�eeeee�eeeeeeeeeeeeeeeee[K[25Cembox>eeeer\�eeeee�eeeeeeeeeeeeeeeeee[K[26Cembox>eeeer\�eeeee�eeeeee@eeeeeeeeeeee[K[27Cembox>eeeer\�eeeee�eeeeee@eeeeeeeeeeee[K[28Cembox>eeeer\�eeeee�eeeeee@eeeeeeeeeeeee[K[29Cembox>eeeer\�eeeee�eeeeee@e�eeeeeeeeeeee[K[30Cembox>eeeer\�eeeee�eeeeee@e�eeeeeeeeeeeee[K[31Cembox>eeeer\�eeeee�eeeeee@e�eVeeeeeeeeeeee[K[32Cembox>eeeer\�eeeee�eeeeee@e�eVXeeeeeeeeeeee[K[33C
+eeeer\�eeeee: Command not found
+tish error: #-2
+embox>
+��exX����
+��exX����: Command not found
+tish error: #-2
+embox>
+���exX
+���exX: Command not found
+tish error: #-2
+embox>
+���g�embox>
+���exX[K[13Cembox>
+���ex[K[12C�@X
+���ex�@X: Command not found
+tish error: #-2
+embox>
+embox>[Kembox>[Kembox>[Kembox>X[Kembox>X[Kembox>[K[10Cembox>[K[6Cembox>[K[7Cembox>[K[8C
+embox>
+�dX
+�dX: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�export�@�kl
+�export�: Command not found
+tish error: #-2
+embox>
+�
+l: Command not found
+tish error: #-2
+embox>
+���l
+��l: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+embox>
+l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+�export�: Command not found
+tish error: #-2
+embox>
+l[?5h[?5lin
+lin: Command not found
+tish error: #-2
+embox>
+���l
+���: Command not found
+tish error: #-2
+embox>
+
+embox>
+p�B��l
+p�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+������x�f
+�����x�f: Command not found
+tish error: #-2
+embox>
+�
+��dlogoucd: Command not found
+tish error: #-2
+embox>
+����p�f
+����p�f: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+
+�export�: Command not found
+tish error: #-2
+embox>
+�ppp
+embox> pccpf
+pcc: Command not found
+tish error: #-2
+embox>
+��������
+embox>
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+[H[H[2J
+tish error: #-22
+embox>
+�2�2�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

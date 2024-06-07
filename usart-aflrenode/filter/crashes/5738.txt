@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xu
+�xu: Command not found
+tish error: #-2
+embox>
+�$
+�$: Command not found
+tish error: #-2
+embox>
+exit
+tish error: #-22
+embox>
+x
+
+tish error: #-22
+embox>
+x]
+tish error: #-22
+embox>
+xe�
+xe�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ppiin
+tish error: #-22
+embox>
+(xe4
+tish error: #-22
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+export
+export: Command not found
+tish error: #-2
+embox>
+�bbbbbbbbbbbbb5
+�bbbbbbbbbbbbb5: Command not found
+tish error: #-2
+embox>
+l��
+l��: Command not found
+tish error: #-2
+embox>
+r�
+l��: Command not found
+tish error: #-2
+embox>
+��`M_
+io�: Command not found
+tish error: #-2
+embox>
+l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lo
+lo: Command not found
+tish error: #-2
+embox>
+lt
+l: Command not found
+tish error: #-2
+embox>
+l�
+l: Command not found
+tish error: #-2
+embox>
+k�
+io�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+{�log�
+{�log�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+U�U��
+U�U��: Command not found
+tish error: #-2
+embox>
+A�66@@���@@@@@@@@@?@@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>��@@@@@@@@@?@@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>@@�@@@@@@@?@@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>@@���@@@@@?@@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>@@���@@@@@@@@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>@@���@@@@@@@@@?@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@\@@ees
+@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls>@@���@@@@@@@@@?@@o@@�@@@@?�@@?@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

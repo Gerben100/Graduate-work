@@ -1,0 +1,149 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>R�
+R�: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>@
+R[K[7Cembox>@@
+R[K[8Cembox>@@?
+R[K[9Cembox>@@?@
+R[K[10Cembox>@@?@\
+R[K[11Cembox>@@?@\@
+R[K[12Cembox>@@?@\@@
+R[K[13Cembox>@@?@\@@N
+R[K[14Cembox>@@?@\@@N#
+R[K[15Cembox>@@?@\@@N#
+R[K[16Cembox>@@?@\@@N#
+R[K[17Cembox>@@?@\@@N#
+R[K[18Cembox>@@?@\@@N#
+R[K[19C
+@@?@\@@N#: Command not found
+tish error: #-2
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>a
+R[K[7Cembox>ax
+R[K[8Cembox>axi
+R[K[9Cembox>axit
+R[K[10Cembox>axit#
+R[K[11Cembox>axit#
+R[K[12Cembox>axit#
+R[K[13Cembox>axit#
+R[K[14Cembox>axit#e
+R[K[15Cembox>axit#ex
+R[K[16Cembox>axit#exi
+R[K[17Cembox>axit#exit
+R[K[18Cembox>axit#exit
+R[K[19C
+axit#: Command not found
+tish error: #-2
+embox>
+�dembox>axit#[K[11C�w�dembox>axit#�w�d[K[16C�w�
+embox>
+embox>
+Rembox>
+R[K[6Cembox>[K[6C�w��
+embox>embox>[K[6Cw�
+embox>
+embox>
+embox>
+[K[6Cembox>[K[6C�w���w���
+embox>embox>[K[6C
+embox>
+Rembox>
+R[K[6Cembox>[K[6C�w��
+embox>embox>[K[6C�v�
+embox>
+embox>
+Rembox>
+R[K[9Cembox>
+R[K[8C���
+embox>embox>[K[6C�w�
+embox>
+embox>
+Rembox>
+R[K[9C
+embox>�e�itw�
+�e�itw�: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>[K[6Cembox>[K[6C�w�
+embox>
+embox>
+Rembox>
+R[K[6Cembox>[K[6C�w��exporr
+embox>
+embox>
+Bembox>
+B[K[9C�w���w�embox>
+B�w���w�[K[18C�w��
+embox>�
+embox>�
+embox>
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[7C�w��embox>��w��[K[13C�l�embox>
+R[K[8C
+R: Command not found
+tish error: #-2
+embox>
+y�i
+y�i: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>�
+R[K[7Cembox>�W
+R[K[8Cembox>�W`
+R[K[9Cembox>�W`�
+R[K[10C
+embox>t# ...F...embox>t# ...F..[K[16C�embox>[K[6C...Q
+...Q: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>#
+R[K[7Cembox>[K[6Cce6�
+ce6�: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[Kembox>#
+R[Kembox>#
+R[Kembox>#.
+R[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K....
+....: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+W.�YYYMYYYYYYYYYYYuY...
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

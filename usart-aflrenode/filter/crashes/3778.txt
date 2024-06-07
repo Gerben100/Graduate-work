@@ -1,0 +1,250 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>N
+N: Command not found
+tish error: #-2
+embox>
+_�
+_�: Command not found
+tish error: #-2
+embox>
+d���embox>
+d���[K[6Cembox>
+d���[K[7C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[10Cembox>
+���[K[11Cembox>
+���[K[12C
+�: Command not found
+tish error: #-2
+embox>
+�p@��@�S@U?e�p@�pPrtembox>
+�p@��@�S@U?e�p@�pPrt[K[6Cembox>�
+�p@��@�S@U?e�p@�pPrt[K[7Cembox>�"
+�p@��@�S@U?e�p@�pPrt[K[8C
+�": Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�A
+[K[8Cembox>�A�
+[K[9Cembox>�A�6
+[K[10Cembox>�A�66
+[K[11Cembox>�A�665
+[K[12Cembox>�A�665l
+[K[13Cembox>�A�665ls
+[K[14Cembox>�A�665ls6
+[K[15Cembox>�A�665ls6e
+[K[16Cembox>�A�665ls6ee
+[K[17Cembox>�A�665ls6ee
+[K[18Cembox>�A�665ls6ee
+[K[17Cembox>�A�665ls6ee�
+[K[18Cembox>�A�665ls6ee�p
+[K[19Cembox>�A�665ls6ee�pi
+[K[20Cembox>�A�665ls6ee�pin
+[K[21Cembox>�A�665ls6ee�pin@
+[K[22Cembox>�A�665ls6ee�pin@@
+[K[23Cembox>�A�665ls6ee�pin@@@
+[K[24Cembox>�A�665ls6ee�pin@@@@
+[K[25Cembox>�A�665ls6ee�pin@@@@@
+[K[26Cembox>�A�665ls6ee�pin@@@@@@
+[K[27Cembox>�A�665ls6ee�pin@@@@@@@
+[K[28Cembox>�A�665ls6ee�pin@@@@@@@.
+[K[29Cembox>�A�665ls6ee�pin@@@@@@@.@
+[K[30Cembox>�A�665ls6ee�pin@@@@@@@.@@
+[K[31Cembox>�A�665ls6ee�pin@@@@@@@.@@o
+[K[32Cembox>�A�665ls6ee�pin@@@@@@@.@@o@
+[K[33Cembox>�A�665ls6ee�pin@@@@@@@.@@o@
+[K[34Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[35Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[36Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[6Cembox>@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[7Cembox>@��A�665ls6ee�pin@@@@@@@.@@o@e
+[K[8Cembox>@�@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[9Cembox>@�@@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[10Cembox>@�@@@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[11Cembox>@�@@@@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[12Cembox>@�@@@@Z�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[13Cembox>@�@@@@Z�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[14Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[6Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[7Cembox>�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[8Cembox>+�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[9Cembox>+@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[10Cembox>+@?�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[11Cembox>+@?@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[12Cembox>+@?@@�A�665ls6ee�pin@@@@@@@.@@o@e
+[K[13C
+embox>@@@@@@@@@\@@embox>@@@@@@@@@\@@[K[6C[?5h[?5lembox>e@@@@@@@@@\@@[K[7C
+e@@@@@@@@@\@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�A
+[K[8Cembox>�A�
+[K[9Cembox>�A�7
+[K[10Cembox>�A�76
+[K[11Cembox>�A�765
+[K[12Cembox>�A�765l
+[K[13Cembox>�A�765ls
+[K[14Cembox>�A�765ls6
+[K[15Cembox>�A�765ls6@
+[K[16Cembox>�A�765ls6@@
+[Kembox>�A�765ls6@@
+[Kembox>�A�765ls6@@
+[Kembox>�A�765ls6@@�
+[Kembox>�A�765ls6@@��
+[K[19Cembox>�A�765ls6@@��@
+[K[20Cembox>�A�765ls6@@��@@
+[K[21Cembox>�A�765ls6@@��@@@
+[K[22Cembox>�A�765ls6@@��@@@@
+[Kembox>�A�765ls6@@��@@@@@
+[Kembox>�A�765ls6@@��@@@@@@
+[Kembox>�A�765ls6@@��@@@@@@@
+[Kembox>�A�765ls6@@��@@@@@@@@
+embox>�A�765ls6@@��@@@@@@@@6
+embox>�A�765ls6@@��@@@@@@@@6d
+embox>�A�765ls6@@��@@@@@@@@6d@
+embox>�A�765ls6@@��@@@@@@@@6d@
+embox>�A�765ls6@@��@@@@@@@@6d@
+embox>�A�765ls6@@��@@@@@@@@6d@�
+embox>�A�765ls6@@��@@@@@@@@6d@��
+embox>�A�765ls6@@��@@@@@@@@6d@��@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ 
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@@
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@@e
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@@e
+embox>�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@@e
+embox>@�A�765ls6@@��@@@@@@@@6d@��@@@@@ @@@.@@o@@e
+
+@�A�765ls6@@��@@@@@@@@6d@��@@@@@: Command not found
+tish error: #-2
+embox>.@@V@@@@@@@@@6e@embox>.@@V@@@@@@@@@6e@[K[6Cembox>@.@@V@@@@@@@@@6e@[K[7Cembox>@�.@@V@@@@@@@@@6e@[Kembox>@�@.@@V@@@@@@@@@6e@[Kembox>@�@@.@@V@@@@@@@@@6e@[Kembox>@�@@@.@@V@@@@@@@@@6e@[Kembox>@�@@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z.@@V@@@@@@@@@6e@embox>@�@@@@Z�.@@V@@@@@@@@@6e@embox>@�@@@@Z�.@@V@@@@@@@@@6e@embox>@�@@@@Z�.@@V@@@@@@@@@6e@embox>@�@@@@Z�.@@V@@@@@@@@@6e@embox>@�@@@@Z�@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@@\.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@@\@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@@\@@.@@V@@@@@@@@@6e@embox>@�@@@@Z�@@?@@@@@@�@@@@\@@e.@@V@@@@@@@@@6e@
+@�@@@@Z�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�A
+[K[8Cembox>�A�
+[K[9Cembox>�A�6
+[K[10Cembox>�A�6@
+[K[11Cembox>�A�6@
+[K[12Cembox>�A�6@l
+[K[13Cembox>�A�6@ls
+[K[14Cembox>�A�6@ls6
+[K[15Cembox>�A�6@ls6@
+[K[16Cembox>�A�6@ls6@@
+[K[17Cembox>�A�6@ls6@@
+[K[18Cembox>�A�6@ls6@@
+[K[17Cembox>�A�6@ls6@@�
+[K[18Cembox>�A�6@ls6@@�b
+embox>�A�6@ls6@@�b@
+embox>�A�6@ls6@@�b@@
+embox>�A�6@ls6@@�b@@@
+embox>�A�6@ls6@@�b@@@@
+embox>�A�6@ls6@@�b@@@@@
+embox>�A�6@ls6@@�b@@@@@@
+embox>�A�6@ls6@@�b@@@@@@@
+embox>�A�6@ls6@@�b@@@@@@@@
+embox>�A�6@ls6@@�b@@@@@@@@@
+embox>�A�6@ls6@@�b@@@@@@@@@.
+embox>�A�6@ls6@@�b@@@@@@@@@.@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e�
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e���
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��@@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��@@@@
+embox>�A�6@ls6@@�b@@@@@@@@@.@@o@@e�@�@o@@e��@@@@Z
+
+�A�6@ls6@@�b@@@@@@@@@.@@o@@e�: Command not found
+tish error: #-2
+embox>�@embox>�[K[10Cembox>�[K[9C@@??@@?@@\@@e
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�A
+[K[8Cembox>�A�
+[K[9Cembox>�A�6
+[K[10Cembox>�A�66
+[K[11Cembox>�A�66[K[11Cembox>�A�66[K[6Cembox>�A�66[K[7Cembox>@�A�66[K[8Cembox>@�A�66[K[9Cembox>@�A�66[K[8Cembox>@��A�66[K[9Cembox>@���A�66[K[10Cembox>@��@�A�66[K[11Cembox>@��@@�A�66[K[12Cembox>@��@@@�A�66[K[13Cembox>@��@@@@�A�66[K[14Cembox>@��@@@@@�A�66[K[15Cembox>@��@@@@@@�A�66[K[16Cembox>@��@@@@@@�A�66embox>@��@@@@@@@�A�66embox>@��@@@@@@@@�A�66embox>@��@@@@@@@@.�A�66embox>@��@@@@@@@@.@�A�66embox>@��@@@@@@@@.@@�A�66embox>@��@@@@@@@@.@@o�A�66embox>@��@@@@@@@@.@@o@�A�66embox>@��@@@@@@@@.@@o@]�A�66embox>@��@@@@@@@@.@@o@]e�A�66embox>@��@@@@@@@@.@@o@]e�A�66embox>@��@@@@@@@@.@@o@]e�A�66embox>@@��@@@@@@@@.@@o@]e�A�66embox>@�@��@@@@@@@@.@@o@]e�A�66embox>@�@@��@@@@@@@@.@@o@]e�A�66embox>@�@@@��@@@@@@@@.@@o@]e�A�66embox>@�@@@@��@@@@@@@@.@@o@]e�A�66embox>@�@@@@@��@@@@@@@@.@@o@]e�A�66embox>@�@@@@Z@��@@@@@@@@.@@o@]e�A�66embox>@�@@@@Z�@��@@@@@@@@.@@o@]e�A�66embox>@�@@@@Z�@��@@@@@@@@.@@o@]e�A�66embox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22C
+@�@@@@Z�: Command not found
+tish error: #-2
+embox>@@@@@@@@@\@@e
+@@@@@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>�A
+embox>�A�
+embox>�A�6
+embox>�A�66
+embox>�A�665
+embox>�A�665l
+embox>�A�665ls
+embox>�A�665ls6
+embox>�A�665ls6@
+embox>�A�665ls6@@
+embox>�A�665ls6@@
+embox>�A�665ls6@@
+embox>�A�665ls6@@�
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@�@@@@Z�: Command not found
+tish error: #-2
+embox>@@o@@e@@@\@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,121 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C�'embox>�[K[7Cembox>[K[6C
+embox>
+embox>
+[K[6Cembox>]
+[K[7Cembox>]
+[K[8Cembox>]
+[K[6Cembox>]
+[K[7Cembox>c]
+[K[8C
+embox>
+\Qembox>
+\Q[K[6Cembox>�
+\Q[K[7Cembox>�
+\Q[K[8Cembox>�\
+\Q[K[9Cembox>�\Q
+\Q[K[10Cembox>�\Q
+\Q[K[6Cembox>��\Q
+\Q[K[7Cembox>��\Q
+\Q[K[8Cembox>�\�\Q
+\Q[K[9Cembox>�\Q�\Q
+\Q[K[10Cembox>�\Q�\Q
+\Q[K[6Cembox>��\Q�\Q
+\Q[K[7Cembox>��\Q�\Q
+\Q[K[8Cembox>�c�\Q�\Q
+\Q[K[9Cembox>�c��\Q�\Q
+\Q[K[10Cembox>�c��\Q�\Q
+\Q[K[11Cembox>�c�c�\Q�\Q
+\Q[K[12Cembox>�c�cc�\Q�\Q
+\Q[K[13C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>c
+[K[8Cembox>cc
+[K[9C
+embox>
+�������������in���Vembox>
+�������������in���V[K[6Cembox>K
+�������������in���V[K[7C
+K: Command not found
+tish error: #-2
+embox>
+\\embox>
+\\[K[6Cembox>
+\\[K[7Cembox>
+\\[K[8Cembox>
+\\[K[9Cembox>
+\\[K[6Cembox>
+\\[K[7Cembox>
+\\[K[8Cembox>c
+\\[K[9C
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+�logoutp
+�logoutp: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+tiexit
+tiexit: Command not found
+tish error: #-2
+embox>
+�ls���embox>
+�ls��[K[12C
+�ls��: Command not found
+tish error: #-2
+embox>
+l�go����
+l�go: Command not found
+tish error: #-2
+embox>
+ ��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+ ��[Kxit
+��: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K�������embox>[K[15C���������[?5h[?5l���������embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13C
+embox>
+�embox>
+�[Kembox>
+��[Kembox>
+���[K
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

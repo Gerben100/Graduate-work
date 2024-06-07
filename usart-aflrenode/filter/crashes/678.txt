@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>VlsP E�
+VlsP: Command not found
+tish error: #-2
+embox>
+V�ls- r
+embox>�e�it
+�e�it: Command not found
+tish error: #-2
+embox>
+V�it
+V�it: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+tV�lsEembox>
+tV�lsE[K[6Cembox>r
+tV�lsE[K[7C
+embox>�e�i
+�e�i: Command not found
+tish error: #-2
+embox>
+V��lacdE
+embox>ex
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>it�i@�
+embox>
+embox>�e�i��
+�e�i��: Command not found
+tish error: #-2
+embox>
+�embox>�e�i��[K[12Cembox>�e�i��[K[6Cembox>��e�i��[K[7C
+embox>
+embox>
+V�lsEembox>
+V�lsE[K[6Cembox>r
+V�lsE[K[7C
+embox>�e�i````````````F`````````````a`````t
+�e�i````````````F`````````````a`````t: Command not found
+tish error: #-2
+embox>
+�embox>
+[K)A
+)A: Command not found
+tish error: #-2
+embox>
+V�lsEembox>
+V�lsEembox>r
+V�lsE
+embox>�e�����������������it
+�e�����������������it: Command not found
+tish error: #-2
+embox>
+�P�embox>
+)A��@exportcd
+)A��@exportcd: Command not found
+tish error: #-2
+embox>
+�P����embox>
+)Acd
+)A: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�[?5h[?5l��embox>
+)A@�d
+)A@�d: Command not found
+tish error: #-2
+embox>
+x
+embox>�F6>6T@embox>[K\�
+)A@�d\�: Command not found
+tish error: #-2
+embox>
+�ui
+embox>i��e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

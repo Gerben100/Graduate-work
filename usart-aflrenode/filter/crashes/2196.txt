@@ -1,0 +1,166 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>|ees@inc�>pind@@@�
+embox>�@ees�embox>�@ees�[K[6Cembox>@�@ees�[K[7Cembox>@@�@ees�[K[8Cembox>@@��@ees�[K[9C
+embox>�@pc�>p�embox>�@pc�>p�[K[17C
+�@pc�>p: Command not found
+tish error: #-2
+embox>
+�Xc�embox>
+�Xc[K[10C����@@@"@embox>
+�Xc����@@@"@[K[6Cembox>@
+�Xc����@@@"@[K[7Cembox>@A
+�Xc����@@@"@[K[8Cembox>@A@
+�Xc����@@@"@[K[9Cembox>@A@@
+�Xc����@@@"@[K[10Cembox>@A@@@
+�Xc����@@@"@[K[11Cembox>@A@@@H
+�Xc����@@@"@[K[12Cembox>@A@@@Hd
+�Xc����@@@"@[K[13Cembox>@A@@@Hd@
+�Xc����@@@"@[K[14Cembox>@A@@@Hd@A
+�Xc����@@@"@[K[15Cembox>@A@@@Hd@A�
+�Xc����@@@"@[K[16Cembox>@A@@@Hd@A��
+�Xc����@@@"@[K[17C
+embox>�be
+�be: Command not found
+tish error: #-2
+embox>
+|Xc�nd@c@�
+embox>�@ees@��@@@"�embox>�@ees@��@@@"�[K[6Cembox>@�@ees@��@@@"�[K[7Cembox>@@�@ees@��@@@"�[K[8Cembox>@@o�@ees@��@@@"�[K[9Cembox>@@o<�@ees@��@@@"�[K[10Cembox>@@o<@�@ees@��@@@"�[K[11Cembox>@@o<@e�@ees@��@@@"�[K[12Cembox>@@o<@e�@ees@��@@@"�[K[13Cembox>@@o<@e�@ees@��@@@"�[K[6C
+@@o<@e: Command not found
+tish error: #-2
+embox>O�@@@@B@@@@d@@@cd�be
+O�@@@@B@@@@d@@@cd�be: Command not found
+tish error: #-2
+embox>
+|Xc�6pind@@A�
+embox>�@ees@��@@@"@embox>�@ees@��@@@"@embox>@�@ees@��@@@"@embox>@@�@ees@��@@@"@embox>@@o�@ees@��@@@"@embox>@@o<�@ees@��@@@"@embox>@@o<@�@ees@��@@@"@embox>@@o<@e�@ees@��@@@"@embox>@@o<@e�@ees@��@@@"@embox>@@o<@e�@ees@��@@@"@
+@@o<@e: Command not found
+tish error: #-2
+embox>@�@@@@B�embox>@�@@@@B�[K[13Cembox>@�@@@@B�[K[14Cembox>@�@@@@B�[K[15Cembox>@�@@@@BC�[K[16Cembox>@�@@@@BCC�[Kembox>@�@@@@BCC@�[Kembox>@�@@@@BCC@@�[K[19Cembox>@�@@@@BCC@@@�[K[20Cembox>@�@@@@BCC@@@@�[K[21Cembox>@�@@@@BCC@@@@@�[K[22Cembox>@�@@@@BCC@@@@@@�[Kembox>@�@@@@BCC@@@@@@d�[Kembox>@�@@@@BCC@@@@@@d@�[Kembox>@�@@@@BCC@@@@@@d@@�[Kembox>@�@@@@BCC@@@@@@d@@U�embox>@�@@@@BCC@@@@@@d@@U��
+embox>�be
+�be: Command not found
+tish error: #-2
+embox>
+|Xc�6pembox>
+|Xc�6p[K[6Cembox>@
+|Xc�6p[K[7Cembox>@@
+|Xc�6p[K[8Cembox>@@o
+|Xc�6p[K[9Cembox>@@o<
+|Xc�6pembox>@@o<@
+|Xc�6pembox>@@o<@e
+|Xc�6pembox>@@o<@e
+|Xc�6pembox>@@o<@e
+|Xc�6pembox>@@@o<@e
+|Xc�6pembox>@�@@o<@e
+|Xc�6pembox>@�@@@o<@e
+|Xc�6pembox>@�@@@@o<@e
+|Xc�6pembox>@�@@@@@o<@e
+|Xc�6pembox>@�@@@@@@o<@e
+|Xc�6pembox>@�@@@@B@@o<@e
+|Xc�6pembox>@�@@@@B�@@o<@e
+|Xc�6pembox>@�@@@@B�@@o<@e
+|Xc�6pembox>@�@@@@B�@@o<@e
+|Xc�6pembox>@�@@@@B�@@o<@e
+|Xc�6pembox>@�@@@@BC�@@o<@e
+|Xc�6pembox>@�@@@@BCC�@@o<@e
+|Xc�6pembox>@�@@@@BCC@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@@@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@@@@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@@@@�@@o<@e
+|Xc�6pembox>@�@@@@BCC@@@@@�@@o<@e
+|Xc�6pembox>�be[K[9C�
+embox>�be
+�be: Command not found
+tish error: #-2
+embox>
+|Xc�6pind@F@�
+embox>�@ees@
+embox>�@ees@�export
+�@ees@: Command not found
+tish error: #-2
+embox>@;o<@eembox>@;o<@eembox>@@;o<@eembox>@�@;o<@eembox>@�@@;o<@eembox>@�@@@;o<@eembox>@�@@@@;o<@eembox>@�@@@@@;o<@eembox>@�@@@@B@;o<@eembox>@�@@@@B�@;o<@eembox>@�@@@@B�@;o<@eembox>@�@@@@B�@;o<@eembox>@�@@@@B�@;o<@eembox>@�@@@@BC�@;o<@eembox>@�@@@@BCC�@;o<@eembox>@�@@@@BCC@�@;o<@eembox>@�@@@@BCC@@�@;o<@eembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>�be
+�be: Command not found
+tish error: #-2
+embox>
+
+embox>
+{�l��xe
+{�l��xe: Command not found
+tish error: #-2
+embox>
+|l���e
+�: Command not found
+tish error: #-2
+embox>
+|l��xd
+|: Command not found
+tish error: #-2
+embox>
+|l
+|: Command not found
+tish error: #-2
+embox>
+|�������e
+|: Command not found
+tish error: #-2
+embox>
+�xe
+tish error: #-22
+embox>
+|e
+|e: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+|l��xe
+|: Command not found
+tish error: #-2
+embox>
+� ���xe
+�: Command not found
+tish error: #-2
+embox>
+l��xe
+tish error: #-22
+embox>
+|
+|: Command not found
+tish error: #-2
+embox>
+u�
+u�: Command not found
+tish error: #-2
+embox>
+|Xw��exit
+|Xw��: Command not found
+tish error: #-2
+embox>
+|Xx�eU`�X
+|Xx: Command not found
+tish error: #-2
+embox>
+�Xxc�pinogoat
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

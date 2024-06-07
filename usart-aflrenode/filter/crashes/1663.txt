@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xeiembox>xei[K[10Cembox>xei[K[11Cembox>xei�[K[12Cembox>xei�y[K[13Cembox>xei�y[K[14Cembox>xei�y�[K[15Cembox>xei�y�,[K[16Cembox>xei�y�,,[K[17Cembox>xei�y�,,,[K[18Cembox>xei�y�,,,,[K[19Cembox>xei�y�,,,,=[K[20Cembox>xei�y�,,,,=�[K[21Cembox>xei�y�,,,,=�,[K[22Cembox>xei�y�,,,,=�,,[K[23Cembox>xei�y�,,,,=�,,[K[23Cxviembox>xei�y�,,,,=�,,xvi[K[26Cembox>xei�y�,,,,=�,,xvi[K[27Cembox>xei�y�,,,,=�,,xvi�[K[28Cembox>xei�y�,,,,=�,,xvi�y[K[29Cembox>xei�y�,,,,=�,,xvi�y[K[30Cembox>xei�y�,,,,=�,,xvi�y�[K[31Cembox>xei�y�,,,,=�,,xvi�y�,[K[32Cembox>xei�y�,,,,=�,,xvi�y�,,[K[33Cembox>xei�y�,,,,=�,,xvi�y�,,,[K[34Cembox>xei�y�,,,,=�,,xvi�y�,,,,[K[35Cembox>xei�y�,,,,=�,,xvi�y�,,,,=[K[36Cembox>xei�y�,,,,=�,,xvi�y�,,,,=,[K[37Cembox>xei�y�,,,,=�,,xvi�y�,,,,=,_[K[38Cembox>xei�y�,,,,=�,,xvi�y�,,,,=,_,[K[39C
+embox>
+�ei�y�w,�d=,.,
+tish error: #-22
+embox>
+�"""embox>
+�"""[K[6Cembox>
+�"""[K[7Cembox>d
+�"""[K[8Cembox>d�
+�"""[K[9Cembox>d�y
+�"""[K[10Cembox>d�
+�"""[K[9Cembox>d��
+�"""[K[10Cembox>d��,
+�"""[K[11Cembox>d��,,
+�"""[K[12Cembox>d��,,,
+�"""[K[13Cembox>d��,,,,
+�"""[K[14Cembox>d��,,,,=
+�"""[K[15Cembox>d��,,,,=l
+�"""[K[16Cembox>d��,,,,=ls
+�"""[K[17Cembox>d��,,,,=ls+
+�"""[K[18C
+embox>�iut
+�iut: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+������embox>
+
+�����[K[13C���
+�����embox>
+
+��������
+����[K[21C�
+��������: Command not found
+tish error: #-2
+embox>
+||��e��e���pxi�z
+||��e��e��: Command not found
+tish error: #-2
+embox>
+��xp��xpix
+��xp��xpix: Command not found
+tish error: #-2
+embox>
+�xe�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+��llxiii����������������������s
+��llxiii����������������������s: Command not found
+tish error: #-2
+embox>
+embox>[K[38Cembox>[K[38C
+��llxiii����������������������s: Command not found
+tish error: #-2
+embox>
+xe���
+tish error: #-22
+embox>
+)�j
+)�j: Command not found
+tish error: #-2
+embox>
+`````` 
+``````: Command not found
+tish error: #-2
+embox>
+ export   
+tish error: #-22
+embox>
+\\@Texp@�@{�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

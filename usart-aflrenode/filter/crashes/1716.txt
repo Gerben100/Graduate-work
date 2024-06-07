@@ -1,0 +1,77 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+(xeN�I5d6@@embox>
+(xeN�I5d6@@[K[20C��@@@@@@@@@@@@@@embox>
+(xeN�I5d6@@��@@@@@@@@@@@@@[K[35C@@embox>
+(xeN�I5d6@@��@@@@@@@@@@@@@@@[K[37C@@@@@@@@@@embox>
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@@@@@@@@@[K[6Cembox>@
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@@@@@@@@@[K[7Cembox>@@
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@@@@@@@@@[K[8C
+@@: Command not found
+tish error: #-2
+embox>exp@�@@@@?@@@@@@@
+exp@�@@@@?@@@@@@@: Command not found
+tish error: #-2
+embox>
+llogouogout5c6@embox>
+llogouogout5c6@[K[25C��@@@H@@@embox>
+llogouogout5c6@��@@@H@@@[K[6Cembox>�
+llogouogout5c6@��@@@H@@@[K[7Cembox>��
+llogouogout5c6@��@@@H@@@[K[8Cembox>��@
+llogouogout5c6@��@@@H@@@[K[9Cembox>��@@
+llogouogout5c6@��@@@H@@@[K[10Cembox>��@@@
+llogouogout5c6@��@@@H@@@[K[11Cembox>��@@@@
+llogouogout5c6@��@@@H@@@[K[12Cembox>��@@@@@
+llogouogout5c6@��@@@H@@@[K[13Cembox>��@@@@@@
+llogouogout5c6@��@@@H@@@[K[14Cembox>��@@@@@@
+llogouogout5c6@��@@@H@@@[K[6Cembox>@��@@@@@@
+llogouogout5c6@��@@@H@@@[K[7C
+embox>��c@@@@
+��c@@@@: Command not found
+tish error: #-2
+embox>@embox>@[K[6Cembox>4@[K[7Cembox>4@@[K[8Cembox>4@@@[K[9C
+4@@@: Command not found
+tish error: #-2
+embox>
+ttttdtt5l�goutd63@embox>
+ttttdtt5l�goutd63@[K[26C��@@@@@@@@@@@p@�@ @�embox>
+ttttdtt5l�goutd63@��@@@@@@@@@@@p@�@ @[K[45C@@@@@@@
+ttttdtt5: Command not found
+tish error: #-2
+embox>
+@@@@@@@4@@@@@@@exp@
+@@@@@@@4@@@@@: Command not found
+tish error: #-2
+embox>
+(xeN�I5d6@@���@@@@@@@@@@9@@@@@@?@@@@@@C@@@@embox>
+(xeN�I5d6@@���@@@@@@@@@@9@@@@@@?@@@@@@C@@@@embox>@
+(xeN�I5d6@@���@@@@@@@@@@9@@@@@@?@@@@@@C@@@@[K[7Cembox>@@
+(xeN�I5d6@@���@@@@@@@@@@9@@@@@@?@@@@@@C@@@@[K
+@@: Command not found
+tish error: #-2
+embox>exp@�???????????@
+exp@�???????????@: Command not found
+tish error: #-2
+embox>
+(xeN�@@@@@@@��@@@@@?@@@@@@@d@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21C
+@@exp@�@@@zog�x: Command not found
+tish error: #-2
+embox>it�t@?@@@@B@@@@@@@@@d@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

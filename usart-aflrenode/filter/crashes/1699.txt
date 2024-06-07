@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ll���+embox>ll���+[K[6Cembox>@ll���+[K[7C
+@ll���: Command not found
+tish error: #-2
+embox>
+^m�
+^m�: Command not found
+tish error: #-2
+embox>
+���l���lsembox>
+^m�[K[11C@sembox>@ll���[K[12C@
+@ll���@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ll���D@@embox>
+�[K[9C@
+�@: Command not found
+tish error: #-2
+embox>
+�����dembox>
+�����d[K[15C�embox>
+�@[K[10C�@dembox>
+�@�@d[K[23C�embox>
+�[K[9C@
+�: Command not found
+tish error: #-2
+embox>�embox>
+�[K[9C
+�: Command not found
+tish error: #-2
+embox>
+l�@@embox>
+�[K[9C@
+�@: Command not found
+tish error: #-2
+embox>
+VwE
+VwE: Command not found
+tish error: #-2
+embox>
+@lsls
+@lsls: Command not found
+tish error: #-2
+embox>
+�K��}�2qqqqqtqqqlembox>
+�K��}�2qqqqqtqqq�embox>
+�K��}�2qqqqqtqqq�embox>
+@lsls[K[12C
+
+@lsls: Command not found
+tish error: #-2
+embox>
+cdcdp2
+cdcdp2: Command not found
+tish error: #-2
+embox>
+�7p2�p2
+�7p2�p2: Command not found
+tish error: #-2
+embox>
+�����
+tish error: #-22
+embox>���`n
+��: Command not found
+tish error: #-2
+embox>
+�K�0�p2
+�K�0�p2: Command not found
+tish error: #-2
+embox>
+�stt
+tish error: #-22
+embox>
+�K@�@@@@@=@ls!!!!@@@exit@@@@@exit@@@@@@@@V@@p@
+�K@: Command not found
+tish error: #-2
+embox>�p@@@@25
+�p@@@@2: Command not found
+tish error: #-2
+embox>
+���piin�n�
+tish error: #-22
+embox>
+�K2�
+embox>
+ 
+tish error: #-22
+embox>
+pqn��
+pqn��: Command not found
+tish error: #-2
+embox>
+
+�p2Kp2�
+�p2: Command not found
+tish error: #-2
+embox>
+�n�� d
+embox>l
+l: Command not found
+tish error: #-2
+embox>
+�9999�
+999: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�9�9[99�
+�9�9[99�: Command not found
+tish error: #-2
+embox>
+�9999999999�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

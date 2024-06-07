@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�2}ddc
+ embox>�2}ddc
+ [K[6Cembox>2�2}ddc
+ [K[7Cembox>2�2}ddc
+ [K[8Cembox>2c�2}ddc
+ [K[9Cembox>2cd�2}ddc
+ [K[10Cembox>2cdn�2}ddc
+ [K[11C
+2cdn�2}ddc: Command not found
+tish error: #-2
+embox>
+�2rtlluiWgdu���
+�2rtlluiWgdu���: Command not found
+tish error: #-2
+embox>
+�2 @�sdembox>
+�2 @�sd[K[15Cembox>
+�2 @�s�d[K[16Cembox>
+�2 @�s��d[K[17Cembox>
+�2 @�s��d[K[18Cembox>
+�2 @�s��d[K[19Cembox>
+�2 @�s���d[K[20Cembox>
+�2 @�s���d[K[21Cembox>
+�2 @�s���dd[K[22C
+�2: Command not found
+tish error: #-2
+embox>
+�icddembox>
+�icd[K[11Cpembox>
+�icdp[K[13Cembox>
+�icdp�[K[14Cembox>
+�icdp�[K[15Cembox>
+�icdp��[K[16Cembox>
+�icdp��e[K[17Cembox>
+�icdp��ex[K[18Cembox>
+�icdp��exp[K[19Cembox>
+�icdp��expo[K[20Cembox>
+�icdp��expo�[K[21Cembox>
+�icdp��expo�t[K[22Cembox>
+�icdp��expo�tl[K[23Cembox>
+�icdp��expo�tll[K[24Cembox>
+�icdp��expo�tllp[K[25Cembox>
+�icdp��expo�tllpi[K[26Cembox>
+�icdp��expo�tllpic[K[27Cembox>
+�icdp��expo�tllpicp[K[28Cembox>
+�icdp��expo�tllpicp2[K[29Cembox>
+�icdp��expo�tllpicp2[K[30Cembox>
+�icdp��expo�tllpicp2c[K[31Cembox>
+�icdp��expo�tllpicp2cn[K[32Cembox>
+�icdp��expo�tllpicp2cnt[K[33Cembox>
+�icdp��expo�tllpicp2cnt�[K[34Cembox>
+�icdp��expo�tllpicp2cnt��[K[35C
+�icdp: Command not found
+tish error: #-2
+embox>
+�=cdembox>
+�=c[K[11Cpoembox>
+�=cpo[K[13Cembox>
+�=cp�o[K[14Cembox>
+�=cp�o[K[15Cembox>
+�=cp��o[K[16Cembox>
+�=cp��eo[K[17Cembox>
+�=cp��exo[K[18Cembox>
+�=cp��expo[K[19Cembox>
+�=cp��expio[K[20Cembox>
+�=cp��expiWo[K[21Cembox>
+�=cp��expiWNo[K[22Cembox>
+�=cp��expiWNdo[K[23Cembox>
+�=cp��expiWNduo[K[24Cembox>
+�=cp��expiWNduto[K[25Cembox>
+�=cp��expiWNdut�o[K[26Cembox>
+�=cp��expiWNdut�po[K[27C
+�=cp: Command not found
+tish error: #-2
+embox>
+�3�
+�3�: Command not found
+tish error: #-2
+embox>
+�2cdembox>
+�2c[K[11Cpdembox>
+�2cpd[K[13Cembox>
+�2cppd[K[14Cembox>
+�2cppid[K[15Cembox>
+�2cppind[K[16Cembox>
+�2cppin�d[K[17Cembox>
+�2cppin�d[K[18Cembox>
+�2cppin��dembox>
+�2cppin��edembox>
+�2cppin��exdembox>
+�2cppin��expdembox>
+�2cppin��expodembox>
+�2cppin��expordembox>
+�2cppin��exportdembox>
+�2cppin��exportldembox>
+�2cppin��exportlldembox>
+�2cppin��exportllpdembox>
+�2cppin��exportllpidembox>
+�2cppin��exportllpiWdembox>
+�2cppin��exportllpiWgdembox>
+�2cppin��exportllpiWgddembox>
+�2cppin��exportllpiWgdudembox>
+�2cppin��exportllpiWgdutdembox>
+�2cppin��exportllpiWgdut�dembox>
+�3�[K[10C
+�3�: Command not found
+tish error: #-2
+embox>
+�2cdembox>
+�2c[K[11Cpc���exportlembox>
+�2cpc���exportlembox>p
+�2cpc���exportlembox>pi
+�2cpc���exportlembox>piW
+�2cpc���exportlembox>piWg
+�2cpc���exportlembox>piWgd
+�2cpc���exportlembox>piWgdu
+�2cpc���exportlembox>piWgdut
+�2cpc���exportlembox>piWgdut�
+�2cpc���exportlembox>piWgdut�p
+�2cpc���exportl
+piWgdut�p: Command not found
+tish error: #-2
+embox>
+�2cdembox>
+�2cpdembox>
+�2cpdembox>
+�2cp�dembox>
+�2cp�dembox>
+�2cp��dembox>
+�2cp��edembox>
+�2cp��exdembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�2cp: Command not found
+tish error: #-2
+embox>
+�2cd�2cdembox>[Kcembox>[Kt�exportllpiWgdut�p
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�665@@@@�@@@D'@@@]�@@@@X@@@@@:|d@R@@@@@P�@@@����D'
+�665@@@@�@@@D'@@@]�@@@@X@@@@@:|d@R@@@@@P�@@@����D': Command not found
+tish error: #-2
+embox>@
+embox>�%P@@@ @@@@@@@cdembox>�%P@@@ @@@@@@@cd[K[6Cembox>o�%P@@@ @@@@@@@cd[K[7Cembox>oo�%P@@@ @@@@@@@cd[K[8Cembox>oor�%P@@@ @@@@@@@cd[K[9Cembox>oort�%P@@@ @@@@@@@cd[K[10Cembox>oort@�%P@@@ @@@@@@@cd[K[11Cembox>oort@�%P@@@ @@@@@@@cd[K[12Cembox>oort@�%P@@@ @@@@@@@cd[K[6Cembox>@oort@�%P@@@ @@@@@@@cd[K[7Cembox>@eoort@�%P@@@ @@@@@@@cd[K[8Cembox>@exoort@�%P@@@ @@@@@@@cd[K[9Cembox>@exqoort@�%P@@@ @@@@@@@cd[K[10Cembox>@exqpoort@�%P@@@ @@@@@@@cd[K[11C
+@exqpoort@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@��D'@embox>
+�665@@@@�@@@D'@@@]@��D'@[K[6Cembox>�
+�665@@@@�@@@D'@@@]@��D'@[K[7Cembox>�%
+�665@@@@�@@@D'@@@]@��D'@[K[8Cembox>�%@
+�665@@@@�@@@D'@@@]@��D'@[K[9Cembox>�%@@
+�665@@@@�@@@D'@@@]@��D'@[K[10Cembox>�%@@@
+�665@@@@�@@@D'@@@]@��D'@[K[11Cembox>�%@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[12Cembox>�%@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[13Cembox>�%@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[14Cembox>�%@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[15Cembox>�%@@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[16Cembox>�%@@@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[17Cembox>�%@@@@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[18Cembox>�%@@@@@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[K[19Cembox>�%@@@@@@@@@@@@
+�665@@@@�@@@D'@@@]@��D'@[Kembox>�%@@@@@@@@@@@@c
+�665@@@@�@@@D'@@@]@��D'@[Kembox>�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>@@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[Kembox>@@@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[K[11Cembox>@@@@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[K[12Cembox>@@@@@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[K[13Cembox>@@@@@@@@�%@@@@@@@@@@@@cd
+�665@@@@�@@@D'@@@]@��D'@[K[14C
+@@@@@@@@�%@@@@@@@@@@@@cd: Command not found
+tish error: #-2
+embox>@@Jembox>@@J[K[6Cembox>@@@J[K[7Cembox>@e@@J[K[8Cembox>@ex@@J[K[9Cembox>@exq@@J[K[10Cembox>@exqp@@J[K[11C
+@exqp@@J: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@|d)@@@@@embox>@exqp@@J[K[14C�@@@����D'@
+embox>�%@@@@@@@@@@@@cdembox>�%@@@@@@@@@@@@cd[K[6Cembox>@�%@@@@@@@@@@@@cd[K[7Cembox>@@�%@@@@@@@@@@@@cd
+@@�%@@@@@@@@@@@@cd: Command not found
+tish error: #-2
+embox>@@@@@@@@J@@?�@@@@@@@8@@n@@@exoort@xqp
+@@@@@@@@J@@?: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@@'@@@]@@@@@@@@@@^@|d@@@@@@@@�@@@����D'
+�665@@@@�@@@@'@@@]@@@@@@@@@@^@|d@@@@@@@@�@@@����D': Command not found
+tish error: #-2
+embox>@
+embox>�%@@@@@@@@@@@@cn@@�exoort@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+@exqp�%@@@@@@@@@@@@cn@@�exoort@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@@@@H@@@@@@@|d@@@@@@@@�@@@����D@
+�665@@@@�@@@D'@@@]@@@@H@@@@@@@|d@@@@@@@@�@@@����D@: Command not found
+tish error: #-2
+embox>@@@@@c@@@@@@@@@@cdembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37C
+@@@@@@@@@@/@@?: Command not found
+tish error: #-2
+embox>xoorx@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+@exqpxoorx@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@@@@@@@@@embox>[K[17C@@|d@@@#@@@@�@@@�m��D'
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

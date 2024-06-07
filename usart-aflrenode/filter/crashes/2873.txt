@@ -1,0 +1,207 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[7Cembox>�[K[8Cembox>��[K[9Cembox>���[K[10Cembox>���d[K[11Cembox>���dx[K[12Cembox>���dxp[K[13Cembox>���dxp"[K[14Cembox>���dxp"[K[15C;Z;m33333333333333333333333333U565)6��embox>���dxp";Z;m33333333333333333333333333U565)6��[K[6C
+���dxp": Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>@
+��[K[7Cembox>@
+��[K[8Cembox>@m
+��[K[9Cembox>@mU
+��[K[10Cembox>@mU5
+��[K[11Cembox>@mU56
+��[K[12Cembox>@mU565
+��[K[13Cembox>@mU565L
+��[K[14Cembox>@mU565L6
+��[K[15Cembox>@mU565L6�
+��[K[16Cembox>@mU565L6�
+��[K[17Cembox>@mU565L6��
+��[K[18Cembox>@mU565L6���
+��[K[19Cembox>@mU565L6���z
+��[K[20Cembox>@mU565L6���zx
+��[K[21Cembox>@mU565L6���zxp
+��[K[22Cembox>@mU565L6���zxp
+��[K[6Cembox>@mU565L6���zxp
+��[K[27C;@mU565L6��embox>@mU565L6���zxp
+��;@mU565L6�[K[39C�
+@mU565L6���zxp: Command not found
+tish error: #-2
+embox>
+embox>@mU565L6���zxp
+��;@mU565L6��[K[40CÀembox>@mU565L6���zxp
+��;@mU565L6���[K[41Cembox>��[K[8Cembox>���dxp"[K[14C������.
+���dxp"������.: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�o
+[K[9Cembox>�o�
+[K[10Cembox>�o��
+[K[11Cembox>�o���
+[K[12Cembox>�o���d
+[K[13Cembox>�o���dx
+[K[14Cembox>�o���dxp
+[K[15Cembox>�o���dxp
+[K[6Cembox>l�o���dxp
+[K[7Cembox>l�o���dxp
+[K[8Cembox>l�o���dxp
+[K[9Cembox>l�oo���dxp
+[Kembox>l�ouo���dxp
+[K[11Cembox>l�outo���dxp
+[K[12Cembox>l�outo���dxp
+[K[21C;@;mU565embox>l�outo���dxp
+;@;mU565embox>l�outo���dxp
+;@;mU565embox>�l�outo���dxp
+;@;mU565embox>�ol�outo���dxp
+;@;mU565embox>�o�l�outo���dxp
+;@;mU565embox>�o��l�outo���dxp
+;@;mU565embox>�o���l�outo���dxp
+;@;mU565embox>�o���dl�outo���dxp
+;@;mU565embox>�o���dxl�outo���dxp
+;@;mU565embox>�o���dxpl�outo���dxp
+;@;mU565embox>�o���dxp)l�outo���dxp
+;@;mU565embox>�o���dxp)6l�outo���dxp
+;@;mU565embox>�o���dxp)6�l�outo���dxp
+;@;mU565embox>�o���dxp)6�l�outo���dxp
+;@;mU565embox>�o���dxp)6��l�outo���dxp
+;@;mU565embox>�o���dxp)6���l�outo���dxp
+;@;mU565embox>�o���dxp)6����l�outo���dxp
+;@;mU565
+�o���dxp)6����l�outo���dxp: Command not found
+tish error: #-2
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+RoRdRRRRRRRRRRRRRRRRRRR o�exidx��
+RoR: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>���d
+[K[10Cembox>���dx
+[K[11Cembox>���dxp
+[K[12Cembox>���dxp
+[K[6Cembox>���dxp
+[K[14C;@;mU565)6�embox>���dxp
+;@;mU565)6�embox>����dxp
+;@;mU565)6�embox>�����dxp
+;@;mU565)6�embox>������dxp
+;@;mU565)6�embox>���d���dxp
+;@;mU565)6�embox>���dx���dxp
+;@;mU565)6�embox>���dxp���dxp
+;@;mU565)6�embox>���dxp���dxp
+;@;mU565)6�embox>���dxp���dxp
+;@;mU565)6�;@;mU5����
+���dxp���dxp: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>ex
+[Kembox>exp
+[Kembox>exp5
+[Kembox>exp5l
+[Kembox>exp5lo
+[Kembox>exp5log
+[Kembox>exp5logo
+[Kembox>exp5logou
+[Kembox>exp5logout
+[Kembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44C
+exp5logout@<m456��: Command not found
+tish error: #-2
+embox>
+
+���d565)8h����: Command not found
+tish error: #-2
+embox>
+;@;mU5*5xp;@;mmxp;@;mU5embox>���dxp���dxp
+[K*5xpembox>[K[6Cembox>[K[23C
+���dxp���dxp: Command not found
+tish error: #-2
+embox>;@;mmm�mm
+;@;mmm�mm: Command not found
+tish error: #-2
+embox>
+
+��: Command not found
+tish error: #-2
+embox>
+�
+export�
+embox>
+
+tish error: #-22
+embox>
+
+embox>
+ut�e�
+ut�e�: Command not found
+tish error: #-2
+embox>
+�$����fls@ 
+embox>
+
+��
+;@;mmm�mm: Command not found
+tish error: #-2
+embox>
+lmNh}
+tish error: #-22
+embox>
+@@@
+;@;mmm�mm: Command not found
+tish error: #-2
+embox>
+22222[?5h[?5l
+22222: Command not found
+tish error: #-2
+embox>
+�
+�
+tish error: #-22
+embox>
+��
+: Command not found
+tish error: #-2
+embox>
+XXXXX�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�i��
+�: Command not found
+tish error: #-2
+embox>
+d���e���ei�i���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

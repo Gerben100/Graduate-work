@@ -1,0 +1,149 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+Iit
+Iit: Command not found
+tish error: #-2
+embox>
+������
+�����: Command not found
+tish error: #-2
+embox>
+o}P��embox>
+o}P��[K[12C@�O
+o}P��@�O: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cpin�d����ls��������embox>
+o}P��@�O[K[15C
+o}P��@�O: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+embox>
+embox>
+o}P��@�O[K[15C
+o}P��@�O: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�d����
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>����
+[K[10Cembox>�����
+[K[11Cembox>�����
+[K[6Cembox>������
+[K[7Cembox>�������
+[K[8Cembox>��������
+[K[9Cembox>��������
+[K[10Cembox>�����
+[K[6C
+�����: Command not found
+tish error: #-2
+embox>
+�d������������embox>�����
+[K[12C
+�����: Command not found
+tish error: #-2
+embox>
+embox>[K[6C����������embox>�����
+[K[12C�embox>�����
+[K[12C��������d������
+�����: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�dc�dc����embox>�����
+[K[12C
+�����: Command not found
+tish error: #-2
+embox>
+��������embox>
+��������[K[15C�������logoVt�������
+���������������logoVt�������: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�d������������embox>
+���������������logoVt�������
+���������������logoVt�������: Command not found
+tish error: #-2
+embox>
+embox>[K[6CB�b�������embox>
+���������������logoVt�������embox>�����
+[K[12C�embox>
+o}P��@�O[K[15Cembox>[K[6C�b�������embox>
+�����[K[12Cembox>
+Iit[K[10C�
+��
+Iit�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�::
+tish error: #-22
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+
+�[K[8Cembox>�
+
+�[K[6Cembox>x�
+
+�[Kembox>x%�
+
+�[K
+x%�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>�i
+�i: Command not found
+tish error: #-2
+embox>
+�!
+�!: Command not found
+tish error: #-2
+embox>
+
+embox>���x%
+x%: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��B
+��: Command not found
+tish error: #-2
+embox>
+�%��w�[?5h[?5l�w��%7
+�%��w: Command not found
+tish error: #-2
+embox>
+��logoutKx%%
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��Ձ����ex�t��loE���
+embox>
+�x�itembox>
+�x�i[K[14Cembox>
+�x�[K[13Crogot�nogotembox>
+�x�rogot�nogo[K[23CloEo��
+�x�: Command not found
+tish error: #-2
+embox>
+�x�embox>
+�x�[K[11Citembox>
+�x�i[K[12Cembox>
+�x�[K[11Crx�itembox>
+�x�rx�i[K[18Cembox>
+�x�rx�[K[17Crog��ogotembox>
+�x�rx�rog��ogo[K[27Clog��ogotembox>
+�x�rx�rog��ogolog��ogo[K[37CloDo��
+�x�: Command not found
+tish error: #-2
+embox>
+�x�
+�x�: Command not found
+tish error: #-2
+embox>
+�x��itembox>
+�x��i[K[14Cembox>
+�x��[K[13Crogot�nogotembox>
+�x��rogot�nogo[K[23Clo�
+�x�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+`�j
+`�j: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9Coex`rotcrt
+��oex`rotcrt: Command not found
+tish error: #-2
+embox>
+gexportembox>
+gexport[K[6C
+gexport: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ppvi&dvv&d
+ppvi: Command not found
+tish error: #-2
+embox>
+�x���embox>
+�x��[K���x�x
+�x�����x�x: Command not found
+tish error: #-2
+embox>
+_x�ӿx
+_x�ӿx: Command not found
+tish error: #-2
+embox>
+�tx�
+�t: Command not found
+tish error: #-2
+embox>
+��<xx
+��<xx: Command not found
+tish error: #-2
+embox>
+�-eeg6xxx-eepi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

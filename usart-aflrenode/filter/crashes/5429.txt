@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+t[?5h[?5l&56rX@@@@c?exp@56r@:c666@@@�?0@@@icd�ex�
+t&56r: Command not found
+tish error: #-2
+embox>t@@;c�656>TQelogout@@embox>
+t&56r[K[12C@@@�@embox>
+t&56r@@@�[K[18C%TQelogout@@@@@�
+t&56r: Command not found
+tish error: #-2
+embox>@embox>[K[6C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c?exp@embox>
+t&56r[K[12C56r@:c666@@@�?8@@@icd�ex�t@@
+t&56r56r: Command not found
+tish error: #-2
+embox>;c�@@@@@@@@@@@@@@@@@@656>%TQelogout@@embox>
+t&56r56r[K[15C@@@�@embox>
+t&56r56r@@@�[K[21C 
+t&56r56r: Command not found
+tish error: #-2
+embox>L@@@@�@@
+L@@@@�@@: Command not found
+tish error: #-2
+embox>
+S@O@@9cd\����embox>[K[6Cw@@@c?exp@embox>L@@@@�@@[K[14C56r@:c666@@@�?@@@@\em
+L@@@@�@@56r: Command not found
+tish error: #-2
+embox>embox>[K[6Cw@@c?exp@embox>L@@@@�@@56r[K[17C56r@:icembox>[K[6C���������������embox>[K[6Ccembox>[K[6C����������
+����������: Command not found
+tish error: #-2
+embox>�����embox>[K[6C.embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Ccdembox>[K[6Cexport�embox>[K[6Cembox>[K[6Cembox>[K[6C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>����������[K[16C56r@:c66???????????????????6@@@�?@@@@icd�ex�t@
+����������56r: Command not found
+tish error: #-2
+embox>@;c�6 L@@@@�@
+@;c�6: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\e\\\\\\\\\\\\\\
+t&56r: Command not found
+tish error: #-2
+embox>\\\\\membox>[K[6Cw@@@c?exp@embox>
+t&56r[K[12C56r@:c666@@@�?@@@@@:b666@@@�?
+t&56r56r: Command not found
+tish error: #-2
+embox>@@@@icd�ex�t@@;c�@embox>[K@export L@@@@�@
+t&56r56r: Command not found
+tish error: #-2
+embox>
+��
+embox>&5embox>&5[Kembox>b&5[Kembox>b&5[Kembox>b@&5[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[23C�wi�[?5h[?5l
+embox>��sp@O��emembox>[K
+embox>w@@@c?e@�@embox>[K[15Cembox>[K[14C� L@@@P�@
+w@@@c?e@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\em0w@@@cxp@
+t&56r: Command not found
+tish error: #-2
+embox>56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+t&56r56r: Command not found
+tish error: #-2
+embox>@@@@�@ L@@@@�@
+t&56r56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l@@@@@@@@@U@@@������@@�@>%Thel'gout@gout@@ [H[H[2J@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�S�embox>�S[K[8CL�� ^IIIIIIIIIIIIII� t
+�SL��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8Cembox>
+�[K[9Cembox>
+��[K[10Cembox>
+���[K[11Cembox>
+���m[K[12Cembox>
+���mi[K[13Cembox>
+���mi[K[14Cembox>
+���mi[K[15C
+tish error: #-22
+embox>
+�l%��@embox>[K[6Ci�ls
+i�ls: Command not found
+tish error: #-2
+embox>
+Qc{ � ��embox>
+Qc{ � ��[K[6Cembox>t
+Qc{ � ��[K[7C
+t: Command not found
+tish error: #-2
+embox>
+�embox>t
+Qc{ [K[12C�embox>t
+Qc{ [K[12CWc� � t
+t: Command not found
+tish error: #-2
+embox>
+w�`jPccSu�lof
+w�`jPccSu�lof: Command not found
+tish error: #-2
+embox>
+�S�embox>
+�S[K[9CQc��� t
+�SQc�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+log����P |
+log����P: Command not found
+tish error: #-2
+embox>
+��embox>
+��[Kembox>��[Kembox>���[K
+embox>@t
+embox>
+�Sembox>
+�[Kembox>
+[Kembox>[KRembox>[K
+: Command not found
+tish error: #-2
+embox>
+Pzembox>[K[7C
+: Command not found
+tish error: #-2
+embox>
+CS�embox>
+CSQci@@@@@U�D@@@@�embox>
+CSQci@@@@@U�D@@@@���@@@@?@\@@@@@@�00000ls
+CSQci@: Command not found
+tish error: #-2
+embox>000000000I Q
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

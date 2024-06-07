@@ -1,0 +1,324 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+t[?5h[?5l&56r@@c666?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@56r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@@
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�@iF@@O@@9\emembox>[K[6Cw@@@c?exp@56r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@@
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@O@@9\emembox>[K[6Cw@@@c?exp@56r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@@
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@9\emembox>[K[6Cw@@@c?exp@56r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@@
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@membox>[K[6Cw@@@c?exp@56r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@@
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\ew@@@c?exp@56r
+t&56r: Command not found
+tish error: #-2
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>
+t&56r[K[12C@
+t&56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cc?exp@embox>
+t&56r[K[12C56r
+t&56r56r: Command not found
+tish error: #-2
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>
+t&56r56r[K[15C@
+t&56r56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@p@embox>
+t&56r56r[K[15C56r
+t&56r56r56r: Command not found
+tish error: #-2
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>
+t&56r56r56r[K[18C@
+t&56r56r56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?ex6r
+embox>@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>
+t&56r56r56r[K[18C@
+t&56r56r56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r[K[18C5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>
+t&56r56r[K[15C@
+t&56r56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r[K[15C56r@6@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r[K[18C56r@:c66�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r[K[21C56r@:c666@@@@@icd�ex�t@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r[K[24C56r@:c666@@@�?@@d�ex�t@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r[K[27C56r@:c666@@@�?@@@@icex�t@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r[K[30C56r@:c666@@@�?@@@@icd�@@;c�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r[K[33C56r@:c666@@@�?@@@@icd�ex�t�656>%TQelogout@@embox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r56r[K[36C56r@:c666@@@�?@@@@icd�ex�t@@;c>%TQelogouembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r56r56r[K[39C56r@:c666@@@�?@@@@icd�ex�t@@;c�656eloembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r56r56r56r[K[42C56r@:c666@@@�?@@@@icd�ex�t@@;c�656embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r56r56r56r56r[K56r@:c666@@@�?@@@@icd�ex�t@@;c�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[64C@
+t&56r56r56r5:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@@: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K[10C L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r[K56r@:c666@@@�?@@@@icd�ex�t@@embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@@�@embox>@@�[K L@@@@�@
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>[K[51C56r@:c666@@@�?@@@@icd�ex�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[51C@@embox>[K[53C L@@@@�@
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>[K[51C56r@:c666@@@�?@@@@icd�ex�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[51C@@@� L@@@@�@
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>[K[51C56r@:c666@@@�?@@@@icd�ex�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[51C@@@�@embox>[K[57C@@@�@
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>[K[51C56r@:c666@@@�?@@@@icd�ex�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[51C@@@�@embox>[K[57C L@@
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@@9\emembox>[K[6Cw@@@c?exp@
+embox>embox>[K[51C56r@:c666@@@�?@@@@icd�ex�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[51C@@@�@embox>[K[57C L@@@@�
+t&56r56r56r56r56r56r56r56r56r56r56r56r56r56r: Command not found
+tish error: #-2
+embox>
+texit&56r@exit&56r@cd�e�t@@;c�gou@@
+texit&56r: Command not found
+tish error: #-2
+embox>embox>[K[17C@@@�@embox>[K[23C embox>[K[29C@~@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[K[36Cembox>[Kw@@@c?exp@
+embox>embox>[K[17C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelogout@
+texit&56r56r: Command not found
+tish error: #-2
+embox>@embox>[K[17C@@@�@embox>[K[23C L@@@@�@
+texit&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c666@@@�?@@@@iF@@O@d9\e�membox>[Kw%@@embox>w%@@[Kembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+embox>embox>[K[17C56q@:z666@@@�?@@@@Ycd�kx�t@@;c�6����TQel�t@@;c
+texit&56r56q: Command not found
+tish error: #-2
+embox>�6����TQelogouembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[17C@@@�@ogouembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[51C@@@�@� L@@.@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

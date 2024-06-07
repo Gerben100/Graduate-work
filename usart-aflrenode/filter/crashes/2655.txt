@@ -1,0 +1,101 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�semembox>[K[6C�@@@c?exp@embox>�@@@c?exp@[K[16Cembox>�@@@c?expc@[K[17Cembox>�@@@c?expcd@[K[18Cembox>�@@@c?expcd@[K[19Cembox>�@@@c?expcd�@[K[20Cembox>�@@@c?expcd�@[K[21Cembox>�@@@c?expcd�@@[K[22Cembox>�@@@c?expcd�@@@[K[23Cembox>�@@@c?expcd�@@;@[K[24Cembox>�@@@c?expcd�@@;c@[K[25Cembox>�@@@c?expcd�@@;c�@[K[26Cembox>�@@@c?expcd�@@;c�6@[K[27Cembox>�@@@c?expcd�@@;c�65@[K[28Cembox>�@@@c?expcd�@@;c�656@[K[29Cembox>�@@@c?expcd�@@;c�656>@[K[30Cembox>�@@@c?expcd�@@;c�656>6@[K[31Cembox>�@@@c?expcd�@@;c�656>6T@[K[32Cembox>�@@@c?expcd�@@;c�656>6T5@[K[33Cembox>�@@@c?expcd�@@;c�656>6T5e@[K[34Cembox>�@@@c?expcd�@@;c�656>6T5e|@[K[35Cembox>�@@@c?expcd�@@;c�656>6T5e|p@[K[36Cembox>�@@@c?expcd�@@;c�656>6T5e|po@[K[37Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@[K[38Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@[K[39Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@[K[40Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@[K[41Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@@[K[42Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@@[K[43Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@@@[K[44Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@@@[K[45Cembox>�@@@c?expcd�@@;c�656>6T5e|pot@@@@@@[K[46C
+embox>@�@embox>@�[K[8Cembox>@�[K[10C<pin@@@@�@�embox>@�<pin@@@@�@�[K[22C<@@@@
+@�: Command not found
+tish error: #-2
+embox>
+Qsemembox>
+Qse[K[11Cembox>[K[6C�@@@c?exp@embox>�@@@c?exp@[K[16Cembox>�@@@c?expc@[K[17Cembox>�@@@c?expcd@[K[18Cembox>�@@@c?expcd@[K[19Cembox>�@@@c?expcd�@[K[20Cembox>�@@@c?expcd�@[K[21Cembox>�@@@c?expcd�@@[K[22Cembox>�@@@c?expcd�@@@[K[23Cembox>�@@@c?expcd�@@;@[K[24Cembox>�@@@c?expcd�@@;c@[K[25Cembox>�@@@c?expcd�@@;c�@[K[26Cembox>�@@@c?expcd�@@;c�6@[K[27Cembox>�@@@c?expcd�@@;c�65@[K[28Cembox>�@@@c?expcd�@@;c�656@[K[29Cembox>�@@@c?expcd�@@;c�656>@[K[30Cembox>�@@@c?expcd�@@;c�656>6@[K[31Cembox>�@@@c?expcd�@@;c�656>6T@[K[32Cembox>�@@@c?expcd�@@;c�656>6TQ@[K[33Cembox>�@@@c?expcd�@@;c�656>6TQe@[K[34Cembox>�@@@c?expcd�@@;c�656>6TQe|@[K[35Cembox>�@@@c?expcd�@@;c�656>6TQe|p@[K[36Cembox>�@@@c?expcd�@@;c�656>6TQe|p�@[K[37Cembox>�@@@c?expcd�@@;c�656>6TQe|p�t@[K[38Cembox>�@@@c?expcd�@@;c�656>6TQe|p�t@@[K[39Cembox>�@@@c?expcd�@@;c�656>6TQe|p�t@@[K[40Cembox>�@@@c?expcd�@@;c�656>6TQe|p�t@@@[K[41Cembox>�@@@c?expcd�@@;c�656>6TQe|p�t@@@@[K[42Cembox>@�[K[8C@@
+@�: Command not found
+tish error: #-2
+embox>@�@embox>@�[K[8Cembox>@�[K[10C<@@@@�@embox>@�[K[8C�embox>@��[K[10C<@@@@
+@�: Command not found
+tish error: #-2
+embox>
+�sexportemembox>[K[6C�@@cd�@@;c�656>6TQe|pot@@@embox>@�[K[8C@@@�
+@�: Command not found
+tish error: #-2
+embox>@embox>[K[6Cembox>[K[8C<@@@@�@embox>@�[K[8C�embox>@��[K[10C<@@@@
+@�: Command not found
+tish error: #-2
+embox>
+pin�se@?��656embox>@�[K[8Ce|pot@@@@@eeeeee@�eeeeeeeee
+@�: Command not found
+tish error: #-2
+embox>embox>@�[K[8Creeeeeeeeeeembox>@�reeeeeeeee[K[18C<@@@@
+@�reeeeeeeee<@@@@: Command not found
+tish error: #-2
+embox>
+�semembox>[K[6C�@@@�logoutp@embox>�@@@�logoutp@[K[22Cembox>�@@@�logoutpc@[K[23Cembox>�@@@�logoutpcd@[K[24Cembox>�@@@�logoutpcd@[K[25Cembox>�@@@�logoutpcd�@[K[26Cembox>�@@@�logoutpcd�@[K[27Cembox>�@@@�logoutpcd�@@[K[28Cembox>�@@@�logoutpcd�@@@[K[29Cembox>�@@@�logoutpcd�@@;@[K[30Cembox>�@@@�logoutpcd�@@;c@[K[31Cembox>�@@@�logoutpcd�@@;c�@[K[32Cembox>�@@@�logoutpcd�@@;c�6@[K[33Cembox>�@@@�logoutpcd�@@;c�65@[K[34Cembox>�@@@�logoutpcd�@@;c�656@[K[35Cembox>�@@@�logoutpcd�@@;c�656>@[K[36Cembox>�@@@�logoutpcd�@@;c�656>6@[K[37Cembox>�@@@�logoutpcd�@@;c�656>6T@[K[38Cembox>�@@@�logoutpcd�@@;c�656>6T@[K[39Cembox>�@@@�logoutpcd�@@;c�656>6Te@[K[40Cembox>�@@@�logoutpcd�@@;c�656>6Te|@[K[41Cembox>�@@@�logoutpcd�@@;c�656>6Te|p@[K[42Cembox>�@@@�logoutpcd�@@;c�656>6Te|po@[K[43Cembox>�@@@�logoutpcd�@@;c�656>6Te|pot@[Kembox>�@@@�logoutpcd�@@;c�656>6Te|pot@@[Kembox>�@@@�logoutpcd�@@;c�656>6Te|pot@@[Kembox>�@@@�logoutpcd�@@;c�656>6Te|pot@@@[K
+embox>@embox>@�reeeeeeeee<@@@@[K[23C@�@�@embox>@�reeeeeeeee<@@@@@�@�[K[29C@c?exp@embox>@�reeeeeeeee<@@@@@�@�@c?exp@[K[36Cembox>@�reeeeeeeee<@@@@@�@�@c?expc@[K[37Cembox>@�reeeeeeeee<@@@@@�@�@c?expce@[K[38Cembox>@�reeeeeeeee<@@@@@�@�@c?expcex@[K[39Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexp@[K[40Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexpo@[K[41Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexpor@[K[42Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexport@[K[43Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[Kembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[K[51Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@[K[52Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@@[K[53Cembox>@�reeeeeeeee<@@@@@�@�@c?expcexportd�@�@[K[54C
+@�reeeeeeeee<@@@@: Command not found
+tish error: #-2
+embox>
+�sem���@@@ccd�@@;c�6�@�@embox>@�reeeeeeeee<@@@@[K[23C�embox>@�reeeeeeeee<@@@@�[K[25C<@@@U@��d�<@Oc
+@�reeeeeeeee<@@@@: Command not found
+tish error: #-2
+embox>�256>6TQe|pot@@@embox>@�reeeeeeeee<@@@@[K[23C@@@�@embox>@�reeeeeeeee<@@@@@@@�[K[29Cembox>@�reeeeeeeee<@@@@@@@�[K[31C<@@�cd��lQe|pot?embox>@�[K[8Cx@
+@�x@: Command not found
+tish error: #-2
+embox>
+�semembox>[K[6C�@@@T?exp@embox>�@@@T?exp@[K[16Cembox>�@@@T?expc@[K[17Cembox>�@@@T?expcd@[K[18Cembox>�@@@T?expcd@[K[19Cembox>�@@@T?expcd�@[K[20Cembox>�@@@T?expcd�@[K[21Cembox>�@@@T?expcd�@@[K[22Cembox>�@@@T?expcd�@@@[K[23Cembox>�@@@T?expcd�@@;@[K[24Cembox>�@@@T?expcd�@@;c@[K[25Cembox>�@@@T?expcd�@@;c�@[K[26Cembox>�@@@T?expcd�@@;c�6@[K[27Cembox>�@@@T?expcd�@@;c�65@[K[28Cembox>�@@@T?expcd�@@;c�656@[K[29Cembox>�@@@T?expcd�@@;c�656>@[K[30Cembox>�@@@T?expcd�@@;c�656>6@[K[31Cembox>�@@@T?expcd�@@;c�656>6T@[K[32Cembox>�@@@T?expcd�@@;c�656>6TQ@[K[33Cembox>�@@@T?expcd�@@;c�656>6TQe@[K[34Cembox>�@@@T?expcd�@@;c�656>6TQe|@[K[35Cembox>�@@@T?expcd�@@;c�656>6TQe|p@[K[36Cembox>�@@@T?expcd�@@;c�656>6TQe|po@[K[37Cembox>�@@@T?expcd�@@;c�656>6TQe|pot@[K[38Cembox>�@@@T?expcd�@@;c�656>6TQe|pot@@[K[39Cembox>�@@@T?expcd�@@;c�656>6TQe|pot@@[K[40Cembox>�@@@T?expcd�@@;c�656>6TQe|pot@@@[K[41Cembox>�@@@T?expcd�@@;c�656>6TQe|pot@@@@[K[42Cembox>@�x@[K[10C@@
+@�x@: Command not found
+tish error: #-2
+embox>@�@embox>@�[K[8Cembox>@�[K[10C<@@@@�@embox>@�x@[K[10C�embox>@�x@�[K[12C<@@@�
+@�x@: Command not found
+tish error: #-2
+embox>
+ ��|
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�s򢂢embox>
+�[K[8Cembox>
+ �[K[9Chht�y�ht���|
+�hht: Command not found
+tish error: #-2
+embox>
+�s3���embox>
+ �hht[K[12C�򢂢embox>
+�[K[8C��hht����
+���hht: Command not found
+tish error: #-2
+embox>
+sk|
+tish error: #-22
+embox>
+�sembox>
+[K[7Cembox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��
+[K[9Cembox>��
+[K[10Cembox>�򶂢
+[K[11Cembox>
+���hht[K[13C��hht���|
+���hht��hht: Command not found
+tish error: #-2
+embox>
+ logout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

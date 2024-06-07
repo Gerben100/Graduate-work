@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>x%iiiiiiembox>x%iiiiii[K[15Cembox>x%iiiiii[K[14C�iidiiiiiiiiii�[?5h[?5l
+x%iiiiii�iidiiiiiiiiii�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Ciexport�i@embox>
+iexport�i@[K[6Cembox>
+iexport�i@[K[7Cembox>
+iexport�i@[K[8Cembox>
+iexport�i@[K[9Cembox>i
+iexport�i@[K[10Cembox>ii
+iexport�i@[K[11Cembox>iii
+iexport�i@[K[12Cembox>iiii
+iexport�i@[K[13Cembox>iiiii
+iexport�i@[K[14Cembox>iiiiii
+iexport�i@[K[15Cembox>iiiiii�
+iexport�i@[K[16Cembox>iiiiii��
+iexport�i@[K[17Cembox>iiiiii���
+iexport�i@[K[18Cembox>iiiiii����
+iexport�i@[K[19Cembox>iiiiii�����
+iexport�i@[K[20Cembox>iiiiii������
+iexport�i@[K[21Cembox>iiiiii�������
+iexport�i@[K[22Cembox>iiiiii��������
+iexport�i@[K[23Cembox>iiiiii���������
+iexport�i@[K[24Cembox>iiiiii����������
+iexport�i@[K[25Cembox>iiiiii�����������
+iexport�i@[K[26Cembox>iiiiii������������
+iexport�i@[K[27Cembox>iiiiii�������������
+iexport�i@[K[28Cembox>iiiiii��������������
+iexport�i@[K[29Cembox>iiiiii���������������
+iexport�i@[K[30Cembox>iiiiii����������������
+iexport�i@[K[31Cembox>iiiiii����������������@
+iexport�i@[K[32Cembox>iiiiii����������������@
+iexport�i@[K[6Cembox>iiiiii����������������@
+iexport�i@[K[7Cembox>iiiiii����������������@
+iexport�i@[K[8Cembox>iiiiii����������������@
+iexport�i@[Kembox>iiiiiii����������������@
+iexport�i@[Kembox>iiiiiiii����������������@
+iexport�i@[Kembox>iiiiiiiii����������������@
+iexport�i@[Kembox>iiiiiiiiii����������������@
+iexport�i@[Kembox>iiiiiiiiiii����������������@
+iexport�i@[Kembox>iiiiiiiiiiii����������������@
+iexport�i@[K[15Cembox>iiiiiiiiiiiii����������������@
+iexport�i@[K[16Cembox>iiiiiiiiiiiiii����������������@
+iexport�i@[K[17C
+embox>iiiiembox>iii[K[9C[?5h[?5l
+iii: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>embox>[K[6C�iiiiiiiiexitiiiii/�[?5h[?5l
+�iiiiiiiiexitiiiii/�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x%iiiiiiembox>x%iiiiii[K[16C�iiiiii�iii��dYiii�
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+�
+embox>�i�ilsi����gembox>�i�ilsi����[K[19Cus
+embox>
+embox>
+[K[7C
+embox>x%export`embox>x%export`[K[15C�iiiiiiii�iiiii�[?5h[?5l
+x%export`�iiiiiiii�iiiii�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x%iiiiihembox>x%iiiiih[K[15C@iiiiiiiiii�i�[?5h[?5l
+x%iiiiih: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+iCxls%iii)iiiiiiii�iii
+embox>ii�iii
+n: Command not found
+tish error: #-2
+embox>
+
+embox>x%iiiiii�iiiiiiiiiiii�[?5h[?5l
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+iii
+T
+embox>gPutx%fiiie
+T
+embox>gPutx%fiiieii�[?5h[?5lii�[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

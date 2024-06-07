@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>E
+E: Command not found
+tish error: #-2
+embox>pi�X ��SSSSSSS�cx�66F6>6T@embox>pi�X ��SSSSSSS�cx�66F6>6T@[K[6Cembox>�pi�X ��SSSSSSS�cx�66F6>6T@[K[7Cembox>��pi�X ��SSSSSSS�cx�66F6>6T@[K[8Cembox>��@pi�X ��SSSSSSS�cx�66F6>6T@[K[9Cembox>��@@pi�X ��SSSSSSS�cx�66F6>6T@[K[10Cembox>��@@@pi�X ��SSSSSSS�cx�66F6>6T@[K[11Cembox>��@@@Qpi�X ��SSSSSSS�cx�66F6>6T@[K[12Cembox>��@@@Qpi�X ��SSSSSSS�cx�66F6>6T@[K[13Cembox>��@@@Q�pi�X ��SSSSSSS�cx�66F6>6T@[K[14Cembox>��@@@Q�@pi�X ��SSSSSSS�cx�66F6>6T@[K[15Cembox>��@@@Q�@@pi�X ��SSSSSSS�cx�66F6>6T@[K[16Cembox>��@@@Q�@@@pi�X ��SSSSSSS�cx�66F6>6T@[K[17Cembox>��@@@Q�@@@_pi�X ��SSSSSSS�cx�66F6>6T@[K[18Cembox>��@@@Q�@@@_?pi�X ��SSSSSSS�cx�66F6>6T@[K[19Cembox>��@@@Q�@@@_?5pi�X ��SSSSSSS�cx�66F6>6T@[K[20Cembox>��@@@Q�@@@_?5@pi�X ��SSSSSSS�cx�66F6>6T@[K[21Cembox>��@@@Q�@@@_?5@@pi�X ��SSSSSSS�cx�66F6>6T@[K[22Cembox>��@@@Q�@@@_?5@@@pi�X ��SSSSSSS�cx�66F6>6T@[K[23C
+��@@@Q: Command not found
+tish error: #-2
+embox>@@/@eIuo�[?5h[?5lembox>@@/@eIuo�[K[6Cembox>@@/@eIuo�[K[7Cembox>�@@/@eIuo�[K[8Cembox>�r@@/@eIuo�[K[9Cembox>�r�@@/@eIuo�[K[10Cembox>�r�@@@/@eIuo�[K[11Cembox>�r�@<@@/@eIuo�[K[12Cembox>�r�@<@@@/@eIuo�[K[13Cembox>�r�@<@@@@/@eIuo�[K[14Cembox>�r�@<@@@@@/@eIuo�[K[15Cembox>�r�@<@@@@@@/@eIuo�[K[16Cembox>�r�@<@@@@@@@/@eIuo�[K[17Cembox>�r�@<@@@@@@@@/@eIuo�[K[18Cembox>�r�@<@@@@@@;@@/@eIuo�[K[19Cembox>�r�@<@@@@@@;@@@/@eIuo�[K[20Cembox>�r�@<@@@@@@;@\@@/@eIuo�[K[21Cembox>�r�@<@@@@@@;@\@@@/@eIuo�[K[22Cembox>�r�@<@@@@@@;@\@@@@/@eIuo�[K[23Cembox>�r�@<@@@@@@;@\@@@@@/@eIuo�[K[24Cembox>�r�@<@@@@@@;@\@@@@@@/@eIuo�[K[25Cembox>�r�@<@@@@@@;@\@@@@@@@/@eIuo�[K[26Cembox>�r�@<@@@@@@;@\@@@@@@@@/@eIuo�[K[27Cembox>�r�@<@@@@@@;@\@@@@@@?@@/@eIuo�[K[28Cembox>�r�@<@@@@@@;@\@@@@@@?e@@/@eIuo�[K[29Cembox>�r�@<@@@@@@;@\@@@@@@?ex@@/@eIuo�[K[30Cembox>�r�@<@@@@@@;@\@@@@@@?exp@@/@eIuo�[K[31Cembox>�r�@<@@@@@@;@\@@@@@@?exp@@@/@eIuo�[K[32Cembox>�r�@<@@@@@@;@\@@@@@@?exp@p@@/@eIuo�[K[33Cembox>�r�@<@@@@@@;@\@@@@@@?exp@pi@@/@eIuo�[K[34Cembox>�r�@<@@@@@@;@\@@@@@@?exp@pin@@/@eIuo�[K[35Cembox>�r�@<@@@@@@;@\@@@@@@?exp@pin@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin@@/@eIuo�[K[35Cembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c6@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c66@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c665@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c6656@@/@eIuo�[Kembox>�r�@<@@@@@@;@\@@@@@@?exp@pin�@c6656>@@/@eIuo�[K[43C
+�r�@<@@@@@@;@\@@@@@@?exp@pin�@c6656>@@/@eIuo�: Command not found
+tish error: #-2
+embox>@T@embox>@T@[K[9C�@@@@@
+@T@�@@@@@: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>pi�e embox>
+E[K[8C�Sembox>
+E�S[K[6Cembox>
+E�S[K[7Cembox>
+E�S[K[6Cembox>�
+E�S[K[7Cembox>�@
+E�S[K[8Cembox>�@c
+E�S[K[9Cembox>�@c6
+E�S[K[10Cembox>�@c66
+E�S[K[11Cembox>�@c66B
+E�Sembox>�@c66B6
+E�Sembox>�@c66B6>
+E�Sembox>�@c66B6>@
+E�Sembox>�@c66B6>@T
+E�Sembox>�@c66B6>@T@
+E�Sembox>�@c66B6>@T@
+E�Sembox>�@c66B6>@T@
+E�Sembox>�@c66B6>@T@
+E�Sembox>@�@c66B6>@T@
+E�Sembox>@@�@c66B6>@T@
+E�Sembox>@@��@c66B6>@T@
+E�Sembox>@@�r�@c66B6>@T@
+E�Sembox>@@�rs�@c66B6>@T@
+E�Sembox>@@�r�@c66B6>@T@
+E�Sembox>@@�r@�@c66B6>@T@
+E�Sembox>@@�r@@�@c66B6>@T@
+E�Sembox>@@�r@@@�@c66B6>@T@
+E�Sembox>@@�r@@@@�@c66B6>@T@
+E�Sembox>@@�r@@@@@�@c66B6>@T@
+E�Sembox>@@�r@@@@@@�@c66B6>@T@
+E�Sembox>@@�r@@@@@@/�@c66B6>@T@
+E�Sembox>@@�r@@@@@@/@�@c66B6>@T@
+E�Sembox>@@�r@@@@@@/@e�@c66B6>@T@
+E�Sembox>@@�r@@@@@@/@ex�@c66B6>@T@
+E�Sembox>@@�r@@@@@@/@exp�@c66B6>@T@
+E�S
+embox>o�[?5h[?5lembox>o�[K[7Cembox>o�[K[8Cembox>o��[K[9Cembox>o�r�[K[10Cembox>o�r��[K[11Cembox>o�r�@�[K[12Cembox>o�r�@<�[K[13Cembox>o�r�@<@�[K[14Cembox>o�r�@<@@�[K[15Cembox>o�r�@<@@@�[K[16Cembox>o�r�@<@@@U�[K[17Cembox>o�r�@<@@@U@�[K[18Cembox>o�r�@<@@@U@@�embox>o�r�@<@@@U@@;�embox>o�r�@<@@@U@@;@�embox>o�r�@<@@@U@@;@\�embox>o�r�@<@@@U@@;@\_�embox>o�r�@<@@@U@@;@\_@�embox>o�r�@<@@@U@@;@\_@@�embox>o�r�@<@@@U@@;@\_@@d�embox>o�r�@<@@@U@@;@\_@@d�embox>o�r�@<@@@U@@;@\_@@d@�embox>o�r�@<@@@U@@;@\_@@d@?�embox>o�r�@<@@@U@@;@\_@@d@?e�embox>o�r�@<@@@U@@;@\_@@d@?ex�embox>o�r�@<@@@U@@;@\_@@d@?exp�embox>o�r�@<@@@U@@;@\_@@d@?exp@�embox>o�r�@<@@@U@@;@\_@@d@?exp@p�embox>o�r�@<@@@U@@;@\_@@d@?exp@pi�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��embox>o�r�@<@@@U@@;@\_@@d@?exp@pin���embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c66�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c665�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T@�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T@�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T@�embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T@��embox>o�r�@<@@@U@@;@\_@@d@?exp@pin��@c6656>@T@��
+o�r�@<@@@U@@;@\_@@d: Command not found
+tish error: #-2
+embox>@7@@@
+@7@@@: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>gout�@@@Q�@@@@�r�@<@@@@@@;�@\@@@@@@?exp@pin�@
+gout�@@@Q: Command not found
+tish error: #-2
+embox>c6656>@T@�@@@@?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

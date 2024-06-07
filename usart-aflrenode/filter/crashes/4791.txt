@@ -1,0 +1,204 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���� � �Qi
+����: Command not found
+tish error: #-2
+embox>
+ii
+ii: Command not found
+tish error: #-2
+embox>
+rt@��
+rt@: Command not found
+tish error: #-2
+embox>
+���"9(ii
+�: Command not found
+tish error: #-2
+embox>
+����x�� �ii
+����x��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C[?5h[?5lembox>�
+[K[8Cembox>��
+[K[9Cembox>��[K[9Cx� �ii
+��x: Command not found
+tish error: #-2
+embox>
+expvd
+expvd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�l
+[K[9Cembox>�lo
+[K[10Cembox>�log
+[K[11Cembox>�log|
+[K[12Cembox>�log|u
+[K[13Cembox>�log|ut
+[K[14Cembox>�log|ut
+[K[15Cembox>�log|ut 
+[K[16Cembox>�log|ut �
+[Kembox>�log|ut �i
+[Kembox>�log|ut �i~
+[K[19Cembox>�log|ut �i~i
+[K[20Cembox>�log|ut �i~i�
+[K[21C
+�log|ut: Command not found
+tish error: #-2
+embox>
+��
+
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>���
+[K[10Cembox>���[K[10Cx�� �iKdi
+���x: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>8
+[Kembox>8�
+[Kembox>8��
+[Kembox>8���
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9C
+embox>
+Ecd
+Ecd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>�
+embox>�b
+embox>�b�
+embox>�b�w
+embox>�b�wo
+embox>�b�wo_
+embox>�b�wo_�
+embox>�b�wo_ǥ
+embox>�b�wo_�
+embox>�b�wo_ǥ
+embox>�b�wo_ǥ�
+embox>�b�wo_ǥ�b
+embox>�b�wo_ǥ�bk
+embox>�b�wo_ǥ�bk
+
+�b�wo_ǥ�bk: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+embox>
+embox>d
+embox>d�
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�i: Command not found
+tish error: #-2
+embox>
+���x� �ii
+���x: Command not found
+tish error: #-2
+embox>
+������
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+�cd�蜰�: Command not found
+tish error: #-2
+embox>
+
+�蜰�Brcd�: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+embox>
+
+���: Command not found
+tish error: #-2
+embox>
+
+��蜰�: Command not found
+tish error: #-2
+embox>
+d@
+d@: Command not found
+tish error: #-2
+embox>
+
+����蜰��: Command not found
+tish error: #-2
+embox>
+
+d����: Command not found
+tish error: #-2
+embox>
+���x��x��
+embox>e
+���x: Command not found
+tish error: #-2
+embox>
+l?����
+l?����: Command not found
+tish error: #-2
+embox>
+
+embox>
+S��
+S: Command not found
+tish error: #-2
+embox>
+��
+���x�: Command not found
+tish error: #-2
+embox>
+eZi5
+5[Zi5~�5: Command not found
+tish error: #-2
+embox>
+
+���x: Command not found
+tish error: #-2
+embox>
+%
+%: Command not found
+tish error: #-2
+embox>
+00000000000000000p0000000�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

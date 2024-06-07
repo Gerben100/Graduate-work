@@ -1,0 +1,103 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+�@��@O
+tish error: #-22
+embox>
+lvuz
+tish error: #-22
+embox>
+敕����
+tish error: #-22
+embox>
+~c
+~: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+r
+��xp/r��
+tish error: #-22
+embox>
+E�6��
+embox>�embox>[K[6Cxcd@�
+xcd@�: Command not found
+tish error: #-2
+embox>
+d�66dxti�
+tish error: #-22
+embox>
+Jembox>
+J[K[6Cembox>
+J[K[7Cembox>
+J[K[8Cembox>
+J[K[9C
+embox>
+d����iex�
+tish error: #-22
+embox>
+�6 �x�a
+�6: Command not found
+tish error: #-2
+embox>
+�ogoutttt�t�
+tish error: #-22
+embox>
+���6��we���6��ei�i�
+tish error: #-22
+embox>
+d�;6���i�i�
+tish error: #-22
+embox>
+d��embox>
+d�[K[10C�
+embox>xeis]]]]]c]]]]]]]\]]�
+xeis]]]]]c]]]]]]]\]]�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cls
+ls: Command not found
+tish error: #-2
+embox>
+e�lm�
+e�lm�: Command not found
+tish error: #-2
+embox>
+d�6c�
+embox>xei�
+xei�: Command not found
+tish error: #-2
+embox>
+n�6\@@@p@�@@@ =@@62� =@@xxxxxxxxxxxxxxxxxxxxxxx
+e�lm�62�: Command not found
+tish error: #-2
+embox>xxxxxpo6
+xxxxxpo6: Command not found
+tish error: #-2
+embox>
+d�66 6>ortxpoooo@ 6>ortxp@�@� =@@@[@@@�@@@ =
+tish error: #-22
+embox>@@@Fyx�@@@c6656>6X�66F6>6������@QexVo6
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

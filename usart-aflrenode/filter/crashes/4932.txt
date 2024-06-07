@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�����prtembox>�����prt[K[6Cembox>������prt[K[7Cembox>�������prt[K[8Cembox>��e�����prt[K[9Cembox>��e-�����prt[K[10Cembox>��e-������prt[K[11Cembox>��e-������prt[K[10Cembox>��e-������prt[K[11Cembox>��e-�������prt[K[12Cembox>��e-�W������prt[K[13Cembox>��e-�We������prt[K[14Cembox>��e-�We�������prt[K[15Cembox>��e-�We��������prt[K[16Cembox>��e-�We��e������prt[K[17C
+��e-: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��F�-
+��F�-: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[K[19C��ye
+adduser.conf��ye: Command not found
+tish error: #-2
+embox>
+e
+tish error: #-22
+embox>��ۂxpo�xport
+��ۂxpo�xport: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[11Cej
+tish error: #-22
+embox>
+�000��
+embox>8I888888�e-�
+8I888888�e-�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>�
+[Kembox>��
+[Kembox>��
+[Kembox>���
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+��: Command not found
+tish error: #-2
+embox>
+D@@@@@@@@l@�
+D@@@@@@@@l@�: Command not found
+tish error: #-2
+embox>
+��ye�
+��e-�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>iyI�
+i: Command not found
+tish error: #-2
+embox>
+�d����e
+�d����e: Command not found
+tish error: #-2
+embox>
+��ye
+��e-�-���e: Command not found
+tish error: #-2
+embox>
+���[H[H[2J���e
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+��
+��N��: Command not found
+tish error: #-2
+embox>
+��e�
+��e: Command not found
+tish error: #-2
+embox>
+��cdyH
+�: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+�ze
+��e-�: Command not found
+tish error: #-2
+embox>
+��yg
+embox>
+��,e�
+��e-�: Command not found
+tish error: #-2
+embox>
+�����������������������������������������e-�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

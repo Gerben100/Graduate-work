@@ -1,0 +1,449 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/kernel/task/multi/multi.c:351
+[8Cin function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>--- ex@rembox>--- ex@r[K[6C
+---: Command not found
+tish error: #-2
+embox>
+��xpori
+��xpor: Command not found
+tish error: #-2
+embox>
+pppembox>
+��xpor[K[13Cpi
+��xporp: Command not found
+tish error: #-2
+embox>
+�u
+embox>�t
+�t: Command not found
+tish error: #-2
+embox>
+�p�ri
+tish error: #-22
+embox>
+rembox>
+r[K[6C
+r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[9Cembox>�
+[K[10Cembox>�m
+[K[11C
+�: Command not found
+tish error: #-2
+embox>
+ nodembox>
+ nod[K[11Cembox>
+ nod[K[12Cembox>
+ nodi[K[13C
+nod: Command not found
+tish error: #-2
+embox>
+� expoembox>
+� expo[K[13Cembox>
+� expo�[K[14C
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+de~pori
+de~por: Command not found
+tish error: #-2
+embox>
+x������������������pin�� -x��ri
+x: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+  ��i
+�: Command not found
+tish error: #-2
+embox>
+xe/�x��
+x��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+x��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+x��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+x��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+xe/�x��
+��: Command not found
+tish error: #-2
+embox>
+<�xpori
+<�xpor: Command not found
+tish error: #-2
+embox>
+(tt
+(tt: Command not found
+tish error: #-2
+embox>
+�pbpinninn
+�pbpinninn: Command not found
+tish error: #-2
+embox>
+ e|�lsor 
+e|�lsor: Command not found
+tish error: #-2
+embox>
+ ext
+��/�x/�x: Command not found
+tish error: #-2
+embox>
+ ex��i
+ex: Command not found
+tish error: #-2
+embox>
+ 
+xpor: Command not found
+tish error: #-2
+embox>
+]
+]: Command not found
+tish error: #-2
+embox>
+P\afJ
+P\af: Command not found
+tish error: #-2
+embox>
+ expoRi
+expoR: Command not found
+tish error: #-2
+embox>
+������i
+������i: Command not found
+tish error: #-2
+embox>
+O
+O: Command not found
+tish error: #-2
+embox>
+ poi
+po: Command not found
+tish error: #-2
+embox>
+�xpori
+�xpor: Command not found
+tish error: #-2
+embox>
+�ypor
+i�ypor: Command not found
+tish error: #-2
+embox>
+!exp ri
+!exp: Command not found
+tish error: #-2
+embox>
+m
+�7��r: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+[H[H[2J�������
+embox>�BRo�inW(k
+�BRo�inW(k: Command not found
+tish error: #-2
+embox>
+xe�pori
+xe�por: Command not found
+tish error: #-2
+embox>
+ |oooooo�
+|oooooo: Command not found
+tish error: #-2
+embox>
+cdh
+cdh: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eopxri
+eopxr: Command not found
+tish error: #-2
+embox>
+�dxpori
+�dxpori: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+߁
+tish error: #-22
+embox>
+wp�i
+wp�: Command not found
+tish error: #-2
+embox>
+ ri
+r: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+;mo5o�tt
+;mo5o�tt: Command not found
+tish error: #-2
+embox>
+ ex��ri
+ex��r: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+expo{i
+expo{: Command not found
+tish error: #-2
+embox>
+ exp�sI
+exp�s: Command not found
+tish error: #-2
+embox>
+�expoWpo
+�expoWpio: Command not found
+tish error: #-2
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+ }xpori
+: Command not found
+tish error: #-2
+embox>
+$
+$: Command not found
+tish error: #-2
+embox>
+���ori
+��or: Command not found
+tish error: #-2
+embox>
+oPdi
+Pdi: Command not found
+tish error: #-2
+embox>
+E e�xppinorovi
+E: Command not found
+tish error: #-2
+embox>
+ expor p
+expor: Command not found
+tish error: #-2
+embox>
+z
+z: Command not found
+tish error: #-2
+embox>
+�logou
+�
+�logou: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+ Dpg�i
+pg�: Command not found
+tish error: #-2
+embox>
+7ex�ori
+7ex�or: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�Q
+�: Command not found
+tish error: #-2
+embox>
+ �
+embox>
+ k� k�porpori
+k�: Command not found
+tish error: #-2
+embox>
+lsi
+lsi: Command not found
+tish error: #-2
+embox>
+ Ex�orEx�or$$
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,151 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@��������
+�@��: Command not found
+tish error: #-2
+embox>�
+embox>
+@embox>
+@[K[10C��M�噀ehexportport
+tish error: #-22
+embox>
+��������embox>
+�������[K[14C�����
+������������: Command not found
+tish error: #-2
+embox>
+�@embox>
+�@[K[10C���embox>
+�@��[K[12C�@@@@@@@@@@@@@@@@@@@@@@@@@@��
+�@: Command not found
+tish error: #-2
+embox>
+"@embox>
+"[K[8Ccdexitqt�}��pnqt���
+(null): Command not found
+tish error: #-2
+embox>
+#  ��������y��embox>
+#  ��������y���yei
+#: Command not found
+tish error: #-2
+embox>
+#����������6embox>
+#[K[8C�tei
+#: Command not found
+tish error: #-2
+embox>
+����y�߀��yeei
+tish error: #-22
+embox>
+#��embox>
+#�[K[15C���yei
+#: Command not found
+tish error: #-2
+embox>
+uogoembox>
+uogo[K[6Cembox>e
+uogo[K[7Cembox>ex
+uogo[K[8Cembox>exK
+uogo[K[9Cembox>exKt
+uogo[K[10Cembox>exKtg
+uogo[K[11Cembox>exKtg]
+uogo[K[12Cembox>exKtg]u
+uogo[K[13Cembox>exKtg]u4
+uogo[K[14Cembox>exKtg]u4�
+uogo[K[15Cembox>exKtg]u4��
+uogo[K[16Cembox>exKtg]u4���
+uogo[K[17Cembox>exKtg]u4���M
+uogo[K[18Cembox>exKtg]u4���MS
+uogoembox>exKtg]u4���MSo
+uogoembox>exKtg]u4���MSog
+uogoembox>exKtg]u4���MSogo
+uogoembox>exKtg]u4���MSogo
+uogoembox>exKtg]u4���MSogo
+uogoembox>exKtg]u4���MSogo
+uogoembox>exKtg]u4���MSogoi
+uogo
+exKtg]u4���MSogo: Command not found
+tish error: #-2
+embox>
+#��embox>
+#���oe
+#��: Command not found
+tish error: #-2
+embox>
+#��logoutei
+#����: Command not found
+tish error: #-2
+embox>
+#�������
+embox>�����������yei
+��������: Command not found
+tish error: #-2
+embox>
+#����111�
+embox>111111111111F�i
+111111111111F: Command not found
+tish error: #-2
+embox>
+#�����ye
+embox>
+�DF
+tish error: #-22
+embox>
+#����ye(
+#: Command not found
+tish error: #-2
+embox>
+#A�665ls6@@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>?@@@@��@@@@@\@@ee
+?@@@@��@@@@@\@@ee: Command not found
+tish error: #-2
+embox>
+#A�6@@?@��@
+@@@cd@o�@@@@?�?�: Command not found
+tish error: #-2
+embox>ex@@@@?@@o@@@@@@@@@@d
+@�@@@@?�: Command not found
+tish error: #-2
+embox>ee
+#����: Command not found
+tish error: #-2
+embox>
+#A�675ls6exi�?@��@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>t?@��0exit@@H���A�@@@@@\it?@��0exit@��@@Iee
+�@@@@@\it?@��0exit@��@@Iee: Command not found
+tish error: #-2
+embox>
+#A�665ls6@@@���@@?@@@@��@@@@@\@@ee
+#A�665ls6@@@��: Command not found
+tish error: #-2
+embox>
+#A�665ls6@@��@exit@@@@@@@?@@o@@e@@
+#����@@: Command not found
+tish error: #-2
+embox>?@@@@��@@@@@\@@ee
+?@@@@��@@@@@\@@ee: Command not found
+tish error: #-2
+embox>
+#A�665ls6@@��@exexporti�@@@@@@@@?@@o@@K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

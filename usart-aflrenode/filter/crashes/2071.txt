@@ -1,0 +1,195 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��b"
+��b": Command not found
+tish error: #-2
+embox>
+c*�bbbl
+c*�bbbl: Command not found
+tish error: #-2
+embox>
+�xbbeembox>
+c*�bbbl[K[14C/���xbb�b
+c*�bbbl/�: Command not found
+tish error: #-2
+embox>
+�x�embox>
+c*�bbbl/�[K[16C/��bbbbbb
+c*�bbbl/�/�: Command not found
+tish error: #-2
+embox>
+�xeembox>
+c*�bbbl/�/�[K[18C/��x�xeembox>
+c*�bbbl/�[K[16C�x�bbb/�ptbpin
+c*�bbbl/��x�bbb/�: Command not found
+tish error: #-2
+embox>
+�x�xeembox>
+c*�bbbl/��x�bbb/�[Kexport/��.bbAbb
+c*�bbbl/��x�bbb/�export/�: Command not found
+tish error: #-2
+embox>
+xx�embox>
+xx[K[9CWembox>[K[32Cx�exit|b
+c*�bbbl/��x�bbb/�export/�x: Command not found
+tish error: #-2
+embox>
+�x�xex�xeembox>[K[32C/��bbembox>
+c*�bbbl/��x�bbb/�/��bbbbbQ
+c*�bbbl/��x�bbb/�/�: Command not found
+tish error: #-2
+embox>
+exp�������������������������rt��embox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+�x�xutglogo  obbbb
+�x�xut: Command not found
+tish error: #-2
+embox>
+�embox>
+�x�xuto�a��G��embox>
+�x�xuto�a��G�embox>
+�x�xuto�a��G�embox>
+�x�xuto�a��Gembox>
+�x�xuto�a��embox>
+�x�xuto�a��ib�embox>
+�x�xuto�a��ibembox>
+�x�xuto�a��ibembox>
+�x�xuto�a��iembox>
+�x�xuto�a��embox>
+�x�xuto�a�ibbsbb
+�x�xut: Command not found
+tish error: #-2
+embox>
+�ls��embox>
+�ls��embox>
+�ls���embox>
+�ls��k�embox>
+�ls��k��
+�ls: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+��d�
+��d�: Command not found
+tish error: #-2
+embox>
+e��x�xe��
+e��x�xe��: Command not found
+tish error: #-2
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�k�xe��
+�k�xe��: Command not found
+tish error: #-2
+embox>
+�x�߇�
+�x�߇�: Command not found
+tish error: #-2
+embox>
+nx�{
+nx�: Command not found
+tish error: #-2
+embox>
+�exportx�xe��
+�exportx�xe��: Command not found
+tish error: #-2
+embox>
+�
+embox>
+
+embox>�/�@@@A\@@dxp@�@@@@Q@@@@@@�@@@�
+��d�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�x��8������
+�x��8������: Command not found
+tish error: #-2
+embox>
+�ldlllll�lllpin�l
+�ldlllll�lllpin�l: Command not found
+tish error: #-2
+embox>
+߇��
+embox>���
+embox>
+�x�í���
+�x�: Command not found
+tish error: #-2
+embox>
+@�
+tish error: #-22
+embox>
+�lsc7 ���pinc7���lo��
+tish error: #-22
+embox>
+�s�8�cd�
+�s�: Command not found
+tish error: #-2
+embox>
+߀x�8����
+߀x�: Command not found
+tish error: #-2
+embox>
+�x�8����
+embox>
+�x�
+exkt���: Command not found
+tish error: #-2
+embox>
+�x�yexeN*�/xem
+�x�ye: Command not found
+tish error: #-2
+embox>
+�x�xexeN��(xem
+�x�xe: Command not found
+tish error: #-2
+embox>\\@@exp@�@@@@?@@
+\\@@exp@�@@@@?@@: Command not found
+tish error: #-2
+embox>
+�x�xexeN��(xem��@@��ls@@@@@@@@@?@@@@@@
+�x�xe: Command not found
+tish error: #-2
+embox>@
+embox>@@v�@@?@@@�665N>5@@\@@@@?@@
+��d�665N>5@@\@@@@?@@: Command not found
+tish error: #-2
+embox>
+�x�xexeN��(xem
+�x�xe: Command not found
+tish error: #-2
+embox>xxxxxxxxxh�x��@@@@@@@@@?@@@@@@@@@@\\@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

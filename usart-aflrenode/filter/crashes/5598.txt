@@ -1,0 +1,62 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>��[K[7Cembox>��[K[8Cembox>��[K[6C[?5h[?5l[?5h[?5lembox>���[K[7Cembox>�T��[K[8Cembox>�TT��[K[9Cembox>�TTT��[K[10Cembox>�TTTT��[K[11Cembox>�TTTTd��[K[12Cembox>�TTTTd��[K[13Cembox>�TTTTd7��[K[14Cembox>�TTTTd7T��[K[15Cembox>�TTTTd7TU��[K[16Cembox>�TTTTd7TUT��[K[17Cembox>�TTTTd7TUTT��[K[18Cembox>�TTTTd7TUTTT��[K[19Cembox>�TTTTd7TUTTTT��[K[20Cembox>�TTTTd7TUTTTTT��[K[21Cembox>�TTTTd7TUTTTTT���[K[22Cembox>�TTTTd7TUTTTTT�T��[K[23Cembox>�TTTTd7TUTTTTT�Td��[K[24Cembox>�TTTTd7TUTTTTT�Td��[K[25Cembox>�TTTTd7TUTTTTT�Td7��[K[26Cembox>�TTTTd7TUTTTTT�Td7T��[K[27Cembox>�TTTTd7TUTTTTT�Td7TT��[K[28Cembox>�TTTTd7TUTTTTT�Td7TTT��[K[29Cembox>�TTTTd7TUTTTTT�Td7TTTT��[K[30Cembox>�TTTTd7TUTTTTT�Td7TTTTT��[K[31Cembox>�TTTTd7TUTTTTT�Td7TTTTT���[K[32Cembox>�TTTTd7TUTTTTT�Td7TTTTT�T��[K[33C
+�TTTTd: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>��[K[7Cembox>��[K[8C[?5h[?5l
+��: Command not found
+tish error: #-2
+embox>�[?5h[?5l[?5h[?5l���������[?5h[?5l
+embox>
+embox>������
+������: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>��[K[7Cembox>�d�[K[8C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>�d�[K[9C[?5h[?5lembox>�dc�[K[10Cembox>�d�[K[9Cembox>�d��[K[10Cembox>�d��[K[11Cembox>�d��[K[12C[?5h[?5lembox>�d�[K[12C[?5h[?5l*�[?5h[?5l
+embox>��[?5h[?5ld���
+��d���: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>��[K[7Cembox>��[K[8C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>�l�[K[9Cembox>�ls�[K[10Cembox>�lsd�[K[11C[?5h[?5lembox>�lsdd�[K[12C[?5h[?5lembox>�lsdd[K[12C[?5h[?5l*�[?5h[?5l
+embox>�������
+�������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@@@@@@@@@V�o}@����D'@
+embox>�%@@J@@?�
+�%@@J@@?: Command not found
+tish error: #-2
+embox>@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@e@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@ex@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@ex�@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@ex��@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@ex���@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@embox>@ex����@@@@@@@%@@J@@?�@@@@@@@8�@n!@@@@@J@xoort@
+@ex����@@@@@@@%@@J@@?: Command not found
+tish error: #-2
+embox>��logol�����Qogodp
+��logol�����Qogodp: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@@@�yei@@@|dembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

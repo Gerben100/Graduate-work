@@ -1,0 +1,139 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�llsouexitt
+�llsouexitt: Command not found
+tish error: #-2
+embox>
+������t
+������t: Command not found
+tish error: #-2
+embox>
+lsss
+lsss: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7CF
+embox>�%
+�%: Command not found
+tish error: #-2
+embox>
+e���ln����embox>
+e���ln����[K[6Cembox>
+e���ln����[K[7Cembox>s
+e���ln����[K[8Cembox>se
+e���ln����[K[9Cembox>sex
+e���ln����[K[10Cembox>sexi
+e���ln����[K[11Cembox>sexit
+e���ln����[K[12Cembox>sexit�
+e���ln����[K[13Cembox>sexit��
+e���ln����[K[14Cembox>sexit��e
+e���ln����[K[15Cembox>sexit��ex
+e���ln����[K[16Cembox>sexit��ex�
+e���ln����[K[17Cembox>sexit��ex�%
+e���ln����[K[18C
+embox>
+��embox>�%[K[8Ce�%�%
+�%e�%�%: Command not found
+tish error: #-2
+embox>
+@�embox>[K[6C
+embox>
+lexitport6
+embox>�sxport6
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>Ȁ
+Ȁ: Command not found
+tish error: #-2
+embox>
+�l�eeF
+embox>�%
+�%: Command not found
+tish error: #-2
+embox>
+�l��l%
+�l��l%: Command not found
+tish error: #-2
+embox>
+�
+embox>x
+embox>�xit^{ccc�i�%
+�xit^{ccc�i�%: Command not found
+tish error: #-2
+embox>
+�l&d%
+�l&: Command not found
+tish error: #-2
+embox>
+kxnor�k
+embox>
+
+�l��l%: Command not found
+tish error: #-2
+embox>
+�x�
+�x�: Command not found
+tish error: #-2
+embox>
+�o@
+�o@: Command not found
+tish error: #-2
+embox>
+ �
+tish error: #-22
+embox>
+���t�[?5h[?5l�x��
+tish error: #-22
+embox>
+���������
+��������: Command not found
+tish error: #-2
+embox>
+�ox�
+�: Command not found
+tish error: #-2
+embox>
+�lo��
+�lo��: Command not found
+tish error: #-2
+embox>
+���oxl
+���oxl: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�Yo��
+�Yo��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�ls����������Dx�t�������gl ��pin���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

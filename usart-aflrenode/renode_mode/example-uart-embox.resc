@@ -1,0 +1,8 @@
+#!/usr/bin/env renode
+
+py "import afl_uart"
+
+i @/home/rai044der/renode/embox-f7.resc
+emulation SetGlobalQuantum "0.0001"
+emulation SetGlobalAdvanceImmediately true
+s

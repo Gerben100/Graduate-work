@@ -1,0 +1,54 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>[K[6C�k(x��5d6@@embox>�k(x��5d6@@[K[21C��@@export@@@@@@@@@?@@@@@@@@@@@
+�k: Command not found
+tish error: #-2
+embox>@@exT@�L@
+@@exT@�: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[K[19Cembox>@@exT@�[K[13C6@embox>@@exT@�6@[K[15C�embox>@@exT@�6@�[K[16C���@@@@@@@@@@@@@@@@@?@@@@@��@@@@@@@@@
+@@exT@�6@����@@@@@@@@@@@@@@@@@?@@@@@��@@@@@@@@: Command not found
+tish error: #-2
+embox>@@@@@@@?@@@@@@@@@@@embox>@@@@@@@?@@@@@@@@@@@[K[6Cembox>@@@@@@@@?@@@@@@@@@@@[K[7Cembox>@@@@@@@@?@@@@@@@@@@@[K[8Cembox>@(@@@@@@@?@@@@@@@@@@@[K[9Cembox>@(x@@@@@@@?@@@@@@@@@@@[K[10Cembox>@(xe@@@@@@@?@@@@@@@@@@@[K[11Cembox>@(xeN@@@@@@@?@@@@@@@@@@@[K[12Cembox>@(xeN�@@@@@@@?@@@@@@@@@@@[K[13Cembox>@(xeN�i@@@@@@@?@@@@@@@@@@@[K[14Cembox>@(xeN�i5@@@@@@@?@@@@@@@@@@@[K[15Cembox>@(xeN�i5@@@@@@@?@@@@@@@@@@@[K[16Cembox>@(xeN�i5d@@@@@@@?@@@@@@@@@@@[K[17Cembox>@(xeN�i5d6@@@@@@@?@@@@@@@@@@@[K[18Cembox>@(xeN�i5d6@@@@@@@@?@@@@@@@@@@@[K[19Cembox>@(xeN�i5d6@@@@@@@?@@@@@@@@@@@[K[19Cembox>@(xeN�i5d6@@@@@@@?@@@@@@@@@@@[K[20Cembox>@(xeN�i5d6@@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@e@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@ex@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@?@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@?@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@?@@@@@@@@?@@@@@@@@@@@embox>@(xeN�i5d6@@exp@�@@@@?@@@@@@@@?@@@@@@@@@@@
+@: Command not found
+tish error: #-2
+embox>d
+d: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>d[K[7CZ(xeN�I5d6@@embox>dZ(xeN�I5d6@@��@@pin@@@@@@@@*@?@@@@
+dZ: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>dZ[K[8Ck(xeN�I5d6@@embox>dZk(xeN�I5d6@@[K[22C�@@@embox>dZk(xeN�I5d6@@�@@�@@@@@@@embox>dZk(xeN�I5d6@@�@@�@@@@@@@embox>@dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@edZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exdZk(xeN�I5d6@@�@@�@@@@@@@embox>@@expdZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exp@dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exp@�dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exp@�@dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exp@�@@dZk(xeN�I5d6@@�@@�@@@@@@@embox>@@exp@�@@@dZk(xeN�I5d6@@�@@�@@@@@@@embox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22C
+@@exp@�@@@@?.@@@dZk: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>[Kk(N�I5d6@@embox>[K��@@@@@@@@@@@@@@@@A?@?@@@@@export
+@@exp@�@@@@?.@@@dZkk: Command not found
+tish error: #-2
+embox>6@exp@�@@@@?@@@@
+6@exp@�@@@@?@@@@: Command not found
+tish error: #-2
+embox>
+k[?5h[?5l5 dx9cd�@@��@@@@@@@@a@@@@����@@@@@?exit@@@?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

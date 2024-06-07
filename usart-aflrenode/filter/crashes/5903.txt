@@ -1,0 +1,166 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+pyembox>
+py[K[9Cembox>
+py[K[10C
+py: Command not found
+tish error: #-2
+embox>
+ss
+ss: Command not found
+tish error: #-2
+embox>
+ssembox>
+ss[K[9C
+ss: Command not found
+tish error: #-2
+embox>
+@?@@@@@@�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+ss�5
+ss�5: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+sembox>
+f[K[8Cembox>
+ss�5[K[11Cembox>
+[K[7C
+tish error: #-22
+embox>
+~
+~: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>
+�s
+�s
+���
+�s: Command not found
+tish error: #-2
+embox>
+d
+���
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+o+cd
+o+cd: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+H���ct���
+H���ct���: Command not found
+tish error: #-2
+embox>
+Wxit�4
+�s: Command not found
+tish error: #-2
+embox>
+ss?st
+ss?st: Command not found
+tish error: #-2
+embox>
+X
+X: Command not found
+tish error: #-2
+embox>
+{
+{: Command not found
+tish error: #-2
+embox>
+���v
+���v: Command not found
+tish error: #-2
+embox>
+usitsit
+usitsit: Command not found
+tish error: #-2
+embox>
+ex
+idt: Command not found
+tish error: #-2
+embox>
+�<rs
+tish error: #-22
+embox>
+bu
+bu: Command not found
+tish error: #-2
+embox>
+uss�t
+uss�t: Command not found
+tish error: #-2
+embox>
+mxxx
+mxxx: Command not found
+tish error: #-2
+embox>
+sssi�
+sssi�: Command not found
+tish error: #-2
+embox>
+ss��Pgj*k
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

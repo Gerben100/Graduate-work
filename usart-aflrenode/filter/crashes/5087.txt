@@ -1,0 +1,58 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/fs/dvfs/dvfs_util.c:291
+  in function dentry_ref_dec
+
+dentry
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xeeei�embox>xeeei�[K[6Cembox>xeeei�[K[7Cembox>xeeei�[K[8Cembox>xeeei�[K[9Cembox>xeeei�[K[10Cembox>xeeei�[K[11Cembox>xeeei�[K[12Cembox>xeeei�[K[13Cembox>xeeei�[K[14Cembox>exeeei�[K[15Cembox>eixeeei�[K[16Cembox>eixeeei�[K[17Cembox>eixeeei�[K[16Cembox>eixeeei�[K[17C
+ei: Command not found
+tish error: #-2
+embox>
+�
+embox>xeeei�xeiembox>xeeei�xei[K[28Cembox>xeeei�xei[K[29C
+xeeei�: Command not found
+tish error: #-2
+embox>
+xeeeiembox>xeeei�[K[20Cl{i�embox>xeeei�l{i[K[29C����xeeeiembox>ei[K[16Cembox>ei[K[6Cembox>ei[K[7Cembox>ei[K[8Cembox>ei[K[9Cembox>ei[K[10Cembox>ei[K[11Cembox>ei[K[12Cembox>ei[K[13Cembox>ei[K[14Cembox>ei[K[14Cembox>xei[K[15Cembox>xeei[K[16Cembox>xeeei[K[17Cembox>xeeeei[K[18Cembox>xeeeiei[K[19C
+xeeeiei: Command not found
+tish error: #-2
+embox>embox>xeeeieil{llogoutxeeeiembox>[K[28Cdi
+xeeei�l{idi: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+xeeei��embox>[Keiembox>[Kembox>[K
+tish error: #-22
+embox>
+�eexei 
+tish error: #-22
+embox>
+xeembox>
+xeembox>i
+xeembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+xOs
+embox>��x�66F6=ls@
+��x�66F6=lse�porttQe: Command not found
+tish error: #-2
+embox>�@@@@@��@@@export<@@@@@6<6T@��
+embox>
+xeeei�lss�s�cx�69F6NT@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

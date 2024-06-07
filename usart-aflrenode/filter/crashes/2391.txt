@@ -1,0 +1,158 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[6Cembox>
+x[K[7Cembox>�
+x[K[8C
+embox> 
+tish error: #-22
+embox>
+r����
+r����: Command not found
+tish error: #-2
+embox>
+s���� 
+s����: Command not found
+tish error: #-2
+embox>
+       �embox>
+s���� [K[13C 
+s����: Command not found
+tish error: #-2
+embox>
+s�embox>
+s[K[9C����t
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+sn�
+sn�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[6Cembox>��
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>���
+[K[10Cembox>���
+[K[6Cembox>@���
+[K[7Cembox>@���
+[K[6C
+@�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��}p�
+��}: Command not found
+tish error: #-2
+embox>
+s
+embox>
+s�. �
+s�.: Command not found
+tish error: #-2
+embox>
+u�
+tish error: #-22
+embox>
+^
+^: Command not found
+tish error: #-2
+embox>
+pins�
+t�: Command not found
+tish error: #-2
+embox>
+export
+s�.: Command not found
+tish error: #-2
+embox>
+seO_l*f��
+seO_lf��: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+s�~SO�sX
+s�: Command not found
+tish error: #-2
+embox>
+s�.�v�lst[?5h[?5l�O@�
+embox>
+s[H[H[2J.�lst*@[?5h[?5lO@ts�.�v�lst[?5h[?5ll�O@l�gout
+embox>O@t
+O: Command not found
+tish error: #-2
+embox>
+R�.�v�dst�exit��@xit�N�@lO?4S
+ss��v�ls�[?5h[?5ll��v�lst[?5h[?5ll�O�@t
+embox>
+t���
+t: Command not found
+tish error: #-2
+embox>
+s�.�v�lst[?5h[?5llO@t
+embox>
+�ex�ort
+�ex�ort: Command not found
+tish error: #-2
+embox>
+
+embox>
+u��l��e
+ul��e: Command not found
+tish error: #-2
+embox>
+�cdxe
+s�.: Command not found
+tish error: #-2
+embox>
+ 
+: Command not found
+tish error: #-2
+embox>
+�DD1
+�: Command not found
+tish error: #-2
+embox>
+e�it:��export��exhtexP1rt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

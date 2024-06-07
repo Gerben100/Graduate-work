@@ -1,0 +1,228 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�z
+�z: Command not found
+tish error: #-2
+embox>
+����e
+����e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[10Cembox>
+[K[11Cembox>
+[K[12Cembox>f
+[K[13Cembox>ff
+[K[14C
+embox>
+e�embox>
+e[K[8Ciembox>
+ei[K[10Cembox>
+ei[K[11Cembox>
+ei�[K[12Cembox>
+ei�Z[K[13Cembox>
+ei�Ze[K[14Cembox>
+ei�Ze�[K[15Cembox>
+ei�Ze�f[K[16Cembox>
+ei�Ze�fe[K[17C
+e: Command not found
+tish error: #-2
+embox>
+:xiembox>
+:xi[K[11Cembox>
+:xi[K[12Cembox>
+:xi�[K[13Cembox>
+:xi�[K[14C�xiembox>
+:xi��xi[K[18Cembox>
+:xi��xi[K[19Cembox>
+:xi��xi�[K[20Cembox>
+:xi��xi�[K[21C��e�e
+:x: Command not found
+tish error: #-2
+embox>
+e��� lsembox>
+e��� ls[K[15Cembox>
+e��� ls[K[16Cembox>
+e��� ls[K[17Cembox>
+e��� ls[K[18Cembox>
+e��� ls[K[6Cembox> 
+e��� ls[K[7Cembox> 
+e��� ls[K[8C
+tish error: #-22
+embox>
+ff�N �embox>
+ff�N �[K[6Cembox>�
+ff�N �[K[7Cembox>�
+ff�N �[K[6Cembox>$�
+ff�N �[K[7Cembox>$��
+ff�N �[K[8Cembox>$�p�
+ff�N �[K[9Cembox>$�pi�
+ff�N �[K[10C
+$�pi�: Command not found
+tish error: #-2
+embox>
+e�lsembox>
+e�ls[K[11Cembox>
+e�ls[K[12Cembox>
+e�ls[K[13Cembox>
+e�ls[K[6Cembox>�
+e�ls[K[7Cembox>��
+e�ls[K[8Cembox>��
+e�ls[K[9Cembox>���
+e�ls[Kembox>���l
+e�ls[Kembox>���l 
+e�ls[K[12Cembox>���l 
+e�ls[K[13Cembox>���l l
+e�ls[K[14Cembox>���l ls
+e�ls[K[15Cembox>���l lsl
+e�ls[Kembox>���l lsl 
+e�ls[Kembox>���l lsl 
+e�ls[Kembox>���l lsl l
+e�ls[Kembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>���l lsl ls
+e�lsembox>����l lsl ls
+e�ls
+embox>
+ed���d�dlsembox>
+ed���d�dls[Kembox>
+ed���d�dls[K[19Cembox>
+ed���d�dls[Kembox>
+ed���d�dls[K[19Cembox>
+ed���d�dls[K[6Cembox>l
+ed���d�dls[K[7Cembox>ls
+ed���d�dls[K[8Cembox>ls
+ed���d�dls[K[7Cembox>ls
+ed���d�dls[K[8Cembox>ls
+ed���d�dls[Kembox>ls
+ed���d�dls[Kembox>ls
+ed���d�dls[Kembox>ls
+ed���d�dls[Kembox>dls
+ed���d�dls[K
+embox>
+sU
+sU: Command not found
+tish error: #-2
+embox>
+e�embox>
+sU[K[9C�j ������
+sU�j: Command not found
+tish error: #-2
+embox>
+�����lsembox>
+�����ls[K[6Cembox>
+�����ls[K[7Cembox>
+�����ls[K[6Cembox>
+�����ls[K[7Cembox>�
+�����ls[K[8C
+embox>
+e��l%�embox>
+e��l%�[K[6Cembox>�
+e��l%�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+e�����%��embox>[K[6Cembox>[K[7Cembox>[K[8C
+embox>
+efffffffffffffffff��llsembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[6Cembox>[K[7Cembox>[K[8C
+embox>
+P
+embox>��pi�
+��pi�: Command not found
+tish error: #-2
+embox>
+e��u ls
+embox>
+g
+embox>��>
+��>: Command not found
+tish error: #-2
+embox>
+
+��>: Command not found
+tish error: #-2
+embox>
+�@�@��i�
+�@�@��i�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+!�
+!�: Command not found
+tish error: #-2
+embox>
+e�
+eexit�: Command not found
+tish error: #-2
+embox>
+�logoutsn
+�logoutsn: Command not found
+tish error: #-2
+embox>
+�[H[H[2Jqint
+�qint: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+Tls@$
+Tls@$: Command not found
+tish error: #-2
+embox>
+L
+embox> 
+tish error: #-22
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+eo])o�exitoo]o�ooooooooooooeN�
+embox>
+eo])o�exitoo]too]o�ooo�ooooooooooooe
+eo])o�exit: Command not found
+tish error: #-2
+embox>
+e )Z�e�itMo]osoooooo�oooomeNpin��pt6
+��>pt6: Command not found
+tish error: #-2
+embox>
+e�o�exi�exit�o6
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,488 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtt�tttttt�lstttttembox>passwd7sttttttdttVtt�tttttt�lsttttt[K[44Cembox>passwd7sttttttdttVtt�tttttt�lsttttt[K[45Cembox>passwd7sttttttdttVtt�tttttt�lstttttt[K[46Cembox>passwd7sttttttdttVtt�tttttt�lsttttttt[K[47Cembox>passwd7sttttttdttVtt�tttttt�lstttttttd[K[48Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdy[K[49Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdyt[Kembox>passwd7sttttttdttVtt�tttttt�lstttttttdytV[K[51Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVt[K[52Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVtt[K[53Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttt[K[54Cembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVtttt[Kembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttt[Kembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVtttttt[Kembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttt[Kembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVtttttttttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@embox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@embox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@ttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@ttttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�embox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�tembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpiembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpinembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgoembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgouembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgoutembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgoutdembox>passwd7sttttttdttVtt�tttttt�lstttttttdytVttttttttt@tttt�ttpintgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sembox>[K[6CtttttttttdttVttttttttembox>[K[6C�lsttttembox>�lstttt[K[14Cembox>�lstttt[K[15Cembox>�lsttttt[K[16Cembox>�lstttttt[K[17Cembox>�lsttttttd[K[18Cembox>�lsttttttdy[K[19Cembox>�lsttttttdyt[K[20Cembox>�lsttttttdytV[K[21Cembox>�lsttttttdytVt[K[22Cembox>�lsttttttdytVtt[K[23Cembox>�lsttttttdytVttt[K[24Cembox>�lsttttttdytVtttt[K[25Cembox>�lsttttttdytVttttt[K[26Cembox>�lsttttttdytVtttttt[K[27Cembox>�lsttttttdytVttttttt[K[28Cembox>�lsttttttdytVtttttttt[K[29Cembox>�lsttttttdytVttttttttt[K[30Cembox>�lsttttttdytVtttttttttt[K[31Cembox>�lsttttttdytVttttttttttt[K[32Cembox>�lsttttttdytVtttttttttttt[K[33Cembox>�lsttttttdytVttttttttttttt[K[34Cembox>�lsttttttdytVtttttttttttttt[K[35Cembox>�lsttttttdytVttttttttttttttt[K[36Cembox>�lsttttttdytVttttttttttttttt�[K[37Cembox>�lsttttttdytVttttttttttttttt�t[K[38Cembox>�lsttttttdytVttttttttttttttt�t[K[39Cembox>�lsttttttdytVttttttttttttttt�t[K[38Cembox>�lsttttttdytVttttttttttttttt�t[K[39Cembox>�lsttttttdytVttttttttttttttt�t[K[40Cembox>�lsttttttdytVttttttttttttttt�tt[K[41C
+�lstttt: Command not found
+tish error: #-2
+embox>goutd�
+goutd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVttgttttt�lstttttembox>passwd7sttttttdttVttgttttt�lsttttt[K[44Cembox>passwd7sttttttdttVttgttttt�lsttttt[K[45Cembox>passwd7sttttttdttVttgttttt�lstttttt[K[46Cembox>passwd7sttttttdttVttgttttt�lsttttttt[K[47Cembox>passwd7sttttttdttVttgttttt�lstttttttd[K[48Cembox>passwd7sttttttdttVttgttttt�lstttttttdy[K[49Cembox>passwd7sttttttdttVttgttttt�lstttttttdytembox>passwd7sttttttdttVttgttttt�lstttttttdytVembox>passwd7sttttttdttVttgttttt�lstttttttdytVtembox>passwd7sttttttdttVttgttttt�lstttttttdytVttembox>passwd7sttttttdttVttgttttt�lstttttttdytVttt[K[54Cembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt[Kembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�[Kembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�t[Kembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tt[Kembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�ttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�ttttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�ttttttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�ttttttttttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�embox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�tembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpiembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpinembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgoembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgouembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgoutembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgoutdembox>passwd7sttttttdttVttgttttt�lstttttttdytVtttt�tttttttttt�ttpintgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7tttttt�ttpintgolembox>[K[6CttttVt�tembox>ttttVt�t[K[14C
+embox>pt�t
+pt: Command not found
+tish error: #-2
+embox>tttttttttttttt�ttpintgowtd�
+tttttttttttttt�ttpintgowtd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p[?5h[?5l7stembox>p7s[K[9Cttttttttt�td�ttembox>p7sttttttttt�td�ttembox>p7sttttttttt�td�tttembox>p7sttttttttt�td�ttembox>p7sttttttttt�td�tttembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35C
+p7sttttttttt�td�tt: Command not found
+tish error: #-2
+embox>tutttttttt�ttpintgoutd�
+tutttttttt�ttpintgoutd�: Command not found
+tish error: #-2
+embox>
+
+embox>pttstt�t
+pttstt�t: Command not found
+tish error: #-2
+embox>tt�t
+tt�t: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5l7stttttt�ttVtttttttt�lsttttt
+p7stttttt�ttVtt: Command not found
+tish error: #-2
+embox>
+dp3s�tVtt��X�t�
+dp3s�tVtt: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5l7sttttttdttVtt�tttttttdytV
+pttstt�t: Command not found
+tish error: #-2
+embox>ttctttttttvintg
+pttstt�t: Command not found
+tish error: #-2
+embox>outd�
+outd�: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5l7stttttd[
+p7sttttd[: Command not found
+tish error: #-2
+embox>tdytVtttttttd�
+tdytVtttttttd�: Command not found
+tish error: #-2
+embox>
+s��
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+K
+pttstt�t: Command not found
+tish error: #-2
+embox>
+sd
+s: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>? �
+?: Command not found
+tish error: #-2
+embox>
+r��
+�: Command not found
+tish error: #-2
+embox>
+///////
+tish error: #-22
+embox>
+��cd�
+��: Command not found
+tish error: #-2
+embox>
+�
+p7sttttttttt�td�tt: Command not found
+tish error: #-2
+embox>
+@
+: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+s��
+pttstt�t: Command not found
+tish error: #-2
+embox>
+lgoutogout
+lgoutogout: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�d�L
+�d�L: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+dJ%�export�
+dJ%�export�: Command not found
+tish error: #-2
+embox>
+Us
+Us: Command not found
+tish error: #-2
+embox>
+d�V
+d�V: Command not found
+tish error: #-2
+embox>
+cd��pin
+cd��pin: Command not found
+tish error: #-2
+embox>
+c_"�
+c_"�: Command not found
+tish error: #-2
+embox>
+cd4
+cd4: Command not found
+tish error: #-2
+embox>
+g��g���
+g��g���: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�l���
+�l���: Command not found
+tish error: #-2
+embox>
+���]\#c��]l�
+tish error: #-22
+embox>
+�:
+pttstt�t�:: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+pexNt�
+pexNt�: Command not found
+tish error: #-2
+embox>
+��K
+��K: Command not found
+tish error: #-2
+embox>
+GAGGG
+GAGGG: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+s_
+tish error: #-22
+embox>
+x�x�
+embox>
+yee�
+d#: Command not found
+tish error: #-2
+embox>
+�`���yX�
+�`���yX�: Command not found
+tish error: #-2
+embox>
+mxei�y(�ye�
+embox>
+)xei�
+embox>
+dxei�
+embox>
+logoutÀ(�ye�
+embox>
+��x(�ye�
+embox>
+���������
+��������: Command not found
+tish error: #-2
+embox>
+
+xei: Command not found
+tish error: #-2
+embox>
+� �xei�
+embox>
+gei�
+embox>
+�dd
+�: Command not found
+tish error: #-2
+embox>
+s�d
+s�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�׀
+pttstt�t�: Command not found
+tish error: #-2
+embox>
+ex�x���
+ex�: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+o
+o: Command not found
+tish error: #-2
+embox>
+
+r��: Command not found
+tish error: #-2
+embox>
+d
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+s�
+tish error: #-22
+embox>
+d���������������������������
+d: Command not found
+tish error: #-2
+embox>
+i��
+i�xcd�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�%i
+�%i: Command not found
+tish error: #-2
+embox>
+���xDi�pinxDicdcd
+���xDi�: Command not found
+tish error: #-2
+embox>
+�a Jtxc
+embox>exita Jtxcd
+exita: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+p���S�
+p���S�: Command not found
+tish error: #-2
+embox>
+>^��c9
+>^�: Command not found
+tish error: #-2
+embox>
+@@@
+@: Command not found
+tish error: #-2
+embox>
+E��
+E��D�cd�: Command not found
+tish error: #-2
+embox>
+��ux,d
+��ux,d: Command not found
+tish error: #-2
+embox>
+222crt�(�22cd�oYs���oud
+tish error: #-22
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+��222
+tish error: #-22
+embox>
+e�oprS2d
+tish error: #-22
+embox>
+��22d
+��22d: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�2I2dd
+�2I2dd: Command not found
+tish error: #-2
+embox>
+�~�2D% d
+�~�2D%: Command not found
+tish error: #-2
+embox>
+�nd
+pttstt�t: Command not found
+tish error: #-2
+embox>
+export�K222d
+export�K222d: Command not found
+tish error: #-2
+embox>
+��텊
+tish error: #-22
+embox>
+�2222�222dd
+�2222�222dd: Command not found
+tish error: #-2
+embox>
+
+embox>�t
+�t: Command not found
+tish error: #-2
+embox>
+�����������
+�: Command not found
+tish error: #-2
+embox>
+dd
+dd: Command not found
+tish error: #-2
+embox>
+s
+tish error: #-22
+embox>
+[?5h[?5l� � �
+�: Command not found
+tish error: #-2
+embox>
+%[H[H[2J���
+%���: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+!dfd�t�Rxt�
+!dfd: Command not found
+tish error: #-2
+embox>
+exitecdQ�
+tish error: #-22
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+�p��
+�p��: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��@
+��@: Command not found
+tish error: #-2
+embox>
+xivexiU
+xivexiU: Command not found
+tish error: #-2
+embox>
+hZs
+tish error: #-22
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+3ls3������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

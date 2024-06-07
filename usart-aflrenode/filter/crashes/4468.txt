@@ -1,0 +1,101 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i  $i� /@
+i: Command not found
+tish error: #-2
+embox>
+�$i� oo o-
+�$i�: Command not found
+tish error: #-2
+embox>
+xcd$i� exitoembox>
+xcd$i� exito[K[20C
+xcd$i�: Command not found
+tish error: #-2
+embox>
+x�$i�$o,
+x�$i�$o,: Command not found
+tish error: #-2
+embox>
+��@���embox>[K[6Cembox>[K[6C
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�p�n�mn�m^nf^_�exp
+��p�n�mn�m^nf^_�exp: Command not found
+tish error: #-2
+embox>
+expind�embox>
+expind�[K[6Cembox>^
+expind�[K[7Cembox>^o
+expind�[Kembox>^og
+expind�[K[9Cembox>^ogo
+expind�[K[10Cembox>^ogon
+expind�[K[11Cembox>^ogon�
+expind�[K[12Cembox>^ogon�e
+expind�[Kembox>^ogon�ex
+expind�[Kembox>^ogon�exp
+expind�[Kembox>^ogon�expi
+expind�[Kembox>^ogon�expin
+expind�embox>^ogon�expind
+expind�embox>^ogon�expind�
+expind�embox>^ogon�expind�
+expind�embox>^ogon�expind�
+expind�embox>^^ogon�expind�
+expind�embox>^o^ogon�expind�
+expind�embox>^og^ogon�expind�
+expind�[H[H[2Jembox>^og^ogon�expind�
+expind�embox>^og@^ogon�expind�
+expind�embox>^og@�^ogon�expind�
+expind�embox>^og@�a^ogon�expind�
+expind�embox>^og@�aa^ogon�expind�
+expind�embox>^og@�aa�^ogon�expind�
+expind�embox>^og@�aa�a^ogon�expind�
+expind�embox>^og@�aa�a�^ogon�expind�
+expind�embox>^og@�aa�a�e^ogon�expind�
+expind�embox>^og@�aa�a�ex^ogon�expind�
+expind�embox>^og@�aa�a�exd^ogon�expind�
+expind�
+^og@�aa�a�exd^ogon�expind�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l��p�n�m^embox>
+��p�n�m^[Kp�n�m^embox>
+��p�n�m^p�n�m^[K�p
+��p�n�m^: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18C
+embox>
+%embox>
+[K@[x
+@[x: Command not found
+tish error: #-2
+embox>
+p�[?5h[?5l�n�m�n�
+p��n�m�n: Command not found
+tish error: #-2
+embox>
+*[?5h[?5lm^n�ex|p
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

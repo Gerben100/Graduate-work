@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>gx�0Fd�00010000000000�0
+gx�0Fd�00010000000000�0: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8Cembox>
+1�[K[9Cembox>
+1��[K[10Cembox>
+1���[K[11Cembox>
+1��1�[K[12Cembox>
+1��11�[K[13Cembox>
+1��111�[K[14Cembox>
+1��111�[K[15C
+tish error: #-22
+embox>
+� ?\w>��
+�: Command not found
+tish error: #-2
+embox>
+~�����tttttttttttttt��embox>
+~�����tttttttttttttt��[K[6Cembox>
+~�����tttttttttttttt��[K[7C
+embox>
+�
+embox>1��111
+1��111: Command not found
+tish error: #-2
+embox>
+;���N11��
+;: Command not found
+tish error: #-2
+embox>
+�  
+�: Command not found
+tish error: #-2
+embox>
+��
+embox>����11
+embox>
+@@@n@A@@
+@@@n@A@@: Command not found
+tish error: #-2
+embox>
+�
+embox>1embox>1[K[8C1embox>11[K[6Cembox>�11[K[7Cembox>�11[K[8C
+�: Command not found
+tish error: #-2
+embox>
+���1��111�
+���1��111�: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[K[6C���
+embox>�lsembox>[K[6C��embox>[K[6C����embox>[K[6C����embox>[K[6C�t��
+�t��: Command not found
+tish error: #-2
+embox>
+
+embox>1��111�
+embox>
+�����/�x$�ite
+�t��$: Command not found
+tish error: #-2
+embox>
+�lexi
+embox>��logxl��ye��e
+embox>�{logxx�i
+�t��$: Command not found
+tish error: #-2
+embox>te/�x
+te/�x: Command not found
+tish error: #-2
+embox>
+��/�xlogou|e/�x
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

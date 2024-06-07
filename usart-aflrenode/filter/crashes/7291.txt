@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eN@embox>eN@[K[13Cembox>eN@t[K[14Cembox>eN@tt[K[15Cembox>eN@tt^[K[16Cembox>eN@tt^y[K[17Cembox>eN@tt^y�[K[18Cembox>eN@tt^y�i[K[19Cembox>eN@tt^y�i�[K[20Cembox>eN@tt^y�i�[K[21Cembox>eN@tt^y�i� [K[22Cembox>eN@tt^y�i� j[K[23Cembox>eN@tt^y�i� jx[K[24Cembox>eN@tt^y�i� jxp[K[25Cembox>eN@tt^y�i� jxpe[K[26Cembox>eN@tt^y�i� jxpe[[K[27Cembox>eN@tt^y�i� jxpe[p[K[28Cembox>eN@tt^y�i� jxpe[po[K[29Cembox>eN@tt^y�i� jxpe[por[K[30Cembox>eN@tt^y�i� jxpe[port[K[31Cembox>eN@tt^y�i� jxpe[porto[K[32Cembox>eN@tt^y�i� jxpe[portou[K[33Cembox>eN@tt^y�i� jxpe[portout[K[34C
+embox>
+logout��out�y�i�~ut
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+oueNout
+ou: Command not found
+tish error: #-2
+embox>
+eNeidnembox>
+eNeidn[K[6Cembox>
+eNeidn[K[7Cembox>
+eNeidn[K[8Cembox>
+eNeidn[K[9Cembox>
+eNeidn[K[6Cembox>
+eNeidn[K[7Cembox>o
+eNeidn[K[8Cembox>ou
+eNeidn[K[9Cembox>out
+eNeidn[K[10Cembox>out�
+eNeidn[K[11Cembox>out�y
+eNeidn[K[12Cembox>out�y�
+eNeidn[K[13Cembox>out�y�i
+eNeidn[K[14Cembox>out�y�i�
+eNeidn[K[15Cembox>out�y�i�
+eNeidn[K[16Cembox>out�y�i�o
+eNeidn[K[17Cembox>out�y�i�ou
+eNeidn[K[18Cembox>out�y�i�out
+eNeidn[K[19C
+embox>
+2;
+2: Command not found
+tish error: #-2
+embox>
+eeee^�
+eeee^: Command not found
+tish error: #-2
+embox>
+��^
+��^: Command not found
+tish error: #-2
+embox>
+����Ӛ[?5h[?5l}�L�_�portd
+����Ӛ[?5h[?5l}: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�;
+[K[8Cembox>�;
+[K[9C
+�;: Command not found
+tish error: #-2
+embox>
+^;�
+^;�: Command not found
+tish error: #-2
+embox>
+|
+|: Command not found
+tish error: #-2
+embox>
+ex6t
+ex6t: Command not found
+tish error: #-2
+embox>
+xit�b�^export;
+xit�b�: Command not found
+tish error: #-2
+embox>
+^�\
+tish error: #-22
+embox>
+5
+5: Command not found
+tish error: #-2
+embox>
+xeN�exit�
+xeN: Command not found
+tish error: #-2
+embox>
+eN^^^^^^^^^^^^^^^^^^^^^^�
+tish error: #-22
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+e�
+tish error: #-22
+embox>
+
+ex6t: Command not found
+tish error: #-2
+embox>
+�������logout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

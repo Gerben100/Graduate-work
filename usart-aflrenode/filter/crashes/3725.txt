@@ -1,0 +1,66 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�e�xi�e�66@@a@�:B56�<@embox>�e�xi�e�66@@a@�:B56�<[K[36C��@@� @�?�
+�e: Command not found
+tish error: #-2
+embox>��@@embox>�e[K[8C�:@�@56�<
+�e: Command not found
+tish error: #-2
+embox>
+embox>�e[K[8Cexpo�e�66@@�@@embox>�eexpo�e�66@@�@@[K[6Cembox>��eexpo�e�66@@�@@[K[7Cembox>�:�eexpo�e�66@@�@@[K[8Cembox>�:�eexpo�e�66@@�@@[K[9Cembox>�:B�eexpo�e�66@@�@@[K[10Cembox>�:B5�eexpo�e�66@@�@@[K[11Cembox>�:B56�eexpo�e�66@@�@@[K[12Cembox>�:B566͐eexpo�e�66@@�@@[K[13Cembox>�:B56�<�eexpo�e�66@@�@@[K[14Cembox>�:B56�<@�eexpo�e�66@@�@@[K[15Cembox>�:B56�<@l�eexpo�e�66@@�@@[K[16Cembox>�:B56�<@ls�eexpo�e�66@@�@@[K[17Cembox>�:B56�<@l�eexpo�e�66@@�@@[K[16Cembox>�:B56�<@l��eexpo�e�66@@�@@[K[17Cembox>�:B56�<@l���eexpo�e�66@@�@@[K[18Cembox>�:B56�<@l��@�eexpo�e�66@@�@@[K[19Cembox>�:B56�<@l��@@�eexpo�e�66@@�@@[K[20Cembox>�:B56�<@l��@@�eexpo�e�66@@�@@[K[21Cembox>�:B56�<@l��@@�eexpo�e�66@@�@@[K[22Cembox>�:B56�<@l��@@��eexpo�e�66@@�@@[K[23Cembox>�:B56�<@l��@@�:�eexpo�e�66@@�@@[K[24Cembox>�:B56�<@l��@@�:�eexpo�e�66@@�@@[K[25Cembox>�:B56�<@l��@@�:@�eexpo�e�66@@�@@[K[26Cembox>�:B56�<@l��@@�:@�eexpo�e�66@@�@@[K[27Cembox>�:B56�<@l��@@�:@�eexpo�e�66@@�@@[K[28Cembox>�:B56�<@l��@@�:@�eexpo�e�66@@�@@[K[29Cembox>�:B56�<@l��@@�:@�?�eexpo�e�66@@�@@[K[30Cembox>�:B56�<@l��@@�:@�?�eexpo�e�66@@�@@[K[31Cembox>�:B56�<@l��@@�:@�?�eexpo�e�66@@�@@[K[30Cembox>�:B56�<@l��@@�:@�?��eexpo�e�66@@�@@[K[31C
+�:B56�<@l��@@: Command not found
+tish error: #-2
+embox>
+@@embox>�:B56�<@l��@@[K[20C�:�66@@�@@embox>�:B56�<@l��@@�:�66@@�@@[K[6Cembox>��:B56�<@l��@@�:�66@@�@@[K[7Cembox>�:�:B56�<@l��@@�:�66@@�@@[K[8Cembox>�:�:B56�<@l��@@�:�66@@�@@[K[9Cembox>�:B�:B56�<@l��@@�:�66@@�@@[K[10Cembox>�:B5�:B56�<@l��@@�:�66@@�@@[K[11Cembox>�:B56�:B56�<@l��@@�:�66@@�@@[K[12Cembox>�:B566̀:B56�<@l��@@�:�66@@�@@[K[13Cembox>�:B56�<�:B56�<@l��@@�:�66@@�@@[K[14Cembox>�:B56�<@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@�:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@��:B56�<@l��@@�:�66@@�@@[Kembox>�:B56�<@@�@�:B56�<@l��@@�:�66@@�@@[K[22Cembox>�:B56�<@@�@5�:B56�<@l��@@�:�66@@�@@[K[23Cembox>�:B56�<@@�@56�:B56�<@l��@@�:�66@@�@@[K[24Cembox>�:B56�<@@�@56>�:B56�<@l��@@�:�66@@�@@[K[25Cembox>�:B56�<@@�@56><�:B56�<@l��@@�:�66@@�@@[K
+�:B56�<@@: Command not found
+tish error: #-2
+embox>
+embox>�:B56�<@@[K[17C�pineїi�e���a@@i�e�logout�:ex
+�:B56�<@@�pine: Command not found
+tish error: #-2
+embox>itB5L�<@embox>itB5L�<[K[13CN�embox>itB5L�<N�[K[6Cembox>itB5L�<N�[K[7Cembox>iitB5L�<N�[K[8Cembox>i�itB5L�<N�[Kembox>i�itB5L�<N�[Kembox>�i�itB5L�<N�[K[7Cembox>�@i�itB5L�<N�[K[8Cembox>�@i�itB5L�<N�[K[9Cembox>�@ii�itB5L�<N�[K[10Cembox>�@ii�itB5L�<N�[K[11Cembox>�@i�i�itB5L�<N�[Kembox>�@i�i�itB5L�<N�[Kembox>�@i�ei�itB5L�<N�[Kembox>�@i�ei�itB5L�<N�[Kembox>�@i�ei�itB5L�<N�embox>�@i�ei�itB5L�<N�embox>�@i�e�i�itB5L�<N�embox>�@i�ei�itB5L�<N�embox>�@i�e�i�itB5L�<N�embox>�@i�e�li�itB5L�<N�embox>�@i�e�loi�itB5L�<N�embox>�@i�e�lo�i�itB5L�<N�embox>�@i�e�lo�@i�itB5L�<N�embox>�@i�e�lo�@@i�itB5L�<N�embox>�@i�e�lo�@@i�itB5L�<N�embox>�@i�e�lo�@@i�itB5L�<N�embox>�@i�e�lo�@@�i�itB5L�<N�embox>�@i�e�lo�@@�:i�itB5L�<N�embox>�@i�e�lo�@@�:Di�itB5L�<N�embox>�@i�e�lo�@@�:Di�itB5L�<N�embox>�@i�e�lo�@@�:Di�itB5L�<N�embox>�@i�e�lo�@@�:D�i�itB5L�<N�embox>�@i�e�lo�@@�:D�i�itB5L�<N�embox>�@i�e�lo�@@�:D�@i�itB5L�<N�embox>�@i�e�lo�@@�:D�@5i�itB5L�<N�embox>�@i�e�lo�@@�:D�@56i�itB5L�<N�embox>�@i�e�lo�@@�:D�@56>i�itB5L�<N�embox>�@i�e�lo�@@�:D�@56><i�itB5L�<N�
+�@: Command not found
+tish error: #-2
+embox>
+embox>�@[K[8C�e�xi
+embox>�e�66@@a@@embox>�e�66@@a@[K[18C�:B56�<@embox>�e�66@@a@�:B56�<��@@�:@�?�
+�e: Command not found
+tish error: #-2
+embox>��@@embox>�e[K[8C�:@�@56><
+�e: Command not found
+tish error: #-2
+embox>
+embox>�e[K[8C�e�xils�e�66@@a@@�:B56�<@embox>�e�e�xils�e�66@@a@@�:B56�<��@@�:@�
+�e�e: Command not found
+tish error: #-2
+embox>?�embox>?[K��@@embox>�e�e[K�:@�@56><
+�e�e: Command not found
+tish error: #-2
+embox>
+embox>�e�e[K�eembox>[K[12Cembox>[K[13C;mo56656>��
+embox>@@@@@vembox>@@@@@��@??@@@embox>@@@@@��@??@@embox>@@@@@��@??@embox>@@@@@��@??embox>@@@@@��@?embox>@@@@@��@�765N>5@@d�
+@@@@@��@�765N>5@@: Command not found
+tish error: #-2
+embox>�
+embox>@@@@@v�@@??@@@�exit��w�
+embox>
+embox>
+�e;mo56656>��
+embox>@G@@@v��@??@@@�765N>5@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

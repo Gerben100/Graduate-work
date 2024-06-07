@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�zd
+�zd: Command not found
+tish error: #-2
+embox>
+@
+xexporti
+embox>
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>exi
+[K[9Cembox>exit
+[K[10Cembox>exitx
+[K[11Cembox>exitxd
+[K[12C
+exitxd: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>s
+�[K[7Cembox>sW
+�[K[8Cembox>sW�
+�[K[9Cembox>sW�d
+�[K[10C
+sW�d: Command not found
+tish error: #-2
+embox>
+cd
+tish error: #-22
+embox>
+xsW
+embox>cdW�.jxcd
+cdW�.jxcd: Command not found
+tish error: #-2
+embox>
+Wsx
+embox>xsWsx
+embox>xsdd
+xsdd: Command not found
+tish error: #-2
+embox>
+htx
+embox>xxxxembox>xxxx[K[6Cembox>xxxxx[K[7Cembox>xxxxxx[K[8Cembox>xxxxxxx[K[9Cembox>xxxxxxxx[K[10Cembox>xxxx�xxxx[K[11Cembox>xxxx�xxxxx[K[12Cembox>xxxx�xxxxxx[K[13Cembox>xxxx�xxxxxxx[K[14Cembox>xxxx�xxxxxxxx[K[15Cembox>xxxx�xxxxxxxxx[K[16Cembox>xxxx�xxxxxxxxxx[K[17Cembox>xxxx�xxxxxxxxxx[K[18Cembox>xxxx�xxxxxxxxxx[K[19Cembox>xxxx�xxxxxxxxxx[K[20Cembox>xxxx�xxxxxx�xxxx[K[21Cembox>xxxx�xxxxxx�xxxxx[K[22Cembox>xxxx�xxxxxx�xxxxxx[K[23Cembox>xxxx�xxxxxx�xxxxxxx[K[24Cembox>xxxx�xxxxxx�xxxexxxx[K[25Cembox>xxxx�xxxxxx�xxxexxxxx[K[26Cembox>xxxx�xxxxxx�xxxexpxxxx[K[27Cembox>xxxx�xxxxxx�xxxexpoxxxx[K[28Cembox>xxxx�xxxxxx�xxxexporxxxx[K[29Cembox>xxxx�xxxxxx�xxxexportxxxx[K[30Cembox>xxxx�xxxxxx�xxxexport�xxxx[K[31Cembox>xxxx�xxxxxx�xxxexport�.xxxx[K[32Cembox>xxxx�xxxxxx�xxxexport�.jxxxx[K[33Cembox>xxxx�xxxxxx�xxxexport�.jlxxxx[K[34Cembox>xxxx�xxxxxx�xxxexport�.jloxxxx[K[35Cembox>xxxx�xxxxxx�xxxexport�.jloqxxxxembox>xxxx�xxxxxx�xxxexport�.jloqoxxxxembox>xxxx�xxxxxx�xxxexport�.jloqouxxxxembox>xxxx�xxxxxx�xxxexport�.jloqoutxxxxembox>xxxx�xxxxxx�xxxexport�.jloqoutxxxxxembox>xxxx�xxxxxx�xxxexport�.jloqoutxcxxxxembox>xxxx�xxxxxx�xxxexport�.jloqoutxcdxxxx
+xxxx�xxxxxx: Command not found
+tish error: #-2
+embox>
+xexitspin[?5h[?5l�jxcd
+tish error: #-22
+embox>
+xsW
+embox>x�.jxsWxj.jxc�xcd
+x�.j: Command not found
+tish error: #-2
+embox>
+xYW
+embox>u{�xsWYW
+embox>u��xsW
+embox>x�.jxc
+embox>x�embox>x�[K[7Cembox>x�[K[6C
+x�: Command not found
+tish error: #-2
+embox>.jxcdjxcd
+.jxcdjxcd: Command not found
+tish error: #-2
+embox>
+��3����:�43���~
+tish error: #-22
+embox>
+;ll3����embox>
+[K
+tish error: #-22
+embox>
+^d
+d: Command not found
+tish error: #-2
+embox>
+�3��3�43����~
+tish error: #-22
+embox>
+@ss
+@ss: Command not found
+tish error: #-2
+embox>
+ls�N��exit������[[���������ogo�exit����������e
+tish error: #-22
+embox>xp��t��exp�rt���������~
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

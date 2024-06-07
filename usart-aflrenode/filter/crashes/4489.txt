@@ -1,0 +1,221 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6Cembox>[K[7Cembox>t[K[8Cembox>tc[K[9Cembox>tc_[K[10Cembox>tc_[K[11C
+embox>
+X��������.�%i���Lxpyembox>
+X��������.�%i���Lxpy[K[6Cembox>t
+X��������.�%i���Lxpy[K[7Cembox>t
+X��������.�%i���Lxpy[K[29C
+t: Command not found
+tish error: #-2
+embox>
+!!logmute��!!!
+!!: Command not found
+tish error: #-2
+embox>
+
+�cd,�
+�cd,�: Command not found
+tish error: #-2
+embox>
+embox>
+
+�cd,�[K[13C�b���
+�cd,��b���: Command not found
+tish error: #-2
+embox>
+���embox>
+
+�cd,��b���[K[19C��embox>
+
+�cd,�[K[13Cembox>
+!![K[9Cd
+!!d: Command not found
+tish error: #-2
+embox>
+��D�
+��D�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+embox>[K[6CeX��ex
+eX��ex: Command not found
+tish error: #-2
+embox>
+(iiiiiiiiit(iiiiiiiiitx
+(iiiiiiiiit(iiiiiiiiitx: Command not found
+tish error: #-2
+embox>
+���embox>
+����������������embox>[K
+(iiiiiiiiit(iiiiiiiiitx: Command not found
+tish error: #-2
+embox>
+embox>[K�cy�
+(iiiiiiiiit(iiiiiiiiitx�cy: Command not found
+tish error: #-2
+embox>
+embox>[Kembox>[Kcx
+eX��excx: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+sS:ssasssl�S:
+sS:ssasss: Command not found
+tish error: #-2
+embox>
+dctei��@D@@
+d: Command not found
+tish error: #-2
+embox>
+sss\ssss\ssss�llsss�lls
+sss\ssss\ssss�llsss�lls: Command not found
+tish error: #-2
+embox>
+sssllxssslllllllllyllllllllllllllllll\ssssllx
+sss: Command not found
+tish error: #-2
+embox>
+ys�
+ys�: Command not found
+tish error: #-2
+embox>
+s�s\sss|llss
+s�s\sss|: Command not found
+tish error: #-2
+embox>
+ssq
+ssq: Command not found
+tish error: #-2
+embox>
+�����������V
+�����������V: Command not found
+tish error: #-2
+embox>
+sss����slls
+sss����s: Command not found
+tish error: #-2
+embox>
+
+��: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+sss\us��s
+sss\us: Command not found
+tish error: #-2
+embox>
+}}cgoS
+}}cgoS: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+
+eeMd4�: Command not found
+tish error: #-2
+embox>
+de
+de: Command not found
+tish error: #-2
+embox>%d[?5h[?5l�
+embox>Wi}
+Wi}: Command not found
+tish error: #-2
+embox>
+de
+d: Command not found
+tish error: #-2
+embox>
+eMe4�
+��eMe4�: Command not found
+tish error: #-2
+embox>
+rh�
+rh�: Command not found
+tish error: #-2
+embox>
+ls
+��: Command not found
+tish error: #-2
+embox>
+Y�
+Y�: Command not found
+tish error: #-2
+embox>
+r
+r: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c���~�s7@@�x�x
+���c���~�s7@@�: Command not found
+tish error: #-2
+embox>
+
+d6 5ls7@@�x�x
+��
+d6: Command not found
+tish error: #-2
+embox>
+�c�ls�x
+���c: Command not found
+tish error: #-2
+embox>
+�cdcd665ls7@@��x
+�cdcd665ls7@@: Command not found
+tish error: #-2
+embox>
+�cd665ls7@�Qd665ls 7@�xGlsx�x
+eX��excx�Qd665ls: Command not found
+tish error: #-2
+embox>
+cl�
+embox>x
+��D�x: Command not found
+tish error: #-2
+embox>
+�{�@
+�{: Command not found
+tish error: #-2
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+�cd665ls7@@�x�7@@�x�x
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,73 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Rxportembox>Rxpor[K[11C�embox>Rxpor[K[13C�
+Rxpor: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+exporexit�
+exporexit�: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12C��
+expor: Command not found
+tish error: #-2
+embox>
+o�{q ��������o�{q ��������
+o�{q: Command not found
+tish error: #-2
+embox>
+Xx�r�p~
+Xx�r�p~: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+[xortembox>
+[xor[K[12Cp��
+[x: Command not found
+tish error: #-2
+embox>
+expPrembox>
+expPr[K[12C�
+expPr: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12Cembox>
+expor[K[6C
+expor: Command not found
+tish error: #-2
+embox>
+��d���tqd
+��d���tqd: Command not found
+tish error: #-2
+embox>
+e�portembox>
+e�por�
+e�por: Command not found
+tish error: #-2
+embox>
+�xxxxxxxxxxxxxx�xx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

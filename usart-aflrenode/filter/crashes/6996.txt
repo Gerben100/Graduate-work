@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�(h�inx
+�: Command not found
+tish error: #-2
+embox>
+
+embox>A
+A: Command not found
+tish error: #-2
+embox>
+e��t
+e��: Command not found
+tish error: #-2
+embox>
+#embox>
+e��[K[10C�����embox>A[K[7C
+A: Command not found
+tish error: #-2
+embox>�lsxpiembox>�lsxp[K[13C�
+�lsx: Command not found
+tish error: #-2
+embox>
+w�goutlo�
+tish error: #-22
+embox>
+�ex �xembox>
+[K[7C(xeN�embox>
+(xeN�[K[12Cembox>
+(xeN�[K[6Cembox>
+(xeN�[K[7Cembox>
+(xeN�[K[8Cembox>N
+(xeN�[K[9Cembox>N�
+(xeN�[K[10Cembox>N��
+(xeN�[K[11Cembox>N��(
+(xeN�[K[12Cembox>N��(x
+(xeN�[K[13Cembox>N��(xm
+(xeN�[K[14Cembox>N��(xm-
+(xeN�[K[15Cembox>N��(xm-
+(xeN�[K[14Cembox>N��(xm�-
+(xeN�[K[15Cembox>N��(xm�6-
+(xeN�[K[16Cembox>N��(xm�6I-
+(xeN�[K[17Cembox>N��(xm�6I5-
+(xeN�[K[18Cembox>N��(xm�6I56-
+(xeN�[K[19Cembox>N��(xm�6I56>-
+(xeN�[K[20Cembox>N��(xm�6I56>=-
+(xeN�[K[21Cembox>N��(xm�6I56>=@-
+(xeN�[K[22Cembox>N��(xm�6I56>=@@-
+(xeN�[K[23Cembox>N��(xm�6I56>=@@x-
+(xeN�[K[24Cembox>N��(xm�6I56>=@@xe-
+(xeN�[K[25Cembox>N��(xm�6I56>=@@xe--
+(xeN�[K[26Cembox>N��(xm�6I56>=@@xe-1-
+(xeN�[K[27Cembox>N��(xm�6I56>=@@xe-1@-
+(xeN�[K[28C
+embox>
+�ex �xembox>
+[K[7C(xeN~�(xe-embox>
+(xeN~�(xe-[K[16Cembox>
+(xeN~�(xec-[K[17Cembox>
+(xeN~�(xecd-[K[18Cembox>
+(xeN~�(xecdI-[K[19Cembox>
+(xeN~�(xecdI5-[K[20Cembox>
+(xeN~�(xecdI56-[K[21Cembox>
+(xeN~�(xecdI56>-[K[22Cembox>
+(xeN~�(xecdI56>=-[K[23Cembox>
+(xeN~�(xecdI56>=@-[K[24Cembox>
+(xeN~�(xecdI56>=@@-[K[25Cembox>
+(xeN~�(xecdI56>=@@-[K[26Cembox>
+(xeN~�(xecdI56>=@@[K[26Cembox>
+(xeN~�(xecdI56>=@@[K[26C�@@@@\@@embox>�lsx[K[11Cp@�embox>A[K[7C(xeN
+A(xeN: Command not found
+tish error: #-2
+embox>��(xc@@@@embox>��(xc@@@@[K[15C*@@@Aembox>A(xeN[K[11C@@e-1@
+A(xeN: Command not found
+tish error: #-2
+embox>
+�ez �xembox>A(xeN[K[11C(xeN��(xembox>[K[25C-
+embox>�6I56>/@@embox>�6I56>/@@embox>�6I56>/@@�@@@@@@embox>[Kembox>[K�@@@@@@@
+�6I56>/@@: Command not found
+tish error: #-2
+embox>@embox>@[K*@@@A@@@@@c\eNcd(xe-�@@1@
+@*@@@A: Command not found
+tish error: #-2
+embox>
+�ex �x(xe-@@A@@@@@Bxembox>[K��(x@
+�6I56>/@@: Command not found
+tish error: #-2
+embox>
+�ex �x(xex �xembox>[K(xeN��(xe-embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

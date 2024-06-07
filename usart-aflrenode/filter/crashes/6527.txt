@@ -1,0 +1,272 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lu���embox>lu���[K[13Cembox>lu���U[K[14Cembox>lu���UU[K[15Cembox>lu���UUU[K[16Cembox>lu���UUUU[K[17Cembox>lu���UUUUU[K[18Cembox>lu���UUUUUU[K[19Cembox>lu���UUUUUU[K[20Cembox>lu���UUUUUUU[K[21Cembox>lu���UUUUUUUU[K[22Cembox>lu���UUUUUUUUU[K[23Cembox>lu���UUUUUUUUU@[K[24Cembox>lu���UUUUUUUUU@�[K[25Cembox>lu���UUUUUUUUU@��[K[26Cembox>lu���UUUUUUUUU@��e[K[27Cembox>lu���UUUUUUUUU@��e�[K[28Cembox>lu���UUUUUUUUU@��e�[K[28Cxeembox>lu���UUUUUUUUU@��e�x[K[29C��@@@D@@@@@)@@l@
+l: Command not found
+tish error: #-2
+embox>
+ll����embox>
+ll����[K[16Cembox>
+ll����U[K[17Cembox>
+ll����UU[K[18Cembox>
+ll����UUU[K[19Cembox>
+ll����UUUU[K[20Cembox>
+ll����UUUUU[K[21Cembox>
+ll����UUUUUU[K[22Cembox>
+ll����UUUUUU[K[23Cembox>
+ll����UUUUUUU[K[24Cembox>
+ll����UUUUUUUU[K[25Cembox>
+ll����UUUUUUUUU[K[26Cembox>
+ll����UUUUUUUUU@[K[27Cembox>
+ll����UUUUUUUUU@�[K[28Cembox>
+ll����UUUUUUUUU@[K[27Cembox>
+ll����UUUUUUUUU@�[K[28Cembox>
+ll����UUUUUUUUU@��[K[29Cembox>
+ll����UUUUUUUUU@��@[K[30Cembox>
+ll����UUUUUUUUU@��@@[K[31Cembox>
+ll����UUUUUUUUU@��@@@[K[32Cembox>
+ll����UUUUUUUUU@��@@@D[K[33Cembox>
+ll����UUUUUUUUU@��@@@D@[K[34Cembox>
+ll����UUUUUUUUU@��@@@D@@[K[35Cembox>
+ll����UUUUUUUUU@��@@@D@@@[K[36Cembox>
+ll����UUUUUUUUU@��@@@D@@@@[K[37Cembox>
+ll����UUUUUUUUU@��@@@D@@@@@[K[38Cembox>
+ll����UUUUUUUUU@��@@@D@@@@@@[K[39Cembox>
+ll����UUUUUUUUU@��@@@D@@@@@@l[K[40Cembox>
+ll����UUUUUUUUU@��@@@D@@@@@@l@[K[41C
+l: Command not found
+tish error: #-2
+embox>
+lu���embox>
+lu���[K[14Cembox>
+lu���U[K[15Cembox>
+lu���UU[K[16Cembox>
+lu���UUU[K[17Cembox>
+lu���UUUU[K[18Cembox>
+lu���UUUUU[K[19Cembox>
+lu���UUUUUU[K[20Cembox>
+lu���UUUUUU[K[21Cembox>
+lu���UUUUUU@[K[22Cembox>
+lu���UUUUUU@@[K[23Cembox>
+lu���UUUUUU@@@[K[24Cembox>
+lu���UUUUUU@@@@[K[25Cembox>
+lu���UUUUUU@@@@@[K[26Cembox>
+lu���UUUUUU@@@@@l[K[27Cembox>
+lu���UUUUUU@@@@@l@[K[28C
+l: Command not found
+tish error: #-2
+embox>
+lu���embox>
+lu���[K[6Cembox>
+lu���[K[7Cembox>
+lu���[K[6Cembox>U
+lu���[K[7Cembox>UU
+lu���[K[8Cembox>UUU
+lu���[K[9Cembox>UUUU
+lu���[K[10Cembox>UUUUU
+lu���[K[11Cembox>UUUUUU
+lu���[K[12Cembox>UUUUUU
+lu���[K[13Cembox>UUUUUUU
+lu���[K[14Cembox>UUUUUUU�
+lu���[K[15Cembox>UUUUUUU��
+lu���[K[16Cembox>UUUUUUU��
+lu���[K[17Cembox>UUUUUUU��
+lu���[K[18Cembox>UUUUUUU��
+lu���[K[17Cembox>UUUUUUU��U
+lu���[K[18Cembox>UUUUUUU��UU
+lu���[K[19Cembox>UUUUUUU��UUU
+lu���[K[20Cembox>UUUUUUU��UUUU
+lu���[K[21Cembox>UUUUUUU��UUUUU
+lu���[K[22Cembox>UUUUUUU��UUUUUU
+lu���[K[23Cembox>UUUUUUU��UUUUUU
+lu���[K[24Cembox>UUUUUUU��UUUUUUU
+lu���[K[25Cembox>UUUUUUU��UUUUUUUU
+lu���[K[26Cembox>UUUUUUU��UUUUUUUUl
+lu���[K[27Cembox>UUUUUUU��UUUUUUUUl?
+lu���[K[28Cembox>UUUUUUU��UUUUUUUUl?�
+lu���[K[29Cembox>UUUUUUU��UUUUUUUUl?��
+lu���[K[30Cembox>UUUUUUU��UUUUUUUUl?���
+lu���[K[31Cembox>UUUUUUU��UUUUUUUUl?����
+lu���[K[32Cembox>UUUUUUU��UUUUUUUUl?����@
+lu���[K[33Cembox>UUUUUUU��UUUUUUUUl?����@o
+lu���[K[34Cembox>UUUUUUU��UUUUUUUUl?����@ou
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@@
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@@@
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@@@Z
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@@@Z@
+lu���[Kembox>UUUUUUU��UUUUUUUUl?����@out@@@Z@@
+lu���[K[42Cembox>UUUUUUU��UUUUUUUUl?����@out@@@Z@@@
+lu���[K[43Cembox>UUUUUUU��UUUUUUUUl?����@out@@@Z@@@@
+lu���[K[44C
+UUUUUU: Command not found
+tish error: #-2
+embox>lUU@U@�embox>lUU@U@[K[12ClogD@@���embox>lUU@U@logD@@��[K[20C@@l@
+lUU@U@logD@@��@@l@: Command not found
+tish error: #-2
+embox>
+u��
+embox>
+embox>
+lu���embox>
+lu��[K[12C�UhUUUUUUU@�embox>
+lu���UhUUUUUUU@[K[24C��@@@D@@@@@@@@llu��embox>
+lu���UhUUUUUUU@��@@@D@@@@@@@@llu��embox>U
+lu���UhUUUUUUU@��@@@D@@@@@@@@llu��embox>UU
+lu���UhUUUUUUU@��@@@D@@@@@@@@llu��embox>UUU
+lu���UhUUUUUUU@��@@@D@@@@@@@@llu��embox>UUUU
+lu���UhUUUUUUU@��@@@D@@@@@@@@llu��
+UUUU: Command not found
+tish error: #-2
+embox>UUU�U@�e��@@@D@@@@@@@@l@
+UU: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ @@�l@
+tish error: #-22
+embox>
+l�embox>
+l[K[8C�lsembox>
+l�ls[K[14Cembox>
+l�lsU[K[15Cembox>
+l�lsUU[K[16Cembox>
+l�lsUUU[K[17Cembox>
+l�lsUUUU[K[18Cembox>
+l�lsUUUUUembox>
+l�lsUUUUUUembox>
+l�lsUUUUUUembox>
+l�lsUUUUUUUembox>
+l�lsUUUUUUUUembox>
+l�lsUUUUUUUUUembox>
+l�lsUUUUUUUUU@embox>
+l�lsUUUUUUUUU@�embox>
+l�lsUUUUUUUUU@embox>
+l�lsUUUUUUUUU@�embox>
+l�lsUUUUUUUUU@��embox>
+l�lsUUUUUUUUU@��@embox>
+l�lsUUUUUUUUU@��@@embox>
+l�lsUUUUUUUUU@��@@@embox>
+l�lsUUUUUUUUU@��@@@Dembox>
+l�lsUUUUUUUUU@��@@@D@embox>
+l�lsUUUUUUUUU@��@@@D@@embox>
+l�lsUUUUUUUUU@��@@@D@@@embox>
+l�lsUUUUUUUUU@��@@@D@@@@embox>
+l�lsUUUUUUUUU@��@@@D@@@@�embox>
+l�lsUUUUUUUUU@��@@@D@@@@��embox>
+l�lsUUUUUUUUU@��@@@D@@@@���embox>
+l�lsUUUUUUUUU@��@@@D@@@@��embox>
+l�lsUUUUUUUUU@��@@@D@@@@��lembox>
+l�lsUUUUUUUUU@��@@@D@@@@��l@
+l: Command not found
+tish error: #-2
+embox>
+lu����u����embox>
+lu����u����[K[6Cembox>U
+lu����u����[K[7Cembox>UU
+lu����u����embox>UUU
+lu����u����embox>UUUU
+lu����u����embox>UUUUU
+lu����u����embox>UUUUUU
+lu����u����embox>UUUUUU
+lu����u����embox>UUUUUUU
+lu����u����embox>UUUUUUUU
+lu����u����embox>UUUUUUUUU
+lu����u����embox>UUUUUUUUU@
+lu����u����embox>UUUUUUUUU@�
+lu����u����embox>UUUUUUUUU@
+lu����u����embox>UUUUUUUUU@�
+lu����u����embox>UUUUUUUUU@��
+lu����u����embox>UUUUUUUUU@��@
+lu����u����embox>UUUUUUUUU@��@@
+lu����u����embox>UUUUUUUUU@��@@@
+lu����u����embox>UUUUUUUUU@��@@@D
+lu����u����embox>UUUUUUUUU@��@@@D@
+lu����u����embox>UUUUUUUUU@��@@@D@@
+lu����u����embox>UUUUUUUUU@��@@@D@@@
+lu����u����embox>UUUUUUUUU@��@@@D@@@@
+lu����u����embox>[K[28Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+UUUUUU: Command not found
+tish error: #-2
+embox>]@�embox>]@[K��@@@D@@@@@@@@l@
+]@��@@@D@@@@@@@@l@: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+luu�����
+l: Command not found
+tish error: #-2
+embox>UUcdU@��itD@@@@@@@@l@
+UU: Command not found
+tish error: #-2
+embox>
+e�~r�~rtq
+e: Command not found
+tish error: #-2
+embox>
+@@�xe[H[H[2J
+�yf: Command not found
+tish error: #-2
+embox>
+le�xpo2U
+le�xpo2U: Command not found
+tish error: #-2
+embox>
+l@@@tt@@ .@@@@@ttt�uttttttt�W
+embox>
+ledp@t
+ledp: Command not found
+tish error: #-2
+embox>
+xpo2t
+xpo2t: Command not found
+tish error: #-2
+embox>
+ppo*2pio*2pin
+ppo*2pio*2pin: Command not found
+tish error: #-2
+embox>
+l�pRen2t
+l�pRen2t: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+lem~em2t2t
+l: Command not found
+tish error: #-2
+embox>
+e�prtfxpor�@<
+e�rtfxpor�@<: Command not found
+tish error: #-2
+embox>
+l�exp�t
+l: Command not found
+tish error: #-2
+embox>
+l�eeVo2t���iiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

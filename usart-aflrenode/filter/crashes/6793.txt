@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�x����p@�vxit��eexeexp�xeexp����Pi
+�x����p@�vxit��eexeexp�xeexp����Pi: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>
+[?5h[?5l[K[8C�embox>
+[?5h[?5l[K[8Cxpoeexp�embox>
+[?5h[?5lxpoeexp�[K[6Cembox>
+[?5h[?5lxpoeexp�[K[7Cembox>
+[?5h[?5lxpoeexp�[K[8Cembox>e
+[?5h[?5lxpoeexp�[K[9Cembox>e�
+[?5h[?5lxpoeexp�[K[10Cembox>e�x
+[?5h[?5lxpoeexp�[K[11Cembox>e�x�
+[?5h[?5lxpoeexp�[K[12Cembox>e�x�I
+[?5h[?5lxpoeexp�[K[13Cembox>e�x�Ii
+[?5h[?5lxpoeexp�[K[14Cembox>e�x�Ii
+[?5h[?5lxpoeexp�[K[15C
+embox>
+�P�embox>
+[?5h[?5l[K[8Cgotembox>
+[?5h[?5lgot[K[13Cgotembox>
+[?5h[?5lgotgot[K[18C�embox>�x����p@�vxit��eexeexp�xeexp����Pi[K[40Cgotembox>�x����p@�vxit��eexeexp�xeexp����Pigot[Kgotembox>�x����p@�vxit��eexeexp�xeexp����Pigotgot[K�tembox>�x����p@�vxit��eexeexp�xeexp����Pigotgot�t[K[53Ctembox>�x����p@�vxit��eexeexp�xeexp����Pigotgot�tt[K[55C�tembox>�x����p@�vxit��eexeexp�xeexp����Pigotgot�tt�t[K
+�x����p@�vxit��eexeexp�xeexp����Pi: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�P�embox>�[K[7CQ��embox>
+[K[7CP�embox>�x����p@�vxit��eexeexp�xeexp����Pigotembox>�x����p@�vxit��eexeexp�xeexp����Pigotgotembox>�x����p@�vxit��eexeexp�xeexp����Pigotgotembox>
+[?5h[?5l[K[8Cgotembox>
+[?5h[?5lgot[K[13Cgotembox>
+[?5h[?5lgotgot[K[18C�tembox>
+[?5h[?5lgotgot�[K[19Cembox>
+[?5h[?5lgotgot�[K[19C
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+�Pt�g��^�embox>
+[?5h[?5l[K[8Cembox>
+[K[7Cgotgot7embox>
+gotgot7[K[15Cot�embox>�Q��[K[10C�
+�Q���: Command not found
+tish error: #-2
+embox>
+�i��iembox>[K[11Cembox>
+�i��[Kembox>
+�i��[Kembox>
+�i��[Ktwi
+�i��twi: Command not found
+tish error: #-2
+embox>
+t1�embox>
+t1pin��111Ǫ
+t1pin��111Ǫ: Command not found
+tish error: #-2
+embox>
+��embox>
+���tembox>[Kembox>[K�tembox>[K
+��: Command not found
+tish error: #-2
+embox>
+�P�gntnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+��: Command not found
+tish error: #-2
+embox>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn�t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

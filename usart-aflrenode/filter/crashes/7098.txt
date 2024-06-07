@@ -1,0 +1,39 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>R�xi{�@�@@@@?@@@@@H@@@@@@pd�Q�H@@@@@@@@���tmx@@@@
+R�xi{�@�@@@@?@@@@@H@@@@@@pd�Q�H@@@@@@@@���tmx@@@@: Command not found
+tish error: #-2
+embox>@@P @^
+@@P: Command not found
+tish error: #-2
+embox>
+R�xi{�cd���export��tmxp@�@@@@?tembox>[K[6C�Vttembox>�Vtt[K[6Cembox>�Vtt[K[7Cembox>��Vtt[K[8Cembox>�t�Vtt[K[9Cembox>�tt�Vtt[K[10Cembox>�ttt�Vtt[K[11Cembox>�tttt�Vtt[K[12Cembox>�ttttt�Vtt[K[13C
+embox>ttttdttMhstttlstt@@@@@@@@@@@@@@]
+ttttdttMhstttlstt@@@@@@@@@@@@@@]: Command not found
+tish error: #-2
+embox>
+R�xi{�dd�exit��e�p@?@@�l�@@@eexportxit@@@@@@
+R�xi{�dd�exit��e�p@?: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+R�xH{�cd��exitort��tmxp@�@@@@@@@��@=@embox>[K[45C@@@@@H@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

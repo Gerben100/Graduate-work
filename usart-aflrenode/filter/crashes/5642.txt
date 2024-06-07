@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>tembox>t[K[7C
+@�e)�
+t: Command not found
+tish error: #-2
+embox>
+~��e
+~��e: Command not found
+tish error: #-2
+embox>
+e�eembox>
+~��e[K[11C
+~��e: Command not found
+tish error: #-2
+embox>
+G�l~embox>
+G�l~[K[10Cembox>
+G�l^~[K[11Cembox>
+G�l^M~[K[12Cembox>
+G�l^M�~[K[13Cembox>
+G�l^Mы~[K[14Cembox>
+G�l^MыJ~[K[15Cembox>
+G�l^MыJ�~[K[16Cembox>
+G�l^MыJ�~[K[17Cembox>
+G�l^MыJ�~[K[18Cembox>
+G�l^MыJ�~[K[6Cembox>
+G�l^MыJ�~[K[7Cembox>
+G�l^MыJ�~[K[8Cembox> 
+G�l^MыJ�~[K[9Cembox> 
+G�l^MыJ�~[K[10Cembox> 
+G�l^MыJ�~[K[11Cembox> a
+G�l^MыJ�~[K[12C
+embox>
+j��
+j��: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+Y�44
+Y�44: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lk
+�k: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+embox>pembox>passwd[K[12C7s[H[H[2Jembox>passwd7s[K[14Ctttttt�ls[?5h[?5llttttembox>[K[6Cexport
+export: Command not found
+tish error: #-2
+embox>�lembox>�l[K[8Cembox>�l[K[9Cembox>�lt[K[10Cembox>�ltt[K[11Cembox>�lttd[K[12Cembox>�lttdk[K[13Cembox>�lttdkt[K[14Cembox>�lttdktt[K[15Cembox>�lttdkttt[K[16Cembox>�lttdktttt[Kembox>�lttdkttttt[Kembox>�lttdkttttt
+[K[19Cembox>�lttdkttttt
+�[K[20Cembox>�lttdkttttt
+��[K[21Cembox>�lttdkttttt
+��[K[21C
+embox>pembox>passwd[K[12C7embox>passwd7[K[13C�l[H[H[2Jembox>passwd7�l[K[16Ct������������������������embox>passwd7�lt������������������������embox>passwd7�lt������������������������embox>export[K[12Ctdk]
+exporttdk]: Command not found
+tish error: #-2
+embox>tttt
+�embox>exporttdk][K[16Cembox>exporttdk][K[16C
+embox>p7sls[H[H[2Jembox>passwd7sls[K[16Ctttttt�ls[?5h[?5lltttt�embox>passwd7slstttttt�lsltttt�embox>passwd7slstttttt�lsltttt�embox>passwd7slstttttt�lsltttt�tembox>passwd7slstttttt�lsltttt�ttembox>passwd7slstttttt�lsltttt�ttd
+passwd7sls: Command not found
+tish error: #-2
+embox>kttttt
+���embox>[K[15Cembox>[K[14C[?5h[?5l7xit
+��embox>[K[21C
+embox>p[?5h[?5l7s[H[H[2Jembox>p7s[Ktttttt�@s[?5h[?5lltttt�embox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32C
+p7s: Command not found
+tish error: #-2
+embox>tttt
+�ztkeembox>tttt
+�ztke��embox>tttt
+�ztke��
+embox>p[?5h[?5l7s[H[H[2Jembox>p7stttlls@ltttt�embox>p7stttlls@ltttt�embox>p7stttlls@ltttt�embox>p7stttlls@ltttt�tembox>[Kembox>[Kembox>[Kembox>[K
+p7s: Command not found
+tish error: #-2
+embox>tttt
+��embox>tttt
+��
+embox>p[?5h[?5l7s[H[H[2Jembox>p7stDtttt�ls[?5h[?5lttt�embox>p7stDtttt�lsttt�embox>p7stDtttt�lsttt�embox>p7stDtttt�lsttt�tembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>p[?5h[?5l7s[H[H[2Jembox>p7stttttt���ls[?5h[?5llembox>p7stttttt���lslembox>p7stttttt���lslembox>p7stttttt���lslembox>tp7stttttt���lslembox>t�p7stttttt���lslembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>ttt����embox>ttt����
+embox>p[?5h[?5l7slr�lttt���embox>p7slr�lttt���
+embox>p[?5h[?5l7s,�embox>p7s,�embox>p7s,�embox>tp7s,�embox>ttp7s,�embox>tttp7s,�embox>ttttp7s,�embox>tttttp7s,�embox>ttttttp7s,�embox>ttttttp7s,�embox>ttttttp7s,�embox>ttttttp7s,�embox>tttttt�p7s,�embox>tttttt�lp7s,�embox>tttttt�l�p7s,�embox>tttttt�l��p7s,�embox>tttttt�l���p7s,�embox>tttttt�l����p7s,�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>tdkot�
+��embox>tdkot�
+��
+embox>���������������������������[?5h[?5llttttexitttd��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

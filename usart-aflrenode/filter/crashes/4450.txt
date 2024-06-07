@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+fCLK�+�LCLL� embox>
+fCLK�+�LCLL� [K[20C�
+fCLK�+�LCLL�: Command not found
+tish error: #-2
+embox>
+f�embox>
+f�[K[11Cp2�2
+f: Command not found
+tish error: #-2
+embox>
+ff���embox>
+ff��[K[11C�pembox>
+ff���[K[12C�p2�embox>
+f[K[8C2�p2
+f2�p2: Command not found
+tish error: #-2
+embox>
+llsp embox>
+llsp [K[6Cembox>5
+llsp [K[7Cembox>5T
+llsp [K[8Cembox>5TM
+llsp [K[9Cembox>5TMx
+llsp [K[10C
+5TMx: Command not found
+tish error: #-2
+embox>
+f�f"��p��pembox>
+f�f"��p��[K[18C�p2
+f�f"��p���p2: Command not found
+tish error: #-2
+embox>
+f��?�p2�p2
+f��?�p2�p2: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+f��embox>
+f�[K[9C@+xKjembox>
+ [K[8Cembox>
+f��?�p2�p2[K[17Cpi�
+f��?�p2�p2pi�: Command not found
+tish error: #-2
+embox>
+p�c��@ ejembox>
+p�c��@ ejembox>[Kp)n
+f��?�p2�p2pi�p)n: Command not found
+tish error: #-2
+embox>
+f�embox>
+f@@xejembox>[Kembox>
+f��?�p2�p2piembox>
+f��?�p2�p2pembox>
+f��?�p2�p2embox>
+f��?�p2�p
+f��?�p2�p: Command not found
+tish error: #-2
+embox>
+v���pin
+v���pin: Command not found
+tish error: #-2
+embox>
+����exito
+����exito: Command not found
+tish error: #-2
+embox>
+f�@[?5h[?5l�
+embox>�4[?5h[?5l�
+�4[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+f��@(x��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

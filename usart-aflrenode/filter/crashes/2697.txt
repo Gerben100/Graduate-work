@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+embox>
+embox>
+T�T�
+T�T�: Command not found
+tish error: #-2
+embox>
+�T�
+�T�: Command not found
+tish error: #-2
+embox>
+loexitgout
+loexitgout: Command not found
+tish error: #-2
+embox>
+2lsf�
+2lsf�: Command not found
+tish error: #-2
+embox>
+��T�
+��T�: Command not found
+tish error: #-2
+embox>
+d��
+d��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�������embox>
+�[K[8C��
+���: Command not found
+tish error: #-2
+embox>
+piembox>
+pi[K[6Cembox>
+pi[K[7Cembox>
+pi[K[6Cembox>\
+pi[K[7Cembox>\x
+pi[K[8Cembox>\xi
+pi[K[9Cembox>\xit
+pi[K[10C
+\xit: Command not found
+tish error: #-2
+embox>
+��Pembox>
+��P[K[6Cembox>�
+��P[K[7C
+�: Command not found
+tish error: #-2
+embox>
+��logout
+��logout: Command not found
+tish error: #-2
+embox>
+f�embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+x2�mWmm2��
+�mWmm2��: Command not found
+tish error: #-2
+embox>
+d�䂂
+d�䂂: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+d�e.��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+cke����
+cke��: Command not found
+tish error: #-2
+embox>
+d�e������������������������
+\xit: Command not found
+tish error: #-2
+embox>��pin��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+dxe��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+eGe�e8%�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+��c�cd�d
+��c�cd�d: Command not found
+tish error: #-2
+embox>
+d�e���
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+dx������������s�����������������s�����������a�
+embox>
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�d
+dxe�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

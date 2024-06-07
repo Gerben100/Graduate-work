@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>TTTTTTTTTTTTTTTTSTTTembox>TTTTTTTTTTTTTTTTSTTT[K[6Cembox>TTTTTTTTTTTTTTTTSTTT[K[7Cembox>TTTTTTTTTTTTTTTTSTTT[K[8Cembox>TTTTTTTTTTTTTTTTTSTTT[K[9Cembox>TTTTTTTTTTTTTTTTTTSTTT[K[10Cembox>TTTTTTTTTTTTTTTTTTTSTTT[K[11Cembox>TTTTTTTTTTTTTTTTTTTTSTTT[K[12Cembox>TTTTTTTTTTTTTTTTTTTTTSTTT[K[13Cembox>TTTTTTTTTTTTTTTTTTTTTTSTTT[K[14Cembox>TTTTTTTTTTTTTTTTTTTTTTTSTTT[K[15Cembox>TTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[16Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[17Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[18Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[19Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[20Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[21Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[22Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[23Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[24Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[25Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[26Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[27Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[28Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[29Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[Kembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[31Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTSTTT[K[32Cembox>TTTTTTTTTTTTTTTTTTTTTTTTlTTTTTTTTTTTTTTTTSTTT[K[33Cembox>TTTTTTTTTTTTTTTTTTTTTTTTlsTTTTTTTTTTTTTTTTSTTT[K[34C
+embox>TTTTTTTTTTTTTTTembox>TTTTTTTTTTTTTTT[K[6Cembox>TTTTTTTTTTTTTTT[K[7Cembox>TTTTTTTTTTTTTTT[K[8Cembox>TTTTTTTTTTTTTTTT[K[9Cembox>TTTTTTTTTTTTTTTTT[K[10Cembox>TTTTTTTTTTTTTTTTTT[K[11Cembox>TTTTTTTTTTTTTTTTTTT[K[12Cembox>TTTTTTTTTTTTTTTTTTTT[K[13Cembox>TTTTTTTTTTTTTTTTTTTTT[K[14Cembox>TTTTTTTTTTTTTTTTTTTTTT[K[15Cembox>TTTTTTTTTTTTTTTTTTTTTTT[K[16Cembox>TTTTTTTTTTTTTTTTTTTTTTTT[K[17Cembox>TTTTTTTTTTTTTTTTTTTTTTTTT[K[18Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTT[K[19Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTT[K[20Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTT[K[21Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTT[K[22Cembox>TTTTTTTTTTTTTTTTTTTTTTTTTTTTTT[K[23Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTT[K[24Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTT[K[25Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTT[K[26Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTT[K[27Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTTT[K[28Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTTTT[K[29Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTTTTT[K[30Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTTTTTT[K[31Cembox>TTTTTTTTTTTTTTT&TTTTTTTTTTTTTTTTTTTTTTT[K[32Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTT[K[33Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTT[K[34Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTTT[Kembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTTTT[K[36Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTTTTT[K[37Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTTTTTT[K[38Cembox>TTTTTTTTTTTTTTT&TTTTTTTTLTTTTTTTTTTTTTTTTTTTTT[K[39C
+embox>TTTTTTTTT1�GH�G
+TTTTTTTTT1�GH�G: Command not found
+tish error: #-2
+embox>
+����xei�embox>
+����xei�[K[14Cembox>
+����xei�[K[15Cembox>
+����xei��[K[16Cembox>
+����xei�y�[K[17Cembox>
+����xei�ye�[K[18Cembox>
+����xei�ye��[K[19Cembox>
+����xei�ye�@�[K[20Cembox>
+����xei�ye�@�[K[21Cembox>
+����xei�ye�@/�[K[22Cembox>
+����xei�ye�@/@�[K[23Cembox>
+����xei�ye�@/@P�[K[24Cembox>
+����xei�ye�@/@P@�[K[25Cembox>
+����xei�ye�@/@P@\�[K[26Cembox>
+����xei�ye�@/@P@\c�[K[27Cembox>
+����xei�ye�@/@P@\c��[K[28Cembox>
+����xei�ye�@/@P@\c���[K[29C
+����xei: Command not found
+tish error: #-2
+embox>
+<)<)
+<)<): Command not found
+tish error: #-2
+embox>
+΢����
+΢����: Command not found
+tish error: #-2
+embox>���x����������������
+���x����������������: Command not found
+tish error: #-2
+embox>
+ embox>
+ [K[7Cembox>
+ [K[8Cembox>
+� [K[9C
+tish error: #-22
+embox>
+@���yei�l��P��
+@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+exit�
+exit�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ls#
+ls#: Command not found
+tish error: #-2
+embox>
+1�
+embox>����[?5h[?5l�����������������xpin]iiiiiiNiiiixiiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>moo-�embox>moo-�[K[12C�
+moo-�: Command not found
+tish error: #-2
+embox>
+��logo�
+��logo�: Command not found
+tish error: #-2
+embox>
+h�lo
+embox>苋
+苋: Command not found
+tish error: #-2
+embox>
+Pw
+Pw: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�golout��
+�golout��: Command not found
+tish error: #-2
+embox>
+li�nn̂
+li�nn̂: Command not found
+tish error: #-2
+embox>
+l��yn��
+l��yn��: Command not found
+tish error: #-2
+embox>
+k�i��
+k�i�: Command not found
+tish error: #-2
+embox>
+��zẑ
+��: Command not found
+tish error: #-2
+embox>
+l�excdit���������unň�excdt������rn��̚
+l�excdit���������: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+expcrtl����d
+expcrtl���d: Command not found
+tish error: #-2
+embox>
+liynn̂iynn��̂
+liynn̂iynn��̂: Command not found
+tish error: #-2
+embox>
+eexport
+t: Command not found
+tish error: #-2
+embox>
+l��
+l�: Command not found
+tish error: #-2
+embox>
+ 
+: Command not found
+tish error: #-2
+embox>
+lttij
+lttij: Command not found
+tish error: #-2
+embox>
+'
+(null): Command not found
+tish error: #-2
+embox>
+l��
+l��: Command not found
+tish error: #-2
+embox>
+}���
+}��: Command not found
+tish error: #-2
+embox>
+��Zd
+tish error: #-22
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lt��
+lt�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+L
+dd
+L: Command not found
+tish error: #-2
+embox>
+exex
+exex: Command not found
+tish error: #-2
+embox>
+0
+0: Command not found
+tish error: #-2
+embox>
+lsl��lsx�x�"��
+lsl��ls: Command not found
+tish error: #-2
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+lsl�x���
+lsl�x: Command not found
+tish error: #-2
+embox>
+lslsl��x��
+lslsl��x: Command not found
+tish error: #-2
+embox>
+lsl��w��
+lsl��w: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+exit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

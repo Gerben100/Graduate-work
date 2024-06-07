@@ -1,0 +1,155 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��lsembox>
+��ls[K[14Cembox>
+��ls[K[15Cembox>
+��ls[K[16Cembox>
+��l�s[K[17Cembox>
+��l�[K[17C�~:
+embox>
+embox>
+[@
+[@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�pXnu
+�pXnu: Command not found
+tish error: #-2
+embox>
+exxto��embox>
+exxto��[K[16C�
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+
+embox>a��aaa�
+a��: Command not found
+tish error: #-2
+embox>
++�dhembox>a��[K[9C �
+a��: Command not found
+tish error: #-2
+embox>
+y-embox>a�� �[K[11Cembox>a��[K[9Cembox>
+���[K[10C������
+��ߏ�����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��embox>
+��embox>
+��embox>
+��embox>�
+��
+embox>
+enportembox>
+�
+�: Command not found
+tish error: #-2
+embox>
++
+embox>xlsexpOrt%iembox>xlsexpOrt%iembox>xlsexpOrt%i@embox>xlsexpOrt%i@embox>xlsexpOrt%i@+embox>xlsexpOrt%i@+embox>xlsexpOrt%i@+d|%i
+xlsexpOrt%i@+d: Command not found
+tish error: #-2
+embox>
+embox>
+�e@@
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�%MH
+�%: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����������������
+����������������: Command not found
+tish error: #-2
+embox>
+��
+����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+Q
+Q: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+&
+: Command not found
+tish error: #-2
+embox>
+logout�
+logout�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

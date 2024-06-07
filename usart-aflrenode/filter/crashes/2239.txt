@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>wembox>[K[6CWembox>[K[6C�ofembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Ceexitlogouembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C��y�e
+��y�e: Command not found
+tish error: #-2
+embox>
+���_�embox>��y�e[K[11C
+��y�e: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>e
+�[K[8Cembox>e�
+�[K[9Cembox>e�
+�[K[10Cembox>e�[K[10Cembox>e�[K[6Cembox>e�[K[7Cembox>ee�[K[8Cembox>eee�[K[9C
+embox>DP��DP
+DP��DP: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Celngoutw�embox>DP��DP[K[12Cy�e
+DP��DPy�e: Command not found
+tish error: #-2
+embox>
+��������������������������embox>
+�������������������������[K[32Cembox>[K[6Cembox>[K[6C���embox>[K[6Cembox>[K[6Cuembox>u[K[6Cembox>�u[K[7Cembox>�cu[K[8Cembox>�c`u[K[9Cembox>�c`�u[K[10Cembox>�c`u[K[9Cembox>u[K[6Cembox>u[K[7Cembox>u[K[6Cembox>�u[K[7Cembox>��u[K[8Cembox>��u[K[9C
+��u: Command not found
+tish error: #-2
+embox>�embox>[K[6Cembox>[K[6Cuembox>u[K[6Cembox>lu[K[7Cembox>lou[K[8Cembox>logu[K[9Cembox>logou[K[10Cembox>logouu[K[11Cembox>logoutu[K[12Cembox>logoutyu[K[13Cembox>logoutypu[K[14Cembox>logoutypeu[K[15C
+logoutypeu: Command not found
+tish error: #-2
+embox>
+�pinembox>[K[6Cembox>[K[6Cembox>[K[6Clogoutembox>[K[6Celogepin��y�e
+elogepin��y�e: Command not found
+tish error: #-2
+embox>
+�embox>[K[6C�embox>�[K[6Cembox>�[K[7C
+embox>log�z��
+log�z��: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Celogoutxembox>elogoutx[K[14C��
+elogoutx�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Ce
+embox>�goutw��y�e
+�goutw��y�e: Command not found
+tish error: #-2
+embox>
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K�embox>[Kembox>[Kembox>[Kembox>[Kelogoutw�plso�y�e
+elogoutw�plso�y�e: Command not found
+tish error: #-2
+embox>
+�*�
+embox>l�y�e
+l�y�e: Command not found
+tish error: #-2
+embox>
+�elo�outo�outw��y�e
+elo�outo�outw��y�e: Command not found
+tish error: #-2
+embox>
+d������$[?5h[?5l%%%%%%%%%%%%%%%%%%%%%%%%%%%%ed|
+ed|: Command not found
+tish error: #-2
+embox>goupinin�e
+goupinin�e: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+@8�'�de
+de: Command not found
+tish error: #-2
+embox>gPuexport
+gPu: Command not found
+tish error: #-2
+embox>
+�eei�i�elogoutw��j�e
+elogoutw��j�e: Command not found
+tish error: #-2
+embox>
+5
+embox>蔂
+蔂: Command not found
+tish error: #-2
+embox>
+out���y�e
+out���y�e: Command not found
+tish error: #-2
+embox>
+�0��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

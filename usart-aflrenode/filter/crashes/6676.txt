@@ -1,0 +1,111 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�c�ls��`WW^5�y�����Ȃ��������������������������
+embox>������������������������������������������embox>������������������������������������������[K[6Cembox>[K[6C�vpnr
+�vpnr: Command not found
+tish error: #-2
+embox>
+wxeembox>�vpnr[K[11Ct�������[?5h[?5lxet$lr�o5������Ȁ
+ vpnr
+�vpnrt�������[?5h[?5lxet: Command not found
+tish error: #-2
+embox>
+�
+embox>ls�-
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+llllVl)
+llllVl): Command not found
+tish error: #-2
+embox>
+embox>
+llllVl)[K[14C
+llllVl): Command not found
+tish error: #-2
+embox>
+�)
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eembox>
+�[K[8Cembox>
+e[K[8C
+e: Command not found
+tish error: #-2
+embox>rqolembox>rqol[K[6Cembox>rqol[K[7Cembox>rqol[K[8Cembox>�rqol[K[9C
+embox>
+X�����
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+e�embox>[K[6C��embox>
+[K[7C�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�K
+�[K[8Cembox>�K�
+�[K[9Cembox>�K�t
+�[K[10Cembox>�K�t�
+�[K[11Cembox>�K�t�)
+�[K[12Cembox>�K�t�)l
+�[K[13Cembox>�K�t�)ls
+�[K[14Cembox>�K�t�)ls�
+�[K[15Cembox>�K�t�)ls��
+�[K[16C
+�K�t�)ls��: Command not found
+tish error: #-2
+embox>
+ls�)
+tish error: #-22
+embox>
+5�����
+tish error: #-22
+embox>
+czlog�}
+tish error: #-22
+embox>
+�exitl
+embox>�u
+�u: Command not found
+tish error: #-2
+embox>
+czit�g�u
+tish error: #-22
+embox>
+pz
+�u: Command not found
+tish error: #-2
+embox>
+exit3czlog�u
+�u: Command not found
+tish error: #-2
+embox>
+czlogout
+�ulogout: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

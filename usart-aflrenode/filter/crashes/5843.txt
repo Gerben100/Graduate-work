@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cc
+cc: Command not found
+tish error: #-2
+embox>
+|embox>
+[K[7C�;�t@cd�胀�ls�ls``````r````````@```^```````
+�;�t@cd�胀�ls�ls``````r````````@```^```````: Command not found
+tish error: #-2
+embox>
+is
+is: Command not found
+tish error: #-2
+embox>
+�
+embox>s
+s: Command not found
+tish error: #-2
+embox>
+ysuss
+ysuss: Command not found
+tish error: #-2
+embox>
+�Mc�
+�Mc�: Command not found
+tish error: #-2
+embox>
+embox>[K[6CSaW� �BBBls
+
+Bembox>SaW� �BBBls
+
+B[K[6Cembox>BSaW� �BBBls
+
+B[K[7Cembox>B=SaW� �BBBls
+
+B[K[8Cembox>B=FSaW� �BBBls
+
+Bembox>B=FBSaW� �BBBls
+
+Bembox>B=FBBSaW� �BBBls
+
+Bembox>B=FBBeSaW� �BBBls
+
+Bembox>B=FBBexSaW� �BBBls
+
+Bembox>B=FBBexiSaW� �BBBls
+
+Bembox>B=FBBexitSaW� �BBBls
+
+Bembox>B=FBBexitASaW� �BBBls
+
+B
+B=FBBexitASaW�: Command not found
+tish error: #-2
+embox>
+�SaM� B@\BBBiBBBB*BBBB@
+�SaM�: Command not found
+tish error: #-2
+embox>
+�SaB(
+�SaB(: Command not found
+tish error: #-2
+embox>
+AAAAAAAABBlo�dou�B0BpinHBBB�A
+AAAAAAAABB: Command not found
+tish error: #-2
+embox>
+�jaM� BBBBBBBB@\BB
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

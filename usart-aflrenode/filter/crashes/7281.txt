@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@D'@@@^@@@@@pin@@@@@b@@@�@$@?@@�@
+@D'@@@^@@@@@pin@@@@@: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[9Cembox>
+i[K[10Cembox>
+i�[K[11Cembox>
+i�[K[12Cembox>
+i�e[K[13Cembox>
+i�ed[K[14Cembox>
+i�edi[K[15Cembox>
+i�edi[K[16Cembox>
+i�edi[K[15Cembox>
+i�edi[K[16Cembox>
+i�edi�[K[17Cembox>
+i�edi��[K[18Cembox>
+i�edi��[K[19Cembox>
+i�edi���[K[20Cembox>
+i�edi����[K[21Cembox>
+i�edi����e[K[22Cembox>
+i�edi����e�[K[23Cembox>
+i�edi����e�[K[23Cembox>
+i�edi����e�x[K[24Cembox>
+i�edi����e�xe[K[25Cembox>
+i�edi����e�xed[K[26Cembox>
+i�edi����e�xedi[K[27Cembox>
+i�edi����e�xedi[K[28Cembox>
+i�edi����e�xedi[K[27Cembox>
+i�edi����e�xedi[K[28Cembox>
+i�edi����e�xedi�[K[29Cembox>
+i�edi����e�xedi��[K[30Cembox>
+i�edi����e�xedi��[K[31Cembox>
+i�edi����e�xedi���[K[32Cembox>
+i�edi����e�xedi����[K[33Cembox>
+i�edi����e�xedi����e[K[34Cembox>
+i�edi����e�xedi����e[K[36C�xeHembox>
+i�edi����e�xedi����e�xeH[K[42Cembox>
+i�edi����e�xedi����e�xeH[K[43Cembox>
+i�edi����e�xedi����e�xeH�[Kembox>
+i�edi����e�xedi����e�xeH�y[Kembox>
+i�edi����e�xedi����e�xeH�ye[Kembox>
+i�edi����e�xedi����e�xeH�yee[Kembox>
+i�edi����e�xedi����e�xeH�yeei[K
+tish error: #-22
+embox>@@@@@?@@@G@+@@@embox>@@@@@?@@@G@+@@[K[21C��@@�665V>6@;p�@@@@@n@@@@�@@@D'@
+@@@@@?@@@G@+@@: Command not found
+tish error: #-2
+embox>@@^@@)@@p[embox>@@^@@)@@p[K[15C� d@@@@b@@@@?$embox>@@@@@?@@@G@+@@[K[20C�@@@�@
+@@@@@?@@@G@+@@�@: Command not found
+tish error: #-2
+embox>
+i��eeeeeeeeeeeeeeeeeeeeeeeee�
+embox>@@�@
+@@�@: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[9Cembox>
+i[K[10Cembox>
+i�[K[11Cembox>
+i�[K[12Cembox>
+i�e[K[13Cembox>
+i�ed[K[14Cembox>
+i�edi[K[15Cembox>
+i�edi[K[16Cembox>
+i�edi[K[15Cembox>
+i�edi[K[16Cembox>
+i�edi�[K[17Cembox>
+i�edi�y[K[18Cembox>
+i�edi�y[K[19Cembox>
+i�edi�yl[K[20Cembox>
+i�edi�yls[K[21Cembox>
+i�edi�yls�[Kembox>
+i�edi�yls[K[21Cembox>
+i�edi�yls[Kembox>
+i�edi�ylsm[Kembox>
+i�edi�ylsms[Kembox>
+i�edi�ylsms�[Kembox>
+i�edi�ylsms[Kembox>
+i�edi�ylsm[Kembox>
+i�edi�ylsm�[Kembox>
+i�edi�ylsm��[Kembox>
+i�edi�ylsm���embox>
+i�edi�ylsm����embox>
+i�edi�ylsm����yembox>
+i�edi�ylsm����yeembox>
+i�edi�ylsm����yeeembox>
+i�edi�ylsm����yeeiembox>
+i�edi�ylsm����yeei�embox>
+i�edi�ylsm����yeei�6embox>
+i�edi�ylsm����yeei�66embox>
+i�edi�ylsm����yeei�665embox>
+i�edi�ylsm����yeei�665eembox>
+i�edi�ylsm����yeei�665e�embox>
+i�edi�ylsm����yeei�665e�embox>
+i�edi�ylsm����yeei�665e�xembox>
+i�edi�ylsm����yeei�665e�xeembox>
+i�edi�ylsm����yeei�665e�xeiembox>
+i�edi�ylsm����yeei�665e�xeiembox>
+i�edi�ylsm����yeei�665e�xeiembox>
+i�edi�ylsm����yeei�665e�xeiembox>
+i�edi�ylsm����yeei�665e�xeiVembox>
+i�edi�ylsm����yeei�665e�xeiV>embox>
+i�edi�ylsm����yeei�665e�xeiV>6
+tish error: #-22
+embox>@;p��D@@@@^@@@��pib@@@@@@@n@@@@�@@@D'@@@^@@@@@pi
+@;: Command not found
+tish error: #-2
+embox>n@@@@@@@@b@@@�@$embox>@;[K[8C@?@@�
+@;@?: Command not found
+tish error: #-2
+embox>
+i[?5h[?5l�����6656>@@@@@?@@\@@exp@�@@@@?@�@
+tish error: #-22
+embox>
+iembox>
+iembox>
+iembox>
+i�embox>
+i�embox>
+i�eembox>
+i�edembox>
+i�ediembox>
+i�ediembox>
+i�ediembox>
+i�ediembox>
+i�edi�embox>
+i�edi�yembox>
+i�edi�y�embox>
+i�edi�y��embox>
+i�edi�y���embox>
+i�edi�y���eembox>
+i�edi�y���e�embox>
+i�edi�y���e�embox>
+i�edi�y���e�xembox>
+i�edi�y���e�xeembox>
+i�edi�y���e�xeiembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tish error: #-22
+embox>�@@@��pibV@@@@@@n@@@@�@@@D'@@@^@@@c@pin@@@@@@@@b
+�@@@��pi: Command not found
+tish error: #-2
+embox>@@@�@$@?@@�@
+�@@@��pi@?: Command not found
+tish error: #-2
+embox>
+i�S
+tish error: #-22
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

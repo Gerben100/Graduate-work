@@ -1,0 +1,181 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+��yeembox>
+��ye[K[6Cembox>@
+��ye[K[7Cembox>@@
+��ye[K[8Cembox>@@@
+��ye[K[9Cembox>@@@@
+��ye[K[10Cembox>@@@@@
+��ye[K[11Cembox>@@@@@@
+��ye[K[12Cembox>@@@@@@@
+��ye[K[13Cembox>@@@@@@@@
+��ye[K[14Cembox>@@@@@@@@@
+��ye[K[15Cembox>@@@@@@@@@@
+��ye[K[16Cembox>@@@@@@@@@@@
+��ye[K[17Cembox>@@@@@@@@@@@@
+��ye[K[18Cembox>@@@@@@@@@@@@@
+��ye[K[19Cembox>@@@@@@@@@@@@@@
+��ye[K[20Cembox>@@@@@@@@@@@@@@@
+��ye[K[21Cembox>@@@@@@@@@@@@@@@@
+��ye[K[22Cembox>@@@@@@@@@@@@@@@@@
+��ye[K[23Cembox>@@@@@@@@@@@@@@@@@@
+��ye[K[24Cembox>@@@@@@@@@@@@@@@@@@@
+��ye[K[25Cembox>@@@@@@@@@@@@@@@@@@@@
+��ye[K[26Cembox>@@@@@@@@@@@@@@@@@@@@@
+��ye[K[27Cembox>@@@@@@@@@@@@@@@@@@@@@v
+��ye[K[28Cembox>@@@@@@@@@@@@@@@@@@@@@
+��ye[K[27Cembox>@@@@@@@@@@@@@@@@@@@@@�
+��ye[K[28Cembox>@@@@@@@@@@@@@@@@@@@@@��
+��ye[K[29Cembox>@@@@@@@@@@@@@@@@@@@@@��@
+��ye[K[30Cembox>@@@@@@@@@@@@@@@@@@@@@��@?
+��ye[K[31Cembox>@@@@@@@@@@@@@@@@@@@@@��@??
+��ye[K[32Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@
+��ye[K[33Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@
+��ye[K[34Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@7
+��ye[K[35Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76
+��ye[K[36Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76
+��ye[K[37Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76
+��ye[K[38Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76
+��ye[K[39Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 
+��ye[K[40Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 @
+��ye[K[41Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 @@
+��ye[K[42Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 @@
+��ye[K[43Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 @@
+��ye[K[42Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 @
+��ye[K[41Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76 
+��ye[K[40Cembox>@@@@@@@@@@@@@@@@@@@@@��@??@76
+��ye[K[39C
+@@@@@@@@@@@@@@@@@@@@@��@??@: Command not found
+tish error: #-2
+embox>�embox>�[K[7Cembox>[K[6C�embox>[K[6C��embox>�[K[7Cembox>[K[6Cpinembox>pi[K[8Cembox>p[K[7Cembox>[K[6Cd��
+embox>@@@@@v��@@??@@@
+@@@@@v��@@??@@@: Command not found
+tish error: #-2
+embox>��embox>�[K[7C@embox>�[K[7C�embox>�[K[7Cembox>[K[6Cwembox>[K[6C
+embox>
+��yeembox>
+��ye[K[6Cembox>�
+��ye[K[7Cembox>��
+��ye[K[8Cembox>��e
+��ye[K[9Cembox>��e
+��ye[K[10Cembox>��e
+3��ye[K[11Cembox>��e
+3m��ye[K[12Cembox>��e
+3mo��ye[K[13Cembox>��e
+3mo5��ye[K[14Cembox>��e
+3mo56��ye[K[15Cembox>��e
+3mo566��ye[K[16Cembox>��e
+3mo5665��ye[K[17Cembox>��e
+3mo56656��ye[K[18Cembox>��e
+3mo56656>��ye[K[19Cembox>��e
+3mo56656>���ye[K[20Cembox>��e
+3mo56656>����ye[K[21C
+embox>@@@@@vembox>@@@@@[K[11C��@??@@@embox>@@@@@��@??@@[K[18Cembox>@@@@@��@??@[K[17Cpinembox>@@@@@��@??@pi[K[19Cembox>@@@@@��@??@p[K[18Cembox>@@@@@��@??@[K[17C�765
+@@@@@��@??@�765: Command not found
+tish error: #-2
+embox>N>5@@d��
+embox>@@@@@vembox>@@@@@[K[11C�@@??@@@embox>@@@@@�@@??@@[K[18Cembox>@@@@@�@@??@[K[17Cembox>@@@@@�@@??[K[16Cembox>@@@@@�@@?[K[15Cembox>@@@@@�@@[K[14C��embox>@@@@@�@@�[K[15Cembox>@@@@@�@@[K[14Cembox>@@@@@�@[K[13Cembox>@@@@@�[K[12C�embox>@@@@@�[K[12Cembox>@@@@@[K[11Cembox>@@@@[K[10Cwembox>@@@@[K[10Cembox>@@@[K[9Cembox>@@[K[8Cembox>@[K[7Cembox>[K[6C
+embox>
+embox>
+���UUp�UUp
+���UUp�UUp: Command not found
+tish error: #-2
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+� expor|
+tish error: #-22
+embox>
+0pUD�
+0pUD�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cd�
+cd�: Command not found
+tish error: #-2
+embox>
+pvn
+embox>�[?5h[?5lj�
+�j�: Command not found
+tish error: #-2
+embox>
+��o�U
+��o�U: Command not found
+tish error: #-2
+embox>
+�k�
+�k�: Command not found
+tish error: #-2
+embox>
+�/p7U
+�/p7U: Command not found
+tish error: #-2
+embox>
+�p  U
+�p: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+��e�it�exit
+�j��: Command not found
+tish error: #-2
+embox>
+����e
+����: Command not found
+tish error: #-2
+embox>
+��@?
+embox>
+�Qfxic3?tc
+�j�fxi: Command not found
+tish error: #-2
+embox>
+kd
+kd: Command not found
+tish error: #-2
+embox>
+�exi�c3xitcd��e^i�c3xitcd?���
+tish error: #-22
+embox>
+�����c3?��
+�: Command not found
+tish error: #-2
+embox>
+�������
+������: Command not found
+tish error: #-2
+embox>
+�d
+eitc3=: Command not found
+tish error: #-2
+embox>
+�otatcxei�d?i�c?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

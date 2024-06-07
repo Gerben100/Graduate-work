@@ -1,0 +1,173 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+: Command not found
+tish error: #-2
+embox>
+embox>[K[7C�d
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cl�
+l�: Command not found
+tish error: #-2
+embox>
+lo^e�cx�66F6>T@@embox>
+lo^e�cx�66F6>T@@[K[6Cembox>
+lo^e�cx�66F6>T@@[K[7Cembox>�
+lo^e�cx�66F6>T@@[K[8Cembox>�5
+lo^e�cx�66F6>T@@[K[9Cembox>�5@
+lo^e�cx�66F6>T@@[K[10Cembox>�5@@
+lo^e�cx�66F6>T@@[K[11Cembox>�5@@@
+lo^e�cx�66F6>T@@[K[12Cembox>�5@@@@
+lo^e�cx�66F6>T@@[K[13Cembox>�5@@@@�
+lo^e�cx�66F6>T@@[K[14Cembox>�5@@@@�
+lo^e�cx�66F6>T@@[K[15Cembox>�5@@@@�
+lo^e�cx�66F6>T@@[K[16Cembox>�5@@@@�w
+lo^e�cx�66F6>T@@[K[17Cembox>�5@@@@�w�
+lo^e�cx�66F6>T@@[K[18Cembox>�5@@@@�w�@
+lo^e�cx�66F6>T@@[K[19Cembox>�5@@@@�w�@@
+lo^e�cx�66F6>T@@[K[20Cembox>�5@@@@�w�@@@
+lo^e�cx�66F6>T@@[K[21Cembox>�5@@@@�w�@@@<
+lo^e�cx�66F6>T@@[K[22Cembox>�5@@@@�w�@@@<@
+lo^e�cx�66F6>T@@[K[23Cembox>�5@@@@�w�@@@<@@
+lo^e�cx�66F6>T@@[K[24Cembox>�5@@@@�w�@@@<@@@
+lo^e�cx�66F6>T@@[K[25Cembox>�5@@@@�w�@@@<@@@@
+lo^e�cx�66F6>T@@[K[26Cembox>�5@@@@�w�@@@<@@@@@
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@�
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@��
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@��
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@��
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@��
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@���
+lo^e�cx�66F6>T@@[Kembox>�5@@@@�w�@@@<@@@@@@@���@
+lo^e�cx�66F6>T@@[K[34Cembox>�5@@@@�w�@@@<@@@@@@@���
+lo^e�cx�66F6>T@@[K
+�5@@@@�: Command not found
+tish error: #-2
+embox>�������logout6<6T@�π@@�/@@
+����: Command not found
+tish error: #-2
+embox>
+lo^6T�cx�66F6>T@@embox>
+lo^6T�cx�66F6>T@@[K[6Cembox>
+lo^6T�cx�66F6>T@@[K[7Cembox>�
+lo^6T�cx�66F6>T@@[K[8Cembox>�5
+lo^6T�cx�66F6>T@@[K[9Cembox>�5p
+lo^6T�cx�66F6>T@@[K[10Cembox>�5po
+lo^6T�cx�66F6>T@@[K[11Cembox>�5por
+lo^6T�cx�66F6>T@@[K[12Cembox>�5port
+lo^6T�cx�66F6>T@@[K[13Cembox>�5portQ
+lo^6T�cx�66F6>T@@[K[14Cembox>�5portQe
+lo^6T�cx�66F6>T@@[K[15Cembox>�5portQew
+lo^6T�cx�66F6>T@@[K[16Cembox>�5portQewQ
+lo^6T�cx�66F6>T@@[K[17Cembox>�5portQewQ@
+lo^6T�cx�66F6>T@@[K[18Cembox>�5portQewQ@@
+lo^6T�cx�66F6>T@@[K[19Cembox>�5portQewQ@@@
+lo^6T�cx�66F6>T@@[K[20Cembox>�5portQewQ@@@R
+lo^6T�cx�66F6>T@@[K[21Cembox>�5portQewQ@@@R<
+lo^6T�cx�66F6>T@@[K[22Cembox>�5portQewQ@@@R<@
+lo^6T�cx�66F6>T@@[K[23Cembox>�5portQewQ@@@R<@�
+lo^6T�cx�66F6>T@@[K[24Cembox>�5portQewQ@@@R<@�
+lo^6T�cx�66F6>T@@[K[25Cembox>�5portQewQ@@@R<@�
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@�
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@��
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@��@
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@��
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@���
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@����
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@�����
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@�����
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@�����
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@������
+lo^6T�cx�66F6>T@@[Kembox>�5portQewQ@@@R<@�������
+lo^6T�cx�66F6>T@@[K[33C
+�5portQewQ@@@R<@�: Command not found
+tish error: #-2
+embox>�log@@@@@@@@��wout6<e�,@@
+�log@@@@@@@@: Command not found
+tish error: #-2
+embox>
+lo^e�cx�Ed66F6>T@@embox>
+lo^e�cx�Ed66F6>T@@[Kembox>
+lo^e�cx�Ed66F6>T@@[Kembox>�
+lo^e�cx�Ed66F6>T@@embox>�5
+lo^e�cx�Ed66F6>T@@embox>�5p
+lo^e�cx�Ed66F6>T@@embox>�5po
+lo^e�cx�Ed66F6>T@@embox>�5por
+lo^e�cx�Ed66F6>T@@embox>�5porl
+lo^e�cx�Ed66F6>T@@embox>�5porls
+lo^e�cx�Ed66F6>T@@embox>�5porls�
+lo^e�cx�Ed66F6>T@@embox>�5porls�w
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@�
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@��
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@���
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@��
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@��
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@��
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@��
+lo^e�cx�Ed66F6>T@@embox>�5porls�w@<@@@@@���
+lo^e�cx�Ed66F6>T@@
+�5porls�w@: Command not found
+tish error: #-2
+embox>@export@@<L@�@@@@���embox>@export@@<L@�@@@@����@���6embox>@export@@<L@�@@@@����@������logoupin6T@�@�o
+@export@@<L@�@@@@���: Command not found
+tish error: #-2
+embox>u�in@
+u�in@: Command not found
+tish error: #-2
+embox>
+lo^e�cx�"6F6di
+lo^e�cx�"6F6di: Command not found
+tish error: #-2
+embox>/@@
+Unreconized command: /@@
+embox>
+lo^e�cx�66ortQ@
+F6/T@ew@@@@@<@@@@@@G?@@�@: Command not found
+tish error: #-2
+embox>@@@@@@���<6T@@�<@@@@@@@@@G?@@���/V@
+@@@@@@��: Command not found
+tish error: #-2
+embox>
+lo^e�cx�66F6>T@@
+�5portQew@@@@G?@@@@@@@@�: Command not found
+tish error: #-2
+embox>@<@@@@@@@���@���6���logout6<6T@��Ā@@@@@@@@@<
+@<@@@@@@@��: Command not found
+tish error: #-2
+embox>@@ �/@@
+@@: Command not found
+tish error: #-2
+embox>
+lo^e�cx�66F6>T@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

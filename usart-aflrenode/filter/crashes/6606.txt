@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C��
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�`xembox>
+�`x[K[10Cembox>
+�`x[K[10C�`xit�it�embox>
+�[K[9Cp�
+�p�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�mF��(�exembox>
+�p�[K[11Cp�
+�p�p�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C%�`Fembox>
+%�`F[K[6Cembox>
+%�`F[K[7Cembox>
+%�`F[K[8Cembox>
+%�`F[K[9Cembox>�
+%�`F[K[10Cembox>�e
+%�`F[K[11Cembox>�ex
+%�`F[K[12Cembox>�exi
+%�`F[K[13Cembox>�exit
+%�`F[K[14Cembox>�exit
+%�`F[K[15Cembox>�exit�
+%�`F[K[16Cembox>�exit�
+%�`F[K[17Cembox>�exit�
+%�`F[K[18Cembox>
+�p�p�[K[13Cp�
+�p�p�p�: Command not found
+tish error: #-2
+embox>
+eeeeeF[?5h[?5l�exi�embox>
+�p�p�p�[K[15Cp�
+�p�p�p�p�: Command not found
+tish error: #-2
+embox>
+`NtF�ex�W p� p�cd
+`NtF: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�|Fembox>
+�|F[K[11Cembox>
+�|F[K[12Cembox>
+�|F[K[13Cembox>
+�|F[K[14Cembox>
+�|�F[K[15Cembox>
+�|�eF[K[16Cembox>
+�|�exF[Kembox>
+�|�exiF[Kembox>
+�|�exitF[K[19Cembox>
+�|�exitF[K[20Cembox>
+�|�exitF[K[6Cembox>
+�|�exitF[K[7Cembox>e
+�|�exitF[K[8Cembox>
+`NtF[K[11Cp�
+`NtFp�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>(
+[K[7Cembox>(�
+[K[8Cembox>(�@
+[K[9Cembox>(�@@
+[K[10Cembox>(�@@@
+[K[11Cembox>(�@@@@
+[K[12Cembox>(�@@@@@
+[K[13Cembox>(�@@@@@?
+[K[14C
+(�@@@@@?: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7Clogout�`Fembox>(�@@@@@?
+[K[15Cembox>(�@@@@@?
+[K[15Cembox>(�@@@@@?
+[K[15C�`F�exitt̀�embox>(�@@@@@?
+�`F�exitt̀�embox>(�@@@@@?
+�`F�exitt̀�logout�`Fembox>
+`NtFp�[K[13C
+`NtFp�: Command not found
+tish error: #-2
+embox>embox>[Kembox>[K�`F�exit[H[H[2Jembox>[K[20C�����xit�embox>[K[13Cp���xit�embox>(�@@@@@?
+�`p�
+(�@@@@@?: Command not found
+tish error: #-2
+embox>
+��������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

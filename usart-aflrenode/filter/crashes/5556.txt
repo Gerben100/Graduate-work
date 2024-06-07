@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ï¿½export
+ï¿½export: Command not found
+tish error: #-2
+embox>
+iuogouhembox>
+iuogouh[K[6Cembox>ï¿½
+iuogouh[K[7Cembox>ï¿½"
+iuogouh[K[8Cembox>ï¿½"ï¿½
+iuogouh[K[9Cembox>ï¿½"ï¿½ï¿½
+iuogouh[K[10Cembox>ï¿½"ï¿½
+iuogouh[K[9Cembox>ï¿½"ï¿½
+iuogouh[K[10Cembox>ï¿½"ï¿½
+iuogouh[K[11Cembox>ï¿½"ö«¼¼
+iuogouh[K[12Cembox>ï¿½"ö«¼¼C
+iuogouh[K[13Cembox>ï¿½"ö«¼¼Cï¿½
+iuogouh[K[14Cembox>ï¿½"ö«¼¼Cï¿½ 
+iuogouh[K[15Cembox>ï¿½"ö«¼¼Cï¿½ ï¿½
+iuogouh[K[16Cembox>ï¿½"ö«¼¼Cï¿½ ï¿½ï¿½
+iuogouh[K[17Cembox>ï¿½"ö«¼¼Cï¿½ ï¿½ï¿½"
+iuogouh[K[18C
+embox>ï¿½embox>[K[6Cï¿½ï¿½ï¿½ï¿½ï¿½locdvouogouh
+ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+zï¿½embox>ï¿½ï¿½ï¿½ï¿½ï¿½[K[11Cï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ s2ï¿½ s[?5h[?5lï¿½2
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½embox>
+ï¿½ï¿½ï¿½[K[10C
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½'ï¿½lï¿½embox>
+ï¿½'ï¿½lï¿½[K[6Cembox>[K[6C
+embox>
+@@hJpmr
+@@hJpmr: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½embox>
+ï¿½[K[8Cï¿½ï¿½iï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½embox>
+[K[7Cl*ï¿½ 
+l*ï¿½: Command not found
+tish error: #-2
+embox>
+exiW*ï¿½i
+exiW*ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½embox>
+exiW*ï¿½[K[13Cembox>
+l*ï¿½[K[10Cembox>
+ï¿½[K[8Cembox>
+@@hJpmr[K[14Cxdiembox>
+@@hJpmrxdi[K[6Cembox>x
+@@hJpmrxdi[K[7Cembox>x~
+@@hJpmrxdi[K[8C
+x~: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½i
+ï¿½ï¿½i: Command not found
+tish error: #-2
+embox>
+eGit
+eG: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½*
+ï¿½: Command not found
+tish error: #-2
+embox>
+3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+embox>
+ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+popinrt[?5h[?5l:5ï¿½ydï¿½
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

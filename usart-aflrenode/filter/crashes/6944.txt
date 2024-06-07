@@ -1,0 +1,165 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>logou�
+logou�: Command not found
+tish error: #-2
+embox>
+d��embox>[K[6C
+embox>
+�embox>[K[6Cpiembox>pi[K[8Cembox>pi[K[9Cembox>pi[K[10Cembox>pi[K[11C
+pi: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+x�����embox>[K[6C
+embox>
+�embox>[K[6C��y�
+��y�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+exit�
+exit�: Command not found
+tish error: #-2
+embox>
+embox>
+exit�[K[12C@@@
+exit�@@@: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>���[K[7Cembox>�l��[K[8Cembox>�ll��[K[9C
+�ll��: Command not found
+tish error: #-2
+embox>
+�lsembox>[K[6Cll
+ll: Command not found
+tish error: #-2
+embox>
+yyyyyyytxportyyyyyyyyyyyyyyy�yyyyyyyyyl
+yyyyyyytxportyyyyyyyyyyyyyyy�yyyyyyyyyl: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>��
+��[K[8Cembox>���
+��[K[9Cembox>����
+��[K[10Cembox>����
+
+��[K[11Cembox>����
+
+��[K[12Cembox>����
+
+��[K[13Cembox>����
+
+��[K[6C
+����: Command not found
+tish error: #-2
+embox>
+@cdl
+@cdl: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cll
+ll: Command not found
+tish error: #-2
+embox>
+[?5h[?5leT@@@@@Qfxt
+@cdl: Command not found
+tish error: #-2
+embox>
+� l
+@cdll: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+
+~coo: Command not found
+tish error: #-2
+embox>
+D
+D: Command not found
+tish error: #-2
+embox>
+�B�l
+�B�l: Command not found
+tish error: #-2
+embox>
+/+%�%k�'l
+@cdl: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+��exp333�t
+@cdl333�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�logoexitut�
+embox>
+�logoutgout[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�)���
+�)���: Command not found
+tish error: #-2
+embox>
+export
+export: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+xls� 
+xls�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��e�eyport�����yport�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,127 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+l��@@eeeet3�cembox>
+l��@@eeeet3�c[K[6Cembox>
+l��@@eeeet3�c[K[7Cembox>6
+l��@@eeeet3�c[K[8Cembox>67
+l��@@eeeet3�c[K[9Cembox>67F
+l��@@eeeet3�c[K[10Cembox>67F=
+l��@@eeeet3�c[K[11Cembox>67F=@
+l��@@eeeet3�c[K[12Cembox>67F=@@
+l��@@eeeet3�c[K[13Cembox>67F=@@e
+l��@@eeeet3�c[K[14Cembox>67F=@@ee
+l��@@eeeet3�c[K[15Cembox>67F=@@eee
+l��@@eeeet3�c[K[16Cembox>67F=@@eeee
+l��@@eeeet3�c[K[17Cembox>67F=@@eeeeU
+l��@@eeeet3�c[K[18Cembox>67F=@@eeeeUe
+l��@@eeeet3�c[K[19Cembox>67F=@@eeeeUee
+l��@@eeeet3�c[K[20Cembox>67F=@@eeeeUeeg
+l��@@eeeet3�c[K[21Cembox>67F=@@eeeeUeege
+l��@@eeeet3�c[K[22Cembox>67F=@@eeeeUeegee
+l��@@eeeet3�c[K[23Cembox>67F=@@eeeeUeegeee
+l��@@eeeet3�c[K[24Cembox>67F=@@eeeeUeegeeee
+l��@@eeeet3�c[K[25Cembox>67F=@@eeeeUeegeeeee
+l��@@eeeet3�c[K[26Cembox>67F=@@eeeeUeegeeeeee
+l��@@eeeet3�c[K[27Cembox>67F=@@eeeeUeegeeeeeeg
+l��@@eeeet3�c[K[28Cembox>67F=@@eeeeUeegeeeeeege
+l��@@eeeet3�c[K[29Cembox>67F=@@eeeeUeegeeeeeegee
+l��@@eeeet3�c[K[30Cembox>67F=@@eeeeUeegeeeeeegeee
+l��@@eeeet3�c[K[31Cembox>67F=@@eeeeUeegeeeeeegeeee
+l��@@eeeet3�c[K[32Cembox>67F=@@eeeeUeegeeeeeegeeee'
+l��@@eeeet3�c[K[33Cembox>67F=@@eeeeUeegeeeeeegeeee'
+l��@@eeeet3�c[K[34Cembox>67F=@@eeeeUeegeeeeeegeeee'6
+l��@@eeeet3�c[K[35Cembox>67F=@@eeeeUeegeeeeeegeeee'6T
+l��@@eeeet3�c[K[36Cembox>67F=@@eeeeUeegeeeeeegeeee'6T@
+l��@@eeeet3�c[K
+embox>
+embox>�embox>�[K[6Cembox>��[K[7Cembox>�"�[K[8Cembox>�"�[K[9Cembox>�"@�[K[10Cembox>�"@r�[K[11Cembox>�"@rt�[K[12Cembox>�"@rt�[K[6Cembox>��"@rt�[K[7Cembox>�"�"@rt�[K[8Cembox>�"��"@rt�[K[9Cembox>�"�@�"@rt�[K[10Cembox>�"�@c�"@rt�[K[11Cembox>�"�@c6�"@rt�[K[12Cembox>�"�@c6V�"@rt�[K[13Cembox>�"�@c6V5�"@rt�[K[14Cembox>�"�@c6V56�"@rt�[K[15Cembox>�"�@c6V56>�"@rt�[K[16Cembox>�"�@c6V56>6�"@rt�[K[17C
+�"�@c6V56>6�": Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�exitembox>
+�exit[K[6Cembox>~
+�exit[K[7Cembox>~
+�exit[K[8Cembox>~�exit[K[8Cembox>~��exit[K[9C
+~: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+embox>embox>[K[6C[H[H[2Jembox>[K[6C�embox>[K[6C
+embox>
+�Sce&�
+�Sce: Command not found
+tish error: #-2
+embox>
+�#wk[H[H[2Jembox>
+�#wk[K[27Cembox>
+�#wk[K[6Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>�
+embox>
+embox>x�
+x: Command not found
+tish error: #-2
+embox>
+�embox>x[K[7C
+x: Command not found
+tish error: #-2
+embox>
+Sex}ort~
+Sex}ort~: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x��
+x: Command not found
+tish error: #-2
+embox>
+���tembox>x[K�embox>x�[Kembox>x�[Kembox>x��[Kembox>x��[K
+x��: Command not found
+tish error: #-2
+embox>
+6logout66666>6:56666�66>*embox>[K
+embox>xx
+x: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�export��xiy
+���: Command not found
+tish error: #-2
+embox>
+���~�we#
+tish error: #-22
+embox>
+peix�e�pe��Px��speix�e�pe++++++++st
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

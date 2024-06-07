@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>[K[6C�?embox>�[K[7C
+embox>�
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>e�
+[K[9Cembox>ex�
+[K[10Cembox>exp�
+[K[11Cembox>expo�
+[K[12Cembox>expor�
+[K[13Cembox>export�
+[K[14C
+embox>
+�e�
+�e�: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[K[6Cembox>[K[6Cembox>�[K[7Cembox>��[K[8Cembox>���[K[9Cembox>���
+[K[10Cembox>���
+[K[10Cembox>���
+[K[11Cembox>���
+[K[10Cembox>���
+[K[11Cembox>���
+[K[6Cembox>����
+[K[7C
+embox>embox>[K[6C
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+expot��embox>
+expot��[K[6Cembox>r
+expot��[K[7C
+r: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C\\\�\\dd
+tish error: #-22
+embox>
+>
+>: Command not found
+tish error: #-2
+embox>
+���Aembox>
+���A[K[11C[?5h[?5lembox>
+���A[K[6Cembox>
+���A[K[7Cembox>
+���A[K[8Cembox>
+���A[K[9Cembox>
+���A[K[10Cembox>
+���A[K[11Cembox>
+���A[K[12Cembox>
+���A[K[13Cembox>
+���A[K[14Cembox>
+���A[K[15Cembox>
+���A[K[16Cembox>
+���A[K[17Cembox>
+���A[K[18Cembox>
+���A[K[19Cembox>
+���A[K[20Cembox>
+���A[K[21Cembox>
+���A[K[22Cembox>
+���A[K[23Cembox>
+���A[K[24Cembox>
+���A[K[25Cembox>
+���A[K[26Cembox>
+���A[K[27Cembox>
+���A[K[28Cembox>
+���A[K[29Cembox>
+���A[K[30Cembox>
+���A[K[31Cembox>
+���A[K[32Cembox>�
+���A[K[33Cembox>��
+���A[K[34C
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+�[K[8Cembox>��
+�[Kembox>��
+�[K[10Cembox>��
+�[K[6Cembox>��
+�[K[7Cembox>��
+�[K[8C
+embox>
+��export�"
+��export�": Command not found
+tish error: #-2
+embox>
+��ppqppppppppppppcc�pexportpppcc�pxpNppppvpp
+��ppqppppppppppppcc�pexportpppcc�pxpNppppvp: Command not found
+tish error: #-2
+embox>
+���ppp�pppOppempL��p
+��: Command not found
+tish error: #-2
+embox>YpNdpppp
+YpNdpppp: Command not found
+tish error: #-2
+embox>
+jjjYpinembox>
+jjjYpinembox>
+jjjYpinembox>
+jjjYpinlembox>
+jjjYpinlsembox>
+jjjYpinlsembox>YpNdppppjp
+YpNdpppp: Command not found
+tish error: #-2
+embox>
+��ppqppppppppppppYc�pxpN~pppvpp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

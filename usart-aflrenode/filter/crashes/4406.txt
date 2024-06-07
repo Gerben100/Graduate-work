@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���p~�lu�����������
+embox>
+luembox>
+lu[K[6C
+embox>�pi���
+�pi���: Command not found
+tish error: #-2
+embox>
+lutembox>
+lu[K[9C�pin�in
+lu�pin�in: Command not found
+tish error: #-2
+embox>
+lut�embox>[K[6C��embox>�[K[8C�dembox>��d[K[10C/�x4x�id
+�: Command not found
+tish error: #-2
+embox>
+lutembox>
+lut[K[10C/�xP�id
+lut/�xP�id: Command not found
+tish error: #-2
+embox>
+lut
+embox>�embox>[K[6C��idembox>��id[K[12Cdembox>��idd[K[13C/�xembox>
+lut/�xP�id[K[17C /�xembox>�[K[7Cd
+�d: Command not found
+tish error: #-2
+embox>
+lut
+embox>�embox>[K[6C��i+xeembox>��i+xe[K[14C/�xembox>�d[K[8Cd�id
+�dd�id: Command not found
+tish error: #-2
+embox>
+lut
+embox>�embox>[K[6C�����eembox>�����e[K[15C*�xembox>�dd�id[K[12Cx�Ud
+�dd�idx: Command not found
+tish error: #-2
+embox>
+lut
+embox>�embox>[K[6C��idembox>��id[K[12C/�7embox>�dd�idx[K[14Cddddddid
+�dd�idxddddddid: Command not found
+tish error: #-2
+embox>
+d,embox>�dd�idxddddddid[K�id
+�dd�idxddddddid�id: Command not found
+tish error: #-2
+embox>
+lut
+embox>�d��ilut
+embox>�d��id/�xembox>�dd�idxddddddid�idhidembox>[K/�zembox>�dd�idxddddddidxi
+�dd�idxddddddidx: Command not found
+tish error: #-2
+embox>
+gtt
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+pinddddde�ddddedddddddG[?5h[?5ledFddddddxd�
+pinddddde�dddd: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+M
+M: Command not found
+tish error: #-2
+embox>
+lutc�6pi�
+embox>�@ees@��@@@"@CC@@@@A�
+embox>ݥ��
+ݥ��: Command not found
+tish error: #-2
+embox>������������@@"@
+`�@: Command not found
+tish error: #-2
+embox>d@@@�
+embox>�R-�m���������@ees@��
+�R-�m��������@ees@: Command not found
+tish error: #-2
+embox>
+lutc�6pi�
+embox>�@ees@��@@@"@CC@@@@@�
+embox>�@ee
+�@ee: Command not found
+tish error: #-2
+embox>s@�@@@"@
+`�@: Command not found
+tish error: #-2
+embox>@d@@@�
+embox>�R-�m�����������ƥ���������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

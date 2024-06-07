@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@lex�666@@embox>@lex�666@@[K[18C�@@@@@@@@[?5h[?5l@@embox>@lex�666@@�@@@@@@@@@@[K[30C��@@@@@@@@[?5h[?5l
+embox>ox@=@@@@
+ox@=@@@@: Command not found
+tish error: #-2
+embox>@��
+embox>�@@@@\
+�@@@@\: Command not found
+tish error: #-2
+embox>
+@lexembox>�@@@@\[K[12C�6656@@embox>�@@@@\�6656@@[K[19C���embox>�@@@@\�6656@@���[K[6Cembox>�@@@@\�6656@@���[K[7Cembox>�@@@@\�6656@@���[K[8Cembox>�y�@@@@\�6656@@���[K[9Cembox>�ye�@@@@\�6656@@���[K[10Cembox>�yee�@@@@\�6656@@���[K[11Cembox>�yee��@@@@\�6656@@���[K[12Cembox>�yee���@@@@\�6656@@���[K[13Cembox>�yee��l�@@@@\�6656@@���[K[14Cembox>�yee��ls�@@@@\�6656@@���[K[15Cembox>�yee��ls��@@@@\�6656@@���[K[16Cembox>�yee��ls�e�@@@@\�6656@@���[K[17C
+embox>�@@@@\
+�@@@@\: Command not found
+tish error: #-2
+embox>
+@lexembox>�@@@@\[K[12C�embox>
+@[K[8C@bembox>
+@@b[K[11C�@@@@@@@@[?5h[?5l@@embox>
+@@b�@@@@@@@@@@[K[23C��@@@@@@@@[?5h[?5liigot
+@: Command not found
+tish error: #-2
+embox>
+embox>x@=@@@@@��
+embox>�@@@@_
+�@@@@_: Command not found
+tish error: #-2
+embox>
+@lexembox>�@@@@_[K[12C�6656@@embox>�@@@@_�6656@@[K[19C��@@@@@@[?5h[?5l
+embox>x@=@@@@��
+embox>�@P@cdexit
+�@P@cdexit: Command not found
+tish error: #-2
+embox>
+@l
+embox>`@��
+embox>�@@@\@��
+embox>�@@@@\
+�@@@@\: Command not found
+tish error: #-2
+embox>
+Rexembox>
+Rex[K[11C�{lexembox>�@@@@\[K[12C�6656@@vvvvvSvvvvvembox>�@@@@\�6656@@vvvvvSvvvvvembox>�@@@@\�6656@@vvvvvSvvvvvembox>v�@@@@\�6656@@vvvvvSvvvvvembox>vv�@@@@\�6656@@vvvvvSvvvvvembox>vvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@�@@@@\�6656@@vvvvvSvvvvvembox>vvvvv�@@@@@�@@@@\�6656@@vvvvvSvvvvvembox>[K[20Cembox>[K[21Cembox>[K[22C[?5h[?5lembox>[K[23C
+embox>@embox>@[K[7C��@@@@@@@@[?5h[?5l
+embox>x@=@@@@@�embox>�@@@@\[K[12C��pembox>�@@@@\��p[K[16C
+�@@@@\��: Command not found
+tish error: #-2
+embox>
+Bl xembox>[K[14C�6656@�embox>[K[20Cembox>[K[19C�@@?@@@@Z[?5h[?5lembox>[K@C@@@@Z[?5h[?5lembox>[K��@@@.@@�
+�@P@cdexit: Command not found
+tish error: #-2
+embox>@��[?5h[?5l� @\
+@��: Command not found
+tish error: #-2
+embox>
+@@le��6E@@��@@RA@/@@��
+embox>�@@L@
+�@@L@: Command not found
+tish error: #-2
+embox>
+i�l�
+i�l�: Command not found
+tish error: #-2
+embox>
+i9
+��e��: Command not found
+tish error: #-2
+embox>
+�iK�e��iK�e��iK�ke�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

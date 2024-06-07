@@ -1,0 +1,143 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>gxiU��������
+gxiU�: Command not found
+tish error: #-2
+embox>
+g�itߋ�x������xembox>gxiU�[K[11C
+gxiU�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[11C�embox>gxiU�[K[11C/�x0
+gxiU�: Command not found
+tish error: #-2
+embox>
+npinx
+npinx: Command not found
+tish error: #-2
+embox>
+!!F��������������p
+!!F����������: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+g�yeߜ���pin
+g�yeߜ���pin: Command not found
+tish error: #-2
+embox>
+embox>
+g�yeߜ���pin[K[20Cxembox>
+[K[7C
+tish error: #-22
+embox>
+Txit�����/�xembox>
+[K[7C
+tish error: #-22
+embox>
+g�iit�[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>
+g�iit�[K[6C[?5h[?5l[?5h[?5lembox>
+g�iit�[K[7C[?5h[?5l[?5h[?5lembox>
+g�iit�[K[6C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>
+g�iit�[K[7C[?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+gx��Y��xembox>
+pin[K[10C
+pin: Command not found
+tish error: #-2
+embox>
+lsit�@���/�xembox>
+pin[K[10C#ls
+pin#ls: Command not found
+tish error: #-2
+embox>
+gxit
+embox>
+j�l 
+j�l: Command not found
+tish error: #-2
+embox>
+�bd�����
+tish error: #-22
+embox>
+gxit�t�������8/�x
+j�l: Command not found
+tish error: #-2
+embox>
+xdxd???????????????????
+j�l: Command not found
+tish error: #-2
+embox>
+g
+g: Command not found
+tish error: #-2
+embox>
+gxi
+pin#ls: Command not found
+tish error: #-2
+embox>
+�f��a��/�
+j�l: Command not found
+tish error: #-2
+embox>
+
+embox>qqqqq@�[H[H[2J
+qqqqq@�: Command not found
+tish error: #-2
+embox>
+g
+j�l: Command not found
+tish error: #-2
+embox>
+gVit������k�/yx
+j�l: Command not found
+tish error: #-2
+embox>
+gxit
+j�l: Command not found
+tish error: #-2
+embox>
+g�ieeeeeexport
+embox>x%i�~��o������e���pin��
+embox>
+g""""""��t#i��
+(null): Command not found
+tish error: #-2
+embox>
+gxit�����������������������e�p
+gxit����: Command not found
+tish error: #-2
+embox>
+gxttttttttttttttttttttttttttyt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,117 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�se
+�se: Command not found
+tish error: #-2
+embox>
+��������t�
+tish error: #-22
+embox>
+;jiAFeeeeOgee��eeeeeee�e
+;jiAFeeeeOgee��eeeeeee�e: Command not found
+tish error: #-2
+embox>
+@jeeFeeeeeeee
+@jeeFeeeeeeee: Command not found
+tish error: #-2
+embox>
+@je�eeeeVfe�e
+@je�eeeeVfe�e: Command not found
+tish error: #-2
+embox>
+@jecF@jeeF
+@jecF@jeeF: Command not found
+tish error: #-2
+embox>
+ �embox>
+ �[K[9Cf
+�ee^euef��e�eeeeeembox>
+@jecF@jeeF
+@jecF@jeeF: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+embox>
+e[K
+e: Command not found
+tish error: #-2
+embox>
+eFembox>
+eF[Kembox>e
+eF[Kembox>ee
+eF[Kembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+eef"�d��d: Command not found
+tish error: #-2
+embox>
+@jeeembox>eef"�d��d
+eF�6656@@embox>[K�@@@@@@@@[?5h[?5l@exi]�@@@@@@@@[?5h[?5l
+embox>x@=@@@@@�
+x@=@@@@@�: Command not found
+tish error: #-2
+embox>�
+embox>�@@@@\@
+�@@@@\@: Command not found
+tish error: #-2
+embox>
+_jee@��@?@@@@@�[?5h[?5l=@@@@@��
+embox>�@@@
+embox>x@=@@@@`��
+embox>�@@@
+�@@@: Command not found
+tish error: #-2
+embox>@�
+embox>x@=@@@@@��
+embox>�@@@J@
+�@@@: Command not found
+tish error: #-2
+embox>
+@j=B�6656@@�@@�@@@@@[?5h[?5l@@�@@@@@@@@@[?5h[?5l
+embox>�@@@@�
+embox>�
+embox>�@@@@\@
+�@@@@\@: Command not found
+tish error: #-2
+embox>
+@jee�6656@@�@@@@@@@@[?5h[?5l@@[?5h[?5l@@��@@@@@[?5h[?5l
+embox>x@=@��
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>@@@\@
+@@@\@: Command not found
+tish error: #-2
+embox>
+@jee� 656@@�@@@@@@@@[?5h[?5l@@��@@@@@@@@[?5h[?5l
+embox>x@=@@@@@�
+x@=@@@@@�: Command not found
+tish error: #-2
+embox>�
+embox>�@@@@\c
+�@@@@\c: Command not found
+tish error: #-2
+embox>
+@jee�6656@@x�@@@@@656@@�@@@@@@@@[?5h[?5l@@��@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/fs/dvfs/dvfs_util.c:291
+  in function dentry_ref_dec
+
+dentry
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�o�o�xp^embox>�o�o�xp^[K[6C
+�o�o�xp^: Command not found
+tish error: #-2
+embox>
+�oexpoUembox>
+�oexpoU[K[6Cembox>
+�oexpoU[K[7Cembox>^
+�oexpoU[K[8Cembox>^
+�oexpoU[K[9Cembox>^
+�oexpoU[K[6Cembox>�^
+�oexpoU[K[7Cembox>�Z^
+�oexpoU[K[8Cembox>�Z^
+�oexpoU[K[6Cembox>�Z^
+�oexpoU[K[7Cembox>^�Z^
+�oexpoU[K[8Cembox>^�Z^
+�oexpoU[K[9Cembox>^�Z^
+�oexpoU[K[6C
+embox>
+�oorpexto��Zembox>
+�oorpexto��Z[K[6Cembox>
+�oorpexto��Z[K[7Cembox>^
+�oorpexto��Z[K[8Cembox>^
+�oorpexto��Z[K[9Cembox>^
+�oorpexto��Z[K[6C
+embox>
+�embox>�o�o�xp^[K[14C�embox>�o�o�xp^�[K[6C
+�o�o�xp^: Command not found
+tish error: #-2
+embox>
+oexpo�o����qembox>
+oexpo�o����q[K[6Cembox>
+oexpo�o����q[K[7Cembox>^
+oexpo�o����q[K[8Cembox>^r
+oexpo�o����q[K[9Cembox>^rt
+oexpo�o����q[K[10Cembox>^rt
+oexpo�o����q[K[6C
+embox>
+�embox>
+[K[7C���exit��
+tish error: #-22
+embox>
+�oexporpo��orpo�#�Z
+^embox>
+�oexporpo��orpo�#�Z
+^[K[6C
+�oexporpo��orpo�#: Command not found
+tish error: #-2
+embox>
+�d06
+�d06: Command not found
+tish error: #-2
+embox>
+�oexporto����Z�^embox>
+�oexporto����Z�^[K[6C
+�oexporto����Z: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�oeg?x�embox>
+[K[8C%embox>
+[K[8C� oo?x
+embox>embox>
+�oeg?x�[K[14C%i| oog
+�oeg?x�%i|: Command not found
+tish error: #-2
+embox>
+�oeg?x
+embox>%i�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox> oo?x
+embox>
+�oeg?x�%i|: Command not found
+tish error: #-2
+embox>%i|oog
+�oeg?x�%i|: Command not found
+tish error: #-2
+embox>
+�oeg?x
+embox>%g� oo?x
+embox>%�������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

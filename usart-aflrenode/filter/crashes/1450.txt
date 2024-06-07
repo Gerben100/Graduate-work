@@ -1,0 +1,142 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>^};embox>^}[K[8C
+^}: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+lrl��
+lrl: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7ClQqqq
+
+
+
+[H[H[2Jembox>
+lQqqq
+
+
+
+[K[16C��
+�embox>
+lQqqq
+
+
+
+��
+[K[20CWFtembox>
+lQqqq
+
+
+
+��
+WF[K[22Clo
+lQqqq: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7Cs��lembox>
+s��[K[10C
+s��: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7Clqqqq
+
+
+embox>
+lqqqq
+
+
+[K[15C[H[H[2Jembox>
+lqqqq
+
+
+[K[15C��
+��WFtembox>
+lqqqq
+
+
+��
+��WF[K[23Clo
+lqqqq: Command not found
+tish error: #-2
+embox>
+s,,,�,
+embox>�,+�lqq
+l�_F[D,embox>�,+�lqq
+l�_F[D[K[20C
+�,+�lqq: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7Clrq
+
+�[?5h[?5l
+embox>
+lrq
+
+�
+[K[14Cembox>[K[6C
+
+
+^�
+^�: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7Clqqqqqqq
+
+
+
+[H[H[2Jembox>
+lqqqqqqq
+
+
+
+[K[19C��
+��WFr
+lqqqqqqq: Command not found
+tish error: #-2
+embox>
+qembox>
+[K[7ClqNq`
+
+
+
+[H[H[2Jembox>
+lqNq`
+
+
+
+��
+��WFtembox>[Klo
+lqNq`: Command not found
+tish error: #-2
+embox>
+�embox>
+[K{�qqq[?5h[?5l�WNt��qqq[?5h[?5l
+
+o�w
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>U@�poe exhembox>U@�poe exh[K[6Cembox>iU@�poe exh[K[7Cembox>itU@�poe exh[K[8Cembox>it�U@�poe exh[K[9C
+it�U@�poe: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�xpojt��
+�xpojt��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[6Cembox>c
+�[K[7C
+c: Command not found
+tish error: #-2
+embox>
+exiit
+exiit: Command not found
+tish error: #-2
+embox>
+t&����
+t&����: Command not found
+tish error: #-2
+embox>
+�}xit��
+tish error: #-22
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+logoexit0�
+logoexit0�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��Nmpw�ortort��
+��: Command not found
+tish error: #-2
+embox>
+��5((((((
+embox>�(((((((((((
+embox>�%i�#(rX�
+�%i�#(rX�: Command not found
+tish error: #-2
+embox>
+�$e$<bp�
+�$e$<bp�: Command not found
+tish error: #-2
+embox>
+##p expol
+##p: Command not found
+tish error: #-2
+embox>
+��������
+�������: Command not found
+tish error: #-2
+embox>
+oo'
+oo': Command not found
+tish error: #-2
+embox>
+ expologoutpin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

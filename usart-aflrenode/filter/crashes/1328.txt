@@ -1,0 +1,121 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>(xe@@@@@@@6@@embox>(xe@@@@@@@6@@[K[26C��@@�@@@@@@?@@e@@�@@@@@@xp�
+embox>��@@?@@@@@@@
+��@@?@@@@@@@: Command not found
+tish error: #-2
+embox>
+(xeN��(xemembox>
+(xeN��(xem[K[17Cembox>
+(xeN��(xe�m[K[18Cembox>
+(xeN��(xe�6m[K[19Cembox>
+(xeN��(xe�6Im[K[20Cembox>
+(xeN��(xe�6I5m[K[21Cembox>
+(xeN��(xe�6I56m[K[22Cembox>
+(xeN��(xe�6I56>m[K[23Cembox>
+(xeN��(xe�6I56>6m[K[24Cembox>
+(xeN��(xe�6I56>6@m[K[25Cembox>
+(xeN��(xe�6I56>6@@m[K[26Cembox>
+(xeN��(xe�6I56>6@@m[K[27Cembox>
+(xeN��(xe�6I56>6@@�m[K[28Cembox>
+(xeN��(xe�6I56>6@@�@m[K[29Cembox>
+(xeN��(xe�6I56>6@@�@@m[K[30Cembox>
+(xeN��(xe�6I56>6@@�@@@m[K[31Cembox>
+(xeN��(xe�6I56>6@@�@@@@m[K[32Cembox>
+(xeN��(xe�6I56>6@@�@@@@?m[K[33Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@m[K[34Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@m[K[35Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@>m[K[36Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@>@m[K[37Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@>@@m[K[38Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@>@@�m[K[39Cembox>
+(xeN��(xe�6I56>6@@�@@@@?@@>@@�@m[K[40C
+tish error: #-22
+embox>
+(xeN��(�emembox>
+(xeN��(�em[K[17Cembox>
+(xeN��(�e�m[K[18Cembox>
+(xeN��(�e�6m[K[19Cembox>
+(xeN��(�e�6Im[K[20Cembox>
+(xeN��(�e�6I5m[K[21Cembox>
+(xeN��(�e�6I56m[K[22Cembox>
+(xeN��(�e�6I56>m[K[23Cembox>
+(xeN��(�e�6I56>6m[K[24Cembox>
+(xeN��(�e�6I56>6@m[K[25Cembox>
+(xeN��(�e�6I56>6@@m[K[26Cembox>
+(xeN��(�e�6I56>6@@m[K[27Cembox>
+(xeN��(�e�6I56>6@@m[K[26Cembox>
+(xeN��(�e�6I56>6@@�m[K[27Cembox>
+(xeN��(�e�6I56>6@@��m[K[28Cembox>
+(xeN��(�e�6I56>6@@��@m[K[29Cembox>
+(xeN��(�e�6I56>6@@��@@m[K[30Cembox>
+(xeN��(�e�6I56>6@@��@@@m[K[31Cembox>
+(xeN��(�e�6I56>6@@��@@@@m[K[32Cembox>
+(xeN��(�e�6I56>6@@��@@@@@m[K[33Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@m[K[34Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@m[K[35Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@m[K[36Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@m[K[37Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?m[K[38Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@m[K[39Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@m[K[40Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@m[K[41Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@m[K[42Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[K[43Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@@@m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@@@\m[Kembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@@@\@m[K[50Cembox>
+(xeN��(�e�6I56>6@@��@@@@@@@@@?@@@@@@@\@@m[K[51C
+tish error: #-22
+embox>exp@�@@@@?@@@@@@@
+exp@�@@@@?@@@@@@@: Command not found
+tish error: #-2
+embox>
+(xeN��(Wemembox>
+(xeN��(Wem[K[17Cembox>
+(xeN��(We�m[K[18Cembox>
+(xeN��(We�6m[K[19Cembox>
+(xeN��(We�6Im[K[20Cembox>
+(xeN��(We�6I5m[K[21Cembox>
+(xeN��(We�6I56m[K[22Cembox>
+(xeN��(We�6I56>m[K[23Cembox>
+(xeN��(We�6I56>6m[K[24Cembox>
+(xeN��(We�6I56>6@m[K[25Cembox>
+(xeN��(We�6I56>6@@m[K[26Cembox>exp@�@@@@?@@@@@@@[K[23Cembox>exp@�@@@@?@@@@@@[K[22C@<@embox>exp@�@@@@?@@@@@@@<[K[24C@@@@@@0@embox>exp@�@@@@?@@@@@@@<@@@@@@0[K@@ @`@@�@\embox>exp@�@@@@?@@@@@@@<@@@@@@0@@ @`@@�@\embox>eexp@�@@@@?@@@@@@@<@@@@@@0@@ @`@@�@\
+eexp@�@@@@?@@@@@@@<@@@@@@0: Command not found
+tish error: #-2
+embox>xp@�@^@@?@@@D@@@
+xp@�@^@@?@@@D@@@: Command not found
+tish error: #-2
+embox>
+(xeN��(xem�6I56>6@@embox>
+(xeN��(xem�6I56>6@@��@@@@@@@@@?@@@@@@@@@@@\@@
+tish error: #-22
+embox>exp@�@@@@��embox>exp@�@@@@�[K[16C�@@@@
+exp@�@@@@��@@@@: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@@@@C@@@@@@@@@@�@@@@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

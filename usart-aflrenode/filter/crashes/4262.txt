@@ -1,0 +1,41 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>� ~�
+embox>exembox>ex[K[8Cembox>ex[K[9Cembox>ex[K[10Cembox>ex�[K[11Cembox>ex�[K[12Cembox>ex�[K[13Cembox>ex��[K[14C
+ex: Command not found
+tish error: #-2
+embox>
+embox>ex[K[8C� [H[H[2Jembox>ex� [K[15Cexembox>ex� ex[K[21Cembox>ex� ex[K[22Cembox>ex� ex[K[23Cembox>ex� ex�[K[24Cembox>ex� ex�[K[25Cembox>ex� ex��[K[26C
+ex�: Command not found
+tish error: #-2
+embox>
+embox>ex� [K[10C� embox>ex[K[8C� ex��exv��embox>ex� ex��exv��[K[6Cembox>ex� ex��exv��[K[7Cembox>ex� ex��exv��[K[8C
+embox>
+embox>ex� � [K[12Chouexpuuuu?eembox>ex� � houexpuuuu?e[K[6Cembox>uex� � houexpuuuu?e[K[7Cembox>uuex� � houexpuuuu?e[K[8Cembox>uuqex� � houexpuuuu?e[K[9Cembox>uuq�ex� � houexpuuuu?e[K[10Cembox>uuq�cex� � houexpuuuu?e[K[11Cembox>uuq�c@ex� � houexpuuuu?e[K[12Cembox>uuq�c@�ex� � houexpuuuu?e[K[13Cembox>uuq�c@�6ex� � houexpuuuu?e[K[14Cembox>uuq�c@�66ex� � houexpuuuu?e[K[15Cembox>uuq�c@�66Fex� � houexpuuuu?e[K[16Cembox>uuq�c@�66F6ex� � houexpuuuu?e[K[17Cembox>uuq�c@�66F6tex� � houexpuuuu?e[K[18Cembox>uuq�c@�66F6ttex� � houexpuuuu?e[K[19Cembox>uuq�c@�66F6tt@ex� � houexpuuuu?e[K[20Cembox>uuq�c@�66F6tt@@ex� � houexpuuuu?e[K[21Cembox>uuq�c@�66F6tt@@ ex� � houexpuuuu?e[K[22Cembox>uuq�c@�66F6tt@@ .ex� � houexpuuuu?e[K[23Cembox>uuq�c@�66F6tt@@ .@ex� � houexpuuuu?e[K[24Cembox>uuq�c@�66F6tt@@ .@@ex� � houexpuuuu?e[K[25Cembox>uuq�c@�66F6tt@@ .@@@ex� � houexpuuuu?e[K[26Cembox>uuq�c@�66F6tt@@ .@@@@ex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Pex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Pttex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Pttt�ex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttۀex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ�ex� � houexpuuuu?e[K[34Cembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ��ex� � houexpuuuu?e[K[35Cembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ���ex� � houexpuuuu?e[K[36Cembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ����ex� � houexpuuuu?e[K[37Cembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ�����ex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ������ex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ�������ex� � houexpuuuu?e[Kembox>uuq�c@�66F6tt@@ .@@@@Ptttۀ��������ex� � houexpuuuu?e[K
+uuq�c@�66F6tt@@: Command not found
+tish error: #-2
+embox>������������ttt�ut>$T@������@@�c@xp@uuuembox>������������ttt�ut>$T@������@@�c@xp@uu�@b���embox>������������ttt�ut>$T@������@@�c@xp@uu�@b�����
+������������ttt�ut>$T@������@@�c@xp@uu�@b�����: Command not found
+tish error: #-2
+embox>� embox>[K[59C
+uuq�c@�66F6tt@@: Command not found
+tish error: #-2
+embox>
+embox>[K[59Chouexpuuuu?exuuq�c@�embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

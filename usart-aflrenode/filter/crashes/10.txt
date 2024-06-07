@@ -1,0 +1,1614 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>dx
+dx: Command not found
+tish error: #-2
+embox>
+s0
+s0: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+?@embox>[K[6C
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+toH��embox>
+toH��[K[6Cembox>�
+toH��[K[7C
+�: Command not found
+tish error: #-2
+embox>
+l�embox>
+l[K[8C
+l: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+V�
+V�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+mcVd
+mcVd: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+sl�l
+sl�l: Command not found
+tish error: #-2
+embox>
+lw
+lw: Command not found
+tish error: #-2
+embox>
+pn
+n: Command not found
+tish error: #-2
+embox>
+ppiin
+ppiin: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+�d�
+��: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l��
+l��: Command not found
+tish error: #-2
+embox>
+l�l
+l�l: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+vv
+vv: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+[s
+[s: Command not found
+tish error: #-2
+embox>
+lr�-k
+lr�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+lmlogout
+lmlogout: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+,�
+,: Command not found
+tish error: #-2
+embox>
+$$
+$$: Command not found
+tish error: #-2
+embox>
+wcd
+wcd: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+lcd
+lcd: Command not found
+tish error: #-2
+embox>
+nspin
+nspin: Command not found
+tish error: #-2
+embox>
+i��
+embox>
+embox>
+l*
+l*: Command not found
+tish error: #-2
+embox>
+lXs
+lXs: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Psf
+Psf: Command not found
+tish error: #-2
+embox>
+�zmmf
+�zmmf: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~]
+
+~]: Command not found
+tish error: #-2
+embox>
+�
+mcVd: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+p�n
+p�n: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+sc
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+lW
+lW: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Sn
+mcVd: Command not found
+tish error: #-2
+embox>
+Y�_�
+Y�: Command not found
+tish error: #-2
+embox>
+lsu
+lsu: Command not found
+tish error: #-2
+embox>
+{s
+{s: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+pin
+mcVdpin: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+N
+N: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+as
+as: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ll
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+Lr�
+Lr�: Command not found
+tish error: #-2
+embox>
+ms
+ms: Command not found
+tish error: #-2
+embox>
+��f���
+tish error: #-22
+embox>
+�o�
+�o�: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+e��
+mcVd: Command not found
+tish error: #-2
+embox>
+v
+v: Command not found
+tish error: #-2
+embox>
+i��sz|��sz
+i��sz|��sz: Command not found
+tish error: #-2
+embox>
+ls
+mcVd: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+$d$d
+tish error: #-22
+embox>
+:'ls
+:'ls: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+n@@n
+ln: Command not found
+tish error: #-2
+embox>
+lcd
+lcd: Command not found
+tish error: #-2
+embox>
+s|l
+s|l: Command not found
+tish error: #-2
+embox>
+|s@
+|s@: Command not found
+tish error: #-2
+embox>
+l�����rN
+l�����rN: Command not found
+tish error: #-2
+embox>
+�exx�_t��x�Z�
+lZ�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+�
+embox>*
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+lh
+lh: Command not found
+tish error: #-2
+embox>
+�g�
+�g�: Command not found
+tish error: #-2
+embox>
+g���
+lZ�: Command not found
+tish error: #-2
+embox>
+~s
+~s: Command not found
+tish error: #-2
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+Ls
+Ls: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+pinl
+pin: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+]E
+]E: Command not found
+tish error: #-2
+embox>
+x|[H[H[2J
+x|: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+�q
+�q: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+RsG
+RsG: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+Ys
+Ys: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+l������
+l������: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�s
+�s: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls�
+ls�: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+llslsss2
+llslsss2: Command not found
+tish error: #-2
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+lexportXl
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

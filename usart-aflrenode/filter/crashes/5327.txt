@@ -1,0 +1,118 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ele
+embox>
+�p�qcppppp�exitpppplogomtpDc�px�Nppppvp
+�: Command not found
+tish error: #-2
+embox>
+�p�qpppppp�ppp[logom�pcc�PxpNppppfp
+�: Command not found
+tish error: #-2
+embox>
+�p�qpppppp�ppcc�p�xpNppppvp
+�: Command not found
+tish error: #-2
+embox>
+�p�`p����xpNppppvp�`p����xpNppp
+�: Command not found
+tish error: #-2
+embox>
+�p�qpppppp�pembox>
+�[K[8Cplo�omtpcc�pxpNppppvp
+�: Command not found
+tish error: #-2
+embox>
+�prqpppppp�pppplogmtpcc�pxpNp��p
+�: Command not found
+tish error: #-2
+embox>
+�p�qpppppp�pppplogomtpccp
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�p�p�ppppppppppppppppppppppapMgpexportrtpcc�px
+�: Command not found
+tish error: #-2
+embox>pNpPppppvr
+pNpPppppvr: Command not found
+tish error: #-2
+embox>
+�pppplogomt�FcޑxpNppppvp
+�: Command not found
+tish error: #-2
+embox>
+�n�qpppppp�pppp7ogomtpcc�pxpNppppvp
+�: Command not found
+tish error: #-2
+embox>
+�p�qppplpvpptp
+�: Command not found
+tish error: #-2
+embox>
+�p�qpVpppp�pppplogomtp`c�pxpNppppvp
+�: Command not found
+tish error: #-2
+embox>
+�qpppppq�exportgolpxpNppppexp@�@@?@@@@@@ll
+�qpppppq�exportgo: Command not found
+tish error: #-2
+embox>lllllllln@@\@@e@@vp
+lllllllln: Command not found
+tish error: #-2
+embox>
+�pcc�pxppppvembox>
+�pcc�pxpppp[K[19Ccdpembox>
+�pcc�pxppppcdp
+�pcc�px: Command not found
+tish error: #-2
+embox>
+�p�qpppppg�pppplpNppppcc�pxogomtpvp
+�: Command not found
+tish error: #-2
+embox>
+�p�qppppc�px��ppppvp
+�: Command not found
+tish error: #-2
+embox>
+�p�qpppZpS�p
+�: Command not found
+tish error: #-2
+embox>
+�p�Xpppp{{rrpp�pppp�ogo�tpRc�sxpNp�ppvpp
+�: Command not found
+tish error: #-2
+embox>
+�p�qppppZp�ppppl�gomtpcc�px{NpgTpvp�
+�: Command not found
+tish error: #-2
+embox>
+������������ �ppplogom�cz�pxpgplspvp
+������������: Command not found
+tish error: #-2
+embox>
+�p�q[ppppp�pppp���tpcc�px@Nppppvp
+�: Command not found
+tish error: #-2
+embox>
+p�plppppvpl���� pcc�pxplppppvp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

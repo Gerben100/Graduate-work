@@ -1,0 +1,179 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10Cxembox>tishx[K[11C5��@
+tishx5: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+���|@cd
+���|: Command not found
+tish error: #-2
+embox>
+hh
+hh: Command not found
+tish error: #-2
+embox>
+embox>
+
+x�$@
+embox>
+embox>
+embox>
+embox>
+''''''''''''[?5h[?5lx�@
+: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+embox>[K[6Cs
+s: Command not found
+tish error: #-2
+embox>
+ex@ortembox>
+ex@ort[K[6Cembox>
+ex@ort[K[7Cembox>s[K[7C
+s: Command not found
+tish error: #-2
+embox>
+�Q�[?5h[?5l?
+tish error: #-22
+embox>
+[?5h[?5l�di����
+tish error: #-22
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+[?5h[?5l��|c������
+tish error: #-22
+embox>
+embox>[K[6C
+embox>
+embox>[K[6C��xi�embox>��xi�[K��
+embox>
+[?5h[?5l��Yi���
+tish error: #-22
+embox>
+[?5h[?5l�������
+tish error: #-22
+embox>
+��xi
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C?��
+?��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5ld�xi���@�
+tish error: #-22
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+[?5h[?5l�out�
+tish error: #-22
+embox>
+embox>
+[K[7C�
+tish error: #-22
+embox>
+[?5h[?5l@ls�v������&K&M�[?5h[?5l@ls�v������&K&M���s�v�
+@ls�v������&K&M�@ls�v������&K&M���s�v�: Command not found
+tish error: #-2
+embox>ggo��s�v�ggo�t�
+ggo��s�v�ggo�t�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l��xi�������&K&3�������togoul�
+tish error: #-22
+embox>
+[?5h[?5l��x�������lugout@ �logou[�
+tish error: #-22
+embox>
+[?5h[?5l���������2K&����cd��lout�
+tish error: #-22
+embox>
+[?5h[?5l��xi�������&K&3���gou��logout�xi�������&K&3���
+tish error: #-22
+embox>go�
+go�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l��xi������mogou��
+tish error: #-22
+embox>
+6����logou��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

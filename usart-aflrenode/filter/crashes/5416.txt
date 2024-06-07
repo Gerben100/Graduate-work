@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10Cembox>tish[K[6Cembox>tish[K[10Cembox>tish[K[6Cembox>tish[K[7Cembox>xtish[K[8Cembox>xxtish[K[9Cembox>xxxtish[K[10Cembox>xxxxtish[K[11Cembox>xxxxxtish[K[12Cembox>xxxxxxtish[K[13Cembox>xxxxxxxtish[K[14Cembox>xxxxxxxxtish[K[15Cembox>xxxxxxxx�tish[K[16Cembox>xxxxxxxx��tish[K[17Cembox>xxxxxxxx���tish[K[18Cembox>xxxxxxxx����tish[K[19Cembox>xxxxxxxx�����tish[K[20Cembox>xxxxxxxx������tish[K[21Cembox>xxxxxxxx�������tish[K[22Cembox>xxxxxxxx��������tish[K[23Cembox>xxxxxxxx���������tish[K[24Cembox>xxxxxxxx����������tish[K[25Cembox>xxxxxxxx�����������tish[K[26Cembox>xxxxxxxx������������tish[K[27Cembox>xxxxxxxx�������������tish[K[28Cembox>xxxxxxxx��������������tish[K[29Cembox>xxxxxxxx���������������tish[K[30Cembox>xxxxxxxx����������������tish[K[31Cembox>xxxxxxxx�����������������tish[K[32Cembox>xxxxxxxx������������������tish[K[33Cembox>xxxxxxxx�������������������tish[K[34Cembox>xxxxxxxx��������������������tish[K[35Cembox>xxxxxxxx���������������������tish[K[36Cembox>xxxxxxxx����������������������tish[K[37Cembox>xxxxxxxx�����������������������tish[K[38Cembox>xxxxxxxx�����������������������xtish[K[39C
+xxxxxxxx�����������������������xtish: Command not found
+tish error: #-2
+embox>
+�
+embox>��w
+embox>
+embox>
+group[Kembox>
+group[K[6Cembox>
+group[K[7Cembox>x
+group[K[8Cembox>xx
+group[K[9Cembox>
+group[K[6Cembox>
+group[K[6Cembox>%
+group[K[7Cembox>%$
+group[K[8Cembox>%$p
+group[K[9Cembox>
+group[K[6Cembox>
+group[K[6Cembox>
+group[K[6Cembox>
+group[K[6Cembox>%
+group[K[7Cembox>%$
+group[K[8Cembox>%$
+group[K[9Cembox>%$x
+group[K[10C
+%$: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>x
+�[K[8Cembox>xx
+�[K[9Cembox>xxp
+�[K[10Cembox>
+�[K[6Cembox>
+�[K[6Cembox>
+�[K[6Cembox>
+�[K[6Cembox>%$[K[8C
+%$: Command not found
+tish error: #-2
+embox>
+embox>[K[6C������xp���xpprt�prt�
+������xp���xpprt�prt�: Command not found
+tish error: #-2
+embox>
+�Zx
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l@@embox>
+@@[K[6Cembox>$
+@@[K[7Cembox>$l
+@@[K[8Cembox>$le
+@@[K[9Cembox>$lex
+@@[K[10Cembox>$lexp
+@@[K[11Cembox>$lexpo
+@@[K[12Cembox>$lexpoc
+@@[Kembox>$lexpoct
+@@[Kembox>$lexpoct
+@@[Kembox> $lexpoct
+@@[Kembox> $lexpoct
+@@[Kembox> $lexpoct
+@@[K[9Cembox> $lexpoct
+@@[K[10Cembox> p$lexpoct
+@@[K[11Cembox> po$lexpoct
+@@[K[12Cembox> poc$lexpoct
+@@[Kembox> poct$lexpoct
+@@[Kembox> poct$lexpoct
+@@[Kembox>$ poct$lexpoct
+@@[Kembox>$l poct$lexpoct
+@@[Kembox>$lo poct$lexpoct
+@@embox>$lo| poct$lexpoct
+@@embox> poct$lexpoct
+@@[Kembox> poct$lexpoct
+@@[Kembox>� poct$lexpoct
+@@[Kembox>�x poct$lexpoct
+@@[Kembox>�xl poct$lexpoct
+@@embox>�xls poct$lexpoct
+@@embox>�xls@ poct$lexpoct
+@@embox>�xls@o poct$lexpoct
+@@embox>�xls@o| poct$lexpoct
+@@embox> poct$lexpoct
+@@[Kembox> poct$lexpoct
+@@[Kembox> poct$lexpoct
+@@[Kembox>� poct$lexpoct
+@@[Kembox>�x poct$lexpoct
+@@
+�x: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>8
+�[K[7Cembox>8x
+�[K[8Cembox>8xx
+�[K[9Cembox>8xxp
+�[K[10Cembox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>�
+�[K[9Cembox>�x
+�[K[10C
+embox>
+[?5h[?5lembox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�x
+[K[9Cembox>�xp
+[K[10Cembox>
+[K[6Cembox>
+[K[6Cembox>
+[K[6Cembox>�
+[K[7Cembox>�$
+[K[8Cembox>�$
+[K[6Cembox>x�$
+[K[7Cembox>xx�$
+[K[8C
+xx�$: Command not found
+tish error: #-2
+embox>
+[?5h[?5lexit���[?5h[?5l[?5h[?5l[?5h[?5lembox>xx�$
+[K[11C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�[?5h[?5l[?5h[?5l[?5h[?5lembox>�x [K[10Cembox>�x[K[9C[?5h[?5l[?5h[?5l[?5h[?5l?��x
+�x?��: Command not found
+tish error: #-2
+embox>
+@xxptlembox>[K[6Cembox>[K[7C
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+[K[6Cembox>
+embox>x
+embox>xx
+embox>xxp
+embox>xxpt
+embox>xxpt,
+embox>xxpt,
+embox>mxxpt,
+embox>m�xxpt,
+
+m�xxpt,: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>�l[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

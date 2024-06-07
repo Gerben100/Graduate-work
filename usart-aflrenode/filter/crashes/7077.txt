@@ -1,0 +1,54 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[7Cembox>[K[7Cembox>ï¿½[K[8Cembox>ï¿½ï¿½[K[9Cembox>ï¿½ï¿½ï¿½[K[10Cembox>ï¿½ï¿½ï¿½6[K[11Cembox>ï¿½ï¿½ï¿½66[K[12Cembox>ï¿½ï¿½ï¿½66[K[13Cembox>ï¿½ï¿½ï¿½66[K[14Cembox>ï¿½ï¿½ï¿½66[K[14Cembox>ï¿½ï¿½ï¿½66ï¿½[K[15Cembox>ï¿½ï¿½ï¿½66ï¿½e[K[16Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½[K[17Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½c[K[18Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cx[K[19Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½[K[20Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½6[K[21Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66[K[22Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66F[K[23Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½[K[24Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½l[K[25Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½le[K[26Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½les[K[27Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½[K[28Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6[K[29Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%[K[30Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%d[K[31Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQ[K[32Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT[K[33Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.[K[34Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.@[K[35Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.@ï¿½[K[36Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.@ï¿½@[K[37Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.@ï¿½@6[K[38Cembox>ï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½lesï¿½6%dQT.@ï¿½@65[K[39C
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½
+tish error: #-22
+embox>
+xï¿½>ï¿½ï¿½ï¿½ï¿½6embox>
+[K[7Cï¿½eï¿½bï¿½embox>
+ï¿½eï¿½bï¿½[K[6Cembox>
+ï¿½eï¿½bï¿½[K[7Cembox>ï¿½eï¿½bï¿½[K[7Cembox>lï¿½eï¿½bï¿½[K[8Cembox>lsï¿½eï¿½bï¿½[K[9Cembox>lsï¿½ï¿½eï¿½bï¿½[K[10Cembox>lsï¿½6ï¿½eï¿½bï¿½[K[11Cembox>lsï¿½6@ï¿½eï¿½bï¿½[K[12Cembox>lsï¿½6@dï¿½eï¿½bï¿½[K[13Cembox>lsï¿½6@dQï¿½eï¿½bï¿½[K[14Cembox>lsï¿½6@dQTï¿½eï¿½bï¿½[K[15Cembox>lsï¿½6@dQT@ï¿½eï¿½bï¿½[K[16Cembox>lsï¿½6@dQT@@ï¿½eï¿½bï¿½[K[17Cembox>lsï¿½6@dQT@@ï¿½ï¿½eï¿½bï¿½[K[18Cembox>lsï¿½6@dQT@@ï¿½@ï¿½eï¿½bï¿½[K[19Cembox>lsï¿½6@dQT@@ï¿½@6ï¿½eï¿½bï¿½[K[20Cembox>lsï¿½6@dQT@@ï¿½@6@ï¿½eï¿½bï¿½[K[21Cembox>lsï¿½6@dQT@@ï¿½@6@ï¿½ï¿½eï¿½bï¿½[K[22Cembox>lsï¿½6@dQT@@ï¿½@6@ï¿½@ï¿½eï¿½bï¿½[K[23Cembox>lsï¿½6@dQT@@ï¿½@6@ï¿½@6ï¿½eï¿½bï¿½[K[24Cembox>lsï¿½6@dQT@@ï¿½@6@ï¿½@65ï¿½eï¿½bï¿½[K[25C
+embox>
+T
+T: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+T[K[8Cï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½66Fï¿½>lsï¿½6@dQT@,ï¿½ï¿½ï¿½5
+Tï¿½ï¿½ï¿½66: Command not found
+tish error: #-2
+embox>
+ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½pinï¿½ï¿½ï¿½ï¿½õºººï¿½ï¿½ï¿½ï¿½ï¿½ltï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½T@@ï¿½@65
+tish error: #-22
+embox>
+embox>
+[K[7Cï¿½ï¿½ï¿½66embox>
+Tï¿½ï¿½ï¿½66[K[13Cï¿½eï¿½cxï¿½pin4ï¿½66666666B66>lsï¿½6@dQT@ls
+Tï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½pin4ï¿½66666666B66>lsï¿½6@dQT@ls: Command not found
+tish error: #-2
+embox>@ï¿½@6O
+@ï¿½@6O: Command not found
+tish error: #-2
+embox>
+ï¿½embox>@ï¿½@6O[K[11Cï¿½ï¿½ï¿½66embox>
+Tï¿½ï¿½ï¿½66ï¿½eï¿½cxï¿½pin4ï¿½66666666B66>lsï¿½6@dQT@lsï¿½eï¿½cxï¿½66Fï¿½>lsï¿½6@dQT@exporf,ï¿½@65
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

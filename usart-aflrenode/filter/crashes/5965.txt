@@ -1,0 +1,120 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�2�embox>�2[K[9C�����
+embox>[s;���:tlstttt7t����
+[s;�: Command not found
+tish error: #-2
+embox>embox>[s;�[K[10Cttt���tls�ttt7t����t
+[s;�ttt��: Command not found
+tish error: #-2
+embox>
+�2�embox>
+�2[K[10C�!���
+embox>[s;w��:tlstttt7t����embox>[s;w��:tlstttt7t����[K[28Cembox>[s;w��:tlstttt7t����[K[29C
+[s;w: Command not found
+tish error: #-2
+embox>embox>[s;w[K[10Cttt���:slembox>[s;wttt���:sl[K[21Cembox>[s;wttt���:sl�[K[22Cembox>[s;wttt���:sl�t[K[23Cembox>[s;wttt���:sl�tt[K[24Cembox>[s;wttt���:sl�ttt[K[25Cembox>[s;wttt���:sl�ttt7[K[26Cembox>[s;wttt���:sl�ttt7t[K[27Cembox>[s;wttt���:sl�ttt7t�[K[28Cembox>[s;wttt���:sl�ttt7t��[K[29Cembox>[s;wttt���:sl�ttt7t���[K[30Cembox>[s;wttt���:sl�ttt7t����[K[31Cembox>[s;wttt���:sl�ttt7t����t[K[32C
+[s;wttt�: Command not found
+tish error: #-2
+embox>
+�2�embox>
+�2[K[10C�����
+embox>[s;���:tlst4tt7t��t����
+[s;�: Command not found
+tish error: #-2
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>������
+embox>
+Ft
+tish error: #-22
+embox>
+[?5h[?5l��mt
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+@exit�m[tt
+@exit�m[: Command not found
+tish error: #-2
+embox>
+�A��
+tish error: #-22
+embox>
+t
+tish error: #-22
+embox>
+I�embox>
+I[Kj
+��
+tish error: #-22
+embox>
+@�gout[?5h[?5l�embox>[K[20Cod
+@: Command not found
+tish error: #-2
+embox>
+F
+F: Command not found
+tish error: #-2
+embox>
+�xxx$xx
+�xxx: Command not found
+tish error: #-2
+embox>
+�%�l
+�: Command not found
+tish error: #-2
+embox>
+����t
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+)
+): Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�7
+�7: Command not found
+tish error: #-2
+embox>
+0^ր
+0^�: Command not found
+tish error: #-2
+embox>
+7
+7: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+
+embox>
+7eN�xem
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

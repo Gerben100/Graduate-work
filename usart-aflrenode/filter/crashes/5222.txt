@@ -1,0 +1,51 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>w��ls�sxilogout�i�
+w��ls: Command not found
+tish error: #-2
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+�Pembox>
+a[K[8Cembox>w��ls[K[11C��Wvti
+w��ls��Wvti: Command not found
+tish error: #-2
+embox>
+�P�embox>w��ls��Wvti[K[17C��rtXxi�
+w��ls��Wvti��rtXxi�: Command not found
+tish error: #-2
+embox>
+�Pg�PgWt�}Wt�xi��rtext��
+�Pg�PgWt�}Wt�xi��rtext��: Command not found
+tish error: #-2
+embox>
+�P�embox>
+�Pg�PgWt�}Wt�xi��rtext���xi"
+�Pg�PgWt�}Wt�xi��rtext���xi": Command not found
+tish error: #-2
+embox>
+�q���k��Nx�s
+�q��: Command not found
+tish error: #-2
+embox>
+�P�embox>
+�q��[K[11C��embox>[K[35C�uto�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

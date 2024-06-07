@@ -1,0 +1,116 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[6Cembox>y
+e[K[7Cembox>y
+e[K[6Cembox>%y
+e[K[7Cembox>%�y
+e[K[8Cembox>%�xy
+e[K[9C
+%�xy: Command not found
+tish error: #-2
+embox>
+@��embox>%�xy
+e[K[12C�d@v�
+%�xy: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����������������������Xeembox>
+�[KlSgo�
+�lSgo�: Command not found
+tish error: #-2
+embox>
+Yembox>
+[K[7Cembox>[K[6C
+embox>
+loToutb�
+loToutb�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+������������������eexembox>
+cd��p
+cd��p: Command not found
+tish error: #-2
+embox>
+logout��
+cd��p��: Command not found
+tish error: #-2
+embox>
+pxppW�
+pxpp�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+exportpo+
+exportpo+: Command not found
+tish error: #-2
+embox>
+ %�
+%�: Command not found
+tish error: #-2
+embox>
+!
+cd��p!: Command not found
+tish error: #-2
+embox>
++}
++}: Command not found
+tish error: #-2
+embox>
+@it
+@: Command not found
+tish error: #-2
+embox>
+|||||||||||||||||||||||||||�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

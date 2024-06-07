@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l@sembox>l@[K[8C6@eA\ @e5|Q6@@@@6@?��@@@@@S6@embox>l@6@eA\ @e5|Q6@@@@6@?��@@@@@S6@[K[44C?�@�A\
+l@6@e: Command not found
+tish error: #-2
+embox>n@e
+n@e: Command not found
+tish error: #-2
+embox>
+lembox>n@e[K[9Cls6d@AdAAAAAp�\embox>n@els6d@AdAAAAAp�\[K[27C@e@�U\P@e
+n@els6d@AdAAAAAp�: Command not found
+tish error: #-2
+embox>
+lembox>n@els6d@AdAAAAAp�[K[23C@s@6@dAembox>n@els6d@AdAAAAAp�@s@6@d[K[30C�embox>n@e[K[9C@s66@dAembox>n@e@s66@d[K[16C��embox>n@e@s66@d��[K[6Cembox>n@e@s66@d��[K[7Cembox>n@e@s66@d��[K[8Cembox>�n@e@s66@d��[K[9Cembox>�n@e@s66@d��[K[21Cembox>�n@e@s66@d��[K[6Cembox>�n@e@s66@d��[K[7Cembox>�n@e@s66@d��[K[8Cembox>�n@e@s66@d��[K[9Cembox>@�n@e@s66@d��[K[10Cembox>@e�n@e@s66@d��[K[11C
+embox>
+A\@@e5|Q6@@@@6@?�@@�Arembox>n@els6d@AdAAAAAp�@s@6@d[K[29Ce
+n@els6d@AdAAAAAp�@s@6@de: Command not found
+tish error: #-2
+embox>
+lembox>n@els6d@AdAAAAAp�@s@6@de@]PBe
+n@els6d@AdAAAAAp�@s@6@de@]PBe: Command not found
+tish error: #-2
+embox>
+lembox>n@els6d@AdAAAAAp�@s@6@de�s6@dA\@@e5|Q6@@@@6@?�@@�A\P@e
+n@els6d@AdAAAAAp�@s@6@de�s6@d: Command not found
+tish error: #-2
+embox>
+lembox>n@els6d@AdAAAAAp�@s@6@de@s6��A\@@e5|Q6@@@@6@?�@@�A\P
+n@els6d@AdAAAAAp�@s@6@de@s6�: Command not found
+tish error: #-2
+embox>
+lembox>n@els6d@AdAAAAAp�@s@6@de�embox>n@els6d@AdAAAAAp�@s@6@dembox>n@e[K[9Cembox>l@6@e[K[11Cxei�embox>l@6@exei�[Kembox>l@6@exei�[Kembox>@6@exei�[Kembox>x@6@exei�[Kembox>xe@6@exei�[Kembox>xei@6@exei�[Kembox>xei�@6@exei�[K[11Cembox>xei�@6@exei�[K[12Cembox>xei�@6@exei�[K[13Cembox>xei�@6@exei�[K[14Cembox>xei�@6@exei�[Kembox>xei�@6@exei�[Kembox>xei��@6@exei�[Kembox>xei��1@6@exei�[Kembox>xei��11@6@exei�embox>xei��111@6@exei�embox>xei��1111@6@exei�embox>xei��11111@6@exei�embox>xei��111111@6@exei�embox>xei��1111111@6@exei�embox>xei��11111111@6@exei�embox>xei��111111111@6@exei�embox>xei��1111111111@6@exei�embox>xei��11111111111@6@exei�embox>xei��111111111111@6@exei�
+embox>
+lembox>n@els6d@AdAAAAAp�@s@6@de��embox>n@els6d@AdAAAAAp�@s@6@dembox>n@e[K[9Cembox>l@6@e[K[11Cxei�embox>l@6@exei�[K[6Cembox>l@6@exei�[K[7Cembox>@6@exei�[K[7Cembox>x@6@exei�[K[8Cembox>xe@6@exei�[K[9Cembox>xei@6@exei�[K[10Cembox>xei�@6@exei�[K[11Cembox>xei�@6@exei�embox>xei�@6@exei�embox>xei�@6@exei�embox>xei�@6@exei�embox>xei�@6@exei�embox>xei��@6@exei�embox>xei���@6@exei�embox>xei����@6@exei�embox>xei�����@6@exei�embox>xei������@6@exei�embox>xei�������@6@exei�embox>xei��������@6@exei�embox>xei���������@6@exei�embox>xei���������e@6@exei�embox>xei���������ex@6@exei�embox>xei���������exi@6@exei�embox>xei���������exit@6@exei�embox>xei���������exit�@6@exei�embox>xei���������exit��@6@exei�embox>xei���������exit��e@6@exei�embox>xei���������exit��e@6@exei�embox>xei���������exit��e�@6@exei�embox>xei���������exit��e�y@6@exei�embox>xei���������exit��e�y�@6@exei�embox>xei���������exit��e�y��@6@exei�embox>xei���������exit��e�y���@6@exei�embox>xei���������exit��e�y����@6@exei�embox>xei���������exit��e�y����t@6@exei�embox>xei���������exit��e�y����t1@6@exei�embox>xei���������exit��e�y����t11@6@exei�
+embox>11111111111111
+11111111111111: Command not found
+tish error: #-2
+embox>
+lembox>[K[20C�embox>[K[32Cembox>n@els6d@AdAAAAAp�@s@6@dy����t1111111111111111
+n@els6d@AdAAAAAp�@s@6@dy����t1111111111111111: Command not found
+tish error: #-2
+embox>
+lembox>11111111111111��embox>n@els6d@AdAAAAAp�@s@6@de��embox>n@els6d@AdAAAAAp�@s@6@dembox>n@e[K[9Cxei�embox>n@exei�[K[6Cembox>n@exei�[K[7Cembox>@exei�[K[7Cembox>x@exei�[K[8Cembox>xe@exei�[K[9Cembox>xei@exei�[K[10Cembox>xei�@exei�[K[11Cembox>xei�@exei�[K[12Cembox>xei�@exei�embox>xei�@exei�embox>xei�@exei�embox>xei�@exei�embox>xei��@exei�embox>xei���@exei�embox>xei����@exei�embox>xei�����@exei�embox>xei������@exei�embox>xei�������@exei�embox>xei��������@exei�embox>xei���������@exei�embox>xei���������e@exei�embox>xei���������ex@exei�embox>xei���������exi@exei�embox>xei���������exit@exei�embox>xei���������exit�@exei�embox>xei���������exit��@exei�embox>xei���������exit��e@exei�embox>xei���������exit��e@exei�embox>xei���������exit��e�@exei�embox>xei���������exit��e�y@exei�embox>xei���������exit��e�y�@exei�embox>xei���������exit��e�y��@exei�embox>xei���������exit��e�y���@exei�embox>xei���������exit��e�y����@exei�embox>xei���������exit��e�y�����@exei�embox>xei���������exit��e�y������@exei�embox>xei���������exit��e�y�������@exei�
+embox>�������������������t1911111111111111
+�������������������t1911111111111111: Command not found
+tish error: #-2
+embox>
+ortxit��s��y�embox>
+ortxit��s��y���t11�embox>
+ortxit��s��y���t111<111111
+ortxit��s: Command not found
+tish error: #-2
+embox>
+lembox>
+ortxit��s[K[16C�embox>11111111111111��[K[22Cembox>n@els6d@AdAAAAAp�@s@6@de��embox>n@els6d@AdAAAAAp�@s@6@dxei�embox>n@els6d@AdAAAAAp�@s@6@dxei�embox>n@els6d@AdAAAAAp�@s@6@dxei�embox>@els6d@AdAAAAAp�@s@6@dxei�embox>x@els6d@AdAAAAAp�@s@6@dxei�embox>xe@els6d@AdAAAAAp�@s@6@dxei�embox>xei@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>xei�@els6d@AdAAAAAp�@s@6@dxei�embox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41C
+embox>1111111�111111
+1111111�111111: Command not found
+tish error: #-2
+embox>
+lembox>[K�embox>
+ortxit��s�embox>[Kxeiexit��e�y����t111111ex���e�y����t11
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

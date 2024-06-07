@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+��embox>
+�[K[10Clsecd@�cNN@`?@
+embox>2QrNNNNNMNQNNNPD�@@/@)xe
+2Qr: Command not found
+tish error: #-2
+embox>orc@<@@@@@@;@@@@embox>orc@<@@@@@@;@@@[K[22C�@c6C56>6T@embox>orc@<@@@@@@;@@@�@c6C56>6T@[K[33C�exexitporx@@NNNNNN
+orc@<@@@@@@;@: Command not found
+tish error: #-2
+embox>NN�embox>NN[K[8C�embox>NN�[K[6Cembox>�NN�[K[7Cembox>��NN�[K[8Cembox>��iNN�[K[9Cembox>��ixNN�[K[10Cembox>��ix%NN�[K[11Cembox>��ix%NN�[K[14C��@?@NNNNNMNQNNNND�@@/@)xeo[?5h[?5l
+embox>@embox>orc@<@@@@@@;@[K[19C
+orc@<@@@@@@;@: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[10Clse@�cNNNN4NNNNN�embox>
+�lse@�cNNNN4NNNNN[K[27CNNNNNNNNNNembox>
+�lse@�cNNNN4NNNNNNNNNNNNNN[K[38CNDw@@/@)xeor
+tish error: #-22
+embox>t@<@@@@@@;@\@@@embox>t@<@@@@@@;@\@@[K[20C�@c6656>6T@embox>t@<@@@@@@;@\@@�@c6656>6T@[K[31C�exporx@@@`?@
+embox>2Qrt@
+2Qrt@: Command not found
+tish error: #-2
+embox>@@?@
+embox>@Q@@@
+@Q@@@: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[10Clse@�NNNNNNNNembox>
+�lse@�NNNNNNNN[K[27CNNNNNN-MNNNND�@@/@)xe"r
+tish error: #-22
+embox>t@<@@@@@@;@\@pin�@c6656>6Torx@@@`?@
+embox>2Qrt@@@?@
+2Qrt@@@?@: Command not found
+tish error: #-2
+embox>
+embox>@Q@@@
+@Q@@@: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[10Clse@�cNNNNNNNNNSNNNNNNNNNND�@@/@)xeort@<@@@
+tish error: #-22
+embox>@@@;@\@@@embox>[K[14C�@c6656>6T@embox>[K[25C�expmrx@@@`?@export@@?@
+@@@;@\@@�@c6656>6T@�expmrx@@@`?@: Command not found
+tish error: #-2
+embox>
+embox>@Q@@@
+@Q@@@: Command not found
+tish error: #-2
+embox>
+��embox>
+�lse@�cNNNNNNNNNN�embox>
+�lse@�cNNNNNNNNNNNNNNNNNNNNNND�@@/@)xeor
+tish error: #-22
+embox>t@<@@@@@@;@@@�@c6656>6T@�gxrx@@@`?@
+embox>2Qrt@
+2Qrt@: Command not found
+tish error: #-2
+embox>@@?@
+embox>@Q�@@
+@Q�@@: Command not found
+tish error: #-2
+embox>
+��lse@�cNNNNNNNNNN�NNNNNNNNNNNND�@@/export
+t@<@@@@@@;: Command not found
+tish error: #-2
+embox>@)xeort@<@@@@@@;@\@@@�@c6656>6T@�exporx@@@`?@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,79 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>mN�k�embox>mN�k�[K[10Cembox>mN�k�[K[9Cembox>mN�k�[K[8Cembox>mN�k�[K[7Cembox>mN�k�[K[6Cembox>NmN�k�[K[7Cembox>NkmN�k�[K[8Cembox>NkNmN�k�[K[9Cembox>NkNNmN�k�[K[10Cembox>NkNN>mN�k�[K[11Cembox>NkNN>emN�k�[K[12Cembox>NkNN>exmN�k�[K[13Cembox>NkNN>eximN�k�[K[14Cembox>NkNN>exitmN�k�[K[15Cembox>NkNN>exitZmN�k�[K[16Cembox>NkNN>exitZNmN�k�[K[17Cembox>NkNN>exitZNNmN�k�[K[18Cembox>NkNN>exitZNNNmN�k�[K[19Cembox>NkNN>exitZNNNNmN�k�[K[20Cembox>NkNN>exitZNNNNWmN�k�[K[21Cembox>NkNN>exitZNNNNWmN�k�[K[20Cembox>NkNN>exitZNNNNWmN�k�[K[19Cembox>NkNN>exitZNNNNWmN�k�[K[18Cembox>NkNN>exitZNNNNWmN�k�[K[17Cembox>NkNN>exitZN�NNNWmN�k�[K[18Cembox>NkNN>exitZN��NNNWmN�k�[K[19Cembox>NkNN>exitZN��NNNWmN�k�[K[6Cembox>#NkNN>exitZN��NNNWmN�k�[K[7Cembox>#NkNN>exitZN��NNNWmN�k�[K[6C
+#NkNN>exitZN��NNNWmN�k�: Command not found
+tish error: #-2
+embox>
+m�mk�\tembox>
+m�mk�\t[K[14CrVr2�N@�wc�[?5h[?5l�lembox>
+m�mk�\trVr2�N@�wc��l[K[34Cembox>
+m�mk�\trVr2�N@�wc��l[K[33Cembox>
+m�mk�\trVr2�N@�wc��[K[33Cembox>
+m�mk�\trVr2�N@�wc��[K[32Cembox>
+m�mk�\trVr2�N@�wc��[K[31Cembox>
+m�mk�\trVr2�N@�wc��[K[30Cembox>
+m�mk�\trVr2�N@�wc��[K[6C
+m�mk�\trVr2�N: Command not found
+tish error: #-2
+embox>
+mk�l[?5h[?5lNNNFNNembox>
+mk�l[?5h[?5lNNNFNN[K[31Cembox>
+mk�l[?5h[?5lNNNFNN[K[30Cembox>
+mk�l[?5h[?5lNNNFNN[K[29Cembox>
+mk�l[?5h[?5lNNNFNN[K[28Cembox>
+mk�l[?5h[?5lNNNFNN[K[27Cembox>
+mk�l[?5h[?5lNNNFNN[K[28Cembox>
+mk�l[?5h[?5lNNNFNN[K[27Cembox>
+mk�l[?5h[?5lNNNFNN[K[26Cembox>
+mk�l[?5h[?5lNNNFNN[K[25Cembox>
+mk�l[?5h[?5lNNNFNN[K[24Cembox>
+mk�l[?5h[?5lNNNFNN[K[23C
+mk�l: Command not found
+tish error: #-2
+embox>
+mk�G�
+mk�G: Command not found
+tish error: #-2
+embox>
+mjembox>
+mj[K[11C�
+mj: Command not found
+tish error: #-2
+embox>
+�]embox>
+�][K[9C]�
+�]]�: Command not found
+tish error: #-2
+embox>
+�exilembox>
+�]]�[K[11C�N
+�]]��N: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+m�embox>
+membox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+exitmk����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

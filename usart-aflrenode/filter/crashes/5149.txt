@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ex��[?5h[?5l[?5h[?5l[?5h[?5lpin[?5h[?5l[?5h[?5l[?5h[?5l�ex
+�ex��pin�ex: Command not found
+tish error: #-2
+embox>
+l��embox>
+l�[K[9Ce8ax�intp
+l�e8ax�intp: Command not found
+tish error: #-2
+embox>
+�u��z��vembox>
+�u��z��v[K[6Cembox>
+�u��z��v[K[7Cembox>
+�u��z��v[K[8Cembox>�
+�u��z��v[K[9Cembox>�v
+�u��z��v[K[10Cembox>�v
+�u��z��v[K[11C
+embox>
+k���tV�x
+k: Command not found
+tish error: #-2
+embox>
+llembox>
+ll[K[10Ckembox>
+llk[K[6Cembox>~
+llk[K[7Cembox>~>
+llk[K[8Cembox>~>[?5h[?5l
+llk[K[9Cembox>~>[?5h[?5li
+llk[K[10Cembox>~>[?5h[?5lit
+llk[K[11Cembox>~>[?5h[?5lit�
+llk[K[12Cembox>~>[?5h[?5lit�d
+llk[K[13C
+embox>
+embox>
+ 
+tish error: #-22
+embox>
+l����embox>
+l���[K[13C�����Ǽ��ּ����������������embox>[K[6Cx
+x: Command not found
+tish error: #-2
+embox>
+lit�x
+l: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[9Ce��좢�embox>
+le��좢[K[15C�o�embox>
+le��좢�o�[Kembox>
+le��좢�o�[K[19Cembox>
+le��좢�o�[K[18Cembox>
+le��좢�o�[K[20ClogoxSiyeembox>
+le��좢�o�logoxSiyeembox>
+le��좢�o�logoxSiyeembox>
+le��좢�o�logoxSiye�embox>
+le��좢�o�logoxSiye�embox>
+le��좢�o�logoxSiye�embox>
+le��좢�o�logoxSiye��embox>
+le��좢�o�logoxSiye��gembox>
+le��좢�o�logoxSiye��g�embox>
+le��좢�o�logoxSiye��g��embox>
+le��좢�o�logoxSiye��g�embox>
+le��좢�o�logoxSiye��g��embox>
+le��좢�o�logoxSiye��g��oembox>
+le��좢�o�logoxSiye��g��o�
+l: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[9Ce���\좢�embox>
+l[K[8C����iembox>
+l����i[K[14Cembox>
+l����i[K[15Cembox>
+l����i�[K[16Cembox>
+l����i�y[Kembox>
+l����i�ye[Kembox>
+l����i�ye[K[19Cembox>
+l����i�ye[K[18Cembox>
+l����i�ye�[K[19Cembox>
+l����i�ye�[K[18Cembox>
+l����i�ye�[K[19Cembox>
+l����i�yel�[K[20Cembox>
+l����i�yelo�[Kembox>
+l����i�yelog�[Kembox>
+l����i�yelogo�[Kembox>
+l����i�yelogo[Kembox>
+l����i�yelogox[Kembox>
+l����i�yelogoxS[Kembox>
+l����i�yelogoxSiembox>
+l����i�yelogoxSiyembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyeembox>
+l����i�yelogoxSiyelembox>
+l����i�yelogoxSiyelo
+l����: Command not found
+tish error: #-2
+embox>��embox>
+l����[K[12C����
+l��������: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cm���m��������embox>[K[16C�y�embox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K�y�embox>[Kembox>
+l
+l: Command not found
+tish error: #-2
+embox>
+lembox>
+le��좢샢�embox>
+l����iembox>[Kembox>[Kembox>[Kembox>
+l���embox>
+l��embox>
+l��embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+l��: Command not found
+tish error: #-2
+embox>gox
+gox: Command not found
+tish error: #-2
+embox>
+looooooooo��eoo�ox
+embox>
+le���eo��좢�����i
+l��: Command not found
+tish error: #-2
+embox>e���ogox
+e���ogox: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l+���ubc�x
+gox����bc��: Command not found
+tish error: #-2
+embox>
+le��좢좢�/����i
+l: Command not found
+tish error: #-2
+embox>i0e
+i0e: Command not found
+tish error: #-2
+embox>
+l�export������i
+gox��������: Command not found
+tish error: #-2
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

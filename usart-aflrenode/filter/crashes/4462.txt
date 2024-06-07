@@ -1,0 +1,98 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+`embox>
+[K[7C�wV�l�lopp�t������oX BCCCCCCCCC
+�: Command not found
+tish error: #-2
+embox>
+`embox>
+[K[7C�eeeeeeeeeeeeeeeeeeeeeCCCCCCCCCCCCCCCCCCCCOCCCC
+�eeeeeeeeeeeeeeeeeeeeeCCCCCCCCCCCCCCCCCCCCOCCCC: Command not found
+tish error: #-2
+embox>CCCCCpV
+CCCCC: Command not found
+tish error: #-2
+embox>
+`embox>
+[K[7C��X CCCCCCCCCCCCls�CCCCCCCCCCCCCCCCembox>
+��X CCCCCCCCCCCCls�CCCCCCCCCCCCCCC[K[41CCCCC[CCC
+��X: Command not found
+tish error: #-2
+embox>pV��lopp�oX CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+embox>pV
+pV: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��������������������������lsɔ�lopp�oX C
+��������������������������lsɔ�lopp�oX: Command not found
+tish error: #-2
+embox>CCCCCCCCCCCCCCCCCCCCCCCCCCCCCpV
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCC: Command not found
+tish error: #-2
+embox>
+`embox>
+[K[7C��lsɔ��lodp�oX CCCCCCCCBCCCCCCCCCCCCCCCC
+��lsɔ��lodp�oX: Command not found
+tish error: #-2
+embox>CCBCCpV
+CCBCC: Command not found
+tish error: #-2
+embox>
+`embox>
+[K[7C��ls���dlembox>
+��ls���dl[K[6Cembox>
+��ls���dl[K[7Cembox>
+��ls���dl[K[6Cembox>
+��ls���dl[K[20C$embox>
+��ls���dl$[K[21C2�CCCCCCCCCCCCCClogou
+embox>tCCCCCCCCCCCCCC����������������������V
+tCCCCCCCCCCCCCC����������������������V: Command not found
+tish error: #-2
+embox>
+`embox>
+[K[7C��lsɔ�lopp�oX CCCCCCCCCCCCCCCCCpinCCCCC
+��lsɔ�lopp�oX: Command not found
+tish error: #-2
+embox>CCCCCCCpV
+CCCCCCC: Command not found
+tish error: #-2
+embox>
+`embox>
+[K��zs���lopp�oX CCCCCCCCCCCCCCCCCC]CCCCCC
+��zs���lopp�oX: Command not found
+tish error: #-2
+embox>CCpV
+CC: Command not found
+tish error: #-2
+embox>
+`p��lsɔ&embox>CC�lopp�oX�KCCembox>CC�lopp�oX�KCV
+CC�lopp�oX�KCV: Command not found
+tish error: #-2
+embox>
+`embox>
+[K��lsɔ��
+embox>�oX pinCCCCCCCCCCCCCCC@```log
+embox>out```````V
+out```````V: Command not found
+tish error: #-2
+embox>
+`��lsɔH�lopp�oX CCCaCCCCCCCCCCCCCCCCCCCCC
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

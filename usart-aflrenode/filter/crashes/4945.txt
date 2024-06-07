@@ -1,0 +1,267 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>V
+V: Command not found
+tish error: #-2
+embox>
+���׀pe�embox>
+���׀pe�[K[14Cembox>
+���׀peE�[K[15Cembox>
+���׀peEx�[K[16Cembox>
+���׀peExn�[K[17Cembox>
+���׀peExn��[K[18Cembox>
+���׀peExn�i�[K[19C
+���׀peExn�i�: Command not found
+tish error: #-2
+embox>
+pin�embox>
+pin�[K[10Cembox>
+pine�[K[11Cembox>
+pinex�[K[12Cembox>
+pinexn�[K[13Cembox>
+pinexnp�[K[14Cembox>
+pinexnpe�[K[15Cembox>
+pinexnper�[K[16Cembox>
+pinexnpero�[K[17Cembox>
+pinexnperox�[K[18Cembox>
+pinexnperoxr�[K[19Cembox>
+pinexnperoxrr�[K[20Cembox>
+pinexnperoxrrr�[K[21Cembox>
+pinexnperoxrrrr�[K[22Cembox>
+pinexnperoxrrrrr�[K[23Cembox>
+pinexnperoxrrrrr��[K[24Cembox>
+pinexnperoxrrrrr�r�[K[25Cembox>
+pinexnperoxrrrrr�rr�[K[26Cembox>
+pinexnperoxrrrrr�rrr�[K[27Cembox>
+pinexnperoxrrrrr�rrrr�[K[28Cembox>
+pinexnperoxrrrrr�rrrrr�[K[29Cembox>
+pinexnperoxrrrrr�rrrrrr�[K[30Cembox>
+pinexnperoxrrrrr�rrrrrrr�[K[31Cembox>
+pinexnperoxrrrrr�rrrrrrr��[K[32Cembox>
+pinexnperoxrrrrr�rrrrrrr�r�[K[33Cembox>
+pinexnperoxrrrrr�rrrrrrr�rr�[K[34Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrr�[K[35Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrr�[K[36Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrr�[K[37Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrr�[K[38Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrr�[K[39Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrr�[K[40Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrr�[K[41Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�[K[42Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr��[K[43Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r��[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�r�[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�r�[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�rr�[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�rri�[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�rri��[Kembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�rri���[K[51Cembox>
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�rri��i�[K[52C
+pinexnperoxrrrrr�rrrrrrr�rrrrrrrrrr�r�r: Command not found
+tish error: #-2
+embox>
+������i
+������i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�cdxnls embox>
+�cdxnls [K[17Cembox>
+�cdxnls [K[18Cembox>
+�cdxnls� embox>
+�cdxnls� embox>
+�cdxnls�e embox>
+�cdxnls�ex embox>
+�cdxnls�exp embox>
+�cdxnls�expo embox>
+�cdxnls�expor embox>
+�cdxnls�export embox>
+�cdxnls�export embox>
+�cdxnls�export embox>
+�cdxnls�exportr embox> [K[6Cembox> [K[7Cembox> [K[8Cembox> [K[9Cembox>i [K[10C
+embox>
+�embox>
+�[K[7Cembox>
+e�[K[8Cembox>
+e@�[K[9Cembox>
+e@n�[K[10Cembox>
+e@np�[K[11Cembox>
+e@npe�[K[12Cembox>
+e@npee�[K[13Cembox>
+e@npeeo�[K[14Cembox>
+e@npeeox�[K[15Cembox>
+e@npeeoxi�[K[16Cembox>
+e@npeeoxi��[K[17Cembox>
+e@npeeoxi���[K[18Cembox>
+e@npeeoxi��i�
+e@npeeoxi��i�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cexembox>[K[20C��embox>[K[23C�embox>[K[23C��i
+e@npeeoxi��i�: Command not found
+tish error: #-2
+embox>
+p�embox>
+p�[K[6Cembox>d
+p�[K[7Cembox>d
+p�[Kembox>d�
+p�[Kembox>d�y
+p�[Kembox>d�y�
+p�[Kembox>d�y
+p�[Kembox>d�y
+p�[Kembox>d�y
+p�[Kembox>d��y
+p�[Kembox>d��yy
+p�[Kembox>d��yey
+p�[Kembox>d��yeHy
+p�[Kembox>d��yeHiy
+p�[Kembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19C
+d: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+e�embox>
+ex�embox>
+exn�embox>
+exnp�embox>
+exnpe�embox>
+exnper�embox>
+exnperp�embox>
+exnperp��embox>
+exnperp�i�embox>
+exnperp�i��embox>
+exnperp�i���embox>
+exnperp�i��i�
+exnperp�i��i�: Command not found
+tish error: #-2
+embox>
+�vembox>
+���i�
+���i�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+hhhh: Command not found
+tish error: #-2
+embox>
+
+
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+l:d�t
+l:: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+$���l
+$���l: Command not found
+tish error: #-2
+embox>
+
+embox>��$���
+��$���: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+c �pinccd��cd`pinpinccd��cd`d�x�
+c: Command not found
+tish error: #-2
+embox>
+@odul�`
+embox>
+�s�`
+s�`: Command not found
+tish error: #-2
+embox>
+cR
+cR: Command not found
+tish error: #-2
+embox>
+��?�`
+��?�`: Command not found
+tish error: #-2
+embox>
+�l��Y
+�l��Y: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�@s�`
+�@s�`: Command not found
+tish error: #-2
+embox>
+���log[l����kogou
+tish error: #-22
+embox>
+��d�
+�lMgout: Command not found
+tish error: #-2
+embox>
+������
+embox>
+������exporf���
+embox>
+p����!����
+p���: Command not found
+tish error: #-2
+embox>
+�������]����������_�������e|pmrtut
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

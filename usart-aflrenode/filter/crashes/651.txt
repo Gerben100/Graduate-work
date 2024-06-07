@@ -1,0 +1,103 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����b$[?5h[?5l�@��
+����b$[?5h[?5l�@��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+lggggggg�[H[H[2Jembox>
+lggggggg�[K[17C=
+embox>��embox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[10C"
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[9Cembox>
+[K[8C
+tish error: #-22
+embox>
+(l�@�embox>
+(l�@[K[13C
+(l�: Command not found
+tish error: #-2
+embox>
+l� A|@�y
+l�: Command not found
+tish error: #-2
+embox>
+l�
+embox>*�embox>*[K[7C
+*: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+pi��@
+embox>��z
+��z: Command not found
+tish error: #-2
+embox>
+l�@
+embox>�pin�
+�pin: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�plnI)l��pbnpinI)lsln�I)
+�pln: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+W
+tish error: #-22
+embox>
+88@1
+�pin: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls@xs@x�opinrnopinr
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

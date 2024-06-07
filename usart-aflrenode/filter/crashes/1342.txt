@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9C
+embox>
+�embox>
+�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+
+embox>�66 )6DZembox>�66 )6DZ[K[6Cembox>��66 )6DZ[K[7Cembox>���66 )6DZ[K[8Cembox>��@�66 )6DZ[K[9Cembox>��@@�66 )6DZ[K[10Cembox>��@@@�66 )6DZ[K[11Cembox>��@@@p�66 )6DZ[K[12Cembox>��@@@px�66 )6DZ[K[13Cembox>��@@@px@�66 )6DZ[K[14Cembox>��@@@px@@�66 )6DZ[K[15Cembox>��@@@px@@@�66 )6DZ[K[16Cembox>��@@@px@@@@�66 )6DZ[K[17Cembox>��@@@px@@@@ �66 )6DZ[K[18Cembox>��@@@px@@@@ @�66 )6DZ[K[19Cembox>��@@@px@@@@ @@�66 )6DZ[K[20Cembox>��@@@px@@@@ @@@�66 )6DZ[K[21Cembox>��@@@px@@@@ @@@�66 )6DZ[K[22Cembox>��@@@px@@@@ @@@@�66 )6DZ[K[23Cembox>��@@@px@@@@ @@@@d�66 )6DZ[K[24Cembox>��@@@px@@@@ @@@@dp�66 )6DZ[K[25Cembox>��@@@px@@@@ @@@@dpo�66 )6DZ[K[26Cembox>��@@@px@@@@ @@@@dpoq�66 )6DZ[K[27Cembox>��@@@px@@@@ @@@@dpoqt�66 )6DZ[K[28Cembox>��@@@px@@@@ @@@@dpoqt@�66 )6DZ[K[29Cembox>��@@@px@@@@ @@@@dpoqt@e�66 )6DZ[K[30Cembox>��@@@px@@@@ @@@@dpoqt@e��66 )6DZ[K[31Cembox>��@@@px@@@@ @@@@dpoqt@e��66 )6DZ[K[32Cembox>��@@@px@@@@ @@@@dpoqt@e��66 )6DZ[K[33Cembox>��@@@px@@@@ @@@@dpoqt@e��66 )6DZ[K[34Cembox>��@@@px@@@@ @@@@dpoqt@e�@�66 )6DZ[K[35Cembox>��@@@px@@@@ @@@@dpoqt@e�@@�66 )6DZ[K[36Cembox>��@@@px@@@@ @@@@dpoqt@e�@@@�66 )6DZ[K[37Cembox>��@@@px@@@@ @@@@dpoqt@e�@@@�66 )6DZ[K[6C
+��@@@px@@@@: Command not found
+tish error: #-2
+embox>
+
+embox>ogout�I\embox>ogout�I[K[15C@exp@�@@@@?@@embox>��@@@px@@@@ @@@@dpoqt@e�[K[31C@@@expor666�y�fembox>
+�[K[8C�embox>
+�[K[8C�
+�: Command not found
+tish error: #-2
+embox>i�embox>i�[K[7Cembox>�[K[6Cembox>@�[K[7Cembox>@e�[K[8Cembox>@ex�[K[9Cembox>@exp�[K[10Cembox>@exp@�[K[11Cembox>@exp@��[K[12Cembox>@exp@�@�[K[13Cembox>@exp@�@@�[K[14Cembox>@exp@�@@@�[K[15Cembox>@exp@�@@@@�[K[16Cembox>@exp@�@@@@?�[K[17Cembox>@exp@�@@@@?@�[K[18Cembox>@exp@�@@@@?@@�[K[19Cembox>@exp@�@@@@?@@�[K[20Cembox>
+�[K[9C@@@Qxpor666e
+�@@@Qxpor666e: Command not found
+tish error: #-2
+embox>
+ppp�6656)6@@�embox>
+ppp�6656)6@@[K[19Cpin��@@@p@@@@@?@@@@@@@@@V@\`@exp@�@
+ppp�6656)6@@pin��@@@p@@@@@?@@@@@@@@@V@\`@exp@�@: Command not found
+tish error: #-2
+embox>@@@?@@@@@@@export@@e
+@@@?@@@@@@@export@@e: Command not found
+tish error: #-2
+embox>
+
+embox>�6656)6@@^�i�@@@@@@@@@@@\z@exp@�@@@@?@@@@@
+embox>N@export@@e
+N@export@@e: Command not found
+tish error: #-2
+embox>
+
+embox>@9?@?Z@l�@D?@@H@lembox>N@export@@e[K[17C�@@@ex@@embox>@@@?@@@@@@@export@@eo{t@@e
+@@@?@@@@@@@export@@eo{t@@e: Command not found
+tish error: #-2
+embox>
+
+embox>�6656)6@pin@�logo`t@@@@@@H@\`Pexp@�@@@@?@@@D
+embox>DDDDDDgou@@@H@\`Pexp@�DDDD@@@�port`@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

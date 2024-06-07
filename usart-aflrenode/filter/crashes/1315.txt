@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>FoeRi
+FoeRi: Command not found
+tish error: #-2
+embox>
+doHidEEEEEEEEoei
+doHidEEEEEEEEoei: Command not found
+tish error: #-2
+embox>
+logout�i�embox>
+logout�i[K[16C
+logout�i: Command not found
+tish error: #-2
+embox>
+d�� 
+d�: Command not found
+tish error: #-2
+embox>
+dDlembox>
+dDl[K[11Cembox>
+d�[K[9Ci
+d�i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>d
+[K[8Cembox>do
+[K[9Cembox>do
+[K[8Cembox>do
+[K[7Cembox>do
+[K[6Cembox>�do
+[K[7Cembox>�do
+[K[6Cembox>l�do
+[K[7Cembox>lo�do
+[K[8Cembox>log�do
+[K[9Cembox>logo�do
+[K[10Cembox>logot�do
+[K[11Cembox>logot�do
+[K[10Cembox>logoet�do
+[K[11Cembox>logoeit�do
+[K[12Cembox>logoeidt�do
+[K[13Cembox>logoeidt�do
+[K[14Cembox>logoeidto�do
+[K[15Cembox>logoeidtom�do
+[K[16Cembox>logoeidtomi�do
+[K[17C
+logoeidtomi�do: Command not found
+tish error: #-2
+embox>
+d[?5h[?5ld[?5h[?5loen�oen�dh
+d[?5h[?5ld[?5h[?5loen�oen�dh: Command not found
+tish error: #-2
+embox>
+���ut�
+tish error: #-22
+embox>
+�����-
+�����-: Command not found
+tish error: #-2
+embox>
+`^\�pin
+`^\�pin: Command not found
+tish error: #-2
+embox>
+u��
+u��: Command not found
+tish error: #-2
+embox>
+``exixit�ex�ex�exi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

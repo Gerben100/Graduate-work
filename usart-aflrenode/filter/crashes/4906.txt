@@ -1,0 +1,357 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>%%Tembox>%%T[K[9Cembox>%%T[K[10Cembox>%%T�[K[11Cembox>%%T�y[K[12Cembox>%%T�ye[K[13Cembox>%%T�yed[K[14Cembox>%%T�yed%[K[15Cembox>%%T�yed%%[K[16Cembox>%%T�yed%%%[K[17Cembox>%%T�yed%%%%[K[18Cembox>%%T�yed%%%%%[K[19Cembox>%%T�yed%%%%%%[K[20Cembox>%%T�yed%%%%%%c[K[21Cembox>%%T�yed%%%%%%cd[K[22Cembox>%%T�yed%%%%%%cd%[K[23Cembox>%%T�yed%%%%%%cd%%[K[24Cembox>%%T�yed%%%%%%cd%%d[K[25Cembox>%%T�yed%%%%%%cd%%d%[K[26Cembox>%%T�yed%%%%%%cd%%d%%[K[27Cembox>%%T�yed%%%%%%cd%%d%%%[K[28Cembox>%%T�yed%%%%%%cd%%d%%%%[K[29Cembox>%%T�yed%%%%%%cd%%d%%%%%[K[30Cembox>%%T�yed%%%%%%cd%%d%%%%%%[K[31Cembox>%%T�yed%%%%%%cd%%d%%%%%%?[K[32Cembox>%%T�yed%%%%%%cd%%d%%%%%%?c[K[33Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd[K[34Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%[K[35Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%[K[36Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%[K[37Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%[K[38Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%[K[39Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%[K[40Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%[K[41Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%[K[42Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%[K[43Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%[K[44Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%[K[45Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%c[K[46Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd[K[47Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%[K[48Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%![K[49Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%!%[Kembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%!%[K[51Cembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%!%[Kembox>%%T�yed%%%%%%cd%%d%%%%%%?cd%%%%%%%%%%%cd%!%%[K[51C
+%%T: Command not found
+tish error: #-2
+embox>%%%%?cd%%%%!%%%%%%cd%!%%%%%%%%%%
+%%%%?cd%%%%!%%%%%%cd%!%%%%%%%%%%: Command not found
+tish error: #-2
+embox>
+i�port:%%%%%%%%%%%%%%%5%%%%H%
+tish error: #-22
+embox>
+iembox>
+i[K[6Cembox>x
+i[K[7Cembox>xp
+i[K[8Cembox>xpo
+i[K[9Cembox>xpor
+i[K[10Cembox>xport
+i[K[11Cembox>xporti
+i[K[12Cembox>xporti
+i[K[13Cembox>xporti%
+i[K[14Cembox>xporti%$
+i[K[15Cembox>xporti%$%
+i[K[16Cembox>xporti%$%%
+i[K[17Cembox>xporti%$%%%
+i[K[18Cembox>xporti%$%%%%
+i[K[19Cembox>xporti%$%%%%%
+i[K[20Cembox>xporti%$%%%%%%
+i[K[21Cembox>xporti%$%%%%%%%
+i[K[22Cembox>xporti%$%%%%%%%%
+i[K[23Cembox>xporti%$%%%%%%%%%
+i[K[24Cembox>xporti%$%%%%%%%%%%
+i[K[25Cembox>xporti%$%%%%%%%%%%%
+i[K[26Cembox>xporti%$%%%%%%%%%%%%
+i[K[27Cembox>xporti%$%%%%%%%%%%%%%
+i[K[28Cembox>xporti%$%%%%%%%%%%%%%%
+i[K[29Cembox>xporti%$%%%%%%%%%%%%%%c
+i[K[30Cembox>xporti%$%%%%%%%%%%%%%%cd
+i[K[31Cembox>xporti%$%%%%%%%%%%%%%%cd%
+i[K[32Cembox>xporti%$%%%%%%%%%%%%%%cd%%
+i[K[33Cembox>xporti%$%%%%%%%%%%%%%%cd%%%
+i[K[34Cembox>xporti%$%%%%%%%%%%%%%%cd%%%%
+i[K[35C
+xporti: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[6Cembox>x
+i[K[7Cembox>xp
+i[K[8Cembox>xpo
+i[K[9Cembox>xpor
+i[K[10Cembox>xport
+i[K[11Cembox>xporti
+i[K[12Cembox>xporti
+i[K[13Cembox>xporti%
+i[K[14Cembox>xporti%%
+i[K[15Cembox>xporti%%%
+i[K[16Cembox>xporti%%%%
+i[K[17Cembox>xporti%%%%%
+i[K[18Cembox>xporti%%%%%%
+i[K[19Cembox>xporti%%%%%%%
+i[K[20Cembox>xporti%%%%%%%%
+i[K[21Cembox>xporti%%%%%%%%%
+i[K[22Cembox>xporti%%%%%%%%%%
+i[K[23Cembox>xporti%%%%%%%%%%%
+i[K[24Cembox>xporti%%%%%%%%%%%%
+i[K[25Cembox>xporti%%%%%%%%%%%%%
+i[K[26Cembox>xporti%%%%%%%%%%%%%d
+i[K[27Cembox>xporti%%%%%%%%%%%%%d%
+i[K[28Cembox>xporti%%%%%%%%%%%%%d%%
+i[K[29Cembox>xporti%%%%%%%%%%%%%d%%%
+i[K[30Cembox>xporti%%%%%%%%%%%%%d%%%%
+i[K[31Cembox>xporti%%%%%%%%%%%%%d%%%%%
+i[K[32Cembox>xporti%%%%%%%%%%%%%d%%%%%%
+i[K[33Cembox>xporti%%%%%%%%%%%%%d%%%%%%%
+i[K[34Cembox>xporti%%%%%%%%%%%%%d%%%%%%%%
+i[K[35Cembox>xporti%%%%%%%%%%%%%d%%%%%%%%%
+i[K[36C
+xporti: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[6Cembox>%
+i[K[7Cembox>%
+i[K[8Cembox>%
+i[K[9Cembox>%
+i[K[10Cembox>xporti[K[12C%%%%%%%%%%%%
+xporti%%%%%%%%%%%%: Command not found
+tish error: #-2
+embox>
+i�embox>
+i[K[8Cembox>
+[K[7Cporti%%%��%%%�%%<�%%%%%%%
+porti: Command not found
+tish error: #-2
+embox>
+icdembox>
+ic[K[10C|��%
+tish error: #-22
+embox>
+iembox>
+i[K[6Cembox>x
+i[K[7Cembox>xp
+i[K[8Cembox>xpo
+i[K[9Cembox>xpor
+i[K[10Cembox>xport
+i[K[11Cembox>xporti
+i[K[12Cembox>xporti
+i[K[13Cembox>xporti%
+i[K[14Cembox>xporti%%
+i[K[15Cembox>xporti%%%
+i[K[16Cembox>xporti%%%%
+i[K[17Cembox>xporti%%%%%
+i[K[18Cembox>xporti%%%%%%
+i[K[19Cembox>xporti%%%%%%%
+iembox>xporti%%%%%%%%
+iembox>xporti%%%%%%%%%
+iembox>xporti%%%%%%%%%%
+iembox>xporti%%%%%%%%%%%
+iembox>
+i[K[6Cembox>%
+i[K[7Cembox>%%
+i[K[8Cembox>%%%
+i[K[9Cembox>%%%%
+i[K[10Cembox>%%%%%
+i[K[11Cembox>%%%%%
+i[K[12Cembox>%%%%%m
+i[K[13Cembox>%%%%%m
+i[K[14Cembox>%%%%%m
+i[K[6Cembox>x%%%%%m
+i[K[7Cembox>xp%%%%%m
+i[K[8Cembox>xpo%%%%%m
+i[K[9Cembox>xpor%%%%%m
+i[K[10Cembox>xport%%%%%m
+i[K[11Cembox>xporti%%%%%m
+iembox>xporti%%%%%m
+iembox>xporti%%%%%%m
+iembox>xporti%%%%%%%m
+iembox>xporti%%%%%%%%m
+iembox>xporti%%%%%%%%%m
+iembox>xporti%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%%%%%m
+iembox>xporti%%%%%%%%%%%%%%%%m
+i
+xporti: Command not found
+tish error: #-2
+embox>embox>[K[6C%%%[?5h[?5l%%%
+%%%[?5h[?5l%%%: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[6Cembox>x
+i[K[7Cembox>xp
+i[K[8Cembox>xp%
+i[K[9Cembox>xp%%
+i[K[10Cembox>xp%%%
+i[K[11Cembox>xp%%%%
+i[K[12Cembox>xp%%%%%
+i[K[13Cembox>xp%%%%%%
+i[Kembox>xp%%%%%%%
+i[Kembox>xp%%%%%%%%
+i[Kembox>xp%%%%%%%%%
+i[Kembox>xp%%%%%%%%%%
+i[Kembox>xp%%%%%%%%%%%
+i[Kembox>xp%%%%%%%%%%%o
+iembox>xp%%%%%%%%%%%o�
+iembox>xp%%%%%%%%%%%o�t
+iembox>xp%%%%%%%%%%%o�ti
+iembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35C
+xp%%%%%%%%%%%o�ti: Command not found
+tish error: #-2
+embox>
+i
+xport: Command not found
+tish error: #-2
+embox>
+
+xporti: Command not found
+tish error: #-2
+embox>
+x�i
+tish error: #-22
+embox>
+e|eWue��e|eWue��
+e|eW: Command not found
+tish error: #-2
+embox>
+x�i�
+embox>
+
+����ue�: Command not found
+tish error: #-2
+embox>
+(�pioe
+(�pioe: Command not found
+tish error: #-2
+embox>
+xei
+tish error: #-22
+embox>
+ei
+e�i: Command not found
+tish error: #-2
+embox>
+�ei
+tish error: #-22
+embox>
+xeixey
+xeii: Command not found
+tish error: #-2
+embox>
+�
+embox>wOi
+wOii: Command not found
+tish error: #-2
+embox>
+xpinei�ue��e
+xport�ue��e: Command not found
+tish error: #-2
+embox>
+�&Z
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+
+embox>xeiexpo�oYXt
+xei: Command not found
+tish error: #-2
+embox>
+xei
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+ i
+�d��e: Command not found
+tish error: #-2
+embox>
+xei
+tish error: #-22
+embox>
+xei
+embox>�e
+�e: Command not found
+tish error: #-2
+embox>
+h��������lsg�d��e��e
+h��������lsg�d��e��e: Command not found
+tish error: #-2
+embox>
+xei
+]ej: Command not found
+tish error: #-2
+embox>
+xZi[?5h[?5l
+tish error: #-22
+embox>
+xeixei
+tish error: #-22
+embox>
+xei
+tish error: #-22
+embox>
+ficduu� ��
+tish error: #-22
+embox>
+
+�������������e
+�: Command not found
+tish error: #-2
+embox>
+xeie
+tish error: #-22
+embox>
+xeii
+e: Command not found
+tish error: #-2
+embox>
+xeiiiiw�iiiiiiiiiiix�xQii
+tish error: #-22
+embox>eiiiii�ii��e
+eiiiii�ii��e: Command not found
+tish error: #-2
+embox>
+l�k
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+xei
+tish error: #-22
+embox>
+lgoue��e
+lgoue��e: Command not found
+tish error: #-2
+embox>
+quq
+qu: Command not found
+tish error: #-2
+embox>
+lsx�
+embox>��pt�
+embox>
+i
+tish error: #-22
+embox>
+�ue��e
+xeii: Command not found
+tish error: #-2
+embox>
+pi
+p: Command not found
+tish error: #-2
+embox>
+
+����: Command not found
+tish error: #-2
+embox>
+i
+tish error: #-22
+embox>
+ee{�dex�de
+ee{�dex�de: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+xQi�i
+tish error: #-22
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,171 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+�dn
+�dn: Command not found
+tish error: #-2
+embox>
+�v
+�v: Command not found
+tish error: #-2
+embox>
+d.
+tish error: #-22
+embox>
+�n
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�dn
+�dn: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+tish error: #-22
+embox>
+embox>[K[6Cxp
+xp: Command not found
+tish error: #-2
+embox>
+xpi
+xpi: Command not found
+tish error: #-2
+embox>
+$�
+$�: Command not found
+tish error: #-2
+embox>
+ �
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ls�
+ls�: Command not found
+tish error: #-2
+embox>
+
+embox>
+xpc�
+xpc�: Command not found
+tish error: #-2
+embox>
+��wXp
+��wXp: Command not found
+tish error: #-2
+embox>
+xpi�
+xpi: Command not found
+tish error: #-2
+embox>
+ax
+embox>
+xpi
+xpiH: Command not found
+tish error: #-2
+embox>
+\pl
+\pl: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+xp: Command not found
+tish error: #-2
+embox>
+xpi
+xpi: Command not found
+tish error: #-2
+embox>
+xl�ou[
+xl: Command not found
+tish error: #-2
+embox>
++d�p����
++d�: Command not found
+tish error: #-2
+embox>
+
+embox>
+pz
+pz: Command not found
+tish error: #-2
+embox>
+
+xpi: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+embox>
+􀀏
+􀀏: Command not found
+tish error: #-2
+embox>
+�xpUop
+�xpUop: Command not found
+tish error: #-2
+embox>
+|
+|: Command not found
+tish error: #-2
+embox>
+
+embox>
+dp
+dp: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+@xpU�o����������͂������������
+@: Command not found
+tish error: #-2
+embox>
+xpU�oxpU�cv
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

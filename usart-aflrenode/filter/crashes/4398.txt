@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C{embox>{[K[6Cembox>{[K[7Cembox>{[K[8Cembox>s{[K[9Cembox>ss{[K[10Cembox>ss2{[K[11Cembox>ss2�{[K[12Cembox>ss2�{[K[13Cembox>ss2�{[K[13Cembox>ss2�{{[K[14Cembox>ss2�{3{[K[15Cembox>ss2�{3�{[K[16Cembox>ss2�{3��{[K[17C
+embox> pin
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+[?5h[?5l[K[8C�(��
+[?5h[?5l�(��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+%)8
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+v
+v: Command not found
+tish error: #-2
+embox>
+pin�� %
+embox>%ls���������������� %embox>%ls���������������� %[K[27Ct
+%ls����������������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7CT
+T: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>
+embox>%
+%: Command not found
+tish error: #-2
+embox>���embox>���t
+���t: Command not found
+tish error: #-2
+embox>
+d]EEEEEE�DfnE
+embox>��ls�t
+�ls�t: Command not found
+tish error: #-2
+embox>
+t
+$x%Et: Command not found
+tish error: #-2
+embox>
+cds
+�
+tish error: #-22
+embox>
+=dpin
+=dpin: Command not found
+tish error: #-2
+embox>
+Li�n�C��
+Li�n�C��: Command not found
+tish error: #-2
+embox>
+d�x
+d�x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pii i
+pii: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+
+$,�: Command not found
+tish error: #-2
+embox>
+
+�,: Command not found
+tish error: #-2
+embox>
+expo6
+n: Command not found
+tish error: #-2
+embox>
+++
+tish error: #-22
+embox>
+
+embox>x
+embox>ppin[?5h[?5l7lss
+embox>�[?5h[?5l7�ttttttt��lstttttttttdttVttttttttttttttt�tt�@tgo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

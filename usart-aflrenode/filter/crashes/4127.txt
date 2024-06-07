@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eembox>[K[6CpinZ��embox>[K[6C
+embox>
+Eembox>
+[K[7Cv�.embox>
+v�[K[9Ceeei�
+v�: Command not found
+tish error: #-2
+embox>
+*
+*: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�.embox>
+��[K[10C�.>
+�: Command not found
+tish error: #-2
+embox>
+eembox>
+�[K[8C�embox>
+�[K[9Cv�..$
+�: Command not found
+tish error: #-2
+embox>
+S
+S: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��s
+��s: Command not found
+tish error: #-2
+embox>
+e�lfembox>
+e�lf[K[6C
+e�lf: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cortembox>or[K[8Cembox>o[K[7Cembox>[K[6Cu�lzembox>u�l[K[9Cembox>u�[K[8Cxembox>u�[K[8Cembox>u[K[7Cortembox>uort[K[10C�embox>uort[K[10CrZ
+uortrZ: Command not found
+tish error: #-2
+embox>
+|�Qf�E
+|�Qf�E: Command not found
+tish error: #-2
+embox>
+�
+gggg�E
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+g�g�e+EB
+g�g�e+EB: Command not found
+tish error: #-2
+embox>
+e�le�YfhoEE��out
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

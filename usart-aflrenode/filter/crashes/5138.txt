@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>fxiwg�gM�\}LL5T
+fxiwg�gM�: Command not found
+tish error: #-2
+embox>
+
+embox>�iwg�g%MM\}LM5T
+�iwg�g%MM\}LM5T: Command not found
+tish error: #-2
+embox>
+fxiwg�WM>MC
+fxiwg�WM>MC: Command not found
+tish error: #-2
+embox>
+@
+tish error: #-22
+embox>
+skkoout
+skkoout: Command not found
+tish error: #-2
+embox>
+fXc�gfXi
+fXc�gfXi: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cx=I
+embox>x�p��Xgc��p�cXgc�i
+x: Command not found
+tish error: #-2
+embox>
+fx\
+embox>
+embox>jXc�x
+embox>
+embox>
+~��embox>
+~�[K[9C
+~�: Command not found
+tish error: #-2
+embox>
+fxembox>
+~�[KpXc�c�i
+~�pXc�c�i: Command not found
+tish error: #-2
+embox>
+}]dembox>
+~�pXc�c�ieX�Y7�rembox>
+~�pXc�c�ieX�Y7�rembox>
+~�pXc�c�ieX�Y7��7
+~�pXc�c�ieX�Y7��7: Command not found
+tish error: #-2
+embox>
+fy�gc�pYc�i
+fy�gc�pYc�i: Command not found
+tish error: #-2
+embox>
+fxpinXc�gc�i
+fx: Command not found
+tish error: #-2
+embox>
+fx
+embox>�
+embox>Xc�gpinc�i
+Xc�gpinc�i: Command not found
+tish error: #-2
+embox>
+fx�
+embox>�oXc�gc�i
+�oXc�gc�i: Command not found
+tish error: #-2
+embox>
+�gcs/�fxds
+�gc: Command not found
+tish error: #-2
+embox>
+fx�666>6@@��@@@@@@@@@?@@4ls@\,@ex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

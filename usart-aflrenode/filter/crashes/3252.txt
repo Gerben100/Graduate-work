@@ -1,0 +1,199 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@[H[H[2Jembox>@[K[9C�
+@: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[K[6C�[H[H[2Jembox>�[K[8Cembox>�[K[6Cembox>��[K[7Cembox>��[K[6Cembox>���[K[7Cembox>����[K[8Cembox>�����[K[9Cembox>�����[K[10Cembox>�����[K[11Cembox>������[K[12Cembox>������[K[13Cembox>����d��[K[14C
+���: Command not found
+tish error: #-2
+embox>
+SSSSSSSSSSSSSSexitSembox>
+SSSSSSSSSSSSSSexitS[K[6C
+SSSSSSSSSSSSSSexitS: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�[H[H[2Jembox>
+���[K[11Cembox>
+���[K[6Cembox>
+���[K[7Cembox>G
+���[K[8Cembox>G
+���[K[9Cembox>G
+.���[K[10Cembox>G
+.���[K[11Cembox>G
+.���[K[10Cembox>G
+.����[K[11Cembox>G
+.�����[K[12Cembox>G
+.������[K[13Cembox>G
+.������[K[14Cembox>G
+.������[K[15Cembox>G
+.�������[K[16Cembox>G
+.��������[K[17Cembox>G
+.��������[K[18Cembox>G
+.��������[K[17Cembox>G
+.��������[K[18Cembox>G
+.���������[K[19C[H[H[2Jembox>G
+.���������[K[19Cembox>G
+.���������[K[6Cembox>G
+.���������[K[7Cembox>GG
+.���������[K[8Cembox>GG
+.���������[K[9Cembox>G.G
+.���������[K[10Cembox>G.G
+.���������[K[11Cembox>G.G
+.���������[K[10Cembox>G.�G
+.���������[K[11Cembox>G.��G
+.���������[K[12Cembox>G.���G
+.���������[K[13Cembox>G.���G
+.���������[K[14Cembox>G.���G
+.���������[K[15Cembox>G.����G
+.���������[K[16Cembox>G.����G
+.���������[K[17Cembox>G.����dG
+.���������[K[18Cembox>G.����dG
+.���������[K[19Cembox>G.����ddG
+.���������[K[20C
+embox>
+��embox>
+��[K[9C�[H[H[2Jembox>
+���[K[11Cembox>
+���[K[6Cembox>
+���[K[7Cembox>�
+���[K[8Cembox>�G
+���[K[9Cembox>�G
+���[K[10Cembox>�G
+.���[K[11Cembox>�G
+.���[K[12Cembox>�G
+.���[K[11Cembox>�G
+.����[K[12Cembox>�G
+.�����[K[13Cembox>�G
+.������[K[14Cembox>�G
+.������[K[15Cembox>�G
+.�������[K[16Cembox>�G
+.������[K[15Cembox>�G
+.������[K[16Cembox>�G
+.���d���[K[17C
+embox>
+�������embox>
+������[K[14CGembox>
+������G[K[16Cembox>
+������G�[K[17Cembox>
+������G��[K[18Cembox>
+������G���[K[19Cembox>
+������G���[K[20Cembox>
+������G���[K[21Cembox>
+������G����[K[22Cembox>
+������G����[K[23Cembox>
+������G����d[K[24C
+��: Command not found
+tish error: #-2
+embox>
+G���embox>
+G���[K[10Cembox>
+G��d�[K[11C
+G��d�: Command not found
+tish error: #-2
+embox>
+���@ ���.�embox>
+���@ ���.�[K�[H[H[2Jembox>
+���@ ���.��[Kembox>
+���@ ���.��[Kembox>�
+���@ ���.��[Kembox>
+���@ ���.��[Kembox>G
+���@ ���.��[Kembox>G
+���@ ���.��[Kembox>G
+.���@ ���.��embox>G
+.���@ ���.��embox>G
+.���@ ���.��embox>G
+.l���@ ���.��embox>G
+.ls���@ ���.��embox>G
+.ls���@ ���.��embox>G
+.l�s���@ ���.��embox>G
+.l��s���@ ���.��embox>G
+.l���s���@ ���.��embox>G
+.l���s���@ ���.��embox>G
+.l���s���@ ���.��embox>G
+.l����s���@ ���.��embox>G
+.l����s���@ ���.��embox>G
+.l����ds���@ ���.��
+G: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�[H[H[2Jembox>
+���[K[11Cembox>
+���[K[6Cembox>�
+���[K[7Cembox>
+���[K[6Cembox>G
+���[K[7Cembox>G
+���[K[8Cembox>G
+l���[K[9Cembox>G
+lo���[K[10Cembox>G
+log���[K[11Cembox>G
+logo���[K[12Cembox>G
+logou���[K[13Cembox>G
+logout���[K[14Cembox>G
+logout.���[K[15Cembox>G
+logout.���[K[16Cembox>G
+logout.���[K[15Cembox>G
+logout.����[K[16Cembox>G
+logout.�����[K[17Cembox>G
+logout.������[K[18Cembox>G
+logout.�������embox>G
+logout.������[K[18Cembox>G
+logout.���G���embox>G
+logout.���G���embox>G
+logout.���Gl���embox>G
+logout.���Glo���embox>G
+logout.���Glog���embox>G
+logout.���Glogo���embox>G
+logout.���Glogou���embox>G
+logout.���Glogout���embox>G
+logout.���Glogout.���embox>G
+logout.���Glogout.���embox>G
+logout.���Glogout.���embox>G
+logout.���Glogout.����embox>G
+logout.���Glogout.�����embox>G
+logout.���Glogout.������embox>G
+logout.���Glogout.������embox>G
+logout.���Glogout.������embox>G
+logout.���Glogout.�������embox>G
+logout.���Glogout.�������embox>G
+logout.���Glogout.�������embox>G
+logout.���Glogout.�������embox>G
+logout.���Glogout.��������embox>G
+logout.���Glogout.��������embox>[K[39C
+G: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�embox>[K[6C�{G.embox>�{G.[Kembox>�{G.�[Kembox>�{G.��[Kembox>�{G.���[Kembox>�{G.���[Kembox>�{G.���[Kembox>�{G.����[Kembox>�{G.����[Kembox>�{G.����d[K
+�{G.���: Command not found
+tish error: #-2
+embox>
+���[H[H[2J
+G�-���: Command not found
+tish error: #-2
+embox>
+��_��[H[H[2J[H[2J��e�d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

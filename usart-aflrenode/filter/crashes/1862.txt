@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>~�
+~: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�embox>
+[K[7C
+tish error: #-22
+embox>
+��embox>
+��[K[6Cembox>@
+��[K[7Cembox>@�
+��[K[8Cembox>@�
+��[K[9C
+@�: Command not found
+tish error: #-2
+embox>�J�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+Pu�
+Pu�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��
+�: Command not found
+tish error: #-2
+embox>
+t�@
+t�: Command not found
+tish error: #-2
+embox>
+~t�����o���or�r���oe
+~t�����o���or�r���oe: Command not found
+tish error: #-2
+embox>
+~��edeeeeeexe
+~��edeeeeeexe: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~����������or��x e
+~����������or��x: Command not found
+tish error: #-2
+embox>
+~������or��xe
+~������or��xe: Command not found
+tish error: #-2
+embox>
+e
+�����d: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�����e
+�e: Command not found
+tish error: #-2
+embox>
+@@@@�c@x
+@@@@�c@x: Command not found
+tish error: #-2
+embox>
+~������������
+�: Command not found
+tish error: #-2
+embox>
+~������ort
+~������ort: Command not found
+tish error: #-2
+embox>
+~������xa
+~����: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+p[H[H[2JcL
+pcL: Command not found
+tish error: #-2
+embox>
+^���
+^���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+^�[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+^
+embox>
+�
+embox>z
+z: Command not found
+tish error: #-2
+embox>
+P����
+P����: Command not found
+tish error: #-2
+embox>
+logouelogouelsls�
+logouelogouelsls�: Command not found
+tish error: #-2
+embox>
+E�
+E�: Command not found
+tish error: #-2
+embox>
+N�f
+N: Command not found
+tish error: #-2
+embox>
+t�
+t�: Command not found
+tish error: #-2
+embox>
+~����mx�66d6>6T@� ��@@@@Qexi<@@@3@@�$�$�w@@@@@@
+~����mx�66d6>6T@�: Command not found
+tish error: #-2
+embox>@@GC@/@@9
+@@GC@/@@9: Command not found
+tish error: #-2
+embox>
+~����cx�66F6>6T@���@@@@@Qexpor
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

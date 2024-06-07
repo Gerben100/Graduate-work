@@ -1,0 +1,118 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lxdhoembox>[K[6ChUembox>[K[6C�+embox>�+[K[8Cembox>�+[K[9Cembox>��+[K[10Cembox>��U+[K[11Cembox>[K[6C��e
+embox>
+loembox>
+l[K[8Cxdhembox>
+lxdh[K[6Cembox>
+lxdh[K[7Cembox>
+lxdh[K[8Cembox>�
+lxdh[K[9Cembox>�+
+lxdh[K[10Cembox>�+
+lxdh[K[9Cembox>�+
+lxdh[K[10Cembox>��+
+lxdh[K[11Cembox>��+
+lxdh[K[12Cembox>��+
+lxdh[K[6Cembox>��+
+lxdh[K[7Cembox>��+
+lxdh[K[8Cembox>���+
+lxdh[K[9Cembox>�e��+
+lxdh[K[10C
+embox>
+locdxdh+embox>
+locdxdh+[K[14Cembox>
+locdxdh+[K[15Cembox>
+locdxdh�+[K[16Cembox>
+locdxdh�V+[K[17Cembox>[K[6C��e
+embox>
+llV����embox>
+llV����[K[6Cembox>�
+llV����[K[7Cembox>��
+llV����[K[8Cembox>��V
+llV����[K[9Cembox>[K[6C��
+embox>
+���Ie
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[12Cembox>
+��[K[12C!Zt[?5h[?5l
+embox>�����e
+�����e: Command not found
+tish error: #-2
+embox>
+loembox>
+l[K[8C{dh+embox>
+l{dh+[K[11Cembox>
+l{dh+[K[12Cembox>
+l{dh�+[K[13Cembox>
+l{dh�V+[K[14Cembox>[K[6C
+embox>
+lo@�xgR
+lo@�xgR: Command not found
+tish error: #-2
+embox>
+lllllllslllmllllllllllllmllllllllllllo�o��
+lllllllslllmllllllllllllmllllllllllllo: Command not found
+tish error: #-2
+embox>
+loo��gp
+loo��gp: Command not found
+tish error: #-2
+embox>
+Qg���������p[?5h[?5l7�7�6��`��cd���R
+Qg���������p7�7�6��`��cd���R: Command not found
+tish error: #-2
+embox>
+vSB�cd��cd�embox>
+vSB�cd��cd�embox>
+vSB�cd��cd��
+vS: Command not found
+tish error: #-2
+embox>
+�tPv[?5h[?5lr`
+�tPvr`: Command not found
+tish error: #-2
+embox>
+��a
+��a: Command not found
+tish error: #-2
+embox>
+@o
+tish error: #-22
+embox>
+ko���gR
+ko���gR: Command not found
+tish error: #-2
+embox>
+lvo��R
+lvo��R: Command not found
+tish error: #-2
+embox>
+loo
+���: Command not found
+tish error: #-2
+embox>
+kh��rR
+kh��rR: Command not found
+tish error: #-2
+embox>
+lort��������������lo{`poout䷷���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

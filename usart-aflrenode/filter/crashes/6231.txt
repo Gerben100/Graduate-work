@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+: Command not found
+tish error: #-2
+embox>
+�e
+e: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��"
+embox>pF��y�inembox>[K[6C808
+808: Command not found
+tish error: #-2
+embox>
+���iyeiJe�����iyne
+��iyeiJe��: Command not found
+tish error: #-2
+embox>
+��BiyeiKe�� ��ypine
+�BiyeiKe��: Command not found
+tish error: #-2
+embox>
+�Biye��BiyBiye��BiyeiKfembox>[K[19C���embox>[K[24C�inineine
+�BiyeiKe��: Command not found
+tish error: #-2
+embox>
+�}Peh embox>[K��BPembox>[KKembox>[K��embox>[K@e�pine
+�BiyeiKe��: Command not found
+tish error: #-2
+embox>
+�����������
+�����������: Command not found
+tish error: #-2
+embox>
+�}BiyeSKe��cdpin�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+}BiyeSKe��cdpin�ypi�e�: Command not found
+tish error: #-2
+embox>
+��B�yy_K
+�B: Command not found
+tish error: #-2
+embox>
+ �bi|ogoutnexp�rt7
+tish error: #-22
+embox>
+�;B)ye�O
+B)ye�O: Command not found
+tish error: #-2
+embox>
+�x�}it�rogot�nodot�x�itrogo
+embox>�nodotll
+�nodoll: Command not found
+tish error: #-2
+embox>oEo
+oEo: Command not found
+tish error: #-2
+embox>
+���gw��p
+Jdpoort: Command not found
+tish error: #-2
+embox>
+ologoutEo
+ologoutEo: Command not found
+tish error: #-2
+embox>
+6@@��@d@@@@@@?@@@@@@@@7@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

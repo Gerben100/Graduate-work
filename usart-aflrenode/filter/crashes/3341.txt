@@ -1,0 +1,140 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e'y���
+e'y: Command not found
+tish error: #-2
+embox>
+�yembox>e'y[K[9C[?5h[?5l�ye���
+e'y: Command not found
+tish error: #-2
+embox>
+eembox>e'y[K[9C�
+e'y: Command not found
+tish error: #-2
+embox>
+e�� 
+e��: Command not found
+tish error: #-2
+embox>
+����x�
+����x�: Command not found
+tish error: #-2
+embox>
+O^embox>
+O^[K[10Ckt
+tish error: #-22
+embox>
+
+embox>R�nembox>R�n[K[6Cembox>/R�n[K[7Cembox>/rR�n[K[8Cembox>/r�R�n[K[9Cembox>/r�R�n[K[10Cembox>/r�R�n[K[11C
+Unreconized command: /r�
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+�Q�nembox>
+�Q�n[K[6Cembox>
+�Q�n[K[7Cembox>
+�Q�n[K[8Cembox>�
+�Q�n[K[9Cembox>�t
+�Q�n[K[10Cembox>�tt
+�Q�n[K[11Cembox>�ttt
+�Q�n[K[12Cembox>�tttt
+�Q�n[K[13Cembox>�ttttt
+�Q�n[K[14C
+embox>
+(�exit�teixt
+(�exit�teixt: Command not found
+tish error: #-2
+embox>
+�Qrovr
+�Q: Command not found
+tish error: #-2
+embox>
+expoexport
+expoexport: Command not found
+tish error: #-2
+embox>
+logoutt
+logoutt: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�Qrt�n$
+�Q: Command not found
+tish error: #-2
+embox>
+�Q�n
+embox>
+�P�n
+@��pt: Command not found
+tish error: #-2
+embox>
+�Q�n�`tx�0�
+�Q�n�: Command not found
+tish error: #-2
+embox>
+�ŀk�I�tpikk t
+�ŀ: Command not found
+tish error: #-2
+embox>
+�Q�n
+embox>
+lwswwwwwww�����������ww|�w�
+embox>
+�
+embox>
+�Cxpo@t"u
+�Cxpo@t: Command not found
+tish error: #-2
+embox>
+Xix�m�t�cd�
+embox>�linse�b�x
+@��pt: Command not found
+tish error: #-2
+embox>
+ex
+ex: Command not found
+tish error: #-2
+embox>
+eju�x
+@��pt: Command not found
+tish error: #-2
+embox>
+eiZeeeeeeeeeeeeeeeeeeeeeeee�x
+@��pt: Command not found
+tish error: #-2
+embox>
+eixxx��xxxxxxxxxxxxxxxxx��r
+@��pt: Command not found
+tish error: #-2
+embox>
+Hix�[H[H[2Jx
+Hix�: Command not found
+tish error: #-2
+embox>
+eilxgoutx�x
+@��pt: Command not found
+tish error: #-2
+embox>
+�Ywwlse
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

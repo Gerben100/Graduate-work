@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@�@@@����66��@tQ@WQ@W?
+@�: Command not found
+tish error: #-2
+embox>
+� ��)YT
+�: Command not found
+tish error: #-2
+embox>
+@@��Q@WW^
+@@: Command not found
+tish error: #-2
+embox>
+@@���@@@embox>
+@@���@@[K[15C���6_s6��it�@tQ@W@@@embox>
+@@���@@���6_s6��it�@tQ@W@@@[K[6Cembox>
+@@���@@���6_s6��it�@tQ@W@@@[K[7Cembox>P
+@@���@@���6_s6��it�@tQ@W@@@[K[8Cembox>PP
+@@���@@���6_s6��it�@tQ@W@@@[K[9Cembox>PPP
+@@���@@���6_s6��it�@tQ@W@@@[K[10Cembox>PPPP
+@@���@@���6_s6��it�@tQ@W@@@[K[11Cembox>PPPPP
+@@���@@���6_s6��it�@tQ@W@@@[K[12Cembox>PPPPP@
+@@���@@���6_s6��it�@tQ@W@@@[K[13Cembox>PPPPP@@
+@@���@@���6_s6��it�@tQ@W@@@[K[14Cembox>PPPPP@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@@@@@
+@@���@@���6_s6��it�@tQ@W@@@[Kembox>PPPPP@@@@@@@@?
+@@���@@���6_s6��it�@tQ@W@@@[K
+embox>
+@@���@@@������@tmYW?
+@@: Command not found
+tish error: #-2
+embox>
+@���d
+@: Command not found
+tish error: #-2
+embox>
+@�d
+@: Command not found
+tish error: #-2
+embox>
+@ddddddddd
+@ddddddddd: Command not found
+tish error: #-2
+embox>
+@�d
+@: Command not found
+tish error: #-2
+embox>
+@��������d
+@�: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[8C����embox>
+@�[K[9C[?5h[?5l�cd
+@�[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+@
+embox>[?5h[?5l�d
+embox>
+@@embox>
+@@[K[6Cembox>
+@@[K[7Cembox>�
+@@[K[8Cembox>�d
+@@[K[9C
+embox>
+@embox>
+@[K[9Cembox>
+@�[K[10Cembox>
+@�[K[11Cembox>
+@�[K[12Cembox>
+@�[K[13Cembox>
+@�[K[12Cembox>
+@��[K[13Cembox>
+@��[K[14Cembox>
+@��[K[15Cembox>
+@��[K[16Cembox>
+@��{[K[17Cembox>
+@��{d
+@: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@embox>
+@��d
+@: Command not found
+tish error: #-2
+embox>
+@@���@@@@]@@@@@%@@@@@@?5d(xeN��(xemembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@@: Command not found
+tish error: #-2
+embox>��@@@@@@�A@?�@@cd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

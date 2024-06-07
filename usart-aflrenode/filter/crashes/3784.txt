@@ -1,0 +1,141 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@Q
+embox>
+(
+(: Command not found
+tish error: #-2
+embox>
+;�3
+;�3: Command not found
+tish error: #-2
+embox>
+
+embox>�3
+�3: Command not found
+tish error: #-2
+embox>
+3
+3: Command not found
+tish error: #-2
+embox>
+(
+embox>exoooo�ooooooooopor�
+exoooo�: Command not found
+tish error: #-2
+embox>
+(embox>[K[6C�ύ3
+�ύ3: Command not found
+tish error: #-2
+embox>
+embox>[K[6C2�
+embox>
+embox>
+embox>
+embox>�t
+embox>3
+3: Command not found
+tish error: #-2
+embox>
+(
+embox>d{3c{3
+embox>
+embox>[K[6C
+embox>
+(
+embox>�%iembox>3[K[7Cg!tembox>3g![K[9Cembox>3g![K[6Cembox>c3g![K[7Cembox>cd3g![K[8Cembox>cdg3g![K[9Cembox>cdgo3g![K[10Cembox>cdgou3g![K[11Cembox>cdgou3g![K[12Cembox>cdgouO3g![K[13Cembox>cdgouOy3g![K[14Cembox>cdgouOyi3g![Kembox>cdgouOyi3g![Kembox>cdgouOyli3g![Kembox>cdgouOylxi3g![K[16Cembox>cdgouOylxMi3g![K[17Cembox>cdgouOylxMxi3g![K[18C
+cdgou: Command not found
+tish error: #-2
+embox>
+
+embox>�%embox>cdgou[K[11Cg�tembox>cdgoug�[K[13Cembox>cdgoug�[K[6Cembox>ccdgoug�[K[7Cembox>cdcdgoug�[K[8Cembox>cdgcdgoug�[K[9Cembox>cdggcdgoug�[K[10Cembox>cdggNcdgoug�[K[11Cembox>cdggNxcdgoug�[K[12C
+cdggNxcdgoug�: Command not found
+tish error: #-2
+embox>
+(
+embox>(
+embox>�%i g!
+embox>(
+embox>�%i g!tembox>�%i g!embox>�%i g!embox>c�%i g!embox>cd�%i g!embox>cd\�%i g!embox>cd\o�%i g!embox>cd\ow�%i g!embox>cd\ow�%i g!embox>cd\owe�%i g!embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+cd\ow: Command not found
+tish error: #-2
+embox>
+(h�lgembox>
+(h�lNNembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+(h�lN�: Command not found
+tish error: #-2
+embox>
+(
+embox>�%ig!t��embox>cd\owembox>[Kembox>cdgouembox>3[KNxi
+;�3NxlgNxi: Command not found
+tish error: #-2
+embox>
+(
+embox>cdNg!t
+cdgou: Command not found
+tish error: #-2
+embox>
+
+embox>
+(
+embox>�%ig!t
+cdcd: Command not found
+tish error: #-2
+embox>
+cd�%iI
+embox>�cdgouNxI
+cdgou: Command not found
+tish error: #-2
+embox>
+(�%gOuNxi
+gOu: Command not found
+tish error: #-2
+embox>
+(
+embox>Nxi
+cdgou: Command not found
+tish error: #-2
+embox>
+(
+embox>�%ig!t
+cd: Command not found
+tish error: #-2
+embox>
+�
+embox>�@(XeN6@@d�I5d6@@d(Xe@@?x
+�@: Command not found
+tish error: #-2
+embox>
+(
+embox>�%(
+eN�I5: Command not found
+tish error: #-2
+embox>
+C?mI5Z��eN�eNd6@@�6@(xI5@
+C?mI5: Command not found
+tish error: #-2
+embox>
+(
+embox>�%(xeN�I5d6@@��-@@@@@@@@Ixp@�@@@@?@?@
+�%: Command not found
+tish error: #-2
+embox>
+(
+embox>��������������@?@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

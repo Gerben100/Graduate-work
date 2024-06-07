@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e@de�p
+e@de�p: Command not found
+tish error: #-2
+embox>
+e#dexembox>e@de�p[K[12C
+e@de�p: Command not found
+tish error: #-2
+embox>
+e����������������������poembox>e@de�p[K[12C
+embox>
+embox>!
+embox>po
+po: Command not found
+tish error: #-2
+embox>
+lo���
+lo: Command not found
+tish error: #-2
+embox>
+p\
+p\: Command not found
+tish error: #-2
+embox>
+dexlsp�dexp
+dexlsp�: Command not found
+tish error: #-2
+embox>
+ˈ
+ˈ: Command not found
+tish error: #-2
+embox>
+�pint
+�pint: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���xpo
+���xpo: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kembox>
+[Kembox>
+[Kembox>[K[11Cembox>
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13C
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kembox>
+[Kembox>w
+[Kembox>wp
+[Kembox>wp
+[Kembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+embox>
+mm��iei~x���d��eNxpwembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10C
+embox>
+en��eNxpw�dSembox>[K[20Cembox>[K[19Cembox>[K[18Coembox>[K[18Co�`@embox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39C
+e: Command not found
+tish error: #-2
+embox>
+emembox>[K[6C�@@@$embox>�@@@$embox>�@@@$�w embox>
+e$
+embox>c?exp@
+c?expcd�: Command not found
+tish error: #-2
+embox>
+em@@c?exv@
+@: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+��ce���
+@@@c?: Command not found
+tish error: #-2
+embox>�{@ct�logooooooooooout�ENxpor
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

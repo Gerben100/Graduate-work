@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>#�embox>#�[K[6Cembox>l#�[K[7Cembox>ld#�[K[8Cembox>lde#�[K[9Cembox>ldek#�[K[10Cembox>ldekt#�[K[11Cembox>ldekto#�[K[12Cembox>ldektot#�[K[13Cembox>ldektotc#�[K[14Cembox>ldektotcd#�[K[15Cembox>ldektotcdo#�[K[16Cembox>ldektotcdou#�[K[17Cembox>ldektotcdout#�[K[18Cembox>ldektotcdout�#�[K[19C
+ldektotcdout�#�: Command not found
+tish error: #-2
+embox>
+pembox>ldektotcdout�#�[K[21C��
+ldektotcdout�#���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ppembox>
+p[K[8Cl�
+pl�: Command not found
+tish error: #-2
+embox>
+lȶȶ
+lȶȶ: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�
+�: Command not found
+tish error: #-2
+embox>
+>=>>ecto >embox>[K[19C
+>=>>ecto: Command not found
+tish error: #-2
+embox>
+lr
+tish error: #-22
+embox>
+pdlȇ
+pdlȇ: Command not found
+tish error: #-2
+embox>
+ppin
+embox>
+~p������@x
+~: Command not found
+tish error: #-2
+embox>
+p�wi��x
+pdlȇx: Command not found
+tish error: #-2
+embox>
+�㺺������
+embox>躺����������������p%���������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�zl�gl�j >embox>�zl�gl�j [K[15Clr�o5������Ȁembox>�zl�gl�j lr�o5������Ȁ[K[6Cembox>e�zl�gl�j lr�o5������Ȁ[K[7Cembox>ex�zl�gl�j lr�o5������Ȁ[K[8Cembox>exp�zl�gl�j lr�o5������Ȁ[K[9Cembox>expo�zl�gl�j lr�o5������Ȁ[K[10Cembox>expor�zl�gl�j lr�o5������Ȁ[K[11Cembox>export�zl�gl�j lr�o5������Ȁ[K[12Cembox>exportl�zl�gl�j lr�o5������Ȁ[K[13Cembox>exportl}�zl�gl�j lr�o5������Ȁ[K[14Cembox>exportl}�zl�gl�j lr�o5������Ȁ[K[15Cembox>exportl}e�zl�gl�j lr�o5������Ȁ[K[16Cembox>exportl}ev�zl�gl�j lr�o5������Ȁ[K[17Cembox>exportl}evp�zl�gl�j lr�o5������Ȁ[K[18Cembox>exportl}evp��zl�gl�j lr�o5������Ȁ[K[19C
+exportl}: Command not found
+tish error: #-2
+embox>
+t�n������������d�������
+t�n�������: Command not found
+tish error: #-2
+embox>�����o
+�����o: Command not found
+tish error: #-2
+embox>
+1y��
+1y�: Command not found
+tish error: #-2
+embox>
+l]4lt4*
+l]4lt4*: Command not found
+tish error: #-2
+embox>
+@<
+@<: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+*
+*: Command not found
+tish error: #-2
+embox>
+ldembox>
+*[K[8C����65R@embox>
+*����65R@[K[16C��K@@embox>
+*����65R@��K@@[K[21Cembox>
+*����65R@��K@@[K[22Cembox>
+*����65R@��K@@[Kembox>
+*����65R@��K@@@[Kembox>
+*����65R@��K@@@@[Kembox>
+*����65R@��K@@@@@[Kembox>
+*����65R@��K@@@@@eembox>
+*����65R@��K@@@@@e6embox>
+*����65R@��K@@@@@e6>embox>
+*����65R@��K@@@@@e6>6embox>
+*����65R@��K@@@@@e6>6Rembox>
+*����65R@��K@@@@@e6>6R@embox>
+*����65R@��K@@@@@e6>6R@embox>
+*����65R@��K@@@@@e6>6R@uembox>
+*����65R@��K@@@@@e6>6R@u�embox>
+*����65R@��K@@@@@e6>6R@u��embox>
+*����65R@��K@@@@@e6>6R@u��Kembox>
+*����65R@��K@@@@@e6>6R@u��K@embox>
+*����65R@��K@@@@@e6>6R@u��K@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@�embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?@embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?@@embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?@@>embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?@@>�embox>
+*����65R@��K@@@@@e6>6R@u��K@@�@@?@@>�@
+*����65R@��K@@: Command not found
+tish error: #-2
+embox>@;@@@@@\@@eexit@K@@@@@@@@@@@@@@\@
+@;@@@@@\@@eexit@K@@@@@@@@@@@@@@\@: Command not found
+tish error: #-2
+embox>
+ldembox>[K[21C�y�665R@embox>[K[29C��
+embox>�@@@@@@@@@@@@@@@�@@;@@@@@\@@e@@�@
+�@: Command not found
+tish error: #-2
+embox>@;@@@@@\@@eexit@K@@@@@@>@@@@'@@@\@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

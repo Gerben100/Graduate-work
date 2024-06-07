@@ -1,0 +1,128 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pippp
+embox>embox>[K[6C
+embox> �p
+embox>
+�t�� ~�p
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[9C
+tish error: #-22
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�tembox>
+�t[K[11C
+embox>embox>[K[6C
+embox>��embox>�[K[8C�
+embox>
+<
+<: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�port�����
+�port�����: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�7l���������������xli[?5h[?5li�embox>
+�7l���������������xlii�embox>
+�7l���������������xliiy�embox>
+�7l���������������xliiye�embox>
+�7l���������������xliiye��embox>
+�7l���������������xliiye�z�embox>
+�7l���������������xliiye�z�
+�7l��������������: Command not found
+tish error: #-2
+embox>
+�y[?5h[?5lexport�����������y[?5h[?5lexport�������������l�
+�: Command not found
+tish error: #-2
+embox>xli[?5h[?5li��l�xli[?5h[?5li�embox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25C
+xlii��l: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+embox>�
+embox>��
+embox>���
+embox>����
+embox>�����
+embox>������
+embox>������z
+embox>������z
+embox>������z
+embox>������z
+embox>������z
+embox>[?5h[?5l������z
+embox>[?5h[?5l�������z
+embox>[?5h[?5l��������z
+embox>[?5h[?5l���������z
+embox>[?5h[?5l����������z
+embox>[?5h[?5l�����������z
+embox>[?5h[?5l������������z
+embox>[?5h[?5l�������������z
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>������z
+������z: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�y[?5h[?5l�������������l��i�ye�ze�z
+�: Command not found
+tish error: #-2
+embox>
+�lsy[?5h[?5l������������R|
+embox>�cd[?5h[?5l
+�cdy�: Command not found
+tish error: #-2
+embox>
+������[?5h[?5li�[?5h[?5l[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>ort�����[?5h[?5li�
+�: Command not found
+tish error: #-2
+embox>
+b�[?5h[?5l
+b�: Command not found
+tish error: #-2
+embox>
+�piny���pin�������[?5h[?5li�[?5h[?5l
+�pin: Command not found
+tish error: #-2
+embox>
+log�ut����exit���[?5h[?5l����������}l�xli[?5h[?5li�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

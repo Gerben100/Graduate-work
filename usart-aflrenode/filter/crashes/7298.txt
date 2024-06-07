@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>�embox>[K[6CIcTembox>Ic[K[8C�
+embox>�embox>[K[6C��embox>�[K[7C�IcdpIcdpp
+��IcdpIcdpp: Command not found
+tish error: #-2
+embox>
+�
+embox>��embox>�[K[9Clsz�Ic p
+embox>
+�
+embox>��embox>�[K[9Cl**********************sz�I��embox>�l**********************sz�I�[K[40Clsz�Icdpc
+embox>dp
+dp: Command not found
+tish error: #-2
+embox>
+�
+embox>C�/�tZޕ�d
+C�/�tZ: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�embox>
+[K[7Cembox>[K[6C
+embox>
+����export(i�
+����export: Command not found
+tish error: #-2
+embox>
+s�
+tish error: #-22
+embox>
+
+embox>#expo�t�a�embox>#expo�t�a�[K[17C
+#expo�t�a�: Command not found
+tish error: #-2
+embox>
+5eembox>
+5e[K[6Cembox>@
+5e[K[7Cembox>@e
+5e[K[8Cembox>@ep
+5e[K[9Cembox>@epi
+5e[K[10Cembox>@epin
+5e[K[11Cembox>@epinr
+5e[K[12Cembox>@epinrt
+5e[K[13Cembox>@epinrt�
+5e[K
+@epinrt�: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>��<Z[H[H[2Jembox>��<Z[K[12Cembox>��<Z[K[11C
+��<Z: Command not found
+tish error: #-2
+embox>
+
+embox>q�embox>q�[K[11C
+q�: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>�
+embox>
+embox>��ZZ�ZZk
+��ZZ�ZZ: Command not found
+tish error: #-2
+embox>
+�
+embox>"rZ�embox>"rZ
+"rZ: Command not found
+tish error: #-2
+embox>
+�
+embox>!
+embox>��fZ
+��fZ: Command not found
+tish error: #-2
+embox>
+�
+embox>?
+embox>e�ZZ
+e�ZZ: Command not found
+tish error: #-2
+embox>
+
+embox>����
+embox>
+embox>
+�
+embox>!��ZZ�
+!: Command not found
+tish error: #-2
+embox>
+�
+embox>��ZZ�
+embox>��ZZ���
+��ZZ: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>��=Z��
+��=Z�: Command not found
+tish error: #-2
+embox>
+�����������yX�ye�x���������������������
+"rZ: Command not found
+tish error: #-2
+embox>�������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

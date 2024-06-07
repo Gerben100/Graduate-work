@@ -1,0 +1,70 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>KKK��
+KKK��: Command not found
+tish error: #-2
+embox>
+ Rin@�
+Rin@: Command not found
+tish error: #-2
+embox>
+ pe�itKo2�
+pe�itKo2�: Command not found
+tish error: #-2
+embox>
+�pin�Ko2�
+�pin�Ko2�: Command not found
+tish error: #-2
+embox>
+ s
+s: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Co�
+o�: Command not found
+tish error: #-2
+embox>
+1embox>
+o�[K[10C� embox>
+o�� [K[13Co�
+o��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[9C�exporeembox>
+��expore[Kembox>
+��expor�e[K
+�: Command not found
+tish error: #-2
+embox>
+�ejpd
+�ejp: Command not found
+tish error: #-2
+embox>
+�� exporto{
+��: Command not found
+tish error: #-2
+embox>
+��� @
+���: Command not found
+tish error: #-2
+embox>
+� G�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

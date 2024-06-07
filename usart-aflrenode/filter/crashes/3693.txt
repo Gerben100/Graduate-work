@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+^D
+^D: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+E�embox>[K[6C�logb_�exi@pi}@@@@@@@hb@@@@@@@@t
+�logb_�exi@pi}@@@@@@@h: Command not found
+tish error: #-2
+embox>
+^&embox>�logb_�exi@pi}@@@@@@@h�
+�logb_�exi@pi}@@@@@@@h�: Command not found
+tish error: #-2
+embox>
+^B�
+^B�: Command not found
+tish error: #-2
+embox>
+�exit
+�exit: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C[?5h[?5lFembox>F[K[9Cembox>F[K[10Cembox>F�[K[11Cembox>F�e[K[12Cembox>F�ex[K[13Cembox>F�e[K[12Cembox>F�[K[11Cembox>F�x[K[12Cembox>F�x%[K[13Cembox>F�x%7[K[14Cembox>F�x%[K[13Cembox>F�x[K[12Cembox>F�[K[11Cembox>F�[K[12Cembox>F�[K[11Cembox>F[K[10Cembox>F[K[9Cembox>F[K[8Cembox>F[K[9Cembox>F�[K[10Cembox>F�[K[6Cembox>�F�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+^Eiembox>
+^Ei[K[6Cembox>e
+^Ei[K[7Cembox>ee
+^Ei[K[8Cembox>eeM
+^Ei[K[9Cembox>eeM�
+^Ei[K[10Cembox>eeM��
+^Ei[K[11Cembox>eeM��e
+^Ei[K[12Cembox>eeM��eM
+^Ei[K[13Cembox>eeM��eM�
+^Ei[Kembox>eeM��eM�
+^Ei[Kembox>eeM��eM�
+^Ei[Kembox>eeM��eM��
+^Ei[Kembox>eeM��eM���
+^Ei[Kembox>eeM��eM����
+^Ei[Kembox>eeM��eM�����
+^Ei[K
+eeM: Command not found
+tish error: #-2
+embox>
+embox>
+^EeM����iembox>
+^EeM����i[K[6Cembox>e
+^EeM����i[K[7Cembox>ee
+^EeM����i[Kembox>eeM
+^EeM����i[Kembox>eeM�
+^EeM����i[Kembox>eeM��
+^EeM����i[Kembox>eeM���
+^EeM����i[Kembox>eeM����
+^EeM����iembox>eeM�����
+^EeM����iembox>eeM������
+^EeM����iembox>eeM�������
+^EeM����iembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25C
+eeM�������: Command not found
+tish error: #-2
+embox>
+^i
+eeM: Command not found
+tish error: #-2
+embox>������pin�����
+������: Command not found
+tish error: #-2
+embox>
+^Ei�����
+������: Command not found
+tish error: #-2
+embox>
+^Ei
+eeM: Command not found
+tish error: #-2
+embox>����������
+�����: Command not found
+tish error: #-2
+embox>
+^Ei
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

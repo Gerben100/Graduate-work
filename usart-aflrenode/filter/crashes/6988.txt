@@ -1,0 +1,76 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��i
+��: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+x{zx{zl
+x{zx{zl: Command not found
+tish error: #-2
+embox>
+x|embox>
+x{zx{zl[K[14C�zl �o
+x{zx{zl�zl: Command not found
+tish error: #-2
+embox>
+embox>
+x{zx{zl�zl �o[K[21Ccembox>
+x{zx{zl�zl �o[K[22Ccembox>
+x{zx{zl�zl �o[K[23Cotot
+x{zx{zl�zl: Command not found
+tish error: #-2
+embox>
+zoo�
+zoo�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�embox>
+zoo�[K[11C
+zoo�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�dxpembox>�dxp[K[6Cembox>��dxp[K[7Cembox>�v�dxp[K[8Cembox>�vx�dxp[K[9Cembox>�vxi�dxp[K[10Cembox>�vxiW�dxp[K[11Cembox>�vxiW/�dxp[K[12Cembox>�vxiW/��dxp[K[13Cembox>�vxiW/�x�dxp[Kembox>�vxiW/�x�dxp[Kembox>�vxiW/�x�dxp[K[16Cembox>�vxiW/�xQ�dxp[K[17Cembox>�vxiW/�xQ@�dxp[K[18Cembox>�vxiW/�xQ@�dxp[K[19Cembox>�vxiW/�xQ@�dxp[Kembox>
+zoo�[K[11C@\-----------embox>
+zoo�@\----------[K[23Cembox>
+x{zx{zl�zl �o[K[21C��/�xQC
+x{zx{zl�zl: Command not found
+tish error: #-2
+embox>
+embox>d�\--------------o�o
+d�: Command not found
+tish error: #-2
+embox>
+H@
+H@: Command not found
+tish error: #-2
+embox>
+x{embox>
+H@x{{embox>d��zl
+d��zl: Command not found
+tish error: #-2
+embox>
+xit������������embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

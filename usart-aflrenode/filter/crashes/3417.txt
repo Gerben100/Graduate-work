@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>mH�����������������
+mH�����������������: Command not found
+tish error: #-2
+embox>
+ehhhhhhhhhhhhhhhhhhhhhhhhhhhhhx
+e: Command not found
+tish error: #-2
+embox>
+��f�
+��: Command not found
+tish error: #-2
+embox>
+i��embox>
+i�[K[9Cembox>
+i�[K[6Cembox>!
+i�[K[7C[H[H[2Jembox>!
+i�[K[7Cembox>!�
+i�[K[8Cembox>!�x
+i�[K[9Cembox>!�x
+i�[K[10C
+!�x: Command not found
+tish error: #-2
+embox>
+m�C �pinxembox>
+m�C �pin[K[18Cembox>!�x[K[9C�eembox>!�x�[K[10C-
+!�x�-: Command not found
+tish error: #-2
+embox>
+logoutcOls
+logoutcOls: Command not found
+tish error: #-2
+embox>
+m�C embox>
+m�C [K[13C�pinxembox>
+m�C �pin[K[18Cembox>
+logoutcOls[K[17Cecdtembox>!�x�-[K[11C
+!�x�-: Command not found
+tish error: #-2
+embox>
+m�C embox>
+m�C [K[13C�pinyembox>
+m�C �pin[K[19Cembox>!�x�-[K[11C�embox>
+logoutcOls[K[17C
+logoutcOls: Command not found
+tish error: #-2
+embox>
+m�C embox>[K[13C�p��x@e���������embox>[K[31Cembox>[K[17C
+logoutcOls: Command not found
+tish error: #-2
+embox>
+embox>[K[17Ccdeembox>[K[20Cembox>!�x�-
+!�x�-: Command not found
+tish error: #-2
+embox>
+mxp logout�
+m: Command not found
+tish error: #-2
+embox>
+mvCBd
+m: Command not found
+tish error: #-2
+embox>
+mcdmm
+embox>�d
+�d: Command not found
+tish error: #-2
+embox>
+ddpi
+ddpi: Command not found
+tish error: #-2
+embox>
+l�"Bdd�CBhdw
+!�x�-: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>exit�we�ycnLpid
+exit�we�ycnLpid: Command not found
+tish error: #-2
+embox>
+�dC
+�: Command not found
+tish error: #-2
+embox>
+m c��f
+!�x�-�CBhd: Command not found
+tish error: #-2
+embox>
+9�CBdd
+9: Command not found
+tish error: #-2
+embox>
+mE����d
+mE�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+m|CBddd
+m: Command not found
+tish error: #-2
+embox>
+m�CBmBddddd
+logoutcOlscdwd: Command not found
+tish error: #-2
+embox>
+exit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

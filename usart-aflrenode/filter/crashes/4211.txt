@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[7Cembox>[K[8Cembox>[K[7Cembox>f[K[8Cembox>[K[6C
+embox>
+6/@#E embox>[K[6C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[6Cembox>
+[K[6Cembox>
+[K[7Cembox>
+�[K[8C��embox>
+���[K[6Cembox>�
+���[K[7Cembox>
+���[K[6Cembox>`
+���[K[7Cembox>`o
+���[K[8Cembox>`oi
+���[K[9Cembox>`oic
+���[K[10Cembox>`oicd
+���[K[11Cembox>`oicdl
+���[K[12Cembox>`oicdlo
+���[K[13Cembox>`oicdlo|
+���[K[14Cembox>`oicdlo|o
+���[K[15Cembox>`oicdlo|ol
+���[K[16Cembox>`oicdlo|ols
+���[K[17Cembox>`oicdlo|ols
+���[K[18Cembox>`oicdlo|ols
+���[K[19C
+`oicdlo|ols: Command not found
+tish error: #-2
+embox>
+e�x�T���embox>
+e�x�T��[K[16Cembox>
+e�x�T��[K[6Cembox>e
+e�x�T��[K[7Cembox>e�
+e�x�T��[K[8Cembox>e�l
+e�x�T��[K[9Cembox>e�le
+e�x�T��[K[10Cembox>e�lex
+e�x�T��[K[11Cembox>e�lexi
+e�x�T��[K[12Cembox>e�lexit
+e�x�T��[K[13Cembox>e�lexito
+e�x�T��[K[14Cembox>e�lexito�
+e�x�T��[K[15Cembox>e�lexito�o
+e�x�T��[K[16Cembox>e�lexito�ol
+e�x�T��[K[17Cembox>e�lexito�ols
+e�x�T��[K[18Cembox>e�lexito�ols
+e�x�T��[K[19Cembox>e�lexito�ols�
+e�x�T��[K[20C
+e�lexito�ols�: Command not found
+tish error: #-2
+embox>
+����exitembox>e�lexito�ols�
+e�x�T��[K[30C���[?5h[?5l�������
+e�lexito�ols�: Command not found
+tish error: #-2
+embox>
+��~�d
+��~�d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�xembox>
+[K[7C
+tish error: #-22
+embox>
+��embox>
+�[K[9Cembox>
+�[K[6Cembox>e
+�[K[7Cembox>e�
+�[K[8Cembox>e�Z
+�[K[9Cembox>e�Zp
+�[K[10Cembox>e�Zp�
+�[K[11Cembox>e�Zp�
+�[K[12Cembox>e�Zp�
+�[K[13Cembox>e�Zp��
+�[K[14Cembox>e�Zp��
+�[K[15Cembox>e�Zp��
+�[K[16C
+e�Zp�: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9Cembox>
+��[K[6Cembox>e
+��[K[7Cembox>e�
+��[K[8Cembox>e�l
+��[K[9Cembox>e�l�
+��[K[10Cembox>e�l�
+��[K[11Cembox>e�l�
+��[K[12Cembox>e�l�
+��[K[13Cembox>e�l��
+��[K[14Cembox>e�l���
+��[K[15Cembox>e�l����
+��[K[16Cembox>e�l����B
+��[K[17Cembox>e�l����BS
+��[K[18Cembox>e�l����BSB
+��[K[19Cembox>e�l����BSBr
+��[K[20Cembox>e�l����BSBrc
+��embox>e�l����BSBrcB
+��embox>e�l����BSBrcBr
+��embox>e�l����BSBrcBrc
+��embox>e�l����BSBrcBrcd
+��embox>e�l����BSBrcBrcd�
+��embox>e�l����BSBrcBrcd
+��embox>e�l����BSBrcBrcd
+��embox>ee�l����BSBrcBrcd
+��embox>e�e�l����BSBrcBrcd
+��embox>e�le�l����BSBrcBrcd
+��embox>e�loe�l����BSBrcBrcd
+��embox>e�lo|e�l����BSBrcBrcd
+��embox>e�lo|�e�l����BSBrcBrcd
+��embox>e�lo|�le�l����BSBrcBrcd
+��embox>e�lo|�l�e�l����BSBrcBrcd
+��embox>e�lo|�l�e�l����BSBrcBrcd
+��embox>e�lo|�l�e�l����BSBrcBrcd
+��embox>e�lo|�l�e�l����BSBrcBrcd
+��embox>e�lo|�l��e�l����BSBrcBrcd
+��embox>e�lo|�l���e�l����BSBrcBrcd
+��embox>e�lo|�l����e�l����BSBrcBrcd
+��embox>e�lo|�l����Be�l����BSBrcBrcd
+��embox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29C
+e�lo|�l�: Command not found
+tish error: #-2
+embox>�embox>[Ke�lo|ls �ls �o��embox>[K[24Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32C
+e�lo|lsY�o�: Command not found
+tish error: #-2
+embox>�_embox>�[K[7C�embox>�[K[7Cembox>�[K[6Cembox>e�embox>e��embox>e��embox>e��
+e�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+jlo�c�
+jlo: Command not found
+tish error: #-2
+embox>
+��|n
+d: Command not found
+tish error: #-2
+embox>
+��exitlo|ol
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

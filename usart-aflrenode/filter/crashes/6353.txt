@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lsembox>ls[K[6Cembox>ls[K[7Cembox>ls[K[6Cembox>ls[K[7Cembox>ls[K[6Cembox>�ls[K[7Cembox>��ls[K[8Cembox>���ls[K[9Cembox>����ls[K[10Cembox>�����ls[K[11Cembox>������ls[K[12Cembox>������?ls[K[13Cembox>������?�ls[K[14Cembox>������?�?ls[K[15Cembox>������?�?�ls[K[16Cembox>������?�?��ls[K[17C
+������?�?��ls: Command not found
+tish error: #-2
+embox>
+��������
+��������: Command not found
+tish error: #-2
+embox>
+ls[?5h[?5l%��[?5h[?5l%�v�Vlxlxlogoutne=logout(v�xpoi
+ls%��%�: Command not found
+tish error: #-2
+embox>
+ �Eoembox>
+ls%��%�[K[14C��[embox>
+ls%��%���[[K[6Cembox>|
+ls%��%���[[K[7Cembox>
+��������[K[15C@@@tt@@exiu .Fc�@@@@t~t�utttttttttt@
+��������: Command not found
+tish error: #-2
+embox>W
+W: Command not found
+tish error: #-2
+embox>
+sembox>
+shadow[K[13C%l�goutH\@@��embox>W[K[7Cembox>[K[6C�ut@H\@��
+�ut@H\@��: Command not found
+tish error: #-2
+embox>
+ls[?5h[?5l%%�lVpor
+ls%%: Command not found
+tish error: #-2
+embox>
+
+embox>�pccpxpcc�pembox>�pccpxpcc�p[K[6Cembox>x�pccpxpcc�p[K[7Cembox>xp�pccpxpcc�p[K[8Cembox>xpN�pccpxpcc�p[K[9Cembox>xpNp�pccpxpcc�p[K[10Cembox>xpNpp�pccpxpcc�p[K[11Cembox>xpNppp�pccpxpcc�pembox>xpNpppp�pccpxpcc�pembox>xpNppppv�pccpxpcc�pembox>xpNppppvp�pccpxpcc�pembox>xpNppppvpR�pccpxpcc�pembox>xpNppppvpRR�pccpxpcc�pembox>xpNppppvpRRR�pccpxpcc�pembox>xpNppppvpRRRt�pccpxpcc�p
+xpNppppvpRRRt�pcc: Command not found
+tish error: #-2
+embox>
+ss[?5h[?5l%%�lVlxportdllexpor
+ss%%: Command not found
+tish error: #-2
+embox>
+ls[?5h[?5l%%�lllexporlllexpor
+ls%%: Command not found
+tish error: #-2
+embox>
+�s[?5h[?5l%%�it��[?5h[?5lzpor
+�s%%: Command not found
+tish error: #-2
+embox>
+�s
+�s%%: Command not found
+tish error: #-2
+embox>
+r
+r: Command not found
+tish error: #-2
+embox>
+ls%%@1�lVlxportllYexpor
+l%%@: Command not found
+tish error: #-2
+embox>
+lsr
+lsr: Command not found
+tish error: #-2
+embox>
+��������xyixxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+��������: Command not found
+tish error: #-2
+embox>xxxxxxxxxxxxxxxxx�i����������xxxxxxxxxxxxxxxxxxxxx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

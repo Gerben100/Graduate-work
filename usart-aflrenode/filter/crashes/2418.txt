@@ -1,0 +1,138 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�YiteN��(xemembox>�YiteN��(xem[K[17Cembox>�YiteN��(xe m[K[18Cembox>�YiteN��(xe m[K[19Cembox>�YiteN��(xe Im[K[20Cembox>�YiteN��(xe I5m[K[21Cembox>�YiteN��(xe I56m[K[22Cembox>�YiteN��(xe I56>m[K[23Cembox>�YiteN��(xe I56>6m[K[24Cembox>�YiteN��(xe I56>6Em[K[25Cembox>�YiteN��(xe I56>6E?m[K[26Cembox>�YiteN��(xe I56>6E?m[K[27Cembox>�YiteN��(xe I56>6E?m[K[28Cembox>�YiteN��(xe I56>6E?�m[K[29Cembox>�YiteN��(xe I56>6E?�em[K[30Cembox>�YiteN��(xe I56>6E?�e@m[K[31Cembox>�YiteN��(xe I56>6E?�e@@m[K[32Cembox>�YiteN��(xe I56>6E?�e@@@m[K[33Cembox>�YiteN��(xe I56>6E?�e@@@@m[K[34Cembox>�YiteN��(xe I56>6E?�e@@@@@m[K[35Cembox>�YiteN��(xe I56>6E?�e@@@@@@m[K[36Cembox>�YiteN��(xe I56>6E?�e@@@@@@@m[K[37Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@m[K[38Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@m[K[39Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@m[K[40Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@m[K[41Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@?m[K[42Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@m[K[41Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@am[K[42Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\m[K[43Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@m[K[44Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@@m[K[45Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@@em[K[46Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@@exm[K[47Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@@expm[K[48Cembox>�YiteN��(xe I56>6E?�e@@@@@@@@@@a\@@exp@m[K[49C
+�YiteN��(xe: Command not found
+tish error: #-2
+embox>�@Bembox>�@B[K[6Cembox>@�@B[K[7Cembox>@?�@B[K[8Cembox>@?@�@B[K[9Cembox>@?@@�@B[K[10Cembox>@?@@@�@B[K[11C
+@?@@@�@B: Command not found
+tish error: #-2
+embox>
+�teN��(xembox>
+�teN��(x[K[6Cembox>�
+�teN��(x[K[7Cembox>�6
+�teN��(x[K[8Cembox>�6I
+�teN��(x[K[9Cembox>�6I5
+�teN��(x[K[10Cembox>�6I56
+�teN��(x[K[11Cembox>�6I56>
+�teN��(x[K[12Cembox>�6I56>6
+�teN��(x[K[13Cembox>�6I56>6E
+�teN��(x[K[14Cembox>�6I56>6E�
+�teN��(x[K[15Cembox>�6I56>6E�e
+�teN��(x[K[16Cembox>�6I56>6E�e@
+�teN��(x[K[17Cembox>�6I56>6E�e@
+�teN��(x[K[18Cembox>�6I56>6E�e@
+�teN��(x[K[19Cembox>�6I56>6E�e@�
+�teN��(x[K[20Cembox>�6I56>6E�e@�e
+�teN��(x[K[21Cembox>�6I56>6E�e@�e[
+�teN��(x[K[22Cembox>�6I56>6E�e@�e[@
+�teN��(x[K[23Cembox>�6I56>6E�e@�e[@@
+�teN��(x[K[24Cembox>�6I56>6E�e@�e[@@@
+�teN��(x[K[25Cembox>�6I56>6E�e@�e[@@@Z
+�teN��(x[K[26Cembox>�6I56>6E�e@�e[@@@Z`
+�teN��(x[K[27Cembox>�6I56>6E�e@�e[@@@Z`@
+�teN��(x[K[28Cembox>�6I56>6E�e@�e[@@@Z`@@
+�teN��(x[K[29Cembox>�6I56>6E�e@�e[@@@Z`@@@
+�teN��(x[K[30Cembox>�6I56>6E�e@�e[@@@Z`@@@
+�teN��(x[K[31Cembox>�6I56>6E�e@�e[@@@Z`@@@@
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@?
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@a
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@a\
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@a\@
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@a\@@
+�teN��(x[Kembox>�6I56>6E�e@�e[@@@Z`@@@@a\@@e
+�teN��(x[K
+�6I56>6E�e@: Command not found
+tish error: #-2
+embox>xp@�@Bembox>xp@�@B[K[6Cembox>@xp@�@B[K[7Cembox>@?xp@�@B[K[8Cembox>@?@xp@�@B[K[9Cembox>@?@@xp@�@B[K[10Cembox>@?@@@xp@�@B[K[11C
+@?@@@xp@�@B: Command not found
+tish error: #-2
+embox>
+@Yi@@(VeN��(xe|embox>
+@Yi@@(VeN��(xe|[K[21Cembox>
+@Yi@@(VeN��(xe�|[K[22Cembox>
+@Yi@@(VeN��(xe�6|[K[23Cembox>
+@Yi@@(VeN��(xe�6I|[K[24Cembox>
+@Yi@@(VeN��(xe�6I5|[K[25Cembox>
+@Yi@@(VeN��(xe�6I56|[K[26Cembox>
+@Yi@@(VeN��(xe�6I56>|[K[27Cembox>
+@Yi@@(VeN��(xe�6I56>6|[K[28Cembox>
+@Yi@@(VeN��(xe�6I56>6E|[K[29Cembox>
+@Yi@@(VeN��(xe�6I56>6E@|[K[30Cembox>@?@@@xp@�@B[K[17C@�t
+�YititeN��(xI56>6E@�e@@@@@@@@@@?embox>@?@@@xp@�@B@�t
+�YititeN��(xI56>6E@�e@@@@@@@@@@[Ka\@@ex@B
+@?@@@xp@�@B: Command not found
+tish error: #-2
+embox>@?@@@
+@?@@@: Command not found
+tish error: #-2
+embox>
+�YithN��(xemembox>
+�YithN��(xem[K[18Cembox>
+�YithN��(xe�m[K[19Cembox>
+�YithN��(xe�6m[K[20Cembox>
+�YithN��(xe�6Im[K[21Cembox>
+�YithN��(xe�6I5m[K[22Cembox>
+�YithN��(xe�6I56m[K[23Cembox>
+�YithN��(xe�6I56>m[K[24Cembox>
+�YithN��(xe�6I56>6m[K[25Cembox>
+�YithN��(xe�6I56>6Em[K[26Cembox>
+�YithN��(xe�6I56>6ECm[K[27Cembox>
+�YithN��(xe�6I56>6ECm[K[28Cembox>
+�YithN��(xe�6I56>6ECm[K[29Cembox>
+�YithN��(xe�6I56>6EC�m[K[30Cembox>
+�YithN��(xe�6I56>6EC�em[K[31Cembox>
+�YithN��(xe�6I56>6EC�e@m[K[32Cembox>
+�YithN��(xe�6I56>6EC�e@@m[K[33Cembox>
+�YithN��(xe�6I56>6EC�e@@@m[K[34Cembox>
+�YithN��(xe�6I56>6EC�e@@@@m[K[35Cembox>
+�YithN��(xe�6I56>6EC�e@@@@@m[K[36Cembox>
+�YithN��(xe�6I56>6EC�e@@@@@@m[K[37Cembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@m[K[38Cembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@?membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@amembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@@membox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@@emembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@@exmembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@@expmembox>
+�YithN��(xe�6I56>6EC�e@@@@@@@@@@a\@@expm
+�YithN��(xe�6I56>6EC: Command not found
+tish error: #-2
+embox>�@Bembox>�@B[Kembox>@�@B[Kembox>@;�@B[Kembox>@;@�@B[K[9Cembox>@;@@�@B[K[10Cembox>@;@@@�@B[K[11C
+@;@@@�@B: Command not found
+tish error: #-2
+embox>
+�YitE@�e@@HHHHHHHHHHHHHH\@@@@@O@@
+embox>�embox>[Kcda\@@ex
+cda\@@ex: Command not found
+tish error: #-2
+embox>p@�lsembox>p@�lsembox>@p@�lsembox>@?p@�lsembox>@?@p@�lsembox>@?@@p@�lsembox>@?@@@p@�ls
+@?@@@p@�ls: Command not found
+tish error: #-2
+embox>
+�YiteN
+embox>pppppppppppppppppppp�+exp@�@B
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

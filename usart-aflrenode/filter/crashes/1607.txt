@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�llllllx�itembox>
+�llllllx�i[K[24Cembox>
+�llllllx�[K[23CppprpppppppopEoro�embox>
+�llllllx�ppprpppppppopEoro[K[40Ct�nopilx�
+tish error: #-22
+embox>itembox>i[K[9Cembox>[K[8Cpngotembox>pngo[K[12Clgotembox>pngolgo[K[15Cl
+embox>
+
+embox>embox>
+[K[7Co nembox>
+o n[K[6C
+o: Command not found
+tish error: #-2
+embox>
+�lembox>
+o n[K[10Clllllx�itembox>
+o nlllllx�i[K[22Cembox>
+o nlllllx�[K[21Crogot�noitembox>
+o nlllllx�rogot�noi[K[31Cembox>
+o nlllllx�rogot�no[K[30Cembox>
+o nlllllx�rogot�no[K[29CloEoro�ot�n�got
+o: Command not found
+tish error: #-2
+embox>lgotembox>lgo[K[9Cl
+lgol: Command not found
+tish error: #-2
+embox>
+embox>lgol[K[10C�logYt�noi�lllllllx�itembox>lgol�logYt�noi�lllllllx�i[K[41Cembox>lgol�logYt�noi�lllllllx�[K[40CrogYt�noi�
+lgol: Command not found
+tish error: #-2
+embox>lllot�nogotembox>lllot�nogo[K[16Clgolllxot�nogexporttembox>lllot�nogolgolllxot�nogexport[K[35Cl
+lllot�nogolgolllxot�nogexportl: Command not found
+tish error: #-2
+embox>
+embox>lllot�nogolgolllxot�nogexportlX�ncllll��itembox>lllot�nogolgolllxot�nogexportlX�ncllll��iembox>lllot�nogolgolllxot�nogexportlX�ncllll��rogo�locllll��ot�nogotembox>[K[76Clg
+lllot�nogolgolllxot�nogexportl: Command not found
+tish error: #-2
+embox>otembox>o[K[7Cl
+ol: Command not found
+tish error: #-2
+embox>
+embox>ol[K[8C�llllllxtVuo�tembox>ol�llllllxtVuo�[K�embox>ol�llllllxtVuo�[KlwEorolst�nogotembox>ol�llllllxtVuo�lwEorolst�nogolgotembox>ol�llllllxtVuo�lwEorolst�nogolgol
+ol: Command not found
+tish error: #-2
+embox>
+embox>ol[K[8Cembox>o[K[7C�6656>6z@embox>o�6656>6z@[K��@@W@@@@@@*=@@@@@@@@@@@\@xp@�@@@@?
+o: Command not found
+tish error: #-2
+embox>B@�������@exp@�@@@@?B@������������cd��������������
+B@�������@exp@�@@@@?B@������������cd��������������: Command not found
+tish error: #-2
+embox>�@@@@Z@@@@@\@&
+�@@@@Z@@@@@\@&: Command not found
+tish error: #-2
+embox>
+embox>[K[20C�6656>6z@embox>[K[31C��@@W@@@@Z@*=���������������������
+�@@@@Z@@@@@\@&: Command not found
+tish error: #-2
+embox>������� @@@@{@@@W@\@&
+�������: Command not found
+tish error: #-2
+embox>
+embox>[K[20C�¹���@@lo56>6z@embox>[K[37Ceeeeeeeeee����656>6z66gouw@A
+�@@@@Z@@@@@\@&: Command not found
+tish error: #-2
+embox>\@&
+\@&: Command not found
+tish error: #-2
+embox>
+�6656>6z@embox>
+�6656>6z@�embox>
+�6656>6z@@@W@@@@@@*=@@@@@@@@@@@\@@exp@�@@
+tish error: #-22
+embox>@?B@��6656^6z@�@@W@@@@Z @@@@\@&
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

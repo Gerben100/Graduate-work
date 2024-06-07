@@ -1,0 +1,175 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��i
+embox>
+!lsi
+!lsi: Command not found
+tish error: #-2
+embox>
+@g�embox>
+@g�[K[6Cembox>�
+@g�[K[7Cembox>�[?5h[?5l
+@g�[K[8Cembox>�[?5h[?5l�
+@g�[K[9Cembox>�[?5h[?5l�
+@g�[K[10Cembox>�[?5h[?5l�g
+@g�[K[11Cembox>�[?5h[?5l�g�
+@g�[K[12C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[K
+embox>px[?5h[?5l
+px: Command not found
+tish error: #-2
+embox>pxembox>px[K[8C�g�66embox>px�g�6[K[12C�embox>px�g�6�[K[13C�e@embox>px�g�6��e@[K[17C6embox>px�g�6��e@[K[17C�@@embox>�[K[7C�g��@p
+��g��@p: Command not found
+tish error: #-2
+embox>
+di
+d: Command not found
+tish error: #-2
+embox>
+���v�@i
+tish error: #-22
+embox>
+u�t�i
+u�t�i: Command not found
+tish error: #-2
+embox>
+����ϵ��������embox>
+u�t�i[K[12C�������������embox>
+u�t�i�������������embox>
+u�t�i�������������embox>i
+u�t�i�������������
+embox>
+��embox>[K[6C�ipin
+�ipin: Command not found
+tish error: #-2
+embox>
+zembox>
+[K[7C[?5h[?5lIee
+tish error: #-22
+embox>
+zembox>
+[KppPppR�ppRpppP�pppei�Fembox>
+[Ke@ei�Fembox>�ipine
+�ipin: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+BB2
+BB: Command not found
+tish error: #-2
+embox>
+�np��#@�bd��
+�np: Command not found
+tish error: #-2
+embox>
+z��*ei
+tish error: #-22
+embox>
+��Wh
+embox>
+zlsexport*ei
+�e: Command not found
+tish error: #-2
+embox>
+Gut�v
+G: Command not found
+tish error: #-2
+embox>
+z�Wei
+tish error: #-22
+embox>
+�( 
+tish error: #-22
+embox>
+z�*
+�*ei�WD
+z: Command not found
+tish error: #-2
+embox>
+z~�xt�o
+z~�x: Command not found
+tish error: #-2
+embox>
+��@so
+��@so: Command not found
+tish error: #-2
+embox>
+�i�i
+F�i
+�i�i: Command not found
+tish error: #-2
+embox>
+it�5�sit�o
+i�5�si: Command not found
+tish error: #-2
+embox>
+~[pi�[yio
+embox>
+zz�xit��xit��o
+z�xi�xi��: Command not found
+tish error: #-2
+embox>
+z�xi�h�o
+�xi�h: Command not found
+tish error: #-2
+embox>
+xto
+xto: Command not found
+tish error: #-2
+embox>
+zn�o
+z: Command not found
+tish error: #-2
+embox>
+z����������������
+���: Command not found
+tish error: #-2
+embox>
+z�xit��o
+�xit�: Command not found
+tish error: #-2
+embox>
+z�
+embox>
+z(Vei^(Vei�y^
+�y^: Command not found
+tish error: #-2
+embox>
+z^(�y^
+�ipin�y^: Command not found
+tish error: #-2
+embox>
+z�cd�y^��^�s
+�cd�y^��: Command not found
+tish error: #-2
+embox>
+z�(i�y^
+�y^: Command not found
+tish error: #-2
+embox>
+zVpinVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

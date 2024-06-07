@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���k�k�xei�xei�k
+���k�k�xei�xei�k: Command not found
+tish error: #-2
+embox>
+���xx
+���xx: Command not found
+tish error: #-2
+embox>
+��DD
+��DD: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[9C�����xx
+�: Command not found
+tish error: #-2
+embox>
+����l�ox�
+����l�: Command not found
+tish error: #-2
+embox>
+d/evembox>
+d/ev[K[6Cembox>�
+d/ev[K[7C
+�: Command not found
+tish error: #-2
+embox>
+sembox>
+s[K[6Cembox>
+s[K[7Cembox>
+s[K[8Cembox>
+s[K[9Cembox>�
+s[K[10C
+embox>
+�eVembox>�
+d/ev[K[12C�embox>�
+d/ev[K[12Clogo�t�U�
+�: Command not found
+tish error: #-2
+embox>
+�lssembox>
+�lss[K[6Cembox>�
+�lss[K[7C
+�: Command not found
+tish error: #-2
+embox>
+s_Vembox>
+s_V[K[6Cembox>_
+s_V[K[7Cembox>__
+s_V[K[8Cembox>___
+s_V[K[9Cembox>___
+s_V[K[10Cembox>___
+s_V[K[11C
+embox>�___H______________________�
+�___H______________________�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+seembox>
+se[Kembox>
+se[Kembox>�
+se[K
+embox>
+s����
+s����: Command not found
+tish error: #-2
+embox>
+sesembox>
+sesembox>�
+sesembox>�e
+sesembox>�ex
+sesembox>�exi
+sesembox>�exit
+ses
+�exit: Command not found
+tish error: #-2
+embox>
+pe��
+pe��: Command not found
+tish error: #-2
+embox>
+���x�xeme�
+�: Command not found
+tish error: #-2
+embox>
+�e�dddddddddddddtdddddddddddddglgcd��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[?5h[?5l�(�embox>[?5h[?5l�([K[9C_�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cembox>[K[6Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�fl�
+�cd���������export����(�embox>
+[?5h[?5l�fl�
+�cd���������export����([K[36C_�embox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6C�Lembox>[K[6Cembox>[K[6Cembox>[K[6C(embox>[K[6C��
+�: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+[K[6C
+tish error: #-22
+embox>
+7embox>[K[6C
+embox>
+[?5h[?5lembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C%embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+[?5h[?5l�(�embox>
+[?5h[?5l�([K[10C_�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C&embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+[?5h[?5l�(�embox>
+[?5h[?5l�([K[10C_�N�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+��
+embox>�Sembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lcdI
+[?5h[?5lcdI: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+embox>
+�
+embox>a
+a: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+d�
+d: Command not found
+tish error: #-2
+embox>
+u��embox>
+u�[Kembox>
+u[K
+u: Command not found
+tish error: #-2
+embox>
+embox>
+y[?5h[?5lcdl
+y[?5h[?5lcdl: Command not found
+tish error: #-2
+embox>
+scd
+scd: Command not found
+tish error: #-2
+embox>
+ls;t�
+ls;t�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lcd�dl
+[?5h[?5lcd�dl: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+embox>�p��ppp���lorhqppp��ppp����pppinp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

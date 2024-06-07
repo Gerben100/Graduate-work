@@ -1,0 +1,67 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lm
+embox>������Wxm������W��x���
+������Wxm������W��x���: Command not found
+tish error: #-2
+embox>
+l.cd���
+l.cd���: Command not found
+tish error: #-2
+embox>
+lembox>
+l.cd���[K[14C� embox>������Wxm������W��x���[K[30C�����expl������exporf��x�orf��x���
+������Wxm������W��x��������expl������exporf��x�orf��x���: Command not found
+tish error: #-2
+embox>
+lllllllll�lllexporf��$$
+lllllllll�lllexporf��$$: Command not found
+tish error: #-2
+embox>
+lembox>
+lllllllll�lllexporf��$$[K[31C�embox>
+l.cd���� [K[16Cx���orf��embox>������Wxm������W��x��������expl�exp
+������Wxm������W��x��������expl�exp: Command not found
+tish error: #-2
+embox>
+l�embox>
+lllllllll�lllexporf��$$���embox>
+lllllllll�lllexporf��$$���embox>
+lllllllll�lllexporf��$$���embox>
+lllllllll�lllexporf��$$����
+lllllllll�lllexporf��$$���: Command not found
+tish error: #-2
+embox>
+lembox>[K[34C�����ex��x���
+lllllllll�lllexporf��$$����: Command not found
+tish error: #-2
+embox>
+�{�
+
+
+�pin�embox>[K[20Cembox>[K[34C�cdembox>[K[32C
+lllllllll�lllexporf��$$�: Command not found
+tish error: #-2
+embox>
+lembox>[K[37CsSsembox>[K[32C���export��e�rf���x�
+lllllllll�lllexporf��$$��: Command not found
+tish error: #-2
+embox>
+llembox>[K[40C�&t�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

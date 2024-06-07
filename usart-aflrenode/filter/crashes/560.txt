@@ -1,0 +1,162 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>a�p
+a�p: Command not found
+tish error: #-2
+embox>
+��q
+��q: Command not found
+tish error: #-2
+embox>
+Pe7t
+Pe: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+pinpis]�L��
+pinpis]�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>[K[6C 
+tish error: #-22
+embox>
+�=
+�: Command not found
+tish error: #-2
+embox>
+embox>[Klembox>[K�out�
+�out�: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+m ���q
+tish error: #-22
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+c�
+c�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�Mq
+�Mq: Command not found
+tish error: #-2
+embox>
+�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+zs
+zs: Command not found
+tish error: #-2
+embox>
+�
+q�: Command not found
+tish error: #-2
+embox>
+#1
+#1: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�S�
+�S: Command not found
+tish error: #-2
+embox>
+O
+O: Command not found
+tish error: #-2
+embox>
+����
+��: Command not found
+tish error: #-2
+embox>
+���������
+embox>����Alsq
+����Alsq: Command not found
+tish error: #-2
+embox>
+��q
+��q: Command not found
+tish error: #-2
+embox>
+EEEEEU
+EEEEEU: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�p
+�p: Command not found
+tish error: #-2
+embox>
+export�
+export�: Command not found
+tish error: #-2
+embox>
+��s
+��s: Command not found
+tish error: #-2
+embox>
+u
+u: Command not found
+tish error: #-2
+embox>
+d�����
+d���: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

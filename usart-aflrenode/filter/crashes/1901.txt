@@ -1,0 +1,53 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Vxlgout�o!o
+Vxlgout�o!: Command not found
+tish error: #-2
+embox>
+embox>
+[K[9C
+tish error: #-22
+embox>
+oxpo������
+oxpo������: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+2222
+2222: Command not found
+tish error: #-2
+embox>
+ex666exit66666666666portembox>
+2222[K[11C�6656>6@@embox>
+2222�6656>6@@[K[20C��@�6656@@@@@@
+2222�6656>6@@��@�6656@@@@@@: Command not found
+tish error: #-2
+embox>@>56>6@@embox>@>56>6@@[K[14C@@@@@@@@?@@@@pin@@@@@@@@@@@@@@@@\
+@>56>6@@@@@@@@@@?@@@@pin@@@@@@@@@@@@@@@@\: Command not found
+tish error: #-2
+embox>
+Vxportembox>
+2222�6656>6@@��@�6656@@@@@@�6@@�@@@@!@�@@@@@@656>6@@embox>[K[60C@@@@@\
+2222�6656>6@@��@�6656@@@@@@�6@@�: Command not found
+tish error: #-2
+embox>
+Vxpmrtembox>[K[39C�6656>6@@embox>[K[48C��@@@@@@@@@?@@@@@@@@@@@@@@@@\@@embox>[K[79C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

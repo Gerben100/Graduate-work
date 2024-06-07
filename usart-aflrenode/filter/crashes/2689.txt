@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>6656>��embox>6656>�[K[12Cembox>6656>[K[11Cpin�665
+embox>@@@?@vembox>@@@?@[K[11C�@@?embox>@@@?@�@@[K[14Cembox>@@@?@�@[K[13Cembox>@@@?@�[K[12Cembox>@@@?@[K[11Cembox>@@@?[K[10C5N>5@@d��
+embox>@@@@@v
+@@@@@v: Command not found
+tish error: #-2
+embox>a���
+embox>@@@@@vembox>@@@@@[K[11C�@3??@@@embox>@@@@@�@3??@@[K[18Cembox>@@@@@�@3??@[K[17Cembox>@@@@@�@3??[K[16Cembox>@@@@@�@3?[K[15Cembox>@@@@@�@3[K[14C��embox>@@@@@�@3�[K[15Cembox>@@@@@�@3[K[14C@@??@@@embox>@@@@@�@3@@??@@[K[20Cembox>@@@@@�@3@@??@[K[19Cembox>@@@@@�@3@@??[K[18Cembox>@@@@@�@3@@?[K[17Cembox>@@@@@�@3@@[K[16C��embox>@@@@@�@3@@�[K[17Cpi
+@@@@@�@3@@�pi: Command not found
+tish error: #-2
+embox>nembox>[K[6C~embox>[K[6C|embox>[K[6Cnembox>[K[6C�embox>[K[6C@@@56>��embox>@@@56>�[K[13Cembox>@@@56>[K[12C
+@@@56>: Command not found
+tish error: #-2
+embox>pin�@@@@\
+pin�@@@@\: Command not found
+tish error: #-2
+embox>
+6656>��embox>
+6656>�[K[13Cembox>
+6656>[K[12Cpin�665
+embox>@@@?@vembox>@@@?@[K[11C�@@??@@@embox>@@@?@�@@??@@[K[18C5N>5@@d��
+embox>@@@@@v
+@@@@@v: Command not found
+tish error: #-2
+embox>a���
+embox>@@@@@vembox>@@@@@[K[11C�@3??@@@embox>@@@@@�@3??@@[K[18Cembox>@@@@@�@3??@[K[17Cembox>@@@@@�@3??[K[16Cembox>@@@@@�@3?[K[15Cembox>@@@@@�@3[K[14C��embox>@@@@@�@3�[K[15Cembox>@@@@@�@3[K[14C@@??@@@embox>@@@@@�@3@@??@@[K[20Cembox>@@@@@�@3@@??@[K[19Cembox>@@@@@�@3@@??[K[18Cembox>@@@@@�@3@@?[K[17Cembox>@@@@@�@3@@[K[16C��embox>@@@@@�@3@@�[K[17Cpi
+@@@@@�@3@@�pi: Command not found
+tish error: #-2
+embox>nembox>[K[6C~embox>[K[6C|embox>[K[6Cnembox>[K[6C�embox>[K[6C@@@56>��embox>@@@56>�[K[13Cembox>@@@56>[K[12C
+@@@56>: Command not found
+tish error: #-2
+embox>pin�@@@@\
+pin�@@@@\: Command not found
+tish error: #-2
+embox>
+6656>��embox>
+6656>�[K[13Cembox>
+6656>[K[12Cpin�665
+embox>@@@?@vembox>@@@?@[K[11C�@@??@@@embox>@@@?@�@@??@@[K[18Cembox>@@@?@�@@??@[K[17Cembox>@@@?@�@@??[K[16Cembox>@@@?@�@@?[K[15C5@@d��
+embox>@@@@@v
+@@@@@v: Command not found
+tish error: #-2
+embox>a���
+embox>@@@@@vembox>@@@@@[K�@3??@@@embox>[K[18Cembox>[K[17Cembox>[K[16Cembox>[K[15Cembox>[K[14C��embox>[K[15Cembox>[K[14C@@??@@@embox>[K[20Cembox>[K[19Cembox>[K[18Cembox>[K[17Cembox>[K[16C��embox>[K[17Cpi
+@@@@@�@3@@�pi: Command not found
+tish error: #-2
+embox>nembox>[K[6C~embox>[K[6C|embox>[K[6Cnembox>[K[6C�embox>[K[6C@@@56>��embox>@@@56>�embox>@@@56>
+@@@56>: Command not found
+tish error: #-2
+embox>pin�@@@@\
+pin�@@@@\: Command not found
+tish error: #-2
+embox>
+6656>��pin�665
+embox>@@@?@v�@@??@@@5N>d��
+embox>@@@@@v
+@@@@@v: Command not found
+tish error: #-2
+embox>a���
+embox>@@@@@v�@3??@@@��@@??@@@��pi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

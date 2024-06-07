@@ -1,0 +1,134 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xeXDM�t���embox>xeXDM�t���[K[6Cembox>yxeXDM�t���[K[7Cembox>yexeXDM�t���[K[8Cembox>yeexeXDM�t���[K[9Cembox>yeexxeXDM�t���[K[10Cembox>yeexpxeXDM�t���[K[11Cembox>yeexpoxeXDM�t���[K[12Cembox>yeexporxeXDM�t���[K[13Cembox>yeexportxeXDM�t���[K[14Cembox>yeexportpxeXDM�t���[K[15Cembox>yeexportpixeXDM�t���[K[16Cembox>yeexportpinxeXDM�t���[K[17Cembox>yeexportpin�xeXDM�t���[K[18Cembox>yeexportpin��xeXDM�t���[K[19Cembox>yeexportpin���xeXDM�t���[K[20Cembox>yeexportpin����xeXDM�t���[K[21Cembox>yeexportpin�����xeXDM�t���[K[22Cembox>yeexportpin�����pxeXDM�t���[K[23Cembox>yeexportpin�����pixeXDM�t���[K[24Cembox>yeexportpin�����pinxeXDM�t���[K[25Cembox>yeexportpin�����pin�xeXDM�t���[K[26Cembox>yeexportpin�����pin��xeXDM�t���[K[27Cembox>yeexportpin�����pin���xeXDM�t���[K[28Cembox>yeexportpin�����pin����xeXDM�t���[K[29Cembox>yeexportpin�����pin�����xeXDM�t���[K[30Cembox>yeexportpin�����pin������xeXDM�t���[K[31Cembox>yeexportpin�����pin�������xeXDM�t���[K[32Cembox>yeexportpin�����pin������xeXDM�t���[K[31Cembox>yeexportpin�����pin�������xeXDM�t���[K[32C
+yeexportpin�����pin�������: Command not found
+tish error: #-2
+embox>
+yecuJembox>[K[6C����������
+embox>
+=
+tish error: #-22
+embox>
+xeMs�@t�
+tish error: #-22
+embox>
+xeMembox>
+xe[K[11C���� yecuJembox>
+[K[7C����������
+tish error: #-22
+embox>
+�xdt�
+�: Command not found
+tish error: #-2
+embox>
+xeM9it���embox>
+xeM9it���[K[6Cembox>y
+xeM9it���[K[7Cembox>yg
+xeM9it���[K[8Cembox>ygc
+xeM9it���[K[9Cembox>ygcu
+xeM9it���[K[10Cembox>ygcuJ
+xeM9it���[K[11Cembox>
+�[K[8C���������#
+�: Command not found
+tish error: #-2
+embox>
+xeM9�pingo�embox>
+xeM9�pingo[K[19C����Jembox>
+�[K[8CiU���embox>
+�iU���[K[6Cembox>
+�iU���[K[7Cembox>
+�iU���[K[8C
+embox>
+xfM9it���embox>
+xfM9it���[K[6Cembox>y
+xfM9it���[K[7Cembox>y�
+xfM9it���[K[8Cembox>y��
+xfM9it���[K[9Cembox>y��
+xfM9it���[K[21CecuJembox>
+�[K[8C���embox>
+[K[7C�� ����
+tish error: #-22
+embox>
+xeM9it��yecuJembox>
+[K[7C����������
+tish error: #-22
+embox>
+eecuJexit��������
+eecuJexit��������: Command not found
+tish error: #-2
+embox>
+xtV�tt�ttexit�ttembox>
+xtV�tt�ttexit�tt[Kembox>
+xtV�tt�ttexit�tt[Kembox>t
+xtV�tt�ttexit�ttembox>t�
+xtV�tt�ttexit�ttembox>t�
+xtV�tt�ttexit�ttembox>t�@
+xtV�tt�ttexit�ttembox>t�@d
+xtV�tt�ttexit�ttembox>t�@dg
+xtV�tt�ttexit�ttembox>t�@dgp
+xtV�tt�ttexit�ttembox>t�@dgpi
+xtV�tt�ttexit�ttembox>
+eecuJexit��������[K��
+eecuJexit����������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>����
+[K[10Cembox>�����
+[K[11Cembox>������
+[K[12Cembox>������i
+embox>
+eecuJexit��������������
+eecuJexit������������: Command not found
+tish error: #-2
+embox>
+��o�luti�k�
+tish error: #-22
+embox>
+exit �i��p��
+tish error: #-22
+embox>
+����������
+����������: Command not found
+tish error: #-2
+embox>
+�
+dh': Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+i�q��
+i�: Command not found
+tish error: #-2
+embox>
+xpii��
+��: Command not found
+tish error: #-2
+embox>
+xp�P�
+tish error: #-22
+embox>
+lpcd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

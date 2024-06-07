@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��lzlowlsou��w;e
+�: Command not found
+tish error: #-2
+embox>ouM
+ouM: Command not found
+tish error: #-2
+embox>
+N
+N: Command not found
+tish error: #-2
+embox>
+`ogoutwembox>
+N[K[8C�ouM
+N: Command not found
+tish error: #-2
+embox>
+embox>
+N[K[8Cwembox>ouM[K[9C��embox>ouM�[K[10CuM
+ouM�uM: Command not found
+tish error: #-2
+embox>
+embox>ouM�uM[K[12C�oowembox>
+N[K[8C�ou�/uM
+N: Command not found
+tish error: #-2
+embox>
+embox>
+N[K[8C�W�lowembox>ouM�uM[K[12CM
+ouM�uMM: Command not found
+tish error: #-2
+embox>
+�embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+embox>�[K[7C�z[?5h[?5lowembox>ouM�uMM[K[13C�o�M
+ouM�uMM: Command not found
+tish error: #-2
+embox>
+0)�
+0)�: Command not found
+tish error: #-2
+embox>
+uM�zlowembox>
+0)�[K[10C�oembox>ouM�uMM[K[13C
+ouM�uMM: Command not found
+tish error: #-2
+embox>
+u\
+u\: Command not found
+tish error: #-2
+embox>
+%/�oC�o~MM
+%/�oC: Command not found
+tish error: #-2
+embox>
+�n
+�n: Command not found
+tish error: #-2
+embox>
+�zl�Nw�ouM
+%/�oC: Command not found
+tish error: #-2
+embox>
+
+ouM: Command not found
+tish error: #-2
+embox>
+�
+embox>w�ouM
+�n: Command not found
+tish error: #-2
+embox>
+�Pzcd�oww���[?5h[?5l��e
+�P: Command not found
+tish error: #-2
+embox>
+aiaaaaadaaatM
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

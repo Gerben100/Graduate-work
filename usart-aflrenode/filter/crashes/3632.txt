@@ -1,0 +1,147 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[7Cembox>/[K[8Cembox>/[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>/
+[K[8Cembox>/
+[K[9C
+embox>
+�[sd�
+�[sd�: Command not found
+tish error: #-2
+embox>
+embox>
+�[sd�[K[12CpFn.�
+�[sd�pFn: Command not found
+tish error: #-2
+embox>
+embox>
+�[sd�pFn[K[15C{Qn5
+�[sd�pFn{Qn: Command not found
+tish error: #-2
+embox>
+embox>
+�[sd�pFn{Qn[K[18C
+�[sd�pFn{Qn: Command not found
+tish error: #-2
+embox>
+embox>
+�[sd�pFn{Qn[K[18CZQpinw�
+�[sd�pFn{QnZQpinw: Command not found
+tish error: #-2
+embox>
+�ie�postembox>
+�[sd�pFn{QnZQpinw[K[24C���pQembox>
+�[sd�pFn{QnZQpinw���pQ[Kembox>
+�[sd�pFn{QnZQpinw���p[Kembox>
+�[sd�pFn{QnZQpinw���p[Kembox>
+�[sd�pFn{QnZQpinw���p[K
+�[sd�pFn{QnZQpinw��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>��(
+[K[10Cembox>��(/
+[K[11Cembox>��(/
+[K[12C
+embox>
+embox>
+�[sd�pFn{QnZQpinw��[K�exit.embox>
+�[sd�pFn{QnZQpinw[K[24C [H[H[2Jembox>
+�[sd�pFn{QnZQpinw [K
+�[sd�pFn{QnZQpinw: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K[8CpQembox>
+�pQ[Kembox>
+�pQ[Kembox>
+�pQ[Kembox>
+�[sd�pFn{QnZQpinwpQembox>
+�[sd�pFn{QnZQpinwpQembox>
+�[sd�pFn{QnZQpinwpQembox>
+�[sd�pFn{QnZQpinwpQ
+embox>
+embox>
+�[sd�pFn{QnZQpinw[K[24Cex@ortpembox>
+�[sd�pFn{QnZQpinwex@ort[K�/export
+�[sd�pFn{QnZQpinwex@ort�: Command not found
+tish error: #-2
+embox>
+yR_U$
+yR_: Command not found
+tish error: #-2
+embox>
+�exembox>
+�exembox>
+�exrembox>
+�exrtembox>
+�exrtembox>
+�exrtembox>
+�exrt�
+�exrt�: Command not found
+tish error: #-2
+embox>
+dQ/�@@@@��(
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

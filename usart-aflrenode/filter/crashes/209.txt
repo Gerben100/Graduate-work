@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xembox>�x[K[6Cembox>p�x[K[7Cembox>po�x[K[8Cembox>po^�x[K[9C
+po^�x: Command not found
+tish error: #-2
+embox>
+eembox>
+[K[7Cg embox>
+g [K[6Cembox>�
+g [K[7Cembox>
+g [K[6Cembox>
+g [K[7Cembox>
+g [K[8Cembox>
+g [K[9Cembox>
+g [K[10Cembox>�
+g [K[11Cembox>��
+g [K[12C
+embox>
+�xitembox>
+�xi[K[10Ctembox>
+�xi[K[10Clvgot�logot�
+�xilvgot�logot�: Command not found
+tish error: #-2
+embox>
+�����������
+�����������: Command not found
+tish error: #-2
+embox>
+�xitembox>
+�xi[K[10Cjo!!!gT�
+�xijo!!!gT: Command not found
+tish error: #-2
+embox>
+�x��x�
+�x��x�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�xitlembox>
+�xit[K[11Cogot�
+�xitogot�: Command not found
+tish error: #-2
+embox>
+�xiembox>
+�xi[K[10Cloo_d
+�xiloo_d: Command not found
+tish error: #-2
+embox>
+�witembox>
+�wi[K[10Clhxi
+�wilhxi: Command not found
+tish error: #-2
+embox>
+export��Otot�lt�l�
+export��Otot�lt�l�: Command not found
+tish error: #-2
+embox>
+�de�prti�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

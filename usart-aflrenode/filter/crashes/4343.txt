@@ -1,0 +1,143 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[?5h[?5lpsp�
+embox>
+
+�
+embox>
+@ppiniQ�yembox>
+@ppiniQ�y[K[18C
+�
+@: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[6Cembox>�
+���[K[7C
+�: Command not found
+tish error: #-2
+embox>
+embox>�
+��[K[10C@piQ�[embox>�
+��@piQ�[[K[18C
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox><
+[K[7Cembox><�
+[K[8Cembox><�
+
+[K[9Cembox><�
+
+[K[10Cembox><�
+e
+[K[11Cembox><�
+ex
+[K[12Cembox><�
+exp
+[K[13Cembox><�
+expo
+[K[14Cembox><�
+expor
+[K[15Cembox><�
+expor�
+[K[16Cembox><�
+expor�
+[K[6C
+<�: Command not found
+tish error: #-2
+embox>
+@m
+@m: Command not found
+tish error: #-2
+embox>
+r�e;�i@
+r�e;�i@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�$
+[K[9Cembox>�$
+[K[10Cembox>�$
+[K[11Cembox>�$�
+[K[12Cembox>�$��
+[K[13Cembox>�$��o
+[K[14Cembox>�$��or
+[Kembox>�$��or�
+[Kembox>�$��or�
+[Kembox>�$��or�
+[K[7Cembox>��$��or�
+[K[8Cembox>�$�$��or�
+[K[9Cembox>�$�$��or�
+[K[10Cembox>�$l�$��or�
+[Kembox>�$lo�$��or�
+[Kembox>�$log�$��or�
+[Kembox>�$log��$��or�
+[Kembox>�$log�p�$��or�
+embox>�$log�po�$��or�
+embox>�$log�por�$��or�
+embox>�$log�por��$��or�
+embox>�$log�por��$��or�
+
+�$: Command not found
+tish error: #-2
+embox>
+jembox>
+j[K[6C
+tish error: #-22
+embox>
+exi
+exi: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>�
+[Kembox>��
+[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[6C
+���d��Mols: Command not found
+tish error: #-2
+embox>
+embox>
+embox>�
+embox>��
+embox>��[?5h[?5l
+embox>��[?5h[?5l
+embox>���[?5h[?5l
+embox>���d��Mols
+exipintq@embox>[K[6C[?5h[?5l[?5h[?5l[?5h[?5lembox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lor�embox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lor�embox>�[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lor�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>
+G
+G: Command not found
+tish error: #-2
+embox>
+��vin�@
+tish error: #-22
+embox>
+d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

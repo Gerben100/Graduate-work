@@ -1,0 +1,165 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+ ��l��ls
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>c
+[K[8Cembox>c
+[K[9Cembox>c�
+[K[10Cembox>c�
+[K[6Cembox>c�
+[K[7Cembox>c�
+[K[8Cembox>c�
+[K[6Cembox>c�
+[K[7Cembox>c�
+[K[6C
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+@embox>
+[K[8Cembox>
+[K[6Cembox>
+[K[7Cembox>q
+[K[8Cembox>q
+[K[9Cembox>q
+[K[6Cembox>q
+[K[7Cembox>cq
+[K[8Cembox>cdq
+[K[9Cembox>cd�q
+[K[10Cembox>cd�dq
+[K[11Cembox>cd�q
+[K[10C
+embox>
+embox>
+[K[6Cembox>
+[K[7C[H[H[2Jembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[10Cembox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+��embox>
+[K[8Clkgoutembox>
+lkgout[K[6Cembox>d
+lkgout[K[7Cembox>
+lkgout[K[6C
+lkgout: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>
+[K[8Cembox>
+[K[7C
+tish error: #-22
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>��
+�[K[9Cembox>���
+�[K[10Cembox>��
+�[K[9Cembox>��c
+�[K[10Cembox>��cd
+�[K[11Cembox>��cd�
+�[K[12Cembox>��cd�d
+�[K[13Cembox>��cd�d_
+�[K[14C
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>�
+[K[7Cembox>�b
+[K[8Cembox>�b
+[K[9Cembox>�b
+[K[6Cembox>��b
+[K[7Cembox>�c�b
+[K[8Cembox>�cd�b
+[K[9Cembox>�cd��b
+[K[10Cembox>�cd�d�b
+[K[11Cembox>�cd��b
+[K[10C
+�cd��b: Command not found
+tish error: #-2
+embox>
+icd>iembox>�cd��b[K[12Cembox>�cd��b[K[6Cembox>c�cd��b[K[7Cembox>cd�cd��b[K[8Cembox>cd�cd��b[K[9Cembox>cd�cd��b[K[10Cembox>cd��cd��b[K[11Cembox>cd�x�cd��b[K[12Cembox>cd�xQ�cd��b[K[13Cembox>cd�xQi�cd��b[K[14Cembox>cd�xQi�cd��b[K[15Cembox>cd�xQii�cd��b[K[16Cembox>cd�xQii>�cd��b[K[17Cembox>cd�xQii>cd��b[K[17Cembox>cd�xQii>icd��b[K[18Cembox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+oox!�i�
+oox: Command not found
+tish error: #-2
+embox>
+@i@i��exi
+: Command not found
+tish error: #-2
+embox>
+iPP�
+iPP�: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>iembox>
+iPP�[K[11Cexpox�irtx�ii
+iPP�expox�i: Command not found
+tish error: #-2
+embox>
+*i>i
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+>iiiiiiii
+embox>
+pin:�ip�����logout
+����������: Command not found
+tish error: #-2
+embox>
+i>Qi~~~~~~~~~~~~~~~~~~~~~~~~~~
+~i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+)��������� �����G> i>i
+embox>exit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

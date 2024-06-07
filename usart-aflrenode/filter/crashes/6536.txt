@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[m[l
+[m[l: Command not found
+tish error: #-2
+embox>
+BOpinlfog�embox>
+BOpinlfog[K[17C�o
+BOpin: Command not found
+tish error: #-2
+embox>
+Bd�l]og�?io
+Bd�: Command not found
+tish error: #-2
+embox>
+embox>
+Bd�[K[10C[?5h[?5ldembox>
+Bd�[K[10C�
+embox>x�[?5h[?5l�x�embox>x��x[K[10C
+x��x: Command not found
+tish error: #-2
+embox>
+Bd��embox>
+Bd�[K[11C�llo��embox>
+Bd��llo�[K[21C�llq��io
+Bd�: Command not found
+tish error: #-2
+embox>
+Bd�dembox>
+Bd�d[K[6Cembox>
+Bd�d[K[7Cembox>
+Bd�d[K[6Cembox>i
+Bd�d[K[7Cembox>ih
+Bd�d[K[8Cembox>ihJ
+Bd�d[K[9Cembox>ihJi
+Bd�d[K[10Cembox>ihJii
+Bd�d[K[11Cembox>ihJiii
+Bd�d[K[12C
+ihJiii: Command not found
+tish error: #-2
+embox>
+Bd��Aiill�io
+Bd�: Command not found
+tish error: #-2
+embox>
+s�ed#
+s�ed#: Command not found
+tish error: #-2
+embox>
+Bdlogout�llo�gembox>
+Bdlogout�llo�[K[23Cio
+Bdlogout�: Command not found
+tish error: #-2
+embox>
+Bd�embox>[K[13C�g�embox>[K[15Cio
+Bd�: Command not found
+tish error: #-2
+embox>
+�����llog�embox>
+�����llogio
+�: Command not found
+tish error: #-2
+embox>
+Bd�lsl��ށggiiiiii
+embox>
+�yep�[?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ll
+embox>export�c��
+export�c��: Command not found
+tish error: #-2
+embox>
+��c��
+��c��: Command not found
+tish error: #-2
+embox>
+!ll�c��
+�c��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��lcd�\���Y��
+�Y��: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+E  sxp�E�ex0ort
+E: Command not found
+tish error: #-2
+embox>
+|||||xn�@i
+embox>
+�c��
+�c��: Command not found
+tish error: #-2
+embox>
+*l������
+*l������: Command not found
+tish error: #-2
+embox>
+[[[[[[��������o
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

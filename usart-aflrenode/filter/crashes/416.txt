@@ -1,0 +1,184 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8C
+embox>
+��|�embox>
+��|�[K[6C
+��: Command not found
+tish error: #-2
+embox>
+�99f�E
+�99f�E: Command not found
+tish error: #-2
+embox>
+�99f�N
+�99f�N: Command not found
+tish error: #-2
+embox>
+loggembox>[K[6Cg
+g: Command not found
+tish error: #-2
+embox>
+�)E9
+�)E9: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cembox>
+c[K[6Cembox>
+�[K[8CC�(
+�C�(: Command not found
+tish error: #-2
+embox>
+exitE
+exitE: Command not found
+tish error: #-2
+embox>
+�9
+�9: Command not found
+tish error: #-2
+embox>
+�999exiembox>
+�9[Kxi���99exiembox>
+exitExi��t
+exitExi��t: Command not found
+tish error: #-2
+embox>
+99logout���t
+99logout: Command not found
+tish error: #-2
+embox>
+999exixi��9exixi��ttt
+exitExi��txi��ttt: Command not found
+tish error: #-2
+embox>
+�999exi�i��t
+�999exi: Command not found
+tish error: #-2
+embox>
+�9��exi�ph��Si��t
+�9��exi: Command not found
+tish error: #-2
+embox>
+�logout�c7�
+�logoutc7�: Command not found
+tish error: #-2
+embox>
+�999exilogRutxP��t
+�999exilogRutxP��t: Command not found
+tish error: #-2
+embox>
+�9�9exixit
+�999exixit: Command not found
+tish error: #-2
+embox>
+�-9�t
+�-9: Command not found
+tish error: #-2
+embox>
+�9�99�������i��
+�999exi�i�: Command not found
+tish error: #-2
+embox>
+�99exixi��Z
+exitExi��txi��Z: Command not found
+tish error: #-2
+embox>
+����
+��: Command not found
+tish error: #-2
+embox>
+i}c
+i}c: Command not found
+tish error: #-2
+embox>
+cJ
+cJ: Command not found
+tish error: #-2
+embox>
+w}cid
+w}cid: Command not found
+tish error: #-2
+embox>
+Yp\it
+Yp\it: Command not found
+tish error: #-2
+embox>
+�}g`
+�}g`: Command not found
+tish error: #-2
+embox>
+f�cd
+f�cd: Command not found
+tish error: #-2
+embox>
+qPDm
+qPDm: Command not found
+tish error: #-2
+embox>
+logout`
+logout`: Command not found
+tish error: #-2
+embox>
+iccccccccccc�cgcccccc�cccccccc
+embox>6�!cccZcccccccc}cd
+!cccZcccccccc}cd: Command not found
+tish error: #-2
+embox>
+hcp�jcc
+cp�jcc: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+��cd
+��cd: Command not found
+tish error: #-2
+embox>
+{9$
+{9$: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�9�9
+�9�9: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>~c�@@@@pilo�out�piembox>~c�@@@@pilo�out�pi[K[6Cembox>~c�@@@@pilo�out�pi[K[7Cembox>~c�@@@@pilo�out�pi[K[8Cembox>~c�@@@@pilo�out�pi[K[9Cembox>~c�@@@@pilo�out�pi[K[10Cembox>�~c�@@@@pilo�out�pi[K[11Cembox>��~c�@@@@pilo�out�pi[K[12Cembox>��e~c�@@@@pilo�out�pi[K[13Cembox>��ee~c�@@@@pilo�out�pi[K[14C
+embox>
+~[pi�embox>
+~[pi�[K[12C�[��e
+~[pi�: Command not found
+tish error: #-2
+embox>
+~[picd��i���logout
+~[picd�: Command not found
+tish error: #-2
+embox>
+~[pi[?5h[?5l��ii��h૫�e
+~[pi[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+^�embox>
+~[pi[?5h[?5l�[K[13C[
+embox>� i�[?5h[?5l�embox>
+^�[K[9C
+^�: Command not found
+tish error: #-2
+embox>
+!!
+!!: Command not found
+tish error: #-2
+embox>
+e[pi��iÚ�����embox>
+!![K[9Ctexport $embox>
+!!texport $[K[18CKembox>
+!!texport $K[K[19C�wembox>
+^�[K[9Cembox>
+~[pi[?5h[?5l�[K[13C$embox>
+~[picd�[K[14C
+~[picd�: Command not found
+tish error: #-2
+embox>
+e�o�@p���
+e: Command not found
+tish error: #-2
+embox>
+ex����������������������iti
+ex����������������������iti: Command not found
+tish error: #-2
+embox>
+��exit
+��exit: Command not found
+tish error: #-2
+embox>
+dembox>
+[K[7C� 
+�: Command not found
+tish error: #-2
+embox>
+~[embox>
+~[K[8C���V
+~��: Command not found
+tish error: #-2
+embox>
+���momlloembox>
+���momllo[Kembox>
+���momlo[Kembox>
+���momluo[Kembox>
+���momluto[Kembox>
+���momlut�o[Kembox>
+���momlut��o[Kembox>[K[19Cembox>
+~��[K
+~��: Command not found
+tish error: #-2
+embox>
+~[pi��6xi_
+~[pi��6xi_: Command not found
+tish error: #-2
+embox>
+~embox>
+~[pi��6xi_Qx]��i
+[H[H[2Jembox>
+~[pi��6xi_Qx]��i
+���embox>[K[6CxiC
+xiC: Command not found
+tish error: #-2
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����wiC.
+tish error: #-22
+embox>
+;@;mUlogout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

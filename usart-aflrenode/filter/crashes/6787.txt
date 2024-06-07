@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>B�c�embox>B�c�[K[6C
+B�c�: Command not found
+tish error: #-2
+embox>
+d3
+tish error: #-22
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�H��6Fd��
+�H��6Fd��: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>pembox>p[K[6C
+p: Command not found
+tish error: #-2
+embox>
+�c���embox>
+�c��[K[11Ci
+�c��i: Command not found
+tish error: #-2
+embox>
+l embox>
+l[K[9C !�l embox>
+l !�l[K[18C�embox>
+l !�l[K[19C
+tish error: #-22
+embox>
+�logembox>
+�log[K[6Cembox>u
+�log[K[7Cembox>ul
+�log[K[8Cembox>uls
+�log[K[9Cembox>ulst
+�log[K[10C
+ulst: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+d��
+tish error: #-22
+embox>
+hF
+tish error: #-22
+embox>
+d�6FdFe�
+tish error: #-22
+embox>
+o�x
+o�: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lgout{
+lgout{: Command not found
+tish error: #-2
+embox>
+sd���
+embox>
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+�
+embox>i}}x
+i}: Command not found
+tish error: #-2
+embox>
+�x
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lx
+�x: Command not found
+tish error: #-2
+embox>
+rr��
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+cx
+cx: Command not found
+tish error: #-2
+embox>
+��|
+��|: Command not found
+tish error: #-2
+embox>
+�!
+�: Command not found
+tish error: #-2
+embox>
+]�
+embox>q
+q: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l<Q<g
+l<Q<g: Command not found
+tish error: #-2
+embox>
+dL�
+d: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+��� 
+��: Command not found
+tish error: #-2
+embox>
+logoutZ{�Qryu
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

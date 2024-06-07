@@ -1,0 +1,148 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���l
+���l: Command not found
+tish error: #-2
+embox>
+�d[?5h[?5l
+�d: Command not found
+tish error: #-2
+embox>
+embox>
+�d[K[9C
+�d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>@
+[K[7Cembox>
+�d[K[9C@
+�d: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+P�ll
+
+P�ll: Command not found
+tish error: #-2
+embox>
+ZYlembox>
+P�ll
+[K[12Cembox>
+l[K[8Clogoutembox>
+�d[K[9C]sexis�
+�d]sexis�: Command not found
+tish error: #-2
+embox>
+�[pi����cdg�[�iۀ�P
+�[pi����cdg�[�iۀ�P: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[9Cembox>l�
+[K[10Cembox>lv�
+[K[11C
+embox>
+�xei�embox>
+�xei[K[11C�
+�xei�: Command not found
+tish error: #-2
+embox>
+embox>
+�xei�[K[12Cogxembox>
+�xei�ogx[K[16C
+�xei�ogx: Command not found
+tish error: #-2
+embox>
+embox>
+�xei�ogx[K[15CogxSSSSSSSSSSSSSembox>
+�xei�ogxogxSSSSSSSSSSSSSembox>
+�xei�ogxogxSSSSSSSSSSSSSembox>
+�xei�ogxogxSSSSSSSSSSSSV �
+�xei�ogxogx: Command not found
+tish error: #-2
+embox>
+embox>
+�xei�ogxogxogxembox>[Kembox>[Kembox>[KU 3�
+�xei�ogxogxogx: Command not found
+tish error: #-2
+embox>
+embox>
+�xei�ogxogxogxembox>
+�xei�ogxembox>
+�xei�ogxembox>
+�xei�ogxembox>
+�xei�ogxU� 3�
+�xei�ogx: Command not found
+tish error: #-2
+embox>
++ogx�
++ogx�: Command not found
+tish error: #-2
+embox>
+"ەozouUz�
+"ەozouUz�: Command not found
+tish error: #-2
+embox>
+T�
++ogx�T�: Command not found
+tish error: #-2
+embox>
+ogxF gxF 3�3�
++ogx�ogx: Command not found
+tish error: #-2
+embox>
+ogx��V 3�
++ogx�ogx��V: Command not found
+tish error: #-2
+embox>
+lsogx
+embox>
+ogxogx�/V
+��: Command not found
+tish error: #-2
+embox>
+ogp 
+embox>�V
+embox>
+w@
+w@: Command not found
+tish error: #-2
+embox>
+e�����
+e�����: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+@Fl����� ��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

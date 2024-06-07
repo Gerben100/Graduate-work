@@ -1,0 +1,119 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/fs/dvfs/dvfs_util.c:291
+  in function dentry_ref_dec
+
+dentry
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�4ltycd
+embox>
+4ld
+4ld: Command not found
+tish error: #-2
+embox>
+�embox>
+4ld[K[10Cembox>
+4l[K[9C4lstdcd
+4l4lstdcd: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Ccd
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cy
+y: Command not found
+tish error: #-2
+embox>
+d[H[H[2Jembox>
+d[K[8C"
+d": Command not found
+tish error: #-2
+embox>
+embox>
+d"[K[9C�lstdsxitdb
+d": Command not found
+tish error: #-2
+embox>
+embox>
+d"[K[9Cembox>
+d"[K[6Cembox>
+d"[K[7Cembox>y[K[7Cembox>y[K[6Cembox>y[K[7Cembox>�y[K[8Cembox>�ty[K[9Cembox>�tly[K[10Cembox>�tloy[K[11Cembox>�tloty[K[12Cembox>�tlotly[K[13Cembox>�tlotloy[K[14Cembox>�tlotlogy[K[15Cembox>�tlotlog�y[K[16Cembox>�tlotlog�ly[Kembox>�tlotlog�loy[Kembox>�tlotlog�logy[K[19Cembox>�tlotlog�log�y[K[20Cembox>�tlotlog�log��y[K[21Cembox>�tlotlog�log��|y[K[22Cembox>�tlotlog�log��|ly[Kembox>�tlotlog�log��|loy[Kembox>�tlotlog�log��|loUy[Kembox>�tlotlog�log��|loU�y[Kembox>�tlotlog�log��|loU��yembox>�tlotlog�log��|loU��gyembox>�tlotlog�log��|loU��g�yembox>�tlotlog�log��|loU��g�lyembox>�tlotlog�log��|loU��g�loyembox>�tlotlog�log��|loU��g�logyembox>�tlotlog�log��|loU��g�log�yembox>�tlotlog�log��|loU��g�log��yembox>�tlotlog�log��|loU��g�log��|yembox>�tlotlog�log��|loU��g�log��|lyembox>�tlotlog�log��|loU��g�log��|loyembox>�tlotlog�log��|loU��g�log��|loUyembox>�tlotlog�log��|loU��g�log��|loU�yembox>�tlotlog�log��|loU��g�log��|loU��yembox>�tlotlog�log��|loU��g�log��|loU��tyembox>�tlotlog�log��|loU��g�log��|loU��t�y
+�tlotlog�log��|loU��g�log��|loU��t�y: Command not found
+tish error: #-2
+embox>
+"d!d!
+(null): Command not found
+tish error: #-2
+embox>
+" 
+(null): Command not found
+tish error: #-2
+embox>
+"@d�
+(null): Command not found
+tish error: #-2
+embox>
+"embox>
+"[K[7Cembox>
+�"[K[8Cembox>
+��"[K[9Cembox>
+��1"[K[10Cembox>
+��1�"[K[11C
+��1�": Command not found
+tish error: #-2
+embox>
+!�cd
+!�cd: Command not found
+tish error: #-2
+embox>
+"K 
+(null): Command not found
+tish error: #-2
+embox>
+p�T�\ 
+p�T�\: Command not found
+tish error: #-2
+embox>
+"@d�d�
+(null): Command not found
+tish error: #-2
+embox>
+G
+G: Command not found
+tish error: #-2
+embox>
+&  
+&: Command not found
+tish error: #-2
+embox>
+�d 
+�: Command not found
+tish error: #-2
+embox>
+�d
+�: Command not found
+tish error: #-2
+embox>
+wxx�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

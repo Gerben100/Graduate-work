@@ -1,0 +1,327 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@9\emembox>[K[6Cw@@@c?expA!embox>w@@@c?expA[K[19C
+embox>@:c666@@@�?@@@@it@@@@@�@& L@@@�?@@@iF@@O5@
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@membox>[K[6Cw@@@c?expA!embox>w@@@c?expA[K[19C
+embox>@:c666@@@�?@@@@it@@@@@�@& L@@@�?@@@iF@@O5@
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\ew@@@c?expA!embox>
+t&5r@@c666@@@�?@@@iF@@O5@9\ew@@@c?expA[K[50C
+t&5r: Command not found
+tish error: #-2
+embox>@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cc?expA!embox>c?expA[K[15C
+embox>@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@pA!embox>w@@@pA[K[15C
+embox>@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?ex!embox>w@@@c?ex[K[15C
+embox>@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@6@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c66�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@@�@& L@@@�?@@@iF@@O5@
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C�@& L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@ L@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@&@@@�?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L?@@@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�@iF@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@O5@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@
+t&5r: Command not found
+tish error: #-2
+embox>9\emembox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@
+t&5r: Command not found
+tish error: #-2
+embox>@O5@membox>[K[6Cw@@@c?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>
+t&5r[K[11C@@@�@& L@@@�?@@@iF@
+t&5r: Command not found
+tish error: #-2
+embox>@O5@9\ew@@@c?e@@�@
+@O5@9\e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>@O5@9\e[K[13C@@@�@& L@@@�?@@@iF@
+@O5@9\e: Command not found
+tish error: #-2
+embox>@O5@9\emembox>[K[6Cc?e@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>@O5@9\e[K[13C@@@�@& L@@@�?@@@iF@
+@O5@9\e: Command not found
+tish error: #-2
+embox>@O5@9\emembox>[K[6Cw@@@@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6Cw@@@c?expA
+embox>!embox>[K[8C@:c666@@@�?@@@@it@@embox>@O5@9\e[K[13C@@@�@& L@@@�?@@@iF@
+@O5@9\e: Command not found
+tish error: #-2
+embox>@O5@9\emembox>[K[6Cw@@@c?e@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5P9\emembox>[K[6Cw@@@c?exp@
+embox>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A!embox>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A[K[53C
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A: Command not found
+tish error: #-2
+embox>@:c6���������������������������66@@6@@@@@@it@@embox>[K<
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@A: Command not found
+tish error: #-2
+embox>@@�@& L@@@�?@@@jF@@O5@9\emembox>@@�@& [K[15Cw@@@c?e@@�@
+@@�@&: Command not found
+tish error: #-2
+embox>
+tO5@9\er@@c666@@@�?@@@iF@@[?5h[?5l&5membox>[Kw@@@c?expA
+embox>!embox>[K@:c666@@@�?@@@@it@@embox>@@�@&[K@@@�@& L@@@�?@@@iF@
+@@�@&: Command not found
+tish error: #-2
+embox>@O5@9\emembox>[Kw@@@cit@@�@
+embox>
+t[?5h[?5l&5r@@c@@@iF@@O5@9\emembox>[Kw@@membox>[Kw@@@c?expA
+embox>!embox>[K@:c666@@@�?@@@@it@@embox>@@�@&[K@@@logout�@& L@@@�?@
+@@�@&: Command not found
+tish error: #-2
+embox>@@iF@@O5@9\emembox>[Kw@@@c?e@@�@
+embox>
+t5@9\emembox>[Kw@@@c?expA@@O5@c666@@@�?@@@@Mt@@embox>@@�@&[K@@
+@@�@&: Command not found
+tish error: #-2
+embox>@�@& L�6@@@�?@@5@Mt@@embox>@@�@&[K@@exit@�@& L���?@
+@@�@&: Command not found
+tish error: #-2
+embox>@@iF@@O5@9\emembox>[Kw@@@ceE@�@
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[Kw@@@c?eembox>[K[13CpA
+embox>!embox>[K@:c666@@@�?@@@@Ft@@embox>@@�@&[K@@@�@& L@@@�?@@@iF@
+@@�@&: Command not found
+tish error: #-2
+embox>@O5@9\emembox>[Kw@@@c?e@@�@
+embox>
+t[?5h[?5l@embox>
+t@[Kembox>
+t@[Kembox>
+t@[Kembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[10Cembox>[K[11Cembox>[K[6Cembox>[K[7Cembox>[K[8C
+@:xj: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emembox>[K[6C���@c?expA
+���: Command not found
+tish error: #-2
+embox>!@:c666@@@�?@@@@it@@@@@x{h+�W@@@�?@@@iF@
+���: Command not found
+tish error: #-2
+embox>@O@9\em5P9\emw@@@c?e@@�@
+embox>
+t[?5h[?5l&5\emw@@@c?expA!@:66@logout@logout@
+���: Command not found
+tish error: #-2
+embox>�?@@@@it@@@@�@ L@@@�?@@@iF@@O5@9\emw@
+���: Command not found
+tish error: #-2
+embox>@@{?e@@�@
+@@{?e@@�@: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lt[?5h[?5l&5r@@c666@@@�?4@&iF@@O5@9\emw@@@c?ex
+embox>pA2@:W666@@@�?@@@@it@@@@@�@&logout�?@@@i
+@@{?e@@�@: Command not found
+tish error: #-2
+embox>F@@\5@9\emw@@�c?e@@�@
+F@@\5@9\e: Command not found
+tish error: #-2
+embox>
+�Aiill�g@@c666@@@�?@@@iF'@O5@9\emw@@@c?expA
+embox>!@:c666@@@�?@@@@it@2@@@�@& L@@@�?@@@iF@
+@@{?e@@�@: Command not found
+tish error: #-2
+embox>@O5@9\em@w@@c?e@@�@
+@w: Command not found
+tish error: #-2
+embox>
+u[?5h[?5l�&5r@@c666@@�&5r@@c666@@
+u[?5h[?5l: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&5r@b@@@6@@@⢳c?e@@�@
+t&5r: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+tsl�s
+tsl�s: Command not found
+tish error: #-2
+embox>
+ts��
+ts�: Command not found
+tish error: #-2
+embox>
+�sl�ogo���t
+�sl�ogo���t: Command not found
+tish error: #-2
+embox>
+ts
+t: Command not found
+tish error: #-2
+embox>
+k�l
+k�l: Command not found
+tish error: #-2
+embox>
+lstjlyxp�jlyxp�tt�l
+lstjlyxp�: Command not found
+tish error: #-2
+embox>
+t~x7r
+t~x7r: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+t�pinl
+t�pinl: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@s66@
+@s66@: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&5r@@c666@@@�?@@@iF@@O5@9\emw@@@c?expA
+embox>�@:c666@@@��cx�66F6>6T@
+��O@@+@Qe: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&5s@@c666@+@�?@@@iF@@O5@9\em@@@c?expA
+embox>!@:c666@@@��@Qe
+embox>
+t[?5h[?5l��"it6cd6�A��"it66F6
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

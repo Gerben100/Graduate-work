@@ -1,0 +1,62 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> ���ee���eue//
+���ee���eue//: Command not found
+tish error: #-2
+embox>
+l6@embox>
+l6@[K[12C6)5����������l�eeeeeeeeeeeeeeyeeeee�e
+l6@: Command not found
+tish error: #-2
+embox>
+r
+r: Command not found
+tish error: #-2
+embox>
+l������������embox>
+r[K[8Clogembox>
+l6@[K[10Cnee���embox> ���ee���eue//[K[23Cexporteee�@ee�log
+���ee���eue//: Command not found
+tish error: #-2
+embox>outee
+outee: Command not found
+tish error: #-2
+embox>
+l����������l�eeeeeeeeeeeee�eeDeeeee
+l����������l�eeeeeeeeeeeee�eeDeeeee: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�����������
+embox>H[eeeeeeeekembox>outee[K[11Ceeee�embox>outeeeeee�[K[17Cembox>outeeeeee�[K[18Cembox>outeeeeee��[K[19Cembox>outeeeeee��y[K[20Cembox>outeeeeee��ye[K[21Cembox>outeeeeee��yee[K[22Cembox>outeeeeee��yeee[K[23Cembox>outeeeeee��yeeew[K[24Cembox>outeeeeee��yeeewe[Kembox>outeeeeee��yeeewee[K
+outeeeeee: Command not found
+tish error: #-2
+embox>
+l����ee�������������������l�ee���������������eembox>
+l����ee�������������������l�ee���������������eembox>e
+l����ee�������������������l�ee���������������e[K[7Cembox>ee
+l����ee�������������������l�ee���������������e[K
+ee: Command not found
+tish error: #-2
+embox>eeFeexporteel�������d��lVeme
+eeFeexporteel��: Command not found
+tish error: #-2
+embox>
+l����������l�e}eeeeeeeeeeeeeeeeeeee
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,117 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>m��@5(embox>m��@5([K[13Cembox>m��@5�([K[14Cembox>m��@5�([K[15C pinembox>m��@5�( [K[16C�embox>m��@5�( [K[16C���embox>m��@5�( ���[K[20C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+m��5(embox>
+m��5([K[14Cembox>
+m��5�([K[15Cembox>
+m��5�([K[16C pinembox>
+m��5�( [K[17Cembox>[K[6Cembox>[K[6Cembox>[K[7C��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+m��5(embox>
+m��5([K[14Cembox>
+m��5r([K[15Cembox>
+m��5r([K[16Cembox>
+m��5r[K[15C I�i��
+tish error: #-22
+embox>
+�����!(embox>
+�����!([K[16Cembox>
+�����!�([K[17Cembox>
+�����!�([K[18Cembox>
+�����!�[K[17C �pin�
+tish error: #-22
+embox>��embox>[K[6C
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+mid$@�6
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>m
+[K[7Cembox>m
+[K[8Cembox>mm
+[K[9Cembox>mmm
+[K[10Cembox>mmmm
+[K[11Cembox>mmmmm
+[K[12Cembox>mmmmmm
+[K[13Cembox>mmmmmmi
+[K[14Cembox>mmmmmmid
+[K[15Cembox>mmmmmmid$
+[K[16Cembox>mmmmmmid$�
+[K[17Cembox>mmmmmmid$�
+[K[6Cembox>�mmmmmmid$�
+[K[7Cembox>�mmmmmmid$�
+[K[8C
+�mmmmmmid$�: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[9C
+tish error: #-22
+embox>
+membox>
+[K[8Cid$�!�
+tish error: #-22
+embox>
+m
+tish error: #-22
+embox>id$embox>id$[K[6Cembox>�id$[K[7Cembox>id$[K[6C
+id$: Command not found
+tish error: #-2
+embox>
+m"%%%%!%id$�embox>
+m"%%%%!%id$�embox>�
+m"%%%%!%id$�embox>�k
+m"%%%%!%id$�
+�k: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+id$�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10C
+id$�: Command not found
+tish error: #-2
+embox>
+kid$�embox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>
+mhK$�
+�: Command not found
+tish error: #-2
+embox>
+by4
+tish error: #-22
+embox>
+x[H[H[2JxWm)imx[H[2JxW
+tish error: #-22
+embox>
+�d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

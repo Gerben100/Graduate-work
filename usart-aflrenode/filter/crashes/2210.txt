@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�1G
+�1G: Command not found
+tish error: #-2
+embox>
+��Հ}�{�pi�X�{�pi�X embox>�1G[K[9C��kSSSSSS�SSSX S ��kSSS
+�1G��kSSSSSS�SSSX: Command not found
+tish error: #-2
+embox>FSS�SSSX embox>�1G��kSSSSSS�SSSX S ��kSSS[K[32CS1G
+�1G��kSSSSSS�SSSX: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�Հ}�l�pi�X embox>
+�[K[8C�S<;SSSSSSSSS1G
+��: Command not found
+tish error: #-2
+embox>
+�exit�Ո}�l�pi�X embox>
+��[K[9C�SSSSSSSSSSSS1G
+���: Command not found
+tish error: #-2
+embox>
+��Հ}�l�pi�X embox>
+���[K[10Cz���������SSS1G
+���z: Command not found
+tish error: #-2
+embox>
+�Հ}�l�l�
+embox>
+embox>
+��Հ}�����
+��Հ}���ř��: Command not found
+tish error: #-2
+embox>
+�Հ
+�Հ: Command not found
+tish error: #-2
+embox>
+��Հ}�l�exit
+��Հ}: Command not found
+tish error: #-2
+embox>
+��ls��logost
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�Հ�}�l�dn�in
+�ՀՀ�}: Command not found
+tish error: #-2
+embox>
+��Հ
+��Հ: Command not found
+tish error: #-2
+embox>
+jt
+tish error: #-22
+embox>
+�}�l�x[?5h[?5l
+�}: Command not found
+tish error: #-2
+embox>
+��Հ}
+embox>
+��Հ}�lЀ 
+��Հ}: Command not found
+tish error: #-2
+embox>
+��x:�6@@��,@@@@�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>|
+|: Command not found
+tish error: #-2
+embox>
+8embox>|[K[7C�;
+|�;: Command not found
+tish error: #-2
+embox>
+tembox>
+t[K[6Cembox>?
+t[K[7C
+?: Command not found
+tish error: #-2
+embox>
+dembox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+Z��[
+Z��[: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7CQQexportQDQQQQembox>
+QQexportQDQQQQ[K[6Cembox>Q
+QQexportQDQQQQ[K[7Cembox>QQ
+QQexportQDQQQQ[K[8Cembox>QQ�
+QQexportQDQQQQ[K[9Cembox>QQ�Q
+QQexportQDQQQQ[K[10Cembox>QQ�QQ
+QQexportQDQQQQ[K[11Cembox>QQ�QQQ
+QQexportQDQQQQ[K[12Cembox>QQ�QQQQ
+QQexportQDQQQQ[K[13Cembox>QQ�QQQQe
+QQexportQDQQQQ[K[14Cembox>QQ�QQQQex
+QQexportQDQQQQ[K[15Cembox>QQ�QQQQexi
+QQexportQDQQQQ[K[16Cembox>QQ�QQQQexit
+QQexportQDQQQQ[K[17Cembox>QQ�QQQQexitQ
+QQexportQDQQQQ[K[18Cembox>QQ�QQQQexitQ�
+QQexportQDQQQQ[K[19Cembox>QQ�QQQQexitQ�=
+QQexportQDQQQQ[K[20C
+QQ�QQQQexitQ�=: Command not found
+tish error: #-2
+embox>
+ �@
+tish error: #-22
+embox>
+
+embox>�D
+�D: Command not found
+tish error: #-2
+embox>
+dembox>
+[K[7CA�6�665ls6@@��@@ @@!@@@?@@o@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[45C��@@?@@
+@�@@@@?: Command not found
+tish error: #-2
+embox>@@�@@@@@@\@@e
+@@�@@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+dembox>
+[K[7CA�7�660ms6@@��@@@@@@@@Db�@$@@@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20C
+@�@@@W@[?5h[?5l: Command not found
+tish error: #-2
+embox>@�L\@@elogout
+@�L\@@elogout: Command not found
+tish error: #-2
+embox>
+dA�6�@e665ls6@@��@@?@@@@�@@@@@@\@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

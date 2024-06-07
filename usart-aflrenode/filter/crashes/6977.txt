@@ -1,0 +1,61 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>logouti
+logouti: Command not found
+tish error: #-2
+embox>
+!�embox>logouti[K[13CEcd���]O��wE��ebiembox>logoutiEcd���]O��wE��ebi[K[31Cembox>logoutiEcd���]O��wE��ebi[K[32C
+logoutiEcd: Command not found
+tish error: #-2
+embox>
+�embox>logoutiEcd[K[16C��embox>logouti[K[13C��岏expory@expor____�____#__F__________
+logouti��岏expory@expor____�____#__F__________: Command not found
+tish error: #-2
+embox>8texp�rtiii
+8texp�rtiii: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>8texp�rtiii[K[18C�embox>logouti��岏expory@expor____�____#__F__________embox>logoutiEcd��[K[18Cembox>logouti[K[14C�����e�posy@embox>logouti�����e�posy@��embox>logouti�����e�posy@��embox>elogouti�����e�posy@��embox>exlogouti�����e�posy@��embox>explogouti�����e�posy@��embox>exp�logouti�����e�posy@��embox>exp�rlogouti�����e�posy@��embox>exp�rtlogouti�����e�posy@��embox>exp�rtlogouti�����e�posy@��embox>exp�rtilogouti�����e�posy@��embox>exp�rtiilogouti�����e�posy@��embox>exp�rtiialogouti�����e�posy@��
+exp�rtiialogouti�����e�posy@: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>8texp�rtiii�[K[19C�embox>logouti��岏expory@expor____�____#__F__________.embox>logoutiEcd��[K[18Cembox>logouti[K[15C����ory4�[?5h[?5lembox>[K[6Ciembox>logoutiEcd��[K[19Cembox>[K[55Cembox>8texp�rtiii��[K[20Cembox>
+��[K[9C�embox>
+���[K[6Cembox>
+���[K[6Cembox>�
+���[K[7Cembox>�.
+���[K[8Cembox>�.�
+���[K[9Cembox>�.��
+���[K[10Cembox>�.���
+���[K[11C
+�.���: Command not found
+tish error: #-2
+embox>�embox>�[K[6Cembox>�[K[6Cembox>��[K[7Cembox>�.�[K[8Cembox>�.��[K[9Cembox>�.���[K[10Cembox>�.����[K[11Cembox>�.�����[K[12Cembox>�.������[K[13Cembox>�.�������[K[14Cembox>�.������/�[K[15C
+�.������/�: Command not found
+tish error: #-2
+embox>�embox>�[K[6Cembox>e�[K[7Cembox>e�[K[8Cembox>e�p�[K[9Cembox>e�p��[K[10Cembox>e�p�r�[K[11Cembox>e�p�rs�[K[12Cembox>e�p�rs�[K[13Cembox>e�p�rs�[K[14Cembox>e�p�rso�[K[15Cembox>e�p�rso/�[K[16Cembox>e�p�rso/��[K[17Cembox>e�p�rso/��[K[6Cembox>ee�p�rso/��[K[7Cembox>e�e�p�rso/��[K[8Cembox>e�pe�p�rso/��[K[9Cembox>e�p�e�p�rso/��[K[10Cembox>e�p�re�p�rso/��[K[11Cembox>e�p�rse�p�rso/��embox>e�p�rse�p�rso/��embox>e�p�rse�p�rso/��embox>e�p�rsoe�p�rso/��embox>e�p�rsore�p�rso/��embox>e�p�rsor�e�p�rso/��embox>e�p�rsor�ie�p�rso/��embox>e�p�rsor�iie�p�rso/��embox>e�p�rsor�iiie�p�rso/��
+e�p�rs: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>e�p�rs[K�embox>�.������/�embox>�.���
+���[Kembox>[K[20C�q���expory@��embox>[K[6C.��exembox>[K[55C�rtiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

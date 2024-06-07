@@ -1,0 +1,484 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> ^��^lembox> ^��^l[K[6Cembox> ^��^l[K[7Cembox>l ^��^l[K[8C
+embox>
+ embox>
+[K[7Cpin��embox>
+pin��[K[6Cembox>
+pin��[K[7Cembox>
+pin��[K[8Cembox>�
+pin��[K[9Cembox>��
+pin��[K[10Cembox>��}
+pin��[K[11Cembox>��}
+pin��[K[12Cembox>��}
+pin��[K[6Cembox>��}
+pin��[K[7Cembox>l��}
+pin��[K[8C
+embox>
+ embox>
+[K[7C���
+embox>������������������������xRRRR�����xRRRR
+������������������������xRRRR�����xRRRR: Command not found
+tish error: #-2
+embox>��embox>��[K[6Cembox>��[K[7Cembox>l��[K[8C
+embox>
+�embox>
+[K[7Cl
+tish error: #-22
+embox>
+ embox>
+[K[7Cembox>
+[K[7Cembox>������������������������xRRRR�����xRRRR[Kx���embox>������������������������xRRRR�����xRRRRx���[K[6Cembox>������������������������xRRRR�����xRRRRx���[K[7Cembox>������������������������xRRRR�����xRRRRx���[K[8Cembox>�������������������������xRRRR�����xRRRRx���[K
+embox>�embox>�[K[6Cembox>�[K[7Cembox>l�[K[8Cembox>lc�[K[9Cembox>lcd�[K[10C
+embox>
+�@embox>
+�[K[8Cembox>
+�[K[6Cembox>�
+�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+��� embox>
+��� [K[6Cembox>
+��� [K[7Cembox>
+��� [K[8Cembox>�
+��� [K[9Cembox>�
+��� [K[10Cembox>�
+��� [K[11Cembox>�
+��� [K[6Cembox>�
+�[K[9Cembox>�
+�[K[8Cembox>�
+�[K[9Cembox>�
+�[K[10Cembox>�
+��[K[11Cembox>�
+���[K[12Cembox>�
+���[K[13Cembox>�
+��r�[K[14Cembox>�
+��r�[K[15Cembox>�
+��r�[K[6Cembox>�
+��r�[K[7Cembox>l�
+��r�[K[8C
+embox>
+ embox>
+[K[7Cembox>
+[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>
+��[K[10Cembox>
+���[K[11Cembox>
+���@[K[12Cembox>
+���@[K[13Cembox>
+���@[K[6Cembox>
+���@[K[7Cembox>
+���@[K[8Cembox>�
+���@[K[9Cembox>��
+���@[K[10Cembox>��
+���@[K[11Cembox>��
+���@[K[12Cembox>��
+���@[K[6Cembox>��
+���@[K[7Cembox>l��
+���@[K[8C
+embox>
+ �embox>�
+�[K[9Cembox>
+[K[7Cx���embox>
+x���[K[6Cembox>
+x���[K[7Cembox>�
+x���[K[8Cembox>��
+x���[K[9Cembox>���
+x���[K[10Cembox>���
+x���[Kembox>���
+x���[K[6Cembox>���
+x���[Kembox>l���
+x���[K[8C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�
+[K[9Cembox>�
+[K[10Cembox>�
+[K[11Cembox>�
+[K[12Cembox>�
+[K[13Cembox>�
+[K[14Cembox>�
+[K[15Cembox>�
+[K[16Cembox>�
+[Kembox>�
+[Kembox>�
+[K[19Cembox>�
+[K[20Cembox>�
+[K[21Cembox>�
+[K[22Cembox>�
+[Kembox>�
+[Kembox>��
+[Kembox>���
+[Kembox>���
+embox>����
+embox>����t
+
+embox>
+ _embox>�
+�[K[9Cembox>
+[K[7Cx���embox>
+x���[K[6Cembox>
+x���[K[7Cembox>
+x���[K[8Cembox>�
+x���[K[9Cembox>��
+x���[K[10Cembox>���
+x���[Kembox>���
+x���[Kembox>���
+x���[Kembox>���
+x���[K[7Cembox>l���
+x���[K[8C
+embox>
+ embox>
+[K[7Cembox>�
+�[K[9C�wh���embox>�
+��wh���[K[6Cembox>q�
+��wh���[K[7Cembox>qp�
+��wh���[K[8Cembox>qpp�
+��wh���[K[9Cembox>qppp�
+��wh���[K[10Cembox>qpppp�
+��wh���[K[11Cembox>qppppp�
+��wh���[K[12Cembox>qpppppp�
+��wh���[K[13Cembox>qppppppp�
+��wh���[K[14Cembox>qpppppppp�
+��wh���[K[15Cembox>qppppppppp�
+��wh���[K[16Cembox>qpppppppppp�
+��wh���[K[17Cembox>qppppppppppp�
+��wh���[K[18Cembox>qppppppppppp�
+��wh���[K[19Cembox>qppppppppppp�
+��wh���[K[20Cembox>qppppppppppp���
+��wh���[K[21Cembox>qppppppppppp����
+��wh���[K[22Cembox>qppppppppppp�����
+��wh���[K[23Cembox>qppppppppppp�����
+��wh���[K[24Cembox>qppppppppppp�����
+��wh���[K[6Cembox>qppppppppppp�����
+��wh���[K[7Cembox>lqppppppppppp�����
+��wh���[K[8C
+embox>
+Ζe��Scdu
+Ζe��Scdu: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+ embox>
+[K[7Cembox>
+ [K[8C
+tish error: #-22
+embox>
+ embox>
+[K[7Cembox>
+ [K[8Cembox>
+Ζe��Scdu[K[16Cex�tembox>�
+�[K[9C���
+�: Command not found
+tish error: #-2
+embox>
+@\embox>�
+�[K[9Cembox>
+ [K[8Cdt_xembox>
+Ζe��Scduex�t�
+Ζe��Scduex�t�: Command not found
+tish error: #-2
+embox>
+
+d: Command not found
+tish error: #-2
+embox>
+ exit
+embox>
+ exit�exitڋ�
+dt_x: Command not found
+tish error: #-2
+embox>
+logouti}���
+d: Command not found
+tish error: #-2
+embox>
+t���
+Ζe��Scduex�t��: Command not found
+tish error: #-2
+embox>
+l\
+l: Command not found
+tish error: #-2
+embox>
+ exit%� 
+dtexit: Command not found
+tish error: #-2
+embox>
+u
+dt: Command not found
+tish error: #-2
+embox>
+��ls��
+��ls��: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+!�
+!�: Command not found
+tish error: #-2
+embox>
+te���t��lslo
+embox>
+z
+z: Command not found
+tish error: #-2
+embox>
+�d@�
+embox>
+embox>
+
+embox>
+qqqqq�X@ 
+qqqqq�X@: Command not found
+tish error: #-2
+embox>
+3d
+3d: Command not found
+tish error: #-2
+embox>
+�����
+�i^�6@1
+����: Command not found
+tish error: #-2
+embox>
+eex^dgo^lo�
+dt: Command not found
+tish error: #-2
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ ���`���\\
+������: Command not found
+tish error: #-2
+embox>
+���  �
+��: Command not found
+tish error: #-2
+embox>
+ �
+��: Command not found
+tish error: #-2
+embox>
+8883x88e8888888=8
+8883x88e8888888=8: Command not found
+tish error: #-2
+embox>
+ �! ��
+�!: Command not found
+tish error: #-2
+embox>
+�zzzzSISS
+�zzzzSISS: Command not found
+tish error: #-2
+embox>
+��d �
+embox>
+�
+dt: Command not found
+tish error: #-2
+embox>
+ �d�ye��
+�d�ye�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ 
+�: Command not found
+tish error: #-2
+embox>
+ 
+embox>
+�p
+�p: Command not found
+tish error: #-2
+embox>
+���
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�
+��: Command not found
+tish error: #-2
+embox>
+ 
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ 
+embox>
+ 
+embox>x�1
+x�: Command not found
+tish error: #-2
+embox>
+ccccccccccccc
+ccccccccccccc: Command not found
+tish error: #-2
+embox>
+log��
+embox>�%vSS�
+embox>xx�
+x�: Command not found
+tish error: #-2
+embox>
+Gpin��
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+:
+:: Command not found
+tish error: #-2
+embox>
+$
+tish error: #-22
+embox>
+ �
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+��ls�
+��ls�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�=
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+ne
+ne: Command not found
+tish error: #-2
+embox>
+,eV��&��
+,eV: Command not found
+tish error: #-2
+embox>
+\�i|77ei|777
+\: Command not found
+tish error: #-2
+embox>
+$(���
+dt(���: Command not found
+tish error: #-2
+embox>
+
+embox>(
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+ (
+embox>m
+dt: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ �
+dt�: Command not found
+tish error: #-2
+embox>
+c���
+dt: Command not found
+tish error: #-2
+embox>
+ (
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+xej� ���������@@@@��������B8�����������
+Ζe��Scduex�t�xej�: Command not found
+tish error: #-2
+embox>����@`�(Z@�
+�: Command not found
+tish error: #-2
+embox>
+x�j��u��6656>6z@��@@W@@)@���@�����B@�����
+Ζe��Scduex�t�x�j�: Command not found
+tish error: #-2
+embox>������R��
+embox>
+xej��u�6656>6z@��@@W@@@@@@@\@���@)@cd?B@���
+Ζe��Scduex�t�xej�: Command not found
+tish error: #-2
+embox>��������B@��������������
+embox>
+xej��u�6656>6z@ls��@@W@@@@@@@\@���@�)@cd?B@
+Ζe��Scduex�t�xej�: Command not found
+tish error: #-2
+embox>�������������������������������������@Z@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

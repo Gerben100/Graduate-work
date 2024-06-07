@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�_
+�_: Command not found
+tish error: #-2
+embox>
+exi�r�embox>
+exi�r�[K[12Cembox>
+exi�r�[K[13Cembox>
+exi�r��[K[14Cembox>
+exi�r�[K[13Cembox>
+exi�r�[K[14Cembox>
+exi�r�[K[15C
+exi�r: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C
+embox>
+�xembox>
+�[K[8C��
+���: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+ii
+ii: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox><
+[K[7Cembox><
+[K[6Cembox><<
+[K[7C
+<<: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+�mxembox>
+[K[7C�
+tish error: #-22
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+!
+!: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+tish error: #-22
+embox>
+y[?5h[?5l
+tish error: #-22
+embox>
+logtuo�
+logtuo�: Command not found
+tish error: #-2
+embox>
+�ypin�
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+Y�G
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�i
+�i: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+z
+tish error: #-22
+embox>
+6��
+6��: Command not found
+tish error: #-2
+embox>
+��lq�rllu��rjl_
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

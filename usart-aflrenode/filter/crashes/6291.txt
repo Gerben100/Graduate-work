@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>R[?5h[?5l�pin���rrtexportxi��
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+V�
+V�: Command not found
+tish error: #-2
+embox>
+Rembox>
+V�[K[9Cnembox>����[K[11Cembox>����[K[11Ctd
+����td: Command not found
+tish error: #-2
+embox>
+R�embox>
+R�[K[6Cembox>
+R�[K[7Cembox>
+R�[K[8Cembox>
+R�[K[6C
+: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>
+R[K[7Cembox>
+R[K[6Cembox>�
+R[K[7Cembox>��
+R[K[8Cembox>���
+R[K[9C
+���: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>
+R[K[7Cembox>�
+R[K[8Cembox>�6
+R[K[9Cembox>�6G
+R[K[10Cembox>�6G5
+R[K[11Cembox>�6G5
+R[K[12Cembox>�6G5
+R[K[13Cembox>�6G5
+R[K[14Cembox>�6G5
+R[K[13Cembox>�6G5�
+R[K[14Cembox>�6G5�[
+R[K[15Cembox>�6G5�[�
+R[K[16Cembox>�6G5�[��
+R[K[17Cembox>�6G5�[��p
+R[K[18Cembox>�6G5�[��pi
+R[K[19Cembox>�6G5�[��pin
+R[K[20Cembox>���
+R[K[11Ccds@l�embox>���
+Rcds@l[K[18C�@�d�
+���: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>
+R[K[7Cembox>�
+R[K[8Cembox>�o
+R[K[9Cembox>�o
+R[K[10Cembox>�o�
+R[K[11Cembox>�o��
+R[K[12Cembox>�o��i
+R[K[13Cembox>�o��in
+R[K[14Cembox>���
+R[K[11Cd
+���: Command not found
+tish error: #-2
+embox>
+e hdort�td
+tish error: #-22
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+Rembox>
+R[K[6Cembox>
+R[K[7Cembox>�
+R[K[8Cembox>�s
+R[K[9Cembox>�si
+R[K[10Cembox>�sin
+R[K[11Cembox>
+ls[K[9Cstd
+ls: Command not found
+tish error: #-2
+embox>
+s d
+s: Command not found
+tish error: #-2
+embox>
+�pXnXntd
+tish error: #-22
+embox>
+Rembox>
+R[Kembox>
+R[Kembox>�
+R[Kembox>�p
+R[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+embox>
+Rembox>
+R[Kembox>�
+R[Kembox>��
+R[Kembox>��p
+R[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+��pin����: Command not found
+tish error: #-2
+embox>�embox>�[K[6Cembox>d�embox>d�embox>d��embox>d��embox>d��embox>d��embox>d���embox>d����embox>d�����embox>d������embox>d�������embox>d��������embox>[K[6Cxi4�x\��embox>��pin����
+Rembox>��pin����
+
+��pin����: Command not found
+tish error: #-2
+embox>
+R
+embox>
+R
+embox>
+cl���
+cl�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pi�@������ւ��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

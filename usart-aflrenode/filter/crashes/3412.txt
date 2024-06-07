@@ -1,0 +1,175 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�LLLLLLLLLLLLL��
+�LLLLLLLLLLLLL��: Command not found
+tish error: #-2
+embox>
+�Dembox>
+�D[K[10Cembox>
+��D[K[11Cembox>
+��D[K[12Cembox>
+��D[K[13Cembox>
+��D[K[14Cembox>
+���D[K[15Cembox>
+���DD[K[16Cembox>
+���DD[K[17Cembox>
+���DDD[K[18Cembox>
+���DDD[K[19Cembox>
+���DD�D[K[20Cembox>
+���DD��D[K[21Cembox>
+���DD���D[K[22Cembox>
+���DD���DD[K[23Cembox>
+���DD���DD[K[24Cembox>
+���DD���DDD[K[25Cembox>
+���DD���DDD[K[26Cembox>
+���DD���DD�D[K[27Cembox>
+���DD���DD��D[K[28Cembox>
+���DD���DD���D[K[29Cembox>
+���DD���DD���~D[K[30Cembox>
+���DD���DD���~D[K[31C
+tish error: #-22
+embox>
+����DD���embox>
+����DD���[K[20Cembox>
+����DD���[K[20C�embox>
+����DD����[K[21C�
+tish error: #-22
+embox>
+��wiiembox>
+��wii[K[15Cembox>
+��wii�[K[16Cembox>
+��wii��[K[17Cembox>
+��wii��y[K[18Cembox>
+��wii��ye[K[19C
+tish error: #-22
+embox>
+&��weiembox>
+&��wei[K[15Cembox>
+&��wei�[K[16Cembox>
+&��wei��[K[17Cembox>
+&��wei��y[K[18Cembox>
+&��wei��ye[K[19C
+tish error: #-22
+embox>
+��[?5h[?5lmiembox>
+��mi[K[6Cembox>�
+��mi[K[7Cembox>�
+��mi[K[8Cembox>�
+��mi[K[7Cembox>�w
+��mi[K[8Cembox>�wm
+��mi[K[9Cembox>�wmi
+��mi[K[10Cembox>�wmi�
+��mi[K[11Cembox>�wmi
+��mi[K[10Cembox>�wmiw
+��mi[K[11Cembox>�wmiwm
+��mi[K[12Cembox>�wmiwm
+��mi[K[13Cembox>�wmiwm
+��mi[K[12Cembox>�wmiwmw
+��mi[K[13Cembox>�wmiwmwm
+��mi[K[14Cembox>�wmiwmwmi
+��mi[K[15Cembox>�wmiwmwmi
+��mi[K[16Cembox>�wmiwmwmi
+��mi[K[15Cembox>�wmiwmwmi
+��mi[K[14Cembox>�wmiwmwmmi
+��mi[K[15Cembox>�wmiwmwmmmi
+��mi[K[16Cembox>�wmiwmwmmmxi
+��mi[K[17Cembox>�wmiwmwmmmxKi
+��mi[K[18C
+�wmiwmwmmmxKi: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox> 
+embox> [K[7Cembox> [K[6C
+tish error: #-22
+embox>
+��K�wriembox>
+��K�wri[K[16Cembox>
+��K�wri�[K[17Cembox>
+��K�wri��[K[18Cembox>
+��K�wri��p[K[19Cembox>
+��K�wri��pe[K[20C
+tish error: #-22
+embox>
+��[?5h[?5lXembox>
+��X[K[12Cembox>
+��X�[K[13Cembox>
+��X�[K[14Cembox>
+��X�V[K[15Cembox>
+��X�Ve[K[16C
+tish error: #-22
+embox>
+S�
+S�: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+embox>
+[K[7Ccdembox>
+S�[K[9Cembox>
+S�[K[10Cembox>
+S�[K[11Cembox>
+S��[K[12Cembox>
+S�[K[11Cembox>
+S�y[K[12Cembox>
+S�ye[K[13Cembox>
+S�yea[K[14Cembox>
+S�year[K[15Cembox>
+S�yearo[K[16Cembox>
+S�yearo[K[17Cembox>
+S�yearo�[K[18Cembox>
+S�yearo[K[17Cembox>
+S�yearoy[K[18Cembox>
+S�yearoye[K[19Cembox>
+S�yearoyea[K[20Cembox>
+S�yearoyear[K[21Cembox>
+S�yearoyearo[K[22Cembox>
+S�yearoyearouembox>
+S�yearoyearouv
+S�: Command not found
+tish error: #-2
+embox>
+���wpine��
+�: Command not found
+tish error: #-2
+embox>
+i������iembox>
+i������iembox>
+i������ie
+i: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+��logcdoutM�b 
+iM�b: Command not found
+tish error: #-2
+embox>
+���^
+BB xportye��eBBBpilsn�j 
+iM�b: Command not found
+tish error: #-2
+embox>
+���l
+pils��j 
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

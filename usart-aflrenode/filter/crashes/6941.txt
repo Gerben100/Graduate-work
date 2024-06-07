@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Re\ixi
+Re\ixi: Command not found
+tish error: #-2
+embox>
+R�Yembox>Re\ixi[K[12Cls
+Re\ixi: Command not found
+tish error: #-2
+embox>
+}xiembox>Re\ixi[K[12C
+Re\ixi: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>x
+[K[8Cembox>xi
+[K[9Cembox>xi
+[K[10Cembox>Re\ixi[K[12C
+Re\ixi: Command not found
+tish error: #-2
+embox>
+y�������y��
+y�������y��: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+.�
+.�: Command not found
+tish error: #-2
+embox>
+;
+;: Command not found
+tish error: #-2
+embox>
+embox>�
+embox>
+Re]@
+Re]@: Command not found
+tish error: #-2
+embox>
+[
+[: Command not found
+tish error: #-2
+embox>
+RFxitembox>
+RFxi[K[11Ctembox>
+RFxi[K[11CR8RRReeRembox>
+[[K�expoi��rvx
+[: Command not found
+tish error: #-2
+embox>
+�exitembox>
+�exi[K[11CRRRRReexporrxit�
+�exiRRRRReexporrxit�: Command not found
+tish error: #-2
+embox>
+RRexitembox>
+RRexi�rsxit
+RRexi�rsxit: Command not found
+tish error: #-2
+embox>
+Rexitx
+Rexitx: Command not found
+tish error: #-2
+embox>
+Reembox>
+R�tembox>[KRRRRRloxit�
+RRRRRloxit�: Command not found
+tish error: #-2
+embox>
+ReYit�RRRRRee"porvxOOOOOOOOOOOOOOOO:OOOOOOOOOOOOOO
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

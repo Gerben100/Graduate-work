@@ -1,0 +1,60 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�6656>6t@@@@@L@@?@r@@embox>�6656>6t@@@@@L@@?@r@@[K[27C��@expo@@@@@@@@@@@\@@exp@�@
+�6656>6t@@@@@L@@?@r@@��@expo@@@@@@@@@@@\@@exp@�@: Command not found
+tish error: #-2
+embox>@@@?@@@&@@@@@@@@\@@expo
+@@@?@@@&@@@@@@@@\@@expo: Command not found
+tish error: #-2
+embox>
+�6656>6R@embox>
+�6656>6R@[K[16C�@@@@@@@@@?@@@+@@@@@@@@\@@exp@�@@�@'@@
+�6656>6R@�@@@@@@@@@?@@@+@@@@@@@@\@@exp@�@@�@'@@: Command not found
+tish error: #-2
+embox>@@@@9@@@@@\�expo
+@@@@9@@@@@\�: Command not found
+tish error: #-2
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C�@@@@?@@@@\@@ex@@@@@@@@po
+�6656>6@@�@@@@?@@@@\@@ex@@@@@@@@po: Command not found
+tish error: #-2
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C��@@@@@@@@@?@@@@@@@'@@\@@[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+�6656>6@@��@@@@@@@@@?@@@@@@@: Command not found
+tish error: #-2
+embox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5le�po
+e�po: Command not found
+tish error: #-2
+embox>
+�@@@
+@@@cd?@@\@@expo: Command not found
+tish error: #-2
+embox>
+@@@�?@@@@?���@\exit@@exp 
+tish error: #-22
+embox>
+�B@@N*@?@@@@@6@@N@@?@@@@@3@@@@@[@@@\@@
+embox>
+�6656>6@@@@@@@@@@X@]@\@@exp@�@@@@?@@@@@@.��@@@@@
+�6656>6@@: Command not found
+tish error: #-2
+embox>@@@@?@@@@@@@@@@]@\@@exp@�@@@@?@@@@@@@@@@@@\@@expo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

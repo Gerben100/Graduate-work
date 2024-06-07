@@ -1,0 +1,83 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[7Cembox>[K[6C
+embox>
+Eexit@
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+E��@
+embox>embox>[K[6C
+embox>
+=@�l�s"���?��
+=: Command not found
+tish error: #-2
+embox>
+Elrp@�@BR@�
+Elrp@�@BR@�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P������A\@Q@@@@@@6�6embox>
+E[K[8Cp@�@@@@@dx@@@�@@@
+Ep@�@@@@@dx@@@�@@@: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P������6�6A\@embox>P������6�6A\[K[20C���@�@�����Mdi�@@@
+P�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P��������embox>
+E[K[8C@@@A\@@dxp@@@@@�@@@
+E@@@A\@@dxp@@@@@�@@@: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P������6�6@L@Q@@@@@@�@@@
+P�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>=�
+����6: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>logout�6pin@@
+A\@@N@P@@@@@@@: Command not found
+tish error: #-2
+embox>
+�
+embox>P�����6�@B@*\@@dxt@�@,@@Q@@@@@@�@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

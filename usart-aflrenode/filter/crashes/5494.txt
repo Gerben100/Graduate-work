@@ -1,0 +1,79 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xxxx4
+x: Command not found
+tish error: #-2
+embox>
+w�embox>
+w[K[8C��sdxxyx
+w��sdxxyx: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9Cxx
+��x: Command not found
+tish error: #-2
+embox>
+x�xxx
+x: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Crt1stdtts/f�tttttttttdttF ttt
+xrt1stdtt: Command not found
+tish error: #-2
+embox>ttttttztexitt�@tgout
+ttttttztexitt�: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8CpOrt<stttttbt<stttttttttttqb�tVtt0
+xpOrt<stttttbt<s: Command not found
+tish error: #-2
+embox>,ttt
+embox>
+xembox>
+x[K[8C
+embox>][?5h[?5l7xport1stttexitttVttjtttttembox>[K[6Cztttt/tttttttttttdttF ztttttttttttt�tt�@tgo
+embox>ut
+ut: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K
+embox>][?5h[?5l�xpo��oooooooooooooo����tttt�s/
+]�xpo��oooooooooooooo����tttt: Command not found
+tish error: #-2
+embox>tttttttttttdttF ttttttttttttt�pt�@tgout
+tttttttttttdttF: Command not found
+tish error: #-2
+embox>
+xembox>
+x
+embox>][?5h[?5l7xpor^���t1�lttttttbttVtttt
+ttttttbttVtt: Command not found
+tish error: #-2
+embox>tttt�
+embox>�@tgout
+�: Command not found
+tish error: #-2
+embox>
+x
+embox>][?5h[?5l7xport1sttttttbexportttVttit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> llltlteeee
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6Cxei�embox>xei�[K[13Cembox>xei�[K[14Cembox>xei��[K[15Cembox>xei�z�[K[16Cembox>xei�z(�[K[17Cembox>xei�z(��[K[18Cembox>xei�z(�g�[K[19Cembox>xei�z(�ge�[K[20Cembox>xei�z(�gee�[K[21Cembox>xei�z(�geeQ�[K[22C
+embox>eee
+eee: Command not found
+tish error: #-2
+embox>
+�pO{Zwi|�����
+�pO{Zwi|: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cxe@xei�embox>xe@xei�[K[22Cembox>xe@xei�[K[23Cembox>xe@xei��[K[24Cembox>xe@xei�y�[K[25Cembox>xe@xei�y(�[K[26Cembox>xe@xei�y(��[K[27Cembox>xe@xei�y(�g�[K[28Cembox>xe@xei�y(�ge�[K[29Cembox>xe@xei�y(�gee�[K[30Cembox>xe@xei�y(�geee�[K[31Cembox>xe@xei�y(�geeee�[K[32Cembox>xe@xei�y(�geeeee�[K[33Cembox>xe@xei�y(�geeeeee�[K[34Cembox>xe@xei�y(�geeeeeei�[K[35Cembox>xe@xei�y(�geeeeeei��[K[36Cembox>xe@xei�y(�geeeeeei��[K[35Cembox>xe@xei�y(�geeeeeei��[K[36Cembox>xe@xei�y(�geeeeeei���[K[37Cembox>xe@xei�y(�geeeeeei�y��[K[38Cembox>xe@xei�y(�geeeeeei�y(��[K[39Cembox>xe@xei�y(�geeeeeei�y(���[K[40Cembox>xe@xei�y(�geeeeeei�y(�g��[K[41Cembox>xe@xei�y(�geeeeeei�y(�ge��[K[42Cembox>xe@xei�y(�geeeeeei�y(�gee��[Kembox>xe@xei�y(�geeeeeei�y(�geee��[Kembox>xe@xei�y(�geeeeeei�y(�geeee��[Kembox>xe@xei�y(�geeeeeei�y(�geeeee��[Kembox>xe@xei�y(�geeeeeei�y(�geeeeee��[Kembox>xe@xei�y(�geeeeeei�y(�geeeeeee��[K
+embox>
+�xpt
+�xpt: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+�rt6:
+tish error: #-22
+embox>
+,
+,: Command not found
+tish error: #-2
+embox>
+�#@��t�:
+�#@��t�:: Command not found
+tish error: #-2
+embox>
+t:
+t:: Command not found
+tish error: #-2
+embox>
+��U
+��U: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kembox>p
+[Kembox>pt
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17C
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�t:
+�t:: Command not found
+tish error: #-2
+embox>
+t~t�t~����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

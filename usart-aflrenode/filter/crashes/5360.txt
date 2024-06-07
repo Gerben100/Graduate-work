@@ -1,0 +1,217 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�66embox>�66[K[6Cembox>�66[K[7Cembox>�66[K[8Cembox>@�66[K[9Cembox>�66[K[8Cembox>��66[K[9Cembox>���66[K[10Cembox>����66[K[11Cembox>�����66[K[12Cembox>����S�66[K[13Cembox>����S@�66[K[14Cembox>����S@@�66[K[15Cembox>����S@@@�66[K[16Cembox>����S@@@@�66[K[17Cembox>����S@@@@@�66[K[18Cembox>����S@@@@@@�66[K[19Cembox>����S@@@@@@t�66[K[20Cembox>����S@@@@@@tt�66[K[21Cembox>����S@@@@@@ttt�66[K[22Cembox>����S@@@@@@ttt��66[K[23Cembox>����S@@@@@@ttt�u�66[K[24Cembox>����S@@@@@@ttt�ut�66[K[25Cembox>����S@@@@@@ttt�utt�66[K[26Cembox>����S@@@@@@ttt�uttt�66[K[27Cembox>����S@@@@@@ttt�utttt�66[K[28Cembox>����S@@@@@@ttt�uttttt�66[K[29Cembox>����S@@@@@@ttt�utttttt�66[K[30Cembox>����S@@@@@@ttt�uttttttt�66[K[31Cembox>����S@@@@@@ttt�utttttttt�66[K[32Cembox>����S@@@@@@ttt�utttttttt��66[K[33Cembox>����S@@@@@@ttt�utttttttt���66[K[34Cembox>����S@@@@@@ttt�utttttttt����66[K[35Cembox>����S@@@@@@ttt�utttttttt�����66[K[36Cembox>����S@@@@@@ttt�utttttttt����66[K[35Cembox>����S@@@@@@ttt�utttttttt�����66[K[36Cembox>����S@@@@@@ttt�utttttttt����w�66[K[37Cembox>����S@@@@@@ttt�utttttttt����wt�66[K[38Cembox>����S@@@@@@ttt�utttttttt����wtt�66[K[39Cembox>����S@@@@@@ttt�utttttttt����wttt�66[K[40Cembox>����S@@@@@@ttt�utttttttt����wtttQ�66[K[41Cembox>����S@@@@@@ttt�utttttttt����wtttQl�66[K[42Cembox>����S@@@@@@ttt�utttttttt����wtttQls�66[K[43Cembox>����S@@@@@@ttt�utttttttt����wtttQls?�66[K[44Cembox>����S@@@@@@ttt�utttttttt����wtttQls?@�66[K[45Cembox>����S@@@@@@ttt�utttttttt����wtttQls?@e�66[K[46C
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�q�@@ @@@@t�t�embox>
+�q�@@ @@@@t�t�[K[6Cembox>
+�q�@@ @@@@t�t�[K[7Cembox>
+�q�@@ @@@@t�t�[K[8Cembox>@
+�q�@@ @@@@t�t�[K[9Cembox>@9
+�q�@@ @@@@t�t�[K[10Cembox>@9
+�q�@@ @@@@t�t�[K[11Cembox>@9
+�q�@@ @@@@t�t�[K[12Cembox>@9�
+�q�@@ @@@@t�t�[K[13Cembox>@9�@
+�q�@@ @@@@t�t�[K[14Cembox>@9�@9
+�q�@@ @@@@t�t�[K[15Cembox>@9�@9
+�q�@@ @@@@t�t�[K[16Cembox>@9�@9
+�q�@@ @@@@t�t�[K[17Cembox>@9�@9�
+�q�@@ @@@@t�t�[K[18Cembox>@9�@9��
+�q�@@ @@@@t�t�[K[19Cembox>@9�@9��t
+�q�@@ @@@@t�t�[K[20Cembox>@9�@9��ti
+�q�@@ @@@@t�t�[K[21Cembox>@9�@9��tit
+�q�@@ @@@@t�t�[K[22Cembox>@9�@9��titt
+�q�@@ @@@@t�t�[K[23Cembox>@9�@9��tittt
+�q�@@ @@@@t�t�[K[24Cembox>@9�@9��titttt
+�q�@@ @@@@t�t�[K[25Cembox>@9�@9��tittttt
+�q�@@ @@@@t�t�[K[26Cembox>@9�@9��titttttt
+�q�@@ @@@@t�t�[K[27Cembox>@9�@9��tittttttt
+�q�@@ @@@@t�t�[K[28Cembox>@9�@9��tittttttt�
+�q�@@ @@@@t�t�[K[29Cembox>@9�@9��tittttttt�t
+�q�@@ @@@@t�t�[K[30Cembox>@9�@9��tittttttt�tt
+�q�@@ @@@@t�t�[K[31Cembox>@9�@9��tittttttt�tt�
+�q�@@ @@@@t�t�[K[32Cembox>@9�@9��tittttttt�tt�t
+�q�@@ @@@@t�t�[K[33Cembox>@9�@9��tittttttt�tt�ti
+�q�@@ @@@@t�t�[K[34Cembox>@9�@9��tittttttt�tt�tit
+�q�@@ @@@@t�t�[K[35Cembox>@9�@9��tittttttt�tt�titt
+�q�@@ @@@@t�t�[K[36Cembox>@9�@9��tittttttt�tt�tittt
+�q�@@ @@@@t�t�[K[37Cembox>@9�@9��tittttttt�tt�titttt
+�q�@@ @@@@t�t�[K
+embox>ttt�tttttt�t�wt�wttt[embox>ttt�tttttt�t�wt�wttt[K[26C�utttittttttt�t�wtttQ@titt�t
+ttt�tttttt�t�wt�wttt�utttittttttt�t�wtttQ@titt�t: Command not found
+tish error: #-2
+embox>ttt�t�wexport?@expo
+ttt�t�wexport?@expo: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>
+�66[K[8Cembox>
+�66[K[9Cembox>
+�66[K[10Cembox>
+�66[K[11Cembox>@
+�66[K[12Cembox>@�
+�66[K[13Cembox>@�@
+�66[K[14Cembox>@�@@
+�66[K[15Cembox>@�@@@
+�66[K[16Cembox>@�@@@@
+�66[K[17Cembox>@�@@@@ 
+�66[K[18Cembox>@�@@@@ @
+�66[K[19Cembox>@�@@@@ @�
+�66[K[20Cembox>@�@@@@ @�[
+�66[Kembox>@�@@@@ @�[@
+�66[Kembox>@�@@@@ @�[@t
+�66[K[23Cembox>@�@@@@ @�[@tt
+�66[K[24Cembox>@�@@@@ @�[@ttl
+�66[K[25Cembox>@�@@@@ @�[@ttl�
+�66[K[26Cembox>@�@@@@ @�[@ttl�t
+�66embox>@�@@@@ @�[@ttl�tt
+�66embox>@�@@@@ @�[@ttl�ttt
+�66embox>@�@@@@ @�[@ttl�tttt
+�66embox>@�@@@@ @�[@ttl�ttttt
+�66embox>@�@@@@ @�[@ttl�tttttt
+�66embox>@�@@@@ @�[@ttl�tttttt�
+�66embox>@�@@@@ @�[@ttl�tttttt�t
+�66embox>@�@@@@ @�[@ttl�tttttt�t�
+�66embox>@�@@@@ @�[@ttl�tttttt�t�w
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wt
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtt
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wttt
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@t
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ@
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ@W
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ@W?
+�66embox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ@W?@
+�66[K[50Cembox>@�@@@@ @�[@ttl�tttttt�t�wtttQ@W?@tQ@W?@e
+�66[K
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>�
+�66[K[8Cembox>�@
+�66[K[9Cembox>�@@
+�66[K[10Cembox>xpo[K[9C��[@@ @@@@tts�uttttttttttt�t�wttembox>xpo��[@@ @@@@tts�uttttttttttt�t�wt@W?@e
+xpo: Command not found
+tish error: #-2
+embox>�po
+�po: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>
+�66[K[8Cembox>@
+�66[K[9Cembox>@@
+�66[K[10Cembox>�po[K[9C��[@@ @@@@ttt�uttttttttttt�t�w�tQ@WT@e
+�po: Command not found
+tish error: #-2
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>
+�66[K[8Cembox>@
+�66[K[9Cembox>@@
+�66[K[10Cembox>xpo[K[9C��[@@�tt�uttttttttttt�t��ttQ@portxport
+xpo: Command not found
+tish error: #-2
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>
+�66[K[8Cembox>@
+�66[K[9Cembox>@@
+�66[K[10Cembox>xpo[K[9C��cd[@@ @@@@ttt�uttttttttttt�t�w[ttlogo
+xpo: Command not found
+tish error: #-2
+embox>utQ@W?@expm
+utQ@W?@expm: Command not found
+tish error: #-2
+embox>
+�66embox>
+�66[K[6Cembox>
+�66[K[7Cembox>
+�66[K[8Cembox>@
+�66[K[9Cembox>@@
+�66[K[10Cembox>utQ@W?@expm[K[17C��pin[@@ @@@@exit�ettt�utttttsttttt�t
+utQ@W?@expm: Command not found
+tish error: #-2
+embox>t�wtttQ@W?@�wtttQ@W?@expo
+t�wtttQ@W?@�wtttQ@W?@expo: Command not found
+tish error: #-2
+embox>
+�66��[@@ P@@@ttt�uttttttttttt�t�wtttQ@W?@e
+t�wtttQ@W?@�wtttQ@W?@expo: Command not found
+tish error: #-2
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�66���[@@ @exit@\@ttt�uttttttttttt�t�wtttQ
+xpo�: Command not found
+tish error: #-2
+embox>@W?@expo
+@W?@expo: Command not found
+tish error: #-2
+embox>
+��[pn@@@\tt utttttttkttt�t
+xpon@@@\tt: Command not found
+tish error: #-2
+embox>
+�66��[@@ @@@@ttt�utttt��tct�t�wtttQ@W?@e
+xpo: Command not found
+tish error: #-2
+embox>xpo
+xpo: Command not found
+tish error: #-2
+embox>
+�66�[@@ @@@@tttppxpNpppppp����ppp��pcc
+xpo: Command not found
+tish error: #-2
+embox>p
+embox>
+embox>
+6
+�: Command not found
+tish error: #-2
+embox>
+�66
+tish error: #-22
+embox>
+�66ttttttttt�t��tttQ@W?�@expo
+embox>
+�6ttttuwtttQ#W?@exttttttouttttttttttVupieq���t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

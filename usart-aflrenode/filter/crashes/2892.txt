@@ -1,0 +1,40 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xd
+embox>
+lsnnYnnn�nnnnognnpnn�nnnncnembox>
+lsnnYnnn�nnnnognnpnn�nnnnc[K[33C�nn�nnn
+lsnnYnnn�nnnnognnpnn�nnnnc�nn�nnn: Command not found
+tish error: #-2
+embox>
+lsiembox>
+lsi[K[11Cembox>
+lsip[K[12Cembox>
+lsipi[K[13Cembox>
+lsipin[K[14Cembox>
+lsipino[K[15Cembox>
+lsipinog[K[16Cembox>
+lsipinogo[K[17C
+tish error: #-22
+embox>
+�kydi��embox>
+�kydi��[K[6Cembox>
+[K[7Clogouqembox>
+lsnnYnnn�nnnnognnpnn�nnnnc�nn�nnn[K[40Cx~�logouTembox>[K[6C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

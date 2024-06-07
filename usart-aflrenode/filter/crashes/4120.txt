@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�6��ll^embox>�6��ll[K[12Cembox>�6��l[K[11C^�embox>�6��l^[K[12C�� {i�embox>�6��l^�� {i�[K[6Cembox>��6��l^�� {i�[K[7Cembox>�@�6��l^�� {i�[K[8Cembox>�@@�6��l^�� {i�[K[9Cembox>�@@a�6��l^�� {i�[K[10Cembox>�@@a@�6��l^�� {i�[K[11Cembox>�@@a@@�6��l^�� {i�[K[12Cembox>�@@a@@@�6��l^�� {i�[K[13Cembox>�@@a@@@��6��l^�� {i�[K[14Cembox>�@@a@@@���6��l^�� {i�[K[15Cembox>�@@a@@@����6��l^�� {i�[K[16Cembox>�@@a@@@����6��l^�� {i�[K[17Cembox>�@@a@@@���r�6��l^�� {i�[K[18Cembox>�@@a@@@���r��6��l^�� {i�[K[19Cembox>�@@a@@@���r��6��l^�� {i�[K[6Cembox>@�@@a@@@���r��6��l^�� {i�[K[7Cembox>@��@@a@@@���r��6��l^�� {i�[K[8Cembox>@��@@a@@@���r��6��l^�� {i�[K[9C
+embox>pin@@?�embox>pin@@?�[K[6Cembox>pin@@?�[K[7Cembox>@pin@@?�[K[8Cembox>@@pin@@?�[K[9Cembox>@@ppin@@?�[K[10C
+embox>pppp�@
+pppp�@: Command not found
+tish error: #-2
+embox>
+�xexporZ@embox>
+�xexporZ@[K[16Cembox>
+�xexporZ@[K[17Cembox>
+�xexporZ[K[17C cembox>
+�xexporZ [K[19Ce embox>
+�xexporZ e [K[6C
+�x: Command not found
+tish error: #-2
+embox>
+�x��embox>
+�x��[K[10Cembox>
+�x��[K[11Cembox>
+�x��[K[12Cembox>
+�x�V�[K[13Cembox>
+�x�V�[K[14Cembox>
+�x�V �[K[15Cembox>
+�x�V �[K[16Cembox>
+�x�V 3�[K[17Cembox>
+�x�V 3��[K[18Cembox>
+�x�V 3��[K[19Cembox>
+�x�V 3�[K[19CVx
+�x�: Command not found
+tish error: #-2
+embox>
+wembox>
+[K[8Cembox>
+[K[8Cembox>
+[K[7Cembox>
+[K[7Cembox>[K[6C
+embox>
+�xembox>
+�x[K[10Cembox>
+�x[K[11Cembox>
+�x[K[11CV 3��x
+�x: Command not found
+tish error: #-2
+embox>
+�itembox>
+�it[K[10Cembox>
+�it[K[11Cembox>
+�it[K[11CV 6�x
+�it: Command not found
+tish error: #-2
+embox>
+�x�!embox>
+�x�![K[10Cembox>
+�x�![K[11Cembox>
+�x�[K[11CV�dr@X
+�x�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8Cembox>
+��[K[9Cembox>
+�U�[K[10Cembox>
+�U�[K[11Cembox>
+�U �[K[12Cembox>
+�U �[K[13Cembox>
+�U c�[K[14Cembox>
+�U cd�[K[15Cembox>
+�U cd�[K[16Cembox>
+�U cdc�[K[17Cembox>
+�U cdcd�[K[18Cembox>
+�U cdcd3�embox>
+�U cdcd3��embox>
+�U cdcd3��embox>
+�U cdcd3�U�embox>
+�U cdcd3�U�embox>
+�U cdcd3�U �embox>
+�U cdcd3�U �embox>
+�U cdcd3�U c�embox>
+�U cdcd3�U cd�embox>
+�U cdcd3�U cd�embox>
+�U cdcd3�U cdc�embox>
+�U cdcd3�U cdcd�embox>
+�U cdcd3�U cdcd3�embox>
+�U cdcd3�U cdcd3��embox>
+�U cdcd3�U cdcd3��embox>
+�U cdcd3�U cdcd3�x�embox>
+�U cdcd3�U cdcd3�xx�
+tish error: #-22
+embox>
+�x embox>
+�x [K[10Cembox>
+�x [K[11Cembox>
+�x �[K[12Cembox>
+�x �V[K[13Cembox>
+�x �V[K[14Cembox>
+�x �V [K[15C
+embox>3�x
+3�x: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+xembox>
+xembox>
+xembox>
+x�embox>
+x�Vembox>
+x�Vembox>
+x�V embox>
+x�V embox>
+x�V 3embox>
+x�V 3�embox>
+x�V 3�embox>
+x�V 3�xembox>
+x�V 3�xx
+x: Command not found
+tish error: #-2
+embox>
+����
+��: Command not found
+tish error: #-2
+embox>
+�6 �
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,140 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> �x�vc
+�x�vc: Command not found
+tish error: #-2
+embox>
+e:ls�8c
+e:ls�8: Command not found
+tish error: #-2
+embox>
+xxxxxxxxx�xxxxxxxxxxxxx�xxxxe�embox>
+e:ls�8[K[13Cdx8[
+e:ls�8dx8[: Command not found
+tish error: #-2
+embox>
+eDdembox>
+eDd[K[10C�
+x%%dembox>
+eDd�
+x%%d[K[16C�
+x:%
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+|
+: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�
+embox>�4
+�4: Command not found
+tish error: #-2
+embox>
+iteembox>
+it[K[9CNembox>
+it[K[10Cxe"
+it: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�[?5h[?5l
+[K[9C
+�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+e�embox>
+e�[K[10C
+embox>embox>[K[6C%
+%: Command not found
+tish error: #-2
+embox>
+e;@;mU568)6�@��embox>[K[6C@���_embox>@���_[K[12C
+embox>�%
+�%: Command not found
+tish error: #-2
+embox>
+e�
+e�: Command not found
+tish error: #-2
+embox>
+\�[H[H[2Jembox>
+\�embox>
+\�embox>
+\�embox>%
+\�
+embox>
+%xit�_%
+%xit�_%: Command not found
+tish error: #-2
+embox>
+���lttntttttPxporttttgtt�ttogout�
+embox>export�
+export�: Command not found
+tish error: #-2
+embox>
+����
+embox>�%
+�%: Command not found
+tish error: #-2
+embox>
+e(
+embox>x&ik�id�
+x&ik�id�: Command not found
+tish error: #-2
+embox>
+S
+S: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�%c�
+�%: Command not found
+tish error: #-2
+embox>
+id
+embox>�/it
+�/it: Command not found
+tish error: #-2
+embox>
+e �%iiZ
+e: Command not found
+tish error: #-2
+embox>
+e(� V
+embox>i�[?5h[?5li�
+i�i�: Command not found
+tish error: #-2
+embox>
+[23;80H ݇
+i%t
+export��i%t: Command not found
+tish error: #-2
+embox>
+s%%t
+s%%t: Command not found
+tish error: #-2
+embox>
+lo5Lute([?5h[?5l%i�tCgouttttgouloit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�665@@@@ @@D���@@@@@@@@@@@@@@@@@@��@:@@@@V@�����
+�665@@@@: Command not found
+tish error: #-2
+embox>�����'@@@@��@:@@@@V@�����@
+�����'@@@@��@:: Command not found
+tish error: #-2
+embox>
+�65@@K@ I@�embox>
+�65@@K@ I@[K[19Cembox>
+�65@@K@ I[K[18C{embox>
+�65@@K@ I[K[18CD'I@A @�@@@@@@@@@|d@@@@@@@@�P��6
+�65@@K@: Command not found
+tish error: #-2
+embox>656>Y@@embox>656>Y@@[K[13C�@embox>656>Y@@�@[K[15C����@:@@A<?@@@@@�@@��embox>656>Y@@�@����@:@@A<?@@@@@�@@�[K[36Cembox>656>Y@@�@����@:@@A<?@@@@@�@@�[K[6Cembox>�656>Y@@�@����@:@@A<?@@@@@�@@�[K[7Cembox>��656>Y@@�@����@:@@A<?@@@@@�@@�[K[8C
+embox>@@@
+embox>
+�665@@@@ @@D'@@@]@�@@@@@@@@@cd@|d@@@@@@@@�P@@��6T
+�665@@@@: Command not found
+tish error: #-2
+embox>5T56>Y@embox>5T56>Y[K[12C�@embox>5T56>Y�@[K[14C����@:@@@<?�665@@@@@@@?@@���@@@
+5T56>Y�@����@:: Command not found
+tish error: #-2
+embox>
+�6�embox>5T56>Y�@����@:[K[20C@@656@|d@@/@@@@@@D�@@@]@�H@@@��@embox>5T56>Y�@����@:@@656@|d@@/@@@@@@D�@@@]@�H@@@��@����@:@
+5T56>Y�@����@:@@656@|d@@/@@@@: Command not found
+tish error: #-2
+embox>�i��x@@@
+�i��x@@@: Command not found
+tish error: #-2
+embox>
+�665@@@@ @@D'@@@f@�@@@@@@@@@@�d@@��@@@@�P@@��6656
+�665@@@@: Command not found
+tish error: #-2
+embox>>Y@@�@����@:@@@<?@@@4@@@@@@@?@@���@@@
+>Y@@�@����@:: Command not found
+tish error: #-2
+embox>
+�665@51@�@:@@export@���@@�@?@@@
+�665@51: Command not found
+tish error: #-2
+embox>
+�665@@@@ @@X'@@@]@�@@@@@@@@@@|d@@@@@@@@�P��@@@
+�665@@@@: Command not found
+tish error: #-2
+embox>
+�665@@@��dd@GL+@@@�
+�665@@@��: Command not found
+tish error: #-2
+embox>J@@
+J@@: Command not found
+tish error: #-2
+embox>
+�665@@@���dddd�[H[H[2J
+�s�@@@??@@@G@+@@: Command not found
+tish error: #-2
+embox>J@@@@
+J@@@@: Command not found
+tish error: #-2
+embox>@@@Ut�@@<@@@@@??@@@G@+@@@�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�@6656>6T@��H@@@@����������������������@!Y?exp@�
+�@6656>6T@: Command not found
+tish error: #-2
+embox>�Uxportembox>�Uxport[K[6Cembox>��Uxport[K[7Cembox>�@�Uxport[K[8Cembox>�@s�Uxport[K[9Cembox>�@s��Uxport[K[10Cembox>�@s�x�Uxport[K[11Cembox>�@s�x��Uxport[K[12Cembox>�@s�x�Uxport[K[13Cembox>�@s�x�;Uxport[K[14Cembox>�@s�x�;tUxport[K[15Cembox>�@s�x�;tgUxport[K[16Cembox>�@s�x�;tgoUxport[K[17Cembox>�@s�x�;tgouUxport[K[18C
+�@s�x�;tgouUxport: Command not found
+tish error: #-2
+embox>
+�cX�tt�ltttembox>
+�cX�tt�lttt[K[6Cembox>t
+�cX�tt�lttt[K[7Cembox>tt
+�cX�tt�lttt[K[8Cembox>ttt
+�cX�tt�lttt[K[9Cembox>tttt
+�cX�tt�lttt[K[10Cembox>ttttt
+�cX�tt�lttt[K[11Cembox>tttttt
+�cX�tt�lttt[K[12Cembox>tttttt
+�cX�tt�lttt[K[13Cembox>tttttt
+�cX�tt�lttt[K[6Cembox>ttttttt
+�cX�tt�lttt[K[7Cembox>tttttttt
+�cX�tt�lttt[K[8Cembox>ttttttttt
+�cX�tt�lttt[K[9Cembox>tttttttttt
+�cX�tt�lttt[K[10Cembox>ttttttttttt
+�cX�tt�lttt[K[11Cembox>tttttdtttttt
+�cX�tt�lttt[K[12Cembox>tttttdttttttt
+�cX�tt�lttt[K[13Cembox>tttttdtttttttt
+�cX�tt�lttt[K[14Cembox>tttttdttVtttttt
+�cX�tt�lttt[K[15Cembox>tttttdttV�tttttt
+�cX�tt�lttt[K[16Cembox>tttttdttV�ttttttt
+�cX�tt�lttt[K[17Cembox>tttttdttV�ttttttt
+�cX�tt�lttt[K[6Cembox>dtttttdttV�ttttttt
+�cX�tt�lttt[K[7Cembox>dttttttdttV�ttttttt
+�cX�tt�lttt[K[8Cembox>dtttttttdttV�ttttttt
+�cX�tt�lttt[K[9Cembox>dttVtttttdttV�ttttttt
+�cX�tt�lttt[K[10Cembox>dttV�tttttdttV�ttttttt
+�cX�tt�lttt[Kembox>dttV�ttttttdttV�ttttttt
+�cX�tt�lttt[Kembox>dttV�ttttttdttV�ttttttt
+�cX�tt�lttt[Kembox>dttV�ttttttdttV�ttttttt
+�cX�tt�lttt[K
+embox>ttttt
+embox>xSi���mttttt
+embox>xSi���dtttembox>xSi���dtt[K[15Ctembox>�@s�x�;tgouUxport[K[24C� tembox>�@s�x�;tgouUxport� [K[26Ctt�ltembox>�@s�x�;tgouUxport� tt�lt[K[6Cembox>t�@s�x�;tgouUxport� tt�lt[K[7Cembox>tt�@s�x�;tgouUxport� tt�lt[K[8Cembox>ttt�@s�x�;tgouUxport� tt�lt[K[9Cembox>tttt�@s�x�;tgouUxport� tt�lt[K[10Cembox>ttttt�@s�x�;tgouUxport� tt�lt[K[11Cembox>tttttt�@s�x�;tgouUxport� tt�lt[K[12Cembox>tttttt�@s�x�;tgouUxport� tt�lt[K[13Cembox>tttttt�@s�x�;tgouUxport� tt�lt[K[6Cembox>ttttttt�@s�x�;tgouUxport� tt�lt[K[7Cembox>tttttttt�@s�x�;tgouUxport� tt�lt[K[8Cembox>ttttttttt�@s�x�;tgouUxport� tt�lt[K[9Cembox>tttttttttt�@s�x�;tgouUxport� tt�lt[K[10Cembox>ttttttttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdtttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdttttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdtttttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdttVtttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdttV�tttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>tttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dtttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[K[7Cembox>dttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[K[8Cembox>dtttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[K[9Cembox>dttVtttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[K[10Cembox>dttV�tttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt[Kembox>dttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>tdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>tdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>ttdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>tttdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>ttttdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�ltembox>tttttdttV�ttttttdttV�ttttttt�@s�x�;tgouUxport� tt�lt
+embox>xSi
+xSi: Command not found
+tish error: #-2
+embox>���mtttembox>���mtt[K[12Ctembox>xSi[K[9C� tembox>xSi� [K[11Ctt�;tgou
+xSi�: Command not found
+tish error: #-2
+embox>
+embox>xSi� tt�[K[14C�embox>xSi� tt�[K[14C-��embox>xSi� tt�-��[K[17Cembox>xSi� tt�-��t[K[18Cembox>xSi� tt�-��t�[K[19Cembox>xSi� tt�-��t�o[K[20Cembox>xSi� tt�-��t�ou[K[21C
+xSi�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[10Cp
+embox>7sdtttttdttVtt��tttttt���dtt�
+7sd: Command not found
+tish error: #-2
+embox>ttttt;tgou
+ttttt;tgou: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[10C
+embox>p6ottttttdttVttembox>passwd6ottttttdttVttembox>passwd6ottttttdttVttembox>passwd6ottttttdttVttembox>passwd6ottttttdttVttembox>tpasswd6ottttttdttVttembox>ttpasswd6ottttttdttVttembox>tttpasswd6ottttttdttVttembox>ttttpasswd6ottttttdttVttembox>tttttpasswd6ottttttdttVttembox>ttttttpasswd6ottttttdttVttembox>tttttttpasswd6ottttttdttVttembox>ttttttttpasswd6ottttttdttVttembox>tttttttttpasswd6ottttttdttVttembox>ttttttttttpasswd6ottttttdttVttembox>tttttttttttpasswd6ottttttdttVttembox>ttttttttttttpasswd6ottttttdttVttembox>ttttttttttttpasswd6ottttttdttVtt
+embox>t�embox>t[K[7C;tgout�embox>t;tgout[K[13C;tgou
+t;tgout;tgou: Command not found
+tish error: #-2
+embox>
+�embox>
+�
+embox>p[?5h[?5l7embox>t;tgout;tgou1sttttttdttVttembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>tttmttembox>tttmttembox>ttttmttembox>t�tttmttembox>t�tttmttembox>t�;tttmttembox>t�;ttttmttembox>t�;tgtttmttembox>[Kembox>[K
+t�: Command not found
+tish error: #-2
+embox>
+i{���`i^�
+embox>�1�exittho�
+�1�: Command not found
+tish error: #-2
+embox>
+�(xeN�@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

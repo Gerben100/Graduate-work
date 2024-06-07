@@ -1,0 +1,190 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>6@�A�@@e|Q5@@�
+6@�A�@@e: Command not found
+tish error: #-2
+embox>
+@$6@�@D\@@e5|Q6@?�@@6@=�@@�A�P$ee�
+@$6@: Command not found
+tish error: #-2
+embox>
+@�66@dA\@@e5|Q6@@@@6@?�@@�A\w@ee�
+@�66@d: Command not found
+tish error: #-2
+embox>
+@s66@TAn@@e5|Q6@@@>@?exe�
+@s66@T: Command not found
+tish error: #-2
+embox>
+@s66@d��\@@e5|Q6@@@embox>
+@s66@d��\@@e5|Q6@@[K[26C6@?�@@�A\P@ee�
+@s66@d��\@@e5|Q6@@: Command not found
+tish error: #-2
+embox>
+@s66kd�@@�a\embox>
+@s66@d��\@@e5|Q6@@[K�
+@s66@d��\@@e5|Q6@@�: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@@@@@$@e5|a6@@@6@\A�@@�4�s3�
+@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+@s66@dA\@@e�Q6@@@@6V?�@@�A\P@ee�
+@s66@d: Command not found
+tish error: #-2
+embox>
+@s66dA\@]������|@@�@@6@?�N@cd����������������
+@s66: Command not found
+tish error: #-2
+embox>���pin�������@�A\P@ee�
+���pin�������@: Command not found
+tish error: #-2
+embox>
+Rs6@@@?\0@Rs6@@@@?\@e��
+@@: Command not found
+tish error: #-2
+embox>
+@s66A\@@e5|Q6@@@@6@?�@@�A\P@ee�
+@@: Command not found
+tish error: #-2
+embox>
+5|@s66@dA\@@e5|Q@@@@6@?�@@�A\P@ee�
+5|@s66@d: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+Zee�
+Zee�: Command not found
+tish error: #-2
+embox>
+@cds6@dA\ :f5dA\ :f5|Q6@@@@6A?�|Q6@@@@6A?�@
+@cds@dA\: Command not found
+tish error: #-2
+embox>@�A\P@ee�
+@�A\P@ee�: Command not found
+tish error: #-2
+embox>
+@sR6@dA\@@e5logout|Q6@@L@6@?6@A@X6@>��\P@e
+@sR6@d: Command not found
+tish error: #-2
+embox>e�
+e�: Command not found
+tish error: #-2
+embox>
+@s66@@@Q6?�@@�A\P@e�
+@s66@@@: Command not found
+tish error: #-2
+embox>
+@s66@dt\@@F@�A\Pe5|Q6@d?�@@�APPPPPPPPPPPPPPPPPPP
+@s66@d: Command not found
+tish error: #-2
+embox>PPPPPPPPP\Pe5|Q"@/@@6@?���P@es�
+@�P@es�: Command not found
+tish error: #-2
+embox>
+K
+\@a: Command not found
+tish error: #-2
+embox>
+@s66@dA\@@e5|Q6@@@@6@��d@�A\P@ee�
+@s66@d: Command not found
+tish error: #-2
+embox>
+@s6?loOcu�P@fe�
+@s6?: Command not found
+tish error: #-2
+embox>
+HexportC\A@e6|@e�@@
+HexportC\A@e6|@e�@@: Command not found
+tish error: #-2
+embox>
+��@�[���`e
+tish error: #-22
+embox>
+@s66@d4A@@@@@@@@@@@@@@@@@@@@?�@@�A
+@s66@d4A: Command not found
+tish error: #-2
+embox>
+@s6C@dA\@@e5|Q6@@@@6@3�@@�A\P@ee�
+@s6C@d: Command not found
+tish error: #-2
+embox>
+@s�@d\@�LogouteA\P@
+e�@@\@�LogouteA\P@: Command not found
+tish error: #-2
+embox>
+as66@dA\@@j5|Q6@@@@6@?�@@�A\P@ee�
+as66@d: Command not found
+tish error: #-2
+embox>
+@sO6@d�A\@@e5|Q6@@@@6@?�@@�A\P@ee�
+@sO6@d�A\@@e5|Q6@@: Command not found
+tish error: #-2
+embox>
+@\P@ee�dAdA@A\@@e5|AAAAAAAAAAAAAAA\@
+@\P@ee�d: Command not found
+tish error: #-2
+embox>@eP|AAAAAAdA@AAAAAAAAAAAA
+@eP|AAAAAAdA: Command not found
+tish error: #-2
+embox>
+@s6@eA|pppp@eA|Qd@
+embox>ppp[pppppp
+embox>
+embox>ppp[ppppppppp@eA|
+ppp[ppppppppp: Command not found
+tish error: #-2
+embox>Qppp[pppppppppp@eA|Qd@
+embox>ppp[pppppppppp@eA|Qd@@@6
+ppp[pppppppppp@eA|Q: Command not found
+tish error: #-2
+embox>@?
+�@]pppp\�: Command not found
+tish error: #-2
+embox>
+logout�[?5h[?5l
+logout�: Command not found
+tish error: #-2
+embox>
+5,   8    [H[H[2J [?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�85<  [H[H[2J��[H[2J[?5h[?5l
+i�: Command not found
+tish error: #-2
+embox>
+�85        [H[H[2J     @%i�[?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+�85[H[H[2J � ����[?5h[?5l
+B: Command not found
+tish error: #-2
+embox>
+�85�   [H[H[2J�85�   [H[2J�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

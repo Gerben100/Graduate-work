@@ -1,0 +1,219 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d�md
+d�md: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+�?
+�?: Command not found
+tish error: #-2
+embox>
+�e� �t
+�e�: Command not found
+tish error: #-2
+embox>
+dl�
+dl�: Command not found
+tish error: #-2
+embox>
+dembox>
+d[K[6Cembox>W
+d[K[7Cembox>Wd
+d[K[8Cembox>Wd
+d[K[6Cembox>?Wd
+d[K[7C
+?Wd: Command not found
+tish error: #-2
+embox>
+h�dh�\?
+h�dh�\?: Command not found
+tish error: #-2
+embox>
+�W^
+�W^: Command not found
+tish error: #-2
+embox>
+[��embox>
+[�[K[9C?
+[�?: Command not found
+tish error: #-2
+embox>
+embox>[K[6C\r\rembox>\r\r[K[6Cembox>W\r\r[K[7Cembox>W\\r\r[K[8Cembox>W\\\r\r[K[9Cembox>W\\\\r\r[K[10Cembox>W\\\c\r\r[K[11Cembox>W\\\cd\r\r[K[12Cembox>W\\\cd\\r\r[K[13Cembox>W\\\cd\q\r\r[K[14Cembox>
+[�?[K�
+[�?�: Command not found
+tish error: #-2
+embox>
+������������������������7
+������������������������7: Command not found
+tish error: #-2
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+Dj5
+���5: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+ ��%
+��%: Command not found
+tish error: #-2
+embox>
+���
+#: Command not found
+tish error: #-2
+embox>
+d
+���: Command not found
+tish error: #-2
+embox>
+exit
+embox>
+ � �
+�: Command not found
+tish error: #-2
+embox>
+ cd
+�: Command not found
+tish error: #-2
+embox>
+l�gol���tU��h�utU�����logout
+l�gol��tU��h�utU��: Command not found
+tish error: #-2
+embox>
+@
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+ 
+?: Command not found
+tish error: #-2
+embox>
+ls �v�ei�
+ls: Command not found
+tish error: #-2
+embox>
+ [?5h[?5lVei�
+tish error: #-22
+embox>
+�alogoutexit aexit�ei�yei�
+�alogouexit: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+��y
+�: Command not found
+tish error: #-2
+embox>
+xx�L
+���x�L: Command not found
+tish error: #-2
+embox>
+ �rt��
+�: Command not found
+tish error: #-2
+embox>
+ �
+tish error: #-22
+embox>
+yegd
+���: Command not found
+tish error: #-2
+embox>
+���e
+�: Command not found
+tish error: #-2
+embox>
+ 6�^ ^
+tish error: #-22
+embox>
+�F�
+tish error: #-22
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+��piNin[?5h[?5lpiNin[?5h[?5l
+n[?5h[?5l: Command not found
+tish error: #-2
+embox>
+
+���: Command not found
+tish error: #-2
+embox>
+�n[?5h[?5l'�in[?5h[?5l'
+�n[?5h[?5l': Command not found
+tish error: #-2
+embox>
+��oin[?5h[?5l&
+tish error: #-22
+embox>
+�=dpin[?5h[?5l'
+�=d: Command not found
+tish error: #-2
+embox>
+�pp�n[?5h[?5l'
+tish error: #-22
+embox>
+��pi
+tish error: #-22
+embox>
+�a#pin[?5h[?5l/
+tish error: #-22
+embox>
+�piX
+[?5h[?5l'
+tish error: #-22
+embox>
+�iiiiiiin[?5h[?5l'
+tish error: #-22
+embox>
+D
+D: Command not found
+tish error: #-2
+embox>
+dA�6�5l�6@@��@@��d@@?
+dA�6�5l�6@@��@@��d@@?: Command not found
+tish error: #-2
+embox>
+dA�exportort�6�5ls6@@��@@@P@@��@��@@?�expor
+dA�: Command not found
+tish error: #-2
+embox>tort���@@@P@@
+embox>
+dA�6�5lexport��@@@P@�@@ZP@@@@@?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

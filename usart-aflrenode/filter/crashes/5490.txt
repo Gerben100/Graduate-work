@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Ed��dxpM�embox>Ed��dxpM�[K[17Cembox>Ed��dxpM�[K[17Cembox>Ed��dxpM[K[16C�cd�
+embox>�oe����
+embox>�embox>�[K[6Cembox>��[K[7Cembox>�[K[6Cembox>�[K[7Cembox>��[K[8Cembox>�y�[K[9Cembox>�ye�[K[10Cembox>�yeH�[K[11Cembox>�yeHi�[K[12Cembox>�yeHi��[K[13Cembox>�yeHi���[K[14Cembox>�yeHi��j�[K[15Cembox>�yeHi��j��[K[16Cembox>�yeHi��j���[K[17Cembox>�yeHi��j���[K[18Cembox>�yeHi��j��e�[K[19Cembox>�yeHi��j��el�[K[20C
+embox>cdembox>[K[6C�xei�embox>�xei�[K[10Cembox>�xei�[K[11Cembox>�xei��[K[12Cembox>�xei���[K[13Cembox>�xei��e�[K[14Cembox>�xei��ee�[K[15Cembox>�xei��eey�[K[16Cembox>�xei��eeye�[K[17Cembox>�xei��eeyeH�[K[18Cembox>�xei��eeyeHh�[K[19Cembox>�xei��eeyeHh��[K[20Cembox>�xei��eeyeHh���[K[21Cembox>�xei��eeyeHh��j�[K[22Cembox>�xei��eeyeHh��j��[K[23Cembox>�xei��eeyeHh��j���[K[24Cembox>�xei��eeyeHh��j��y�[K[25Cembox>�xei��eeyeHh��j��ye�[K[26Cembox>�xei��eeyeHh��j��yel�[K[27Cembox>�xei��eeyeHh��j��yelt�[K[28Cembox>�xei��eeyeHh��j��yeltc�[K[29Cembox>�xei��eeyeHh��j��yeltcd�[K[30Cembox>�xei��eeyeHh��j��yeltcdP�[K[31Cembox>�xei��eeyeHh��j��yeltcdP�[K[32Cembox>�xei��eeyeHh��j��yeltcdP�[K[31Cembox>�xei��eeyeHh��j��yeltcdPd�[K[32Cembox>�xei��eeyeHh��j��yeltcdPd��[K[33Cembox>�xei��eeyeHh��j��yeltcdPdމ�[K[34Cembox>�xei��eeyeHh��j��yeltcdPdމ��[K[35C
+embox>t��lh��j��yel
+t��lh��j��yel: Command not found
+tish error: #-2
+embox>tcdPne�m6embox>tcdPne�m[K[16Cembox>tcdPne�m[K[15Cembox>tcdPne�m[K[16Cembox>tcdPne�m�[K[17Cembox>tcdPne�m�I[K[18Cembox>tcdPne�m�I�[K[19Cembox>tcdPne�m�I�t[K[20Cembox>tcdPne�m�I�ty[K[21Cembox>tcdPne�m�I�tye[K[22Cembox>tcdPne�m�I�tyeH[K[23Cembox>tcdPne�m�I�tyeHi[K[24Cembox>tcdPne�m�I�tyeHi�[K[25C
+tcdP: Command not found
+tish error: #-2
+embox>
+Ed��dxpM�embox>
+Ed��dxpM�[K[18Cembox>
+Ed��dxpM�[K[18C~��
+embox>�oe�embox>�oe�[K[10Cembox>�oe�[K[11Cembox>�oe�[K[10Cembox>�oe�[K[9Cembox>�oe�[K[10Cembox>�oe��[K[11Cembox>�oe�y�[K[12Cembox>�oe�ye�[K[13Cembox>�oe�ye]�[K[14Cembox>�oe�ye]i�[K[15Cembox>�oe�ye]i��[K[16Cembox>�oe�ye]i���[K[17Cembox>�oe�ye]i��j�[K[18Cembox>�oe�ye]i��j~�[K[19Cembox>�oe�ye]i��j~~�[K[20Cembox>�oe�ye]i��j~~~�[K[21Cembox>�oe�ye]i��j~~~~�[K[22Cembox>�oe�ye]i��j~~~~~�[K[23Cembox>�oe�ye]i��j~~~~~~�[K[24Cembox>�oe�ye]i��j~~~~~~~�[K[25Cembox>�oe�ye]i��j~~~~~~~~�[K[26Cembox>�oe�ye]i��j~~~~~~~~~�[K[27Cembox>�oe�ye]i��j~~~~~~~~~~�[K[28Cembox>�oe�ye]i��j~~~~~~~~~~~�[K[29Cembox>�oe�ye]i��j~~~~~~~~~~~~�[K[30Cembox>�oe�ye]i��j~~~~~~~~~~~~i�[K[31Cembox>�oe�ye]i��j~~~~~~~~~~~~i��[K[32C
+�oe: Command not found
+tish error: #-2
+embox>�ykeyeHh��j��yeltcdPembox>�ykeyeHh��j��yeltcdP[K[27Cembox>�ykeyeHh��j��yeltcdPd[K[28Cembox>�ykeyeHh��j��yeltcdPd�[K[29Cembox>�ykeyeHh��j��yeltcdPdމ[K[30Cembox>�ykeyeHh��j��yeltcdPdމ�[K[31C
+embox>t��logo���embox>t��logo���[K[6Cembox>ct��logo���[K[7Cembox>ct��logo���[K[8Cembox>c�t��logo���[K[9Cembox>c�yt��logo���[K[10Cembox>c�y�t��logo���[K[11Cembox>c�yt��logo���[K[10Cembox>c�yt��logo���[K[9Cembox>c�yt��logo���[K[10C
+c: Command not found
+tish error: #-2
+embox>�yeHi�
+�yeHi�: Command not found
+tish error: #-2
+embox>
+Ed��dxpM�embox>
+Ed��dxpM�[K[18Cembox>
+Ed��dxpM�[K[18Cembox>
+Ed��dxpM[K[17C��
+embox>�oe�embox>�oe�[K[6Cembox>��oe�[K[7Cembox>�oe�[K[6Cembox>�oe�[K[7Cembox>��oe�[K[8Cembox>�y�oe�[K[9Cembox>�ye�oe�[K[10Cembox>�yeH�oe�[K[11Cembox>�yeHi�oe�[K[12Cembox>�yeHi��oe�[K[13Cembox>�yeHi���oe�[K[14Cembox>�yeHi��j�oe�[K[15Cembox>�yeHi��j��oe�[K[16Cembox>�yeHi��j���oe�[K[17Cembox>�yeHi��j���oe�[K[18Cembox>�yeHi��j��e�oe�[K[19Cembox>�yeHi��j��el�oe�[K[20Cembox>�yeHi�[K[12Ccdembox>[K[6C�xei�
+�xei�: Command not found
+tish error: #-2
+embox>�yeeyeHh��j��yeltcdRembox>�xei�[K[11Cembox>�xei�[K[10Cembox>�xeid�[K[11Cembox>�xeid��[K[12Cembox>�xeidމ�[K[13Cembox>�xeidމ��[K[14C
+embox>t��lfgoyeHi�
+t��lfgoyeHi�: Command not found
+tish error: #-2
+embox>
+Ed��dxpM�embox>
+Ed��dxpM�[Kembox>
+Ed��dxpM�[Kembox>
+Ed��dxpM[K��
+embox>�oembox>�o[K[7Cembox>�to[K[8Cembox>�tco[K[9Cembox>�tcdo[Kembox>�tcdPo[Kembox>�tcdPo[Kembox>�tcdPo[Kembox>�tcdPdo[Kembox>�tcdPd�o[Kembox>�tcdPdʉo[Kembox>�tcdPdʉ�o[K
+embox>��j��elembox>t��lfgoyeHi�[Kcdembox>[K[6C�xeeey
+�xeeey: Command not found
+tish error: #-2
+embox>eHh��j��yeltcdPembox>eHh��j��yeltcdPembox>eHh��j��yeltcdPtembox>eHh��j��yeltcdPtcembox>eHh��j��yeltcdPtcdembox>eHh��j��yeltcdPtcdPembox>eHh��j��yeltcdPtcdPembox>eHh��j��yeltcdPtcdPembox>[Kembox>[Kembox>[Kembox>[K
+embox>t��logout�p�embox>t��logout�p�embox>ct��logout�p�embox>ct��logout�p�embox>c�t��logout�p�embox>c�yt��logout�p�embox>c�y�t��logout�p�embox>c�yt��logout�p�embox>c�yt��logout�p�embox>c�yt��logout�p�embox>c��yt��logout�p�
+c: Command not found
+tish error: #-2
+embox>yeai�
+yeai�: Command not found
+tish error: #-2
+embox>
+Ed��dxpM���
+embox>�oe�
+embox>cd�xeiHh��j��yeltcdP
+embox>t��logout�p�
+b: Command not found
+tish error: #-2
+embox>�yeHlsi�
+�yeHlsi�: Command not found
+tish error: #-2
+embox>
+Ed[H[H[2J��������������oe��
+embox>t��logXut�p�
+t��logXut�p: Command not found
+tish error: #-2
+embox>yeHi�����elcd[?5h[?5l�xbj
+embox>t��lno�t�p�
+c: Command not found
+tish error: #-2
+embox>Hi�
+Hi�: Command not found
+tish error: #-2
+embox>
+Ed@��dxpe�elcd�xe��j��yeltcdP��logout�
+yeai�: Command not found
+tish error: #-2
+embox>p��d�y�
+p��d: Command not found
+tish error: #-2
+embox>
+Ed��dxpM��e�cd�x/i�
+�x/i: Command not found
+tish error: #-2
+embox>eyeHh��j��y�y�Rtci�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

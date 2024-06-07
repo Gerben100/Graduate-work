@@ -1,0 +1,199 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>2d@d
+2d@d: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9C�
+���: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C�lutembox>
+�lu[K[10Cc�6pi�
+embox>�@ee���@@@"@CC@@@@�
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>e@d@W�eembox>e@d@W�e[K[6Cembox>�e@d@W�e[K[7Cembox>�@e@d@W�e[K[8Cembox>�@ee@d@W�e[K[9Cembox>�@eee@d@W�e[K[10Cembox>�@eee@d@W�e[K[11Cembox>�@eee@d@W�e[K[12C
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>��@@@"@CC@`�@d@B�embox>��@@@"@CC@`�@d@B�[K[28Cembox>��@@@"@CC@`�@d@B�[K[29C
+embox>?C$A@@@@�@0@�
+embox>�R�������������Y���embox>�R�������������Y���[K[26C
+�R�������������Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C�lutembox>
+�lu[K[10Cc�6pi�
+embox>�@ed����@O@"@CC@@@@�
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>e@d@W�e�embox>e@d@W�e[K[15C��e���@@@"@CC@`�@d@B�embox>e@d@W�e��e���@@@"@CC@`�@d@B�embox>e@d@W�e��e���@@@"@CC@`�@d@B�
+e@: Command not found
+tish error: #-2
+embox>?C$A@@@@�@N@�
+embox>�R�������������Y���embox>�R�������������Y���
+�R�������������Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C�lutembox>
+�luc�6pi�
+embox>�@ee����@@����������������
+�@ee: Command not found
+tish error: #-2
+embox>�������������pin�#�@ee�@CC@`�@d@B���
+�������������pin�: Command not found
+tish error: #-2
+embox>���YA@@@@�@0@�
+embox>�R��������
+�R��������: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@ee���@@@"@CC@@@@��@
+�@ee: Command not found
+tish error: #-2
+embox>e@dW�ettttttttttt"@CC@`�@d@B�������������
+�R��������W�ettttttttttt"@: Command not found
+tish error: #-2
+embox>������������������Y���
+������������������Y���: Command not found
+tish error: #-2
+embox>
+ �lusc�6pi�
+embox>�@ef��
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>e@d@W�e
+�@ee: Command not found
+tish error: #-2
+embox>?C$A@@@@�@0@�
+embox>�R�������������Y���
+�R�������������Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@�����export�
+��@@@7@: Command not found
+tish error: #-2
+embox>@@@�
+embox>�@e@d@W�e����'@@��'"@CC@`�@
+�@e@: Command not found
+tish error: #-2
+embox>d@�
+embox>A@@@@�@0@�
+embox>
+embox>�R��expor��logout���z���
+embox>
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@ed��������@@@"@CC@@@@�
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>e@
+e@: Command not found
+tish error: #-2
+embox>d@W�]
+�@Ee: Command not found
+tish error: #-2
+embox>�
+embox>�R����������@@@"@CC@@�
+�R��������: Command not found
+tish error: #-2
+embox>���Y���
+���Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@ee�CC@@@@�
+embox>�@e@d@W�e
+�@ee: Command not found
+tish error: #-2
+embox>��CC@@@@�
+embox>�@e@d@W�e
+�@ee: Command not found
+tish error: #-2
+embox>��@@@"@CC@`�@d@B�
+embox>�R��������
+�R��������: Command not found
+tish error: #-2
+embox>�����Y���
+�����Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lut��@@@"@�CC@@@@�
+embox>�@e@d@W�e
+�@ee: Command not found
+tish error: #-2
+embox>��@@@"@CC@`�@d@B�
+embox>�R���
+�R���: Command not found
+tish error: #-2
+embox>����������Y���
+����������Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@ee���@@@"@CC@@@@�
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>e@d@W�e
+�@ee: Command not found
+tish error: #-2
+embox>?C$A@@@@�@0@�
+embox>�R0������������Y���
+�R0������������Y���: Command not found
+tish error: #-2
+embox>
+[H[H[2J�lutc�6pi�
+embox>�@ee���@ @"@CC@@@@��@
+�@ee: Command not found
+tish error: #-2
+embox>e@d@W�e
+�@ee�: Command not found
+tish error: #-2
+embox>?C$A@@@@�@0@�
+embox>�R�������������Y���
+�R�������������Y���: Command not found
+tish error: #-2
+embox>
+@lutb�6pi�
+embox>�@ee���@@�@d@B�
+�@ee: Command not found
+tish error: #-2
+embox>��e@d@X�e
+�@eed: Command not found
+tish error: #-2
+embox>C@@@@�
+embox>�@@@�"0@���R�������e�������e�{
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

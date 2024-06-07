@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cda
+cda: Command not found
+tish error: #-2
+embox>
+cda���embox>
+cda��[K[12Cembox>
+cda��[K[11Cembox>
+cda�(�[K[12Cembox>
+cda�(�[K[11Cembox>
+cda��(�[K[12Cembox>
+cda���(�[K[13C
+cda���(�: Command not found
+tish error: #-2
+embox>
+cia#�embox>
+cia#�[K[6Cembox>
+cia#�[K[7Cembox>
+cia#�[K[8C
+embox>��embox>��[K[8Cembox>��[K[9Cembox>
+cda���(�[K[15C#&Q[H[H[2Jembox>
+cda���(�#&Q[K[18C�oembox>
+cda���(�#&Q�o[K[21Cembox>
+cda���(�#&Q��o[K[22Cembox>
+cda���(�#&Q���o[K[23C
+cda���(�#&Q�: Command not found
+tish error: #-2
+embox>
+cdembox>
+cda���(�#&Q�[K[19Ce��embox>
+cda���(�#&Q�e��[K[21Cembox>
+cda���(�#&Q�e�(�[K[22Cembox>
+cda���(�#&Q�e�(�[K[21Cembox>
+cda���(�#&Q�e��(�[K[22Cembox>
+cda���(�#&Q�e���(�[K[23C
+cda���(�#&Q�e���(�: Command not found
+tish error: #-2
+embox>
+clr�o5������Ȁembox>
+clr�o5������Ȁ[K[6Cembox>
+clr�o5������Ȁ[K[7Cembox>o
+clr�o5������Ȁ[K[8Cembox>o5
+clr�o5������Ȁ[K[9Cembox>o5�
+clr�o5������Ȁ[K[10Cembox>o5��
+clr�o5������Ȁ[K[11Cembox>o5���
+clr�o5������Ȁ[K[12Cembox>o5����
+clr�o5������Ȁ[K[13Cembox>o5�����
+clr�o5������Ȁ[K[14Cembox>o5������
+clr�o5������Ȁ[K[15Cembox>o5�������
+clr�o5������Ȁ[K[16Cembox>o5������Ȁ
+clr�o5������Ȁ[Kembox>o5������Ȁ
+clr�o5������Ȁ[Kembox>o5������Ȁ
+clr�o5������Ȁ[Kembox>eo5������Ȁ
+clr�o5������Ȁ[Kembox>evo5������Ȁ
+clr�o5������Ȁ[Kembox>evpo5������Ȁ
+clr�o5������Ȁembox>evpno5������Ȁ
+clr�o5������Ȁembox>evpnro5������Ȁ
+clr�o5������Ȁembox>evpnr�o5������Ȁ
+clr�o5������Ȁembox>evpnr��o5������Ȁ
+clr�o5������Ȁ
+embox>
+cembox>
+c[K[6Cembox>�
+c[K[7C
+�: Command not found
+tish error: #-2
+embox>
+��/
+��/: Command not found
+tish error: #-2
+embox>
+�*ls
+�*ls: Command not found
+tish error: #-2
+embox>
+pYnQ�
+embox>�]��Qy\tembox>�]��Qy\t[K[14C��rFs
+�]��Qy\t��rF: Command not found
+tish error: #-2
+embox>
+�sl
+�sl: Command not found
+tish error: #-2
+embox>
+lexiw�itembox>[K[16Cxs
+lexi: Command not found
+tish error: #-2
+embox>
+�ms
+�ms: Command not found
+tish error: #-2
+embox>
+
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+N
+tish error: #-22
+embox>
+U�vn
+U�vn: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cdae�cda��wex�|[?5h[?5l
+embox>xwe��
+we��: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+c$�e�ccdccccccccccbcccccc�ew�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

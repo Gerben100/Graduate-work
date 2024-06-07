@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>\���embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+�pin
+�pin: Command not found
+tish error: #-2
+embox>
+embox>
+�pin[K[11Cembox>�[K[7C��
+���: Command not found
+tish error: #-2
+embox>
+l.embox>
+l.[K[6Cembox>�
+l.[K[7C
+�: Command not found
+tish error: #-2
+embox>
+0�
+0�: Command not found
+tish error: #-2
+embox>
+l�����
+l�����: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���
+���: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+l����
+l����: Command not found
+tish error: #-2
+embox>
+cdls�
+cdls: Command not found
+tish error: #-2
+embox>
+l�� 
+l��: Command not found
+tish error: #-2
+embox>
+ls
+�: Command not found
+tish error: #-2
+embox>
+  
+tish error: #-22
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+ ?�����
+?�����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+l d
+tish error: #-22
+embox>
+l2� lllT
+l2�: Command not found
+tish error: #-2
+embox>
+�� 
+tish error: #-22
+embox>
+l����log�l����udogol
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

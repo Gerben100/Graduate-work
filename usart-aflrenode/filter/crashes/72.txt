@@ -1,0 +1,354 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cc
+cc: Command not found
+tish error: #-2
+embox>
+xei�embox>
+xei�[K[11Cembox>
+xei�[K[12Cembox>
+xei��[K[13Cembox>
+xei�y�[K[14Cembox>
+xei�yf�[K[15Cembox>
+xei�yf��[K[16Cembox>
+xei�yf���[K[17Cembox>
+xei�yf��e�[K[18C
+tish error: #-22
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8Cembox>
+��[K[9Cembox>
+�y�[K[10Cembox>
+�yq�[K[11Cembox>
+�yq��[K[12Cembox>
+�yq���[K[13Cembox>
+�yq��[K[12Cembox>
+�yq���[K[13Cembox>
+�yq����[K[14Cembox>
+�yq����[K[13Cembox>
+�yq����[K[14Cembox>
+�yq���[K[15Cembox>
+�yq���y��[K[16Cembox>
+�yq���yb��[K[17Cembox>��[K[6Cembox>���[K[7Cembox>�`��[K[8C
+�`��: Command not found
+tish error: #-2
+embox>
+zeiembox>
+zei[K[11Cembox>
+zei[K[12Cembox>
+zei�[K[13Cembox>
+zei��[K[14Cembox>
+zei���[K[15Cembox>
+zei����[K[16Cembox>
+zei�����[K[17Cembox>
+zei�����e[K[18C
+tish error: #-22
+embox>
+xeiembox>
+xei[K[11Cembox>
+xei�[K[12Cembox>
+xei��[K[13Cembox>
+xei��y[K[14Cembox>
+xei��ye[K[15Cembox>
+xei��yey[K[16Cembox>
+xei��yeyy[K[17Cembox>
+xei��yeyyy[K[18Cembox>
+xei��yeyyyy[K[19Cembox>
+xei��yeyyyyy[K[20Cembox>
+xei��yeyyyyyy[K[21Cembox>
+xei��yeyyyyyyy[K[22Cembox>
+xei��yeyyyyyyyy[K[23Cembox>
+xei��yeyyyyyyyyy[K[24Cembox>
+xei��yeyyyyyyyyyy[K[25Cembox>
+xei��yeyyyyyyyyyyy[K[26Cembox>
+xei��yeyyyyyyyyyyyy[K[27Cembox>
+xei��yeyyyyyyyyyyyyy[K[28Cembox>
+xei��yeyyyyyyyyyyyyyy[K[29Cembox>
+xei��yeyyyyyyyyyyyyyyy[K[30Cembox>
+xei��yeyyyyyyyyyyyyyyyy[K[31Cembox>
+xei��yeyyyyyyyyyyyyyyyyy[K[32Cembox>
+xei��yeyyyyyyyyyyyyyyyyyy[K[33Cembox>
+xei��yeyyyyyyyyyyyyyyyyyyy[K[34Cembox>
+xei��yeyyyyyyyyyyyyyyyyyyy�[K[35Cembox>
+xei��yeyyyyyyyyyyyyyyyyyyy��[K[36Cembox>
+xei��yeyyyyyyyyyyyyyyyyyyy��e[K[37C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6CxeWWW�ye��e
+xeWWW: Command not found
+tish error: #-2
+embox>
+embox>xeWWW[K[11Cembox>xeWWW[K[11Cembox>xeWWWe[K[12Cembox>xeWWWex[K[13Cembox>xeWWWexp[K[14Cembox>xeWWWexpo[K[15Cembox>xeWWWexpo�[K[16Cembox>xeWWWexpo�t[K[17Cembox>xeWWWexpo�ty[K[18Cembox>xeWWWexpo�tye[K[19Cembox>xeWWWexpo�tye�[K[20Cembox>xeWWWexpo�tye�[K[21Cembox>xeWWWexpo�tye�[K[22Cembox>xeWWWexpo�tye�[K[21Cembox>xeWWWexpo�tye�y[K[22Cembox>xeWWWexpo�tye�ye[K[23Cembox>xeWWWexpo�tye�yec[K[24Cembox>xeWWWexpo�tye�yecd[K[25C
+xeWWWexpo�tye�yecd: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[11Cembox>
+i[K[12Cembox>
+i�[K[13Cembox>
+i�y[K[14Cembox>
+i�ye[K[15Cembox>
+i�ye�[K[16Cembox>
+i�ye��[K
+tish error: #-22
+embox>
+�y@��e
+�y@��e: Command not found
+tish error: #-2
+embox>
+xei��embox>
+�y@��e[K[13C��e
+�y@��e��e: Command not found
+tish error: #-2
+embox>
+xei��embox>
+�y@��e��e[K[16C��e
+�y@��e��e��e: Command not found
+tish error: #-2
+embox>
+xei��embox>
+�y@��e��e��e[K��e
+�y@��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei����e
+�y@��e��e��e��e��e: Command not found
+tish error: #-2
+embox>
+xei
+tish error: #-22
+embox>
+�ei
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
+lxeie���
+tish error: #-22
+embox>
++�1
++�1: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+pi ���j����ee
+pi: Command not found
+tish error: #-2
+embox>
+�ei
+tish error: #-22
+embox>
+xei
+xei: Command not found
+tish error: #-2
+embox>�exit�yl\ee
+�: Command not found
+tish error: #-2
+embox>
+$exime
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+x�i
+tish error: #-22
+embox>
+cdxei
+tish error: #-22
+embox>
+expor�xei
+tish error: #-22
+embox>
+�ye�ie
+tish error: #-22
+embox>
+xei
+tish error: #-22
+embox>
+Dxei
+tish error: #-22
+embox>
+�xe����ye��e
+�xe���: Command not found
+tish error: #-2
+embox>
+x�i�yV��e
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+!x��
+!x�: Command not found
+tish error: #-2
+embox>
+�@
+�@: Command not found
+tish error: #-2
+embox>
+��
+embox>[H[H[2J[H[2J
+embox>
+$
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

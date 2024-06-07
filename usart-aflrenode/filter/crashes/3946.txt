@@ -1,0 +1,156 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>texp rembox>texp r[K[6Cembox>Stexp r[K[7Cembox>Setexp r[K[8Cembox>Setexp r[K[9Cembox>Se@texp r[K[10Cembox>Se@ttexp r[K[11Cembox>Se@tgtexp r[K[12Cembox>Se@tgotexp r[K[13Cembox>Se@tgoutexp r[K[14Cembox>Se@tgouttexp r[K[15Cembox>Se@tgoutdtexp r[K[16Cembox>Se@tgoutd@texp r[K[17Cembox>Se@tgoutd@ttexp r[K[18Cembox>Se@tgoutd@tgtexp r[K[19Cembox>Se@tgoutd@tgotexp r[K[20Cembox>Se@tgoutd@tgoutexp r[K[21Cembox>Se@tgoutd@tgouttexp r[K[22Cembox>Se@tgoutd@tgoutdtexp r[K[23C
+Se: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[6Cembox>o
+@[K[7C[?5h[?5lembox>o&
+@[K[8Cembox>o&�
+@[K[9Cembox>o&�H
+@[K[10Cembox>o&�HI
+@[K[11Cembox>o&�HIH
+@[K[12Cembox>o&�HIH[
+@[K[13Cembox>o&�HIH[H
+@[K[14Cembox>o&�HIH[Hi
+@[K[15Cembox>o&�HIH[Hiu
+@[K[16Cembox>o&�HIH[Hiue
+@[K[17Cembox>o&�HIH[Hiue
+@[K[18Cembox>o&�HIH[Hiue@
+@[K[19Cembox>o&�HIH[Hiue@p
+@[K[20Cembox>o&�HIH[Hiue@pi
+@[K[21Cembox>o&�HIH[Hiue@pin
+@[K[22Cembox>o&�HIH[Hiue@pinu
+@[K[23Cembox>o&�HIH[Hiue@pinut
+@[K[24Cembox>o&�HIH[Hiue@pinutd
+@[K[25Cembox>o&�HIH[Hiue@pinutd�
+@[K[26Cembox>o&�HIH[Hiue@pinutd�t
+@[K[27Cembox>o&�HIH[Hiue@pinutd�tg
+@[K[28Cembox>o&�HIH[Hiue@pinutd�tgt
+@[K[29Cembox>o&�HIH[Hiue@pinutd�tgtu
+@[K[30Cembox>o&�HIH[Hiue@pinutd�tgtut
+@[K[31Cembox>o&�HIH[Hiue@pinutd�tgtutH
+@[K[32Cembox>
+@[K[6Cembox>@
+@[K[7Cembox>@
+@[K[8Cembox>@@
+@[K[9Cembox>@@
+@[K[10Cembox>@@@
+@[K[11Cembox>@@@o
+@[K[12Cembox>@@@ou
+@[K[13Cembox>@@@oud
+@[K[14C
+@: Command not found
+tish error: #-2
+embox>
+�
+embox>t[?5h[?5lHH[HipHembox>tHH[HipH[K[6Cembox>StHH[HipH[K[7Cembox>SetHH[HipH[K[8Cembox>SetHH[HipH[K[9Cembox>SextHH[HipH[K[10Cembox>SexHtHH[HipH[K[11Cembox>SexHHtHH[HipH[K[12Cembox>SexHHHtHH[HipH[K[13Cembox>SexHHH[tHH[HipH[K[14Cembox>SexHHH[HtHH[HipH[K[15Cembox>SexHHH[HitHH[HipH[K[16Cembox>SexHHH[HiptHH[HipH[K[17Cembox>SexHHH[HipHtHH[HipH[K[18Cembox>SexHHH[HipHtHH[HipH[K[6Cembox>SSexHHH[HipHtHH[HipH[K[7Cembox>SeSexHHH[HipHtHH[HipH[K[8Cembox>SeSexHHH[HipHtHH[HipH[K[9Cembox>Se@SexHHH[HipHtHH[HipH[K[10Cembox>Se@tSexHHH[HipHtHH[HipH[K[11Cembox>Se@tjSexHHH[HipHtHH[HipH[K[12Cembox>Se@tj�SexHHH[HipHtHH[HipH[K[13Cembox>Se@tj�uSexHHH[HipHtHH[HipH[K[14Cembox>Se@tj�utSexHHH[HipHtHH[HipH[K[15Cembox>Se@tj�utdSexHHH[HipHtHH[HipH[K[16Cembox>Se@tj�utd@SexHHH[HipHtHH[HipH[K[17Cembox>Se@tj�utd@tSexHHH[HipHtHH[HipH[K[18Cembox>Se@tj�utd@tgSexHHH[HipHtHH[HipH[K[19Cembox>Se@tj�utd@tgoSexHHH[HipHtHH[HipH[K[20Cembox>Se@tj�utd@tgouSexHHH[HipHtHH[HipH[K[21C
+Se: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+embox>td[K[8Ct[?5h[?5lGHe3d�eee�ae��egouX�ipHembox>tdtGHe3d�eee�ae��egouX�ipH[K[6Cembox>Se[K[8C@t�e��embox>Se@t�e�[K[15C�ee�a
+Se: Command not found
+tish error: #-2
+embox>e��egouX�@tgoutd
+e��egouX�@tgoutd: Command not found
+tish error: #-2
+embox>
+�
+embox>��"embox>��"[K[6Cembox>S��"[K[7Cembox>Se��"[K[8Cembox>Se��"[K[9Cembox>Se@��"[K[10Cembox>Se@d��"[K[11Cembox>Se@dg��"[K[12Cembox>Se@dgo��"[Kembox>Se@dgou��"[Kembox>Se@dgou���"[K[15Cembox>Se@dgou�d��"[K[16Cembox>Se@dgou�dt��"[K[17Cembox>Se@dgou�dtd��"[K[18C
+Se: Command not found
+tish error: #-2
+embox>
+�
+embox>texHHH[HipHxHHH[HipHembox>texHHH[HipHxHHH[HipHembox>StexHHH[HipHxHHH[HipHembox>SetexHHH[HipHxHHH[HipHembox>SetexHHH[HipHxHHH[HipHembox>Se@texHHH[HipHxHHH[HipHembox>Se@ttexHHH[HipHxHHH[HipHembox>Se@tgtexHHH[HipHxHHH[HipHembox>Se@tgotexHHH[HipHxHHH[HipHembox>Se@tgoutexHHH[HipHxHHH[HipHembox>Se@tgouttexHHH[HipHxHHH[HipHembox>Se@tgoutdtexHHH[HipHxHHH[HipHembox>Se@tgoutd@texHHH[HipHxHHH[HipHembox>Se@tgoutd@ttexHHH[HipHxHHH[HipHembox>Se@tgoutd@tgtexHHH[HipHxHHH[HipHembox>Se@tgoutd@tgotexHHH[HipHxHHH[HipHembox>Se@tgoutd@tgoutexHHH[HipHxHHH[HipH
+Se: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+�
+embox>t[?5h[?5l%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>�t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>��t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>��@t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>��@?t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipHembox>[K[11C
+��@?@t%%%%%%%%%%%%%%%%%%%%%%%%%%OHipH: Command not found
+tish error: #-2
+embox>@_@@)@@SN@tgoutd@tgopinutd
+@_@@)@@SN: Command not found
+tish error: #-2
+embox>
+�
+embox>t[?5h[?5lHH[HipHembox>tHH[HipH[K[6Cembox>StHH[HipH[K[7Cembox>SdtHH[HipH[K[8Cembox>SdtHH[HipH[K[9Cembox>SdhtHH[HipH[Kembox>SdhHtHH[HipH[Kembox>SdhHHtHH[HipH[Kembox>SdhHHHtHH[HipH[Kembox>SdhHHH[tHH[HipH[Kembox>SdhHHH[HtHH[HipH[Kembox>SdhHHH[HitHH[HipH[Kembox>SdhHHH[HiptHH[HipH[Kembox>SdhHHH[HipHtHH[HipH[Kembox>SdhHHH[HipHtHH[HipH[Kembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21C
+Se: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+�
+embox>exHHH[HipH
+Se: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+�
+embox>lsHH[HipHHipH��_�=�=[=@tgou
+Se: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+{ u
+{: Command not found
+tish error: #-2
+embox>
+logWVt
+logWVt: Command not found
+tish error: #-2
+embox>
+>hh
+tish error: #-22
+embox>
+do~ut
+do~: Command not found
+tish error: #-2
+embox>
+loexportg
+loexportg: Command not found
+tish error: #-2
+embox>
+o{g
+o{g: Command not found
+tish error: #-2
+embox>
+ltog^ut
+ltog^ut: Command not found
+tish error: #-2
+embox>
+l��o
+l��o: Command not found
+tish error: #-2
+embox>
+W���������������������������玗��� ��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

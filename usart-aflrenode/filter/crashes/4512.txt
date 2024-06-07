@@ -1,0 +1,79 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�`pin`
+�`pin`: Command not found
+tish error: #-2
+embox>eX@embox>eX[K[8C@NHc6656>6T�6@NHc6656>6T�66F7��66
+eX: Command not found
+tish error: #-2
+embox>56>6T�6@NHc6656>6T�66F7��[?5h[?5l�@@embox>eX[K[8C�exembox>�`pin`[K[12C6export
+�`pin`: Command not found
+tish error: #-2
+embox>_@@@@Qfxtort�����@embox>�`pin`[K[12C6>
+�`pin`: Command not found
+tish error: #-2
+embox>
+�@N6>6T�66F7�� [?5h[?5l�@$embox>�`pin`[K[12Ceembox>eX[K[8C@�?exX@embox>eX@�?exX[K[14C@NHcHc665e
+eX@�?exX: Command not found
+tish error: #-2
+embox>xX@embox>xX[K[8C`p�n`embox>eX@�?exX[K[14C@embox>eX@�?exX[K[14C@NpinJembox>�`pin`[K[12C
+�`pin`: Command not found
+tish error: #-2
+embox>emembox>[K[6C�@��6T@G embox>�@��6T@G [K[6Cembox>@�@��6T@G [K[7Cembox>@Q�@��6T@G [K[8Cembox>@Qf�@��6T@G [K[9Cembox>@Qfx�@��6T@G [K[10Cembox>@Qfxt�@��6T@G [K[11Cembox>@Qfxto�@��6T@G [K[12Cembox>@Qfxto�@��6T@G [K[13C
+@Qfxto: Command not found
+tish error: #-2
+embox>6embox>6[K[7Ce�>
+6e�>: Command not found
+tish error: #-2
+embox>
+�`pin`embox>6e�>[K[11C
+6e�>: Command not found
+tish error: #-2
+embox>emembox>[K[6C�@���?wxX@embox>�@���?wxX[K[16C@NHc6656��66F7��
+embox>[?5h[?5l�@@embox>6e�>[K[11Cexembox>@Qfxto[K[12C6T@@@@@Qfxtort�����@embox>�`pin`[K[12C6>
+�`pin`: Command not found
+tish error: #-2
+embox>
+�`pin`�
+�`pin`�: Command not found
+tish error: #-2
+embox>i��~���������������embox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[26Cxdh+embox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K��
+embox>
+�`pin`embox>[K[14C
+�`pin`�: Command not found
+tish error: #-2
+embox>in`
+in`: Command not found
+tish error: #-2
+embox>pi�y[?5h[?5l���������embox>pi�y[?5h[?5l���������embox>pi�y[?5h[?5l���������embox>pi�y[?5h[?5l���������embox>pi�y[?5h[?5l��������xdhcd�Wembox>[K[6C��
+embox>
+�`p�n`embox>in`
+in`: Command not found
+tish error: #-2
+embox>in`d
+in`d: Command not found
+tish error: #-2
+embox>pi�cd��y[?5h[?5l�pin`embox>in`d
+in`d: Command not found
+tish error: #-2
+embox>in`d
+in`d: Command not found
+tish error: #-2
+embox>pi���y[?5h[?5l����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,134 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�#�xpw�embox>�#�xpw�[K[6C
+�#�: Command not found
+tish error: #-2
+embox>
+��xpembox>
+��x[K[12C�embox>
+��x�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+��xlsembox>
+��xl[K[13C��
+��: Command not found
+tish error: #-2
+embox>
+���p{�embox>
+���p{�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+@�fembox>
+@�[K[11C�embox>
+@��[K[6C
+@�: Command not found
+tish error: #-2
+embox>
+�����d�����embox>
+�����d����[K[21C��������pin�embox>
+�����d������������pin[K[35C�embox>
+�����d������������pin�[K[6C
+�����: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>� ���
+�: Command not found
+tish error: #-2
+embox>
+�8y
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lxe����y
+�: Command not found
+tish error: #-2
+embox>
+�}e��y
+�}e��y: Command not found
+tish error: #-2
+embox>
+�xitje\fjjembox>[K[13C
+�e�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10C
+��y: Command not found
+tish error: #-2
+embox>
+����������[?5h[?5l�xe����y
+����������: Command not found
+tish error: #-2
+embox>
+��yx�cs��d�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+yy
+yy: Command not found
+tish error: #-2
+embox>
+�
+xe�y
+�: Command not found
+tish error: #-2
+embox>
+�
+
+xe�: Command not found
+tish error: #-2
+embox>
+ finZ������
+finZ�: Command not found
+tish error: #-2
+embox>
+ls�
+�e����y
+ls�: Command not found
+tish error: #-2
+embox>
+ �V
+�V: Command not found
+tish error: #-2
+embox>
+q[q�qs[?5h[?5l,��_�
+q[q: Command not found
+tish error: #-2
+embox>
+��l�l�}�ll�}�}�ll�}�l�d��_�
+��l�l�}: Command not found
+tish error: #-2
+embox>
+�Tl�_�
+�Tl�_�: Command not found
+tish error: #-2
+embox>
+�oee
+�oe: Command not found
+tish error: #-2
+embox>�ۂxportppr��@�
+�ۂxport: Command not found
+tish error: #-2
+embox>
+����lsV����Հ����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

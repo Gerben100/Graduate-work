@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x!x
+embox>
+�xjit�ex
+�xjit�ex: Command not found
+tish error: #-2
+embox>
+�xmeex
+�xmeex: Command not found
+tish error: #-2
+embox>
+�x�prembox>
+�x�pr[K[6Cembox>
+�x�pr[K[7Cembox>
+�x�pr[K[8Cembox>e
+�x�pr[K[9Cembox>ee
+�x�pr[K[10Cembox>eee
+�x�pr[K[11Cembox>eeee
+�x�pr[K[12Cembox>eeeee
+�x�pr[K[13Cembox>eeeeex
+�x�pr[K[14Cembox>eeeeexe
+�x�pr[K[15Cembox>eeeeexee
+�x�pr[K[16Cembox>eeeeexeee
+�x�pr[K[17Cembox>eeeeexeeee
+�x�pr[K[18Cembox>eeeeexeeeeB
+�x�pr[K[19Cembox>eeeeexeeeeBe
+�x�pr[K[20Cembox>eeeeexeeeeBex
+�x�pr[K[21Cembox>eeeeexeeeeBexp
+�x�pr[K[22Cembox>eeeeexeeeeBexpo
+�x�pr[K[23Cembox>eeeeexeeeeBexpor
+�x�pr[K[24Cembox>eeeeexeeeeBexport
+�x�pr[K[25Cembox>eeeeexeeeeBexporte
+�x�pr[K[26Cembox>eeeeexeeeeBexportee
+�x�pr[K[27Cembox>eeeeexeeeeBexporteee
+�x�pr[K[28Cembox>eeeeexeeeeBexporteeee
+�x�pr[K[29Cembox>eeeeexeeeeBexporteeeee
+�x�pr[K[30Cembox>eeeeexeeeeBexporteeeeee
+�x�pr[K[31Cembox>eeeeexeeeeBexporteeeeeee
+�x�pr[K[32Cembox>eeeeexeeeeBexporteeeeeeee
+�x�pr[K[33Cembox>eeeeexeeeeBexporteeeeeeeex
+�x�pr[K[34Cembox>eeeeexeeeeBexporteeeeeeeext
+�x�pr[K[35Cembox>eeeeexeeeeBexporteeeeeeeext�
+�x�pr[K[36Cembox>eeeeexeeeeBexporteeeeeeeext�
+�x�pr[K[6Cembox>eeeeeexeeeeBexporteeeeeeeext�
+�x�pr[K[7Cembox>e�eeeeexeeeeBexporteeeeeeeext�
+�x�pr[K
+e�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+�xit[?5h[?5lx
+�xit: Command not found
+tish error: #-2
+embox>
+�xi��x
+�xi�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���d
+���: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�tlslFiee�
+�tlslFiee�: Command not found
+tish error: #-2
+embox>
+�xi�k
+�xi�: Command not found
+tish error: #-2
+embox>
+�x[t@}X
+�x[t: Command not found
+tish error: #-2
+embox>
+ex
+ex: Command not found
+tish error: #-2
+embox>
+�x
+�x: Command not found
+tish error: #-2
+embox>
+�������������������������������uA
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+x�embox>
+x�[K[11Cembox>
+x�[K[12Cembox>
+x�[K[13Cembox>
+x�y[K[14Cembox>
+x�ye[K[15Cembox>
+x�yel[K[16Cembox>
+x�yelo[K[17Cembox>
+x�yelog[K[18Cembox>
+x�yelogo[K[19Cembox>
+x�yelogou[K[20Cembox>
+x�yelogout[K[21C
+tish error: #-22
+embox>
+l�dxembox>
+l�dx[K[12C�embox>
+l�dx�[K[13Cembox>
+l�dx�[K[14Cembox>
+l�dx��[K[15Cembox>
+l�dx���[K[16Cembox>
+l�dx����[K[17Cembox>
+l�dx����l[K[18Cembox>
+l�dx����lo[K[19Cembox>
+l�dx����log[K[20Cembox>
+l�dx����logo[K[21Cembox>
+l�dx����logo�[K[22Cembox>
+l�dx����logo�t[K[23C
+l�d: Command not found
+tish error: #-2
+embox>
+l@dx�embox>
+l@dx�[K[14Cembox>
+l@dx�[K[15Cembox>
+l@dx��[K[16Cembox>
+l@dx��[K[17Cembox>
+l@dx��e[K[18Cembox>
+l@dx��el[K[19Cembox>
+l@dx��el[K[20Cembox>
+l@dx��el[K[21Cembox>
+l@dx��el[K[22Cembox>
+l@dx��el[K[23Cembox>
+l@dx��elt[K[24C
+l@: Command not found
+tish error: #-2
+embox>
+l�dx�embox>
+l�dx�[K[14Cembox>
+l�dx�[K[15Cembox>
+l�dx��[K[16Cembox>
+l�dx��y[K[17Cembox>
+l�dx��ye[K[18Cembox>
+l�dx��yel[K[19Cembox>
+l�dx��yelo[K[20Cembox>
+l�dx��yelog[K[21Cembox>
+l�dx��yelogo[K[22Cembox>
+l�dx��yelogou[K[23Cembox>
+l�dx��yelogouS[K[24C
+l�d: Command not found
+tish error: #-2
+embox>
+l�dembox>
+l�[K[9Cx��in�yelogout
+l�x: Command not found
+tish error: #-2
+embox>
+l�_��t��d@@?��embox>
+l�x[K[10C@@P@@ ��@@@P@@@@@?xQembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[6Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[7Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[8Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[9Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[10Cembox>�
+l�x@@P@@ ��@@@P@@@@@?xQ[K[11Cembox>��
+l�x@@P@@ ��@@@P@@@@@?xQ[K[12Cembox>���
+l�x@@P@@ ��@@@P@@@@@?xQ[K[13Cembox>���e
+l�x@@P@@ ��@@@P@@@@@?xQ[K[14C
+embox>�port��embox>�port��[K[13Ct��d@@?��embox>
+l�x[K[10C@@P@@ ��@@@P@@@@@?xQembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[6Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[7Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[8Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[9Cembox>
+l�x@@P@@ ��@@@P@@@@@?xQ[K[10Cembox>�
+l�x@@P@@ ��@@@P@@@@@?xQ[K[11Cembox>��
+l�x@@P@@ ��@@@P@@@@@?xQ[K[12Cembox>
+l�d[K[10C
+l�d: Command not found
+tish error: #-2
+embox>�pd@@x
+�pd@@x: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+lQQembox>
+d[K[8CQQQpQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ@'@@�xp
+dQQQpQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ@'@@�xp: Command not found
+tish error: #-2
+embox>
+l�eembox>
+l�e[K[9C
+l�e: Command not found
+tish error: #-2
+embox>l��6656)6@@�embox>l��6656)6@@[K[19C��@?@p@@@@@?@@@@@'@@xq
+embox>
+�Ynxn
+�Ynxn: Command not found
+tish error: #-2
+embox>
+l�d�
+l�d�: Command not found
+tish error: #-2
+embox>l�exitpin656Y)6@@�embox>l�exitpin656Y)6@@��@?@p@@@@@dembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+l�P�
+l�P�: Command not found
+tish error: #-2
+embox>l��6656)6@@���@?@p@@@@T?@@@@@'@@xp
+embox>
+T
+T: Command not found
+tish error: #-2
+embox>
+l�d
+l�d: Command not found
+tish error: #-2
+embox>l��6656)6@@���@?@p@E@@@?@@@@@'@@@xp
+embox>
+l���6656)6@@6)6@@�export@@@@@?@@@@'@@lof���@
+l��: Command not found
+tish error: #-2
+embox>?@p@@@@@?@@@]@'@@logoutp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

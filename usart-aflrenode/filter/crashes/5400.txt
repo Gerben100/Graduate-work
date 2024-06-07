@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lfd
+lfd: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+tinvlog
+tinvlog: Command not found
+tish error: #-2
+embox>
+z;;;;;;;;;;;;;;;;;;;embox>
+tinvlog[K[14C;;;;;;;;;;;;�embox>
+tinvlog;;;;;;;;;;;;�[K[6Cembox>
+tinvlog;;;;;;;;;;;;�[K[7Cembox>c
+tinvlog;;;;;;;;;;;;�[K[8Cembox>cd
+tinvlog;;;;;;;;;;;;�[K[9Cembox>cd|
+tinvlog;;;;;;;;;;;;�[K[10Cembox>cd|t
+tinvlog;;;;;;;;;;;;�[K[11C
+embox>
+���vlog
+���vlog: Command not found
+tish error: #-2
+embox>
+Tog++tg
+Tog++tg: Command not found
+tish error: #-2
+embox>
+*�
+*�: Command not found
+tish error: #-2
+embox>
+3g
+3g: Command not found
+tish error: #-2
+embox>
+ex_ortg
+ex_ortg: Command not found
+tish error: #-2
+embox>
+3��d�di�embox>
+3��d�di[K[14C����
+3��d�di: Command not found
+tish error: #-2
+embox>
+@�ed�txpJ�����
+tish error: #-22
+embox>
+3慅ditxp�����e
+3慅ditxp�����e: Command not found
+tish error: #-2
+embox>
+���editxpl��y��
+���editxpl��y��: Command not found
+tish error: #-2
+embox>
+3��txp
+3��txp: Command not found
+tish error: #-2
+embox>
+3�logoutpl����n
+3�logoutpl����n: Command not found
+tish error: #-2
+embox>
+3��edi�����������������Uxpl�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>]]]]]��embox>]]]]]�[K[14C�6M[H[H[2Jembox>]]]]]��6M[K[19C@@�embox>]]]]]��6M@@�[K[6Cembox>[]]]]]��6M@@�[K[7Cembox>[]]]]]��6M@@�[K[6Cembox>@[]]]]]��6M@@�[K[7Cembox>@[]]]]]��6M@@�[K[8Cembox>@;[]]]]]��6M@@�[K[9Cembox>@;@[]]]]]��6M@@�[K[10Cembox>@;@@[]]]]]��6M@@�[K[11Cembox>@;@@t[]]]]]��6M@@�[K[12Cembox>@;@@tt[]]]]]��6M@@�[K[13Cembox>@;@@tt@[]]]]]��6M@@�[K[14Cembox>@;@@tt@@[]]]]]��6M@@�[K[15Cembox>@;@@tt@@ []]]]]��6M@@�[K[16Cembox>@;@@tt@@ .[]]]]]��6M@@�[K[17Cembox>@;@@tt@@ .@[]]]]]��6M@@�[K[18Cembox>@;@@tt@@ .@@[]]]]]��6M@@�[K[19Cembox>@;@@tt@@ .@@@[]]]]]��6M@@�[K[20Cembox>@;@@tt@@ .@@@@[]]]]]��6M@@�[K[21Cembox>@;@@tt@@ .@@@@@[]]]]]��6M@@�[K[22Cembox>@;@@tt@@ .@@@@@t[]]]]]��6M@@�[K[23Cembox>@;@@tt@@ .@@@@@tt[]]]]]��6M@@�[K[24Cembox>@;@@tt@@ .@@@@@ttt[]]]]]��6M@@�[K[25Cembox>@;@@tt@@ .@@@@@ttt�[]]]]]��6M@@�[K[26Cembox>@;@@tt@@ .@@@@@ttt�u[]]]]]��6M@@�[K[27Cembox>@;@@tt@@ .@@@@@ttt�ut[]]]]]��6M@@�[K[28Cembox>@;@@tt@@ .@@@@@ttt�utt[]]]]]��6M@@�[K[29C
+@: Command not found
+tish error: #-2
+embox>ttttt
+ttttt: Command not found
+tish error: #-2
+embox>
+]]]]@�embox>
+]]]]@[K[15C�6M[H[H[2Jembox>
+]]]]@�6M[K[20C@@embox>ttttt[K[11C��[embox>ttttt��[[K[6Cembox>@ttttt��[[K[7Cembox>@[K[7C@@@utfdtttt
+@: Command not found
+tish error: #-2
+embox>
+]]]]]��embox>
+]]]]]�[K[15C�6M[H[H[2Jembox>
+]]]]]��6M[K[20Cembox>
+]]]]]��6M[K[21C�embox>@[K[7C��[embox>@��[[K[6Cembox>@@��[[K[7Cembox>@ttttt[K[12C@@@tt@@ .@@@@@ttt�uts
+@ttttt: Command not found
+tish error: #-2
+embox>ttttt
+ttttt: Command not found
+tish error: #-2
+embox>
+]]]embox>
+]]][K[11Cembox>
+]]][K[12Cembox>
+]]�][K[13Cembox>
+]]��][K[14Cembox>
+]]�][K[13Cembox>
+]]�][K[14Cembox>
+]]��][K[15Cembox>
+]]�� ][K[16Cembox>
+]]�� ][K[17Cembox>
+]]�� ][K[18Cembox>
+]]�� ][K[19Cembox>
+]]�� ][K[20Cembox>
+]]�� ][K[21Cembox>
+]]�� -][K[22Cembox>
+]]�� -@][K[23Cembox>ttttt[K[11C-@embox>@ttttt[K[12C��embox>@ttttt��[K[6Cembox>@@ttttt��[K[7Cembox>@t@ttttt��[K[8Cembox>@t@@ttttt��[K[9Cembox>@t@@@ttttt��[K[10Cembox>@t@@ @ttttt��[K[11Cembox>@t@@ .@ttttt��[K[12Cembox>@t@@ .@@ttttt��[K[13Cembox>@t@@ .@t@ttttt��[K[14Cembox>@t@@ .@t�@ttttt��[Kembox>@t@@ .@t�u@ttttt��[Kembox>@t@@ .@t�ut@ttttt��[Kembox>@t@@ .@t�utt@ttttt��[Kembox>@t@@ .@t�uttt@ttttt��embox>@t@@ .@t�utttt@ttttt��embox>@t@@ .@t�uttttt@ttttt��embox>@t@@ .@t�utttttt@ttttt��embox>@t@@ .@t�uttttttt@ttttt��
+@t@@: Command not found
+tish error: #-2
+embox>
+�]]]]]��embox>
+�]]]]]�[K[15C�6M[H[H[2Jembox>
+�]]]]]��6M[K[20C@@embox>@t@@ .@t�uttttttt@ttttt��[embox>@t@@ .@t�uttttttt@ttttt��[embox>@@t@@ .@t�uttttttt@ttttt��[embox>ttttt[K[11Clogout@@ .@@@@@ttt�utt
+tttttlogout@@: Command not found
+tish error: #-2
+embox>ttttt
+ttttt: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lPt�
+tish error: #-22
+embox>
+�[?5h[?5l�ex
+tish error: #-22
+embox>
+ ��  embox>
+ ��  [K[6Cembox>�
+ ��  [K[7C
+�: Command not found
+tish error: #-2
+embox>
+�^kex4t8
+tish error: #-22
+embox>
+����Ix�~
+tish error: #-22
+embox>
+�[?5h[?5l��exPt�
+tish error: #-22
+embox>
+
+Qt�
+Qt�: Command not found
+tish error: #-2
+embox>
+����������
+����: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l� P~�
+��: Command not found
+tish error: #-2
+embox>
+��exp���������e�
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+�[?5h[?5l�ex�t�
+tish error: #-22
+embox>
+�����P�P�
+embox>
+embox>
+�[?5h[?5lf??????????xPt�
+tish error: #-22
+embox>
+���WxPt�
+tish error: #-22
+embox>
+� �e�Ptx
+tish error: #-22
+embox>
+Pt(
+Pt(: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lxn�����������������������oexitnon
+tish error: #-22
+embox>
+��[?5h[?5lxn�xitnnn
+��: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lxn����������������������oexitnnn
+tish error: #-22
+embox>
+�[?5h[?5lxn�����������������oepitnnn
+tish error: #-22
+embox>
+��nelogout��������������������������������������
+tish error: #-22
+embox>�������������oexitnnn
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

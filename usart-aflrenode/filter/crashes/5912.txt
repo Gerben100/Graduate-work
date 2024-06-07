@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cd`�"0utx�ogoutxxxzXer�
+cd: Command not found
+tish error: #-2
+embox>
+embox>cd[K[8C��
+cd��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>��
+�[K[9C
+embox>
+
+
+bxelog�utxx{zxxx�wer�Xer�
+bxelog�utxx{zxxx�wer�Xer�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�idtttt~embox>x�idtttt[K[14Cx�xjtembox>x�idttttx�xj[K[18Cxxembox>
+
+
+bxelog�utxx{zxxx�wer�Xer�[K[34CVlo
+bxelog�utxx{zxxx�wer�Xer�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�idttpintt~tx�xjtembox>x�idttpintt~tx�xj[K[23Cl]��xhx���xtVx|���xembox>x�idttpintt~tx�xjl]��xhx���xtVx|���x[K[6Cembox>x�idttpintt~tx�xjl]��xhx���xtVx|���x[K[7Cembox>x�idttpintt~tx�xjl]��xhx���xtVx|���x[K[8Cembox>�x�idttpintt~tx�xjl]��xhx���xtVx|���x[K[9Cembox>x�idttpintt~tx�xjl]��xhx���xtVx|���x[K[8Cembox>xx�idttpintt~tx�xjl]��xhx���xtVx|���x[K[9Cembox>xxx�idttpintt~tx�xjl]��xhx���xtVx|���x[K[10C
+embox>Rx|��ln
+Rx|��ln: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�idtttt~tx߇jtembox>x�idtttt~tx߇j[K[20Cl]xhx���xtVx|���xembox>x�idtttt~tx߇jl]xhx���xtVx|���x[K[6Cembox>x�idtttt~tx߇jl]xhx���xtVx|���xembox>x�idtttt~tx߇jl]xhx���xtVx|���xembox>�x�idtttt~tx߇jl]xhx���xtVx|���xembox>x�idtttt~tx߇jl]xhx���xtVx|���xembox>xx�idtttt~tx߇jl]xhx���xtVx|���xembox>xxx�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRx�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRxx�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRx|x�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRx|�x�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRx|��x�idtttt~tx߇jl]xhx���xtVx|���xembox>xxRx|��lx�idtttt~tx߇jl]xhx���xtVx|���x
+embox>o
+o: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cjx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>�
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>x
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���xembox>xx
+jx�idttpintt~tx�xjt{l]��xhx���xtVx|���x
+embox>Rx|��lo
+Rx|��lo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�idloembox>Rx|��lo[K[13C���xembox>Rx|��lo���x[K[6Cembox>Rx|��lo���xembox>Rx|��lo���x[K[6Cembox>dRx|��lo���xembox>dlRx|��lo���xembox>dloRx|��lo���xembox>dloRx|��lo���xembox>dloRx|��lo���xembox>o[K[7C���xembox>o���x[K[6Cembox>o���x[K[7Cembox>o���x[K[6Cembox>xo���x[K[7Cembox>xxo���x[K[8Cembox>xxRo���x[K[9Cembox>xxRxo���x[K[10Cembox>xxRx|o���x[K[11Cembox>xxRx|xo���x[K[12Cembox>xxRx|xxo���xembox>xxRx|xxRo���xembox>xxRx|xxRxo���xembox>xxRx|xxRx|o���xembox>xxRx|xxRx|�o���xembox>xxRx|xxRx|��o���xembox>xxRx|xxRx|��lo���xembox>xxRx|xxRx|��loo���x
+xxRx|xxRx|��loo���x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�i t~tx�xjtembox>[K[20Cl]��xhx���xtVx|���xembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13C
+embox>��lo
+��lo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>x�xembox>x�x[Kembox>x�x[Kembox>x�x[Kembox>�x�x[Kembox>x�x[Kembox>xx�x[Kembox>x_x�x[Kembox>x_Rx�xembox>x_Rpx�xembox>x_Rp{x�xembox>x_Rp{�x�xembox>[K[15Cembox>[K[16Cembox>[K[17C
+embox>
+embox>
+[K[7Cembox>��lo[K��qtxx߰xembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[14Cembox>[K[15Cembox>[K[15Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17C
+embox>
+embox>
+[K[7C
+embox>x�idtttt~tx�xetembox>[K[20Cl]��xhx�|��lo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

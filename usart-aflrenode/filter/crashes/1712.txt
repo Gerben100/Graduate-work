@@ -1,0 +1,116 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ls���embox>ls���[K[11Cembox>ls����[K[12Cembox>ls�����[K[13Cembox>ls������[K[14Cembox>ls�������[K[15Cembox>ls��������[K[16Cembox>ls���������[K[17Cembox>ls����������[K[18Cembox>ls�����������[K[19Cembox>ls������������[K[20Cembox>ls�������������[K[21Cembox>ls��������������[K[22Cembox>ls���������������[K[23Cembox>ls����������������[K[24Cembox>ls���������������_�[K[25Cembox>ls���������������_��[K[26Cembox>ls���������������_���[K[27Cembox>ls���������������_����[K[28C
+embox>
+@�y��
+tish error: #-22
+embox>
+ U�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>[K[6Cembox>x[K[7Cembox>x[K[8Cembox>x[K[9Cembox>x�[K[10C
+x: Command not found
+tish error: #-2
+embox>
+@]�
+@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+embox>embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>�[K[9C
+embox>
+�����������@������@embox>
+�����������@������@[K[6Cembox>�
+�����������@������@[K[7Cembox>��
+�����������@������@[K[8Cembox>��
+�����������@������@[K[9Cembox>��
+�����������@������@[K[10Cembox>���
+�����������@������@[K[11C
+��: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+mmmmMmmmmmmmmmm_@�
+mmmmMmmmmmmmmmm_: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�Z
+[K[9Cembox>�Zx
+[K[10Cembox>�Zxx
+[K[11Cembox>�Zxxx
+[K[12Cembox>�Zxxx
+[K[6Cembox>j�Zxxx
+[K[7Cembox>jx�Zxxx
+[K[8Cembox>jx�Zxxx
+[K[6Cembox>xjx�Zxxx
+[K[7Cembox>xxjx�Zxxx
+[Kembox>xxx�Zxxx
+[K[8Cembox>xxx�Zxxx
+[Kembox>xxx�Zxxx
+[K[10Cembox>xxx�Zxxx
+[K[11Cembox>xx�x�Zxxx
+[K[12C
+xx: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>x
+[K[7Cembox>x
+[K[8Cembox>x[K[8Cembox>x[K[8Cembox>x[K[8Cexit�
+x: Command not found
+tish error: #-2
+embox>
+�x�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+$x$xeeeeee�t
+tish error: #-22
+embox>
+$x$eee�it
+tish error: #-22
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+x{e-it
+tish error: #-22
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+Wqni
+Wqni: Command not found
+tish error: #-2
+embox>
+lsx����������������iii�hiinlsT�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

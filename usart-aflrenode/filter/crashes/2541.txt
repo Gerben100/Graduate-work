@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>"8�a�d"
+8�a�d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>[K[6C������������embox>������������[K[17Cembox>�������������[K[18Cembox>������������c�[K[19Cembox>[K[6Ct
+t: Command not found
+tish error: #-2
+embox>
+qqqqld�cembox>[K[6C�embox>�[K[6Cembox>d�[K[7Cembox>[K[6C�/d ��
+�/d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>d�
+[K[8Cembox>d��
+[K[9Cembox>d���
+[K[10Cembox>d����
+[K[11Cembox>d�����
+[K[12Cembox>d�����
+[K[13Cembox>d�����@
+[K[14Cembox>[K[6C�/dPembox>[K[6Coembox>o[K[6Cembox>do[K[7Cembox>d/o[K[8Cembox>d/�o[K[9Cembox>d/�/o[K[10Cembox>d/�/do[K[11Cembox>d/�/do[K[12Ccembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+�i����ls����h������<
+�i����ls����h�����: Command not found
+tish error: #-2
+embox>
+
+embox>�%e
+�%e: Command not found
+tish error: #-2
+embox>
+H
+H: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+"
+tish error: #-22
+embox>
+������
+��: Command not found
+tish error: #-2
+embox>
+�l��������p
+�l: Command not found
+tish error: #-2
+embox>
+�xitWdd
+�xitWdd: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+d�
+�l�: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+yZt�� Zt�� 
+yZt��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ye��
+ye��@: Command not found
+tish error: #-2
+embox>
+ye�� �
+ye��: Command not found
+tish error: #-2
+embox>
+ye�ye��� �� �
+ye�ye���: Command not found
+tish error: #-2
+embox>
+�e!��
+�e!: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+yye
+=cdi: Command not found
+tish error: #-2
+embox>
+��d�
+��: Command not found
+tish error: #-2
+embox>�
+embox>
+yy�********************************���3
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

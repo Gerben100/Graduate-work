@@ -1,0 +1,212 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[6Cembox>c[K[7Cembox>cd[K[8Cembox>cd�[K[9Cembox>cd��[K[10Cembox>cd���[K[11Cembox>cd����[K[12C
+cd����: Command not found
+tish error: #-2
+embox>
+cdexitembox>
+cdexit[K[14Cembox>
+cdexit[K[13Cembox>
+cdexti[K[13Cembox>
+cdext�i[K[14Cembox>
+cdexti�[K[14Cembox>
+cdextic�[K[15Cembox>
+cdexticd�[K[16Cembox>
+cdexticde�[K[17Cembox>
+cdexticdex�[K[18Cembox>
+cdexticdexi�[K[19Cembox>
+cdexticdex�[K[18Cembox>
+cdexticdexc�[K[19Cembox>
+cdexticdexcd�[K[20Cembox>
+cdexticdexcd��[K[21Cembox>
+cdexticdexcd���[K[22C
+cdexticdexcd���: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+]ofout
+]ofout: Command not found
+tish error: #-2
+embox>
+�Zd6d6��i��
+�Z: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Ct
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�c
+[K[8Cembox>�cc
+[K[9Cembox>�ccO
+[K[10Cembox>�ccOs
+[K[11Cembox>�ccOsd
+[K[12Cembox>�ccOsd�
+[K[13Cembox>�ccOsd�c
+[K[14C
+�ccOsd�c: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�c
+�c: Command not found
+tish error: #-2
+embox>
+Z���
+Z���: Command not found
+tish error: #-2
+embox>
+�#
+embox>
+�s��
+�s��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+X
+X: Command not found
+tish error: #-2
+embox>
+�e
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�bn�� 
+�bn��: Command not found
+tish error: #-2
+embox>
+��exi�
+��exi�: Command not found
+tish error: #-2
+embox>
+opin�
+opin�: Command not found
+tish error: #-2
+embox>
+����i�i�
+����: Command not found
+tish error: #-2
+embox>
+x�xxxi�
+x�xxxi�: Command not found
+tish error: #-2
+embox>
+i�
+i�: Command not found
+tish error: #-2
+embox>
+�o+
+tish error: #-22
+embox>
+xi�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�exiii�iiii
+embox>�
+embox>
+-
+-: Command not found
+tish error: #-2
+embox>
+�inginexi�
+�inginexi�: Command not found
+tish error: #-2
+embox>
+eexpobt
+eexpobt: Command not found
+tish error: #-2
+embox>
+ex��
+ex��: Command not found
+tish error: #-2
+embox>
+
+�exi�: Command not found
+tish error: #-2
+embox>
+dccd
+dccd: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+�s��: Command not found
+tish error: #-2
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+�ecdexportxjt�
+tish error: #-22
+embox>
+�ex����yelex��o[ou
+tish error: #-22
+embox>
+�exl��telogOu
+tish error: #-22
+embox>
+�ex�
+tish error: #-22
+embox>
+x�
+�e: Command not found
+tish error: #-2
+embox>
+fcd
+fcd: Command not found
+tish error: #-2
+embox>
+ou
+ou: Command not found
+tish error: #-2
+embox>
+@iyenou
+�s��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+embox>
+logout@]s�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

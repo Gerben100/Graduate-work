@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>,
+,: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>ex
+[K[9Cembox>ex
+[K[10Cembox>exe
+[K[11Cembox>exeV
+[K[12Cembox>exeVi
+[K[13Cembox>exeVi�
+[K[14Cembox>exeVi�i
+[K[15Cembox>exeVi�it
+[K[16Cembox>exeVi�it
+[K[17C
+embox>
+lsembox>
+ls[K[6Cembox>�
+ls[K[7Cembox>�
+ls[K[8C
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+`embox>
+�[K[8Cxxxxxxxxxxxxxxxxxxxxxxxxxxx
+�xxxxxxxxxxxxxxxxxxxxxxxxxxx: Command not found
+tish error: #-2
+embox>
+������t
+�����: Command not found
+tish error: #-2
+embox>
+�pinmxpopt
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@���embox>
+@���[Kembox>
+@���[Kembox>
+@��]�[Kembox>
+@��]x�[Kembox>
+@��]xp�[Kembox>
+@��]xpo�[Kembox>
+@��]xpor�[Kembox>
+@��]xpor��[Kembox>
+@��]xpor�t�[K
+@��: Command not found
+tish error: #-2
+embox>
+���[H[H[2Jembox>
+���[K[11Cmxport
+tish error: #-22
+embox>
+����mxp�rl
+tish error: #-22
+embox>
+exportm"�rt
+exportm": Command not found
+tish error: #-2
+embox>
+����mxpXrt
+tish error: #-22
+embox>
+o�s��m�p�rt
+tish error: #-22
+embox>
+����mxpocd
+tish error: #-22
+embox>
+ ��cd
+tish error: #-22
+embox>
+
+embox>
+�/�
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+[H[H[2J��
+tish error: #-22
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+�� �
+�: Command not found
+tish error: #-2
+embox>
+*
+bn: Command not found
+tish error: #-2
+embox>
+b�
+b�: Command not found
+tish error: #-2
+embox>
+C������������������������CCCC���
+tish error: #-22
+embox>
+export��
+export��: Command not found
+tish error: #-2
+embox>
+�y__K__FmmmmmmRmmmmmort_______________c______�
+tish error: #-22
+embox>_____
+_____: Command not found
+tish error: #-2
+embox>
+�y ____F____T___�� ____F____T___�o_______
+tish error: #-22
+embox>_______�_____
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

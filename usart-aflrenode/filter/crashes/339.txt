@@ -1,0 +1,111 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C���56>6@���@@@ڂ@@@@@�@
+���56>6@: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@@@\@@exp@�@[@@?@@@@@@@@@@@�ex
+@@@@@@@@@@@\@@exp@�@[@@?@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@@@@@@@@@@@@@@@@@�6656>6@@embox>
+@@@@@@@@@@@@@@@@@@@@@@@@@�6656>6@@[K[42C��@@@@@@@@?
+@@@@@@@@@@@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>@@@F@@@@@@@@\@@ext@�@@@@?@@@@@@@@@@@�ex
+@@@F@@@@@@@@\@@ext@�@@@@?@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�6656@@@?embox>
+�6656@@@?[K��@@@@@@\@@@@@@@@@@@@@>6@@exp@�@@@@?
+tish error: #-22
+embox>@@@@@@@@@@@�ex
+@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�6656>�@@embox>
+�6656>�@@[K[17C��@@@@@@@@?@@@@@'@@@@@@embox>
+�6656>�@@��@@@@@@@@?@@@@@'@@@@@xp@�@@@@?
+tish error: #-22
+embox>H@@@@@@@P@@@\@@exp@�@@@@?@@@1@@@@@�ex
+H@@@@@@@P@@@\@@exp@�@@@@?@@@1@@@@@: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[8C��@@@@@@@@�@@@@@@@@@@@@\@@exp@�@@@@?@@@@@@@@;@
+@��@@@@@@@@�@@@@@@@@@@@@\@@exp@�@@@@?@@@@@@@@;@: Command not found
+tish error: #-2
+embox>@�ex
+@: Command not found
+tish error: #-2
+embox>
+�6656�>6@@@@?@@@@@@@@@@@@\@@exp@�@@@@?@@@@�@@@@@
+tish error: #-22
+embox>@�ex
+@: Command not found
+tish error: #-2
+embox>
+�6656>6@@��@@@@@@@@?@@@?@@@@@@@@@@@�ex
+tish error: #-22
+embox>
+
+embox>
+Xt
+embox>u
+u: Command not found
+tish error: #-2
+embox>
+�exit��
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+pipin��
+�: Command not found
+tish error: #-2
+embox>
+
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+}�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+*
+*: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lsxe���yexit�x
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

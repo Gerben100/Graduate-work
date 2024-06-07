@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+embox>p
+p: Command not found
+tish error: #-2
+embox>pvne\�Ϻ�������iz�ex�ٺ���������i
+pvn: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>�e embox>
+[K[7Cembox>[K[6C�e embox>�e [K[11Cembox>�e [K[10Cembox>�e [K[9Cembox>�e[K[8Cembox>�[K[7Cembox>[K[6C�embox>[K[6Cp1m�e embox>p1m�e [K[14Cembox>p1m�e [K[6Cembox>ep1m�e [K[7Cembox>e�p1m�e [K[8Cembox>e�pp1m�e [K[9Cembox>e�p1p1m�e [K[10Cembox>e�p1mp1m�e [K[11Cembox>e�p1m�p1m�e [K[12Cembox>e�p1m�ep1m�e [K[13Cembox>e�p1m�e p1m�e [K[14Cembox>e�p1m�e p1m�e [K[15Cembox>e�p1m�e p1m�e [K[16Cembox>e�p1m�e p1m�e [K[17Cembox>e�p1m�e p1m�e [K[16Cembox>e�p1m�e mp1m�e [K[17Cembox>e�p1m�e m�p1m�e [K[18Cembox>e�p1m�e m�ep1m�e [K[19Cembox>e�p1m�e m�e p1m�e [K[20C
+e�p1m�e: Command not found
+tish error: #-2
+embox>embox>e�p1m�e [K[14Cembox>e�p1m�e[K[13C�e embox>e�p1m�e�e [K[18Cembox>e�p1m�e�e [K[17Cembox>e�p1m�e�e [K[16Cembox>e�p1m�e�e[K[15Cembox>e�p1m�e�[K[14Cembox>e�p1m�e[K[13Cembox>e�p1m�[K[12Cembox>e�p1m[K[11Ct
+e�p1mt: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>`io@k��
+`io: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>l�
+embox>�xpembox>�x[K[8CrI������
+embox>��菏
+embox>
+
+tish error: #-22
+embox>
+embox>l���oembox>l���[K[11CI�����
+embox>�
+embox>���
+embox>
+
+tish error: #-22
+embox>
+embox>l�}Pxp�r֏�����
+embox>��苏
+embox>
+
+tish error: #-22
+embox>
+embox>l!�exporI������
+embox>������
+������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>l��gx�����
+embox>��菏
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>菏�
+embox>菏
+embox>
+
+tish error: #-22
+embox>.lexpor�ohI���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

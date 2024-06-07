@@ -1,0 +1,83 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��������
+��������: Command not found
+tish error: #-2
+embox>
+�e�embox>
+�e�[K[9Cembox>
+�e�[K[10Cembox>
+�eh�[K[11Cembox>
+�ehu�[K[12Cembox>
+�ehui�[K[13Cembox>
+�ehuit�[K[14C
+�e: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�mi
+�mi: Command not found
+tish error: #-2
+embox>
+�?dy[H[H[2Jembox>
+�?dy[K[14Cembox>
+�?dy[K[14C� y[H[H[2Jembox>
+�?dy� y[K[22C
+tish error: #-22
+embox>
+ߛ���z��������
+ߛ���z��������: Command not found
+tish error: #-2
+embox>
+@dy�embox>
+@dy�[K[14C�embox>
+ߛ���z��������[K[21CyxYYYYYYYYY@dy�embox>
+ߛ���z��������yxYYYYYYYYY@dy��embox>
+[K[7CyxYYYYYYY
+yxYYYYYYY: Command not found
+tish error: #-2
+embox>YYYYYcdYYYcd
+YYYYY: Command not found
+tish error: #-2
+embox>
+@dy embox>YYYYY[K[11CYxYYYYYYYYYYYYls
+YYYYYYxYYYYYYYYYYYY: Command not found
+tish error: #-2
+embox>
+@@dembox>
+@@[K[12Cembox>
+@@[K[15CYYYXYYLd�/YYYY�YYZpi�
+tish error: #-22
+embox>
+@dy�embox>
+@dy�[Kembox>
+@dy�[Kexitembox>
+[K[7CYxYYYYYYYYYpin@dy�embox>[K[33Cembox>[K[33CexitY
+YYYYYYxYYYYYYYYYYYYY: Command not found
+tish error: #-2
+embox>xYYYYYYYYYYYY
+xYYYYYYYYYYYY: Command not found
+tish error: #-2
+embox>
+@dy�
+embox>�YxjYYYYYYYYYYY
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

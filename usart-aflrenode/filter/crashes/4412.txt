@@ -1,0 +1,113 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p�qppppppp�pp�pppplogomtpcc�p�pNppppvp
+embox>
+@p�ppv`
+@p�: Command not found
+tish error: #-2
+embox>
+p�qpppppp�pqpplogomtpcc�pxpNppppdp
+tish error: #-22
+embox>
+p�qpppppp�popplo��mtp[�p�^pNpp pvpc
+tish error: #-22
+embox>
+pomtpcC�pembox>
+[K[7Cgomembox>
+go[K[10Cpcc޿�qp^pembox>
+gopcc޿�qp^p[K[6Cembox>c
+gopcc޿�qp^p[K[7Cembox>cd
+gopcc޿�qp^p[K[8Cembox>cd
+gopcc޿�qp^p[K[9Cembox>cd�
+gopcc޿�qp^p[K[10Cembox>cd�o
+gopcc޿�qp^p[K[11Cembox>cd�op
+gopcc޿�qp^p[K[12Cembox>cd�opp
+gopcc޿�qp^p[K[13Cembox>cd�oppl
+gopcc޿�qp^p[K[14Cembox>cd�oppl
+gopcc޿�qp^p[K[15Cembox>cd�oppl
+gopcc޿�qp^p[K[16Cembox>cd�oppl
+gopcc޿�qp^p[K[17Cembox>cd�oppl
+gopcc޿�qp^p[K[18Cembox>cd�opplp
+gopcc޿�qp^p[K[19Cembox>cd�opplp
+gopcc޿�qp^p[K[20C
+cd: Command not found
+tish error: #-2
+embox>
+p�p�qpppppp�embox>
+p�p�qpppppp[K[22Cppp�ogo tpcembox>
+p�p�qppppppppp�ogo tp[K[32C�pxgo tpcembox>
+p�p�qppppppppp�ogo tp�pxgo tp[K[40C�pvp
+tish error: #-22
+embox>
+��q�p�q�gomtpcc�pxpNomtpcembox>
+��q�p�q�gomtpcc�pxpNomtp[K[35C�pppplZpembox>
+��q�p�q�gomtpcc�pxpNomtp�pppplZ[K[44C�ppp
+tish error: #-22
+embox>plZgppppvp
+plZgppppvp: Command not found
+tish error: #-2
+embox>
+p�qpppppp�ppppl��tpccޒqqqqppembox>
+p�qpppppp�ppppl��tpccޒqqqqpp[K[40Cvp
+tish error: #-22
+embox>
+ppp�qppp��ppembox>
+ppp�qppp��p[K[19Cpvp]��eembox>
+[K[7C=�����������embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C[?5h[?5l embox>
+ [K[9CPPPPPPPP�����������������������RPPPPPPP
+embox>l�P
+l�: Command not found
+tish error: #-2
+embox>� 
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C[?5h[?5lPPP?PPPPPPP�OPP[PPPPIPPcdPPPPPPPPPPPP,�embox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52Cembox>[K[53C
+PPP?PPPPPPP: Command not found
+tish error: #-2
+embox>P1�[PPqPPPP
+embox>w�wP
+embox>
+[?5h[?5lPPPO
+embox>
+[?5h[?5lPPPFPPPPPPP
+embox>k��������
+k��������: Command not found
+tish error: #-2
+embox>��������������FP
+��������������F^�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lPPPPPPPPPP��
+embox>
+[?5h[?5lPPPPPPPPPPP
+embox>PPPPPPPP
+embox>w�x1�PP
+w�x1�P^�: Command not found
+tish error: #-2
+embox>
+pPP-NP�PPPP
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

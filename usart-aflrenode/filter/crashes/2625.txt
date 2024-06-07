@@ -1,0 +1,42 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e?ieiilembox>e?ieiil[K[6Cembox>Xe?ieiil[K[7Cembox>XMe?ieiil[K[8Cembox>XM8e?ieiil[K[9Cembox>XM88e?ieiil[K[10Cembox>XM888e?ieiil[K[11Cembox>XM8888e?ieiil[K[12Cembox>XM8888e?ieiil[K[13Cembox>XM88888e?ieiil[K[14Cembox>XM888886e?ieiil[K[15Cembox>XM8888868e?ieiil[K[16Cembox>XM88888688e?ieiil[K[17C
+XM8888: Command not found
+tish error: #-2
+embox>
+e888�embox>
+e888[K[11C88688lembox>
+e88888688l[K[6Cembox>X
+e88888688l[K[7Cembox>X8
+e88888688l[K[8Cembox>X88
+e88888688l[K[9Cembox>X88@
+e88888688l[K[10Cembox>X88@�
+e88888688l[K[11Cembox>X88@
+e88888688l[K[10Cembox>X88@8
+e88888688l[K[11Cembox>X88@88
+e88888688l[K[12Cembox>X88@886
+e88888688l[K[13Cembox>X88@8868
+e88888688l[K[14Cembox>X88@88688
+e88888688l[K[15C
+X88@88688: Command not found
+tish error: #-2
+embox>
+QPembox>
+QP[K[6Cembox>QP[K[6Cembox>P[K[6Cembox>[K[6C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

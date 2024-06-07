@@ -1,0 +1,196 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+glFyxpinembox>
+glFyxpin[K[17Cembox>
+glFyxpin[K[18Cembox>
+glFyxpin�[K[19Cembox>
+glFyxpin�[K[20Cembox>
+glFyxpin�@[K[21Cembox>
+glFyxpin�@@[K[22Cembox>
+glFyxpin�@@@[K[23Cembox>
+glFyxpin�@@@c[K[24Cembox>
+glFyxpin�@@@c?[K[25Cembox>
+glFyxpin�@@@c?e[K[26Cembox>
+glFyxpin�@@@c?ex[K[27Cembox>
+glFyxpin�@@@c?ex[K[6Cembox><
+glFyxpin�@@@c?ex[K[7Cembox><@
+glFyxpin�@@@c?ex[K[8Cembox><@@
+glFyxpin�@@@c?ex[K[9Cembox><@@@
+glFyxpin�@@@c?ex[K[10Cembox><@@@@
+glFyxpin�@@@c?ex[K[11Cembox><@@@@@
+glFyxpin�@@@c?ex[K[12Cembox><@@@@@@
+glFyxpin�@@@c?ex[K[13Cembox><@@@@@@@
+glFyxpin�@@@c?ex[K[14Cembox><@@@@@@@@
+glFyxpin�@@@c?ex[K[15Cembox><@@@@@@@@l
+glFyxpin�@@@c?ex[K[16Cembox><@@@@@@@@lo
+glFyxpin�@@@c?ex[K[17Cembox><@@@@@@@@log
+glFyxpin�@@@c?ex[K[18Cembox><@@@@@@@@logo
+glFyxpin�@@@c?ex[K[19Cembox><@@@@@@@@logou
+glFyxpin�@@@c?ex[K[20Cembox><@@@@@@@@logout
+glFyxpin�@@@c?ex[K[21Cembox><@@@@@@@@logout\
+glFyxpin�@@@c?ex[K[22Cembox><@@@@@@@@logout\
+glFyxpin�@@@c?ex[K[23Cembox><@@@@@@@@logout\M
+glFyxpin�@@@c?ex[K[24Cembox><@@@@@@@@logout\M@
+glFyxpin�@@@c?ex[K[25Cembox><@@@@@@@@logout\M@@
+glFyxpin�@@@c?ex[K[26Cembox><@@@@@@@@logout\M@@?
+glFyxpin�@@@c?ex[K[27Cembox><@@@@@@@@logout\M@@?<
+glFyxpin�@@@c?ex[K[28Cembox><@@@@@@@@logout\M@@?<@
+glFyxpin�@@@c?ex[Kembox><@@@@@@@@logout\M@@?<@@
+glFyxpin�@@@c?ex[K[30C
+<@@@@@@@@logout\: Command not found
+tish error: #-2
+embox>
+glFyxembox>
+glFyx[K[15Cembox>
+glFyx[K[16Cembox>
+glFyx�[K[17Cembox>
+glFyx�[K[18Cembox>
+glFyx�@[K[19Cembox>
+glFyx�@@[K[20Cembox>
+glFyx�@@@[K[21Cembox>
+glFyx�@@@c[K[22Cembox>
+glFyx�@@@c?[K[23Cembox>
+glFyx�@@@c?e[K[24Cembox>
+glFyx�@@@c?ex[K[25Cembox>
+glFyx�@@@c?exp[K[26Cembox>
+glFyx�@@@c?exp@[K[27Cembox>
+glFyx�@@@c?exp@[K[26Cembox>
+glFyx�@@@c?exp@[K[27Cembox>
+glFyx�@@@c?exp�@[K[28Cembox>
+glFyx�@@@c?exp�@[K[29Cembox>
+glFyx�@@@c?exp�@@[K[30Cembox>
+glFyx�@@@c?exp�@@@[K[31Cembox>
+glFyx�@@@c?exp�@@@@[K[32Cembox>
+glFyx�@@@c?exp�@@@c@[K[33Cembox>
+glFyx�@@@c?exp�@@@c6@[K[34Cembox>
+glFyx�@@@c?exp�@@@c67@[K[35Cembox>
+glFyx�@@@c?exp�@@@c675@[K[36Cembox>
+glFyx�@@@c?exp�@@@c6756@[K[37Cembox>
+glFyx�@@@c?exp�@@@c6756>@[K[38Cembox>
+glFyx�@@@c?exp�@@@c6756>6@[K[39Cembox>
+glFyx�@@@c?exp�@@@c6756>6T@[K[40Cembox>
+glFyx�@@@c?exp�@@@c6756>6T@[K[41Cembox>
+glFyx�@@@c?exp�@@@c6756>6Tx@[K[42Cembox>
+glFyx�@@@c?exp�@@@c6756>6Txp@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@@@[Kembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@@@@[K[50Cembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@@@@@[K[51Cembox>
+glFyx�@@@c?exp�@@@c6756>6Txpo6T@@@@@\@[K[52C
+glFy: Command not found
+tish error: #-2
+embox>@@@&?<@@
+@@@&?<@@: Command not found
+tish error: #-2
+embox>
+goFyxembox>@@@&?<@@[K[14Cembox>@@@&?<@@[K[14Cembox>@@@&?<@@[K[15Cembox>@@@&?<@@�[K[16Cembox>@@@&?<@@�[K[17Cembox>@@@&?<@@�@[K[18Cembox>@@@&?<@@�@@[K[19Cembox>@@@&?<@@�@@[K[6Cembox>c@@@&?<@@�@@[K[7Cembox>c?@@@&?<@@�@@[K[8Cembox>c?e@@@&?<@@�@@[K[9Cembox>c?ex@@@&?<@@�@@[K[10Cembox>c?exp@@@&?<@@�@@[K[11Cembox>c?exp@@@@&?<@@�@@[K[12Cembox>c?exp@@@@&?<@@�@@[K[11Cembox>c?exp@@@@&?<@@�@@[K[12Cembox>c?exp�@@@@&?<@@�@@[K[13Cembox>c?exp�@@@@&?<@@�@@[K[14Cembox>c?exp�@@@@@&?<@@�@@[K[15Cembox>c?exp�@@@@@@&?<@@�@@[K[16Cembox>c?exp�@@@@@@@&?<@@�@@[K[17Cembox>c?exp�@@@�@@@@&?<@@�@@[K[18Cembox>c?exp�@@@�6@@@@&?<@@�@@[K[19Cembox>c?exp�@@@�66@@@@&?<@@�@@[K[20Cembox>c?exp�@@@�665@@@@&?<@@�@@[K[21Cembox>c?exp�@@@�6656@@@@&?<@@�@@[K[22Cembox>c?exp�@@@�6656>@@@@&?<@@�@@[K[23Cembox>c?exp�@@@�6656>6@@@@&?<@@�@@[K[24Cembox>c?exp�@@@�6656>6T@@@@&?<@@�@@[K[25Cembox>c?exp�@@@�6656>6T�@@@@&?<@@�@@[K[26Cembox>c?exp�@@@�6656>6T�6@@@@&?<@@�@@[K[27Cembox>c?exp�@@@�6656>6T�66@@@@&?<@@�@@[K[28Cembox>c?exp�@@@�6656>6T�66F@@@@&?<@@�@@[K[29Cembox>c?exp�@@@�6656>6T�66F6@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6�@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6��@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6���@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6��@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6���@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6����@@@@&?<@@�@@[Kembox>c?exp�@@@�6656>6T�66F6�����@@@@&?<@@�@@[K
+c?exp: Command not found
+tish error: #-2
+embox>�@@@�@Qexpo6T@[?5h[?5l��@@@@@Qexport@<@@�@@@qtembox>�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[K[6Cembox><�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@@@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[Kembox><@@@@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[K[13Cembox><@@@@@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[K[14Cembox><@@@@@@@@�@@@�@Qexpo6T@��@@@@@Qexport@<@@�@@@qt[K[15C
+<@@@@@@@@�@@@�@Qexpo6T@: Command not found
+tish error: #-2
+embox>\@@@@?<@@
+\@@@@?<@@: Command not found
+tish error: #-2
+embox>
+glFyxembox>\@@@@?<@@[K[15Cembox>\@@@@?<@@[Kembox>\@@@@?<@@[Kembox>\@@@@?<@@�[Kembox>\@@@@?<@@�[Kembox>\@@@@?<@@�@[K[19Cembox>\@@@@?<@@�@@[K[20Cembox>\@@@@?<@@�@@@[K[21Cembox>\@@@@?<@@�@@@@[K[22Cembox>\@@@@?<@@�@@@@Q[Kembox>\@@@@?<@@�@@@@Qe[Kembox>\@@@@?<@@�@@@@Qex[Kembox>\@@@@?<@@�@@@@Qexp[Kembox>\@@@@?<@@�@@@@Qexpoembox>\@@@@?<@@�@@@@Qexporembox>\@@@@?<@@�@@@@Qexportembox>\@@@@?<@@�@@@@Qexport@embox>\@@@@?<@@�@@@@Qexport@<embox>\@@@@?<@@�@@@@Qexport@<@embox>\@@@@?<@@�@@@@Qexport@<@@embox>\@@@@?<@@�@@@@Qexport@<@@�embox>\@@@@?<@@�@@@@Qexport@<@@�@embox>\@@@@?<@@�@@@@Qexport@<@@�@@embox>\@@@@?<@@�@@@@Qexport@<@@�@@Dembox>\@@@@?<@@�@@@@Qexport@<@@�@@Dqembox>\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox>\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?e\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?ex\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?exp\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?exp@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?exp@\@@@@?<@@�@@@@Qexport@<@@�@@Dqtembox><@@@@@c?exp@\@@@@?<@@�@@@@Qexport@<@@�@@Dqt
+<@@@@@c?exp: Command not found
+tish error: #-2
+embox>�@@@c6T@embox>�@@@c6T@[K[6Cembox>��@@@c6T@[K[7Cembox>���@@@c6T@[K[8Cembox>��@�@@@c6T@[K[9Cembox>��@@�@@@c6T@embox>��@@@�@@@c6T@embox>��@@@@�@@@c6T@embox>��@@@@@�@@@c6T@embox>��@@@@@�@@@c6T@embox>��@@@@@�@@@c6T@embox>r��@@@@@�@@@c6T@embox><@@@@@c?exp[K[17Cd?<@@
+<@@@@@c?exp: Command not found
+tish error: #-2
+embox>
+olFyxembox><@@@@@c?exp[K[17Cembox><@@@@@c?exp[K[17Cembox><@@@@@c?exp[K[18Cembox><@@@@@c?exp�embox><@@@@@c?exp�embox><@@@@@c?exp�@embox><@@@@@c?exp�@@embox><@@@@@c?exp�@@@embox><@@@@@c?exp�@@@cembox><@@@@@c?exp�@@@c?embox><@@@@@c?exp�@@@c?eembox><@@@@@c?exp�@@@c?exembox><@@@@@c?exp�@@@c?expembox><@@@@@c?exp�@@@c?exp@embox><@@@@@c?exp�@@@c?exp@embox><@@@@@c?exp�@@@c?exp@embox><@@@@@c?exp�@@@c?exp�@embox><@@@@@c?exp�@@@c?exp�@embox><@@@@@c?exp�@@@c?exp�@@embox><@@@@@c?exp�@@@c?exp�@@@embox><@@@@@c?exp�@@@c?exp�@@@@embox><@@@@@c?exp�@@@c?exp�@@@c@embox><@@@@@c?exp�@@@c?exp�@@@c6@embox><@@@@@c?exp�@@@c?exp�@@@c66@embox><@@@@@c?exp�@@@c?exp�@@@c66L@embox><@@@@@c?exp�@@@c?exp�@@@c66L6@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�6@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6�@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6��@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6���@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6����@embox><@@@@@c?exp�@@@c?exp�@@@c66L6>6T�66F6>6�����@
+<@@@@@c?exp: Command not found
+tish error: #-2
+embox>�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>���@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@66�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@665�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T�6�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T�66�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T�66F�@@Glsexport@<@@�@@@@@�@Qexpo6T@embox>��@@6656>6T�66F6�@@Glsexport@<@@�@@@@@�@Qexpo6T@
+��@@6656>6T�66F6�@@Glsexport@<@@�@@@@@�@Qexpo6T@: Command not found
+tish error: #-2
+embox>\@@@@?<P@
+\@@@@?<P@: Command not found
+tish error: #-2
+embox>
+glFyxembox>\@@@@?<P@[K[15Cembox>\@@@@?<P@[K[15Cembox>\@@@@?<P@[K[16Cembox>\@@@@?<P@�[K[17Cembox>\@@@@?<P@�[K[18Cembox>\@@@@?<P@�@[K[19Cembox>\@@@@?<P@�@@[K[20Cembox>\@@@@?<P@�@@@[K[21Cembox>\@@@@?<P@�@@@c[K[22Cembox>\@@@@?<P@�@@@c?embox>\@@@@?<P@�@@@c?eembox>\@@@@?<P@�@@@c?exembox>\@@@@?<P@�@@@c?expembox>\@@@@?<P@�@@@c?exp@embox>\@@@@?<P@�@@@c?exp@embox>\@@@@?<P@�@@@c?exp@embox>\@@@@?<P@�@@@c?exp�@embox>\@@@@?<P@�@@@c?exp�@embox>\@@@@?<P@�@@@c?exp�@@embox>\@@@@?<P@�@@@c?exp�@@@embox>\@@@@?<P@�@@@c?exp�@@@@embox>\@@@@?<P@�@@@c?exp�@@@c@embox>\@@@@?<P@�@@@c?exp�@@@c6@embox>\@@@@?<P@�@@@c?exp�@@@c66@embox>\@@@@?<P@�@@@c?exp�@@@c665@embox>\@@@@?<P@�@@@c?exp�@@@c6656@embox>\@@@@?<P@�@@@c?exp�@@@c6656>@embox>\@@@@?<P@�@@@c?exp�@@@c6656>6@embox>\@@@@?<P@�@@@c?exp�@@@c6656>6T@embox>\@@@@?<P@�@@@c?exp�@@@c6656>6T�@embox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52C
+\@@@@?<P@: Command not found
+tish error: #-2
+embox>�@@@�@Qex@@@@?embox>�@@@�@Qex@@@@?[K[6Cembox>��@@@�@Qex@@@@?[K[7Cembox>���@@@�@Qex@@@@?[K[8Cembox>��@�@@@�@Qex@@@@?embox>��@@�@@@�@Qex@@@@?embox>��@@@�@@@�@Qex@@@@?embox>��@@@@�@@@�@Qex@@@@?embox>��@@@@@�@@@�@Qex@@@@?embox>��@@@@@Q�@@@�@Qex@@@@?embox>��@@@@@Qe�@@@�@Qex@@@@?embox>��@@@@@Qex�@@@�@Qex@@@@?embox>��@@@@@Qexp�@@@�@Qex@@@@?embox>��@@@@@Qexpo�@@@�@Qex@@@@?embox>��@@@@@Qexpor�@@@�@Qex@@@@?embox>��@@@@@Qexport�@@@�@Qex@@@@?embox>��@@@@@Qexport?�@@@�@Qex@@@@?embox>��@@@@@Qexport?<�@@@�@Qex@@@@?embox>��@@@@@Qexport?<@�@@@�@Qex@@@@?embox>��@@@@@Qexport?<@@�@@@�@Qex@@@@?embox>��@@@@@Qexport?<@@��@@@�@Qex@@@@?embox>��@@@@@Qexport?<@@�@�@@@�@Qex@@@@?embox>��@@@@@Qexport?<@@�@@�@@@�@Qex@@@@?embox>��@@@@@Qexport?<@@�@@@�@@@�@Qex@@@@?embox>[K[29Cembox>[K[30Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+<@@@@@@@@��@@@@@Qexport?<@@�@@@qt�@@@�@Qex@@@@?: Command not found
+tish error: #-2
+embox>\po6T@<@@
+\po6T@<@@: Command not found
+tish error: #-2
+embox>
+gGlllll;�pindl
+gGlllll;�: Command not found
+tish error: #-2
+embox>
+gexportgolllql;�lsoll����lsl
+gexportgolllql;�: Command not found
+tish error: #-2
+embox>
+gVlklll;vdl
+gVlklll;v: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+gVlllex��d
+gVllle��d: Command not found
+tish error: #-2
+embox>
+�l[H[H[2J�l
+�l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+g�lll
+l: Command not found
+tish error: #-2
+embox>llXbl
+llXb: Command not found
+tish error: #-2
+embox>
+l�yyy�yyyyyybwymyy��
+l�yyy�yyyyyybwymyy�: Command not found
+tish error: #-2
+embox>
+gVllK�tlll;�dl
+gVllK�tlll;�: Command not found
+tish error: #-2
+embox>
+gll
+g: Command not found
+tish error: #-2
+embox>
+�66 6�@@@ =@@@[>@@@@G@@\@ =@@@[ortxp@�@@�@@@ =@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

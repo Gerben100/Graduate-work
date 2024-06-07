@@ -1,0 +1,124 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>}@�xe!!embox>}@�xe!![K[13Cembox>}@�xe!![K[14Cembox>}@�xe!q![K[15Cembox>}@�xe!q�![K[16Cembox>}@�xe!q�q![K[17Cembox>}@�xe!q�qq![K[18Cembox>}@�xe!q�qqq![K[19Cembox>}@�xe!q�qqqq![K[20Cembox>}@�xe!q�qqqqq![K[21Cembox>}@�xe!q�qqqqqq![K[22Cembox>}@�xe!q�qqqqqqq![K[23Cembox>}@�xe!q�qqqqqqqq![K[24Cembox>}@�xe!q�qqqqqqqqq![K[25Cembox>}@�xe!q�qqqqqqqqqq![K[26Cembox>}@�xe!q�qqqqqqqqqqq![K[27Cembox>}@�xe!q�qqqqqqqqqqqq![K[28Cembox>}@�xe!q�qqqqqqqqqqqqq![K[29Cembox>}@�xe!q�qqqqqqqqqqqqqq![K[30Cembox>}@�xe!q�qqqqqqqqqqqqqqq![K[31Cembox>}@�xe!q�qqqqqqqqqqqqqqqq![K[32Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq![K[33Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq�![K[34Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq�q![K[35Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq�q![K[36Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq�q![K[37Cembox>}@�xe!q�qqqqqqqqqqqqqqqqq�q![K[36C
+}@�: Command not found
+tish error: #-2
+embox>
+@�xeembox>[K[6C!�qqqqqqqqqpinqqaqqqembox>!�qqqqqqqqqpinqqaqqq[K[28C
+!�qqqqqqqqqpinqqaqqq: Command not found
+tish error: #-2
+embox>
+}@�embox>
+}@�[K[6Cembox>
+}@�[K[7Cembox>
+}@�[K[8Cembox>!
+}@�[K[9Cembox>!
+}@�[K[8Cembox>!
+}@�[K[9Cembox>q!
+}@�[K[10Cembox>qq!
+}@�[K[11Cembox>qqq!
+}@�[K[12Cembox>qqqq!
+}@�[K[13Cembox>qqqqq!
+}@�[K[14Cembox>qqqqqq!
+}@�[K[15Cembox>qqqqqqq!
+}@�[K[16Cembox>qqqqqqq!
+}@�[K[17Cembox>qqqqqqq!
+}@�[K[6Cembox>qqqqqqqq!
+}@�[K[7Cembox>qqqqqqqqq!
+}@�[K[8Cembox>qqqqqqqqqq!
+}@�[K[9Cembox>qqqqqqqqqqq!
+}@�[K[10Cembox>qqqqqqqqqqqq!
+}@�[K[11Cembox>qqqqqqqqqqqqq!
+}@�[K[12Cembox>qqqqqqqqqqqqqq!
+}@�[K[13Cembox>qqqqqqqqqqqqqqq!
+}@�[K[14Cembox>qqqqqqqqqqqqqqqq!
+}@�[K[15Cembox>qqqqqqqqqqqqqqqqq!
+}@�[K[16Cembox>qqqqqqqqqqqqqqqqqq!
+}@�[K[17Cembox>qqqqqqqqqqqqqqqqqqq!
+}@�[K[18Cembox>qqqqqqqqqqqqqqqqqqq!
+}@�[K[19Cembox>qqqqqqqqqqqqqqqqqqq!
+}@�[K[20Cembox>qqqqqqqqqqqqqqqqqqq!
+}@�[K[19C
+qqqqqqqqqqqq: Command not found
+tish error: #-2
+embox>
+\@@e3|
+\@@e3|: Command not found
+tish error: #-2
+embox>
+��tt
+��tt: Command not found
+tish error: #-2
+embox>
+}@q]qembox>
+}@q]q[K[11C
+}@q]q: Command not found
+tish error: #-2
+embox>
+}@�xe!qq
+}@�: Command not found
+tish error: #-2
+embox>
+}@��jembox>
+}@��j[K[6Cembox>�
+}@��j[K[7Cembox>�
+}@��j[K[8Cembox>��
+}@��j[K[9Cembox>���
+}@��j[K[10Cembox>���
+}@��j[K[11Cembox>����
+}@��j[K[12Cembox>�����
+}@��j[K[13Cembox>������
+}@��j[K[14Cembox>�������
+}@��j[K[15Cembox>�������
+}@��j[K[16Cembox>��������
+}@��j[K[17Cembox>��������c
+}@��j
+�: Command not found
+tish error: #-2
+embox>
+UUUUUUUUUUUU�[?5h[?5l
+embox>\1
+\1: Command not found
+tish error: #-2
+embox>
+}�embox>
+}�
+}�: Command not found
+tish error: #-2
+embox>
+{@�{@��ll
+embox>
+�@�����@�c���ecitc
+embox>
+}@Ţl
+��: Command not found
+tish error: #-2
+embox>
+}@tlexitl
+embox>
+�K��eey)�eloc
+�: Command not found
+tish error: #-2
+embox>
+ls
+tish error: #-22
+embox>
+����cd�
+embox>�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

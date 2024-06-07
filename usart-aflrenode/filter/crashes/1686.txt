@@ -1,0 +1,182 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>e[K[7Cembox>ey[K[8Cembox>eyc[K[9C
+eyc: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>ey
+[K[9Cembox>ey�
+[K[10Cembox>ey�
+[K[6Cembox>ey�
+[K[7Cembox>eey�
+[K[8Cembox>eyey�
+[K[9Cembox>
+�[K[8Cembox>
+�[K[6Cembox>
+�[K[7Cembox>eyc[K[9CT������
+eycT������: Command not found
+tish error: #-2
+embox>
+�logout
+�logout: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[10Cembox>
+[K[9Cembox>�
+[K[10Cembox>�l
+[K[11Cembox>�ln
+[K[12Cembox>�ln�
+[K[13Cembox>�ln��
+[K[14Cembox>�ln��[K[14Cln����
+embox>
+embox>
+[K[6Cembox>t
+[K[7Cembox>t�
+[K[8Cembox>t��
+[K[9Cembox>t���
+[K[10Cembox>t����
+[K[11Cembox>t����y
+[K[12Cembox>
+�[K[8Ct��������
+�t��������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>e
+[K[9Cembox>e
+[K[10Cembox>e
+[K[9Cembox>e
+[K[10Cembox>e�
+[K[11Cembox>e��
+[K[12Cembox>e���
+[K[13Cembox>e����
+[K[14Cembox>e�����
+[K[15C
+embox>
+embox>
+[K[6Cembox>l
+[K[7Cembox>lo
+[K[8Cembox>log
+[K[9Cembox>logo
+[K[10Cembox>logou
+[K[11Cembox>logout
+[K[12Cembox>logout
+[K[13Cembox>logoute
+[K[14Cembox>logoutey
+[K[15Cembox>
+�t��������[K[17C툞����
+�t��������툞����: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>e�
+[K[9Cembox>
+�t��������툞����ts���e�
+�t��������툞����ts���e�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+[K[7CNNNNNNN�<NNNNLNN
+NNNNNNN�<NNNNLN: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+embox>
+embox>y
+
+embox>
+g
+g: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+�dl�
+m: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+S?W
+S: Command not found
+tish error: #-2
+embox>
+ww
+w: Command not found
+tish error: #-2
+embox>
+
+embox>U�s
+U�s: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>!
+embox>
+embox>t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+�epx�
+�epx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��i���l�
+��i���l�: Command not found
+tish error: #-2
+embox>
+embox>
+��i���l�[K[15C
+��i���l�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+T
+T: Command not found
+tish error: #-2
+embox>
+i��
+embox>
+embox>
+logoogoutJJJJJembox>
+logoogoutJJJJJ[K[6Cembox>
+logoogoutJJJJJ[K[7Cembox>J
+logoogoutJJJJJ[K[8Cembox>JJ
+logoogoutJJJJJ[K[9Cembox>JJJ
+logoogoutJJJJJ[K[10Cembox>JJJu
+logoogoutJJJJJ[K[11Cembox>JJJut
+logoogoutJJJJJ[K[12Cembox>JJJutJ
+logoogoutJJJJJ[K[13Cembox>JJJutJJ
+logoogoutJJJJJ[K[14Cembox>JJJutJJJ
+logoogoutJJJJJ[K[15Cembox>JJJutJJJJ
+logoogoutJJJJJ[K[16Cembox>JJJutJJJJJ
+logoogoutJJJJJ[K[17Cembox>JJJutJJJJJ
+logoogoutJJJJJ[K[18Cembox>JJJutJJJJJ
+logoogoutJJJJJ[K[19Cembox>JJJutJJJJJ
+logoogoutJJJJJ[K[6Cembox>JJJutJJJJJ
+logoogoutJJJJJ[K[7Cembox>JJJJutJJJJJ
+logoogoutJJJJJ[K[8Cembox>JJJJJutJJJJJ
+logoogoutJJJJJ[K[9Cembox>JJJJJJutJJJJJ
+logoogoutJJJJJembox>JJJJJJJutJJJJJ
+logoogoutJJJJJembox>JJJJJJJJutJJJJJ
+logoogoutJJJJJembox>JJJJJJJJJutJJJJJ
+logoogoutJJJJJ
+embox>
+embox>
+�
+embox>
+embox>
+1e���"
+1e���": Command not found
+tish error: #-2
+embox>
+cdembox>
+c[K[8C�Ci
+c�Ci: Command not found
+tish error: #-2
+embox>
+T��ee�cd
+T��ee�cd: Command not found
+tish error: #-2
+embox>
+embox>
+T��ee�cd[K[15Cr
+T��ee�cdr: Command not found
+tish error: #-2
+embox>
+embox>[K[16Cembox>[K[16C�eh
+T��ee�cdr�eh: Command not found
+tish error: #-2
+embox>
+{�4�dm
+{: Command not found
+tish error: #-2
+embox>
+���ei
+{���ei: Command not found
+tish error: #-2
+embox>
+ccccccccccccc�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

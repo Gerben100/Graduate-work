@@ -1,0 +1,167 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@L
+embox>
+embox>
+��embox>
+��[K[11Cembox>
+��[K[10Cembox>
+��[K[6Cembox>
+��[K[7Cembox>
+��[K[8Cembox>
+��[K[7Cembox>
+��[K[6C
+��: Command not found
+tish error: #-2
+embox>
+cembox>
+[K[7C66[H[H[2Jembox>
+66[K[10C
+66: Command not found
+tish error: #-2
+embox>
+@s9699[H[H[2Jembox>
+@s9699[K[14C
+@s9699: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+embox>
+d[K[8Cf�
+df�: Command not found
+tish error: #-2
+embox>
+;
+;: Command not found
+tish error: #-2
+embox>
+@���
+@: Command not found
+tish error: #-2
+embox>
+embox>
+=[H[H[2Jembox>
+=[K[9C
+=: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+fqqqqqqqqolembox>[K[18C6
+fqqqqqqqqol: Command not found
+tish error: #-2
+embox>
+P
+P: Command not found
+tish error: #-2
+embox>
+@s[H[H[2J
+@: Command not found
+tish error: #-2
+embox>
+@q
+@q: Command not found
+tish error: #-2
+embox>
+@�@�tsts
+@�@�tsts: Command not found
+tish error: #-2
+embox>
+s@t�
+s@t�: Command not found
+tish error: #-2
+embox>
+ht�
+h: Command not found
+tish error: #-2
+embox>
+t�
+t�: Command not found
+tish error: #-2
+embox>
+@��
+@��: Command not found
+tish error: #-2
+embox>
+YjS�
+YjS�: Command not found
+tish error: #-2
+embox>
+)s
+�: Command not found
+tish error: #-2
+embox>
+j
+j: Command not found
+tish error: #-2
+embox>
+�i
+�: Command not found
+tish error: #-2
+embox>
+;
+;: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@����dA\@@e5|� x�
+@����d: Command not found
+tish error: #-2
+embox>
+@sX6@�A\@�e5|�x
+@sX6@�: Command not found
+tish error: #-2
+embox>�
+embox>
+@s66@dA\@��5|�
+x�
+@s66@d: Command not found
+tish error: #-2
+embox>
+s6pin|
+embox>
+A�
+A: Command not found
+tish error: #-2
+embox>
+VV
+VV: Command not found
+tish error: #-2
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+@s66@dA\�e5|�x�
+@s66@d: Command not found
+tish error: #-2
+embox>
+@s66@d5|�@@e5|���x�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

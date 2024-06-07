@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@@@5embox>@@@[K[10C���embox>@@@��[K[12Cembox>@@@��[K[14Cembox>@@@��[K[15Cembox>@@@��@[K[16Cembox>@@@��@@[K[17Cembox>@@@��@@@[K[18Cembox>@@@��@@@�[K[19Cembox>@@@��@@@��[K[20Cembox>@@@��@@@��@[K[21Cembox>@@@��@@@��@@[K[22Cembox>@@@��@@@��@@@[K[23Cembox>@@@��@@@��@@@@[K[24Cembox>@@@��@@@��@@@@@[K[25Cembox>@@@��@@@��@@@@@@[K[26Cembox>@@@��@@@��@@@@@@@[K[27C
+@@@��: Command not found
+tish error: #-2
+embox>
+�rembox>@@@��[K[12CeA¼65lsQ@@?J@`@aeembox>@@@��eA¼65lsQ@@?J@`@ae[K[6Cembox>@@@@��eA¼65lsQ@@?J@`@ae[K[7Cembox>@ @@@��eA¼65lsQ@@?J@`@ae[K[8Cembox>@ @@@@��eA¼65lsQ@@?J@`@ae[K[9Cembox>@ @@@@@��eA¼65lsQ@@?J@`@ae[K[10Cembox>@ @@@@@@��eA¼65lsQ@@?J@`@ae[K[11Cembox>@ @@@@@@@��eA¼65lsQ@@?J@`@ae[K[12Cembox>@ @@@@?@@@��eA¼65lsQ@@?J@`@ae[K[13Cembox>@ @@@@?�@@@��eA¼65lsQ@@?J@`@ae[K[14Cembox>@ @@@@?�@@@��eA¼65lsQ@@?J@`@ae[K[15Cembox>@ @@@@?�@@@��eA¼65lsQ@@?J@`@ae[K[16Cembox>@ @@@@?�@@@��eA¼65lsQ@@?J@`@ae[K[17Cembox>@ @@@@?�@@@@��eA¼65lsQ@@?J@`@ae[K[18Cembox>@ @@@@?�@@@@@��eA¼65lsQ@@?J@`@ae[K[19Cembox>@ @@@@?�@@?@@@��eA¼65lsQ@@?J@`@ae[K[20Cembox>@ @@@@?�@@?@@@@��eA¼65lsQ@@?J@`@ae[K[21Cembox>@ @@@@?�@@?@@@@@��eA¼65lsQ@@?J@`@ae[K[22Cembox>@ @@@@?�@@?@@@@@@��eA¼65lsQ@@?J@`@ae[K[23Cembox>@ @@@@?�@@?@@@@@@@��eA¼65lsQ@@?J@`@ae[K[24Cembox>@ @@@@?�@@?@@@@@@@@��eA¼65lsQ@@?J@`@ae[K[25Cembox>@ @@@@?�@@?@@@@@@@@@��eA¼65lsQ@@?J@`@ae[K[26Cembox>@ @@@@?�@@?@@@@@@@@@@��eA¼65lsQ@@?J@`@ae[K[27Cembox>@ @@@@?�@@?@@@@@@@@@@@��eA¼65lsQ@@?J@`@ae[Kembox>@ @@@@?�@@?@@@@@@@@@@@@��eA¼65lsQ@@?J@`@ae[K
+@: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+�embox>@[K[7C��embox>[K[6CA5lembox>A5l[K[6Cembox> A5l[K[7Cembox> A5l[K[8Cembox> @A5l[K[9Cembox> @@A5l[K[10Cembox> @@@A5l[K[11Cembox> @@@@A5l[K[12Cembox> @@@@@A5l[K[13Cembox> @@@@@@A5l[K[14Cembox> @@@@@@'A5l[K[15Cembox> @@@@@@'@A5l[K[16Cembox> @@@@@@'@?A5l[K[17Cembox> @@@@@@'@?A5l[K[18Cembox> @@@@@@'@?A5l[K[6Cembox>@ @@@@@@'@?A5l[K[7Cembox>@� @@@@@@'@?A5l[K[8Cembox>@�@ @@@@@@'@?A5l[K[9Cembox>@�@ @@@@@@'@?A5l[K[10Cembox>@�@ @@@@@@'@?A5l[K[11Cembox>@�@ @@@@@@'@?A5l[K[12Cembox>@�@ @@@@@@'@?A5l[K[13Cembox>@�@� @@@@@@'@?A5l[K[14Cembox>@�@� @@@@@@'@?A5l[K[15Cembox>@�@� @@@@@@'@?A5l[K[16Cembox>@�@� @@@@@@'@?A5l[K[17Cembox>@�@�D @@@@@@'@?A5l[K[18Cembox>@�@�D@ @@@@@@'@?A5l[K[19Cembox>@�@�D@? @@@@@@'@?A5l[K[20Cembox>@�@�D@?  @@@@@@'@?A5l[K[21Cembox>@�@�D@?  @@@@@@'@?A5l[K[22Cembox>@�@�D@? @ @@@@@@'@?A5l[K[23Cembox>@�@�D@? @@ @@@@@@'@?A5l[K[24Cembox>@�@�D@? @@@ @@@@@@'@?A5l[K[25Cembox>@�@�D@? @@@@ @@@@@@'@?A5l[K[26Cembox>@�@�D@? @@@@@ @@@@@@'@?A5l[K[27Cembox>@�@�D@? @@@@@@ @@@@@@'@?A5l[K[28C
+@�@: Command not found
+tish error: #-2
+embox>'@?embox>'@?[K[6Cembox>@'@?[K[7Cembox>@�'@?[K[8Cembox>@�@'@?[K[9Cembox>@�@'@?[K[10Cembox>@�@'@?[K[11Cembox>@�@'@?[K[12Cembox>@�@'@?[K[13Cembox>@�@�'@?[K[14Cembox>@�@�'@?[K[15Cembox>@�@�'@?[K[16Cembox>@�@�'@?[K[17Cembox>@�@�D'@?[K[18Cembox>@�@�D@'@?[K[19Cembox>@�@�D@?'@?[K[20Cembox>@�@�D@?@'@?[K[21Cembox>@�@�D@?@@'@?[K[22Cembox>@�@�D@?@@@'@?[K[23Cembox>@�@�D@?@@@@'@?[K[24Cembox>@�@�D@?@@@@@'@?[K[25Cembox>@�@�D@?@@@@@@'@?[K[26Cembox>@�@�D@?@@@@@@@'@?[K[27Cembox>@�@�D@?@@@@@@@@'@?[K[28Cembox>@�@�D@?@@@@@@@@@'@?[K[29Cembox>@�@�D@?@@@@@@@@@@'@?[K[30C
+@�@: Command not found
+tish error: #-2
+embox>
+�rembox>@�@[K[9Ce�@a?@@@@@@A@exi��embox>@�@e�@a?@@@@@@A@exi�[K[29CA�@��jembox>@�@e�@a?@@@@@@A@exi�A�@��[K[34C���@a?@-?@
+@�@e�: Command not found
+tish error: #-2
+embox>
+�@?�rembox>@�@e�[K[11CeA�665ls@@embox>@�@e�eA�665ls@@[K[24Cexport�embox>@�@e�eA�665ls@@export[K[30C@@@?J@o@@eembox>@�@e�eA�665ls@@export@@@?J@o@@e[K[6Cembox>@@�@e�eA�665ls@@export@@@?J@o@@e[K[7Cembox>@�@�@e�eA�665ls@@export@@@?J@o@@e[K[8Cembox>@�@@�@e�eA�665ls@@export@@@?J@o@@e[K[9Cembox>@�@@@�@e�eA�665ls@@export@@@?J@o@@e[K[10Cembox>@�@@@@�@e�eA�665ls@@export@@@?J@o@@e[K[11Cembox>@�@@@@@�@e�eA�665ls@@export@@@?J@o@@e[K[12Cembox>@�@@@@?@�@e�eA�665ls@@export@@@?J@o@@e[K[13Cembox>@�@@@@?�@�@e�eA�665ls@@export@@@?J@o@@e[K[14C
+@�@@@@?�@�@e�e: Command not found
+tish error: #-2
+embox>@@?@@@@@@@[@@
+embox>
+ort5P�@embox>
+ort5P�@[K[6Cembox>@
+ort5P�@[K[7Cembox>@�
+ort5P�@[K[8Cembox>@�@
+ort5P�@[Kembox>@�@?
+ort5P�@[K[10Cembox>@�@?�
+ort5P�@[K[11Cembox>@�@?�
+ort5P�@[K[10Cembox>@�@??�
+ort5P�@[K[11Cembox>@�@??�
+ort5P�@[K[6Cembox>@�@??�
+ort5P�@[K[7C[?5h[?5lembox>@�@??�
+ort5P�@[Kembox>@�@??�
+ort5P�@[Kembox>@@�@??�
+ort5P�@[Kembox>@?@�@??�
+ort5P�@[Kembox>@?@@�@??�
+ort5P�@embox>@?@@@�@??�
+ort5P�@embox>@?@@@@�@??�
+ort5P�@embox>@?@@@@@�@??�
+ort5P�@embox>@?@@@@@@�@??�
+ort5P�@embox>@?@@@@@�@�@??�
+ort5P�@embox>@?@@@@@�@@�@??�
+ort5P�@embox>@?@@@@@�@@@�@??�
+ort5P�@embox>@?@@@@@�@@e@�@??�
+ort5P�@embox>@?@@@@@�@@e@@�@??�
+ort5P�@
+embox>
+2l665|@@@
+2l665|@@@: Command not found
+tish error: #-2
+embox>
+�rembox>
+2l665|@@@[K[16C?��@?8@@O@@@@@@
+2l665|@@@?�: Command not found
+tish error: #-2
+embox>
+�rembox>
+2l665|@@@?�eA�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@?@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

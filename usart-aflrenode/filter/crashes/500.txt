@@ -1,0 +1,128 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@�
+�@�: Command not found
+tish error: #-2
+embox>
+eOxportexit�
+e: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>[K[6C
+embox>
+��y�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+j�port
+j�port: Command not found
+tish error: #-2
+embox>
+..............)...
+..............)...: Command not found
+tish error: #-2
+embox>
+pin`��y�
+pin: Command not found
+tish error: #-2
+embox>
+!�exportembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>
+i��
+i: Command not found
+tish error: #-2
+embox>
+��^�cd�`lN^^���
+��^cd�`l^��: Command not found
+tish error: #-2
+embox>
+��|�^�[?5h[?5l�exitpPrt@^��_
+��|�^exitpPrt: Command not found
+tish error: #-2
+embox>
+�l@�zc^���
+�l@�z^��: Command not found
+tish error: #-2
+embox>
+�ln�
+�ln�: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+�lw^d�
+l^���^�^cd: Command not found
+tish error: #-2
+embox>^^�[?5h[?5l�
+^�: Command not found
+tish error: #-2
+embox>
+�l^a_�dBBBBB�
+�l^a_�dBBBBB�: Command not found
+tish error: #-2
+embox>
+�l^� alI^��
+embox>
+�l^�cd��ll^^����
+�l^cd��l^����: Command not found
+tish error: #-2
+embox>
+����d��i��W/��
+d��i��W/��: Command not found
+tish error: #-2
+embox>
+�l^�cd����
+�l^cd���: Command not found
+tish error: #-2
+embox>
+v(lll@yet
+v(ll@yet: Command not found
+tish error: #-2
+embox>
+b>7@@��@@@@@@@@?@@@@@@@@@@@@\@@exp@�@@@@?@@@@@
+b: Command not found
+tish error: #-2
+embox>@@@@@@
+@@@@@@: Command not found
+tish error: #-2
+embox>
+����6
+embox>@@@\@@exp@�@@@@?@@@@@@@@@@@
+@@@\@@exp@�@@@@?@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+656>>D@@@@@@G@@\@@exp@�@@@@?@@@@@@@�d@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

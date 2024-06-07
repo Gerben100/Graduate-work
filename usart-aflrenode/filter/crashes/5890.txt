@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>membox>m[K[6Cembox>�m[K[7Cembox>�6m[K[8Cembox>�6.m[K[9Cembox>�6.pm[K[10Cembox>�6.m[K[9Cembox>�6.nm[K[10C
+embox>�eXp�embox>�eXp�[K[6C
+embox>xembox>x[K[6Cembox>mx[K[7Cembox>mx[K[6Cembox>�mx[K[7Cembox>�6mx[K[8Cembox>�6.mx[K[9Cembox>�6.pmx[K[10Cembox>�6.mx[K[9Cembox>�6.nmx[K[10C
+embox>�B@exit@@@_@
+�: Command not found
+tish error: #-2
+embox>@@@@@@exp@@@@@@e�po
+embox>�0@�QrtH
+�: Command not found
+tish error: #-2
+embox>
+eX�oxemembox>
+eX�oxem[K[13Cembox>
+eX�oxe�m[K[14Cembox>
+eX�oxe�6m[K[15C
+embox>xemembox>xem[K[9Cembox>xe�m[K[10Cembox>xe�6m[K[11Cembox>xe�6.m[K[12Cembox>xe�6.m[K[13Cembox>xe�6.[K[13C�cd0@�e@@@@@@@@@@expo
+embox>rtH
+rtH: Command not found
+tish error: #-2
+embox>
+eXpt
+embox>xem.pin
+embox>�lsEA@@@Y@exportH
+�: Command not found
+tish error: #-2
+embox>
+
+embox>�dxeembox>�dxe[K[6Cembox>��dxe[K[7Cembox>�6�dxe[K[8Cembox>�6.�dxe[K[9Cembox>�6.p�dxe[K[10Cembox>�6.pi�dxe[K[11Cembox>�6.pir�dxe[K[12C
+embox>�c�@�b`@@@@�@3e�porttH
+�: Command not found
+tish error: #-2
+embox>
+eXpo
+embox>�wemembox>�wem[K[9Cembox>�we�m[K[10C
+embox>�cd0@d0@e@@@@@@@@@@exportH
+�: Command not found
+tish error: #-2
+embox>
+e�@@@cd0@�e@po�
+embox>�embox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>��[K[9Cembox>���[K[10Cembox>���[K[11Cembox>���[K[12Cembox>���[K[13Cembox>���l[K[14Cembox>���lo[K[15Cembox>���lo�[K[16Cembox>���lo�[K[17Cembox>���lo�X[K[18Cembox>���lo�Xp[K[19Cembox>���lo�Xpi[K[20Cembox>���lo�Xpin[K[21Cembox>���lo�Xpin�[K[22Cembox>���lo�Xpin��[K[23Cembox>���lo�Xpin���[K[24Cembox>���lo�Xpin����[K[25Cembox>���lo�Xpin����@[K[26Cembox>���lo�Xpin����@�[K[27Cembox>���lo�Xpin����@��[K[28Cembox>���lo�Xpin����@��[K[29C
+embox>xe
+embox>ortH
+ortH: Command not found
+tish error: #-2
+embox>
+�Xpo�����������or@H
+�Xpo�����������or@H: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e�
+embox>exp
+exp: Command not found
+tish error: #-2
+embox>
+e=Pexembox>exp[K[9C
+exp: Command not found
+tish error: #-2
+embox>
+eXp
+embox>e\xp
+e\xp: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+w`
+w`: Command not found
+tish error: #-2
+embox>
+Z
+tish error: #-22
+embox>
+eo
+embox>ee�o
+ee�o: Command not found
+tish error: #-2
+embox>
+ecd
+e: Command not found
+tish error: #-2
+embox>
+J@t�
+tish error: #-22
+embox>
+b�~t�_Sl
+b�~t�Sl: Command not found
+tish error: #-2
+embox>
+eX�oo[?5h[?5l�
+eX�oo[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+eut
+eut: Command not found
+tish error: #-2
+embox>
+e���!!!!!B!!!
+embox>p�
+p�: Command not found
+tish error: #-2
+embox>
+�Xuo
+�Xuo: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Xpo�
+Xpo�����: Command not found
+tish error: #-2
+embox>
+eFFiS�
+eFFiS: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+eXp`dp��
+eXp`dp��: Command not found
+tish error: #-2
+embox>
+LL
+LL: Command not found
+tish error: #-2
+embox>
+e,
+e: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eXpo�o��xem
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

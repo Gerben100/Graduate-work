@@ -1,0 +1,140 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xixe/�x�
+�xixe/�x�: Command not found
+tish error: #-2
+embox>
+�logoutembox>�xixe/�x�[K[16C/�x
+�xixe/�x�/�x: Command not found
+tish error: #-2
+embox>
+�eiyeembox>�xixe/�x�/�x[K[19C/�x
+�xixe/�x�/�x/�x: Command not found
+tish error: #-2
+embox>
+�embox>�xixe/�x�/�x/�x[K[22C
+�xixe/�x�/�x/�x: Command not found
+tish error: #-2
+embox>
+�Wix�
+embox>�embox>�xixe/�x�/�x/�x[K[22C
+�xixe/�x�/�x/�x: Command not found
+tish error: #-2
+embox>
+eembox>�xixe/�x�/�x/�x[K[22C/�x
+�xixe/�x�/�x/�x/�x: Command not found
+tish error: #-2
+embox>
+=cd?
+=cd?: Command not found
+tish error: #-2
+embox>
+�xpexport�xembox>
+=cd?[K[11C
+=cd?: Command not found
+tish error: #-2
+embox>
+�exp�rt./�wembox>
+=cd?[K[11C
+=cd?: Command not found
+tish error: #-2
+embox>
+�xixeembox>
+=cd?[K[11C/��
+=cd?/��: Command not found
+tish error: #-2
+embox>
+eembox>
+=cd?/��[K[14C/embox>
+=cd?/��[K[14C�
+=cd?/���: Command not found
+tish error: #-2
+embox>
+�ei�
+�ei�: Command not found
+tish error: #-2
+embox>
+�xixembox>
+�xi[K[10Cembox>
+�ei�[K[11C/dembox>
+=cd?/���[K[15C
+=cd?/���: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+�xixeembox>
+i[K[8CK�xembox>
+=cd?/���[K[15C
+=cd?/���: Command not found
+tish error: #-2
+embox>
+�xiembox>
+=cd?/���[K[15C0�xiembox>
+iK�x[K[11C0�x/�xxiembox>[K[15C0�x/�xx
+=cd?/���0�x/�xx: Command not found
+tish error: #-2
+embox>
+�xxeembox>[K/�xembox>
+=cd?/���0�xixixNembox>[K[19C/�xembox>[K[15Cxembox>
+�ei�/d
+�ei�/d: Command not found
+tish error: #-2
+embox>
+���embox>
+���embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��e/�x
+�ei�/d: Command not found
+tish error: #-2
+embox>
+�
+�ei�/d: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�x~xe/�x
+��/�x: Command not found
+tish error: #-2
+embox>
+h
+h: Command not found
+tish error: #-2
+embox>
+�oo..
+�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+�pg$Ytu74a//���������͓o
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

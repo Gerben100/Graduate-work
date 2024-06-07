@@ -1,0 +1,171 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exembox>ex[K[8C�dembox>ex�[K[11CS
+ex: Command not found
+tish error: #-2
+embox>
+@exd@@<@@@ex�S�
+@ex: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+exembox>
+ex[K[6Cembox>
+ex[K[7Cembox>e
+ex[K[8Cembox>ex
+ex[K[9Cembox>exi
+ex[K[10Cembox>exix
+ex[K[11Cembox>exi
+ex[K[10Cembox>exiS
+ex[K[11C
+embox>
+exm����texexi�~i�~��embox>
+exm����texexi�~i�~�[K[31CS
+ex: Command not found
+tish error: #-2
+embox>
+exO�embox>
+exO�[K[6Cembox>x
+exO�[K[7Cembox>x
+exO�[K[8Cembox>x�
+exO�[K[9Cembox>x�
+exO�[K[10Cembox>x�t
+exO�[K[11Cembox>x�tj
+exO�[K[12Cembox>x�tjS
+exO�[K[13Cembox>x�tjSS
+exO�[K[14C
+x: Command not found
+tish error: #-2
+embox>
+�embox>x[K[7CBn[?5h[?5lembox>
+ex[K[9Ce;
+exe;: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[12Cembox>[K[6C�==
+�==: Command not found
+tish error: #-2
+embox>
+tembox>
+[K[8C 
+: Command not found
+tish error: #-2
+embox>
+I�"t
+I�: Command not found
+tish error: #-2
+embox>
+logoute<�S
+logoute<: Command not found
+tish error: #-2
+embox>
+eex�txembox>[K[15CS
+eex�tx: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+eex�tS
+e: Command not found
+tish error: #-2
+embox>
+exiv�
+tish error: #-22
+embox>
+ex@exI�S
+ex: Command not found
+tish error: #-2
+embox>
+exexportexit�S
+exexport: Command not found
+tish error: #-2
+embox>
+ex����dxitS
+ex����dxiS: Command not found
+tish error: #-2
+embox>
+e
+e`��exiTe`��exiT]lRbgS
+e: Command not found
+tish error: #-2
+embox>
+ew�ex�tS
+ew�: Command not found
+tish error: #-2
+embox>
+exp�itS
+ex: Command not found
+tish error: #-2
+embox>
+ex���ki�S
+ex��: Command not found
+tish error: #-2
+embox>
+ee�itgS
+e: Command not found
+tish error: #-2
+embox>
+*xisS
+*x: Command not found
+tish error: #-2
+embox>
+d���88888,8t�e�i�itnS
+���: Command not found
+tish error: #-2
+embox>
+ex�ex�sS
+ex: Command not found
+tish error: #-2
+embox>
+��������������������@?2@@@@@=@@@@\@@�
+tish error: #-22
+embox>
+ext exitSexie�� ex
+embox>
+Vn
+Vn: Command not found
+tish error: #-2
+embox>
+vx
+vx: Command not found
+tish error: #-2
+embox>
+logoRpin�t
+logpin�t: Command not found
+tish error: #-2
+embox>
+beexitS
+tish error: #-22
+embox>
+SS
+e: Command not found
+tish error: #-2
+embox>
+�@l��GSlogout
+SSlogout: Command not found
+tish error: #-2
+embox>
+exd�n�uQ��tS
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

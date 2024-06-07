@@ -1,0 +1,150 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>>embox>>[K[6Cembox>>[K[7Cembox> >[K[8Cembox> 
+>[K[9Cembox> 
+ >[K[10Cembox> 
+ >[K[11Cembox> 
+ >[K[10C
+embox>
+�embox>
+[K[7C�embox>
+[K[7C�� embox>
+�� [K[6Cembox>�
+�� [K[7Cembox>��
+�� [K[8Cembox>��
+�� [K[9Cembox>�� 
+�� [K[10Cembox>�� 
+�� [K[6Cembox>�� 
+�� [K[7Cembox>�� 
+�� [K[8Cembox>��� 
+�� [K[9C
+embox>
+�embox>
+[K[7C�embox>
+[K[7C� �
+�: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�embox>�
+�[K[9Cog�embox>�
+�og�[K[13Cembox>�
+�og�[K[13C�wi�embox>�
+�og��wi[K[17C
+embox>x i___embox>x i__[K[11C�embox>x i__[K[11C�
+x: Command not found
+tish error: #-2
+embox>0�
+0�: Command not found
+tish error: #-2
+embox>
+��� �
+���: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��|N�d|Nembox>
+��|N�d|N[K[17C�embox>
+��|N�d|N[K[17C�
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C������
+���: Command not found
+tish error: #-2
+embox>
+c��
+c��: Command not found
+tish error: #-2
+embox>
+8�
+8�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+&����[?5h[?5l�d�
+&����[?5h[?5l: Command not found
+tish error: #-2
+embox>
+������
+c��: Command not found
+tish error: #-2
+embox>
+���c}mute��������������������������l���
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��� �
+tish error: #-22
+embox>
+�� ��
+�: Command not found
+tish error: #-2
+embox>
+��) �
+�): Command not found
+tish error: #-2
+embox>
+���cd�
+��cd: Command not found
+tish error: #-2
+embox>
+��pin�-�
+�pin�: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+cl8flologou��A
+�A: Command not found
+tish error: #-2
+embox>
+���9�
+��: Command not found
+tish error: #-2
+embox>
+��� �
+��: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�gggJggpingggg�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

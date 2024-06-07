@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C�pinxexportembox>�pinxexpor[K[17Ceembox>�pinxexpor[K[18C�embox>�pinxexpor�[K[19Cembox>�pinxexporp�[K[20Cembox>�pinxexporpf�[K[21Cembox>�pinxexporpfr�[K[22C
+�pin: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[9Cembox>
+x[K[10Cembox>
+xk[K[11Cembox>
+xkI[K[12C
+x: Command not found
+tish error: #-2
+embox>
+SSSSSSSSSSSpin1GSembox>
+SSSSSSSSSSSpin1G[K[23C�SSSS
+SSSSSSSSSSSpin1G�SSSS: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�piQxembox>
+�piQ[K[12Cembox>
+SSSSSSSSSSSpin1G�SSSS[K[28Ce~embox>
+x[K[8C�
+embox>pfr
+pfr: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�pinxembox>
+�pin[K[12Cembox>pfr[K[9Ce�embox>
+�piQ[K[11C�
+embox>p_r
+p_r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�xinxembox>
+�xin[K[12Cembox>p_r[K[9Cembox>p_[K[8Ceembox>p_[K[8Cembox>
+�pin[K[11C�
+embox>peembox>p[K[7Cembox>
+�xin[Kvr
+�xinvr: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�piembox>
+�xinvr�
+embox>pfr
+pfr: Command not found
+tish error: #-2
+embox>
+�pin�x�d�
+embox>pfr
+pfr: Command not found
+tish error: #-2
+embox>
+[H[H[2J�pinx���
+embox>�l ls
+embox>
+�p
+�8%iiiiHi�iiiiiiiiiii
+pfr�: Command not found
+tish error: #-2
+embox>
+�x%itiiiimiiiiiii
+�x%it: Command not found
+tish error: #-2
+embox>
+�p
+embox>x%iiiiii�p
+embox>x%�iiiii�iiii�iiiiiiiiiiii
+x%�iiiii: Command not found
+tish error: #-2
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+�p
+embox>ii)iii�iiiiiiiiiiiii
+ii)ii: Command not found
+tish error: #-2
+embox>
+������pinxx����t�
+xx����t: Command not found
+tish error: #-2
+embox>
+�p
+embox>x%kiiiii�iiiiiKiiiiiii
+x%kiiiii: Command not found
+tish error: #-2
+embox>
+�p
+embox>x%iiiiii�iiiuiiiiiiiie
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+cdp
+embox>x%iiiii
+embox>x%iiiiiiiiii�iii�iiiiiiiii
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+�iCx�
+tish error: #-22
+embox>
+iz
+iz: Command not found
+tish error: #-2
+embox>
+�ii@@
+@\@@\@@fx@j&@: Command not found
+tish error: #-2
+embox>
+�fiiQim
+embox>xFiii�l�l��ii�iiiimiiii
+xFiii�l���ii�iiiimiiii: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+pin??in???R?R�
+pin??in???R?R�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�p)��mIl
+Il: Command not found
+tish error: #-2
+embox>
+ \\�R6>6@�����@@@�66e�+@@@@@@�`�@R6>6@�����@@@5@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

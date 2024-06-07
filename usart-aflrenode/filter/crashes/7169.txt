@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+e�po[?5h[?5l[?5h[?5ll
+e�pol: Command not found
+tish error: #-2
+embox>
+d*iembox>[K[6C
+embox>
+t@�쒒������o�embox>
+e�pol[K[12C���embox>��[K[9C�logo@t
+���: Command not found
+tish error: #-2
+embox>
+�egout�o�embox>
+�egout�o�[K[6Cembox>
+�egout�o�[K[7C
+embox>
+lTl�
+lTl�: Command not found
+tish error: #-2
+embox>
+xp
+tish error: #-22
+embox>
+{�
+{�: Command not found
+tish error: #-2
+embox>
+�eo#logout�
+�eo: Command not found
+tish error: #-2
+embox>
+�e��#logout�
+�e��#logout�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+embox>[K
+embox>
+��{embox>
+��{[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[13C�ogoloexit
+��{F�[�ogoloexit: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�e�������#log��out�
+�e�������: Command not found
+tish error: #-2
+embox>
+�e��8
+�e��: Command not found
+tish error: #-2
+embox>
+�do#l
+�do: Command not found
+tish error: #-2
+embox>
+�eo#logouttwY�
+�eo: Command not found
+tish error: #-2
+embox>
+��66666 666
+��: Command not found
+tish error: #-2
+embox>
+�cd�euo��u}uuu uuu#PexitwTut�
+�cd�e: Command not found
+tish error: #-2
+embox>
+p�}#Zgoe�
+p�}: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�e��"loqo�t�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

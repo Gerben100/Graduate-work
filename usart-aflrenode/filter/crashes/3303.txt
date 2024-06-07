@@ -1,0 +1,149 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>logoutKs
+logoutKs: Command not found
+tish error: #-2
+embox>
+embox>[K[6C}
+}: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�&
+�&: Command not found
+tish error: #-2
+embox>
+����xeiembox>
+����xei[K[15Cembox>
+����xei[K[16Cembox>
+����xei3[K[17C
+��: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9Cembox>
+��[K[11Cembox>
+��[K[10Cembox>
+��[K[9Cembox>
+��[K[8Cembox>
+��[K[7Cembox>
+��[K[6Cembox>
+��[K[7Cembox>z
+��[K[8Cembox>zo
+��[K[9Cembox>zoe
+��[K[10Cembox>zoe
+��[K[11Cembox>zoe
+��[K[12Cembox>zoe
+��[K[13Cembox>zoe
+��[K[14Cembox>zoe
+��[K[15Cembox>zoe
+��[K[16Cembox>zoe�
+��[K[17Cembox>zoe�
+��[K[18Cembox>zoe�
+��[K[19Cembox>zoe�
+��[K[20Cembox>zoe�
+��[K[21Cembox>zoe�
+��[K[22Cembox>zoe�
+��[K[23Cembox>zoe�
+��[K[24Cembox>zoe�
+��[K[25Cembox>zoe�
+��[K[26Cembox>zoe�
+��[K[27Cembox>zoe�t
+��[K[28Cembox>zoe�tS
+��[K[29Cembox>zoe�tS
+��[K[30Cembox>zoe�tS
+��[K[31Cembox>zoe�tS&
+��[K[32C
+embox>
+ 
+tish error: #-22
+embox>
+mMcd
+mMcd: Command not found
+tish error: #-2
+embox>
+mf++
+mf++: Command not found
+tish error: #-2
+embox>
+�d��ddeBd��fembox>
+mf++[K�hembox>
+mMcd�d
+mMcd: Command not found
+tish error: #-2
+embox>
+wm�d
+wm�d: Command not found
+tish error: #-2
+embox>
+m�f5
+m�f5: Command not found
+tish error: #-2
+embox>
+�
+embox>�<d
+embox>
+�n�d
+�n�d: Command not found
+tish error: #-2
+embox>
+lo�o65ls6@@��@@@@@ogn��
+lo: Command not found
+tish error: #-2
+embox>
+oxpert�
+tish error: #-22
+embox>
+�� rt
+�: Command not found
+tish error: #-2
+embox>
+�bpinf
+�bpinf: Command not found
+tish error: #-2
+embox>
+j#bd��
+�n�dj#: Command not found
+tish error: #-2
+embox>
+O
+O: Command not found
+tish error: #-2
+embox>]+di[?5h[?5l[H[H[2J+rt%ii
+]+di[?5h[?5l+rt%ii: Command not found
+tish error: #-2
+embox>]+i[?5h[?5l[H[H[2J+�
+]+i[?5h[?5l+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+��o�
+��o�: Command not found
+tish error: #-2
+embox>
+Xiiiiiiiiiiiiiiiii��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

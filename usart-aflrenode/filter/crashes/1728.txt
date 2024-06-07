@@ -1,0 +1,228 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>R��������[embox>R��������[K[16C�c
+UUUUUUUU1UUU�UUU
+R��������: Command not found
+tish error: #-2
+embox>
+������embox>
+������[K[13CUIUUUUU���[c�c����[embox>
+������UIUUUUU���[c�c����[[K[36CUIUUUUU���[c
+������UIUUUUU���[c: Command not found
+tish error: #-2
+embox>�cZUUUUUUUembox>[K[6CU1Uembox>[K[6CU1embox>
+������UIUUUUU���[c[K[25CU:<UUU�dU
+������UIUUUUU���[cU:<UUU�dU: Command not found
+tish error: #-2
+embox>
+R������1UUY�U_jU�UU
+R������1UUY�U_jU�UU: Command not found
+tish error: #-2
+embox>
+R����U���[~��F
+UUUUU�������[~��c
+UUUUUUUU
+R����U���[~�: Command not found
+tish error: #-2
+embox>UU1UUU�UUUU�UU
+UU1UUU�UUUU�UU: Command not found
+tish error: #-2
+embox>
+R�������]
+R�������]: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+R�����c@UUJU1UUU�UUU��UU
+R����: Command not found
+tish error: #-2
+embox>
+R
+�������[U�UUUU�UU: Command not found
+tish error: #-2
+embox>
+R��������� UUUU�rU
+R���������: Command not found
+tish error: #-2
+embox>
+R��������[�cUUUUU;U1UUU�UUUU�UU
+R��������: Command not found
+tish error: #-2
+embox>
+R�UUUUUUUU1UexportU�UU
+R�UUUUUUUU1UexportU�UU: Command not found
+tish error: #-2
+embox>
+R��
+embox>
+R@dxedxe
+UU1UUU�UUUU�UUdxe: Command not found
+tish error: #-2
+embox>
+@}xe
+R�������]dx}xe: Command not found
+tish error: #-2
+embox>
+_dre
+R�������]dxdre: Command not found
+tish error: #-2
+embox>
+x�c
+x�: Command not found
+tish error: #-2
+embox>
+R�����@e
+R����@e: Command not found
+tish error: #-2
+embox>
+Rit
+x: Command not found
+tish error: #-2
+embox>lxe
+lxe: Command not found
+tish error: #-2
+embox>
+QSx4
+R�������]dxSx4: Command not found
+tish error: #-2
+embox>
+�����dxe
+xdxe: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+:RRRRRRRRRRR��dxe
+R�������]dxRRR��dxe: Command not found
+tish error: #-2
+embox>
+RF
+xRRRRRR: Command not found
+tish error: #-2
+embox>
+R�d�e
+R�������]dxd�e: Command not found
+tish error: #-2
+embox>
+R��ng
+R��ng: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+cd 
+cd: Command not found
+tish error: #-2
+embox>
+Cex�tg
+Cex�tg: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+R"츈A
+R"츈A: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+R�R컣g��
+R�R컣g�: Command not found
+tish error: #-2
+embox>
+R���g
+R���g: Command not found
+tish error: #-2
+embox>
+Rs�
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+R$�ddqsdd~c
+R$�: Command not found
+tish error: #-2
+embox>
+RUcbb
+RUcbb: Command not found
+tish error: #-2
+embox>
+R�[?5h[?5lg
+�: Command not found
+tish error: #-2
+embox>
+RdQcc
+RdQcc: Command not found
+tish error: #-2
+embox>
+cdc
+cdc: Command not found
+tish error: #-2
+embox>
+uu�logoudJa
+uu�logoudJa: Command not found
+tish error: #-2
+embox>
+RcWdJ
+J: Command not found
+tish error: #-2
+embox>
+c]cc
+c]cc: Command not found
+tish error: #-2
+embox>
+R��XcS
+R��XcS: Command not found
+tish error: #-2
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+Icdc�
+Icdc�: Command not found
+tish error: #-2
+embox>
+lllllllll�lllllllllll
+lllllllll�lllllllllll: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+���������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

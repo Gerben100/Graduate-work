@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d����>embox>d����[K[13Cortembox>d����or[K[15C��tttttttttttttttttttttt�� ��������
+embox>
+d�66 6rtembox>
+d�66 6r[K[15C embox>
+d�66 6r[K[15Coxp@�@�embox>
+d�66 6roxp@�@�[K[6Cembox> 
+d�66 6roxp@�@�[K[7Cembox> �
+d�66 6roxp@�@�[K[8Cembox> ��
+d�66 6roxp@�@�[K[9Cembox> ���
+d�66 6roxp@�@�[K[10Cembox> ����
+d�66 6roxp@�@�[K[11Cembox> �����
+d�66 6roxp@�@�[K[12Cembox> ������
+d�66 6roxp@�@�[K[13Cembox> �������
+d�66 6roxp@�@�[K[14Cembox> �������t
+d�66 6roxp@�@�[K[15Cembox> �������tt
+d�66 6roxp@�@�[K[16Cembox> �������ttt
+d�66 6roxp@�@�[K[17Cembox> �������tttt
+d�66 6roxp@�@�[K[18Cembox> �������ttttt
+d�66 6roxp@�@�[K[19Cembox> �������tttttt
+d�66 6roxp@�@�[K[20Cembox> �������ttttttt
+d�66 6roxp@�@�[K[21Cembox> �������tttttttt
+d�66 6roxp@�@�[K[22Cembox> �������ttttttttt
+d�66 6roxp@�@�[K[23Cembox> �������tttttttttt
+d�66 6roxp@�@�[K[24Cembox> �������ttttttttttt
+d�66 6roxp@�@�[K[25Cembox> �������tttttttttttt
+d�66 6roxp@�@�[K[26Cembox> �������ttttttttttttt
+d�66 6roxp@�@�[K[27Cembox> �������tttttttttttttt
+d�66 6roxp@�@�[K[28Cembox> �������ttttttttttttttt
+d�66 6roxp@�@�[K[29Cembox> �������tttttttttttttttt
+d�66 6roxp@�@�[K[30Cembox> �������ttttttttttttttttt
+d�66 6roxp@�@�[K[31Cembox> �������tttttttttttttttttt
+d�66 6roxp@�@�[K[32Cembox> �������ttttttttttttttttttt
+d�66 6roxp@�@�[K[33Cembox> �������tttttttttttttttttttt
+d�66 6roxp@�@�[K[34Cembox> �������ttttttttttttttttttttt
+d�66 6roxp@�@�[Kembox> �������ttttttttttttttttttttt�
+d�66 6roxp@�@�[K[36C
+�������ttttttttttttttttttttt�: Command not found
+tish error: #-2
+embox>�� ��������
+��: Command not found
+tish error: #-2
+embox>
+d�66 6>embox>
+d�66 6[K[14CoUtembox>
+d�66 6oU[K[16Cxp@�@� �������ttt�tttttttttttttttttt
+tish error: #-22
+embox>�� ��������
+��: Command not found
+tish error: #-2
+embox>
+d�66 6>embox>
+d�66 6[K[14Cortembox>
+d�66 6or[K[16Cembox>
+d�66 6o[K[15Cembox>
+d�66 6[K[14Cembox>
+d�66 [K[13Cembox>
+d�66[K[12Cembox>
+d�6[K[11Cembox>
+d�[K[10Cembox>
+d[K[9Cembox>
+[K[8Cembox>
+[K[7Cembox>[K[6Cttttttttttttttt
+ttttttttttttttt: Command not found
+tish error: #-2
+embox>�� ��������
+��: Command not found
+tish error: #-2
+embox>
+d�66 d�66 6>embox>
+d�66 d�66 6or��embox>
+d�66 d�66 6or��embox>�
+d�66 d�66 6or��embox>��
+d�66 d�66 6or��
+��: Command not found
+tish error: #-2
+embox>
+d�66 6>embox>
+d�66 6[K[14CortTxp@�@� �������tstTtttt�ttotttttttttt
+tish error: #-22
+embox>��9�������
+��9�������: Command not found
+tish error: #-2
+embox>
+"t�66 6>or����p@�@�embox>
+"t�66 6>or����p@�@�embox> 
+"t�66 6>or����p@�@�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

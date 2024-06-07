@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>embox>[K[9C���ls�����������embox>���ls�����������[K[25C�i�[?5h[?5l
+embox>�i
+�i: Command not found
+tish error: #-2
+embox>
+�i
+�i: Command not found
+tish error: #-2
+embox>
+�
+embox>��'���������������embox>��'���������������[K[27C�i�[?5h[?5l
+embox>�1ils
+�1ils: Command not found
+tish error: #-2
+embox>
+wwwwwwwwwwwwwt"wwwembox>
+wwwwwwwwwwwwwt"ww[K[27Cwwwwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwww: Command not found
+tish error: #-2
+embox>wwwwww�i
+wwwwww�i: Command not found
+tish error: #-2
+embox>
+�
+embox>�������lY���q�������embox>�������lY���q�������[K[27C�~i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�CCCCCCCCCCCCCCCC�Ci
+�CCCCCCCCCCCCCCCC�Ci: Command not found
+tish error: #-2
+embox>
+�
+embox>����embox>����[K�~�1i
+�����~�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>����embox>����embox>�����embox>������embox>�����l�embox>�����ls�embox>�����ls��embox>�����ls�@�embox>�����ls�@�embox>�����ls�@��embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K�i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox> %%%%%%%%%%%%%%%%%%%%%%%%%%%%%n[?5h[?5l
+embox>�1��%%%%
+�1��%%%%: Command not found
+tish error: #-2
+embox>%%%%%%%%�[?5h[?5l
+embox>�1%%%%%%%%%����i
+�1%%%%%%%%%: Command not found
+tish error: #-2
+embox>
+�
+embox>�������ls����x������OO[?5h[?5l
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��t��ls6OI[?5h[?5l�a�����i�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+
+embox>�����������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

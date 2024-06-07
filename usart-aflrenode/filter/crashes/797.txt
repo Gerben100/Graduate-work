@@ -1,0 +1,113 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ds2
+�ds2: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+MZ[
+MZ[: Command not found
+tish error: #-2
+embox>
+i�n�
+i�n�: Command not found
+tish error: #-2
+embox>
+dp[?5h[?5lculogoutwuuuduuuun
+dp[?5h[?5lculogoutwuuuduuuun: Command not found
+tish error: #-2
+embox>
+epKR
+epKR: Command not found
+tish error: #-2
+embox>
+`ipin[
+tish error: #-22
+embox>
+����embox>
+����[K[12C
+����: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>
+u
+u: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�-
+�-: Command not found
+tish error: #-2
+embox>
+lut�
+lut�: Command not found
+tish error: #-2
+embox>
+�ufu
+�ufu: Command not found
+tish error: #-2
+embox>
+onoout
+onoout: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+embox>
+ e
+e: Command not found
+tish error: #-2
+embox>
+e�rdxe�rdxe
+xe: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+dtrd�xe
+dtrd�xe: Command not found
+tish error: #-2
+embox>
+dqrlogouTc�x�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

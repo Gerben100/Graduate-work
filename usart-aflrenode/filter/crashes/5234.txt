@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+cembox>
+c[K[6C
+tish error: #-22
+embox>
+embox>
+�)embox>
+�)[K[10Cembox>
+�)[K[11Cembox>
+�)_[K[12Cembox>
+�)_�[K[13C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+i�embox>
+i�[K[8Cembox>
+i@�[K[9Cembox>
+i@��[K[10Cembox>
+i@�[K[9Cembox>
+i@t�[K[10C
+i@t�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>
+�[K[10Cembox>
+�[K[11Cembox>
+i@t�[K[11C$
+i@t�$: Command not found
+tish error: #-2
+embox>
+l>
+l>: Command not found
+tish error: #-2
+embox>
+�embox>
+l>[K[10C
+l>: Command not found
+tish error: #-2
+embox>
+�dx�
+embox>x�it�embox>x�it�[K[6C[H[H[2Jembox>x�it�[K[6C
+x: Command not found
+tish error: #-2
+embox>
+Hembox>x[K[7Cembox>
+l>[K[11C8<8logout8embox>
+l>[K8<8logout888�
+l>: Command not found
+tish error: #-2
+embox>
+�lp
+�lp: Command not found
+tish error: #-2
+embox>
+ls�
+ls: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lPPPlPPPPPPPP
+embox>ex
+ex: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lPPPPPPPPPPP
+embox>P��PPPPPPPP9P1�PP
+embox>
+��[?5h[?5lPPPPPPPPPPPP
+embox>w�xP
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>PPPPPPPPPPPPP1�PP
+embox>
+�[?5h[?5lPPVPP:�X
+embox>w^xP
+(null): Command not found
+tish error: #-2
+embox>
+�[?5h[?5lPPPPPPPPPPPPlogout
+embox>w�xP
+embox>w
+w: Command not found
+tish error: #-2
+embox>�xP
+embox>
+�[?5h[?5lPPPPH�PPPPPP
+embox>w�xP
+embox>PP
+embox>w�xP
+embox>
+�[?5h[?5lPPPPPPPPPPP
+embox>��xP
+��xP: Command not found
+tish error: #-2
+embox>PPPPPPPP�PPPP1�PP
+embox>
+[?5h[?5lPPPPPPPPPPP��P�[?5h[?5lPPPPPPPPPPP��PPP�PPPPPPPP
+tish error: #-22
+embox>o1�PPPPPPPP
+embox>w�xP
+embox>
+�[?5h[?5lPPPPPPYPPPPl�PPPPPPPPP1�PPPP
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

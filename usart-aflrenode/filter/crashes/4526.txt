@@ -1,0 +1,180 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�6656>6@5 embox>�6656>6@5 [K[6Cembox>�6656>6@5 [K[7Cembox>@�6656>6@5 [K[8Cembox>@�6656>6@5 [K[9Cembox>@@�6656>6@5 [K[10Cembox>@@@�6656>6@5 [K[11Cembox>@@@@�6656>6@5 [K[12Cembox>@@@@@�6656>6@5 [K[13Cembox>@@@@@@�6656>6@5 [K[14Cembox>@@@@@@@�6656>6@5 [K[15Cembox>@@@@@@@@�6656>6@5 [K[16Cembox>@@@@@@@@��6656>6@5 [K[17Cembox>@@@@@@@@�5�6656>6@5 [K[18Cembox>@@@@@@@@�56�6656>6@5 [K[19Cembox>@@@@@@@@�56>�6656>6@5 [K[20Cembox>@@@@@@@@�56>6�6656>6@5 [K[21Cembox>@@@@@@@@�56>6@�6656>6@5 [K[22Cembox>@@@@@@@@�56>6@5�6656>6@5 [K[23Cembox>@@@@@@@@�56>6@5 �6656>6@5 [K[24Cembox>@@@@@@@@�56>6@5 �6656>6@5 [K[25Cembox>@@@@@@@@�56>6@5 �6656>6@5 [K[26Cembox>@@@@@@@@�56>6@5 �6656>6@5 [K[6Cembox>@@@@@@@@�56>6@5 �6656>6@5 [K[7Cembox>@@@@@@@@@�56>6@5 �6656>6@5 [K[8Cembox>@@@@@@@@@�56>6@5 �6656>6@5 [K[9Cembox>@@@@@@@@@@�56>6@5 �6656>6@5 [K[10Cembox>@@@@@@@@@@@�56>6@5 �6656>6@5 [K[11Cembox>@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[12Cembox>@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[13Cembox>@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[14Cembox>@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[15Cembox>@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[16Cembox>@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[17Cembox>@@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[18Cembox>@@@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [Kembox>@@@@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[20Cembox>@@@@@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[21Cembox>@@@@@@@@@@@@@@@@@@@@@@�56>6@5 �6656>6@5 [K[22C
+embox>@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@eembox>@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[6Cembox>@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[7Cembox>@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[8Cembox>@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[9Cembox>@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[10Cembox>@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[11Cembox>@@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[12Cembox>@@@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[Kembox>@@@@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[14Cembox>@@@@@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[15Cembox>@@@@@@@@@@@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[16Cembox>@@@@@@@@@@A@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e[K[17C
+@@@@@@@@@@A@�@\@@expoxp@@exp@�@�@@?@@@@@@O@@@\@@e: Command not found
+tish error: #-2
+embox>@xp@�@@@@?@@@@expo
+@xp@�@@@@?@@@@expo: Command not found
+tish error: #-2
+embox>
+�6656>6@5 embox>
+�6656>6@5 [K[6Cembox>
+�6656>6@5 [K[7Cembox>@
+�6656>6@5 [K[8Cembox>@
+�6656>6@5 [K[9Cembox>@@
+�6656>6@5 [K[10Cembox>@@@
+�6656>6@5 [K[11Cembox>@@@@
+�6656>6@5 [K[12Cembox>@@@@t
+�6656>6@5 [K[13Cembox>@@@@t
+�6656>6@5 [K[14Cembox>@@@@t�
+�6656>6@5 [K[15Cembox>@@@@t�@
+�6656>6@5 [K[16Cembox>@@@@t�@@
+�6656>6@5 [K[17Cembox>@@@@t�@@@
+�6656>6@5 [K[18Cembox>@@@@t�@@@@
+�6656>6@5 [K[19Cembox>@@@@t�@@@@@
+�6656>6@5 [K[20Cembox>@@@@t�@@@@@�
+�6656>6@5 [K[21Cembox>@@@@t�@@@@@�@
+�6656>6@5 [K[22Cembox>@@@@t�@@@@@�@\
+�6656>6@5 [K[23Cembox>@@@@t�@@@@@�@\@
+�6656>6@5 [K[24Cembox>@@@@t�@@@@@�@\@@
+�6656>6@5 [K[25Cembox>@@@@t�@@@@@�@\@@e
+�6656>6@5 [K[26Cembox>@@@@t�@@@@@�@\@@ex
+�6656>6@5 [K[27Cembox>@@@@t�@@@@@�@\@@exp
+�6656>6@5 [K[28Cembox>@@@@t�@@@@@�@\@@expo
+�6656>6@5 [K[29Cembox>@@@@t�@@@@@�@\@@expox
+�6656>6@5 [K[30Cembox>@@@@t�@@@@@�@\@@expoxp
+�6656>6@5 [K[31Cembox>@@@@t�@@@@@�@\@@expoxp@
+�6656>6@5 [K[32Cembox>@@@@t�@@@@@�@\@@expoxp@@
+�6656>6@5 [K[33Cembox>@@@@t�@@@@@�@\@@expoxp@@e
+�6656>6@5 [K[34Cembox>@@@@t�@@@@@�@\@@expoxp@@ex
+�6656>6@5 [K[35Cembox>@@@@t�@@@@@�@\@@expoxp@@exp
+�6656>6@5 [K[36Cembox>@@@@t�@@@@@�@\@@expoxp@@exp@
+�6656>6@5 [K[37Cembox>@@@@t�@@@@@�@\@@expoxp@@exp@�
+�6656>6@5 embox>@@@@t�@@@@@�@\@@expoxp@@exp@�@
+�6656>6@5 embox>@@@@t�@@@@@�@\@@expoxp@@exp@�@�
+�6656>6@5 embox>@@@@t�@@@@@�@\@@expoxp@@exp@�@�@
+�6656>6@5 embox>@@@@t�@@@@@�@\@@expoxp@@exp@�@�@@
+�6656>6@5 [K[42Cembox>@@@@t�@@@@@�@\@@expoxp@@exp@�@�@@?
+�6656>6@5 [K
+embox>@@@@@@O@@@\@@lseembox>@@@@@@O@@@\@@lse[K[6Cembox>@@@@@@@O@@@\@@lse[K[7Cembox>@@@@@@@@O@@@\@@lse[K[8Cembox>@@@@@@@@@O@@@\@@lse[K[9Cembox>@@@@@@@@@@O@@@\@@lse[K[10Cembox>@@@@@@@@@@@O@@@\@@lse[K[11Cembox>@@@@@@@@@@@@O@@@\@@lse[K[12Cembox>@@@@@@@@@@@@@O@@@\@@lse[K[13Cembox>@@@@@@@@@@@@@@O@@@\@@lse[K[14Cembox>@@@@@@@@@@@@@@@O@@@\@@lse[K[15Cembox>@@@@@@@@@@@@@@@@O@@@\@@lse[K[16Cembox>@@@@@@@@@@A@@@@@@O@@@\@@lse[K[17Cembox>@@@@@@@@@@A@@@@@@@O@@@\@@lse[K[18Cembox>@@@@@@@@@@A@x@@@@@@O@@@\@@lse[K[19Cembox>@@@@@@@@@@A@xp@@@@@@O@@@\@@lse[K[20Cembox>@@@@@@@@@@A@xp@@@@@@@O@@@\@@lse[K[21Cembox>@@@@@@@@@@A@xp@�@@@@@@O@@@\@@lse[K[22Cembox>@@@@@@@@@@A@xp@�@@@@@@@O@@@\@@lse[K[23Cembox>@@@@@@@@@@A@xp@�@@@@@@@@O@@@\@@lse[K[24Cembox>@@@@@@@@@@A@xp@�@@@@@@@@@O@@@\@@lse[K[25Cembox>@@@@@@@@@@A@xp@�@@@@@@@@@@O@@@\@@lse[K[26Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@@@O@@@\@@lse[K[27Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@@@@O@@@\@@lse[K[28Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@@@@@O@@@\@@lse[K[29Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@@@@@@O@@@\@@lse[K[30Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@@@@@@@O@@@\@@lse[K[31Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@e@@@@@@O@@@\@@lse[K[32Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@ex@@@@@@O@@@\@@lse[K[33Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@exp@@@@@@O@@@\@@lse[K[34Cembox>@@@@@@@@@@A@xp@�@@@@?@@@@expo@@@@@@O@@@\@@lse
+@@@@@@@@@@A@xp@�@@@@?@@@@expo@@@@@@O@@@\@@lse: Command not found
+tish error: #-2
+embox>
+�6656>@5 @@?@@@@@@O@`@\@@eembox>
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@e
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@ex
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@exp
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@expo
+�6656>@5 @@?@@@@@@O@`@\@@eembox>@@expox
+�6656>@5 @@?@@@@@@O@`@\@@eembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26C
+@@expox: Command not found
+tish error: #-2
+embox>@@@@O@�@\@@@K@@@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27C
+@@A@xpH�@`@@?@@@: Command not found
+tish error: #-2
+embox>
+�
+`o�
+tish error: #-22
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+`�
+tish error: #-22
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+QU�f��n[?5h[?5l[?5h[?5l�
+QU�f��n�: Command not found
+tish error: #-2
+embox>
+ logout
+tish error: #-22
+embox>
+
+���
+���: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+e�
+e�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�xxii[?5h[?5l�a/�
+��/�: Command not found
+tish error: #-2
+embox>
+Pexport
+Pexport: Command not found
+tish error: #-2
+embox>
+[?5h[?5l��xhf���xxhf�a/�a/
+ls/: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�xxGi[?5h[?5l�a/�
+��/�a/�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+[?5h[?5llogouy�xxii�[?5h[?5l�a/[?5h[?5l�xx�
+��/�a/: Command not found
+tish error: #-2
+embox>
+ext
+et: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�4�4
+�4�4: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�xxii[?5h[?5l�a/w
+��/�a/w: Command not found
+tish error: #-2
+embox>
+exit[?5h[?5l�xxii[?5h[?5l�a/�
+��/�a/�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�x^ii[?5h[?5lta/�
+��/�a/�: Command not found
+tish error: #-2
+embox>
+y
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

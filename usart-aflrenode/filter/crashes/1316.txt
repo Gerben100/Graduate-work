@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�x�0
+embox>
+�xh�0
+tish error: #-22
+embox>
+(� �
+(�: Command not found
+tish error: #-2
+embox>
+utot[?5h[?5l
+utot: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[9Cembox>
+���[K[10C[H[H[2Jembox>
+���[K[10C
+��: Command not found
+tish error: #-2
+embox>
+��
+embox>
+embox>
+�A�
+tish error: #-22
+embox>
+n�
+n�: Command not found
+tish error: #-2
+embox>
+pdn
+tish error: #-22
+embox>
+embox>[K[6Cdi}c
+embox>
+embox>
+�
+embox>
+embox>
+xix
+tish error: #-22
+embox>
+xi��xi��embox>
+xi��xi��[K[15C
+xi�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+���
+
+
+
+
+
+�
+�[?5h[?5l�embox>
+���
+
+
+
+
+
+�
+�
+
+cd
+
+
+
+
+
+
+tish error: #-22
+embox>
+cK
+
+
+
+s
+cK: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K
+
+
+
+
+
+
+
+�[?5h[?5l�4
+
+cdc
+embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13C
+embox>
+
+ #
+
+
+
+
+
+
+
+�[?5h[?5l�4
+
+#: Command not found
+tish error: #-2
+embox>
+bd
+
+
+
+�
+
+cd
+
+
+
+
+
+
+bd: Command not found
+tish error: #-2
+embox>
+777d[H[H[2J7�777d7��f���f��j
+777d7�777d: Command not found
+tish error: #-2
+embox>
+pipinE�nE�
+port
+
+��
+
+cd
+
+
+
+
+
+�
+port
+
+��
+
+cd
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

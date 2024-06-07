@@ -1,0 +1,676 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[6C�oeie
+�oeie: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+����embox>
+����[K[6Cembox>e
+����[K[7Cembox>eh
+����[K[8Cembox>eht
+����[K[9C
+eht: Command not found
+tish error: #-2
+embox>
+d�d����i�
+d�d����i�: Command not found
+tish error: #-2
+embox>
+o�embox>
+o�[K[6Cembox>e
+o�[K[7Cembox>ek
+o�[K[8Cembox>ek�
+o�[K[9C
+ek�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>�
+[K[9Cembox>�e
+[K[10Cembox>�ei
+[K[11C
+embox>
+embox>
+[K[6Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+nnnnnnen@
+tish error: #-22
+embox>
+[?5h[?5la]
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>i
+[K[7Cembox>i�
+[K[8C
+i�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>o
+embox>ou
+embox>out
+embox>out�
+embox>out�y
+embox>out�y�
+embox>out�y�i
+embox>out�y�i�
+embox>out�y�i�
+embox>out�y�i�o
+embox>out�y�i�ou
+embox>out�y�i�out
+embox>out�y�i�out�
+embox>[Kembox>[Kembox>[Kembox>[K
+embox>
+��
+tish error: #-22
+embox>
+�ei�
+�: Command not found
+tish error: #-2
+embox>
+�iei�
+��iei�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls���y 
+tish error: #-22
+embox>
+tcdl
+tcdl: Command not found
+tish error: #-2
+embox>
+@�
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+��yei�
+tish error: #-22
+embox>
+�yU�i
+tish error: #-22
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+
+ei�: Command not found
+tish error: #-2
+embox>
+j�yeig
+j: Command not found
+tish error: #-2
+embox>
+�yef�
+tish error: #-22
+embox>
+oocd��o
+tish error: #-22
+embox>
+��
+Unreconized command: /t
+��
+embox>
+l��
+l��: Command not found
+tish error: #-2
+embox>
+
+�ei�: Command not found
+tish error: #-2
+embox>
+iiiiiiiTiiiiiiiiii�yei�
+tish error: #-22
+embox>
+�yeQ�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e�orUgrgggggggggg�
+�: Command not found
+tish error: #-2
+embox>
+pinan��
+pin: Command not found
+tish error: #-2
+embox>
+yei�
+yei�: Command not found
+tish error: #-2
+embox>
+�yai�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+N��di�i|�
+N: Command not found
+tish error: #-2
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+�yee̘
+tish error: #-22
+embox>
+dbu�
+db: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+exst
+ex: Command not found
+tish error: #-2
+embox>
+�ye[H[H[2Jzeii�
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+ �O }
+tish error: #-22
+embox>
+expxpoӂ�or��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

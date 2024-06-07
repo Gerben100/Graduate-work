@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[7C
+embox>
+�����rogout��embox>
+�����rogout��[K[6Cembox>
+�����rogout��[K[7Cembox>
+�����rogout��[K[8Cembox>�
+�����rogout��[K[9Cembox>��
+�����rogout��[K[10Cembox>���
+�����rogout��[K[11Cembox>����
+�����rogout��[K[12Cembox>�����
+�����rogout��[K[13Cembox>����� 
+�����rogout��[K[14Cembox>����� �
+�����rogout��[K[15Cembox>����� ��
+�����rogout��[K[16Cembox>����� ���
+�����rogout��[K[17Cembox>����� ����
+�����rogout��[K[18Cembox>����� �����
+�����rogout��[K[19Cembox>����� ������
+�����rogout��[K[20Cembox>����� �������
+�����rogout��[K[21Cembox>����� ��������
+�����rogout��[K[22Cembox>����� ��������A
+�����rogout��[K[23Cembox>����� ��������AA
+�����rogout��[K[24Cembox>����� ��������AAA
+�����rogout��[K[25Cembox>����� ��������AAAA
+�����rogout��[K[26Cembox>����� ��������AAAAA
+�����rogout��[K[27Cembox>����� ��������AAAAAA
+�����rogout��[K[28Cembox>����� ��������AAAAAAA
+�����rogout��[K[29Cembox>����� ��������AAAAAAAA
+�����rogout��[K[30Cembox>����� ��������AAAAAAAAA
+�����rogout��[K[31Cembox>����� ��������AAAAAAAAAA
+�����rogout��[K[32Cembox>����� ��������AAAAAAAAAAA
+�����rogout��[K[33Cembox>����� ��������AAAAAAAAAAAA
+�����rogout��[K[34Cembox>����� ��������AAAAAAAAAAAAA
+�����rogout��[Kembox>����� ��������AAAAAAAAAAAAAA
+�����rogout��[K[36Cembox>����� ��������AAAAAAAAAAAAAAA
+�����rogout��[K[37Cembox>����� ��������AAAAAAAAAAAAAAA�
+�����rogout��[K[38Cembox>����� ��������AAAAAAAAAAAAAAA��
+�����rogout��[K[39Cembox>����� ��������AAAAAAAAAAAAAAA���
+�����rogout��[K
+embox>����
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+embox>+�
++�: Command not found
+tish error: #-2
+embox>
+embox>+�[K[8C
++�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>[K[6C�embox>�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+�Pembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+embox>�[K[7Cexkt
+�exkt: Command not found
+tish error: #-2
+embox>
+�
+embox>Ѐ
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+�lAAAWAAAAAAAAAAAAAAAAAAAAAAAAA�AAAAAAAAAAAAAAAAAA
+�lAAAWAAAAAAAAAAAAAAAAAAAAAAAAA�AAAAAAAAAAAAAAAAAA: Command not found
+tish error: #-2
+embox>AAAAAAembox>AAAAA[K[11C�
+AAAAA: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�!��g��
+�!��g��: Command not found
+tish error: #-2
+embox>
+�
+embox>d�����ه�Ҹ��
+d�����ه�Ҹ��: Command not found
+tish error: #-2
+embox>
+embox>[K���
+���: Command not found
+tish error: #-2
+embox>
+��bei}
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+G�s
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+f
+embox>aaaa!aaMMMMMMMMai!a!MMMOMIMM
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

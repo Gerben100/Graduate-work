@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ls�Vei
+embox>
+�Te}0em
+�Te}: Command not found
+tish error: #-2
+embox>
+e@
+e@: Command not found
+tish error: #-2
+embox>
+lblxx
+lblxx: Command not found
+tish error: #-2
+embox>
+�embox>
+lblxx[K[12C��
+lblxx: Command not found
+tish error: #-2
+embox>
+�����������embox>
+����������[K[17C��������
+������������������: Command not found
+tish error: #-2
+embox>
+embox>
+������������������[K[25Cls_
+������������������ls_: Command not found
+tish error: #-2
+embox>
+x{w�
+x{w�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Wx
+Wx: Command not found
+tish error: #-2
+embox>
+[?5h[?5l3
+tish error: #-22
+embox>
+pippippipininpipininnsx
+pippippipininpipininnsx: Command not found
+tish error: #-2
+embox>
+lls*
+tish error: #-22
+embox>
+dlx
+tish error: #-22
+embox>
+1 sx
+sx: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+��pin}xxxxxxxxy��}xxxxxxxxyxxfx
+tish error: #-22
+embox>
+������
+�: Command not found
+tish error: #-2
+embox>
+xfx
+xfx: Command not found
+tish error: #-2
+embox>
+x��@�WyWysx
+x��@: Command not found
+tish error: #-2
+embox>
+
+��: Command not found
+tish error: #-2
+embox>
+u�
+embox>�xwxu�c_`
+�xwxu�: Command not found
+tish error: #-2
+embox>
+�xs
+�xs: Command not found
+tish error: #-2
+embox>
+�xzxfx
+tish error: #-22
+embox>
+ ��@}xxx�fX}xxyxfX
+��@: Command not found
+tish error: #-2
+embox>
+xxx{5�y8
+xxx{5�y8: Command not found
+tish error: #-2
+embox>
+�}xxxxxxxxyxfx
+}xxxxxxxxyxfx: Command not found
+tish error: #-2
+embox>
+�����[
+embox>�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,70 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/fs/dvfs/dvfs_util.c:291
+  in function dentry_ref_dec
+
+dentry
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pjrt�
+pjrt�: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+dds�
+s�ddr�
+��
+
+
+tish error: #-22
+embox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@embox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@[Kembox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@[K[51Cembox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@@[K[52Cembox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@?@[K[53Cembox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@?e@[K[54Cembox>
+d�@6F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@?ex@[K
+tish error: #-22
+embox>p@���embox>p@��[K[11C�@c66u6>6T@@@/@@8\c
+p@��: Command not found
+tish error: #-2
+embox>
+d�cx�S6F6>6T@���@@@@@Qfxport@<@@@@@@@@\@@@@@@?ex
+tish error: #-22
+embox>pexit@����~�@c66u6>6T@embox>pexit@����~�@c66u6>6T@[K[28C�@@@@@@@@@/@@8\c
+pexit@����~�@c66u6>6T@�@@@@@@@@@/@@8\c: Command not found
+tish error: #-2
+embox>
+d�wxport@<@@@@@@@@\@@@@@@?exp@��embox>
+d�wxport@<@@@@@@@@\@@@@@@?exp@���@c66u6>6T@embox>
+d�wxport@<@@@@@@@@\@@@@@@?exp@���@c66u6>6T@�
+tish error: #-22
+embox>�@@@@@@@@@/@@8\c
+�@@@@@@@@@/@@8\c: Command not found
+tish error: #-2
+embox>
+d�tx�6ls026exit���@@@P @@@$/@@8\c
+tish error: #-22
+embox>
+d�cx�66F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@@@@?ew
+tish error: #-22
+embox>p@���@c6Yu6>6T@�@@@@@@@@@/@@8\c
+p@��: Command not found
+tish error: #-2
+embox>
+d�cx�66F6>�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

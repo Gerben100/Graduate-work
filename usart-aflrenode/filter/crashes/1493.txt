@@ -1,0 +1,141 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exJit�de;�e�il
+exJit�: Command not found
+tish error: #-2
+embox>
+�N�exi�K�Nuembox>
+�N�exi�K�Nu[K[6Cembox>x
+�N�exi�K�Nu[K[7Cembox>xi
+�N�exi�K�Nu[K[8C
+xi: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��
+��: Command not found
+tish error: #-2
+embox>
+de�ex�
+tish error: #-22
+embox>
+jedeee�������
+jedeee�������: Command not found
+tish error: #-2
+embox>
+�θw�w�
+�θw�w�: Command not found
+tish error: #-2
+embox>
+N
+N: Command not found
+tish error: #-2
+embox>
+e�������������������������xiti������i_��
+e�������������������������xiti������i: Command not found
+tish error: #-2
+embox>
+ ddָ�z
+tish error: #-22
+embox>
+������
+�����: Command not found
+tish error: #-2
+embox>
+ddָ�{
+tish error: #-22
+embox>
+�~��
+�~��: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+
+[23;80H ָ
+��: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��gout
+��gout: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�����ye
+�: Command not found
+tish error: #-2
+embox>
+��x�ye�g��x�ye�g�
+�: Command not found
+tish error: #-2
+embox>
+�����xye�g�
+�����x: Command not found
+tish error: #-2
+embox>
+��e�q�cd�x�
+�: Command not found
+tish error: #-2
+embox>
+��dd�ye
+�: Command not found
+tish error: #-2
+embox>
+pi
+pi: Command not found
+tish error: #-2
+embox>
+��x�y
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+x�ye�g�
+tish error: #-22
+embox>
+��yh@yg�
+�: Command not found
+tish error: #-2
+embox>
+8�
+8�: Command not found
+tish error: #-2
+embox>
+����xbx�ye�g�
+bx: Command not found
+tish error: #-2
+embox>
+�l^��ll^^���
+�l^��l^��: Command not found
+tish error: #-2
+embox>
+�l^�cd�^���
+�l^c^��: Command not found
+tish error: #-2
+embox>
+�l^�cd��ll^��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

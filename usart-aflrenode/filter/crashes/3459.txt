@@ -1,0 +1,251 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+embox>
+p�[K[9C�
+p��: Command not found
+tish error: #-2
+embox>
+����[?5h[?5lls $r��ls��������ܿ���ܿ�������
+����[?5h[?5lls: Command not found
+tish error: #-2
+embox>
+
+
+tish error: #-22
+embox>
+�sUs�H
+�sUs�H: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�cdfetembox>[K[6C�p
+�p: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>
+zgoembox>�p[Kt
+�pt: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+[
+[: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�xit
+�xit: Command not found
+tish error: #-2
+embox>
+��d
+��d: Command not found
+tish error: #-2
+embox>
+t"��
+t"��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+pp��
+pp��: Command not found
+tish error: #-2
+embox>
+ �
+�: Command not found
+tish error: #-2
+embox>
+6l
+export: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+exportxport
+tish error: #-22
+embox>
+,
+,: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+@X
+@X: Command not found
+tish error: #-2
+embox>
+u
+u: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+P
+tish error: #-22
+embox>
+[H[H[2J-
+-: Command not found
+tish error: #-2
+embox>
+
+embox>*
+*: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+sex
+s: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+P�
+P�: Command not found
+tish error: #-2
+embox>
+d
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+[H[H[2J
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����������
+����������: Command not found
+tish error: #-2
+embox>
+
+embox>
+�����������������࿿
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�A\@@dxp^G�@ ��������@\@@
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+1
+1: Command not found
+tish error: #-2
+embox>
+�*�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

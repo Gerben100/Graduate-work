@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�`oembox>�`[K[8C��lV`oU��ldU u�embox>�`��lV`oU��ldU u[K[27C�`Doxu�embox>�`��lV`oU��ldU u�`Doxu[K[34C�`g`���embox>�`��lV`oU��ldU u�`Doxu�`g`��[K[40C`
+�`��l: Command not found
+tish error: #-2
+embox>go
+g: Command not found
+tish error: #-2
+embox>
+\
+\: Command not found
+tish error: #-2
+embox>
+�embox>
+\[K[8C
+embox>pF�V�
+pF�V: Command not found
+tish error: #-2
+embox>
+�!܀exit�embox>pF�V[K[11C
+pF�V: Command not found
+tish error: #-2
+embox>
+cGembox>pF�V[K[11C
+pF�V: Command not found
+tish error: #-2
+embox>
+]z
+]z: Command not found
+tish error: #-2
+embox>
+�ddddddd$dd}ddzdddddddddddddddddddddxdd-ddd1d�#embox>
+]z[K[9C
+]z: Command not found
+tish error: #-2
+embox>
+��embox>
+]z[K[9C�embox>pF�V[K[11C܀�embox>
+�[K[8C܀�embox>
+\[K[8C�embox>g[K[7C܀�embox>�`��l[K[11C
+�`��l: Command not found
+tish error: #-2
+embox>
+�܀�embox>�`��l[K[11C�embox>
+]z�[K[10C܀�embox>pF�V܀�[K[14C�embox>
+�܀�[K[11C
+�܀�: Command not found
+tish error: #-2
+embox>
+��dembox>
+�܀�[K[11C�@�embox>�`��l�[K[12C
+�`��l�: Command not found
+tish error: #-2
+embox>
+�embox>�`��l�[K[12C�
+�`��l܀: Command not found
+tish error: #-2
+embox>
+embox>[K[13C�embox>�`��l�
+�`��l�: Command not found
+tish error: #-2
+embox>
+eZ`E�
+x�: Command not found
+tish error: #-2
+embox>
+�o
+�o: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cdZ
+cdZ: Command not found
+tish error: #-2
+embox>
+eZ`e�
+x�: Command not found
+tish error: #-2
+embox>
+eW`o�o
+x�: Command not found
+tish error: #-2
+embox>
+eZrx�
+x�: Command not found
+tish error: #-2
+embox>
+dZ`e��rdox
+x�: Command not found
+tish error: #-2
+embox>
+XXXXXXXXXXXXXXXXlsXXXXX��
+XXXXXXXXXXXXXXXXlsXXXXX��: Command not found
+tish error: #-2
+embox>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXexportXXXYXXX
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

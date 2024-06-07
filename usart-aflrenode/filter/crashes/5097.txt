@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�cx�66F6>6T@logout���@@@@@Qexport@<@@@@@@@@\@
+embox>@@@@@?exp@��embox>@@@@@?exp@��[K[19C�@c66u6>6T@embox>@@@@@?exp@���@c66u6>6T@[K[30C�@@@@@8
+@@@@@?exp@��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C[H[H[2Jembox>[K[7C�cx�66F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@@@@?
+embox>�����embox>�����[K[13C�@c6u6>6T@embox>������@c6u6>6T@[K[24C�@@@@@@@@@O@@8
+���: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�cx�66F6>6T@���@@@@@Qexpor@@@l�O@@@@@\t@<@@@?
+embox>exp@��embox>exp@��[K[13C�@c66u6>6T@embox>exp@���@c66u6>6T@[K[24C�@@@@@@@@@/@@8
+exp@��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�cx�66p@��embox>�cx�66p@��[K[19C�@c66u6>6T@embox>�cx�66p@���@c66u6>6T@[K[30C�@@@@@@@@@@\@@@@@@?
+embox>exF6>6T@���@@@@@Qe8port@<@@@@@@@/@@8
+exF6>6T@�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���������������������pi���pi
+embox>
+embox>[K[6Cembox>[K[7C�������������pi
+embox>
+embox>[K[6C���embox>���[K[13C����������i
+embox>
+�cd
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�����������MR
+embox>
+iiiiiiii �[
+tish error: #-22
+embox>
+embox>[K[6C�����������
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�������������
+embox>
+r��
+r��: Command not found
+tish error: #-2
+embox>
+embox>[K[6Ci
+embox>
+embox>[K[6C%���1������embox>%���1�����[K[18Cpi
+embox>
+exportd
+exportd: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+j�embox>
+j��embox>
+j���embox>
+j����embox>
+j�����embox>
+j����S�embox>
+j����S�
+j����S�: Command not found
+tish error: #-2
+embox>
+|lq�R
+|lq�R: Command not found
+tish error: #-2
+embox>
+u���
+tish error: #-22
+embox>
+
+f�R}qq�R: Command not found
+tish error: #-2
+embox>
+�
+embox>q�RxlquR
+q�RxlquR: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+llogouo�tttvcde
+|lq�R: Command not found
+tish error: #-2
+embox>
+nxmt�x;�xq�it��
+n: Command not found
+tish error: #-2
+embox>
+@�lq�Rxkq�R
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

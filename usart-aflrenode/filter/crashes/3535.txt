@@ -1,0 +1,67 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ls6I56>6@@embox>�ls6I56>6@@[K[17C
+�ls6I56>6@@: Command not found
+tish error: #-2
+embox>
+�6Iembox>
+�6I[K[12C
+�6I: Command not found
+tish error: #-2
+embox>
+l�o�embox>
+l�o�[K[6C
+l�o�: Command not found
+tish error: #-2
+embox>
+�6lexitsembox>[K[6C>embox>>[K[9Cbembox>>[K[9C
+>: Command not found
+tish error: #-2
+embox>
+~�x�f�
+~�x�f�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�6I5�6@Kr
+�6I5�6@K: Command not found
+tish error: #-2
+embox>
+�6I}6>6Y@embox>
+�6I}6>6Y@[K[16C
+�6I}6>6Y@: Command not found
+tish error: #-2
+embox>
+�6I56>6@@d
+�6I56>6@@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�uI56=6@embox>[K[14C6I56>6@Bembox>[K[22C�B�~
+�uI56=66I56>6@B�: Command not found
+tish error: #-2
+embox>
+�6�������������I56>6@U
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

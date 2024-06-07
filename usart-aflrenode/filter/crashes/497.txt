@@ -1,0 +1,170 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>S
+S: Command not found
+tish error: #-2
+embox>
+_c�V_c�Qembox>S[K[7C
+S: Command not found
+tish error: #-2
+embox>
+c
+embox>embox>S[K[7C
+S: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+iQ%SciQembox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+ScpiniQ
+ScpiniQ: Command not found
+tish error: #-2
+embox>
+sc��
+sc�: Command not found
+tish error: #-2
+embox>
+SEiQ�
+SEiQ�: Command not found
+tish error: #-2
+embox>
+SciQembox>
+SEiQ�[K[12CQembox>
+sc�[K[10C
+sc�: Command not found
+tish error: #-2
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+xit[H[H[2Jembox>
+xit[K[10Cembox>
+xi[K[9C{
+xi: Command not found
+tish error: #-2
+embox>
+NMOembox>
+NMO[K[6Cembox>
+NMO[K[7C
+embox>
+S]
+S]: Command not found
+tish error: #-2
+embox>
+SScs
+embox>
+Q
+Q: Command not found
+tish error: #-2
+embox>
+sciQ
+sciQ: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Se�#gp
+Se: Command not found
+tish error: #-2
+embox>
+[ScPSc
+Q: Command not found
+tish error: #-2
+embox>
+�iQ
+Q: Command not found
+tish error: #-2
+embox>
+ScixMloout
+Qloout: Command not found
+tish error: #-2
+embox>
+Sci�
+Q: Command not found
+tish error: #-2
+embox>
+�#
+�#: Command not found
+tish error: #-2
+embox>
+��
+Q: Command not found
+tish error: #-2
+embox>
+ScYg
+Q: Command not found
+tish error: #-2
+embox>
+�
+Q: Command not found
+tish error: #-2
+embox>
+e��������������������������QiQ
+Q: Command not found
+tish error: #-2
+embox>
+P
+P: Command not found
+tish error: #-2
+embox>
+,d
+,d: Command not found
+tish error: #-2
+embox>
+ScJ
+Q: Command not found
+tish error: #-2
+embox>
+Ss)d�
+Ss)d�: Command not found
+tish error: #-2
+embox>
+.��[H[H[2J
+.��: Command not found
+tish error: #-2
+embox>
+ScQH
+ScQH: Command not found
+tish error: #-2
+embox>
+logoutdUi
+embox>
+embox>
+�d*
+Q: Command not found
+tish error: #-2
+embox>
+GQnnnnnnnnnnnniV
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

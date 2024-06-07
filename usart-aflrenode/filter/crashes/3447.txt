@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>p[K[7Cembox>p�[K[8Cembox>p�[K[9Cembox>p��[K[10Cembox>p��[K[6Cembox>p��[K[7C
+embox>
+embox>[K[6C�embox>[K[6Cz�j�
+z�j�: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[8C��
+��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���̀�
+���̀�: Command not found
+tish error: #-2
+embox>
+x�e�xxxxxxxembox>
+x�e�xxxxxxx[K[6Cembox>x
+x�e�xxxxxxx[K[7Cembox>xx
+x�e�xxxxxxx[K[8Cembox>xxx
+x�e�xxxxxxx[K[9Cembox>xxxx
+x�e�xxxxxxx[K[10Cembox>xxxxx
+x�e�xxxxxxx[K[11Cembox>xxxxxx
+x�e�xxxxxxx[K[12Cembox>xxxxxxx
+x�e�xxxxxxx[K[13Cembox>xxxxxxxx
+x�e�xxxxxxx[K[14Cembox>xxxxxxxxx
+x�e�xxxxxxx[K[15Cembox>xxxxxxxxxx
+x�e�xxxxxxx[K[16Cembox>xxxxxxxxxxx
+x�e�xxxxxxx[K[17Cembox>xxxxxxxxxxx
+x�e�xxxxxxx[K[6Cembox>xxxxxxxxxxxx
+x�e�xxxxxxx[K[7Cembox>x�xxxxxxxxxxx
+x�e�xxxxxxx[K[8C
+x�xxxxxxxxxxx: Command not found
+tish error: #-2
+embox>
+�Cembox>
+�C[K[8Cembox>
+�C[K[9C
+�: Command not found
+tish error: #-2
+embox>
+��[
+��[: Command not found
+tish error: #-2
+embox>
+�@embox>
+�@[K[6Cembox>+
+�@[K[7C
++: Command not found
+tish error: #-2
+embox>
+���������������C
+���������������C: Command not found
+tish error: #-2
+embox>+
++: Command not found
+tish error: #-2
+embox>
+�+
+�+: Command not found
+tish error: #-2
+embox>
+� O[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�@\
+�@\: Command not found
+tish error: #-2
+embox>
++
++: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+�9�
+�9: Command not found
+tish error: #-2
+embox>
+3+
+3+: Command not found
+tish error: #-2
+embox>
+���ede
+��ede: Command not found
+tish error: #-2
+embox>
+�udV
+�udV: Command not found
+tish error: #-2
+embox>
+�����Be
+����Be: Command not found
+tish error: #-2
+embox>
+de
+de: Command not found
+tish error: #-2
+embox>
+�aexporte
++aexporte: Command not found
+tish error: #-2
+embox>
+�����edede
+����edede: Command not found
+tish error: #-2
+embox>
+��������edeede
+������edeede: Command not found
+tish error: #-2
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���nede
+�: Command not found
+tish error: #-2
+embox>
+�e%il
+�e%il: Command not found
+tish error: #-2
+embox>
+��logout��ed�
+�logout��ed�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���eexpo���[?5h[?5l� Wk�xpo�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

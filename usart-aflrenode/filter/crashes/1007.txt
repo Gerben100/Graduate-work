@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+����<�
+����<�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C�
+��: Command not found
+tish error: #-2
+embox>
+e�port
+e�port: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+8
+tish error: #-22
+embox>
+d
+tish error: #-22
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+embox>
+[K[7Ce[H[H[2Jembox>
+e[K[8Ci��$
+ei��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��     d 
+�: Command not found
+tish error: #-2
+embox>� embox>� [K[6Cembox> � [K[7Cembox>  � [K[8Cembox>   � [K[9Cembox>    � [K[10Cembox>     � [K[11Cembox>     �� [K[12Cembox>     �c� [K[13Cembox>     �cx� [K[14Cembox>     �cx [K[15Cembox>     �cx�6� [K[16Cembox>     �cx�66� [K[17Cembox>     �cx�66F� [K[18Cembox>     �cx�66F6� [K[19Cembox>     �cx�66F6>� embox>     �cx�66F6>T� embox>     �cx�66F6>T>� embox>     �cx�66F6>T>@� embox>     �cx�66F6>T>@� embox>     �cx�66F6>T>@� embox>�     �cx�66F6>T>@� embox>��     �cx�66F6>T>@� embox>��5     �cx�66F6>T>@� embox>��5p     �cx�66F6>T>@� embox>��5po     �cx�66F6>T>@� embox>��5por     �cx�66F6>T>@� embox>��5port     �cx�66F6>T>@� embox>��5portQ     �cx�66F6>T>@� embox>��5portQe     �cx�66F6>T>@� embox>��5portQew     �cx�66F6>T>@� embox>��5portQew@     �cx�66F6>T>@� embox>��5portQew@@     �cx�66F6>T>@� 
+��5portQew@@: Command not found
+tish error: #-2
+embox>@@@<@@@@@@<@@@@@@@�@@@�embox>@@@<@@@@@@<@@@@@@@�@@@��@@�embox>@@@<@@@@@@<@@@@@@@�@@@��@@��@embox>@@@<@@@@@@<@@@@@@@�@@@��@@�����6embox>@@@<@@@@@@<@@@@@@@�@@@��@@��������6<
+@@@<@@@@@@<@@@@@@@�@@@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��     d 
+�: Command not found
+tish error: #-2
+embox>@% 
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

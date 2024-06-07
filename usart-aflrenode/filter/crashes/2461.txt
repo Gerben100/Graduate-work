@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e@embox>e@[K[6Cembox>)e@[K[7Cembox>)He@[K[8Cembox>)Hue@[K[9Cembox>)Hule@[K[10Cembox>)Hulse@[K[11Cembox>)Huls�e@[K[12C
+)Huls�e@: Command not found
+tish error: #-2
+embox>
+{izembox>
+{iz[K[6Cembox>z
+{iz[K[7Cembox>zr
+{iz[K[8C
+zr: Command not found
+tish error: #-2
+embox>
+e�elembox>zr
+{iz[K[12Cout[embox>zr
+{izout[[K[6Cembox>Czr
+{izout[[K[7Cembox>C�zr
+{izout[[K[8Cembox>C�uzr
+{izout[[K[9Cembox>C�u/zr
+{izout[[K[10C
+C�u/zr: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[6Cembox>H
+e@[K[7Cembox>H/
+e@[K[8Cembox>H/e
+e@[K[9Cembox>H/e@
+e@[K[10Cembox>H/e@
+e@[K[6Cembox>HH/e@
+e@[K[7Cembox>H/H/e@
+e@[K[8Cembox>H/�H/e@
+e@[K[9Cembox>H/��H/e@
+e@[K[10Cembox>H/���H/e@
+e@[K[11Cembox>H/����H/e@
+e@[K[12Cembox>H/�����H/e@
+e@[K[13Cembox>H/������H/e@
+e@[K[14Cembox>H/�������H/e@
+e@[K[15Cembox>H/��������H/e@
+e@[K[16Cembox>H/���������H/e@
+e@[K[17Cembox>H/����������H/e@
+e@[K[18Cembox>H/�����������H/e@
+e@[K[19Cembox>H/������������H/e@
+e@[K[20Cembox>H/�������������H/e@
+e@[K[21Cembox>H/��������������H/e@
+e@[K[22Cembox>H/���������������H/e@
+e@[K[23Cembox>H/����������������H/e@
+e@[K[24Cembox>H/�����������������H/e@
+e@[K[25Cembox>H/������������������H/e@
+e@[K[26Cembox>H/������������������uH/e@
+e@[K[27Cembox>H/������������������u�H/e@
+e@[K[28C
+H/������������������u�H/e@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�logout�H/~�
+�logout�H/~�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+el�eeebe�`ef�a
+el�eeebe�`ef�a: Command not found
+tish error: #-2
+embox>
+�HHHHHH�@embox>
+�HHHHHH�@embox>H
+�HHHHHH�@embox>H/
+�HHHHHH�@embox>H/H
+�HHHHHH�@embox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

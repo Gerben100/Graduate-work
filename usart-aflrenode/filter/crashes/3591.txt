@@ -1,0 +1,124 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>q�
+embox>
+s���
+tish error: #-22
+embox>
+$�%�@�$$?�%�
+$�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ s��s��embox>
+ s��s��[K[6Cembox>�
+ s��s��[K[7Cembox>�
+ s��s��[K[8Cembox>��
+ s��s��[K[9Cembox>��
+ s��s��[K[10C
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cc�
+c�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+s�embox>
+s�[K[9Cembox>
+s�[K[10Cembox>
+s��[K[11Cembox>
+s��[K[12C
+s: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+BBlk�Bexit[?5h[?5lBBlk�BBtzei��embox>
+BBlk�Bexit[?5h[?5lBBlk�BBtzei�embox>
+BBlk�Bexit[?5h[?5lBBlk�BBtzei�embox>
+BBlk�Bexit[?5h[?5lBBlk�BBtzei�
+BB: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�lo��utembox>�lo��u[K[12C���
+�lo��u���: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>[K09xembox>09[Kembox>[K[15Ceembox>[K[16Cembox>
+BB�expor
+BB�expor: Command not found
+tish error: #-2
+embox>
+�/xeexpor
+�lo��u���: Command not found
+tish error: #-2
+embox>
+logoutix�Tq�oGx�i���{
+BB�expor: Command not found
+tish error: #-2
+embox>
+99o eo eexr
+BB�expor: Command not found
+tish error: #-2
+embox>
+9xexxeexpoexpor
+�: Command not found
+tish error: #-2
+embox>
+9�vxee�por
+BB�expor: Command not found
+tish error: #-2
+embox>
+9���poo
+BB�expor�: Command not found
+tish error: #-2
+embox>
+xeefporr
+�lo��u���x: Command not found
+tish error: #-2
+embox>
+99��w{
+embox>
+xxxxxxxxxxxxxxpor
+BB�expor9xxxxxxxxxxxxxxpor: Command not found
+tish error: #-2
+embox>
+logout
+tish error: #-22
+embox>
+xce
+embox>
+9ls�ex|ortexWtdA�665l�6@@cA�665lsK@@��@@@@@
+9ls: Command not found
+tish error: #-2
+embox>@�@@@@?�@@
+@�@@@@?�: Command not found
+tish error: #-2
+embox>
+����@@portexexet�aA�9�ex@@@olXgoGxet�aA�9�ex@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

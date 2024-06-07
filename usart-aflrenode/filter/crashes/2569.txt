@@ -1,0 +1,204 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+embox>
+[K[6Cembox>�
+[K[7C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[9Cembox>
+[K[10Cembox>
+[K[11Cembox>
+@[K[12Cembox>
+@�[K[13Cembox>
+@��[K[14C
+: Command not found
+tish error: #-2
+embox>
+�u
+�u: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�6
+�[K[8Cembox>�6�
+�[K[9Cembox>�6�d
+�[K[10Cembox>�6�d�
+�[K[11Cembox>�6�d�
+�[K[12C[H[H[2Jembox>�6�d�
+�[K[12Cembox>�6�d��
+�[K[13Cembox>�6�d��
+�[K[14Cembox>�6�d��
+�[K[15Cembox>�6�d���
+�[K[16Cembox>
+�u[K[9Cembox>
+�[K[8C�i�embox>
+��i�[K[6Cembox>�
+��i�[K[7Cembox>��
+��i�[K[8Cembox>��y
+��i�[K[9Cembox>��y
+��i�[K[10Cembox>��y
+��i�[K[11Cembox>��y�
+��i�[K[12Cembox>��y�f
+��i�[K[13Cembox>��y�f
+��i�[K[14Cembox>��y�f�
+��i�[K[15Cembox>��y�f
+��i�[K[14C
+��y: Command not found
+tish error: #-2
+embox>
+7Xel�goutpinembox>
+7Xel�goutpin[K[6Cembox>�
+7Xel�goutpin[K[7Cembox>�
+7Xel�goutpin[K[8Cembox>�
+7Xel�goutpin[K[9Cembox>�
+7Xel�goutpin[K[10C
+�: Command not found
+tish error: #-2
+embox>
+�d�[H[H[2Jembox>
+�d�[K[12C�[H[H[2Jembox>
+�d��[K[14C��66�
+embox>��ui�embox>��ui�[K[12Cembox>��ui6�[K[13Cembox>��ui66�[K[14Cembox>��ui66e�[K[15Cembox>��ui66ex�[K[16Cembox>��ui66exp�[K[17Cembox>��ui66expo�[K[18Cembox>��ui66expor�[K[19Cembox>��ui66export�[K[20Cembox>��ui66export��[K[21Cembox>��ui66export��[K[22Cembox>��ui66export���[K[23Cembox>��ui66export��t�[K[24Cembox>��ui66export��t��[K[25Cembox>��ui66export��t��[K[26Cembox>��ui66export��t���[K[27Cembox>��ui66export��t���[K[28Cembox>��ui66export��t����[K[29Cembox>��ui66export��t�����[K[30Cembox>��ui66export��t������[K[31Cembox>��ui66export��t�������[K[32Cembox>��ui66export��t������f�[K[33Cembox>�[K[7C�embox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>*
+�[K[7Cembox>*6
+�[K[8Cembox>*6�
+�[K[9Cembox>*6�d
+�[K[10Cembox>*6�d�
+�[K[11Cembox>*6�d�
+�[K[12C[H[H[2Jembox>*6�d�
+�[K[12Cembox>*6�d�
+�[K[13C
+embox>embox>[K[8Cui�embox>ui�[K[10Cembox>ui�[K[11Cembox>ui��[K[12Cembox>ui�y�[K[13Cembox>ui�y�[K[14Cembox>ui�y�[K[15Cembox>ui�y��[K[16Cembox>ui�y�f�[K[17Cembox>�[K[7C�~
+�~: Command not found
+tish error: #-2
+embox>
+�exit�embox>
+�exit[K[13C����
+�exit: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>�[K[7Cembox>�[K[8Cembox>�[K[9Cembox>�[K[8Cembox>�u[K[9Cembox>�ui[K[10Cembox>�ui�[K[11Cembox>�ui�[K[10Cembox>�ui�[K[11Cembox>�ui��[K[12Cembox>�ui��[K[13Cembox>�ui��[K[14Cembox>�ui��[K[15Cembox>�ui���[Kembox>�ui��f�[Kembox>
+�exit[K[12C�{
+�exit�{: Command not found
+tish error: #-2
+embox>
+|xport�embox>
+|xport�[K[6Cembox>�
+|xport�[K[7Cembox>�6
+|xport�[K[8Cembox>�6�
+|xport�[K[9Cembox>�6�d
+|xport�[K[10Cembox>�6�d�
+|xport�embox>�6�d�
+|xport�embox>�6�d�
+|xport�embox>��6�d�
+|xport�embox>�6�6�d�
+|xport�embox>�6��6�d�
+|xport�embox>�6�d�6�d�
+|xport�embox>�6�d��6�d�
+|xport�embox>�6�d��6�d�
+|xport�embox>�6�d���6�d�
+|xport�embox>�6�d���6�d�
+|xport�embox>�6�d���6�d�
+|xport�embox>�6�d��u�6�d�
+|xport�embox>�6�d��ud�6�d�
+|xport�embox>�6�d��ud��6�d�
+|xport�embox>�6�d��ud��6�d�
+|xport�embox>�6�d��ud���6�d�
+|xport�embox>�6�d��ud���6�d�
+|xport�
+embox>embox>[K[8Cu�
+embox>udrt�embox>udrt�[K[6Cembox>�udrt�[K[7Cembox>�6udrt�[K[8C
+�6udrt�: Command not found
+tish error: #-2
+embox>�d�embox>�d�[K[6Cembox>Յd�[K[7Cembox>�6�d�[K[8Cembox>�6��d�[K[9Cembox>�6�d�d�[K[10Cembox>�6�d�d�[K[11Cembox>�6�d��d�[K[12Cembox>�6�d��d�[K[13Cembox>�6�d���d�[K[14Cembox>�6�d��d�[K[13Cembox>�6�d��u�d�[K[14Cembox>�6�d��ud�d�[K[15Cembox>�6�d��ud�d�[K[16Cembox>�6�d��ud��d�[K[17Cembox>�6�d��ud��d�[K[18Cembox>�6�d��ud���d�[K[19C
+embox>�embox>�[K[8Cembox>�[K[9Cembox>��[K[10Cembox>�y�[K[11Cembox>�y�[K[12Cembox>�y�[K[13Cembox>�y��[K[14Cembox>�y���[K[15Cembox>�y��y�[K[16Cembox>�y��y�[K[17Cembox>�y��yq�[K[18Cembox>�6udrt�[K[13C�{
+�6udrt�{: Command not found
+tish error: #-2
+embox>
+
+��j�
+��j�: Command not found
+tish error: #-2
+embox>
+���6�d�[H[H[2Jembox>
+���6�d�
+embox>embox>
+
+��j�i�embox>
+
+��j�i�embox>
+
+��j�i�embox>
+
+��j�i��embox>
+
+��j�i�y�embox>
+
+��j�i�y�embox>
+
+��j�i�y�embox>
+
+��j�i�y��embox>
+
+��j�i�y�f�embox>�6udrt�{�embox>�6udrt�{
+�6udrt�{: Command not found
+tish error: #-2
+embox>
+�[H[H[2J�y�f
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+�x(i�[H[H[2J
+embox>ui��
+�6udrt�{: Command not found
+tish error: #-2
+embox>
+��
+�6�dui: Command not found
+tish error: #-2
+embox>
+���� [H[H[2J
+embox>ui��
+�6�dui: Command not found
+tish error: #-2
+embox>
+���666>�[H[H[2Je
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+#�����
+#�����: Command not found
+tish error: #-2
+embox>
+�epp?��x�[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

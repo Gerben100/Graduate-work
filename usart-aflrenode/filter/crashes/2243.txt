@@ -1,0 +1,127 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+d!@=@@@@�@Ei�@@
+d!@=@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>%i�[?5h[?5lxembox>%i�x[K[6Cembox>%i�x[K[7Cembox>x%i�x[K[8Cembox>xe%i�x[K[9Cembox>xe�%i�x[K[10Cembox>xe�6%i�x[K[11Cembox>xe�66%i�x[K[12Cembox>xe�665%i�x[K[13C[H[H[2Jembox>xe�665%i�x[K[13Cembox>xe�665>%i�x[K[14Cembox>xe�665>6%i�x[K[15Cembox>xe�665>6z%i�x[K[16Cembox>xe�665>6z@%i�x[K[17Cembox>xe�665>6z@%i�x[K[18Cembox>xe�665>6z@�%i�x[K[19Cembox>xe�665>6z@��%i�x[K[20Cembox>xe�665>6z@���%i�x[K[21Cembox>xe�665>6z@���@%i�x[K[22Cembox>xe�665>6z@���@@%i�x[K[23Cembox>xe�665>6z@���@@W%i�x[K[24Cembox>xe�665>6z@���@@W@%i�x[K[25Cembox>xe�665>6z@���@@W@@%i�x[K[26Cembox>xe�665>6z@���@@W@@%i�x[K[27Cembox>xe�665>6z@���@@W@@%i�x[K[28Cembox>xe�665>6z@���@@W@@%i�x[K[27Cembox>xe�665>6z@���@@W@@�%i�x[K[28Cembox>xe�665>6z@���@@W@@�*%i�x[K[29Cembox>xe�665>6z@���@@W@@�*=%i�x[K[30Cembox>xe�665>6z@���@@W@@�*=@%i�x[K[31Cembox>xe�665>6z@���@@W@@�*=@@%i�x[K[32Cembox>xe�665>6z@���@@W@@�*=@@@%i�x[K[33Cembox>xe�665>6z@���@@W@@�*=@@@@%i�x[K[34Cembox>xe�665>6z@���@@W@@�*=@@@@@%i�x[K[35Cembox>xe�665>6z@���@@W@@�*=@@@@@@%i�x[K[36Cembox>xe�665>6z@���@@W@@�*=@@@@@@@%i�x[K[37Cembox>xe�665>6z@���@@W@@�*=@@@@@@@@%i�x[K[38Cembox>xe�665>6z@���@@W@@�*=@@@@@@@@@%i�x[K[39Cembox>xe�665>6z@���@@W@@�*=@@@@@@@@@@%i�x[K[40Cembox>xe�665>6z@���@@W@@�*=@@@@@@@@@@@%i�x[K[41Cembox>xe�665>6z@���@@W@@�*=@@@@@@@@@@@\%i�x[K[42C
+embox>@@e�@@export���������@@@@@@@@6@@@@����@@@
+@@e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>hi�[?5h[?5lxembox>hi�x[K[6Cembox>hi�x[K[7Cembox>phi�x[K[8Cembox>pihi�x[K[9Cembox>pinhi�x[K[10Cembox>pin6hi�x[K[11Cembox>pin66hi�x[K[12Cembox>pin665hi�x[K[13Cembox>pin6656hi�x[K[14Cembox>pin6656>hi�x[K[15Cembox>pin6656>6hi�x[K[16Cembox>pin6656>6>hi�x[K[17Cembox>pin6656>6>\hi�x[K[18Cembox>pin6656>6>\@hi�x[K[19Cembox>pin6656>6>\@@hi�x[K[20Cembox>pin6656>6>\@@ehi�x[K[21Cembox>pin6656>6>\@@exhi�x[K[22Cembox>pin6656>6>\@@exphi�x[K[23Cembox>pin6656>6>\@@exp@hi�x[K[24Cembox>pin6656>6>\@@exp@�hi�x[K[25Cembox>pin6656>6>\@@exp@�@hi�x[K[26Cembox>pin6656>6>\@@exp@�@@hi�x[K[27Cembox>pin6656>6>\@@exp@�@@ehi�x[K[28Cembox>pin6656>6>\@@exp@�@@eghi�x[K[29Cembox>pin6656>6>\@@exp@�@@egphi�x[K[30Cembox>pin6656>6>\@@exp@�@@egpohi�x[K[31Cembox>pin6656>6>\@@exp@�@@egporhi�x[K[32Cembox>pin6656>6>\@@exp@�@@egporthi�x[K[33Cembox>pin6656>6>\@@exp@�@@egport�hi�x[K[34Cembox>pin6656>6>\@@exp@�@@egport��hi�x[K[35Cembox>pin6656>6>\@@exp@�@@egport���hi�x[K[36Cembox>pin6656>6>\@@exp@�@@egport����hi�x[K[37Cembox>pin6656>6>\@@exp@�@@egport����@hi�x[K[38Cembox>pin6656>6>\@@exp@�@@egport����@�hi�x[K[39Cembox>pin6656>6>\@@exp@�@@egport����@��hi�x[K[40Cembox>pin6656>6>\@@exp@�@@egport����@���hi�x[Kembox>pin6656>6>\@@exp@�@@egport����@����hi�x[Kembox>pin6656>6>\@@exp@�@@egport����@����hi�x[Kembox>pin6656>6>\@@exp@�@@egport����@����hi�x[Kembox>pin6656>6>\@@exp@�@@egport����@�����hi�x[K
+embox>�� ��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>%i�[?5h[?5lxembox>%i�x[K[6Cembox>%i�x[K[7Cembox>x%i�x[K[8Cembox>xE%i�x[K[9Cembox>xE�%i�x[K[10Cembox>xE�6%i�x[K[11Cembox>xE�66%i�x[K[12Cembox>xE�665%i�x[K[13Cembox>xE�6656%i�x[K[14Cembox>xE�6656@%i�x[K[15Cembox>xE�6656@@%i�x[K[16Cembox>xE�6656@@@%i�x[K[17Cembox>xE�6656@@@@%i�x[K[18Cembox>xE�6656@@@@@%i�x[K[19Cembox>xE�6656@@@@@@%i�x[K[20Cembox>xE�6656@@@@@@@%i�x[K[21Cembox>xE�6656@@@@@@@+%i�x[K[22Cembox>xE�6656@@@@@@@+@%i�x[K[23Cembox>xE�6656@@@@@@@+@@%i�x[K[24Cembox>xE�6656@@@@@@@+@@\%i�x[K[25Cembox>xE�6656@@@@@@@+@@\@%i�x[K[26Cembox>xE�6656@@@@@@@+@@\@@%i�x[K[27Cembox>xE�6656@@@@@@@+@@\@@e%i�x[K[28Cembox>xE�6656@@@@@@@+@@\@@ex%i�x[K[29Cembox>xE�6656@@@@@@@+@@\@@exp%i�x[K[30Cembox>xE�6656@@@@@@@+@@\@@exp@%i�x[K[31Cembox>xE�6656@@@@@@@+@@\@@exp@�%i�x[K[32Cembox>xE�6656@@@@@@@+@@\@@exp@�@%i�x[K[33Cembox>xE�6656@@@@@@@+@@\@@exp@�@@%i�x[K[34Cembox>xE�6656@@@@@@@+@@\@@exp@�@@e%i�x[K[35Cembox>xE�6656@@@@@@@+@@\@@exp@�@@ex%i�x[K[36Cembox>xE�6656@@@@@@@+@@\@@exp@�@@exp%i�x[K[37Cembox>xE�6656@@@@@@@+@@\@@exp@�@@expo%i�x[K[38Cembox>xE�6656@@@@@@@+@@\@@exp@�@@expor%i�x[K[39Cembox>xE�6656@@@@@@@+@@\@@exp@�@@export%i�x[K[40Cembox>xE�6656@@@@@@@+@@\@@exp@�@@export�%i�x[Kembox>xE�6656@@@@@@@+@@\@@exp@�@@export��%i�x[Kembox>xE�6656@@@@@@@+@@\@@exp@�@@export���%i�x[Kembox>xE�6656@@@@@@@+@@\@@exp@�@@export����%i�x[Kembox>xE�6656@@@@@@@+@@\@@exp@�@@export�����%i�x[K
+embox>����@@@@@@@C@@@@@����@@@
+����@@@@@@@C@@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>%i�[?5h[?5lxembox>%i�x[K[6Cembox>%i�x[K[7Cembox>x%i�x[K[8Cembox>xe%i�x[K[9Cembox>xe�%i�x[K[10Cembox>xe�6%i�x[K[11Cembox>xe�66%i�x[K[12Cembox>xe�665%i�x[K[13Cembox>xe�6656%i�x[K[14Cembox>xe�6656>%i�x[K[15Cembox>xe�6656>6%i�x[K[16Cembox>xe�6656>6z%i�x[K[17Cembox>xe�6656>6z@%i�x[K[18Cembox>xe�6656>6z@%i�x[K[19Cembox>xe�6656>6z@�%i�x[K[20Cembox>xe�6656>6z@��%i�x[K[21Cembox>xe�6656>6z@���%i�x[K[22Cembox>xe�6656>6z@���@%i�x[K[23Cembox>xe�6656>6z@���@@%i�x[K[24Cembox>xe�6656>6z@���@@W%i�x[K[25Cembox>xe�6656>6z@���@@W@%i�x[K[26Cembox>xe�6656>6z@���@@W@@%i�x[K[27Cembox>xe�6656>6z@���@@W@@%i�xembox>xe�6656>6z@���@@W@@%i�xembox>xe�6656>6z@���@@W@@%i�xembox>xe�6656>6z@���@@W@@�%i�xembox>xe�6656>6z@���@@W@@�*%i�xembox>xe�6656>6z@���@@W@@�*=%i�xembox>xe�6656>6z@���@@W@@�*=@%i�xembox>xe�6656>6z@���@@W@@�*=@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@@@@@%i�xembox>xe�6656>6z@���@@W@@�*=@@@@@@@@@@@e%i�x
+embox>xport���������@@@@@@embox>xport���������@@@@@@[K[6Cembox>@xport���������@@@@@@[K[7Cembox>@@xport���������@@@@@@[K[8Cembox>@@@xport���������@@@@@@[K[9Cembox>@@@@xport���������@@@@@@[K[10Cembox>@@@@@xport���������@@@@@@[K[11Cembox>@@@@@@xport���������@@@@@@embox>@@@@@@@xport���������@@@@@@embox>@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@�xport���������@@@@@@embox>@@@@@@@@@@@@@@@@��xport���������@@@@@@embox>@@@@@@@@@@@@@@@@���xport���������@@@@@@embox>@@@@@@@@@@@@@@@@����xport���������@@@@@@embox>@@@@@@@@@@@@@@@@����@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@����@@xport���������@@@@@@embox>@@@@@@@@@@@@@@@@����@@@xport���������@@@@@@
+@@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>[�wxp@ Z@@@@@@@@c@@@@����@@@
+[�wxp@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>��56>6z@�xp@�@@ext@�����@A@
+��56>6z@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>%i�[?5h[?5lx%qembox>%i�x%q
+embox>p�7t+tttttdtpV�tttttdttV
+p�7t+tttttdtpV�tttttdttV: Command not found
+tish error: #-2
+embox>�ttembox>�tt
+�tt: Command not found
+tish error: #-2
+embox>
+
+embox>%i�[?5h[?5lx%m
+embox>ttt+ttt
+ttt+ttt: Command not found
+tish error: #-2
+embox>ttdttV�tttttdttV�tt
+ttdttV�tttttdttV�tt: Command not found
+tish error: #-2
+embox>
+
+embox>%i�[?5h[?5lx�m
+embox>p�7t+tttttdttV�tttttdttV
+p�7t+tttttdttV�tttttdttV: Command not found
+tish error: #-2
+embox>�tt�t
+�tt�t: Command not found
+tish error: #-2
+embox>
+
+embox>%ituttxtttdt��export
+%ituttxtttdt: Command not found
+tish error: #-2
+embox>
+
+embox>%i� x%m
+embox>p�7t1tttttdttV�tttttdttV
+p�7t1tttttdttV�tttttdttV: Command not found
+tish error: #-2
+embox>�tt
+�tt: Command not found
+tish error: #-2
+embox>
+
+embox>+tttttdttRtdttV�tt
++tttttdttRtdttV�tt: Command not found
+tish error: #-2
+embox>
+utt6�w%�uuuu
+utt6�w�uuuu: Command not found
+tish error: #-2
+embox>
+
+embox>%��[?5h[?5lx%m
+embox>tttttdttV�tttttd[tV�t
+embox>
+
+embox>%i�[?5h[?5l%m
+embox>p�7tttttdtttV�tt
+p�7tttttdtttV�tt: Command not found
+tish error: #-2
+embox>
+
+embox>}}}�w�������������������������%i�[?5h[?5lx%mtttlogouttd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

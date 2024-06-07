@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6Cexit�W�embox>[K[6C�ixit�embox>�ixit�[K[6Cembox>i�ixit�[K[7Cembox>iC�ixit�[K[8Cembox>iC΅ixit�[K[9Cembox>iC·�ixit�[K[10Cembox>iC·R�ixit�[K[11Cembox>iC·Rt�ixit�[K[12Cembox>iC·Rtt�ixit�[K[13Cembox>iC·RttC�ixit�[K[14Cembox>iC·RttC΅ixit�[K[15Cembox>iC·RttC·�ixit�[K[16Cembox>iC·RttC·R�ixit�[K[17Cembox>iC·RttC·Rt�ixit�[K[18Cembox>iC·RttC·Rtt�ixit�[K[19Cembox>iC·RttC·Rtt��ixit�[K[20Cembox>iC·RttC·Rtt���ixit�[K[21Cembox>iC·RttC·Rtt����ixit�[K[22Cembox>iC·RttC·Rtt����ixit�[K[23C
+iC·RttC·Rtt����ixit�: Command not found
+tish error: #-2
+embox>
+�embox>[K[6CxiC΅SttXxitt�
+xiC΅SttXxitt�: Command not found
+tish error: #-2
+embox>
+�embox>[K[6CdC΅S{tyt^tt�
+embox>
+�Sttlogoutt6Gxp��e5��embox>
+�Sttlogoutt6Gxp��e5��[K[6Cembox>
+�Sttlogoutt6Gxp��e5��[K[7Cembox>[
+�Sttlogoutt6Gxp��e5��[K[8Cembox>[p
+�Sttlogoutt6Gxp��e5��[K[9Cembox>[p~
+�Sttlogoutt6Gxp��e5��[K[10Cembox>[p~6
+�Sttlogoutt6Gxp��e5��[K[11Cembox>[p~6t
+�Sttlogoutt6Gxp��e5��[K[12Cembox>[p~6t�
+�Sttlogoutt6Gxp��e5��[K[13C
+embox>
+�embox>[K[6Cxiembox>xiC΅SttXxitt�[K[20C�lsttyt^tt�
+xiC΅SttXxitt��lsttyt^tt�: Command not found
+tish error: #-2
+embox>
+�eiRi
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��embox>
+�[K[8C""""""embox>
+�"""""[K[13Cembox>
+�""""[K[12Cembox>
+�"""[K[11Cembox>
+�""[K[10Cembox>
+�"[K[9Cembox>
+�[K[8C�%"""""""2""""""""""""""�i
+��%"""""""2""""""""""""""�i: Command not found
+tish error: #-2
+embox>
+�eei
+�: Command not found
+tish error: #-2
+embox>
+f8
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��xembox>
+��[Kimei
+�: Command not found
+tish error: #-2
+embox>
+,r�ti
+,r�ti: Command not found
+tish error: #-2
+embox>
+d%���pin�embox>
+d%���pin
+: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+���ei
+��: Command not found
+tish error: #-2
+embox>
+�d[?5h[?5l�
+�d: Command not found
+tish error: #-2
+embox>
+�r��ei
+�r��ei: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lo�ok��logo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

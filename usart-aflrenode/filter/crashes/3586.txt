@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ȥpir奥��@expocdrt���������������������@@�
+ȥpir奥��@expocdrt���������������������@@: Command not found
+tish error: #-2
+embox>
+}zRRI��embox>
+}zRRI�[K[13Cembox>
+}zRRI[K[12Cembox>
+}zRRI[K[12Cembox>
+}zRR[K[11Ci��d�
+}zRRi��d�: Command not found
+tish error: #-2
+embox>
+�embox>
+}zRRi��d�[K[16C@|s
+}zRRi��d�@|s: Command not found
+tish error: #-2
+embox>
+}embox>
+[K[7CRe�
+Re�: Command not found
+tish error: #-2
+embox>
+�}Re�������
+�}Re�������: Command not found
+tish error: #-2
+embox>
+m}Re����������饥logout�
+m}Re����������饥logout�: Command not found
+tish error: #-2
+embox>
+}�6�embox>
+}�6[K[11C@@@logout@H\@��@��cd|s@Dls@:P@@1#��
+embox>@H\
+embox>@@��embox>
+m}Re����������饥logout�embox>
+m}Re����������饥logout�ut@H\@���@@@S@D@1P@@1#�������
+m}Re����������饥logout�ut@H\@���@@@S@D@1P@@1#�������: Command not found
+tish error: #-2
+embox>
+}}Re�xix��6�embox>
+}}Re�xix��6[K[18C@@Alngout@H\@��@@@@s@D@:P@@1#��
+embox>
+embox>@H\@@��embox>
+}}Re�xi[K[14Cembox>
+}}Re�x[K[13C�uy@H\@��@@@@s@D@:P�@1#^l�����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,60 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 eembox>@@@@@5 e[K[6Cembox>@@@@@@5 e[K[7Cembox>@@@@@@@5 e[K[8Cembox>@@@@@@@@5 e[K[9Cembox>@@@@@@@@@5 e[K[10Cembox>@@@@@@@@@@5 e[K[11Cembox>@@@@@@@@@@@5 e[K[12Cembox>@@@@@@@@@@@@5 e[K[13Cembox>@@@@@@@@@@@@@5 e[K[14Cembox>@@@@@@@@@@@@@@5 e[K[15Cembox>@@@@@@@@@@@@@@@5 e[K[16Cembox>@@@@@@@@@@R@@@@@5 e[K[17Cembox>@@@@@@@@@@R@@@@@@5 e[K[18Cembox>@@@@@@@@@@R@x@@@@@5 e[K[19Cembox>@@@@@@@@@@R@xp@@@@@5 e[K[20Cembox>@@@@@@@@@@R@xp@@@@@@5 e[K[21Cembox>@@@@@@@@@@R@xp@�@@@@@5 e[K[22C
+@@@@@@@@@@R@xp@�: Command not found
+tish error: #-2
+embox>
+�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@@@@@@@@@R@xp@�
+embox>
+�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@eembox>@@@@@5 \@@e[K[6Cembox>@@@@@@5 \@@e[K[7Cembox>@@@@@@@5 \@@e[K[8Cembox>@@@@@@@@5 \@@e[K[9Cembox>@@@@@@@@@5 \@@e[K[10Cembox>@@@@@@@@@@5 \@@e[K[11Cembox>@@@@@@@@@@@5 \@@e[K[12Cembox>@@@@@@R@@@@@5 \@@e[K[13Cembox>@@@@@@R@@@@@@5 \@@e[K[14Cembox>@@@@@@R@x@@@@@5 \@@e[K[15Cembox>@@@@@@R@xp@@@@@5 \@@e[K[16Cembox>@@@@@@R@xp@@@@@@5 \@@e[K[17Cembox>@@@@@@R@xp@�@@@@@5 \@@e[K[18C
+@@@@@@R@xp@�: Command not found
+tish error: #-2
+embox>
+�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@eembox>@@@@@5 \@@e[K[6Cembox>@@@@@@5 \@@e[K[7Cembox>@@@@@@@5 \@@e[K[8Cembox>@@@@@@@@5 \@@e[Kembox>@@@@@@@@@5 \@@e[Kembox>@@@@@@@@@@5 \@@e[Kembox>@@@@@@@@@@@5 \@@e[Kembox>@@@@@@R@@@@@5 \@@eembox>@@@@@@R@@@@@@5 \@@eembox>@@@@@@R@x@@@@@5 \@@eembox>@@@@@@R@xp@@@@@5 \@@eembox>@@@@@@R@xp@@@@@@5 \@@eembox>@@@@@@R@xp@�@@@@@5 \@@e
+@@@@@@R@xp@�: Command not found
+tish error: #-2
+embox>
+�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18C
+@@@@@@@@@@@�: Command not found
+tish error: #-2
+embox>
+�cx�66F6@@@@@@@@@@@@�@\@@expoxp@@euplogout@�@�@
+�cx�66F6: Command not found
+tish error: #-2
+embox>@@@@@5 \@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20C
+@@@@@@@@@@R@xp: Command not found
+tish error: #-2
+embox>
+�cx@@expoxp@@eexituplogout@�@�@@@@@@5 \@@eembox>[K[6Cembox>[K[7Cembox>[K[8C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

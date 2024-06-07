@@ -1,0 +1,127 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>6666666666666666666666
+embox>�embox>[K[6C���log�utlogouteee�port
+���log�utlogouteee�port: Command not found
+tish error: #-2
+embox>
+embox>���log�utlogouteee�port[K[29CE���
+���log�utlogouteee�port: Command not found
+tish error: #-2
+embox>
+P[?5h[?5l!6embox>
+P[?5h[?5l!6[K[11Cembox>
+P[?5h[?5l!H6[K[12C
+P[?5h[?5l!H6: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��G�ec-� l ee
+��G�ec-�: Command not found
+tish error: #-2
+embox>
+�Z@@�Z
+�Z@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>exp
+[K[9Cembox>expo
+[K[10Cembox>expo�
+[K[11Cembox>expo�s
+[K[12C
+expo�s: Command not found
+tish error: #-2
+embox>
+@@�c@�@H
+@@�c@�: Command not found
+tish error: #-2
+embox>
+[#H
+[#H: Command not found
+tish error: #-2
+embox>
+�c��6}H
+�c��6}H: Command not found
+tish error: #-2
+embox>
+~~xe�g����embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[6Cembox>[K[7C
+By�y�: Command not found
+tish error: #-2
+embox>
+�6�
+�: Command not found
+tish error: #-2
+embox>
+
+H@: Command not found
+tish error: #-2
+embox>
+F^F^���������������s��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+7
+7: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+embox>
+�c�e�<�
+�c�: Command not found
+tish error: #-2
+embox>
+��c@�
+embox>
+�@���dxedxej�loguo�
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+�b�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+ c@�l@@@@@@@@@@@@@@@@@@@@@@��
+c@�: Command not found
+tish error: #-2
+embox>
+�c@�?????-e|itp??????
+embox> eR�
+eR: Command not found
+tish error: #-2
+embox>�?e
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,150 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>#�
+embox>----3-------#---------;--------M--F---------
+----3-------#---------;--------M--F---------: Command not found
+tish error: #-2
+embox>-------------x
+-------------x: Command not found
+tish error: #-2
+embox>
+(dd
+(dd: Command not found
+tish error: #-2
+embox>
+--`x
+--`x: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+x�
+x�: Command not found
+tish error: #-2
+embox>
+-embox>
+x�[K-embox>
+��embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+-�����
+-�����: Command not found
+tish error: #-2
+embox>
+-d���cd�
+-d�: Command not found
+tish error: #-2
+embox>
+-H��
+-H: Command not found
+tish error: #-2
+embox>
+z�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+.�
+.: Command not found
+tish error: #-2
+embox>
+-
+-: Command not found
+tish error: #-2
+embox>
+Lee�it-e�@
+-�����: Command not found
+tish error: #-2
+embox>
+-e��
+-e: Command not found
+tish error: #-2
+embox>
+
+embox>
+-d���
+-d�: Command not found
+tish error: #-2
+embox>
+@�@v�v�
+tish error: #-22
+embox>
+@���dv�
+-������dv�: Command not found
+tish error: #-2
+embox>
+@���d@v�
+-������d: Command not found
+tish error: #-2
+embox>
+@���d�@v�
+-������d�@v: Command not found
+tish error: #-2
+embox>
+@cd���x�v�v�
+-������xv�v�: Command not found
+tish error: #-2
+embox>
+dY
+dY: Command not found
+tish error: #-2
+embox>
+@���d@v�v�
+-������d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+@&��U@i�v��U@i�v��
+���U: Command not found
+tish error: #-2
+embox>
+�dv�v�
+��v�v�: Command not found
+tish error: #-2
+embox>
+
+embox>�l��������������������������������
+�l��: Command not found
+tish error: #-2
+embox>
+@���@v�v�
+-�������d�@v�v�: Command not found
+tish error: #-2
+embox>
+v��
+v��: Command not found
+tish error: #-2
+embox>
+@���d@vcd׵��d
+���d: Command not found
+tish error: #-2
+embox>
+�kogout�u@������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

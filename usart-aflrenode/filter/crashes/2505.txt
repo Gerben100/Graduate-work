@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>x
+��[K[7Cembox>xe
+��[K[8Cembox>xei
+��[K[9Cembox>xei
+��[K[10Cembox>xei
+��[K[9Cembox>xei�
+��[K[10Cembox>xei�
+��[K[11Cembox>xei��
+��[K[12Cembox>xei���
+��[K[13Cembox>xei���s
+��[K[14Cembox>�[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+ ��
+��: Command not found
+tish error: #-2
+embox>
+��embox>
+ ��[K[10C�����������
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��expore�embox>
+�[K[8Crt@<@@@<@@@@@@;@O
+�rt@<@@@<@@@@@@;@O: Command not found
+tish error: #-2
+embox>
+t�x�ogot�no{�Gembox>
+�rt@<@@@<@@@@@@;@O[K77P";���embox>
+�rt@<@@@<@@@@@@;@O77P";���cOhtembox>
+�rt@<@@@<@@@@@@;@O77P";���cOhembox>
+�rt@<@@@<@@@@@@;@O77P";���cOrogot�no{�7embox>
+�[K[8C77
+�77: Command not found
+tish error: #-2
+embox>P";���embox>P";��[K[12Cdembox>P";��d[K[6Cembox>�P";��d[K[7Cembox>�P";��d[K[8Cembox>�eP";��d[K[9Cembox>�eXP";��d[K[10Cembox>�eX�P";��d[Kembox>�eX�tP";��d[Kembox>
+�77[K[10Cls"7�cdembox>
+�77ls"7�cd[Kembox>t
+�77ls"7�cd[K[7Cembox>tp
+�77ls"7�cd[K[8Cembox>tpo
+�77ls"7�cd[K[9Cembox>tpop
+�77ls"7�cd[K[10Cembox>tpop�
+�77ls"7�cd[Kembox>tpop�
+�77ls"7�cd[Kembox>tpop�
+�77ls"7�cd[Kembox>tpop�
+�77ls"7�cd[Kembox>�tpop�
+�77ls"7�cd[Kembox>��tpop�
+�77ls"7�cdembox>��ttpop�
+�77ls"7�cd
+��ttpop�: Command not found
+tish error: #-2
+embox>
+t�x^�htembox>
+t�x^�h[K[15Cembox>
+t�x^�[K[14Crogot�no{7embox>��ttpop�
+�77ls"7[K77eX�t7ls"7�cdembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+tpo�p7"!: Command not found
+tish error: #-2
+embox>�cdembox>�cd[K[6Cembox>t�cd[K
+t�: Command not found
+tish error: #-2
+embox>
+t�x��h�oexitgot�no�d{7embox>t�[K7pin7eX�t7ls"7�cdembox>[K[6C
+t�7pin7eX�t7ls"7: Command not found
+tish error: #-2
+embox>tpo�p7"7�cdembox>[K[6Cembox>[K[7C
+ttpo�p7"7: Command not found
+tish error: #-2
+embox>
+t�x��ytembox>
+t�x��yembox>
+t�x��rembox>
+t�x��got��embox>
+t�x��got�7eX�t7ls"7�cdembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tpo�p7"7: Command not found
+tish error: #-2
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+t�x��htrogot�no�777eX�t��������ogtuU�p7
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,303 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>�����1i
+�����1i: Command not found
+tish error: #-2
+embox>
+�
+embox>�������ls�����������embox>�������ls�����������[K[27C�embox>�������ls������������[K[29C�
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>tish[K[10C����
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���������ls�����������embox>���������ls�����������[K[28C˖i�[?5h[?5l
+embox>�xi
+�xi: Command not found
+tish error: #-2
+embox>
+�
+embox>���[?5h[?5l
+embox>����������s�embox>����������s[K[18C���i
+������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�1
+[K[8Cembox>�1i
+[K[9Cembox>�1ie
+[K[10Cembox>�1ie
+[K[11Cembox>�1ie
+[K[12Cembox>�1ie
+[K[13Cembox>�1ie 
+[K[14Cembox>�1ie ~
+[K[15C[?5h[?5l
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>�������ls���������exiti�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>�i
+�i: Command not found
+tish error: #-2
+embox>
+�
+embox>�������ls�����������embox>�������ls������������ij[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+�
+embox>��������ls$���������embox>��������ls$����������Riq[?5h[?5l
+embox>�Pi
+�Pi: Command not found
+tish error: #-2
+embox>
+�
+embox>�����������@@]@@@\@3exp@�@@@@?@@���embox>[K[48C�V�
+����: Command not found
+tish error: #-2
+embox>[?5h[?5l
+embox>�����������1i
+�����������1i: Command not found
+tish error: #-2
+embox>
+�
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+'�
+embox>@����������������@@@@@@`@@@@@-@@@@@?@/b@@=I@]
+@: Command not found
+tish error: #-2
+embox>@�@expM�@d@
+@�: Command not found
+tish error: #-2
+embox>
+'��
+(null): Command not found
+tish error: #-2
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>@@@?@
+@@@?@: Command not found
+tish error: #-2
+embox>
+'�@@
+(null): Command not found
+tish error: #-2
+embox>@@@@@@@@@@@@?@@@@@?@
+@@@@@@@@@@@@?@@@@@?@: Command not found
+tish error: #-2
+embox>
+'�
+�: Command not found
+tish error: #-2
+embox>@@@\d@exp@�@@@@?@
+@@@\d@exp@�@@@@?@: Command not found
+tish error: #-2
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>@@@\d@exp@�@@@@?@
+@@@\d@exp@�@@@@?@: Command not found
+tish error: #-2
+embox>
+'�9
+(null): Command not found
+tish error: #-2
+embox>exp@�@@@@?@@@@@?@
+exp@�@@@@?@@@@@?@: Command not found
+tish error: #-2
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>@@@\d@exp@�@@@@?@
+@@@\d@exp@�@@@@?@: Command not found
+tish error: #-2
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>�!��
+embox>@\d@exp@�@@@@?@
+embox>
+'�@
+(null): Command not found
+tish error: #-2
+embox>H@@\d@exp@�@@@@?@
+H@@\d@exp@�@@@@?@: Command not found
+tish error: #-2
+embox>
+'��@
+(null): Command not found
+tish error: #-2
+embox>@@@@@@@@\d@exp@�@@@@?@
+@@@@@@@@\d@exp@�@@@@?@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����@t
+���@: Command not found
+tish error: #-2
+embox>
+''�e
+: Command not found
+tish error: #-2
+embox>
+'�@�f�x�xQiie��u
+(null): Command not found
+tish error: #-2
+embox>
+'�O�?
+(null): Command not found
+tish error: #-2
+embox>
+'�g�����@
+@: Command not found
+tish error: #-2
+embox>
+h"
+(null): Command not found
+tish error: #-2
+embox>
+eW�d6d��
+@: Command not found
+tish error: #-2
+embox>
+�kk���k�f
+�kk���k�: Command not found
+tish error: #-2
+embox>
+@�@
+embox>�e��lsu
+�e��lsu: Command not found
+tish error: #-2
+embox>
+'�|�e��u
+(null): Command not found
+tish error: #-2
+embox>
+llogout��
+llogout��: Command not found
+tish error: #-2
+embox>
+A�665ls@@��@@@@@@@@@?J@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@@@@@\ees
+@ees: Command not found
+tish error: #-2
+embox>
+A�65lse=}}}�@@@@@@@@@?J@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@@@@@\@@ees
+@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+:�665ls@(�@@@@@@@@@[J@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@@@@@\@@ees
+@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls@@��@@@@@@@@@?J@o@@u
+@�@@@: Command not found
+tish error: #-2
+embox>@@@@@@@\@@ees
+@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls@?� @@?@e
+@�@@@@@@@@@@@@@@\@: Command not found
+tish error: #-2
+embox>@@@@@@ees
+@@@@@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls@@
+embox>o%i�[?5h[?5lexp@@9@\<@ees
+o%i�exp@@9@\<@ees: Command not found
+tish error: #-2
+embox>
+A�66ls@@��@@@@@@@@@?J@o@@e
+@?�: Command not found
+tish error: #-2
+embox>@@@@@@@\@@ees
+@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+ls665ls@@��@@@@@@@@@?J@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>@@@@@@@\@@ees
+@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A�665ls@@��@@@@@@@@@?J@o@@e
+@�@@@@?�: Command not found
+tish error: #-2
+embox>��@?@@@9@@@@@@@\@@ees
+��@?@@@9@@@@@@@\@@ees: Command not found
+tish error: #-2
+embox>
+A��y@@�@@@(@�?J@o@@��@@@@?�
+A�: Command not found
+tish error: #-2
+embox>@@?@@@@@@@@@@@\@@ees
+embox>
+A�@@@@656>6�665ls@@@@@@@@@@?J@�@@e@@@@
+A�@@@@656>6�665ls@@: Command not found
+tish error: #-2
+embox>@@@@@?@@@@656>6���lklllllogP@@$#:`@@@@@@\@@ex
+@: Command not found
+tish error: #-2
+embox>or�ees
+or�ees: Command not found
+tish error: #-2
+embox>
+A�565ls@@��@@@@@@@@@?J@o5P5ls@���@@@@@@@@@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ciembox>�c[K[9C
+�c: Command not found
+tish error: #-2
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+eclogout
+eclogout: Command not found
+tish error: #-2
+embox>
+Remembox>[K[6C�@���?exX@embox>�@���?exX[K[16C@NHc6656>6T�66F7��embox>tish[K[10C�@@embox>
+eclogout[K[15C
+eclogout: Command not found
+tish error: #-2
+embox>exembox>
+eclogout[K[15C6T@@@@@Qfxtort�����@embox>
+R[K[8Cembox>
+R[K[9Cciembox>
+Rc[K[10C
+R: Command not found
+tish error: #-2
+embox>
+Rxci�
+tish error: #-22
+embox>
+RXciembox>
+RXc[K[11C
+R: Command not found
+tish error: #-2
+embox>
+Rg�e[?5h[?5l
+Rg�e: Command not found
+tish error: #-2
+embox>
+Re�e�
+Re�e�: Command not found
+tish error: #-2
+embox>
+Qc
+embox>p!�
+p!: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+Uxit[?5h[?5l
+Uxit: Command not found
+tish error: #-2
+embox>
+W\�D[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>
+W\�D[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+W\�D: Command not found
+tish error: #-2
+embox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+embox>
+Re�Rea
+Re�Re: Command not found
+tish error: #-2
+embox>
+eil`+
+eil`+: Command not found
+tish error: #-2
+embox>
+[?5h[?5le��
+embox>
+Re���
+Re�: Command not found
+tish error: #-2
+embox>
+Re��[?5h[?5l
+Re��: Command not found
+tish error: #-2
+embox>
+
+pik: Command not found
+tish error: #-2
+embox>
+Ml�� 
+Ml��: Command not found
+tish error: #-2
+embox>
+[H[H[2J�
+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+Y��
+Re�Re��: Command not found
+tish error: #-2
+embox>
+Cllogout��
+Cllogout��: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

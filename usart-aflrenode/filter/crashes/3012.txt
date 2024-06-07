@@ -1,0 +1,147 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+@embox>
+[K[7Cp�embox>
+p[K[9C��outi
+p: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cembox>
+p[K[8C�e�tuti
+p�e�tuti: Command not found
+tish error: #-2
+embox>
+Zembox>
+[K[7Cembox>
+p�e�tuti[K[16Cp�
+embox>�
+embox>exp���embox>exp��[K[11Ce�xembox>exp��e�x[K[16Ci
+exp��e�: Command not found
+tish error: #-2
+embox>
+lm
+lm: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>��
+��[K[8Cembox>��
+��[K[9Cembox>��z
+��[K[10Cembox>��ze
+��[K[11Cembox>��zex
+��[K[12Cembox>��zexi
+��[K[13Cembox>��zexit
+��[K[14C
+��zexit: Command not found
+tish error: #-2
+embox>
+zembox>��zexit
+��[K[17C
+��zexit: Command not found
+tish error: #-2
+embox>
+embox>
+�z�5�z�5zz
+tish error: #-22
+embox>
+zz��
+tish error: #-22
+embox>
+�exportz�z
+�exportz�z: Command not found
+tish error: #-2
+embox>
+�z�(z
+�z�(z: Command not found
+tish error: #-2
+embox>
+�z�<~
+tish error: #-22
+embox>
+q$$$$$$cd=$$embox>
+[K
+tish error: #-22
+embox>
+�z�z
+tish error: #-22
+embox>
+�embox>
+[K
+tish error: #-22
+embox>
+embox>
+embox>�
+
+�: Command not found
+tish error: #-2
+embox>
+export�
+export�: Command not found
+tish error: #-2
+embox>
+Zr�]F���it��ex|�
+export�|�: Command not found
+tish error: #-2
+embox>
+d2�]
+tish error: #-22
+embox>
+�
+export��: Command not found
+tish error: #-2
+embox>
+�~xyxx
+�~x: Command not found
+tish error: #-2
+embox>
+Zr�\@r�]xiFetxi
+�: Command not found
+tish error: #-2
+embox>
+|�
+export�|�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Zxr�]�it�ex|�
+export�|�: Command not found
+tish error: #-2
+embox>
+Zr�|�
+r�|�: Command not found
+tish error: #-2
+embox>
+Zr7r�]F
+embox>�|�t"�!i
+�|: Command not found
+tish error: #-2
+embox>
+Zr�]FritF�it�ex|���]�e�|�
+�: Command not found
+tish error: #-2
+embox>
+Zr�]F�it��itex|�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

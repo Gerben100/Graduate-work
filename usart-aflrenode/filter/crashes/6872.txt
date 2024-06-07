@@ -1,0 +1,147 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���6�5@@@A\@@dxp@�2��^[?5h[?5l� Wk�
+���6: Command not found
+tish error: #-2
+embox>embox>[K[6C
+��+h��embox>
+��+h�[K[18Cembox>
+��+h�[K[6Cembox>e
+��+h�[K[7C
+e: Command not found
+tish error: #-2
+embox>
+embox>e
+�[K[9Cembox>e
+[K[8Cy/p/
+e: Command not found
+tish error: #-2
+embox>
+�iK�
+tish error: #-22
+embox>
+���6��@�2��^�+h��embox>
+���6��@�2��^�+h�[K[30C��^�+��embox>
+���6��@�2��^�+h���^�+�[K[38C���embox>
+���6��@�2��^�+h���^�+���[K[40C�e
+���6: Command not found
+tish error: #-2
+embox>
+���6�5embox>
+���6[K[11CSSSSSSSSSSSS1GSembox>
+���6SSSSSSSSSSSS1G[K[26C�SSSSS+[?5h[?5l��embox>
+���6SSSSSSSSSSSS1G�SSSSS+�[K[38C��e
+���6: Command not found
+tish error: #-2
+embox>
+pi�
+pi�: Command not found
+tish error: #-2
+embox>
+��e
+��e: Command not found
+tish error: #-2
+embox>
+l8s
+l8s: Command not found
+tish error: #-2
+embox>
+fc[
+fc[: Command not found
+tish error: #-2
+embox>
+�����5eÉi
+�����5eÉi: Command not found
+tish error: #-2
+embox>
+d�6exiDd�6exm
+d�6exiDd�6exm: Command not found
+tish error: #-2
+embox>
+�logout
+�logout: Command not found
+tish error: #-2
+embox>
+pin���da
+pin���: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+��exixi
+��exixi: Command not found
+tish error: #-2
+embox>
+�6exi
+pin���: Command not found
+tish error: #-2
+embox>
+��xi
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>E�exi
+E: Command not found
+tish error: #-2
+embox>
+���6ex 
+���6ex: Command not found
+tish error: #-2
+embox>
+���6e 
+���6e: Command not found
+tish error: #-2
+embox>
+���J�xi
+���J�xi: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+�
+embox>\
+embox>Be
+Be: Command not found
+tish error: #-2
+embox>
+�f8p^rt��
+tish error: #-22
+embox>
+s
+pin���: Command not found
+tish error: #-2
+embox>
+a\���!�
+a\��!�: Command not found
+tish error: #-2
+embox>
+@/
+tish error: #-22
+embox>
+e\� 
+pin���: Command not found
+tish error: #-2
+embox>
+logout/�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

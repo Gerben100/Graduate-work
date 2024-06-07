@@ -1,0 +1,62 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>`�665ls6@ls6@@embox>`�665ls6@ls6@@[K[20C��@@@@@@@@@?@@x@embox>`�665ls6@ls6@@��@@@@@@@@@?@@x@[K[37C��@@@@@@@@@?@@
+`�665ls6@ls6@@��@@@@@@@@@?@@: Command not found
+tish error: #-2
+embox>xei���ex
+embox>
+A�665ls6@@���@@@@@@@@@?@@x4i���ex
+A�665ls6@@: Command not found
+tish error: #-2
+embox>
+A�665ls6@@embox>
+A�665ls6@@[K[17C��@�@@@@@@?@@xei���ex
+A�665ls6@@��@�: Command not found
+tish error: #-2
+embox>
+Alogout�665ls6@@embox>
+Alogout�665ls6@@[K[23C��@@@X@@@@@?)@xei���ex
+Alogout�665ls6@@��@@@X@@@@@?)@xei: Command not found
+tish error: #-2
+embox>
+A�embox>
+A�[K[9Cembox>
+A�[K[9CRe6@@embox>
+A�Re6@@[K[15C��@�@@s6@@embox>
+A�Re6@@��@�@@s6@@��@�@@@@@@?@di���logoude�
+A�Re: Command not found
+tish error: #-2
+embox>
+A�665l��embox>
+A�665l��[K[17C��@@ @@@@@@?@�xyi���Xx
+A�665l�: Command not found
+tish error: #-2
+embox>
+Alogoyembox>
+A�665l�[K[14C6@���embox>
+A�665l�6@��[Kexit�@@@@ i@@@@@ embox>[K[34C@l@@@@ i@@@@@ i@loo
+A�665l�6@��exit�@@@@: Command not found
+tish error: #-2
+embox>goutx
+goutx: Command not found
+tish error: #-2
+embox>
+A�665ls6@@embox>
+A�665ls6@@[K[17C�@@@@@@@@@exitxei���ex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

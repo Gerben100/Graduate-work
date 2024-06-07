@@ -1,0 +1,217 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�l
+[K[9Cembox>�ls
+[K[10Cembox>�ls
+[K[11C
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>l
+[K[7Cembox>l>
+[K[8C
+l>: Command not found
+tish error: #-2
+embox>
+�w�embox>
+�w�[K[12Cembox>
+�w�[K[12C�=�======������������oexitnnnn
+tish error: #-22
+embox>
+�����ie|��exi�embox>
+�����ie|��exi�[K[6Cembox>�
+�����ie|��exi�[K[7Cembox>��
+�����ie|��exi�[K[8Cembox>��i
+�����ie|��exi�[K[9Cembox>��ix
+�����ie|��exi�[K[10Cembox>��ix
+�����ie|��exi�[K[11Cembox>��ix�
+�����ie|��exi�[K[12Cembox>��ix�
+�����ie|��exi�[K[13Cembox>��ix�x
+�����ie|��exi�[K[14Cembox>��ix�xQ
+�����ie|��exi�[K[15Cembox>��ix�xQi
+�����ie|��exi�[K[16Cembox>��ix�xQi
+�����ie|��exi�[K[17Cembox>��ix�xQii
+�����ie|��exi�[K[18Cembox>��ix�xQii
+�����ie|��exi�[K[19Cembox>��ix�xQii
+�����ie|��exi�[K[18Cembox>��ix�xQiiy
+�����ie|��exi�[K[19Cembox>��ix�xQiiye
+�����ie|��exi�[K[20Cembox>��ix�xQiiye�
+�����ie|��exi�[K[21Cembox>��ix�xQiiye�y
+�����ie|��exi�[K[22Cembox>��ix�xQiiye�ye
+�����ie|��exi�[K[23Cembox>��ix�xQiiye�ye�
+�����ie|��exi�[K[24Cembox>��ix�xQiiye�ye��
+�����ie|��exi�[K[25Cembox>��ix�xQiiye�ye��e
+�����ie|��exi�[K[26Cembox>��ix�xQiiye�ye��ex
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex�
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex��
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex���
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex���i
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex���ie
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex���iex
+�����ie|��exi�[Kembox>��ix�xQiiye�ye��ex���iexi
+�����ie|��exi�[K[34Cembox>��ix�xQiiye�ye��ex���iexit
+�����ie|��exi�[K[35Cembox>��ix�xQiiye�ye��ex���iexitt
+�����ie|��exi�[K[36Cembox>��ix�xQiiye�ye��ex���iexittn
+�����ie|��exi�[K[37C
+��ix: Command not found
+tish error: #-2
+embox>
+�w�xn�������,,,,,,,,,,,,,,,�oexi�nnnn
+tish error: #-22
+embox>
+��w�g���eixuwnnembox>
+��w�g���eixuwn[K[23C��������xn�����������
+��w�: Command not found
+tish error: #-2
+embox>
+�@����x e��embox>
+�@����x e��[K[6Cembox>
+�@����x e��[K[7Cembox>�
+�@����x e��[K[8Cembox>�
+�@����x e��[K[9Cembox>�
+�@����x e��[K[10C
+embox>w���embox>w���[K[15Cn�
+embox>
+�w�xnln
+tish error: #-22
+embox>
+�w�xn�������embox>
+[K[7C��cd�������exitnnnn
+��cd�������: Command not found
+tish error: #-2
+embox>
+�xn��������������������������oexitnnnn
+tish error: #-22
+embox>
+�w�xn�����������������������oex@nn
+tish error: #-22
+embox>
+�^�xn������ ����������������oexitnnnn
+tish error: #-22
+embox>
+�w�x�������������������oexitnnnn
+tish error: #-22
+embox>
+�w4�������oe��Gnn
+tish error: #-22
+embox>
+�w�i�#
+tish error: #-22
+embox>
+�w�iembox>
+�w�iembox>
+�w�iembox>
+�w�iembox>
+�w�iembox>
+�w�iembox>
+�w�icembox>
+�w�icdembox>
+�w�icdembox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4[?5h[?5lembox>[K[20Cembox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4embox>
+�w�icd4
+tish error: #-22
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>[K[7Cembox>[K[6Cembox>embox>�embox>�embox>�embox>�embox>�embox>�
+embox>
+pin�w�i�#D
+pin: Command not found
+tish error: #-2
+embox>
+|�
+|�: Command not found
+tish error: #-2
+embox>
+�w#��te/�x
+|�: Command not found
+tish error: #-2
+embox>
+�w�i�#
+tish error: #-22
+embox>
+�w�i �#
+tish error: #-22
+embox>
+�t
+�t: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�w�i�#3export
+tish error: #-22
+embox>
+��w�]�#@ 
+��w�]: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�$����
+�$����: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+�w���@77777777777777777777vv7
+tish error: #-22
+embox>
+cd�
+cd�: Command not found
+tish error: #-2
+embox>
+��������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

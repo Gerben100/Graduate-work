@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�lsembox>[K[6C
+embox>
+embox>[K[6C�i�embox>�i�[K[11C/�x
+embox>��ideembox>��ide[K[11C/embox>��ide/[K[6Cembox>��ide/[K[7C
+embox>
+embox>[K[6C����idembox>����id[K[13C/�x�ideembox>����id/�x�ide[K[20C/embox>����id/�x�ide/[K[6C
+��: Command not found
+tish error: #-2
+embox>
+���id�ideembox>
+���id�ide[K[18C/embox>
+���id�ide/[K[6Cembox>
+���id�ide/[K[7C
+embox>
+embox>
+[K[7C�@�
+embox>id^eembox>id^e[K[11C/�Vembox>��[K[8C�ideembox>���ide[K[12C0
+���ide0: Command not found
+tish error: #-2
+embox>
+9��id��eembox>
+9��id��e[K[17C/�xGW��embox>
+9��id��e/�xGW��[K[24Ceembox>
+9��id��e/�xGW��e[K[25C/embox>
+9��id��e/�xGW��e/[K[6Cembox>
+9��id��e/�xGW��e/[K[7C
+embox>
+embox>[K[6C��idembox>��id[K[12CI�xembox>���ide0[K[13C�ideembox>���ide0�ide[K[17C/embox>���ide0�ide/[K[6C[?5h[?5lembox>���ide0�ide/[K[6Cembox>����ide0�ide/[K[7Cembox>����ide0�ide/[K[8Cembox>�����ide0�ide/[K[9Cembox>�����ide0�ide/[K[10Cembox>��i���ide0�ide/[K[11Cembox>��id���ide0�ide/[K[12Cembox>��id[K[12CI�xembox>��[K[8C�i
+���i: Command not found
+tish error: #-2
+embox>deembox>de[K[8C/embox>de/[K[6C[?5h[?5l
+de/: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C�@���������embox>[K[6Cie�ieembox>ie�ie[K[16C/
+embox>de/[K[9Clogout
+de/logout: Command not found
+tish error: #-2
+embox>
+idembox>
+id[K[9C/�xembox>de/logout[K[15C�/embox>de/logout�/[K[6Cembox>ode/logout�/[K[7Cembox>orde/logout�/[K[8Cembox>ortde/logout�/[K[9Cembox>ort@de/logout�/[K[10Cembox>ort@@de/logout�/[K[11Cembox>ort@@6de/logout�/[K[12Cembox>ort@@6@de/logout�/[K[13Cembox>ort@@6de/logout�/[K[12Cembox>ort@@6de/logout�/[K[13Cembox>ort@@6de/logout�/[K[14Cembox>ort@@6de/logout�/[K[15Cembox>ort@@6de/logout�/[K[16Cembox>ort@@6de/logout�/[K[15Cembox>ort@@6Ade/logout�/[K[16Cembox>ort@@6Ade/logout�/[K[17Cembox>ort@@6Aede/logout�/[K[18Cembox>ort@@6Ae[K[18C/embox>ort@@6Ae/[K[6Cembox>dort@@6Ae/[K[7C
+dort@@6: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[6C/�xembox>dort@@6[K[13C�i
+dort@@6�i: Command not found
+tish error: #-2
+embox>embox>/embox>/embox>/embox>e/embox>e[K[8C/embox>e/[K[6Cembox>e/[K[7Cembox>e/[K[8C
+embox>
+embox>[K[6C��idembox>��id[K[12Cidembox>��idid[K[15C/�xembox>dort@@6�i[K[15Cxembox>dort@@6[K[13C�idlogouteembox>dort@@6�idlogoute[K[23C/embox>dort@@6�idlogoute/embox>dort@@6�idlogoute/
+embox>
+��!idembox>
+��!id[K[14C/�xembox>dort@@6�ix[K[16C�idgembox>dort@@6�ix�idg[K[20C/pin
+dort@@6�ix�idg/pin: Command not found
+tish error: #-2
+embox>
+embox>
+embox>[K[6C�id�xeembox>�id�xe[K[14C/�xembox>dort@@6�ix�idg/pin[Klembox>dort@@6�ix[K����
+dort@@6�ix��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�����������������������/embox>[Kembox>[K
+embox>
+dedeembox>
+dede
+dede: Command not found
+tish error: #-2
+embox>
+;�x�id��id�id/��/
+embox>
+�������������������������G
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,61 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x1ie;Аembox>x1ie;А[K[29Cembox>x1ie;��[K[30C
+x1ie: Command not found
+tish error: #-2
+embox>
+�]it�~��xxq
+embox>pi�xls�xor
+pi�xls�xor: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[8C
+embox>lssxxexpor
+lssxxexpor: Command not found
+tish error: #-2
+embox>
+exitpiembox>
+exitpi[K[13C
+embox>yexpembox>yexp[K[10C
+embox>xxexpor
+xxexpor: Command not found
+tish error: #-2
+embox>
+exitpin�`expxeembox>xxexpor[K[13C/�xembox>lssxxexpor[K[18C>6@@embox>lssxxexpor>6@@[K[22C��@@@@@exp@@@@@\@@ex@@@@@
+lssxxexpor>6@@��@@@@@exp@@@@@\@@ex@@@@@: Command not found
+tish error: #-2
+embox>\@@exp@@@@@\export@@exx@?@@@@@@@@@@@@��embox>\@@exp@@@@@\export@@exx@?@@@@@@@@@@@@��@H@?
+\@@exp@@@@@\export@@exx: Command not found
+tish error: #-2
+embox>
+exi�i�pin______@@@p
+exi�i�pin______@@@p: Command not found
+tish error: #-2
+embox>
+exitpin�xexpxeembox>[K[26C/��embox>[K[29C>6@@embox>[K[33C�@+@@@@ @@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[10Cembox>[K[11Cembox>[K[12C
+embox>iembox>i[Kembox>[K[21C@
+exitpin�xexpxe@: Command not found
+tish error: #-2
+embox>@@@@H@?
+@@@@H@?: Command not found
+tish error: #-2
+embox>
+exitpin�xexpxe/�x>6@@��@@@@@@ @?@@@@@@@exp@�d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

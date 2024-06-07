@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+dxp�6656><@?�embox>
+dxp�6656><@?[K[19C��@@@@@a@@�:@embox>
+dxp�6656><@?��@@@@@a@@�:@[K[6Cembox>@
+dxp�6656><@?��@@@@@a@@�:@[K[7Cembox>@e
+dxp�6656><@?��@@@@@a@@�:@[K[8Cembox>@ex
+dxp�6656><@?��@@@@@a@@�:@[K[9Cembox>@exp
+dxp�6656><@?��@@@@@a@@�:@[K[10Cembox>@expo
+dxp�6656><@?��@@@@@a@@�:@[K[11Cembox>@expor
+dxp�6656><@?��@@@@@a@@�:@[K[12Cembox>@exporu
+dxp�6656><@?��@@@@@a@@�:@[K[13Cembox>@exporu@
+dxp�6656><@?��@@@@@a@@�:@[K[14Cembox>@exporu@@
+dxp�6656><@?��@@@@@a@@�:@[K[15Cembox>@exporu@@@
+dxp�6656><@?��@@@@@a@@�:@[K[16Cembox>
+dxp�6656><@?��@@@@@a@@�:@[K[6Cembox>\
+dxp�6656><@?��@@@@@a@@�:@[K[7Cembox>\@
+dxp�6656><@?��@@@@@a@@�:@[K[8Cembox>\@@
+dxp�6656><@?��@@@@@a@@�:@[K[9Cembox>\@@e
+dxp�6656><@?��@@@@@a@@�:@[K[10Cembox>\@@e�
+dxp�6656><@?��@@@@@a@@�:@[K[11Cembox>\@@e��
+dxp�6656><@?��@@@@@a@@�:@[K[12C
+\@@e��: Command not found
+tish error: #-2
+embox>���������������������@e
+���������������������@e: Command not found
+tish error: #-2
+embox>
+bxp�`@@@><@?�embox>
+bxp�`@@@><@?[K[19C�665#@Q@?g@@@�:@?@expor����embox>[K[6C\@@m]p
+\@@m]p: Command not found
+tish error: #-2
+embox>N�@@Q]"C�embox>\@@m]p[K[12C6a@@@\ @e
+\@@m]p: Command not found
+tish error: #-2
+embox>
+dxp�66:@'@ehporu@@@
+embox>\@@e\ @e
+\@@e\: Command not found
+tish error: #-2
+embox>
+dxp�6656><exit@?�embox>
+dxp�6656><exit@?��@@@@@a@@�:@'@expo�u@@@embox>[K[6C\@
+\@: Command not found
+tish error: #-2
+embox>@��@@Q@?@@@@�u@@@embox>[K[6C\@@g@@@@\ @e
+\@@: Command not found
+tish error: #-2
+embox>
+\A@e]p@�@@Q@?@@@@g@@@@�:@';exporu@@@embox>[K[6Cdxp�66
+dxp�66: Command not found
+tish error: #-2
+embox>56><3?�embox>56><3?[K[12C��@@@@@a@@\ @e
+56><3?��@@@@@a@@: Command not found
+tish error: #-2
+embox>
+dxp�6656><B?���@@O@@@@poa��@d@@a@���ru@
+56><3?��@@@@@a@@poa��@: Command not found
+tish error: #-2
+embox>e
+e: Command not found
+tish error: #-2
+embox>
+dxp�6656><b?���aaaauaa@@�:p�6656><@?���a�
+dxp�6656><b?��aaaauaa@@: Command not found
+tish error: #-2
+embox>:p�6aaporu@X@\@@e]p@�@@
+embox>
+dxp�6656><@?���@@@@@a@@�:@'@exporu@@@d@@e]p
+dxp�6656><@?��@@@@@a@@: Command not found
+tish error: #-2
+embox>@�@@Q@?@@@@g@@�\ @e
+@�@@Q@?@@@@: Command not found
+tish error: #-2
+embox>
+dxp�6656><@?���@@@&@a@@�:@'@e�p666666662666@
+dxp�6656><@?��@@@&@a@@: Command not found
+tish error: #-2
+embox>@e_p@�@�@@@@@a@@@a@@6666666666666666666�p66666
+@e_p@�@�@@@@@a@@: Command not found
+tish error: #-2
+embox>6662666@@e_p@�66666e6656><@?���@@@&@a@@�:@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

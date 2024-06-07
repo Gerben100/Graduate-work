@@ -1,0 +1,109 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xe�embox>�xe�[K[10Cembox>�xe�[K[11Cembox>�xe�[K[12Cembox>�xe�y�[K[13Cembox>�xe�yy�[K[14Cembox>�xe�yye�[K[15Cembox>�xe�yye��[K[16C
+�: Command not found
+tish error: #-2
+embox>�(ypinwpin([?5h[?5l�h��ye
+�(ypinwpin(�h��ye: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+embox>[K[6C�x��������eiembox>�x��������ei[K[18Cembox>�x��������ei[K[19Cembox>�x��������e�i[K[20Cembox>�x��������e�yi[K[21Cembox>�x��������e�yei[K[22Cembox>�x��������e�ye�i[K[23Cembox>�x��������e�ye��i[K[24Cembox>�x��������e�ye��ii[K[25Cembox>�x��������e�ye��ii[K[26Cembox>�x��������e�ye��ii[K[25Cembox>�x��������e�ye��ili[K[26Cembox>�x��������e�ye��ilsi[K[27Cembox>�x��������e�ye��ilsi[K[28Cembox>�x��������e�ye��ils�i[K[29Cembox>�x��������e�ye��ils�yi[K[30Cembox>�x��������e�ye��ils�yei[K[31C
+�: Command not found
+tish error: #-2
+embox>
+logout1
+logout1: Command not found
+tish error: #-2
+embox>
+embox>
+logout1[K[15Cembox>
+logout[K[14Cd�xembox>
+logoutd�x[K[6Cembox>
+logoutd�x[K[7Cembox>�
+logoutd�x[K[8Cembox>�y
+logoutd�x[K[9Cembox>�ye
+logoutd�x[K[10Cembox>�ye�
+logoutd�x[K[11Cembox>�ye��
+logoutd�x[K[12Cembox>�ye��e
+logoutd�x[K[13Cembox>�ye��e
+logoutd�x[K[14Cembox>�ye��e
+logoutd�x[K[15Cembox>�ye��e
+logoutd�x[K[16Cembox>�ye��e
+logoutd�x[K[6Cembox>�ye��e
+logoutd�x[K[7Cembox>y�ye��e
+logoutd�x[K[8Cembox>ye�ye��e
+logoutd�x[K[9C
+embox>
+embox>[K[6C�xeiembox>�xei[K[10Cembox>�xei[K[11Cembox>�xe�i[K[12Cembox>�xe�^i[K[13Cembox>�xe�^ei[K[14Cembox>�xe�^e�i[K[15Cembox>�xe�^e��i[K[16Cembox>�xe�^e��ei[K[17Cembox>�xe�^e��ei[K[18Cembox>�xe�^e��ei[K[17Cembox>�xe�^e��ei[K[18Cembox>�xe�^e��e�i[K[19Cembox>�xe�^e��e�yi[K[20Cembox>�xe�^e��e�yei[K[21C
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C����>]embox>�[K[7C��embox>���[K[6Cembox>���[K[7Cembox>���[K[8Cembox>����[K[9Cembox>����[K[10Cembox>�x���[K[11Cembox>�xq���[K[12Cembox>�xqm���[K[13Cembox>�xqm���[K[14C
+embox>
+embox>[K[6C�exitn>embox>�exitn>[K[13Caembox>�[K[7C�
+��: Command not found
+tish error: #-2
+embox>��xQ�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>q�[K[9Cembox>q�[K[6Cembox>q�[K[7Cembox>q�[K[8Cembox>qq�[K[9Cembox>qq�[K[10Cembox>qxq�[K[11Cembox>qx\q�[K[12Cembox>qx\q�[K[13Cembox>qx\xq�[K[14Cembox>qx\x\q�[K[15Cembox>qx\x\iq�[K[16Cembox>qx\x\iq�[K[17C
+embox>
+embox>[K[6C��'embox>��[K[8C��b@��embox>�[K[7C��A�
+߀�A�: Command not found
+tish error: #-2
+embox>
+embox>[Kexit�>]embox>߀�A�[K��embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14C
+embox>
+�embox>
+[K��� ]�xQU�
+��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>[K[6C~embox>[K[6C��KQi
+embox>
+�l�xpocNrt
+�l�xpocNrt: Command not found
+tish error: #-2
+embox>
+���>]���cd�xQi
+�����cd: Command not found
+tish error: #-2
+embox>
+���
+embox>
+����-]�
+embox>
+��d
+�: Command not found
+tish error: #-2
+embox>
+��cdc
+tish error: #-22
+embox>
+d%i�do
+d%i�do: Command not found
+tish error: #-2
+embox>
+ei����euuuuuupinuuuupinu�c
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

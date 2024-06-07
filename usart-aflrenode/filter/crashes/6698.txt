@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�c
+embox>
+��������������������������������
+��������������������������������: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[6Cembox>
+���[K[7Cembox>�
+���[K[8Cembox>�d
+���[K[9Cembox>
+��������������������������������[K[39C!embox>
+��������������������������������![K[40Cembox>[K[6C�ls
+�ls: Command not found
+tish error: #-2
+embox>
+�$ n$embox>
+�$ n$[K[13Cwembox>
+�$ n$w[K[14Cembox>
+�$ n$[K[13Cembox>
+�$ n$[K[13C
+�$: Command not found
+tish error: #-2
+embox>
+��$ $wembox>
+��$ $w[K[14C�$ $embox>
+��$ $w�$ $[K[19Cembox>
+��$ $w�$ $[K[19Cembox>
+��$ $w�$ $[K[19C
+��$: Command not found
+tish error: #-2
+embox>
+��$ <embox>
+��$ <[K[13Cwembox>
+��$ <w[K[15Cembox>
+��$ <w[K[15C
+��$: Command not found
+tish error: #-2
+embox>
+��exit$$embox>
+��exit$$[K[15Cwembox>
+��exit$$w[K[16Cembox>
+��exit$$w[K[16Cembox>
+��exit$$w[K[16C
+��exit$$w: Command not found
+tish error: #-2
+embox>
+��$��$embox>
+��$��$[K[13C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+llllllllyÐorD��embox>
+llllllllyÐorD��embox>�
+llllllllyÐorD��embox>�
+llllllllyÐorD��embox>�o
+llllllllyÐorD��embox>�or
+llllllllyÐorD��embox>�or�
+llllllllyÐorD��embox>�or�l
+llllllllyÐorD��embox>�or�l*
+llllllllyÐorD��embox>�or�l*l
+llllllllyÐorD��embox>�or�l*ll
+llllllllyÐorD��embox>�or�l*lll
+llllllllyÐorD��embox>�or�l*lll�
+llllllllyÐorD��embox>�or�l*lll�l
+llllllllyÐorD��embox>�or�l*lll�ll
+llllllllyÐorD��embox>�or�l*lll�lll
+llllllllyÐorD��embox>�or�l*lll�lll
+llllllllyÐorD��embox>�or�l*lll�lllp
+llllllllyÐorD��embox>�or�l*lll�lllpi
+llllllllyÐorD��embox>�or�l*lll�lllpin
+llllllllyÐorD��embox>�or�l*lll�lllpinllllllllyÐorD��embox>�or�l*lll�lllpin~llllllllyÐorD��embox>�or�l*lll�lllpin~hllllllllyÐorD��embox>�or�l*lll�lllpin~hellllllllyÐorD��embox>�or�l*lll�lllpin~heillllllllyÐorD��
+�or�l*lll�lll: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>~he
+~he: Command not found
+tish error: #-2
+embox>
+~e��~heo
+~e��~heo: Command not found
+tish error: #-2
+embox>
+@@@��@�
+@@@�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+��~h@w
+��: Command not found
+tish error: #-2
+embox>
+0
+0: Command not found
+tish error: #-2
+embox>
+ogoui
+@@@�ogoui: Command not found
+tish error: #-2
+embox>
+���
+embox>
+embox>CRo�inW@[?5h[?5l~hei
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

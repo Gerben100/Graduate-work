@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>k�uj
+k�uj: Command not found
+tish error: #-2
+embox>
+�
+embox>8I8
+embox>8I8t�embox>8I8t[K[12C
+8I8t: Command not found
+tish error: #-2
+embox>
+s@lslk�uj
+s@lslk�uj: Command not found
+tish error: #-2
+embox>
+c�jj�embox>
+c�jj[K[11C��jjjjjjjj
+c�jj��jjjjjjjj: Command not found
+tish error: #-2
+embox>
+Ul
+embox>�s�j
+�s�j: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>����
+[K[10Cembox>�����
+[K[11C
+�����: Command not found
+tish error: #-2
+embox>
+c�s�k��k
+c�: Command not found
+tish error: #-2
+embox>
+iti�
+it: Command not found
+tish error: #-2
+embox>
+cls�f�uj
+c: Command not found
+tish error: #-2
+embox>
+\%i�[?5h[?5liZZZZZZZZZZZZZZZZZZZZZZZZZZZZ��
+\%i�iZZZZZZZZZZZZZZZZZZZZZZZZZZZZ: Command not found
+tish error: #-2
+embox>
+wBembox>
+w[K%Fortxpuj
+w%Fortxpuj: Command not found
+tish error: #-2
+embox>
+c�ujexplslk�ujexport
+c: Command not found
+tish error: #-2
+embox>
+cT�Lk�uj
+c: Command not found
+tish error: #-2
+embox>
+clslk�fY
+c: Command not found
+tish error: #-2
+embox>
+clslk�o�
+c: Command not found
+tish error: #-2
+embox>
+�k������)�
+�k������)�: Command not found
+tish error: #-2
+embox>
+exportlgtj{�tc
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

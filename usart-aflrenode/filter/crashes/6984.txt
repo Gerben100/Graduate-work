@@ -1,0 +1,51 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�M�lt��
+�M�lt��: Command not found
+tish error: #-2
+embox>
+embox>
+�[�`k&,&&� &&#&&&&&&&&&&&&&�&&&&&t&&t&logou&&G�
+�[�`k&,&&�: Command not found
+tish error: #-2
+embox>&&��s�ls�lt
+&&��s�ls�lt: Command not found
+tish error: #-2
+embox>
+embox>
+hinP
+hinP: Command not found
+tish error: #-2
+embox>
+�M���embox>
+�M��[K[11Cc����@jeeFeeeeeee
+�M��c����@jeeFeeeeeee: Command not found
+tish error: #-2
+embox>
+�M�eeeeeeee�@jeeBeeeeeee
+�M�eeeeeeee�@jeeBeeeeeee: Command not found
+tish error: #-2
+embox>
+�M�� logout�@���eeeeeee
+�M��: Command not found
+tish error: #-2
+embox>
+�M���embox>
+�M��e�����@YeeFeezeN�M���embox>[Ke�����@YeeFeezeNeee
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

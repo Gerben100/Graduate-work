@@ -1,0 +1,79 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�箯�����������������
+�箯�����������������: Command not found
+tish error: #-2
+embox>
+�s:^suuuuuu�embox>
+�s:^suuuuuu[K[20C�bs�uu�uuut�ut�
+�s:^suuuuuu�bs�uu�uuut�ut�: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[14C������embox>
+�s:^suuuuuu�bs�uu�uuut�ut�[K[35C�����
+�s:^suuuuuu�bs�uu�uuut�ut�: Command not found
+tish error: #-2
+embox>
+ ����ϖ�����embox>
+ ����ϖ�����[K[6Cembox>�
+ ����ϖ�����[K[7Cembox>�
+ ����ϖ�����[K[8Cembox>�
+ ����ϖ�����[K[9C
+�: Command not found
+tish error: #-2
+embox>
+ertpoexedexp
+ertpoexedexp: Command not found
+tish error: #-2
+embox>
+Kembox>
+ertpoexedexp[K[20C
+ertpoexedexp: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���xeVdexwxxxxx�xxxxxe�itxxxxx�xx�p
+���xeVdexwxxxxx�xxxxxe�itxxxxx�xx�p: Command not found
+tish error: #-2
+embox>
+[?5h[?5llogout\kykyp
+logout\kykyp: Command not found
+tish error: #-2
+embox>
+_pembox>
+_pembox>
+_dpembox>
+_depembox>
+_de_pembox>
+_de_pp
+_de_pp: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ee�exo
+ee�exo: Command not found
+tish error: #-2
+embox>
+eed_Jdeetpeit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

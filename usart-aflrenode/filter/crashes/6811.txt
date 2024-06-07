@@ -1,0 +1,71 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>pembox>passwd[K[12C7sttttlllllllllllllllllllllllllttt
+passwd7sttttlllllllllllllllllllllllllttt: Command not found
+tish error: #-2
+embox>ttttttttt�tt�@tgtdttVtt�lstttttttttdt
+ttttttttt�tt�: Command not found
+tish error: #-2
+embox>tVttttttttt[?5h[?5lttttt�tt�@tgo�
+tVtttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7embox>tVtttttttttttttt�tt�ttttttdttVtt�lsttttt
+tVtttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>ttttdttVttttttttttttttD�tt�@tgo�
+ttttdttVttttttttttttttD�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p7tVtttttttttttttt�tt�@tgo��embox>[K[44C
+embox>p7
+passwd7: Command not found
+tish error: #-2
+embox>tVtttttttttttttt�tt�@tgo��lstt
+embox>tttttttdttlstttttttttdttVttt
+tttttttdttlstttttttttdttVttt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��d�
+��d�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p[?5h[?5l7sttttttdttVttlsttttt
+p7sttttttdttVttlsttttt: Command not found
+tish error: #-2
+embox>tttt�sVttttttttttttttt�tt�@Zgo�
+tttt: Command not found
+tish error: #-2
+embox>
+tttttdttexitVtuloglsogo@��
+tttttdttexitVtuloglsogo: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5l7:ttttttdttVtt�ls
+embox>ttttdttVssssstttttttttttttttttttdttVtt�ltt�t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,55 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>2?8M8< t1embox>2?8M8< t1[K[6Cembox>2?8M8< t1[K[7Cembox>82?8M8< t1[K[8Cembox>8Y2?8M8< t1[K[9Cembox>8YZ2?8M8< t1[K[10Cembox>8YZx2?8M8< t1[K[11Cembox>8YZx82?8M8< t1[K[12Cembox>8YZx8c2?8M8< t1[K[13Cembox>8YZx8c82?8M8< t1[K[14Cembox>8YZx8c882?8M8< t1[K[15Cembox>8YZx8c88V2?8M8< t1[K[16Cembox>8YZx8c88VZ2?8M8< t1[K[17Cembox>8YZx8c88VZ82?8M8< t1[K[18Cembox>8YZx8c88VZ8<2?8M8< t1[K[19Cembox>8YZx8c88VZ8<82?8M8< t1[K[20Cembox>8YZx8c88VZ8<882?8M8< t1[K[21Cembox>8YZx8c88VZ8<8882?8M8< t1[K[22Cembox>8YZx8c88VZ8<88882?8M8< t1[K[23Cembox>8YZx8c88VZ8<8888[2?8M8< t1[K[24Cembox>8YZx8c88VZ8<8888[02?8M8< t1[K[25C
+embox>
+xxx�dexp< lembox>
+xxx�dexp< [K[18Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C88@8M8<88888888N888[8
+: Command not found
+tish error: #-2
+embox>
+xxx�dexpembox>[K[6Cembox>[K[6C�embox>[K[6C��88@8M8�;88888888888[8
+��: Command not found
+tish error: #-2
+embox>
+xxd�dexpembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C8k@8M8<8d�dexpembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C88@8M8<8embox>��[K[8C8
+��8: Command not found
+tish error: #-2
+embox>888888 K8S[8
+888888: Command not found
+tish error: #-2
+embox>
+xxx�dexpembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C88D8M8<888888888888[8
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C*expo888embox>*expo888[K[6Cembox>8*expo888[K[7Cembox>8[*expo888[Kembox>8[:*expo888[K[9C
+8[:: Command not found
+tish error: #-2
+embox>
+xlsxh�de�p
+%embox>[K[6Cembox>[K[6Ccd
+embox>88/8M8<�h�Mexp<�embox>88/8M8<�h�Mexp<[K[21Cembox>88/8M8<�h�Mexp<[K[22C88888888
+88/8M8<�h�Mexp<: Command not found
+tish error: #-2
+embox>[O
+[O: Command not found
+tish error: #-2
+embox>
+xxx��exij8[8
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

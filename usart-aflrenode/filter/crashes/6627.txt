@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[[�-i�
+[[�-i�: Command not found
+tish error: #-2
+embox>
+xx��embox>
+xx��[K[6Cembox>xx��[K[6Cembox>cxx��[K[7Cembox>cdxx��[K[8Cembox>cdxx��[K[9Cembox>cdxx��[K[10Cembox>cdxx��[K[11Cembox>cdxx��[K[12Cembox>cdxx��[K[13Cembox>cdxx��[K[14Cembox>cdxx��[K[15Cembox>cdxx��[K[16Cembox>cdexx��[K[17Cembox>cdexxx��[K[18Cembox>cdexpxx��[K[19Cembox>cdexpxx��[K[20Cembox>cdexpx�x��[K[21Cembox>cdexpx�x��[K[27Cembox>[K[6C
+embox>
+xxeeexeeeembox>
+xxeeexeee[K[6Cembox>xxeeexeee[K[6Cembox>cxxeeexeee[K[7Cembox>cdxxeeexeee[K[8Cembox>cdxxeeexeee[K[9Cembox>cdxxeeexeee[K[10Cembox>cdxxeeexeee[K[11Cembox>cdxxeeexeee[K[12Cembox>cdxxeeexeee[K[13Cembox>cdxxeeexeee[K[14Cembox>cdxxeeexeee[K[15Cembox>cdxxeeexeee[K[16Cembox>cdexxeeexeee[K[17Cembox>cdexxxeeexeee[K[18Cembox>cdexpxxeeexeee[K[19Cembox>cdexpoxxeeexeee[K[20Cembox>cdexpoxxeeexeee[K[36C[H[H[2Jembox>cdexpoxxeeexeee[K[36C�� embox>cdexpoxxeeexeee�� [K[6Cembox>dexpoxxeeexeee�� [K[6Cembox>cdexpoxxeeexeee�� [K[7C
+cd: Command not found
+tish error: #-2
+embox>dexitexpoembox>dexitexpo[K[22Cembox>dexitexpo[K[23C�� !embox>dexitexpo�� [K[26Cembox>dexitexpo�� [K[26C
+d: Command not found
+tish error: #-2
+embox>
+ !embox>
+ ![K[6Cembox>
+ ![K[7Cembox>�
+ ![K[8Cembox>�
+ ![K[9Cembox>��
+ ![K[10Cembox>���
+ ![K[11Cembox>����
+ ![K[12Cembox>����
+ ![K[13Cembox>����
+ ![K[14Cembox>![K[6Cembox>![K[7C
+!: Command not found
+tish error: #-2
+embox>
+xxeeeembox>
+xxeee[K[6Cembox>xxeee[K[6Cembox>cxxeee[K[7Cembox>cdxxeee[K[8Cembox>cdxxeee[K[9Cembox>cd�xxeee[K[10Cembox>cd�xxeee[K[11Cembox>cd�xxeee[K[12Cembox>cd�xxeee[K[13Cembox>cd�xeee[K[13Cembox>cd�xeee[K[14Cembox>cd�xeee[K[15Cembox>cd�exeee[K[16Cembox>cd�exxeee[K[17Cembox>cd�expxeee[K[18Cembox>cd�expoxeee[K[19Cembox>cd�expoxeee[K[27Cembox>cd�expoxeee[K[26Cembox>cd�expoxeee[K[27C�� !embox>cd�expoxeee�� [K[30C
+cd: Command not found
+tish error: #-2
+embox>
+embox>
+xxeeeembox>
+xxeee[K[6Cembox>xxeee[K[6Cembox>cxxeee[K[7Cembox>cdxxeee[K[8Cembox>cdxxeee[K[9Cembox>cdxxeee[K[10Cembox>cdxxeee[K[11Cembox>cd'xxeee[K[12Cembox>cd'xxeee[K[13Cembox>cd'xxeee[K[14Cembox>cd'xxeee[K[15Cembox>cd'xxeee[K[16Cembox>cd'exxeee[K[17Cembox>cd'exxxeee[K[18Cembox>cd'expxxeee[K[19Cembox>cd'expoxxeee[K[20Cembox>cd'expoxxeee[K[29Cembox>cd'expoxxeee[K[28Cembox>cd'expoxxeee[K[29C�� !embox>cd'expoxxeee�� ![K[6Cembox>cd'expoxxeee�� ![K[6Cembox>cd'expoxxeee�� ![K[34C
+cd: Command not found
+tish error: #-2
+embox>
+embox>
+expobt
+expobt: Command not found
+tish error: #-2
+embox>
+e�
+e�: Command not found
+tish error: #-2
+embox>
+xxeeeembox>
+xxeee[K[6Cembox>xxeee[K[6Cembox>cxxeee[K[7Cembox>cdxxeee[K[8Cembox>cdxxeee[K[9Cembox>cdxxeee[Kembox>cdxxeee[K[11Cembox>cdxxeee[K[12Cembox>cdxxeee[K[13Cembox>cdxxeee[K[14Cembox>cdxxeee[Kembox>cdxxeee[Kembox>cdexxeee[Kembox>cdexxxeee[Kembox>cdexpxxeeeembox>cdexpoxxeeeembox>cdexpoxxeee���� !�embox>cdexpoxxeee���� 
+cd: Command not found
+tish error: #-2
+embox>
+embox>
+x,embox>[K[6C!
+!: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@?@�@@@@#@embox>
+@@@@@@@@@?@�@@@@#@embox>@
+@@@@@@@@@?@�@@@@#@embox>@@
+@@@@@@@@@?@�@@@@#@embox>@@e
+@@@@@@@@@?@�@@@@#@embox>@@ex
+@@@@@@@@@?@�@@@@#@
+@@ex: Command not found
+tish error: #-2
+embox>
+{�
+{�: Command not found
+tish error: #-2
+embox>
+x�
+tish error: #-22
+embox>
+x��xx
+embox>xxxxxYx
+xxxxxYx: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+c
+embox>
+��������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

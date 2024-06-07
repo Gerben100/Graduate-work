@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10Cqppp@pppxpNplspNp"spp���ppp����ppp
+embox>��embox>��[K[8Cq��
+��q��: Command not found
+tish error: #-2
+embox>"�pLcxpcpLccdxpccexit�pxpNp��
+(null): Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[K[19CpN�l��N
+adduser.confpN�l��N: Command not found
+tish error: #-2
+embox>
+��@�embox>
+adduser.confpN�l��N[K[26C@
+adduser.confpN�l��N@: Command not found
+tish error: #-2
+embox>
+[?5h[?5l dx~�
+dx~�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+JJQ@JjHJ
+JJQ@JjHJ: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+JJQ@JjHJ[K[15C9embox>
+JJQ@JjHJ9[K[6Cembox>
+JJQ@JjHJ9[K[7Cembox>�
+JJQ@JjHJ9[K[8Cembox>�
+JJQ@JjHJ9[K
+embox>
+[?5h[?5l��������������������������������e�zdx��
+JJQ@JjHJdx��: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+JJQ@JjHJdx��[KPyr[V�
+JJQ@JjHJdx��Pyr[V�: Command not found
+tish error: #-2
+embox>
+export
+export: Command not found
+tish error: #-2
+embox>
+�
+embox>
+�
+embox>
+export�
+export�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lMdxU
+MdxU: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

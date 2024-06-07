@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@@@@@��
+@@@@@��: Command not found
+tish error: #-2
+embox>
+c�embox>@@@@@��[K[13Cembox>@@@@@��[K[6Cembox>@@@@@@��[K[7Cembox>@@@@@@@��[K[8Cembox>@@@@@@@��[K[9Cembox>@@�@@@@@��[K[10Cembox>@@��@@@@@��[K[11Cembox>@@��c@@@@@��[K[12Cembox>@@��cx@@@@@��[K[13Cembox>@@��cx�@@@@@��[K[14Cembox>@@��cx�1@@@@@��[K[15Cembox>@@��cx�16@@@@@��[K[16Cembox>@@��cx�16F@@@@@��[K[17Cembox>@@��cx�16F6@@@@@��[K[18Cembox>@@��cx�16F6>@@@@@��[K[19Cembox>@@��cx�16F6>d@@@@@��[K[20Cembox>@@��cx�16F6>dl@@@@@��[K[21Cembox>@@��cx�16F6>dl@@@@@��[K[22Cembox>@@��cx�16F6>dlc@@@@@��[K[23Cembox>@@��cx�16F6>dlcx@@@@@��[K[24Cembox>@@��cx�16F6>dlcx�@@@@@��[K[25Cembox>@@��cx�16F6>dlcx�6@@@@@��[K[26Cembox>@@��cx�16F6>dlcx�66@@@@@��[K[27Cembox>@@��cx�16F6>dlcx�66F@@@@@��[K[28Cembox>@@��cx�16F6>dlcx�66F6@@@@@��[K[29Cembox>@@��cx�16F6>dlcx�66F6>@@@@@��[K[30Cembox>@@��cx�16F6>dlcx�66F6>d@@@@@��[K[31Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@��[K[32Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[33Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[34Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[35Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[36Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[6Cembox>@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[7Cembox>@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[8Cembox>@@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[9Cembox>@@@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[10Cembox>@@@�@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[11Cembox>@@@��@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[12Cembox>@@@��T@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[13Cembox>@@@��T@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[14Cembox>@@@��T@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[15Cembox>@@@��T@@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[16Cembox>@@@��T@�@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K[17Cembox>@@@��T@�@@��cx�16F6>dlcx�66F6>dT@@@@@@��[Kembox>@@@��T@�@@��cx�16F6>dlcx�66F6>dT@@@@@@��[K
+embox>@@@��y�i@��y�i
+@@@��y�i@��y�i: Command not found
+tish error: #-2
+embox>
+@@66666666
+@@66666666: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>e
+�[K[7Cembox>en
+�[K[8Cembox>en4
+�[K[9Cembox>en4\
+�[K[10C
+en4\: Command not found
+tish error: #-2
+embox>
+`&@5@���� 
+`&@5@����: Command not found
+tish error: #-2
+embox>
+�BQ�
+�BQ�: Command not found
+tish error: #-2
+embox>
+@@j4
+@@j4: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@@@��
+@@@�: Command not found
+tish error: #-2
+embox>
+@embox>
+@embox>
+@embox>
+@Aembox>
+@A@embox>
+@A@@
+@: Command not found
+tish error: #-2
+embox>
+@@@�@�
+@@@�@�: Command not found
+tish error: #-2
+embox>
+>��
+>��: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+@
+@@@�@�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@@oiT
+@@@�@�: Command not found
+tish error: #-2
+embox>
+@@[?5h[?5lwx�~����d������
+embox>
+@ 
+tish error: #-22
+embox>
+e@@@@@@@@@�@@@@@@@,@@@J@@@@@@@@@@@@@@@@@tx@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

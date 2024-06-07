@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l~l~�:x�embox>l~l~�:x[K[13C��embox>l~l~�:x�[K[14C�:x
+l~l~�:x��:x: Command not found
+tish error: #-2
+embox>
+|�embox>
+|[K[8CutFcree�
+embox>eee�eeeem
+embox>
+�n~lq~xlq~x
+�: Command not found
+tish error: #-2
+embox>
+m�
+m�: Command not found
+tish error: #-2
+embox>
+l~l~�~l��t��:1�
+l~l~�~l��: Command not found
+tish error: #-2
+embox>
+|embox>
+|[K[10Ct
+|: Command not found
+tish error: #-2
+embox>
+lls\l~�~l~�embox>
+lls\l~�~l~[K[17C�t��:x
+lls\l~�~l~�t��:x: Command not found
+tish error: #-2
+embox>
+`[?5h[?5l�s
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�����eembox>
+�����e[K[12Cembox>
+�����ye[K[13Cembox>
+�����yee[K[14Cembox>
+�����ye�e[K[15Cembox>
+�����ye��e[K[16C
+�����ye��e: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+^embox>
+^[K[6Cembox> 
+^[K[7Cembox> 
+^[K[8Cembox> r
+^[K[9C
+r: Command not found
+tish error: #-2
+embox>
+�dltsb�lgowtl
+r: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+iexporo
+iexporo: Command not found
+tish error: #-2
+embox>
+l_\ou��cdao\ouu�
+yl
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,140 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d�����d���embox>d�����d��[K[15C�
+d�����d���: Command not found
+tish error: #-2
+embox>
+����pinembox>
+����pi[K[13C_
+����pi_: Command not found
+tish error: #-2
+embox>
+�xitembox>
+�xi[K[10Cll��
+�xill: Command not found
+tish error: #-2
+embox>
+�nt�
+�n: Command not found
+tish error: #-2
+embox>
+cdkt�
+cd: Command not found
+tish error: #-2
+embox>
+''''''''''''''''''''''''''''''embox>
+'''''''''''''''''''''''''''''[K[37C�i
+: Command not found
+tish error: #-2
+embox>
+�xit�embox>
+'''''''''''''''''''''''''''''�iembox>
+cd[K[9C'embox>
+�n[K[9Cembox>
+�xill[K[12Cembox>
+����pi_[K[14Cembox>d�����d���[K[16Clog@t�porw
+d�����d���log@t�porw: Command not found
+tish error: #-2
+embox>
+�x�
+�x�: Command not found
+tish error: #-2
+embox>
+�xiembox>
+�x�lo��
+�x�lo��: Command not found
+tish error: #-2
+embox>
+�dz��loCki
+�x�lo��: Command not found
+tish error: #-2
+embox>
+embox>
+Es[?5h[?5l
+Es: Command not found
+tish error: #-2
+embox>
+�xitlit�lo
+�xilit�lo: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�\ tl�export
+�\: Command not found
+tish error: #-2
+embox>
+logoutot�
+logoutot�: Command not found
+tish error: #-2
+embox>
+iz@i@��
+iz@i@��: Command not found
+tish error: #-2
+embox>
+�b�
+�x�lo��b�: Command not found
+tish error: #-2
+embox>
+���lmgou�
+��: Command not found
+tish error: #-2
+embox>
+�xm��lopt�
+�xm�lopt�: Command not found
+tish error: #-2
+embox>
+llQ
+llQ: Command not found
+tish error: #-2
+embox>
+�xitog^t�
+�xiog^t�: Command not found
+tish error: #-2
+embox>
+d@��lof���lo`
+d: Command not found
+tish error: #-2
+embox>
+[?5h[?5ly�gohoty�
+y�gohoy�: Command not found
+tish error: #-2
+embox>
+�xotlog�t�
+�xolog�t�: Command not found
+tish error: #-2
+embox>
+�k�got�
+�k�got�: Command not found
+tish error: #-2
+embox>
+�exitlogot
+�exilogot: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+�
+embox>
+9999989999�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

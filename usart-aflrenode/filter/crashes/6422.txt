@@ -1,0 +1,58 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�rt[?5h[?5l�t@@;c�656>%VQelogrout@@@�@@56r@@c@@O@@9\g
+�rt�t@@;c�656>%VQelogrout@@: Command not found
+tish error: #-2
+embox>�embox>[K[6C�embox>[K[6C@@�?w@@@c?exp@embox>�rt�t@@;c�656>%VQelogrout@@[K[34C56r@�6@@@�?@@@export@`K��
+�rt�t@@;c�656>%VQelogrout@@56r: Command not found
+tish error: #-2
+embox>``�bcd�ex&56r@@c666@�rt[?5h[?5l�t@@;c�656>%VQel
+``�: Command not found
+tish error: #-2
+embox>ogrout@@embox>``�[K[9C@�@@56r@@c@@O@@9\g�embox>``�@�@@56r@@c@@O@@9\g[K[29C�embox>[K[6C@@�?w@@@c?exp@embox>�rt�t@@;c�656>%VQelogrout@@56r5
+�rt�t@@;c�656>%VQelogrout@@56r5: Command not found
+tish error: #-2
+embox>6r@�6@@@�?@@@export@`K`�``�bcd@����@@@iF[?5h[?5l
+6r: Command not found
+tish error: #-2
+embox>&�@embox>&�[K[8C L@@Z@
+&�: Command not found
+tish error: #-2
+embox>
+�rt[?5h[?5l�t@@;c�656>%VQelogrout@@@�@@56r@@c@@O@@9\g
+&�: Command not found
+tish error: #-2
+embox>�embox>[K�embox>[K@@�?w@@@c?exp@embox>&�[K56r@�688[88888logout@@@�?@
+&�56r: Command not found
+tish error: #-2
+embox>@@export@```�``�bcd�ex&56r@@c666@@����@@
+@@export@```�: Command not found
+tish error: #-2
+embox>@iF[?5h[?5l&�@6>%VQelogrout@@@�@@56r@@c@@O@@9\g�
+&�56r: Command not found
+tish error: #-2
+embox>�@@�?w@@@c?exp@56r@�6@@@�?@@@export@```�``
+&�56r56r: Command not found
+tish error: #-2
+embox>�bcd�ex&56r@@c6 L@@@@
+�: Command not found
+tish error: #-2
+embox>
+�rt[?5h[?5l�t@@;c�656>%6@@@�?@@@export@```�56r@@c666@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

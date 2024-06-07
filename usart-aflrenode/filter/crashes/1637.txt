@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p@d�
+p@d�: Command not found
+tish error: #-2
+embox>
+��ex exz0embox>
+��ex [K[12Cembox>p@d�[K[10Cp}p[ppp
+p@d�: Command not found
+tish error: #-2
+embox>ex�������p��H@�@@@���embox>ex�������p��H@�@@@��[K[26C@@
+ex�������p��H@�@@@��@@: Command not found
+tish error: #-2
+embox>o@@
+o@@: Command not found
+tish error: #-2
+embox>
+��ex euuuu���embox>
+��ex euuuu��[K[19Ce
+embox>embox>o@@[K[9C�embox>o@@�[K[6Cembox>xo@@�[K[7Cembox>x o@@�[K[8Cembox>x eo@@�[K[9Cembox>x exo@@�[K[10Cembox>x exio@@�[K[11Cembox>x exi0o@@�[K[12Cembox>x exi0o@@�[K[13Cembox>x exi0�o@@�[K[14Cembox>x exi0�o@@�[K[6Cembox>�x exi0�o@@�[K[7Cembox>�px exi0�o@@�[K[8Cembox>�pwx exi0�o@@�[K[9Cembox>�pwx exi0�o@@�[K[10Cembox>�pwx exi0�o@@�[K[9Cembox>�pwex exi0�o@@�[K[10Cembox>�pwexx exi0�o@@�[K[11Cembox>�pwexpx exi0�o@@�[K[12Cembox>�pwexpjx exi0�o@@�[K[13C
+�pwexpjx: Command not found
+tish error: #-2
+embox>
+��exexp�������h
+��exexp�������h: Command not found
+tish error: #-2
+embox>
+exp�x�jt
+exp�x�jt: Command not found
+tish error: #-2
+embox>
+��ex exi0embox>
+exp�x�jt[Kpppembox>
+exp�x�jtpp[Kp}pppembox>[K[22Cpexpembox>[K[27C
+exp�x�jtpp: Command not found
+tish error: #-2
+embox>
+ppepp��ex ex++?++++++i0embox>[K[17Cp}Mpembox>[K[15Cp}ppxp�
+exp�x�jt: Command not found
+tish error: #-2
+embox>
+po
+po: Command not found
+tish error: #-2
+embox>
+p�exi0embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>
+popmp[?5h[?5lexi0
+po: Command not found
+tish error: #-2
+embox>
+embox>[K�ex eexpembox>[K
+�ex: Command not found
+tish error: #-2
+embox>
+��exexip}pppppexp
+�ex: Command not found
+tish error: #-2
+embox>
+���ex exi0p}pppppexp
+�ex: Command not found
+tish error: #-2
+embox>
+�xIIII�IIcd>IIIIIIIIIIII�II�xe_expot�p
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

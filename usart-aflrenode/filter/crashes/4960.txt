@@ -1,0 +1,170 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���embox>��[K[8C��e@_@@@
+����e@_@@@: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9C��e@@�ou��
+embox>�@i
+�@i: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9C�f7@@@@@@@logou��
+embox>�@i
+�@i: Command not found
+tish error: #-2
+embox>
+��ogou��
+embox>�@i
+�@i: Command not found
+tish error: #-2
+embox>
+�embox>�@i[K[9Cembox>����e@_@@@[K[16CW�embox>[K[6C
+embox>
+exit�embox>�@i[K[9Cddq
+�@iddq: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[6Cembox>
+[K[6C
+tish error: #-22
+embox>
+�Ud
+�Ud: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+�embox>
+�Ud[K[11C�embox>[K[6C
+embox>
+�embox>
+�Ud[K[11C�
+�Ud�: Command not found
+tish error: #-2
+embox>
+�exportc��
+�exportc��: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+Td�embox>[K[6C
+embox>
+e�p�opp
+e�p: Command not found
+tish error: #-2
+embox>
+ embox>
+e�p[Kdd�embox>[K
+embox>
+��Z@@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+��逿%\�@
+��逿%\�@: Command not found
+tish error: #-2
+embox>
+�d@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+&@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+�)�@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+�
+embox>�O
+�: Command not found
+tish error: #-2
+embox>
+�lsG
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+���
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+����@
+embox>�2
+�2: Command not found
+tish error: #-2
+embox>
+����
+!: Command not found
+tish error: #-2
+embox>
+cd
+embox>��
+embox>
+����d�����
+�@: Command not found
+tish error: #-2
+embox>
+@s79?dA 3|�Aee�
+@s79?d: Command not found
+tish error: #-2
+embox>
+@s�@d9e3|Q6@@@H@@��@?@��@
+embox>�@eM�
+�@eM�: Command not found
+tish error: #-2
+embox>
+@s69@dA\@@e3|Q6@@�@@6@?�@�A\P@ee�
+�@�A\P@ee�: Command not found
+tish error: #-2
+embox>
+@s69@dA\@@e3|Q6dA\@@e3|Q6@@@@6@?�@@@@6@?�@@�
+@s69@d: Command not found
+tish error: #-2
+embox>A\P@e��
+A\P@e��: Command not found
+tish error: #-2
+embox>
+@s69@dA\e@@�Ae�
+@s69@d: Command not found
+tish error: #-2
+embox>
+@\P@ee�
+@\P@ee�: Command not found
+tish error: #-2
+embox>
+@s69e
+embox>
+@s69@d�A\@@e3|;6@@+6@?�@@�A\P@ee�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

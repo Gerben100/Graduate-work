@@ -1,0 +1,101 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�1embox>�1[K[6Cembox>�1[K[7Cembox>��1[K[8Cembox>�x�1[K[9Cembox>�xx�1[K[10Cembox>�xx��1[K[11Cembox>�xx�1�1[K[12Cembox>�xx��1[K[11Cembox>�xx��1[K[12Cembox>�xx��1[K[13C
+embox>
+�1embox>
+�[K[8C�xXxx�x
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8Cxxembox>
+�x[K[11C���xxxxxxxembox>
+�x���xxxxxx[K[20Cxxxxxxxxxxxxxxxxxxxxxxxzxxxx
+�: Command not found
+tish error: #-2
+embox>xxxxxxxembox>xxxxxx[K[12CxxxxxxxxxxxxxxxxxxxxxxxzxxxxX
+xxxxxx: Command not found
+tish error: #-2
+embox>
+�1~��wxXxxpx
+�1~��wxXxxpx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8CxxXxeeembox>
+�xxXxe[K[15C�@@
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8CxxXxeee@@@?_xee�cx�6�e�e@@@?_xp!��embox>
+�xxXxeee@@@?_xee�cx�6�e�e@@@?_xp!��[K[47C�@c6>6
+�: Command not found
+tish error: #-2
+embox>T@6656>XT@embox>T@6656>XT@[K[17C�@@
+T@: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8CWxXxeee@@@?_xee�cx�6�66>6T@embox>
+�WxXxeee@@@?_xee�cx�6�66>6T@[K[6Cembox>�
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@d
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6�
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6�6
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6�6\
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6�6\@
+�WxXxeee@@@?_xee�cx�6�66>6T@embox>��@@@@dx�6�6\@@
+�WxXxeee@@@?_xee�cx�6�66>6T@
+��@@@@dx�6�6\@@: Command not found
+tish error: #-2
+embox>@@@?_xrrrrrrrrrroeeeeee�ee�cxXxeee@@@?_xee�yx�6�
+@@@?_xrrrrrrrrrroeeeeee�ee�cxXxeee@@@?_xee�yx�6�: Command not found
+tish error: #-2
+embox>66>6T@embox>66>6T@[K[6Cembox>�66>6T@[K[7Cembox>��66>6T@[K[8Cembox>��@66>6T@[K[9Cembox>��@@66>6T@[K[10Cembox>��@@@66>6T@[K[11Cembox>��@@@@66>6T@[K[12Cembox>��@@@@d66>6T@embox>��@@@@dx66>6T@embox>��@@@@dx�66>6T@embox>��@@@@dx�p66>6T@embox>��@@@@dx�pi66>6T@embox>��@@@@dx�pin66>6T@embox>��@@@@dx�pin\66>6T@embox>��@@@@dx�pin\@66>6T@embox>��@@@@dx�pin\@@66>6T@embox>��@@@@dx�pin\@@@66>6T@embox>��@@@@dx�pin\@@@@66>6T@embox>��@@@@dx�pin\@@@@@66>6T@embox>��@@@@dx�pin\@@@@@66>6T@embox>��@@@@dx�pin\@@@@@?66>6T@embox>��@@@@dx�pin\@@@@@?_66>6T@embox>��@@@@dx�pin\@@@@@?_x66>6T@embox>��@@@@dx�pin\@@@@@?_xr66>6T@embox>��@@@@dx�pin\@@@@@?_xrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQ66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrr66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrro66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroe66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroee66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeee66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeed66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeede66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeedee66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeedee�66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeedee�e66>6T@embox>��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeedee�ee66>6T@
+��@@@@dx�pin\@@@@@?_xrrrQrrrrrroeeedee�ee66>6T@: Command not found
+tish error: #-2
+embox>�cx�6�6\@@@@@?_xp!��embox>�cx�6�6\@@@@@?_xp!���@c6>ls6T@6656>embox>�cx�6�6\@@@@@?_xp!���@c6>ls6T@6656>�6�6\
+�cx�6�6\@@@@@?_xp!��: Command not found
+tish error: #-2
+embox>@@@@@?_xp!��embox>@@@@@?_xp!���@c6>6T@6656>6T@embox>[K[37C�@@
+@@@@@?_xp!��: Command not found
+tish error: #-2
+embox>
+�1embox>
+�xxXxeee@@@?_�ee�cx�6�66>6T@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+��T@: Command not found
+tish error: #-2
+embox>�@@
+�@@: Command not found
+tish error: #-2
+embox>
+�1xxXgeee@@@?_xee�cx�6�*6>6T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

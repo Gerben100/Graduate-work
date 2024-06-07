@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+d��
+tish error: #-22
+embox>
+ecexRitpOOO�OOOO�Rvrt
+ecexRitpOOO�OOOO: Command not found
+tish error: #-2
+embox>
+embox>
+ecexRitpOOO�OOOO[K[23C�[?5h[?5l��embox>
+ecexRitpOOO�OOOO��[K[25C
+ecexRitpOOO�OOOO��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>��!!��!��!!�!t�t[?5h[?5lembox>
+ecexRitpOOO�OOOO��[K[25Cembox>
+ecexRitpOOO�OOOO��[K[6Cembox>�
+ecexRitpOOO�OOOO��[K[7Cembox>��
+ecexRitpOOO�OOOO��[K[8Cembox>��i
+ecexRitpOOO�OOOO��[K[9Cembox>��id
+ecexRitpOOO�OOOO��[K[10Cembox>��id
+ecexRitpOOO�OOOO��[K[11Cembox>��id�
+ecexRitpOOO�OOOO��[K[12Cembox>��id��
+ecexRitpOOO�OOOO��[K[13Cembox>��id���
+ecexRitpOOO�OOOO��[K[14Cembox>��id���[?5h[?5l
+ecexRitpOOO�OOOO��[K[15C
+��id: Command not found
+tish error: #-2
+embox>
+embox>��id[K[10C
+
+embox>SSSdP
+SSSd: Command not found
+tish error: #-2
+embox>
+
+embox>xxexport�xi�x{cccp
+xxexport�xi�x{cccp: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C
+embox>xxe_port�x
+xxe_port�x: Command not found
+tish error: #-2
+embox>
+embox>xxe_port�x[Kx{cccp
+xxe_port�xx{cccp: Command not found
+tish error: #-2
+embox>
+
+embox>xxedpor
+embox>xx�xpot�xiqx{_logoutccp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

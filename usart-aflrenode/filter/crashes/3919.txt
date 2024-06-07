@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>j
+embox>Nï¿½
+embox>
+embox>{exitï¿½{ï¿½33{ï¿½
+{exitï¿½: Command not found
+tish error: #-2
+embox>
+s
+tish error: #-22
+embox>
+jembox>
+j[K[6Cembox>ï¿½
+j[K[7C
+ï¿½: Command not found
+tish error: #-2
+embox>
+j #{N{3ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@d÷‡‡‡ï¿½ï¿½ï¿½ï¿½ï¿½
+j: Command not found
+tish error: #-2
+embox>
+j
+embox>ï¿½${3{3ï¿½ï¿½
+embox>
+ï¿½embox>
+ï¿½[K[6Cembox>
+ï¿½[K[7Cembox>w
+ï¿½[K[8Cembox>wp
+ï¿½[K[9Cembox>wpL
+ï¿½[K[10Cembox>wpLr
+ï¿½[K[11Cembox>wpLrt
+ï¿½[K[12Cembox>wpLrte
+ï¿½[K[13Cembox>wpLrtec
+ï¿½[K[14Cembox>wpLrtecd
+ï¿½[K[15Cembox>wpLrtecdx
+ï¿½[K[16Cembox>wpLrtecdxi
+ï¿½[K[17Cembox>wpLrtecdxiï¿½
+ï¿½[K[18Cembox>wpLrtecdxiï¿½ï¿½
+ï¿½[K[19Cembox>wpLrtecdxiï¿½ï¿½x
+ï¿½[K[20Cembox>wpLrtecdxiï¿½ï¿½xt
+ï¿½[K[21Cembox>wpLrtecdxiï¿½ï¿½xtï¿½
+ï¿½[K[22Cembox>wpLrtecdxiï¿½ï¿½xtï¿½y
+ï¿½[K[23Cembox>wpLrtecdxiï¿½ï¿½xtï¿½ys
+ï¿½[K[24Cembox>wpLrtecdxiï¿½ï¿½xtï¿½ysï¿½
+ï¿½[K[25Cembox>wpLrtecdxiï¿½ï¿½xtï¿½ysï¿½ï¿½
+ï¿½[K[26C
+embox>
+j
+embox>Wï¿½ï¿½ï¿½[?5h[?5lï¿½embox>Wï¿½ï¿½ï¿½[K[10CRoBBRoï¿½i
+Wï¿½ï¿½ï¿½RoBBRoï¿½i: Command not found
+tish error: #-2
+embox>
+jï¿½ï¿½Roï¿½logouti
+jï¿½ï¿½Roï¿½logouti: Command not found
+tish error: #-2
+embox>
+W
+embox>W[H[H[2Jembox>W[K[7Cembox>[K[21Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[28C
+embox>ï¿½bRoï¿½i
+ï¿½bRoï¿½i: Command not found
+tish error: #-2
+embox>
+j
+embox>@ï¿½ï¿½it$ï¿½[?5h[?5lï¿½j[?5h[?5lcï¿½osi
+@ï¿½ï¿½it$ï¿½ï¿½j: Command not found
+tish error: #-2
+embox>
+j
+embox>q[H[H[2Jembox>q[Kembox>[Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K
+embox>ï¿½BRoï¿½i
+ï¿½BRoï¿½i: Command not found
+tish error: #-2
+embox>
+j
+
+embox>W[H[H[2Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+embox>ï¿½
+embox>
+vï¿½V[H[H[2Jï¿½ï¿½ï¿½
+embox>dï¿½i
+embox>
+K
+embox>W[H[H[2Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+embox>ï¿½8Roï¿½i
+ï¿½8Roï¿½i: Command not found
+tish error: #-2
+embox>
+j
+embox>W[H[H[2Jï¿½ï¿½ï¿½ï¿½
+embox>ï¿½@Roï¿½i
+ï¿½@Roï¿½i: Command not found
+tish error: #-2
+embox>
+jyx
+jyx: Command not found
+tish error: #-2
+embox>
+jï¿½[H[H[2Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë¤€
+embox>ï¿½BRoï¿½i
+ï¿½BRoï¿½i: Command not found
+tish error: #-2
+embox>
+jï¿½
+jï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½pin[H[H[2Jï¿½ï¿½7ï¿½7ï¿½[?5h[?5lï¿½Bfoi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

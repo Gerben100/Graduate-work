@@ -1,0 +1,337 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l{lsi
+l{lsi: Command not found
+tish error: #-2
+embox>
+lslWi
+lslWi: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+c�i
+c�: Command not found
+tish error: #-2
+embox>
+�c�
+�c�: Command not found
+tish error: #-2
+embox>
+lslsembox>
+lsls[K[11C[?5h[?5lPPPPPPPPPPPembox>
+lslsPPPPPPPPPPP[K[6Cembox>
+lslsPPPPPPPPPPP[K[7Cembox>P
+lslsPPPPPPPPPPP[K[8Cembox>PP
+lslsPPPPPPPPPPP[K[9Cembox>PPP
+lslsPPPPPPPPPPP[K[10Cembox>PPP�
+lslsPPPPPPPPPPP[K[11Cembox>PPP�P
+lslsPPPPPPPPPPP[K[12Cembox>PPP�PP
+lslsPPPPPPPPPPP[K[13Cembox>PPP�PPP
+lslsPPPPPPPPPPP[K[14Cembox>PPP�PPPP
+lslsPPPPPPPPPPP[K[15Cembox>PPP�PPPPP
+lslsPPPPPPPPPPP[K[16Cembox>PPP�PPPPPP
+lslsPPPPPPPPPPP[K[17Cembox>PPP�PPPPPPP
+lslsPPPPPPPPPPP[K[18Cembox>PPP�PPPPPPPP
+lslsPPPPPPPPPPP[K[19Cembox>PPP�PPPPPPPPP
+lslsPPPPPPPPPPP[K[20Cembox>PPP�PPPPPPPPP1
+lslsPPPPPPPPPPP[K[21Cembox>PPP�PPPPPPPPP1�
+lslsPPPPPPPPPPP[K[22Cembox>PPP�PPPPPPPPP1�I
+lslsPPPPPPPPPPP[K[23Cembox>PPP�PPPPPPPPP1�IP
+lslsPPPPPPPPPPP[K[24Cembox>PPP�PPPPPPPPP1�IPP
+lslsPPPPPPPPPPP[K[25Cembox>PPP�PPPPPPPPP1�IPPP
+lslsPPPPPPPPPPP[K[26Cembox>PPP�PPPPPPPPP1�IPPPP
+lslsPPPPPPPPPPP[K[27Cembox>PPP�PPPPPPPPP1�IPPPPP
+lslsPPPPPPPPPPP[K[28Cembox>PPP�PPPPPPPPP1�IPPPPPP
+lslsPPPPPPPPPPP[K[29Cembox>PPP�PPPPPPPPP1�IPPPPPPP
+lslsPPPPPPPPPPP[K[30C
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[7Cembox>P[K[8Cembox>PP[K[9Cembox>PPP[K[10Cembox>PPPP[K[11Cembox>PPPPP[K[12Cembox>PPPPPP[K[13Cembox>PPPPPPP[K[14Cembox>PPPPPPPP[K[15Cembox>PPPPPPPPO[K[16Cembox>PPPPPPPPOP[K[17Cembox>PPPPPPPPOPP[K[18Cembox>PPPPPPPPOPPP[K[19Cembox>PPPPPPPPOPPPP[K[20Cembox>PPPPPPPPOPPPP1[K[21Cembox>PPPPPPPPOPPPP1�[K[22Cembox>PPPPPPPPOPPPP1�P[K[23Cembox>PPPPPPPPOPPPP1�PP[K[24C
+embox>
+lsZsembox>
+lsZs[K[11Cpin[?5h[?5lPPPPPPPPembox>
+lsZspinPPPPPPPP[K[6Cembox>
+lsZspinPPPPPPPP[K[7Cembox>P
+lsZspinPPPPPPPP[K[8Cembox>PP
+lsZspinPPPPPPPP[K[9Cembox>PPP
+lsZspinPPPPPPPP[K[10Cembox>PPP�
+lsZspinPPPPPPPP[K[11Cembox>PPP�P
+lsZspinPPPPPPPP[K[12Cembox>PPP�PP
+lsZspinPPPPPPPP[K[13Cembox>PPP�PPP
+lsZspinPPPPPPPP[K[14Cembox>PPP�PPPP
+lsZspinPPPPPPPP[K[15Cembox>PPP�PPPPP
+lsZspinPPPPPPPP[K[16Cembox>PPP�PPPPPP
+lsZspinPPPPPPPP[K[17Cembox>PPP�PPPPPPP
+lsZspinPPPPPPPP[K[18Cembox>PPP�PPPPPPPP
+lsZspinPPPPPPPP[K[19Cembox>PPP�PPPPPPPPP
+lsZspinPPPPPPPP[K[20Cembox>PPP�PPPPPPPPPJ
+lsZspinPPPPPPPP[K[21Cembox>PPP�PPPPPPPPPJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJJJ
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJJJ_
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJJJ_J
+lsZspinPPPPPPPPembox>PPP�PPPPPPPPPJJJJJJJJJJJJJ_JJ
+lsZspinPPPPPPPP
+embox>JJJJJJJOJ1�PPPPPPP1�PP
+JJJJJJJOJ1�PPPPPPP1�PP: Command not found
+tish error: #-2
+embox>
+lslsembox>
+lsls[K[?5h[?5lPPPPPPPPPPPembox>
+lslsPPPPPPPPPPPembox>
+lslsPPPPPPPPPPPembox>P
+lslsPPPPPPPPPPPembox>PP
+lslsPPPPPPPPPPPembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30C
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>embox>[Kembox>[Kembox>P[Kembox>PA[Kembox>PAP[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24C
+embox>
+lslsembox>
+lsls[K[?5h[?5lPPPPPPP����embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30C
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>embox>[Kembox>[Kembox>P[Kembox>PP[Kembox>PPP[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24C
+embox>
+lslsembox>
+lsls[K[?5h[?5lPPPPPPPPPPP
+embox>w�xP�XPPPPPPPPPPPP1�P�PP
+w�xP: Command not found
+tish error: #-2
+embox>PPPPPPPP
+PPPPPPPP: Command not found
+tish error: #-2
+embox>
+lslsembox>
+lsls[?5h[?5lPPPPPPPPpin�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+p�ppp: Command not found
+tish error: #-2
+embox>
+lsls[?5h[?5lPPPPPPPPP[?5h[?5lPPPPPPPPP
+embox>PPPPPPPPPPPPP1�PP
+embox>
+lsls[?5h[?5lP�PPPPPPPPP
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>
+embox>
+ls[s[?5h[?5lPPPPPPPPPPP
+embox>w�x_
+w�x_: Command not found
+tish error: #-2
+embox>
+embox>
+lsls[?5h[?5lPPPPPPPQPP
+embox>PP
+PP: Command not found
+tish error: #-2
+embox>
+lsls[?5h[?5lPPPPPPP2PP
+embox>w�xP
+w�xP: Command not found
+tish error: #-2
+embox>
+embox>
+lsl[?5h[?5lPdPP�w�xPP
+embox>PPPPPO1�PPPPPPPP�w�xPP
+embox>
+lsexport���{
+lsexport���{: Command not found
+tish error: #-2
+embox>
+cd@w�exit[?5h[?5lslW�
+w�xP: Command not found
+tish error: #-2
+embox>
+ls|sxt|sxt�������
+PPPPPPPP�������: Command not found
+tish error: #-2
+embox>
+l������
+w�xPt�����: Command not found
+tish error: #-2
+embox>
+lslls���
+w�xPt: Command not found
+tish error: #-2
+embox>
+�3exls���
+w�xPt3exls���: Command not found
+tish error: #-2
+embox>
+lssxt�����
+w�xPtt�����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+llslsx t����
+w�xPtt����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ŋ�|
+ŋ�|: Command not found
+tish error: #-2
+embox>
+��Y
+embox>
+]-
+]-: Command not found
+tish error: #-2
+embox>
+K�`
+K�: Command not found
+tish error: #-2
+embox>
+Kexit��
+K: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+M9
+M: Command not found
+tish error: #-2
+embox>
+
+embox>K
+embox>
+_ 
+_: Command not found
+tish error: #-2
+embox>
+K                          
+K: Command not found
+tish error: #-2
+embox>
+m�mmmmmmmmmPmmmm�mmmmmmMmm6mmmmemmmmmls0
+w�xPtmm: Command not found
+tish error: #-2
+embox>
+@
+>w�xPt: Command not found
+tish error: #-2
+embox>
+K# 
+K: Command not found
+tish error: #-2
+embox>
+lsk�XssssssssssxeMp
+lsk�XssssssssssxeMp: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+ls^xeMp
+ls^: Command not found
+tish error: #-2
+embox>
+ls_
+ls_: Command not found
+tish error: #-2
+embox>
+dxMuh_Me
+d: Command not found
+tish error: #-2
+embox>
+lsxem�[?5h[?5l
+l: Command not found
+tish error: #-2
+embox>
+�xeeMUslMU
+�xeeM: Command not found
+tish error: #-2
+embox>
+
+embox>
+ls���eMq
+l���eMq: Command not found
+tish error: #-2
+embox>
+ls�lp
+ls�: Command not found
+tish error: #-2
+embox>
+lsl[?5h[?5lcdeMp 
+lslcdeMp: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lslsx�y[?5h[?5l���y[?5h[?5l����d �W��xe��
+embox>�d �Wtttytt�xex~ortdh*���
+embox>
+lslsx�y[?5h[?5l������������������xdh+
+lslsx�: Command not found
+tish error: #-2
+embox>+W�
+embox>
+lslsx
+embox>�y[?5h[?5l+x��xdh+
+��xdh: Command not found
+tish error: #-2
+embox>
+lslsdh+"������xdh}zcs�
+w�xPt�: Command not found
+tish error: #-2
+embox>
+��������
+embox>
+lslsx�y[?5h[?5l�����xdh+��xdh+
+embox>
+lslsx�y[?5h[?5l�Ʌ�����export����������xdh+
+embox>�����+��W�
+�����+�: Command not found
+tish error: #-2
+embox>
+rslrx�cdy[?5h[?5lꝅ��b�ls����ls������xdd
+rslrx�cd: Command not found
+tish error: #-2
+embox>
+�������������z�c���������pin��������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

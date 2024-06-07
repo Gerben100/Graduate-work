@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+ttdtd>i�embox>
+ttdtd>i�[K[6Cembox>
+ttdtd>i�[K[7Cembox>x
+ttdtd>i�[K[8Cembox>x�
+ttdtd>i�[K[9Cembox>x�
+ttdtd>i�[K[10Cembox>x�x
+ttdtd>i�[K[11Cembox>x�xQ
+ttdtd>i�[K[12Cembox>x�xQi
+ttdtd>i�[K[13Cembox>x�xQi
+ttdtd>i�[K[14Cembox>x�xQii
+ttdtd>i�[K[15C
+embox>
+tttxembox>
+tttx[K[13Cembox>
+tttx[K[14Cembox>
+tttx[K[15Cembox>
+tttx)[K[16Cembox>
+tttx)[K[17Cembox>
+tttx)i[K[18C
+tttx: Command not found
+tish error: #-2
+embox>
+tt|qembox>
+tttx[K[12Cqembox>
+tttxq[K[6Cembox>e
+tttxq[K[7Cembox>ex
+tttxq[K[8Cembox>exp
+tttxq[K[9Cembox>expo
+tttxq[K[10Cembox>exp
+tttxq[K[9Cembox>expt
+tttxq[K[10Cembox>expt
+tttxq[K[11Cembox>exptx
+tttxq[K[12Cembox>exptx
+tttxq[K[13Cembox>exptx�
+tttxq[K[14Cembox>exptx�
+tttxq[K[15Cembox>exptx�
+tttxq[K[16Cembox>exptx�
+tttxq[K[17Cembox>exptx�@
+tttxq[K[18Cembox>exptx�@�
+tttxq[K[19Cembox>exptx�@�i
+tttxq[K[20C
+expt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>@
+[K[8Cembox>@}
+[K[9Cembox>@}�
+[K[10Cembox>@}�y
+[K[11C
+embox>
+tUembox>
+t[K[8C>�iembox>expt[K[10Ccdxembox>exptcd[K[13C�x
+exptcd: Command not found
+tish error: #-2
+embox>
+s�x�xQji
+s�x: Command not found
+tish error: #-2
+embox>
+tttlstr>iembox>
+s�x[K[11C�x�xQ_i
+s�x�: Command not found
+tish error: #-2
+embox>
+���D���embox>
+s�x�[K[13C�
+s�x��: Command not found
+tish error: #-2
+embox>
+4��߼�����������o�؍���embox>
+s�x��[K[15C��������
+s�x����������: Command not found
+tish error: #-2
+embox>
+t�����������������������
+t�����������������: Command not found
+tish error: #-2
+embox>
+�����Od��cd�o��������d���d�(
+�����Od��cd�o��������d���d�(: Command not found
+tish error: #-2
+embox>
+t�embox>
+t[K[8C�xpo#��
+t�: Command not found
+tish error: #-2
+embox>
+\ pexpoexportp#�@@@H?@@@@@@t(�
+\: Command not found
+tish error: #-2
+embox>
+t������������������������w(�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

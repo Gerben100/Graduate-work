@@ -1,0 +1,119 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Ed��dxOM�embox>Ed��dxOM�[K[17Cembox>Ed��dxOM�[K[17Cembox>Ed��dxOM[K[16Cembox>Ed��dxOM[K[17C[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�i�
+Ed: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cembox>[K[6C��
+��: Command not found
+tish error: #-2
+embox>
+Ed�%Td
+embox>�%is[?5h[?5l��dx�M�embox>�%is��dx�M�[K[19Cembox>�%is��dx�M�[K[19Cembox>�%is��dx�M[K[18Cembox>�%is��dx�M[K[19Cls�
+�%is: Command not found
+tish error: #-2
+embox>
+la
+~ la~ j
+la: Command not found
+tish error: #-2
+embox>
+Ed��dxpM�embox>
+Ed��dxpM�[K[18Cembox>
+Ed��dxpM�[K[18Cembox>
+Ed��dxpM[K[17CEd&&&&&&&&&&&&&&&&&&&&&&&&&��dxp
+Ed: Command not found
+tish error: #-2
+embox>M�embox>M�[K[8C&&&&&&&&&&&&&&&&&��dxpM�embox>M�&&&&&&&&&&&&&&&&&��dxpM�[K[33Cembox>M�&&&&&&&&&&&&&&&&&��dxpM�[K[33Cembox>M�&&&&&&&&&&&&&&&&&��dxpM[K[32Ci�i�
+M�&&&&&&&&&&&&&&&&&�: Command not found
+tish error: #-2
+embox>
+Ed��dxpM�embox>
+Ed��dxpM�[Kembox>
+Ed��dxpM�[Kembox>
+Ed��dxpM[K[17Cembox>
+Ed��dxpM[K�i�
+Ed: Command not found
+tish error: #-2
+embox>
+ExpM�d��dxpM�embox>
+ExpM�d��dxpM�embox>
+ExpM�d��dxpM�[H[H[2Jembox>
+ExpM�d��dxpM�embox>
+ExpM�d��dxpM���i�ex
+ExpM�d: Command not found
+tish error: #-2
+embox>
+Ed�"�dembox>
+Ed�"�[K[12Ce lsembox>
+Ed�"�e ls[K[16Cembox>
+Ed�"�e ls[K[17Cembox>
+Ed�"�e ls[K[18Cembox>
+Ed�"�e ls[K[19Cembox>
+Ed�"�e ls[K[6Cembox>#
+Ed�"�e ls[K[7C
+#: Command not found
+tish error: #-2
+embox>
+E`��d�in�embox>[K[18Cembox>[K[18Cembox>[K[17Cembox>[K[17C�i�
+E`: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Ed���������������i�
+Ed: Command not found
+tish error: #-2
+embox>
+Ed���dxpM��i�
+Ed: Command not found
+tish error: #-2
+embox>
+Ed�exit�dxpS��i�
+Ed: Command not found
+tish error: #-2
+embox>
+Ed��dhpM���i�
+Ed: Command not found
+tish error: #-2
+embox>
+Ert1�i�
+Er1�: Command not found
+tish error: #-2
+embox>
+Ed���dxpM����
+Ed: Command not found
+tish error: #-2
+embox>
+Eg|tto�eP�
+Eg|ttoeP�: Command not found
+tish error: #-2
+embox>
+Ed���dxpM��
+embox>i�
+embox>
+Ed��dxn��"y�logout
+Ed: Command not found
+tish error: #-2
+embox>
+ErttttttdttVtt[H[H[2J�lse
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

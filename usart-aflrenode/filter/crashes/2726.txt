@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ht
+ht: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>J
+[K[7Cembox>J�
+[K[8Cembox>J�y
+[K[9Cembox>J�yl
+[K[10Cembox>J�ylo
+[K[11Cembox>J�ylow
+[K[12Cembox>J�ylowo
+[K[13Cembox>J�ylowo�
+[K[14Cembox>J�ylowo�
+[K[6Cembox>JJ�ylowo�
+[K[7Cembox>J�J�ylowo�
+[K[8Cembox>J�yJ�ylowo�
+[K[9Cembox>J�ylJ�ylowo�
+[K[10Cembox>J�yloJ�ylowo�
+[K[11Cembox>J�ylowJ�ylowo�
+[K[12Cembox>J�ylowoJ�ylowo�
+[K[13Cembox>J�ylowo�J�ylowo�
+[K[14Cembox>J�ylowo�J�ylowo�
+[K[15Cembox>J�ylowo�J�ylowo�
+[K[6Cembox>_J�ylowo�J�ylowo�
+[K[7Cembox>_5J�ylowo�J�ylowo�
+[K[8Cembox>_5iJ�ylowo�J�ylowo�
+[K[9Cembox>_5iJ�ylowo�J�ylowo�
+[K[6Cembox>_5iJ�ylowo�J�ylowo�
+[K[7C
+embox>
+embox>
+[K[6Cembox>
+[K[7C;@Y�fPtembox>
+;@Y�fP[K[13C
+;@Y�fP: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C;@;�xitembox>
+;@;�xi[K[13C
+;@;�xi: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C;@;mU565)6���6I56>6@@embox>
+;@;mU565)6���6I56>6@@[K[29C��@@@@@'@@@?@@@@@@@@
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@: Command not found
+tish error: #-2
+embox>\@@exp@�@@@@?@@@@@@��@@\@@eFyxembox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@�embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@�embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@�@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@�@@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@�@@/embox>[K[54Cembox>[K[55Cembox>[K[56Cembox>[K[57Cembox>[K[58Cembox>[K[59C
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@: Command not found
+tish error: #-2
+embox>T�@@@c6
+T�@@@c6: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C;@;mU565)6���6I56>6@@embox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@@@@@@@
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>\@@exp@�@@@@?@@@@@@@embox>T�@@@c6[K[14Cxei�eiembox>
+;@;mU565)6���6I56>6@@��@@@@@'@@@?@@@@@hhhhhhhhhhhhhhexi@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

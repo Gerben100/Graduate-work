@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l������fxporf��x���
+l������fxporf��x���: Command not found
+tish error: #-2
+embox>
+a��embox>
+a�[K[10C
+a: Command not found
+tish error: #-2
+embox>
+Zembox>
+a[K[8Cld�
+ald�: Command not found
+tish error: #-2
+embox>
+lembox>
+ald�[K[11C�embox>
+a[K[8Cembox>l������fxporf��x���[K[26C�����exporf��x����
+l������fxporf��x��������exporf��x����: Command not found
+tish error: #-2
+embox>
+l�j��fembox>
+l�j��f[K[13Cembox>
+l�j��of[K[14Cembox>
+l�j��orf[K[15Cembox>
+l�j��orxf[K[16Cembox>
+l�j��orx�f[K[17Cembox>
+l�j��orx�xf[K[18Cembox>
+l�j��orx�x�f[K[19Cembox>
+l�j��orx�x��f[K[20Cembox>
+l�j��orx�x���f[K[21C
+l�: Command not found
+tish error: #-2
+embox>
+�embox>
+l�[K[9C
+l�: Command not found
+tish error: #-2
+embox>
+lembox>
+l�[K[9Csh}embox>
+l�sh[K[11Cembox>
+l�s[K[10Cc�embox>[K[45Cembox>
+ald��[K[12Cembox>
+a[K[8Cembox>l������fxporf��x��������exp�rf��x���
+l������fxporf��x��������exp�rf��x���: Command not found
+tish error: #-2
+embox>
+lembox>
+l�sc�[K[12C�embox>[K[45Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>
+ald��[K[12C�����exporf��
+ald�������exporf��: Command not found
+tish error: #-2
+embox>
+lembox>[K������
+l������fxporf��x����: Command not found
+tish error: #-2
+embox>
+l�#dporI�dxp��
+l�sc��#: Command not found
+tish error: #-2
+embox>
+l�l�xp� logott��xtlojott��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+:sw_�x/�$@��iiiViiii�@eembox>
+:sw_�x/�$@��iiiViiii�@e[K[6Cembox>@
+:sw_�x/�$@��iiiViiii�@e[K[7Cembox>@�
+:sw_�x/�$@��iiiViiii�@e[K[8Cembox>@�@
+:sw_�x/�$@��iiiViiii�@e[K[9Cembox>@�@@
+:sw_�x/�$@��iiiViiii�@e[K[10Cembox>@�@@@
+:sw_�x/�$@��iiiViiii�@e[K[11Cembox>@�@@@@
+:sw_�x/�$@��iiiViiii�@e[K[12Cembox>@�@@@@?
+:sw_�x/�$@��iiiViiii�@e[K[13Cembox>@�@@@@?�
+:sw_�x/�$@��iiiViiii�@e[K[14Cembox>@�@@@@?�@
+:sw_�x/�$@��iiiViiii�@e[K[15Cembox>@�@@@@?�@"
+:sw_�x/�$@��iiiViiii�@e[K[16Cembox>@�@@@@?�@"@
+:sw_�x/�$@��iiiViiii�@e[K[17Cembox>@�@@@@?�@"@
+:sw_�x/�$@��iiiViiii�@e[K[18Cembox>@�@@@@?�@"@ 
+:sw_�x/�$@��iiiViiii�@e[K[19Cembox>@�@@@@?�@"@ 
+:sw_�x/�$@��iiiViiii�@e[K
+@�@@@@?�@"@: Command not found
+tish error: #-2
+embox>@@o<�yii
+@@o<�yii: Command not found
+tish error: #-2
+embox>
+exportxembox>@@o<�yii[K[14Cembox>@�@@@@?�@"@[K[17C/��@@@"@embox>@�@@@@?�@"@/��@@@"@[K[6Cembox>@@�@@@@?�@"@/��@@@"@[K[7Cembox>@@@�@@@@?�@"@/��@@@"@[K[8Cembox>@@o@�@@@@?�@"@/��@@@"@[K[9Cembox>@@o<@�@@@@?�@"@/��@@@"@[K[10Cembox>@@o<@@�@@@@?�@"@/��@@@"@[K[11Cembox>@@o<@e@�@@@@?�@"@/��@@@"@[K[12Cembox>@@o<@e@�@@@@?�@"@/��@@@"@[K[13Cembox>@@o<@e@�@@@@?�@"@/��@@@"@[K[6Cembox>@@@o<@e@�@@@@?�@"@/��@@@"@[K[7Cembox>@�@@o<@e@�@@@@?�@"@/��@@@"@[K[8Cembox>@�@@@o<@e@�@@@@?�@"@/��@@@"@[K[9Cembox>@�@@@@o<@e@�@@@@?�@"@/��@@@"@[K[10Cembox>@�@@@@@o<@e@�@@@@?�@"@/��@@@"@[K[11Cembox>@�@@@@@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?�@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?��@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?���@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?���i@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?���ii@@o<@e@�@@@@?�@"@/��@@@"@[Kembox>@�@@@@?���iii@@o<@e@�@@@@?�@"@/��@@@"@[K[19Cembox>@�@@@@?���iiii@@o<@e@�@@@@?�@"@/��@@@"@[K[20C
+@�@@@@?���iiii@@o<@e: Command not found
+tish error: #-2
+embox>iiiiiiiii
+iiiiiiiii: Command not found
+tish error: #-2
+embox>
+:swembox>iiiiiiiii[K[15C�xembox>@�@@@@?���iiii@@o<@e[K[26Cembox>@@o<�yii[K[14C/��@@@"@embox>@@o<�yii/��@@@"@[K[6Cembox>@@@o<�yii/��@@@"@[K[7Cembox>@@@@o<�yii/��@@@"@[K[8Cembox>@@o@@o<�yii/��@@@"@[K[9Cembox>@@o<@@o<�yii/��@@@"@[K[10Cembox>@@o<@@@o<�yii/��@@@"@[K[11Cembox>@@o<@e@@o<�yii/��@@@"@[K[12Cembox>@@o<@e@@o<�yii/��@@@"@[K[13Cembox>@@o<@e@@o<�yii/��@@@"@[K[6Cembox>@@@o<@e@@o<�yii/��@@@"@[K[7Cembox>@�@@o<@e@@o<�yii/��@@@"@[K[8Cembox>@�@@@o<@e@@o<�yii/��@@@"@[K[9Cembox>@�@@@@o<@e@@o<�yii/��@@@"@[K[10Cembox>@�@@@@@o<@e@@o<�yii/��@@@"@[K[11Cembox>@�@@@@@@o<@e@@o<�yii/��@@@"@[K[12Cembox>@�@@@@?@@o<@e@@o<�yii/��@@@"@[K[13Cembox>@�@@@@?�@@o<@e@@o<�yii/��@@@"@[K[14Cembox>@�@@@@?��@@o<@e@@o<�yii/��@@@"@[K[15Cembox>@�@@@@?���@@o<@e@@o<�yii/��@@@"@[K[16Cembox>@�@@@@?���i@@o<@e@@o<�yii/��@@@"@[K[17Cembox>@�@@@@?���ii@@o<@e@@o<�yii/��@@@"@[K[18Cembox>@�@@@@?���iii@@o<@e@@o<�yii/��@@@"@[K[19Cembox>@�@@@@?���iiii@@o<@e@@o<�yii/��@@@"@[K[20C
+@�@@@@?���iiii@@o<@e: Command not found
+tish error: #-2
+embox>ii/iiiii
+ii/: Command not found
+tish error: #-2
+embox>
+:sw_embox>ii/[K[9C�xembox>@�@@@@?���iiii@@o<@eembox>@�@@@@?���iiii@@o<@eembox>@@�@@@@?���iiii@@o<@eembox>@@@�@@@@?���iiii@@o<@eembox>@@o@�@@@@?���iiii@@o<@eembox>@@o<@�@@@@?���iiii@@o<@eembox>@@o<@@�@@@@?���iiii@@o<@eembox>@@o<@e@�@@@@?���iiii@@o<@eembox>@@o<@e@�@@@@?���iiii@@o<@eembox>@@o<@e@�@@@@?���iiii@@o<@eembox>@@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@?@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@?@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@?�@@o<@e@�@@@@?���iiii@@o<@eembox>@�@@@@?��@@o<@e@�@@@@?���iiii@@o<@eembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30C
+@�@@@@?: Command not found
+tish error: #-2
+embox>
+:sw_��embox>@�@@@@?[K[13Cembox>ii/�[K[10Clooyyout�/��@@@"@embox>[K[31C$@@o<@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+@�@@ii/�looyyout�/: Command not found
+tish error: #-2
+embox>@]���iiiiiii/iiiii
+@]���iiiiiii/iiiii: Command not found
+tish error: #-2
+embox>
+:sw_�@x/��@�@�@
+@@<@�@@@@?/: Command not found
+tish error: #-2
+embox>@e
+@�@@@@?���iiiiiiiiiiiiii@e: Command not found
+tish error: #-2
+embox>
+:sw_�nsl}/��@@@"@@o
+@�@@@@?/: Command not found
+tish error: #-2
+embox>
+:
+tish error: #-22
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>�|w_��xpin��@@@"@
+@@"@@@o<@e: Command not found
+tish error: #-2
+embox>@�@���ii�Oiiiiiiiii
+@�@���ii�Oiiiiiiiii: Command not found
+tish error: #-2
+embox>
+:o<@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

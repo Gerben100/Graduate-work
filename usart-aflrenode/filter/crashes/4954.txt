@@ -1,0 +1,138 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xd �cdd
+�x: Command not found
+tish error: #-2
+embox>
+��p
+��p: Command not found
+tish error: #-2
+embox>p
+p: Command not found
+tish error: #-2
+embox>�embox>�[K[9C�rt
+embox>
+xlogoutit
+xlogoutit: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lq���[?5h[?5lcdx�
+�q: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+��p����c�d
+��p���: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+%mE[?5h[?5l
+%mE: Command not found
+tish error: #-2
+embox>
+�embox>
+%mE[K[10Cembox>
+�d[K[9Cembox>
+��p���[K[13Chd��
+��p���hd��: Command not found
+tish error: #-2
+embox>
+�{{{{{{embox>[K[14C/�������[?5h[?5l��embox>[K[17C{�{{{{{{{embox>[K[26C/������embox>[K[33C
+��p���hd��{�{{{{{{{/�����: Command not found
+tish error: #-2
+embox>������������
+������������: Command not found
+tish error: #-2
+embox>
+H
+H: Command not found
+tish error: #-2
+embox>
+hN�
+hN�: Command not found
+tish error: #-2
+embox>
+��phphd�
+��phphd�: Command not found
+tish error: #-2
+embox>
+��qd�
+��qd�: Command not found
+tish error: #-2
+embox>
+`�X
+`�X: Command not found
+tish error: #-2
+embox>
+@��
+@: Command not found
+tish error: #-2
+embox>
+��p�d�
+��p�d�: Command not found
+tish error: #-2
+embox>
+"""""5#p""9A"�
+: Command not found
+tish error: #-2
+embox>
+��ph(xeN�I5xi@@��@@@@@@@@@@@@@@I@?@@@@@@
+@@e: Command not found
+tish error: #-2
+embox>x@@@
+@@ex@?@x@@@: Command not found
+tish error: #-2
+embox>
+�e��@@@@@��logout@�@@@@@@I@?@
+@@@@: Command not found
+tish error: #-2
+embox>
+�배@@@@@@@@@@@��@elogout@
+�배@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+��ph(xeN��5xi@@@@@@[?5h[?5l@?@@@@@@
+@ex@@ex@@@@@@: Command not found
+tish error: #-2
+embox>x@@@?@@
+x@@@?@: Command not found
+tish error: #-2
+embox>
+��ph(6@@@@@@@@@@@=@@@@@@@@@�\@@ex?@(6@@
+��ph: Command not found
+tish error: #-2
+embox>x@@@?@@
+x@@@?@: Command not found
+tish error: #-2
+embox>
+��ph(xeN�I5x��@ @@@@@@@@@@@@@@@I@?@@@@@@
+@@e: Command not found
+tish error: #-2
+embox>x@@@?@@
+x@@@?@: Command not found
+tish error: #-2
+embox>
+��ph(xeN�I5xi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

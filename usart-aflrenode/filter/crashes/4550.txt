@@ -1,0 +1,60 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�� embox>�� [K[6Cembox>�� [K[7Cembox>[K[7Cembox>[K[7C�ri�[?5h[?5l
+embox>�cembox>�c[K[6Cembox>e�c[K[7Cembox>ex�c[K[8Cembox>exi�c[K[9Cembox>exit�c[K[10Cembox>exit6�c[K[11Cembox>exit6��c[K[12Cembox>exit6��c[K[13Cembox>exit6�T�c[K[14Cembox>exit6�T@�c[K[15Cembox>exit6�T@�c[K[16Cembox>exit6�T@�c[K[6Cembox>�exit6�T@�c[K[7Cembox>��exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��@exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��b@exit6�T@�c[K[10Cembox>��b7@exit6�T@�c[K[11Cembox>��b7o@exit6�T@�c[K[12Cembox>��b7or@exit6�T@�c[K[13Cembox>��b7orx@exit6�T@�c[K[14Cembox>��b7orxp@exit6�T@�c[K[15Cembox>��b7orxpq@exit6�T@�c[K[16Cembox>��b7orxpqe@exit6�T@�c[K[17Cembox>��b7orxpqet@exit6�T@�c[K[18Cembox>��b7orxpqetc@exit6�T@�c[K[19Cembox>��b7orxpqetc<@exit6�T@�c[K[20Cembox>��b7orxpqetc<@@exit6�T@�c[K[21Cembox>��b7orxpqetc<@~@exit6�T@�c[K[22Cembox>��b7orxpqetc<@~6@exit6�T@�c[K[23Cembox>��b7orxpqetc<@~66@exit6�T@�c[K[24C
+��: Command not found
+tish error: #-2
+embox>56>6T@embox>56>6T@[K[12C�@@@S@Q?exp@��UxpPrtembox>56>6T@�@@@S@Q?exp@��UxpPrt[K[6Cembox>�56>6T@�@@@S@Q?exp@��UxpPrt[K[7Cembox>�"56>6T@�@@@S@Q?exp@��UxpPrt[K[8Cembox>�"56>6T@�@@@S@Q?exp@��UxpPrt[K[9Cembox>�"@56>6T@�@@@S@Q?exp@��UxpPrt[K[10Cembox>�"@c56>6T@�@@@S@Q?exp@��UxpPrt[K[11Cembox>�"@c656>6T@�@@@S@Q?exp@��UxpPrt[K[12C
+�": Command not found
+tish error: #-2
+embox>
+�� embox>
+�� [K[6Cembox>�"[K[8Cembox>�"[K[8Cembox>�"[K[8C�ri�[?5h[?5l
+embox>�cembox>�c[K[6Cembox>e�c[K[7Cembox>ex�c[K[8Cembox>exi�c[K[9Cembox>exit�c[K[10Cembox>exit6�c[K[11Cembox>exit6��c[K[12Cembox>exit6��c[K[13Cembox>exit6�T�c[K[14Cembox>exit6�T@�c[K[15Cembox>exit6�T@�c[K[16Cembox>exit6�T@�c[K[6Cembox>�exit6�T@�c[K[7Cembox>��exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��@exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��b@exit6�T@�c[K[10Cembox>��b7@exit6�T@�c[K[11Cembox>��b7o@exit6�T@�c[K[12Cembox>��b7op@exit6�T@�c[K[13Cembox>��b7opP@exit6�T@�c[K[14Cembox>��b7opPr@exit6�T@�c[K[15Cembox>��b7opPrt@exit6�T@�c[K[16Cembox>��b7opPrt@exit6�T@�c[K[6Cembox>���b7opPrt@exit6�T@�c[K[7Cembox>�"��b7opPrt@exit6�T@�c[K[8Cembox>�"��b7opPrt@exit6�T@�c[K[9Cembox>�"@��b7opPrt@exit6�T@�c[K[10Cembox>�"@@��b7opPrt@exit6�T@�c[K[11Cembox>�"@@6��b7opPrt@exit6�T@�c[K[12Cembox>�"@@66��b7opPrt@exit6�T@�c[K[13C
+�": Command not found
+tish error: #-2
+embox>56>6T@�embox>56>6T@[K[12C�@@@S@Q?exp@��Uxrxpqet@<@c66
+56>6T@�@@@S@Q?exp@��Uxrxpqet@<@c66: Command not found
+tish error: #-2
+embox>
+�� embox>
+�� [K[6Cembox>56>6T@�@@@S@Q?exp@��Uxrxpqet@<@c66embox>56>6T@�@@@S@Q?exp@��Uxrxpqet@<@c66embox>56>6T@�@@@S@Q?exp@��Uxrxpqet@<@c66�ri�[?5h[?5l
+embox>�cembox>�c[K[6Cembox>e�c[K[7Cembox>ex�c[K[8Cembox>exi�c[K[9Cembox>exit�c[K[10Cembox>exit6�c[K[11Cembox>exit6��c[K[12Cembox>exit6��c[K[13Cembox>exit6�T�c[Kembox>exit6�T@�c[Kembox>exit6�T@�c[Kembox>exit6�T@�c[Kembox>�exit6�T@�c[Kembox>��exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��@exit6�T@�c[K[8Cembox>��@exit6�T@�c[K[9Cembox>��b@exit6�T@�c[K[10Cembox>��b7@exit6�T@�c[Kembox>��b7o@exit6�T@�c[Kembox>��b7or@exit6�T@�c[Kembox>��b7orx@exit6�T@�c[Kembox>��b7orxp@exit6�T@�cembox>��b7orxpq@exit6�T@�cembox>��b7orxpqe@exit6�T@�cembox>��b7orxpqet@exit6�T@�cembox>��b7orxpqet@exit6�T@�cembox>��b7orxpqetQ@exit6�T@�cembox>��b7orxpqetQ?@exit6�T@�cembox>��b7orxpqetQ?e@exit6�T@�cembox>��b7orxpqetQ?ex@exit6�T@�cembox>��b7orxpqetQ?exp@exit6�T@�c
+��: Command not found
+tish error: #-2
+embox>@��UxpPrtembox>@��UxpPrt[K[6Cembox>�@��UxpPrt[K[7Cembox>�;@��UxpPrt[K[8Cembox>�;;@��UxpPrt[K[9Cembox>�;;@@��UxpPrt[K[10Cembox>�;;@c@��UxpPrtembox>�;;@c6@��UxpPrtembox>�;;@c66@��UxpPrt
+�;;@c66@��UxpPrt: Command not found
+tish error: #-2
+embox>
+s�piy}embox>
+s�piy}[Kembox>
+s�piy}[Kembox>
+s�piy7}[Kembox>
+s�piy7Z}[Kembox>
+s�piy7Z}[Kembox>�
+s�piy7Z}[Kembox>��
+s�piy7Z}[K
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+������ej��������gj�d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

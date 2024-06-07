@@ -1,0 +1,48 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�l�embox>�l�[K[6Cembox>�l�[K[7Cembox>��l�[K[8Cembox>��l�[K[9Cembox>���l�[K[10Cembox>����l�[K[11Cembox>�����l�[K[12Cembox>������l�[K[13Cembox>�������l�[K[14Cembox>��������l�[K[15Cembox>�������x�l�[K[16Cembox>�������xp�l�[K[17Cembox>�������xpo�l�[K[18Cembox>�������xpor�l�[K[19Cembox>�������xporf�l�[K[20Cembox>�������xporf��l�[K[21Cembox>�������xporf���l�[K[22Cembox>�������xporf��x�l�[K[23Cembox>�������xporf��x �l�[K[24Cembox>�������xporf��x ��l�[K[25C
+�������xporf��x: Command not found
+tish error: #-2
+embox>
+�lembox>�������xporf��x ��l�[K[28C������exQorf��x��
+�������xporf��x: Command not found
+tish error: #-2
+embox>
+�eembox>�������xporf��x ��l�������exQorf��x������embox>�������xporf��x ��l�������exQorf��x������embox>�������xporf��x ��l�������exQorf��x�������
+�������xporf��x: Command not found
+tish error: #-2
+embox>
+����expwrfexit�
+����expwrfexit�: Command not found
+tish error: #-2
+embox>
+�����exporf��x��
+�����exporf��x��: Command not found
+tish error: #-2
+embox>
+�lembox>
+�����exporf��x��hembox>
+����expwrfexit�[K[22Cexporf��'embox>[K[46C�����x��
+�������xporf��x: Command not found
+tish error: #-2
+embox>
+�lembox>
+�����exporf��x��hvembox>
+����expwrfexit�exporf��'�embox>[K[46C��@xporf��x��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

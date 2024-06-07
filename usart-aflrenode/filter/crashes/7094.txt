@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C�pinxembox>�pin[K[11Ceembox>�pin[K[12Ceeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+�pin: Command not found
+tish error: #-2
+embox>eeeeeeeeee%eeeeeeeeeeeeeeeeeeeeeeeexporv
+eeeeeeeeee%eeeeeeeeeeeeeeeeeeeeee: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C� 
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�F
+
+�F: Command not found
+tish error: #-2
+embox>
+@@@@-@@@@@@embox>
+@@@@-@@@@@@[K[6Cembox>@
+@@@@-@@@@@@[K[7Cembox>@@
+@@@@-@@@@@@[K[8Cembox>@@e
+@@@@-@@@@@@[K[9Cembox>@@ex
+@@@@-@@@@@@[K[10Cembox>@@exp
+@@@@-@@@@@@[K[11Cembox>@@expZ
+@@@@-@@@@@@[K[12Cembox>@@expZ�
+@@@@-@@@@@@[K[13Cembox>@@expZ�@
+@@@@-@@@@@@[K[14Cembox>@@expZ�@@
+@@@@-@@@@@@[K[15Cembox>@@expZ�@@@
+@@@@-@@@@@@[K[16Cembox>@@expZ�@@@@
+@@@@-@@@@@@[K[17Cembox>@@expZ�@@@@@
+@@@@-@@@@@@[K[18Cembox>@@expZ�@@@@@@
+@@@@-@@@@@@[K[19Cembox>@@expZ�@@@@@@@
+@@@@-@@@@@@[K[20Cembox>@@expZ�@@@@@@@@
+@@@@-@@@@@@[K[21Cembox>@@expZ�@@@@@@@@@
+@@@@-@@@@@@[K[22Cembox>@@expZ�@@@@@@@@@@
+@@@@-@@@@@@[K[23Cembox>@@expZ�@@@@@@@@@@@
+@@@@-@@@@@@[K[24Cembox>@@expZ�@@@@@@@@@@@@
+@@@@-@@@@@@[K[25Cembox>@@expZ�@@@@@@@@@@@@@
+@@@@-@@@@@@[K[26Cembox>@@expZ�@@@@@@@@@@@@@�
+@@@@-@@@@@@[K[27Cembox>@@expZ�@@@@@@@@@@@@@�F
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@
+@@@@-@@@@@@embox>@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@
+@@@@-@@@@@@embox>@@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@
+@@@@-@@@@@@embox>@@@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@
+@@@@-@@@@@@embox>@@j@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@
+@@@@-@@@@@@
+@@j@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@: Command not found
+tish error: #-2
+embox>xp@�@@F@@@@@@embox>[K[20C@@ls@@����������������������������
+xp@�@@F@@@@@@@@ls@@����������������������������: Command not found
+tish error: #-2
+embox>������������������������������������������������j
+������������������������������������������������j: Command not found
+tish error: #-2
+embox>xp@�@@@B?xeN@@@@embox>[K[22C���embox>[K[24Cembox>[K[25Cembox>[K[53C
+@@j@@expZ�@@@@@@@@@@@@@�F@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kmembox>
+[KJd
+Jd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��embox>
+Jdembox>
+Jdembox>
+Jd
+embox>
+embox>
+[K[7C�embox>
+�embox>�
+�embox>��
+�embox>��
+�embox>��
+�
+embox>
+embox>
+[K[7C� 
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+�� 
+��: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+����d�Ŝ
+embox>
+ �dUz
+�dUz: Command not found
+tish error: #-2
+embox>
+�scdUlsUls
+tish error: #-22
+embox>
+�ping
+�e: Command not found
+tish error: #-2
+embox>
+x�eNy��e
+tish error: #-22
+embox>
+cdn����h�a���e
+embox> ��Hx@x� 
+��Hx@x�: Command not found
+tish error: #-2
+embox>
+xd�Vh+
+embox>
+xdh+[H[H[2J�e���e
+embox>
+xdhxdh+�eee
+embox>
+�
+tish error: #-22
+embox>
+xdh+cd�V��ery��e
+tish error: #-22
+embox>
+��������eey��e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

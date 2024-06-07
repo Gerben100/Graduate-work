@@ -1,0 +1,51 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@embox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[6Cembox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[7Cembox>@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[8Cembox>@?
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[9Cembox>@?@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[10Cembox>@?@@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[11Cembox>@?@@T
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[12Cembox>@?@@Te
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[13Cembox>@?@@Tex
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[14Cembox>@?@@Texi
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[15Cembox>@?@@Texi@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[16Cembox>@?@@Texi@@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[17Cembox>@?@@Texi@@�
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[Kembox>@?@@Texi@@� 
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[19Cembox>@?@@Texi@@� @
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[20Cembox>@?@@Texi@@� @T
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[21Cembox>@?@@Texi@@� @T@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K[22Cembox>@?@@Texi@@� @T@@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@[K
+embox>@@@@?�@6@@@\@@e
+@@@@?�@6@@@\@@e: Command not found
+tish error: #-2
+embox>
+�p�6@t@@@@]]]]exit@ehp@����@?@@Texi@@�@@T@@@@@@?�
+�p�6@t@@@@]]]]exit@ehp@����@?@@Texi@@�@@T@@@@@@?�: Command not found
+tish error: #-2
+embox>S6@@@\@@e
+S6@@@\@@e: Command not found
+tish error: #-2
+embox>
+�p�6@t@@@@exp@R@@6�@?\PP@exp@embox>[K[6C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

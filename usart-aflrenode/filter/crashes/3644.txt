@@ -1,0 +1,181 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l��Fy@pLut3�cembox>l��Fy@pLut3�c[K[6Cembox>l��Fy@pLut3�c[K[7Cembox>6l��Fy@pLut3�c[K[8Cembox>67l��Fy@pLut3�c[K[9Cembox>67Fl��Fy@pLut3�c[K[10Cembox>67F6l��Fy@pLut3�c[K[11Cembox>67F6>l��Fy@pLut3�c[K[12Cembox>67F6>6l��Fy@pLut3�c[K[13Cembox>67F6>6Tl��Fy@pLut3�c[K[14Cembox>67F6>6T@l��Fy@pLut3�c[K[15Cembox>67F6>6T@l��Fy@pLut3�c[K[16Cembox>67F6>6T@l��Fy@pLut3�c[K[29C��@��b7�ep@��nxpo@��Uxxpo
+embox>at@=@@O656>6T@embox>at@=@@O656>6T@[K[20C�@@@@@/?exp@��nxpo@��Uxpo�tembox>at@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[K[6Cembox>�at@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[K[7Cembox>�"at@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[K[8Cembox>�"at@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[Kembox>�"@at@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[K[10Cembox>�"@rat@=@@O656>6T@�@@@@@/?exp@��nxpo@��Uxpo�t[K[11C
+�": Command not found
+tish error: #-2
+embox>tembox>t[K[6Cembox>�t[K[7Cembox>�"t[K[8Cembox>�"t[K[9Cembox>�"@t[K[10Cembox>�"@at[K[11Cembox>�"@a6t[K[12Cembox>�"@a66t[K[13Cembox>�"@a665t[K[14Cembox>�"@a6656t[K[15Cembox>�"@a6656>t[K[16Cembox>�"@a6656>6t[K[17Cembox>�"@a6656>6Tt[K[18C
+�": Command not found
+tish error: #-2
+embox>
+l��FyxpLrt3�cembox>
+l��FyxpLrt3�c[K[6Cembox>
+l��FyxpLrt3�c[K[7Cembox>6
+l��FyxpLrt3�c[K[8Cembox>67
+l��FyxpLrt3�c[K[9Cembox>67F
+l��FyxpLrt3�c[K[10Cembox>67F6
+l��FyxpLrt3�c[K[11Cembox>67F6>
+l��FyxpLrt3�c[K[12Cembox>67F6>6
+l��FyxpLrt3�c[K[13Cembox>67F6>6T
+l��FyxpLrt3�c[K[14Cembox>67F6>6T@
+l��FyxpLrt3�c[K[15Cembox>67F6>6T@
+l��FyxpLrt3�c[K[16Cembox>67F6>6T@6
+l��FyxpLrt3�c[K[17Cembox>67F6>6T@6�
+l��FyxpLrt3�c[K[18Cembox>67F6>6T@6��
+l��FyxpLrt3�c[K[19Cembox>67F6>6T@6��@
+l��FyxpLrt3�c[K[20Cembox>67F6>6T@6��@
+l��FyxpLrt3�c[K[19Cembox>67F6>6T@6��@
+l��FyxpLrt3�c[K[20Cembox>67F6>6T@6��b@
+l��FyxpLrt3�c[K[21Cembox>67F6>6T@6��b7@
+l��FyxpLrt3�c[K[22Cembox>67F6>6T@6��b7q@
+l��FyxpLrt3�c[K[23Cembox>67F6>6T@6��b7qe@
+l��FyxpLrt3�c[K[24Cembox>67F6>6T@6��b7qex@
+l��FyxpLrt3�c[K[25Cembox>67F6>6T@6��b7qexp@
+l��FyxpLrt3�c[K[26Cembox>67F6>6T@6��b7qexpo@
+l��FyxpLrt3�c[K[27Cembox>67F6>6T@6��b7qexpoa@
+l��FyxpLrt3�c[K[28Cembox>67F6>6T@6��b7qexpoat@
+l��FyxpLrt3�c[K[29Cembox>67F6>6T@6��b7qexpoat@@
+l��FyxpLrt3�c[K[30Cembox>67F6>6T@6��b7qexpoat@=@
+l��FyxpLrt3�c[K[31Cembox>67F6>6T@6��b7qexpoat@=<@
+l��FyxpLrt3�c[K[32Cembox>67F6>6T@6��b7qexpoat@=<@@
+l��FyxpLrt3�c[K[33Cembox>67F6>6T@6��b7qexpoat@=<@O@
+l��FyxpLrt3�c[K[34Cembox>67F6>6T@6��b7qexpoat@=<@O6@
+l��FyxpLrt3�c[K[35Cembox>67F6>6T@6��b7qexpoat@=<@O65@
+l��FyxpLrt3�c[K[36Cembox>67F6>6T@6��b7qexpoat@=<@O656@
+l��FyxpLrt3�c[K[37Cembox>67F6>6T@6��b7qexpoat@=<@O656>@
+l��FyxpLrt3�c[K[38Cembox>67F6>6T@6��b7qexpoat@=<@O656>6@
+l��FyxpLrt3�c[K[39Cembox>67F6>6T@6��b7qexpoat@=<@O656>6T@
+l��FyxpLrt3�c[K[40C
+embox>@embox>@[K[7C�@@@@@Q?exp@�export��Uxpo�tembox>@�@@@@@Q?exp@�export��Uxpo�t[K[6Cembox>�@�@@@@@Q?exp@�export��Uxpo�t[K[7Cembox>�"@�@@@@@Q?exp@�export��Uxpo�t[K[8Cembox>�"@�@@@@@Q?exp@�export��Uxpo�t[K[9Cembox>�"@@�@@@@@Q?exp@�export��Uxpo�t[K[10Cembox>�"@�@�@@@@@Q?exp@�export��Uxpo�t[K[11Cembox>�"@��@�@@@@@Q?exp@�export��Uxpo�t[K[12Cembox>�"@���@�@@@@@Q?exp@�export��Uxpo�t[K[13Cembox>�"@����@�@@@@@Q?exp@�export��Uxpo�t[K[14Cembox>�"@�����@�@@@@@Q?exp@�export��Uxpo�t[K[15Cembox>�"@������@�@@@@@Q?exp@�export��Uxpo�t[K[16Cembox>�"@�������@�@@@@@Q?exp@�export��Uxpo�t[K[17Cembox>�"@��������@�@@@@@Q?exp@�export��Uxpo�t[K[18Cembox>�"@���������@�@@@@@Q?exp@�export��Uxpo�t[K[19Cembox>�"@����������@�@@@@@Q?exp@�export��Uxpo�t[K[20Cembox>�"@�����������@�@@@@@Q?exp@�export��Uxpo�t[K[21Cembox>�"@������������@�@@@@@Q?exp@�export��Uxpo�t[K[22Cembox>�"@�������������@�@@@@@Q?exp@�export��Uxpo�t[K[23Cembox>�"@��������������@�@@@@@Q?exp@�export��Uxpo�t[K[24C
+�": Command not found
+tish error: #-2
+embox>�������������rtembox>�������������rt[K[6Cembox>����������rt[K[7Cembox>�"�������������rt[K[8Cembox>�"�������������rt[K[9Cembox>�"@�������������rt[K[10Cembox>�"@c�������������rt[K[11Cembox>�"@c�������������rt[K[6Cembox>6�"@c�������������rt[K[7Cembox>65�"@c�������������rt[K[8Cembox>656�"@c�������������rt[K[9Cembox>656>�"@c�������������rt[K[10Cembox>656>6�"@c�������������rt[K[11Cembox>656>6T�"@c�������������rt[K[12C
+656>6T�": Command not found
+tish error: #-2
+embox>
+l��FyxpLrt3�cembox>
+l��FyxpLrt3�c[K[6Cembox>
+l��FyxpLrt3�c[K[7Cembox>6
+l��FyxpLrt3�c[K[8Cembox>67
+l��FyxpLrt3�c[K[9Cembox>67�
+l��FyxpLrt3�c[K[10C
+embox>56>�T@embox>56>�T@[K[12C�@@@@@Q?e�p�nxpo>��Uxp
+56>�T@�@@@@@Q?e�p�nxpo>��Uxp: Command not found
+tish error: #-2
+embox>o�tembox>o�t[K[6Cembox>�o�t[K[7Cembox>� o�t[K[8Cembox>� o�t[K[9Cembox>� @o�t[K[10Cembox>� @ro�t[K[11Cembox>� @rto�t[K[12Cembox>� @rto�t[K[6Cembox>� @rto�t[K[7Cembox>@� @rto�t[K[8Cembox>@c� @rto�t[K[9Cembox>@c6� @rto�t[K[10Cembox>@c66� @rto�t[K[11Cembox>@c665� @rto�t[K[12Cembox>@c6656� @rto�t[K[13Cembox>@c6656>� @rto�t[K[14Cembox>@c6656>6� @rto�t[K[15Cembox>@c6656>6T� @rto�t[K[16C
+embox>
+l��FyxpLembox>56>�T@�@@@@@Q?e�p�nxpo>��Uxp[K[35Ccembox>56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[6Cembox>56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[7Cembox>656>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[8Cembox>6756>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[9Cembox>67F56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[10Cembox>67F656>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[11Cembox>67F6>56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[12Cembox>67F6>e56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[13Cembox>67F6>ex56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[14Cembox>67F6>exp56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[15Cembox>67F6>expo56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[16Cembox>67F6>expor56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[17Cembox>67F6>export56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[18Cembox>67F6>export�56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[19Cembox>67F6>export�@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[20Cembox>67F6>export�@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[19Cembox>67F6>export�@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[20Cembox>67F6>export�b@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[21Cembox>67F6>export�b7@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[K[22Cembox>67F6>export�b7q@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[Kembox>67F6>export�b7qe@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[Kembox>67F6>export�b7qex@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[Kembox>67F6>export�b7qexp@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc[Kembox>67F6>export�b7qexpo@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoa@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O6@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O65@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O656@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O656>@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O656>6@56>�T@�@@@@@Q?e�p�nxpo>��Uxpcembox>67F6>export�b7qexpoat@=@@O656>6T@56>�T@�@@@@@Q?e�p�nxpo>��Uxpc
+embox>@embox>@[K[7C�@@@@@Q?exp@��nxpo@��Uxpo�tembox>@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[6Cembox>�@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[7Cembox>�"@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[8Cembox>�"@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[9Cembox>�"@@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[10Cembox>�"@r@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[11Cembox>�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[12Cembox>�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[6Cembox>��"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[7Cembox>�"�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[8Cembox>�"#�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[9Cembox>�"#@�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[10Cembox>�"#@c�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[11Cembox>�"#@c6�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[12Cembox>�"#@c66�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[13Cembox>�"#@c665�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[14Cembox>�"#@c6656�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[15Cembox>�"#@c6656>�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[16Cembox>�"#@c6656>6�"@rt@�@@@@@Q?exp@��nxpo@��Uxpo�t[K[17C
+�"#@c6656>6�": Command not found
+tish error: #-2
+embox>T
+T: Command not found
+tish error: #-2
+embox>
+l��FyxpLrt3�cembox>
+l��FyxpLrt3�cembox>
+l��FyxpLrt3�cembox>6
+l��FyxpLrt3�cembox>67
+l��FyxpLrt3�cembox>67F
+l��FyxpLrt3�cembox>67F6
+l��FyxpLrt3�cembox>67F6>
+l��FyxpLrt3�cembox>67F6>d
+l��FyxpLrt3�cembox>67F6>dT
+l��FyxpLrt3�cembox>67F6>dT@
+l��FyxpLrt3�cembox>67F6>dT@
+l��FyxpLrt3�cembox>67F6>dT@
+l��FyxpLrt3�cembox>�67F6>dT@
+l��FyxpLrt3�cembox>��67F6>dT@
+l��FyxpLrt3�cembox>��@67F6>dT@
+l��FyxpLrt3�cembox>��@67F6>dT@
+l��FyxpLrt3�cembox>��@@67F6>dT@
+l��FyxpLrt3�cembox>��@@r67F6>dT@
+l��FyxpLrt3�cembox>��@@rO67F6>dT@
+l��FyxpLrt3�cembox>��@@rO667F6>dT@
+l��FyxpLrt3�cembox>��@@rO6567F6>dT@
+l��FyxpLrt3�cembox>��@@rO65667F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>667F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@�67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@��67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@���67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@���67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@���67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@���67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@����67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@����67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@����@67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@����@@67F6>dT@
+l��FyxpLrt3�cembox>��@@rO656>6T@����@@@67F6>dT@
+l��FyxpLrt3�c
+��@: Command not found
+tish error: #-2
+embox>@Q?exp@��logoutUxpo�tembox>@Q?exp@��logoutUxpo�tembox>�@Q?exp@��logoutUxpo�tembox>�"@Q?exp@��logoutUxpo�tembox>�"@Q?exp@��logoutUxpo�tembox>�"@Q?exp@��logoutUxpo�tembox>�@"@Q?exp@��logoutUxpo�tembox>�@t"@Q?exp@��logoutUxpo�tembox>�@t�"@Q?exp@��logoutUxpo�tembox>�@t"@Q?exp@��logoutUxpo�tembox>�@t"@Q?exp@��logoutUxpo�tembox>�@t"@Q?exp@��logoutUxpo�tembox>�@t@"@Q?exp@��logoutUxpo�tembox>�@t@c"@Q?exp@��logoutUxpo�tembox>�@t@c6"@Q?exp@��logoutUxpo�tembox>�@t@c66"@Q?exp@��logoutUxpo�tembox>�@t@c665"@Q?exp@��logoutUxpo�tembox>�@t@c6656"@Q?exp@��logoutUxpo�tembox>�@t@c6656>"@Q?exp@��logoutUxpo�tembox>�@t@c6656>6"@Q?exp@��logoutUxpo�tembox>[K[21C
+�: Command not found
+tish error: #-2
+embox>
+x
+tish error: #-22
+embox>
+ls�ci
+tish error: #-22
+embox>
+��ls
+��: Command not found
+tish error: #-2
+embox>
+q�
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+tn
+tish error: #-22
+embox>
+q�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@
+tish error: #-22
+embox>
+���������[H[H[2Jgouutut
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+(��¯��������@@�w�@@\d@exd@�@@@
+tish error: #-22
+embox>@?@@@
+@?: Command not found
+tish error: #-2
+embox>
+(xe@@�
+embox>@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

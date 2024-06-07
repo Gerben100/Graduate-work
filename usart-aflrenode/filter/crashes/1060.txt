@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>������p��
+������p��: Command not found
+tish error: #-2
+embox>
+ �!q��
+tish error: #-22
+embox>
+de�q��
+de: Command not found
+tish error: #-2
+embox>
+qqqpinqq1qqqqqqqqqembox>
+qqqpinqq1qqqqqqqqq[K[24Cembox>
+qqqpinqq1qqqqqqqqq[K[25Cembox>
+qqqpinqq1qqqqqqqqqq[K[26Cembox>
+qqqpinqq1qqqqqqqqqqq[K[27Cembox>
+qqqpinqq1qqqqqqqqqqqq[K[28Cembox>
+qqqpinqq1qqqqqqqqqqqqq[K[29Cembox>
+qqqpinqq1qqqqqqqqqqqqqq[K[30Cembox>
+qqqpinqq1qqqqqqqqqqqqqdq[K[31Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq[K[32Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq[K[33Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq[K[34Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq[K[35Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq[K[36Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxqq[K[37Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq�q[K[38Cembox>
+qqqpinqq1qqqqqqqqqqqqqdxq�q[K[39C
+qqqpinqq1qqqqqqqqqqqqqdx: Command not found
+tish error: #-2
+embox>
+dJs^embox>
+dJs^[K[13Cembox>
+dJs^�[K[14Cembox>
+dJs^��[K[15Cembox>
+dJs^���[K[16C
+d: Command not found
+tish error: #-2
+embox>
+dxlogout
+dx: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+p$rtembox>[K[6C
+embox>
+dembox>
+[K[7C
+sl
+tish error: #-22
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+dx�@embox>
+dx�@[K[12C��
+dx: Command not found
+tish error: #-2
+embox>
+P
+P: Command not found
+tish error: #-2
+embox>
+ed�xpxexit
+ed�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����e�
+����: Command not found
+tish error: #-2
+embox>
+dx��e
+dx�: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+dZ�
+dZ�: Command not found
+tish error: #-2
+embox>
+@�e
+@�: Command not found
+tish error: #-2
+embox>
+dx�e
+dx: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+n
+embox>�瀁���������d����c������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

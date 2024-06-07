@@ -1,0 +1,348 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/kernel/task/multi/multi.c:351
+[8Cin function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ls&
+ls&: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+9
+
+9: Command not found
+tish error: #-2
+embox>
+lembox>
+[K[7Cembox>
+[K[7C
+tish error: #-22
+embox>
+[
+[: Command not found
+tish error: #-2
+embox>
+�
+embox>
+
+tish error: #-22
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+lpin�
+
+lpin�: Command not found
+tish error: #-2
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ v
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ls
+l�
+
+ls: Command not found
+tish error: #-2
+embox>
+l���r�
+l���r�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+ls�
+ls�: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+l�
+
+l�: Command not found
+tish error: #-2
+embox>
+lslls�
+lslls�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+l}
+
+l}: Command not found
+tish error: #-2
+embox>
+`r
+embox>
+
+tish error: #-22
+embox>
+:::::::�:::/:q
+::^ss
+::lz�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

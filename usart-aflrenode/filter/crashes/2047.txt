@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xM���
+xM���: Command not found
+tish error: #-2
+embox>
+�xM���embox>
+�xM��[K[15CiM[H[H[2Jembox>
+�xM��iM[K[17C�� ���embox>
+�xM��iM�� ��[K[23COM[H[H[2Jembox>
+�xM��iM�� ��OM[K[25C����
+embox>
+embox>
+cd�xMdMMMOM����������
+cd�xM: Command not found
+tish error: #-2
+embox>
+jy!j6���
+jy!j: Command not found
+tish error: #-2
+embox>
+�xMembox>[K[6CdMMMOM��������embox>dMMMOM�������[K[20C��
+dMMMOM���������: Command not found
+tish error: #-2
+embox>
+Y
+Y: Command not found
+tish error: #-2
+embox>
+�@M���
+�@M: Command not found
+tish error: #-2
+embox>
+ �it
+�it: Command not found
+tish error: #-2
+embox>
+�xMdMMMOM���������
+�xM: Command not found
+tish error: #-2
+embox>
+�Mhdxit��embox>
+�Mhdxit��[K[6Cembox>
+�Mhdxit��[K[7Cembox>�
+�Mhdxit��[K[8Cembox>�
+�Mhdxit��[K[9Cembox>�
+��Mhdxit��[K[10Cembox>�
+���Mhdxit��embox>�
+����Mhdxit��
+embox>
+�M�dMMMOM�_���������
+�M: Command not found
+tish error: #-2
+embox>
+�xMembox>
+�xM[K[10Cembox>
+�xM[K[11Cembox>
+�xMM[K[12Cembox>
+�xMMN[K[13Cembox>
+�xMMNM[K[14Cembox>
+�xMMNM�[K[15Cembox>
+�xMMNM��[K[16C
+�xM: Command not found
+tish error: #-2
+embox>
+embox>[K�
+embox>
+�x���
+embox>x@t�embox>x@t[K/�x
+x@: Command not found
+tish error: #-2
+embox>
+exembox>x@t������2/�xi
+x@t������2: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ex
+: Command not found
+tish error: #-2
+embox>
+ex��/�x
+: Command not found
+tish error: #-2
+embox>
+exxxx�
+xx�: Command not found
+tish error: #-2
+embox>
+exit�xi��/��
+: Command not found
+tish error: #-2
+embox>
+�@�t��%��
+: Command not found
+tish error: #-2
+embox>
+exit�xi��/��cd
+x@cd: Command not found
+tish error: #-2
+embox>
+�xit�xi��/�x
+: Command not found
+tish error: #-2
+embox>
+eexpYrti/���i
+��i: Command not found
+tish error: #-2
+embox>
+_xit�xh�ۋ�^��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

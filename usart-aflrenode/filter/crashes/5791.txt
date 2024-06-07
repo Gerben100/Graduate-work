@@ -1,0 +1,139 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>iy���piembox>iy���pi[K[13C
+iy���pi: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>��e]]]Mh]\lz]]]�
+��e: Command not found
+tish error: #-2
+embox>
+i
+embox>��e]]]]]]]]logout�yl��i
+�\]]]]]Q]\]z]]]�
+��e: Command not found
+tish error: #-2
+embox>
+i
+embox>��e]]]]]]];@]]]]]M]]]]]]]]]]]]]]]]]]]]]]��
+��e: Command not found
+tish error: #-2
+embox>
+�
+embox>]]]]�yL���ͮ��o�t]����]^\]zq
+�]]^\]zqo�t]]]]]]^\
+]]]]�yL���ͮ��o�t]����]^\]zq: Command not found
+tish error: #-2
+embox>]zq
+��
+]zq: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[12Clogout@U@@embox>
+��logout@U@@[K[6Cembox>L
+��logout@U@@[K[7Cembox>L
+��logout@U@@[K[6Cembox>�L
+��logout@U@@[K[7Cembox>�L
+��logout@U@@[K[8Cembox>�L
+��logout@U@@[K[9Cembox>�L
+��logout@U@@[K[10Cembox>�@L
+��logout@U@@[K[11Cembox>�@@L
+��logout@U@@[K[12Cembox>�@@AL
+��logout@U@@[K[13Cembox>�@@A@L
+��logout@U@@[K[14Cembox>�@@A@L
+��logout@U@@[K[15Cembox>�@@A@L
+��logout@U@@[K[16Cembox>�@@A@L
+��logout@U@@[K[17Cembox>�@@A@L
+��logout@U@@[K[18Cembox>�@@A@L
+��logout@U@@[K[19Cembox>�@@A@iL
+��logout@U@@[K[20Cembox>�@@A@iL
+��logout@U@@[K[21Cembox>�@@A@iL
+��logout@U@@[K[22C
+embox>�#�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+i
+embox>��e]][]]{]]@?]]]]�yl��i
+�\]]]]]]�\]z]]]�
+��e: Command not found
+tish error: #-2
+embox>
+i"@�
+i": Command not found
+tish error: #-2
+embox>
+i
+embox>��e]]]]]]]]@?zV]]�]]�
+��e: Command not found
+tish error: #-2
+embox>
+i
+embox>��e]]]]]]]]@?]p]K�yl��i
+�\]]]]]]]\]z]]]�
+��e: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>�
+[Kembox>�i
+[Kembox>�i�
+[Kembox>�i�e
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52Cembox>[K[53C
+�i�e: Command not found
+tish error: #-2
+embox>
+i
+embox>��e]]]]]]]#�yl��i
+�]]]]]]]]]]]]]@?]]]#�yl��
+��e: Command not found
+tish error: #-2
+embox>i
+�[?5h[?5l]]]]]]]]] z\��
+embox>
+i`�e����������
+i`�: Command not found
+tish error: #-2
+embox>
+���e
+embox>
+i
+embox>�����
+�����: Command not found
+tish error: #-2
+embox>
+�x
+�x: Command not found
+tish error: #-2
+embox>
+i
+embox>��e��������
+i`�������: Command not found
+tish error: #-2
+embox>
+i
+embox>�f�xxx'�������pin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

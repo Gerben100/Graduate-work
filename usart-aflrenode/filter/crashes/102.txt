@@ -1,0 +1,143 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[7Cembox>[K[7C�[i�embox>tish[K[10C
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[K[6C$ cd m cwi
+$: Command not found
+tish error: #-2
+embox>
+i�embox>
+i[K[9C�x`
+tish error: #-22
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�x
+�[K[8Cembox>�x1
+�[K[9Cembox>�x1i
+�[K[10C
+�x1i: Command not found
+tish error: #-2
+embox>
+�iiii��embox>
+�iiii��[K[14Cembox>
+�iiii���[K[15Cembox>
+�iiii��1�[K[16Cembox>
+�iiii��1��[K[17Cembox>
+�iiii��1�i�[K[18C
+�i: Command not found
+tish error: #-2
+embox>
+wd[?5h[?5l
+embox>x1i[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+x1iembox>
+x1i[K[10C�w-xxxx�xembox>
+x1i�w-xxxx�[Kx1iembox>
+x1i�w-xxxx�x1i[K[21C�w-xxxx�xembox>
+x1i�w-xxxx�x1i�w-xxxx�xxI�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C qi�embox>
+� qi[K[13C�exit-i
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�[K[7Cembox>�[K[7C�wy0iembox>��wy0i[K[12C
+embox>m�
+m�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cembox>
+[K[8C�wWembox>
+�wW[K[11C[?5h[?5l
+embox>x1C
+x1C: Command not found
+tish error: #-2
+embox>
+ pi�@�
+pi�@: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+��i�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+phn�r
+phn�r: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>x1[?5h[?5l
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+�ki�[?5h[?5l�w�i
+tish error: #-22
+embox>
+��i�[?5h[?5l
+embox>�i
+�i: Command not found
+tish error: #-2
+embox>
+�V
+embox>g��
+g��: Command not found
+tish error: #-2
+embox>
+Cxoooooooooooooooo�oexport
+phn�r: Command not found
+tish error: #-2
+embox>
+ �
+embox>xx1i
+xx1i: Command not found
+tish error: #-2
+embox>
+in���"x1g�pin��� Ox]jlot�pin��� 
+embox>x1g�pi
+x1g: Command not found
+tish error: #-2
+embox>n��� Ox]j
+n���: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,250 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�cembox>�c[K[6Cembox>�c[K[7Cembox>c�c[K[8Cembox>cd�c[K[9Cembox>cdx�c[K[10Cembox>cdx�c[K[11Cembox>cdx�c[K[11Cembox>cdxx�c[K[12Cembox>cdxxe�c[K[13Cembox>cdxxee�c[K[14Cembox>cdxxeee�c[K[15Cembox>cdxxeee�c[K[16Cembox>cdxxeee�c[K[17Cembox>cdxxeee�c[K[18Cembox>cdxxeee�c[K[6Cembox>cdxxeee�c[K[6Cembox>pcdxxeee�c[K[7Cembox>picdxxeee�c[K[8Cembox>pincdxxeee�c[K[9Cembox>pincdxxeee�c[K[10Cembox>pincdxxeee�c[K[11Cembox>pincdxxeee�c[K[12Cembox>pincdxxeee�c[K[13Cembox>pincdxxeee�c[K[14Cembox>pinrcdxxeee�c[K[15Cembox>pinrcdxxeee�c[K[16Cembox>pinrcdxxeee�c[K[17Cembox>pinrcdxxeee�c[K[18Cembox>pinrPcdxxeee�c[K[19Cembox>pinrPscdxxeee�c[K[20Cembox>pinrPscdxxeee�c[K[21Cembox>pinrPscdxxeee�c[K[22Cembox>pinrPscdxxeee�c[K[23Cembox>pinrPscdxxeee�c[K[24Cembox>pinrPscdxxeee�c[K[25Cembox>pinrPscdxxeee�c[K[26C
+pin: Command not found
+tish error: #-2
+embox>
+?lsembox>
+?ls[K[14Cembox>
+?ls[K[15Cembox>
+?ls[K[16Cembox>
+?lsp[K[17Cembox>
+?lspz[K[18Cembox>
+?lspz�[K[19Cembox>
+?lspz�P[K[20Cembox>
+?lspz�P
+[K[21Cembox>
+?lspz�P
+�[K[22Cembox>
+?lspz�P
+��[K[23Cembox>
+?lspz�P
+��[K[24Cembox>
+?lspz�P
+��l[K[25Cembox>
+?lspz�P
+��lz[K[26Cembox>
+?lspz�P
+��lzg[K[27Cembox>
+?lspz�P
+��lzgp[K[28Cembox>
+?lspz�P
+��lzgp\[K[29Cembox>
+?lspz�P
+��lzgp\\[K[30Cembox>
+?lspz�P
+��lzgp\\o[K[31Cembox>
+?lspz�P
+��lzgp\\[K[30Cembox>
+?lspz�P
+��lzgp\\[K[31Cembox>
+?lspz�P
+��lzgp\\p[K[32Cembox>
+?lspz�P
+��lzgp\\pi[K[33Cembox>
+?lspz�P
+��lzgp\\pin[K[34Cembox>
+?lspz�P
+��lzgp\\pinu[K[35Cembox>
+?lspz�P
+��lzgp\\pinut[K[36Cembox>
+?lspz�P
+��lzgp\\pinut\[K[37Cembox>
+?lspz�P
+��lzgp\\pinut\t[K[38Cembox>
+?lspz�P
+��lzgp\\pinut\t[K[39Cembox>
+?lspz�P
+��lzgp\\pinut\t[K[40Cembox>
+?lspz�P
+��lzgp\\pinut\t$[K[41Cembox>
+?lspz�P
+��lzgp\\pinut\t$[K[42Cembox>
+?lspz�P
+��lzgp\\pinut\t$[K[41Cembox>
+?lspz�P
+��lzgp\\pinut\t[K[40Cembox>
+?lspz�P
+��lzgp\\pinut\t[K[41Cembox>
+?lspz�P
+��lzgp\\pinut\tu[K[42C
+embox>�$$$$$$$��lzgp\\oembox>�$$$$$$$��lzgp\\[K[24Cu
+�$$$$$$$��: Command not found
+tish error: #-2
+embox>t\t$embox>t\t$[K[12Cembox>t\t[K[11Cembox>t\t[K[12Cembox>t\tu[K[13Cembox>t\tu�[K[14Cembox>t\tu�[K[15Cembox>t\tu��[K[16Cembox>t\tu��$[K[17Cembox>t\tu��$$[K[18Cembox>t\tu��$$$[K[19Cembox>t\tu��$$$$[K[20Cembox>t\tu��$$$$$[K[21Cembox>�$$$$$$$��[K[17C
+�$$$$$$$��: Command not found
+tish error: #-2
+embox>
+�lzgp\\oembox>
+�lzgp\\o[K[16Cembox>
+�lzgp\\o�[K[17Cembox>
+�lzgp\\o��[K[18Cembox>
+�lzgp\\o��[K[19Cembox>
+�lzgp\\o���[K[20Cembox>
+�lzgp\\o���$[K[21Cembox>
+�lzgp\\o���$$[K[22Cembox>
+�lzgp\\o���$$o[K[23Cembox>
+�lzgp\\o���$$o [K[24Cembox>
+�lzgp\\o���$$o [K[25Cembox>
+�lzgp\\o���$$o u[K[26Cembox>
+�lzgp\\o���$$o ut[K[27Cembox>
+�lzgp\\o���$$o ut\[K[28Cembox>
+�lzgp\\o���$$o ut\y[K[29Cembox>
+�lzgp\\o���$$o ut\y$[K[30Cembox>
+�lzgp\\o���$$o ut\y$�[K[31Cembox>
+�lzgp\\o���$$o ut\y$��[K[32Cembox>
+�lzgp\\o���$$o ut\y$��[K[33Cembox>
+�lzgp\\o���$$o ut\y$��$[K[34Cembox>
+�lzgp\\o���$$o ut\y$��$�[K[35Cembox>
+�lzgp\\o���$$o ut\y$��$��[K[36Cembox>
+�lzgp\\o���$$o ut\y$��$���[K[37Cembox>
+�lzgp\\o���$$o ut\y$��$����[K[38Cembox>
+�lzgp\\o���$$o ut\y$��$�����[K[39Cembox>
+�lzgp\\o���$$o ut\y$��$�����$[K[40Cembox>�$$$$$$$��[K[17C
+�$$$$$$$��: Command not found
+tish error: #-2
+embox>
+��lzgpf\oembox>
+��lzgpf\[K[16Cut\y$$oembox>
+��lzgpf\ut\y$$[K[23Cut\y$?$$$$$$$$embox>�$$$$$$$��[K[17C
+�$$$$$$$��: Command not found
+tish error: #-2
+embox>
+��t\y$$oembox>
+��t\y$$[K[16C ut\y$$$N$$$$$embox>�$$$$$$$��[K[17C
+�$$$$$$$��: Command not found
+tish error: #-2
+embox>
+��lzgp\\o$$oembox>
+��lzgp\\o$$[K[19Cutembox>�$$$$$$$��[K[17C$embox>�$$$$$$$��[K[17Cembox>�$$$$$$$�[K[16Cut\y$$o\i$embox>�$$$$$$$�ut\y$$o\i[K[25Cembox>�$$$$$$$�ut\y$$o\[K[24Cut\y$$oembox>�$$$$$$$�ut\y$$o\ut\y$$[K[30Cut\i$$$
+�$$$$$$$�ut\y$$o\ut\y$$: Command not found
+tish error: #-2
+embox>U$$$$$$dut\i$$$4$$$$$$embox>�$$$$$$$�ut\y$$o\ut\y$$[K[30C
+�$$$$$$$�ut\y$$o\ut\y$$: Command not found
+tish error: #-2
+embox>
+�8WC@
+�8WC@: Command not found
+tish error: #-2
+embox>
+���lzgp\\oembox>
+���lzgp\\[K[16Cut\y$$oembox>
+���lzgp\\ut\y$$[K[23Cut\y$pppppppp$$$$$$$$$embox>
+�8WC@[K[12C
+�8WC@: Command not found
+tish error: #-2
+embox>
+�cd@@@embox>
+�cd@@@[K[6Cembox>@
+�cd@@@[K[7Cembox>@t
+�cd@@@[K[8Cembox>@t
+�cd@@@[K[9C
+@t: Command not found
+tish error: #-2
+embox>
+y$exportembox>
+y$expor[K[14Cut\y$export<$$embox>@t
+�cd@@@[K[16C
+@t: Command not found
+tish error: #-2
+embox>
+lslzgp\\oembox>
+lslzgp\\[K[16Cut\y$$embox>
+lslzgp\\ut\y$$[K[6Cembox>
+lslzgp\\ut\y$$[K[7Cembox>t
+lslzgp\\ut\y$$[K[8Cembox>t\
+lslzgp\\ut\y$$[K[9Cembox>t\y
+lslzgp\\ut\y$$[K[10Cembox>t\y$
+lslzgp\\ut\y$$[K[11Cembox>t\y$$
+lslzgp\\ut\y$$[K[12Cembox>t\y$$$
+lslzgp\\ut\y$$[K[13Cembox>t\y$$$$
+lslzgp\\ut\y$$[K[14Cembox>t\y$$$$$
+lslzgp\\ut\y$$[K[15Cembox>t\y$$$$$$
+lslzgp\\ut\y$$[K[16Cembox>t\y$$$$$$$
+lslzgp\\ut\y$$[K[17Cembox>t\y$$$$$$$$
+lslzgp\\ut\y$$[K[18Cembox>t\y$$$$$$$$$
+lslzgp\\ut\y$$[K[19C
+embox>�lembox>@t
+�cd@@@[K[16C
+@t: Command not found
+tish error: #-2
+embox>
+��̑�
+��̑�: Command not found
+tish error: #-2
+embox>
+EHhh
+EHhh: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+y�[K[8Cembox>
+ye�[K[9Cembox>
+ye��[K[10Cembox>
+ye��[K[11Cembox>
+ye��[K[12Cembox>
+ye��[K[11Cembox>
+ye��[K[12Cembox>
+ye��[K[13Cembox>
+ye� �[K[14Cembox>
+ye� ��[K[15Cembox>
+ye� �x�[K[16Cembox>
+ye� �x��[K[17Cembox>
+ye� �x�i�[K[18C[?5h[?5lembox>
+ye� �x�il�[K[19Cembox>
+ye� �x�il�[K[20Cembox>
+ye� �x�il��[K[21Cembox>
+ye� �x�il��embox>
+ye� �x�il�x�embox>
+ye� �x�il�xl�embox>
+ye� �x�il�xli�[?5h[?5lembox>
+ye� �x�il�xlii�embox>
+ye� �x�il�xlii����zex orte�
+ye�: Command not found
+tish error: #-2
+embox>
+�l��������������������8li[?5h[?5ll�embox>
+�l��������������������8lil�embox>
+�l��������������������8lily�embox>
+�l��������������������8lilye�embox>
+�l��������������������8lilye��embox>
+�l��������������������8lilye�z�embox>
+�l��������������������8lilye�z�embox>
+�l��������������������8lilye�zx�i[?5h[?5li�embox>[K[48Cembox>[K[49Cembox>[K[50C
+�l: Command not found
+tish error: #-2
+embox>�ze�
+�ze�: Command not found
+tish error: #-2
+embox>
+����pinxl
+����: Command not found
+tish error: #-2
+embox>
+�|�xli[?5h[?5li�x�xli[?5h[?5li�
+�|: Command not found
+tish error: #-2
+embox>
+�l
+xl�: Command not found
+tish error: #-2
+embox>
+�nye�_lye�_ly��ze�ly�ze�e�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

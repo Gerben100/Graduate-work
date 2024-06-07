@@ -1,0 +1,276 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+�t[?5h[?5l��@l�e@tgoutd��
+�t: Command not found
+tish error: #-2
+embox>
+[Uo��
+[Uo��: Command not found
+tish error: #-2
+embox>
+�l�embox>[K[6Cogoutoutd��
+ogoutoutd��: Command not found
+tish error: #-2
+embox>
+�t[?5h[?5l[?5h[?5l�e[?5h[?5l�inoXembox>[K[6CL��
+L��: Command not found
+tish error: #-2
+embox>
+�t[?5h[?5llembox>[K[6Ce@tgout�tembox>exit[K[10Cembox>e@tgout�t[K[16Clembox>[K[6Ce
+e: Command not found
+tish error: #-2
+embox>@tgout��
+@tgout�: Command not found
+tish error: #-2
+embox>
+�t[?5h[?5lUStd�@t4t
+�t: Command not found
+tish error: #-2
+embox>
+[23;80H ͗
+[?5h[?5l��l@tgoutd��
+[23;80H ͗
+��l: Command not found
+tish error: #-2
+embox>
+�b[?5h[?5lcd_embox>
+�bcd_[K[18Cembox>
+�bcd_embox>
+�bcd_embox>
+�bcdu_embox>
+�bcdut_embox>
+�bcdutd_embox>
+�bcdutd�_embox>
+�bcdutd��_
+�b: Command not found
+tish error: #-2
+embox>
+�t
+t��d�@tg`utc@tgoutcc�
+�t: Command not found
+tish error: #-2
+embox>
+�t[?5h[?5llembox>[Kk@7@tgout� �
+k: Command not found
+tish error: #-2
+embox>
+�t[?5h[?5l1���Se@tgoembox>
+�t1���Se@tgpin�
+�t1���Se: Command not found
+tish error: #-2
+embox>
+(�
+(�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l
+tish error: #-22
+embox>
+�p�2
+�p�2: Command not found
+tish error: #-2
+embox>
+������d
+�����d: Command not found
+tish error: #-2
+embox>
+)
+): Command not found
+tish error: #-2
+embox>[?5h[?5l
+embox>
+"
+tish error: #-22
+embox>
+)[?5h[?5l�
+)�: Command not found
+tish error: #-2
+embox>
+e�����t11111111111111111111111111111111111111111
+e: Command not found
+tish error: #-2
+embox>1111��t
+1111��t: Command not found
+tish error: #-2
+embox>
+�SW
+�SW: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+tish error: #-22
+embox>
+�%�
+�%�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+�jyB[?5h[?5l!
+�B!: Command not found
+tish error: #-2
+embox>
+-�
+-�: Command not found
+tish error: #-2
+embox>
+([?5h[?5lC
+(C: Command not found
+tish error: #-2
+embox>
+[?5h[?5ld([?5h[?5ld
+d(d: Command not found
+tish error: #-2
+embox>
+
+embox>
+c�����^���>
+c: Command not found
+tish error: #-2
+embox>
+_
+_: Command not found
+tish error: #-2
+embox>
+(@[?5h[?5l
+(@: Command not found
+tish error: #-2
+embox>
+([?5h[?5l�
+(�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+cd
+embox>
+�[?5h[?5l�
+��: Command not found
+tish error: #-2
+embox>
+@�x��
+embox>�
+embox>��
+embox>x���/
+(�"/: Command not found
+tish error: #-2
+embox>
+�
+(�"�: Command not found
+tish error: #-2
+embox>
+=
+=: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+(�[?5h[?5l
+(�: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l
+embox>
+(5[?5h[?5l
+(5: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l
+tish error: #-22
+embox>
+�Rd
+Rd: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+([?5h[?5l[H[H[2J
+(: Command not found
+tish error: #-2
+embox>
+BBC
+BB: Command not found
+tish error: #-2
+embox>
+(
+(: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+tish error: #-22
+embox>
+([?5h[?5li�[?5h[?5l
+(i�: Command not found
+tish error: #-2
+embox>
+([?5h[?5l[?5h[?5l
+(: Command not found
+tish error: #-2
+embox>
+(�(��
+(�(��: Command not found
+tish error: #-2
+embox>
+(�[?5h[?5l
+(�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��d
+��d: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+([?5h[?5l[?5h[?5l{
+�������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

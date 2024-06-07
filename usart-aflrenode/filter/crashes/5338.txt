@@ -1,0 +1,150 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C��dtt�lotx�xjtembox>��dtt�lotx�xj[K[19Clg��xhx���xtVx|���xembox>��dtt�lotx�xjlg��xhx���xtVx|���x[K[6Cembox>��dtt�lotx�xjlg��xhx���xtVx|���x[K[7Cembox>��dtt�lotx�xjlg��xhx���xtVx|���x[K[8Cembox>���dtt�lotx�xjlg��xhx���xtVx|���x[K[9Cembox>��dtt�lotx�xjlg��xhx���xtVx|���x[K[8Cembox>x��dtt�lotx�xjlg��xhx���xtVx|���x[K[9Cembox>xx��dtt�lotx�xjlg��xhx���xtVx|���x[K[10Cembox>xxR��dtt�lotx�xjlg��xhx���xtVx|���x[K[11Cembox>xxR}��dtt�lotx�xjlg��xhx���xtVx|���x[K[12Cembox>xxR}|��dtt�lotx�xjlg��xhx���xtVx|���x[K[13Cembox>xxR}|���dtt�lotx�xjlg��xhx���xtVx|���x[K[14C
+embox>tt�]
+tt�]: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��dttt�xjtembox>
+��dttt�xj[K[16Cl]��xhx���xxRx|��lo�~tx�xjtembox>
+��dttt�xjl]��xhx���xxRx|��lo�~tx�xj[K[42Cl]��xhx
+��dttt�xjl]��xhx���xxRx|��lo�~tx�xjl]��xhx: Command not found
+tish error: #-2
+embox>���xxRx|��log
+���xxRx|��log: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��dtttt~tx�xjtembox>
+��dtttt~tx�xj[K[20Cl]��xhx���xtVx|���xembox>
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>�
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>x
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>xx
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>xxR
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>xxRx
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>xxRx|
+��dtttt~tx�xjl]��xhx���xtVx|���xembox>xxRx|�
+��dtttt~tx�xjl]��xhx���xtVx|���x
+embox>�log
+�log: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�Vx|���xembox>
+�Vx|���x[K[6Cembox>
+�Vx|���x[K[7Cembox>
+�Vx|���x[Kembox>�
+�Vx|���x[K[9Cembox>
+�Vx|���x[Kembox>x
+�Vx|���x[K[9Cembox>xx
+�Vx|���x[K[10Cembox>xxk
+�Vx|���x[K[11Cembox>xxkx
+�Vx|���x[K[12Cembox>xxkx|
+�Vx|���x[Kembox>xxkx|�
+�Vx|���x[Kembox>xxkx|��
+�Vx|���x[Kembox>xxkx|��l
+�Vx|���x[Kembox>xxkx|��lo
+�Vx|���xembox>xxkx|��log
+�Vx|���x
+embox>
+�embox>
+[K[7C��dtt�t~tx�xjtembox>
+��dtt�t~tx�xj[K[20C���xt��x�xembox>
+��dtt�t~tx�xj���xt��x�xembox>|
+��dtt�t~tx�xj���xt��x�xembox>|�
+��dtt�t~tx�xj���xt��x�xembox>|�V
+��dtt�t~tx�xj���xt��x�xembox>|�Vx
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|�
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��p
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pi
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pin
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pin�
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pin
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinx
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinxx
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinxxR
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinxxRx
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinxxRx|
+��dtt�t~tx�xj���xt��x�xembox>|�Vx|��pinxxRx|�
+��dtt�t~tx�xj���xt��x�x
+|�Vx|��pinxxRx|�: Command not found
+tish error: #-2
+embox>�log
+�log: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>�
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>x
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>xx
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>xxR
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>xxRl
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>xxRl|
+��dtt�t~tx�xjSalE��xqx���xtV�|���xembox>xxRl|�
+��dtt�t~tx�xjSalE��xqx���xtV�|���x
+embox>�lok
+�lok: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C
+embox>[H[H[2Jembox>[K[7C
+embox>p7s�lembox>[K[6CttttttdttVttttSttt
+ttttttdttVtt: Command not found
+tish error: #-2
+embox>�lstttttembox>�lstttttttdttVttttttktttttttt�tt�@tgo
+�lstttttttdttVttttttktttttttt�tt�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��embox>
+��
+embox>p[?5h[?5l7s�tttttdttVtttttttt
+p7s�tttttdttVtt: Command not found
+tish error: #-2
+embox>�lstttttttt�@tgo
+�lstttttttt�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��embox>
+��
+embox>o�7lembox>[K[6Ctt/�s�lttttttttdttV
+tt/�s�lttttttttdttV: Command not found
+tish error: #-2
+embox>tt�ttttt/ls�ltttt5t�tttdttVttttttt�tt
+tt: Command not found
+tish error: #-2
+embox>tzttt�tt�@pg�
+tzttt�tt�: Command not found
+tish error: #-2
+embox>
+ ��
+embox>p[?5h[?5l7sttttttdttVts�tttttt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,60 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Q[?5h[?5lextor@@c66�embox>Qextor@@c66�[K[19Cembox>Qextor@@c66�[K[20Cembox>Qextor@@c66��[K[21Cembox>Qextor@@c66��[K[22Cembox>Qextor@@c66��>[K[23Cembox>Qextor@@c66��>6[K[24Cembox>Qextor@@c66��>6T[K[25Cembox>Qextor@@c66��>6T�[K[26Cembox>Qextor@@c66��>6T�Y[K[27Cembox>Qextor@@c66��>6T�Y=[K[28C
+Qextor: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lI56>6@@embox>
+tI56>6@@[K[15C��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMMM
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMMM: Command not found
+tish error: #-2
+embox>MMMMMMMMMM@export@exp@�@@@�xembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMMMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMMMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMMMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]M[K[54Cembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@M[Kembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@M[Kembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@cM[Kembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c�M[Kembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c���Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?eMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?exMembox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?ex@Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?ex@?Membox>
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM�]@@c��ھ?ex@?@M
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMMM: Command not found
+tish error: #-2
+embox>@@@i@@@@@@9\@@e:y�xembox>[K[50Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52Cembox>[K[53Cembox>[K[54Cembox>[K[55Cembox>[K[56Cembox>[K[57Cembox>[K[58Cembox>[K[59Cembox>[K[60Cembox>[K[61Cembox>[K[62Cembox>[K[63Cembox>[K[64Cembox>[K[65Cembox>[K[64Cembox>[K[65Cembox>[K[66Cembox>[K[67Cembox>[K[68Cembox>[K[69Cembox>[K[70Cembox>[K[71Cembox>[K[72Cembox>[K[73C
+tI56>6@@��@@@@@@@@@?@@@@@@1MMMMMMMMMMMMMM: Command not found
+tish error: #-2
+embox>6>6Tp6
+6>6T: Command not found
+tish error: #-2
+embox>
+tpix�6I56@@export@exp@�@@@@?@@@export@;9\@@e:y�
+tpix: Command not found
+tish error: #-2
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

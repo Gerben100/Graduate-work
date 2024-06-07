@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+��embox>
+adduser.conf[K[19C��embox>
+adduser.conf��[K[22CRRRembox>
+adduser.conf��RRR[K[6C[?5h[?5lembox>�
+adduser.conf��RRR[K[7Cembox>
+�adduser.conf��RRR[K[8C[?5h[?5l[?5h[?5l[?5h[?5lembox>
+��adduser.conf��RRR[K[9Cembox>
+��adduser.conf��RRR[K[10C
+��adduser.conf��: Command not found
+tish error: #-2
+embox>
+��logout��Wc
+��logout��Wc: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>&
+[K[7Cembox>&3
+[K[8Cembox>&3@
+[K[9Cembox>&3@@
+[K[10Cembox>&3@@@
+[K[11Cembox>&3@@@@
+[K[12Cembox>&3@@@@>
+[K[13Cembox>&3@@@@>
+[K[14Cembox>&3@@@@>
+[K[15Cembox>&3@@@@>[K[15C�r
+&3@@@@>: Command not found
+tish error: #-2
+embox>
+�embox>&3@@@@>[K[13C~xc
+&3@@@@>~: Command not found
+tish error: #-2
+embox>
+�"
+embox>�x�
+�x�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lembox>
+�[K[6Cembox>
+�[K[7Cembox>�[K[7Cembox>��[K[8Cembox>�c�[K[9C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+6x
+xc
+6: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+�@xc
+�@: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�
+��
+embox>xc
+xc: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l`����6656>B
+embox>�w@xc
+xc: Command not found
+tish error: #-2
+embox>
+exit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

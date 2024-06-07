@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+w얂
+embox>_�cd��
+_�cd��: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[9Cembox>
+����[K[10Cembox>
+����[K[11Cembox>
+�����[K[12Cembox>
+������[K[13Cembox>
+�������[K[14C
+���: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�
+��: Command not found
+tish error: #-2
+embox>
+�
+
+�: Command not found
+tish error: #-2
+embox>
+$/0@@@@@�
+$/0@@@@@�: Command not found
+tish error: #-2
+embox>
+��@�
+��@�: Command not found
+tish error: #-2
+embox>
+������������embox>
+������������[K[20C�wexi������������
+�������������wexi������������: Command not found
+tish error: #-2
+embox>
+c�embox>
+c�[K[6C
+c�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8C]embox>
+�[K[8Cu
+�u: Command not found
+tish error: #-2
+embox>
+��lgc��mou
+��lgc��mou: Command not found
+tish error: #-2
+embox>
+�embox>
+[Klc�ologZ+++++++++++++++++++++++++++++embox>[K[43Clcu
+lc�ologZ++++++++++++++++++++++++++++lcu: Command not found
+tish error: #-2
+embox>
+��mog+++++++++�++++++olotou
+��mog+++++++++�++: Command not found
+tish error: #-2
+embox>
+�n
+��mog+++++++++�++: Command not found
+tish error: #-2
+embox>
+���logcdOu
+�: Command not found
+tish error: #-2
+embox>
+���logou
+tish error: #-22
+embox>
+�sl�����������������������s
+�sl�������������: Command not found
+tish error: #-2
+embox>
+�lc�rloli��lo bu
+�lc�rlli��lo: Command not found
+tish error: #-2
+embox>
+��c����lo��gSu
+��c����lo��gSu: Command not found
+tish error: #-2
+embox>
+�����lk�xiitu
+����lk�xiitu: Command not found
+tish error: #-2
+embox>
+ilo��������gcd��
+ilo��������gcd��: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+��������������Cx%�����!
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

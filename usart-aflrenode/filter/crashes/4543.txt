@@ -1,0 +1,159 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>L�����.
+L�����.: Command not found
+tish error: #-2
+embox>
+j���
+j: Command not found
+tish error: #-2
+embox>
+������
+������: Command not found
+tish error: #-2
+embox>
+exӀembox>[K[6CexexӀembox>[K[6Cex\t\t
+ex\t\t: Command not found
+tish error: #-2
+embox>
+B3
+B3: Command not found
+tish error: #-2
+embox>
+���,
+���: Command not found
+tish error: #-2
+embox>
+j�R�embox>
+j�R�[K[13C���R�embox>
+j�R����R�[K[20C�H
+j�R����R��H: Command not found
+tish error: #-2
+embox>
+j�����l,
+j�����l,: Command not found
+tish error: #-2
+embox>
+�@��� -
+�@���: Command not found
+tish error: #-2
+embox>
+j��[H[H[2Jembox>
+j��[K����,
+j��: Command not found
+tish error: #-2
+embox>
+jcd�����������embox>[K[6C�������i���,d���,
+�������i���,d���,: Command not found
+tish error: #-2
+embox>
+jJ�������9
+jJ�������9: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��/
+��/: Command not found
+tish error: #-2
+embox>
+�����i@��
+jJ�������9i@��: Command not found
+tish error: #-2
+embox>
+L�g��
+�: Command not found
+tish error: #-2
+embox>
+j���Q���
+j��: Command not found
+tish error: #-2
+embox>
+j����i����
+jJ�������9: Command not found
+tish error: #-2
+embox>
+j���88888886
+j��: Command not found
+tish error: #-2
+embox>
+jj@���
+j: Command not found
+tish error: #-2
+embox>
+j���i����i����
+j��: Command not found
+tish error: #-2
+embox>
+j��[?5h[?5l�r�h�
+j��[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+j������
+j������: Command not found
+tish error: #-2
+embox>
+ �
+embox> �
+embox>
+embox>
+j��j� h��
+j��j�: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+j��em�'@@c?emmmmm@mmmmmmmmmmmmmmmxl�s@@@c
+embox>6�@@@c�6��<@@
+6�@@@c�6�: Command not found
+tish error: #-2
+embox>
+dU?exp@�qqq@@c6�<U?exp@�@@@c6�<@@
+dU?exp@: Command not found
+tish error: #-2
+embox>
+j���em�@@@c?exp@logoutr
+jJ�������9: Command not found
+tish error: #-2
+embox>t@6656>6T�6fxdo
+t@6656>6T�6fxdo: Command not found
+tish error: #-2
+embox>
+j���em�@@@c?exp@
+embox>t@ @@�!
+<@@: Command not found
+tish error: #-2
+embox>
+j���em�@@@c?efxdort@cd@�@
+56>6"�: Command not found
+tish error: #-2
+embox>@@c6656>6T�6�@@@c?�x�@@@c66<@@
+@@c6656>6T�6: Command not found
+tish error: #-2
+embox>
+j���em�@@@c?exp@
+embox>6T�6fxdort@@?�@
+<@@: Command not found
+tish error: #-2
+embox>
+j���em�@@@c>exp@@@@c66̖@@@c6656
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

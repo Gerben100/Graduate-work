@@ -1,0 +1,63 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xi{�cd���export��Imxp@�@@@@?�tcxp@�@@@@@@@���tm
+embox>����@@@@?@@@@@H@@@@@@@@@@@@@@@
+����@@@@?@@@@@H@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�xi{�cd�@@@embox>
+group[K��tmxp@�@@@@?@@@+@@1@�H@@@@@��export
+group��tmxp@�@@@@?@@@+@@1@�H@@@@@��export: Command not found
+tish error: #-2
+embox>��tmxp@�@@@@@@H@@@@@@@@@@@@@@@
+��tmxp@�@@@@@@H@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�xi{�cd���export��tmxp@�@@@@?@@@@�H@@A@@@@@���tm
+tish error: #-22
+embox>xp@�%@@@?@@@@@H@@@@@@@@@@@@@@@
+xp@�%@@@?@@@@@H@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�xi{��4��d���expor|�tmxp@�@@@@?@@@G�@@@@���tm
+tish error: #-22
+embox>xp@�@@@@?@@@embox>xp@�@@@@?@@@[Kembox>@xp@�@@@@?@@@[Kembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43C
+@ZH@@H@d@@@@@@���tmx: Command not found
+tish error: #-2
+embox>���logout���@@!@@@O@@@@
+���logout���@@!@@@O@@@@: Command not found
+tish error: #-2
+embox>
+�xi{�cd���export��tmxp@�@@@E?@@@@�H@@@@@@@@���tm
+tish error: #-22
+embox>xp@�@@@@?@@@@@H@@@@@Y@@@@@@@@@
+xp@�@@@@?@@@@@H@@@@@Y@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�xi{�cd���@@@@@@@@@@@@^@@@@@0@@����������H@@@@@@
+tish error: #-22
+embox>@embox>
+[K[7C@@"@@@@
+@@"@@@@: Command not found
+tish error: #-2
+embox>
+�xi{explogoutmxp@�@@@@?@@@@�H@@@@@@@@���tmxp@�@@
+tish error: #-22
+embox>@@?@@@@@H@@@@@@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

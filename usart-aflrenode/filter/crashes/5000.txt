@@ -1,0 +1,114 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pe[H[H[2Jembox>pe[K[9C���
+pe���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+%%%%%%%embox>
+%%%%%%%[K[14Cn�%l
+embox>logoutembox>logout[K[12Cpin
+logoutpin: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+�22���e��"2���1���
+�: Command not found
+tish error: #-2
+embox>
+�%
+embox>logoutembox>logout[K[12Ct[?5h[?5lpin
+logouttpin: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cl�%l
+embox>Yogodt[?5h[?5lpin
+Yogodtpin: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�embox>
+�[K[8C�EEEembox>
+��EEE[K[12Cembox>
+��EEE[K[12Cembox>
+��EEE[K[6Cembox>[K[6C�embox>�[K[7Cembox>�[K[7Cembox>�[K[7Cn
+�n: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cl�%l
+embox>llsoglsa[?5h[?5lpi
+llsoglsapi: Command not found
+tish error: #-2
+embox>
+%l
+embox>logouembox>logou[K[6CA]embox>logoutA][K[6Cembox>nlogoutA][K[7Cembox>n]logoutA][K[8Cembox>n]logoutA][K[16Cn
+n]logoutA]n: Command not found
+tish error: #-2
+embox>
+export�llogoucd�[?5h[?5l
+export�llogoucd�: Command not found
+tish error: #-2
+embox>
+l�%
+embox>�logou�[?5h[?5lpdn
+�logou�pdn: Command not found
+tish error: #-2
+embox>
+l�%l
+embox>iout[?5h[?5lpi�%l
+embox>iout[?5h[?5lpn
+ioutpn: Command not found
+tish error: #-2
+embox>
+l�%r �lgl�!l
+embox>ll�lol�!l
+embox>ll�loinext[?5h[?5l@iout[?5h[?5lpin
+llloinext@ioutpin: Command not found
+tish error: #-2
+embox>export
+export: Command not found
+tish error: #-2
+embox>
+k�%llogUot[?5h[?5lpin
+k�%llogUotpin: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>ltcl
+embox>logou�pin
+�logou�pdnpin: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+l�Dl
+embox>loKout[?5h[?5lplllNlk�,p�xxOI[?5h[?5l�alllllogouin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>!@
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>x
+[K[7Cembox>xp
+[K[8Cembox>x
+[K[7Cembox>xr
+[K[8Cembox>xr�
+[K[9Cembox>xr�
+[K[10C
+xr�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>
+��embox>
+?�[K[9Cembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+M������������������embox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+it�itembox>
+�[K[8C�
+��: Command not found
+tish error: #-2
+embox>
+exit{�embox>
+exit{�[K[6Cembox>d
+exit{�[K[7Cembox>d�
+exit{�[K[8Cembox>d��
+exit{�[K[9Cembox>d���
+exit{�[K[10Cembox>d���e
+exit{�[K[11Cembox>d���ex
+exit{�[K[12Cembox>d���exp
+exit{�[K[13Cembox>d���expO
+exit{�[K[14Cembox>d���expOr
+exit{�[K[15Cembox>d���expOr�
+exit{�[K[16Cembox>d���expOr�@
+exit{�[K[17Cembox>d���expOr�@@
+exit{�[K[18Cembox>d���expOr�@@�
+exit{�[K[19C
+embox>tembox>t[K[6Cembox><t[K[7Cembox><@t[K[8Cembox><@@t[K[9Cembox><@@Mt[K[10Cembox><@@M@t[K[11Cembox><@@M@@t[K[12Cembox><@@M@@Yt[K[13Cembox><@@M@@Yt[K[14Cembox><@@M@@Y@t[K[15Cembox><@@M@@Y@t[K[16Cembox><@@M@@Y@t[K[17Cembox><@@M@@Y@@t[K[18Cembox><@@M@@Y@@@t[K[19Cembox><@@M@@Y@@@@t[K[20Cembox><@@M@@Y@@@@?t[K[21Cembox><@@M@@Y@@@@?Ht[K[22Cembox><@@M@@Y@@@@?H@t[K[23Cembox><@@M@@Y@@@@?H@@t[K[24Cembox><@@M@@Y@@@@?H@@@t[K[25Cembox><@@M@@Y@@@@?H@@@@t[K[26Cembox><@@M@@Y@@@@?H@@@@@t[K[27Cembox><@@M@@Y@@@@?H@@@@@@t[K[28Cembox><@@M@@Y@@@@?H@@@@@@@t[K[29Cembox><@@M@@Y@@@@?H@@@@@@@@t[K[30C
+<@@M@@Y: Command not found
+tish error: #-2
+embox>@@
+@@: Command not found
+tish error: #-2
+embox>
+membox>
+[K[8C@�@@@@?@@D@@H@@@@@@@�/@@@@
+tish error: #-22
+embox>
+����{�cd���e�port��tmxp@�@@@@?@@:pin@@@@@@@@���
+tish error: #-22
+embox>tmxp@�@@@e�poVt@H@@@@@@@@\@@@embox>tmxp@�@@@e�poVt@H@@@@@@@@\@@@embox>tmxp@�@@@e�poVt@H@@@@@@@@\@@@embox>@tmxp@�@@@e�poVt@H@@@@@@@@\@@@embox>@@tmxp@�@@@e�poVt@H@@@@@@@@\@@@
+embox>
+x�{�cd�@@@xp/rt��tmxp@�@@@@?��e@�H@@@@@@@@���
+tish error: #-22
+embox>�mxp@�@@@@?@@@@@H@@@@@@@@@@@@@
+�mxp@�@@@@?@@@@@H@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+x�xi{�cd���export��tmxp@�@@@@?@@@@�H@@@@@@@@���
+tish error: #-22
+embox>tmxp@�@eZq@@@?@@@@@H@@@@@@@@@&@@@
+tmxp@�@eZq@@@?@@@@@H@@@@@@@@@&@@@: Command not found
+tish error: #-2
+embox>
+x�pin{�cd��!e�ort��tL�p@�@@�p@�@@@?@@@@�@@@@�
+tish error: #-22
+embox>��@�@logout�@@H@@@@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

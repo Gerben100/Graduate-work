@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pembox>p[K[6C
+p: Command not found
+tish error: #-2
+embox>
+��i`
+��i`: Command not found
+tish error: #-2
+embox>
+)t
+)t: Command not found
+tish error: #-2
+embox>
+Sfxih
+Sfxih: Command not found
+tish error: #-2
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+�logoutt
+�logoutt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6C
+embox>
+xy���[?5h[?5l
+embox>i�i�x
+i�i�x: Command not found
+tish error: #-2
+embox>
+u
+u: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+embox>[K[6C
+embox>
+{
+{: Command not found
+tish error: #-2
+embox>
+�@VVVVVVVVVVVVVVVVVV�i[?5h[?5lOs�
+tish error: #-22
+embox>[?5h[?5lOs
+Os: Command not found
+tish error: #-2
+embox>
+�@�xeeei�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+l 
+l: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@2�@@@@@@@@@@@@@�@xeeHi��
+@@@@@@@@@2�@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�@�
+embox>xeeei�Os��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

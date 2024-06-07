@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�i�embox>�i�[K[6Cembox>e�i�[K[7Cembox>ee�i�[K[8Cembox>eex�i�[K[9Cembox>eexp�i�[K[10Cembox>eexp��i�[K[11Cembox>eexp�r�i�[K[12Cembox>eexp�rt�i�[K[13Cembox>eexp�rt�i�[K[14Cembox>eexp�rti�i�[K[15Cembox>eexp�rtii�i�[K[16Cembox>eexp�rtiii�i�[K[17Cembox>eexp�rtiiii�i�[K[18Cembox>eexp�rtiiiii�i�[K[19Cembox>eexp�rtiiiiiK�i�[K[20Cembox>eexp�rtiiiiiKd�i�[K[21Cembox>eexp�rtiiiiiKd��i�[K[22Cembox>eexp�rtiiiiiKd�i�i�[K[23Cembox>eexp�rtiiiiiKd�ii�i�[K[24Cembox>eexp�rtiiiiiKd�iii�i�[K[25Cembox>eexp�rtiiiiiKd�iiie�i�[K[26Cembox>eexp�rtiiiiiKd�iiiex�i�[K[27Cembox>eexp�rtiiiiiKd�iiiexp�i�[K[28Cembox>eexp�rtiiiiiKd�iiiexp��i�[K[29Cembox>eexp�rtiiiiiKd�iiiexp�r�i�[K[30Cembox>eexp�rtiiiiiKd�iiiexp�rt�i�[K[31Cembox>eexp�rtiiiiiKd�iiiexp�rt]�i�[K[32Cembox>eexp�rtiiiiiKd�iiiexp�rt]��i�[K[33Cembox>eexp�rtiiiiiKd�iiiexp�rt]���i�[K[34Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i�[K[35Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i�[K[36Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i�[K[37Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i�[K[38Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i�[K[38Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�i[K[37Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�iF[K[38Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�iF[K[39Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�iF[K[40Cembox>eexp�rtiiiiiKd�iiiexp�rt]��@�iF[K[41C
+eexp�rtiiiiiKd�iiiexp�rt]��@�iF: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+�: �
+�: Command not found
+tish error: #-2
+embox>
+�embox>[K[6C
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+x�x�embox>
+x�x�[K[11Cembox>
+x�x�[K[11C�
+x�x��: Command not found
+tish error: #-2
+embox>
+��eexitt
+��eexitt: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
++
++: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaee�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

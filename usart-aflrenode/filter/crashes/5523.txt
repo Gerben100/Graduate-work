@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pin��ogoVt{[?5h[?5l
+embox>
+embox>
+lsembox>
+ls[K[10Cembox>
+ls[K[10C�w���
+ls: Command not found
+tish error: #-2
+embox>
+�Y�������l{�a
+�: Command not found
+tish error: #-2
+embox>
+a,�"x�"aa"aa,�"x�"aa"aa,�"x�"
+tish error: #-22
+embox>�"x�"embox>�"x�"[K[6Cembox>a�"x�"[K[7Cembox>a�"x�"[K[8Cembox>aa�"x�"[K[9Cembox>aa"�"x�"[K[10Cembox>aa"a�"x�"[K[11Cembox>aa"a"�"x�"[K[12C
+a: Command not found
+tish error: #-2
+embox>
+�a
+�a: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+� F�
+�: Command not found
+tish error: #-2
+embox>
+���kd�@��
+��: Command not found
+tish error: #-2
+embox>
+ [H[H[2Jembox>
+ [K[9Cembox>
+ [K[6C
+tish error: #-22
+embox>6T@embox>6T@[K[6Cembox>�6T@[K[7Cembox>��6T@[K[8Cembox>��b6T@[K[9Cembox>��b@6T@[K[10Cembox>��b@@6T@[K[11Cembox>��b@@@6T@[K[12Cembox>��b@@@@6T@[K[13Cembox>��b@@@@Q6T@[K[14Cembox>��b@@@@Qe6T@[K[15Cembox>��b@@@@Qex6T@embox>��b@@@@Qexp6T@embox>��b@@@@Qexpo6T@embox>��b@@@@Qexpo�6T@embox>��b@@@@Qexpo�6T@embox>��b@@@@Qexpo�6T@��c6656>expa
+��b@@@@Qexpo�: Command not found
+tish error: #-2
+embox>
+d@�embox>��b@@@@Qexpo�����
+��b@@@@Qexpo�����: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+embox>[K
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+����exit
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>����C�@@@��@@@@@@?@@logout�eN�@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

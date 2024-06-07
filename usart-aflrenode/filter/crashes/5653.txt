@@ -1,0 +1,231 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>de�
+embox>N,,,D,,&,,,,,,@�embox>N,,,D,,&,,,,,,@�[K[6Cembox>@N,,,D,,&,,,,,,@�[K[7Cembox>@�N,,,D,,&,,,,,,@�[K[8Cembox>@�@N,,,D,,&,,,,,,@�[K[9Cembox>@�@N,,,D,,&,,,,,,@�[K[6Cembox>@@�@N,,,D,,&,,,,,,@�[K[7Cembox>@�@�@N,,,D,,&,,,,,,@�[K[8C
+@�@�@: Command not found
+tish error: #-2
+embox>
+embox>@�@�@[K[11Cp~{
+@�@�@: Command not found
+tish error: #-2
+embox>
+embox>@�@�@[K[11Cn�embox>@�@�@n�[K[6Cembox>@�@�@n�[K[7Cembox>_@�@�@n�[K[8Cembox>__@�@�@n�[K[9C
+embox>
+d�nonnembox>
+d�nonn[K[13Cembox>
+d�nonn[K[14Cembox>
+d�nonnn[K[15C
+d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>�
+[K[10Cembox>��
+[K[11Cembox>���
+[K[12Cembox>����
+[K[13Cembox>����_
+[K[14Cembox>����__
+[K[15Cembox>����_
+[K[14C
+embox>
+��_hog|_�nnnn_
+��_hog|_�nnnn_: Command not found
+tish error: #-2
+embox>
+�o_�fembox>
+�o_�f[K[6C
+�o_�f: Command not found
+tish error: #-2
+embox>
+embox>
+�o_�f[K[12CYembox>
+�o_�f[K[12C�_@@;@_xdembox>
+�o_�f�_@@;@_xd[K[21Cembox>
+�o_�f�_@@;@_xd[K[22Cembox>
+�o_�f�_@@;@_xd[K[23C
+�o_�f�_: Command not found
+tish error: #-2
+embox>
+Pob��d_
+Pob��: Command not found
+tish error: #-2
+embox>
+������_
+tish error: #-22
+embox>
+�@�\___
+�@: Command not found
+tish error: #-2
+embox>
+embox>
+�@[K[9C��gping�_g�____
+�@��gping�_g�____: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+��
+embox>de�1dSe�1����@logou��
+embox>�@i��
+embox>
+embox>i��
+embox>i
+embox>
+33�embox>[K[6C�Rtb"
+�Rtb": Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[Kembox>yembox>yeembox>ye?embox>ye?Gembox>[Kembox>[Kembox>[Kembox>[K:
+ye?Gii: Command not found
+tish error: #-2
+embox>
+�
+embox>de�#��
+embox>8F8
+8F8: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�8
+tish error: #-22
+embox>
+�
+embox>dexport�����
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+��pin�665
+embox>@@@?@v�@@??@@@�
+embox>e�1
+embox>��
+embox>�
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+��@dn�=@�[?5h[?5lI8
+8F8I8: Command not found
+tish error: #-2
+embox>
+�����������������8
+embox>
+�
+embox>de�1��
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+�
+embox>dE�1��
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+$
+$: Command not found
+tish error: #-2
+embox>
+}��
+tish error: #-22
+embox>
+�
+embox>
+��I�t[?5h[?5l�e
+��I�t�e: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>pIn
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>xe
+xe: Command not found
+tish error: #-2
+embox>
+�I�t�e
+�I��e: Command not found
+tish error: #-2
+embox>
+����d�
+����: Command not found
+tish error: #-2
+embox>
+���t�e
+��t�: Command not found
+tish error: #-2
+embox>
+��I��e
+��I��e: Command not found
+tish error: #-2
+embox>
+A����te
+A���te: Command not found
+tish error: #-2
+embox>
+
+embox>
+Zs�t
+8F8s�t: Command not found
+tish error: #-2
+embox>
+\\\\\\\\\\\\\\\}\\\@eYp@�@@@���@@@pin@@@@\@:
+\\\\\\\\\\\\\\}\\\: Command not found
+tish error: #-2
+embox>exKo
+exKo: Command not found
+tish error: #-2
+embox>
+\\\\\\\�?>xin,\\\\\\\\}\\\\\\\}\\\\@\d@eYp@:ex@:
+\\\\\\\�: Command not found
+tish error: #-2
+embox>exKo
+exKo: Command not found
+tish error: #-2
+embox>
+\\\\\\\\\\\\\}\}\]@\@@eYp@�6@?@@@@@@@\�:exKo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Ccd-
+cd-: Command not found
+tish error: #-2
+embox>
+_RRRRRRRRRRRRRRRRRRRRRRRRR6R�embox>cd-[K[9Cx
+cd-x: Command not found
+tish error: #-2
+embox>
+embox>cd-x[K[10C
+cd-x: Command not found
+tish error: #-2
+embox>
+d�<8
+d�<8: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ҥ��
+�ҥ��: Command not found
+tish error: #-2
+embox>
+x�embox>
+x�[K[9Cembox>
+x�[K[9Cembox>
+x[K[8C���76� �embox>
+x���76� �[K[20Cembox>
+x���76� �[K[20Cembox>
+x���76� [K[19Cp��7
+embox>�܈
+�܈: Command not found
+tish error: #-2
+embox>
+QQ@QQQQQ@QQQQQ
+QQ: Command not found
+tish error: #-2
+embox>
+6�embox>
+QQ[K[9Cw
+QQw: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+����embox>
+�[K[8C=
+=: Command not found
+tish error: #-2
+embox>
+�66��x
+�66�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��� �"��
+���: Command not found
+tish error: #-2
+embox>
+�
+embox> 
+tish error: #-22
+embox>
+
+���: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l�
+��[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+�6dls
+��: Command not found
+tish error: #-2
+embox>
+�66 
+�66: Command not found
+tish error: #-2
+embox>
+�P"
+�P: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�P@@@@@R[@@@@@@@@�6� 
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

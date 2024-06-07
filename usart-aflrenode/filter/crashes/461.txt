@@ -1,0 +1,182 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>it@?
+embox>
+ii�66embox>
+ii�66[K[6Cembox>
+ii�66[K[7Cembox>@
+ii�66[K[8Cembox>@@
+ii�66[K[9Cembox>@@
+ii�66[K[10Cembox>@@
+ii�66[K[9Cembox>@@�
+ii�66[K[10Cembox>@@��
+ii�66[K[11Cembox>@@��@
+ii�66[K[12Cembox>@@��@@
+ii�66[K[13Cembox>@@��@@@
+ii�66[K[14Cembox>@@��@@@@
+ii�66[K[15Cembox>@@��@@@@@
+ii�66[K[16Cembox>@@��@@@@@@
+ii�66[K[17Cembox>@@��@@@@@@@
+ii�66[K[18Cembox>@@��@@@@@@@@
+ii�66[K[19Cembox>@@��@@@@@@@@t
+ii�66[K[20Cembox>@@��@@@@@@@@tt
+ii�66[K[21Cembox>@@��@@@@@@@@ttt
+ii�66[K[22Cembox>@@��@@@@@@@@tttt
+ii�66[K[23Cembox>@@��@@@@@@@@ttttt
+ii�66[K[24Cembox>@@��@@@@@@@@tttttt
+ii�66[K[25Cembox>@@��@@@@@@@@ttttttt
+ii�66[K[26Cembox>@@��@@@@@@@@tttttttt
+ii�66[K[27Cembox>@@��@@@@@@@@ttttttttt
+ii�66[K[28Cembox>@@��@@@@@@@@tttttttttt
+ii�66[K[29Cembox>@@��@@@@@@@@ttttttttttt
+ii�66[K[30Cembox>@@��@@@@@@@@tttttttttttt
+ii�66[K[31Cembox>@@��@@@@@@@@ttttttttttttt
+ii�66[K[32Cembox>@@��@@@@@@@@tttttttttttttt
+ii�66[K[33Cembox>@@��@@@@@@@@ttttttttttttttt
+ii�66[K[34Cembox>@@��@@@@@@@@tttttttttttttttt
+ii�66[K[35Cembox>@@��@@@@@@@@tttttttttttttttt{
+ii�66[K[36Cembox>@@��@@@@@@@@tttttttttttttttt{t
+ii�66[K[37Cembox>@@��@@@@@@@@tttttttttttttttt{tt
+ii�66[K[38Cembox>@@��@@@@@@@@tttttttttttttttt{ttw
+ii�66[K[39Cembox>@@��@@@@@@@@tttttttttttttttt{ttwt
+ii�66[K[40Cembox>@@��@@@@@@@@tttttttttttttttt{ttwtt
+ii�66[Kembox>@@��@@@@@@@@tttttttttttttttt{ttwttt
+ii�66[K[42Cembox>@@��@@@@@@@@tttttttttttttttt{ttwtttt
+ii�66[K[43C
+embox>@W?
+@W?: Command not found
+tish error: #-2
+embox>
+iembox>@W?[K[9Ci�66embox>@W?i�66[K[6Cembox>@W?i�66[K[7Cembox>u@W?i�66[K[8Cembox>ut@W?i�66[K[9Cembox>utt@W?i�66[K[10Cembox>uttt@W?i�66[K[11Cembox>utttt@W?i�66[K[12Cembox>uttttt@W?i�66[K[13Cembox>utttttt@W?i�66[K[14Cembox>uttttttt@W?i�66[K[15Cembox>utttttttt@W?i�66[K[16Cembox>uttttttttt@W?i�66[K[17Cembox>uttttttttt�@W?i�66[K[18Cembox>uttttttttt�t@W?i�66[K[19Cembox>uttttttttt�tt@W?i�66[K[20Cembox>uttttttttt�ttt@W?i�66[K[21Cembox>uttttttttt�tttt@W?i�66[K[22Cembox>uttttttttt�ttttt@W?i�66[K[23Cembox>uttttttttt�tttttt@W?i�66[K[24Cembox>uttttttttt�tttttt@W?i�66[K[25Cembox>uttttttttt�tttttt@@W?i�66[K[26Cembox>uttttttttt�tttttt@@@W?i�66[K[27Cembox>uttttttttt�tttttt@@@W?i�66[K[28Cembox>uttttttttt�tttttt@@@W?i�66[K[27Cembox>uttttttttt�tttttt@@�@W?i�66[K[28Cembox>uttttttttt�tttttt@@��@W?i�66[K[29Cembox>uttttttttt�tttttt@@��@@W?i�66[K[30Cembox>uttttttttt�tttttt@@��@@@W?i�66[K[31Cembox>uttttttttt�tttttt@@��@@W@W?i�66[K[32Cembox>uttttttttt�tttttt@@��@@W?@W?i�66[K[33C
+embox>
+i@@embox>
+i@@[K[12C�togout@@@ttt�ttttttttt�ttttttttttttwtttt@W
+tish error: #-22
+embox>?
+?: Command not found
+tish error: #-2
+embox>
+Iembox>
+I[K[6Cembox>�
+I[K[7Cembox>�y
+I[K[8C
+�y: Command not found
+tish error: #-2
+embox>
+���{
+�: Command not found
+tish error: #-2
+embox>
+0
+0: Command not found
+tish error: #-2
+embox>
+embox>
+�hembox>
+�[K[8C�
+��: Command not found
+tish error: #-2
+embox>
+u�
+u�: Command not found
+tish error: #-2
+embox>
+m�embox>
+m�[K[10C[?5h[?5lembox>
+m��[K[11C
+tish error: #-22
+embox>
+ �% �y
+�%: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�5�@�
+�5: Command not found
+tish error: #-2
+embox>
+h��y
+tish error: #-22
+embox>
+�i
+�i: Command not found
+tish error: #-2
+embox>
+i
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�d�
+�d�: Command not found
+tish error: #-2
+embox>
+q���
+q���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ccd�
+ccd�: Command not found
+tish error: #-2
+embox>
+q�exit
+tish error: #-22
+embox>
+zdd�
+zdd�: Command not found
+tish error: #-2
+embox>
+#��
+��r: Command not found
+tish error: #-2
+embox>
+o�
+o: Command not found
+tish error: #-2
+embox>
+#Zc�
+#Zc�: Command not found
+tish error: #-2
+embox>
+bd`�
+bd`�: Command not found
+tish error: #-2
+embox>
+�Yd�
+�Yd�: Command not found
+tish error: #-2
+embox>
+@Bcgdddd�p
+@Bcgdddd: Command not found
+tish error: #-2
+embox>
+@Bcg�dd{�p
+@Bcg�dd{: Command not found
+tish error: #-2
+embox>
+@Bcg�dd{ddddp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

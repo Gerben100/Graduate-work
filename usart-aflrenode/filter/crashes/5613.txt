@@ -1,0 +1,61 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>u�wxelogoegoetxlogsexportembox>u�wxelogoegoetxlogsexport[K[31C�zeembox>u�wxelogoegoetxlogsexport�ze[K[6Cembox>u�wxelogoegoetxlogsexport�ze[K[7Cembox>�u�wxelogoegoetxlogsexport�ze[K[8Cembox>��u�wxelogoegoetxlogsexport�ze[K[9Cembox>��u�wxelogoegoetxlogsexport�ze[K[10Cembox>��u�wxelogoegoetxlogsexport�ze[K[11Cembox>��u�wxelogoegoetxlogsexport�ze[K[10Cembox>��u�wxelogoegoetxlogsexport�ze[K[11Cembox>���u�wxelogoegoetxlogsexport�ze[K[12Cembox>���zu�wxelogoegoetxlogsexport�ze[K[13Cembox>���zeu�wxelogoegoetxlogsexport�ze[K[14Cembox>���ze�u�wxelogoegoetxlogsexport�ze[K[15Cembox>���ze��u�wxelogoegoetxlogsexport�ze[K[16Cembox>���ze��du�wxelogoegoetxlogsexport�ze[K[17Cembox>���ze��dpu�wxelogoegoetxlogsexport�ze[K[18Cembox>���ze��dpiu�wxelogoegoetxlogsexport�ze[K[19C
+embox>nedembox>ned[K[6C
+ned: Command not found
+tish error: #-2
+embox>
+u
+xxel�goutxxxzxxx�wer�0Xerembox>
+u
+xxel�goutxxxzxxx�wer�0Xer[K[6C
+u: Command not found
+tish error: #-2
+embox>
+u
+xf�lo'ou[H[H[2Jembox>
+u
+xf�lo'ou[K[17C[uuuuuuuuuuuuuuxdx�wer��
+u: Command not found
+tish error: #-2
+embox>
+u
+xx��@����������wer�Xerembox>
+u
+xx��@����������wer�Xer
+u: Command not found
+tish error: #-2
+embox>
+u
+xxelogoutxxy�xx�wr�Xerembox>
+u
+xxelogoutxxy�xx�wr�Xer
+u: Command not found
+tish error: #-2
+embox>
+u
+xxelox
+u: Command not found
+tish error: #-2
+embox>
+u
+xxewembox>
+u
+xxew��eiw�wxeloYoutjxxzxxx�wer�rr��twer��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

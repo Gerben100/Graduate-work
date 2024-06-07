@@ -1,0 +1,236 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>��!<embox>�[K[7C!��!!�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>��!!����
+��!!��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>��A!���embox>[K[6C!��
+!��: Command not found
+tish error: #-2
+embox>
+logout�!!!�cd�!!�
+logout�!!!: Command not found
+tish error: #-2
+embox>
+.�[H[H[2Jembox>
+.�[K[10Cor} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.�[H[H[2Jembox>
+.�[K[10C��p
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.�[H[H[2Jembox>
+.�[K[10C��por} 
+.: Command not found
+tish error: #-2
+embox>
+ �} 
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+.�popin��
+.�po: Command not found
+tish error: #-2
+embox>
+.�[H[H[2Jembox>
+.�[K��porLC
+embox>�[H[H[2Jembox>�[K��p�+�
+embox>
+.�[H[H[2Jembox>
+.�[K�
+.: Command not found
+tish error: #-2
+embox>
+.�f3ffffffffffffff��por} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J��porx o���
+.: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+.����
+.: Command not found
+tish error: #-2
+embox>
+�in
+�in: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J��
+.: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J�p��
+.: Command not found
+tish error: #-2
+embox>
+�l{�[H[H[2J�l} 
+embox>�����
+�����: Command not found
+tish error: #-2
+embox>
+K[H[H[2JKrrr
+KKrrr: Command not found
+tish error: #-2
+embox>
+.e��Nxdoo��
+.e��Nxdoo: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+Ri���
+Ri���: Command not found
+tish error: #-2
+embox>
+.�}
+embox>��expwrt�
+��expwrt�: Command not found
+tish error: #-2
+embox>
+.[H[H[2J��p�r} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.��[H[H[2Jql���
+.��: Command not found
+tish error: #-2
+embox>
+.���pok��
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+A���p�r} 
+embox>>̀�p�r}�
+[11;80H ̀
+�p�r}�: Command not found
+tish error: #-2
+embox>
+ls.�[H[H[2J��por}(
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+.expord���
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+��
+�݋or} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.j[H[H[2J��
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+�|���݅o
+�|: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+.����por} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.~[H[H[2J��p
+4�Nj: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+ҿ�
+��
+ҿ�: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+.�c��p�[H[H[2J
+�: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J
+embox>��cd�
+��cd�: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J��poexportr} 
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+.: Command not found
+tish error: #-2
+embox>
+.�[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

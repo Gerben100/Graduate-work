@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10Cembox>exit[K[10Czpt[?5h[?5l&56r@@c666@@@�(G@@@iF@@@@�@embox>exitzpt&56r@@c666@@@�(G@@@iF@@@@�[K[41Cembox>[K[6Cw@@@}?
+embox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog
+exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog: Command not found
+tish error: #-2
+embox>exportout@@embox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog[K[55C@@@�@embox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog@@@� L@@@
+exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog: Command not found
+tish error: #-2
+embox>
+embox>
+group[Kembox>
+passwd[Kzpt[?5h[?5l&56rembox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog[K[55C@@c666@iF@@@@�@embox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog@@c666@iF@@@@�embox>[K[6Cw�@@c?exp@56r
+embox>@:c666@@@56r@:c666@@@�?@@@@icd�ex�logout@@@
+embox>@@�@embox>@@�[K[10C L@@@
+embox>
+embox>
+adduser.conf[K[19Cembox>
+group[K[12Czpt[?5h[?5l&56rO@c666@@@�?G@@@iF@@@@�@embox>
+groupzpt&56rO@c666@@@�?G@@@iF@@@@�[K[43C��embox>[K[6Cw@@@c?
+embox>exp@56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog
+exp@56r: Command not found
+tish error: #-2
+embox>out@@embox>exp@56r[K[13C@@@�@embox>exp@56r@@@�[K[19C L@@@
+exp@56r: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lzpt[?5h[?5l&56r�@c666@@@?�[?5h[?5lzpt[?5h[?5l&56r�@c646@@@@@c
+zpt&56r: Command not found
+tish error: #-2
+embox>?ex@embox>
+zpt&56r[K[14C56r@:c666G@O�K@@@@i]d�ex�t H@@@
+zpt&56r56r: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[Kembox>
+passwd[Kzpt[?5h[?5l.56r@@c666@^@�?G@@@iF@@embox>[K[6Cw@@@c?exembox>
+zpt&56r56r[K[17C56
+zpt&56r56r56: Command not found
+tish error: #-2
+embox>embox>
+zpt&56r56r56[K[19C@:c66�?@@@icd�ex�t@@;c�656>%TQelogo�xport M
+zpt&56r56r56: Command not found
+tish error: #-2
+embox>@@@
+@@@: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lzpt[?5h[?5l&56r@@c666@@@�?G@@@i@@iF@@@@�@embox>
+zpt&56r@@c666@@@�?G@@@i@@iF@@@@�embox>[K[6Cw@@
+embox>@F@@@@�@embox>@F@@@@�[K[14Cembox>[K[6Cw@@@c�ex�t@@;c�656>%TQelogout@@embox>@@@[K[9C@
+@@@: Command not found
+tish error: #-2
+embox>export@@�@embox>export@@�[K[16C L@@@
+embox>
+[?5h[?5l[?5h[?5lzpt[?5h[?5l&56r@@c666@@@�?O@@@iF@@@@�@embox>
+zpt&56r@@c666@@@�?O@@@iF@@@@�embox>[K[6Cw@@@c?
+embox>exp@embox>@@@[K[9C56r&56r@@c666@@@�?;c�656>�TQ�@embox>@@@56r&56r@@c666@@@�?;c�656>�TQ� L@@@
+@@@56r&56r: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lzpt[?5h[?5lembox>@@@56r&56r[K[16C�6&56r@@c666@@@�?G@@@iF@@@@�@embox>@@@56r&56r�6&56r@@c666@@@�?G@@@iF@@@@�lsembox>[K[6Cw@@@c?
+embox>exp@embox>@@@56r&56r[K[16C56r@:c666@@@�?@@@@icd�ex�t@@;c�656>%TQelog
+@@@56r&56r56r: Command not found
+tish error: #-2
+embox>out@@embox>@@@56r&56r56r[K@@@�@embox>@@@56r&56r56r@@@� L@@@
+@@@56r&56r56r: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lzpexp@embox>@@@56r&56r56r[K56r@:c6666@@@�?G@�����������������������
+@@@56r&56r56r56r: Command not found
+tish error: #-2
+embox>���������@@iF@@@@�@embox>[Kembox>[K[6Cw@@@c?exp@embox>[K56r@:c666@@@
+@@@56r&56r56r56r56r: Command not found
+tish error: #-2
+embox>�?@@@@icd�ex�t@@;c�656>%TQelogout@@embox>[K[22C@@@�@embox>[K[28C 
+@@@56r&56r56r56r: Command not found
+tish error: #-2
+embox>L@@@
+L@@@: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lzpt[?5h[?5l&56r@@c666@@@�?G@@@iF@@@@�@embox>[Kembox>[Kw@@@c?
+embox>exp@embox>L@@@56r@:c666@@@�embox>[K@@@@icd�ex�t@@;c�656>%TQelog
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

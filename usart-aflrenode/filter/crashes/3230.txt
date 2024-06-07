@@ -1,0 +1,163 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ggs
+ggs: Command not found
+tish error: #-2
+embox>
+glex embox>
+glex[K[11CxitoTsnW,it
+glexxitoTsnW,it: Command not found
+tish error: #-2
+embox>
+ls�
+ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+
+tish error: #-22
+embox>
+j j
+tish error: #-22
+embox>
+exci���sexit
+exci���sexit: Command not found
+tish error: #-2
+embox>
+��i| ��
+��i|: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+g�s�
+g�s�: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+gls�%�
+gls�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+gZs�export
+gZsexport: Command not found
+tish error: #-2
+embox>
+gl<[H[H[2J
+gl<: Command not found
+tish error: #-2
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+�ils�
+ils: Command not found
+tish error: #-2
+embox>
+�i
+i: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+expogt
+expogt: Command not found
+tish error: #-2
+embox>
+d�
+d�: Command not found
+tish error: #-2
+embox>
+�i;ii;in�
+iii;in�: Command not found
+tish error: #-2
+embox>
+߀i��
+߀i��: Command not found
+tish error: #-2
+embox>
+ 
+embox>
+ߟ   
+ߟ: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+: Command not found
+tish error: #-2
+embox>
+ }�
+i: Command not found
+tish error: #-2
+embox>
+-�[?5h[?5l
+gls��: Command not found
+tish error: #-2
+embox>
+�oqR
+xpp: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�O��(�
+�O��: Command not found
+tish error: #-2
+embox>
+�pnOO
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+xi��
+xi��: Command not found
+tish error: #-2
+embox>
+@oh\ut�g�O
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+�OexitOp�OO
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

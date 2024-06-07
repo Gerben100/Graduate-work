@@ -1,0 +1,179 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�䶀
+�䶀: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>e
+[K[8Cembox>e
+[K[9Cembox>e�
+[K[10Cembox>e�
+[K[11Cembox>e�t
+[K[12Cembox>e�t�
+[K[13C
+e: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>,
+�[K[7Cembox>,�
+�[K[8C
+,�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+embox>
+[K[8Cembox>
+[K[9C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[6Cembox>Y�
+[K[7Cembox>Y�
+[K[6C
+Y�: Command not found
+tish error: #-2
+embox>
+�
+embox>9embox>9[K[6Cembox>9[K[7C
+embox>
+embox>
+[K[7C
+embox>lskembox>lsk[K[8Cembox>lsk[K[9C
+ls: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>embox>[K[6C
+embox>embox>[K[6C
+embox>
+pin
+embox>�embox>�[K[7Cembox>�[K[6Cembox>�[K[7C
+embox>
+embox>
+[K[7C
+embox>embox>[K[6C"�
+(null): Command not found
+tish error: #-2
+embox>
+�zog�n,cd
+tish error: #-22
+embox>
+embox>
+[K[7C�embox>
+�[K[8Cembox>
+�[K[7Cembox>
+�[K[8C
+tish error: #-22
+embox>
+embox>
+[K[7C
+embox>embox>[K[6C0
+0: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8C
+embox>
+embox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7C
+tish error: #-22
+embox>
+�sC_n
+�sC_n: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+embox>�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+�d: Command not found
+tish error: #-2
+embox>
+�������d�d��d�d�d��d�p
+���: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+����
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>
+�: Command not found
+tish error: #-2
+embox>
+
+}�}: Command not found
+tish error: #-2
+embox>
+�@@@<@@@@@@@���@lv
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

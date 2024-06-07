@@ -1,0 +1,211 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>logoutexport�xembox>logoutexport�x[K[20C
+embox>
+embox>
+Ki��
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7C
+�: Command not found
+tish error: #-2
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+@��
+embox> �
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>�
+�[K[10Cembox>�B
+�[K[11C
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>p
+[K[7Cembox>pi
+[K[8Cembox>pin
+[K[9Cembox>pinl
+[K[10Cembox>pinlo
+[K[11Cembox>pinlo
+[K[12Cembox>pinlo
+[K[13Cembox>pinlo
+[K[6C
+pinlo: Command not found
+tish error: #-2
+embox>
+@1dut
+@1dut: Command not found
+tish error: #-2
+embox>
+logo�t
+logo�t: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>ex�
+[K[9Cembox>ex�t
+[K[10Cembox>ex�t�
+[K[11Cembox>ex�t�
+[K[12Cembox>ex�t�l
+[K[13Cembox>ex�t�lo
+[K[14Cembox>ex�t�lo�
+[K[15Cembox>ex�t�lo�u
+[K[16Cembox>ex�t�lo�u
+[K[6C
+ex�t�lo�u: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>ex�
+[K[9Cembox>ex�t
+[K[10Cembox>ex�t�
+[K[11Cembox>ex�t��
+[K[12Cembox>ex�t���
+[K[13Cembox>ex�t����
+[K[14Cembox>ex�t����k
+[K[15Cembox>ex�t����k
+[K[16Cembox>ex�t����k
+[K[17Cembox>ex�t����k
+[K[6C
+ex�t����k: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>ex�
+[K[9Cembox>ex�t
+[K[10Cembox>ex�t�
+[K[11Cembox>ex�t��
+[K[12Cembox>ex�t���
+[K[13Cembox>ex�t���l
+[K[14Cembox>ex�t���lc
+[K[15Cembox>ex�t���lc
+[K[16Cembox>ex�t���lc
+[K[17Cembox>ex�t���lcd
+[K[18C
+ex�t���lc: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>e
+[Kembox>ex
+[Kembox>ex�
+[Kembox>ex�t
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[6C
+ex�t���co: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+embox>ee
+embox>eex
+embox>eexp
+embox>eexpo
+embox>eexpor
+embox>eexport
+embox>eexportW
+embox>eexportW�
+embox>eexportW�t
+embox>eexportW�t�
+embox>eexportW�t��
+embox>eexportW�t���
+embox>eexportW�t���l
+embox>eexportW�t���l*
+embox>eexportW�t���l*
+embox>eexportW�t���l*
+embox>eexportW�t���l*�
+
+eexportW�t���l*: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>e
+embox>ex
+embox>ex
+embox>tex
+embox>t�ex
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+t���lo: Command not found
+tish error: #-2
+embox>
+
+ex�t���lo: Command not found
+tish error: #-2
+embox>#
+#: Command not found
+tish error: #-2
+embox>
+l���x]��i
+
+ye: Command not found
+tish error: #-2
+embox>`eeee
+embox>
+l������\��i
+
+ye: Command not found
+tish error: #-2
+embox>`eeee
+embox>
+l������\x]
+
+ye: Command not found
+tish error: #-2
+embox>`eeee
+embox>
+l������\x]��ie
+l������\: Command not found
+tish error: #-2
+embox>`eeee
+embox>
+l������\x]��i
+
+`eeee: Command not found
+tish error: #-2
+embox>
+l������\x]��i
+
+ye: Command not found
+tish error: #-2
+embox>ee
+embox>
+l������\x]��i
+
+ye: Command not found
+tish error: #-2
+embox>`ee
+embox>
+l���Ӓ����������������������������������@|ee
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

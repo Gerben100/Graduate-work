@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eE�cx�6�=6�6T@embox>eE�cx�6�=6�6T@[K[6Cembox>�eE�cx�6�=6�6T@[K[7Cembox>�ceE�cx�6�=6�6T@[K[8Cembox>�cdeE�cx�6�=6�6T@[K[9Cembox>�cd@eE�cx�6�=6�6T@[K[10Cembox>�cd@ceE�cx�6�=6�6T@[K[11Cembox>�cd@cdeE�cx�6�=6�6T@[K[12Cembox>�cd@cd@eE�cx�6�=6�6T@[K[13Cembox>�cd@cd@@eE�cx�6�=6�6T@[K[14Cembox>�cd@cd@@@eE�cx�6�=6�6T@[K[15Cembox>�cd@cd@@@QeE�cx�6�=6�6T@[K[16Cembox>�cd@cd@@@QeeE�cx�6�=6�6T@[K[17Cembox>�cd@cd@@@QexeE�cx�6�=6�6T@[K[18Cembox>�cd@cd@@@QexpeE�cx�6�=6�6T@[K[19Cembox>�cd@cd@@@QexpheE�cx�6�=6�6T@[K[20Cembox>�cd@cd@@@QexphreE�cx�6�=6�6T@[K[21Cembox>�cd@cd@@@Qexphr�eE�cx�6�=6�6T@[K[22Cembox>�cd@cd@@@Qexphr�QeE�cx�6�=6�6T@[K[23Cembox>�cd@cd@@@Qexphr�QdeE�cx�6�=6�6T@[K[24Cembox>�cd@cd@@@Qexphr�QdleE�cx�6�=6�6T@[K[25Cembox>�cd@cd@@@Qexphr�Qdl�eE�cx�6�=6�6T@[K[26Cembox>�cd@cd@@@Qexphr�Qdl�@eE�cx�6�=6�6T@[K[27Cembox>�cd@cd@@@Qexphr�Qdl�@@eE�cx�6�=6�6T@[K[28Cembox>�cd@cd@@@Qexphr�Qdl�@@?eE�cx�6�=6�6T@[K[29Cembox>�cd@cd@@@Qexphr�Qdl�@@?@eE�cx�6�=6�6T@[K[30Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@eE�cx�6�=6�6T@[K[31Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�eE�cx�6�=6�6T@[K[32Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�MeE�cx�6�=6�6T@[K[33Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>eE�cx�6�=6�6T@[K[34Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6eE�cx�6�=6�6T@[K[35Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6TeE�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@eE�cx�6�=6�6T@[K[37Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@�eE�cx�6�=6�6T@[K[38Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@��eE�cx�6�=6�6T@[K[39C
+�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@��eE�cx�6�=6�6T@: Command not found
+tish error: #-2
+embox>@>@@?�cx�6�=6�6T@embox>@>@@?�cx�6�=6�6T@[K[6Cembox>�@>@@?�cx�6�=6�6T@[K[7Cembox>�c@>@@?�cx�6�=6�6T@[K[8Cembox>�cd@>@@?�cx�6�=6�6T@[K[9Cembox>�cd@@>@@?�cx�6�=6�6T@[K[10Cembox>�cd@c@>@@?�cx�6�=6�6T@[K[11Cembox>�cd@cd@>@@?�cx�6�=6�6T@[K[12Cembox>�cd@cd@@>@@?�cx�6�=6�6T@[K[13Cembox>�cd@cd@@@>@@?�cx�6�=6�6T@[K[14Cembox>�cd@cd@@@@>@@?�cx�6�=6�6T@[K[15Cembox>�cd@cd@@@Q@>@@?�cx�6�=6�6T@[K[16Cembox>�cd@cd@@@Qe@>@@?�cx�6�=6�6T@[K[17Cembox>�cd@cd@@@Qex@>@@?�cx�6�=6�6T@[K[18Cembox>�cd@cd@@@Qexp@>@@?�cx�6�=6�6T@[K[19Cembox>�cd@cd@@@Qexph@>@@?�cx�6�=6�6T@[K[20Cembox>�cd@cd@@@Qexphr@>@@?�cx�6�=6�6T@[K[21Cembox>�cd@cd@@@Qexphr�@>@@?�cx�6�=6�6T@[K[22Cembox>�cd@cd@@@Qexphr�Q@>@@?�cx�6�=6�6T@[K[23Cembox>�cd@cd@@@Qexphr�Qd@>@@?�cx�6�=6�6T@[K[24Cembox>�cd@cd@@@Qexphr�Qdl@>@@?�cx�6�=6�6T@[K[25Cembox>�cd@cd@@@Qexphr�Qdl�@>@@?�cx�6�=6�6T@[K[26Cembox>�cd@cd@@@Qexphr�Qdl�@@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@�@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M@>@@?�cx�6�=6�6T@[Kembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>@>@@?�cx�6�=6�6T@[K[34Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6@>@@?�cx�6�=6�6T@[K[35Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@>@@?�cx�6�=6�6T@[K[36Cembox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@@>@@?�cx�6�=6�6T@[K[37C
+�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@@>@@?�cx�6�=6�6T@: Command not found
+tish error: #-2
+embox>��@>@@?@@�M>6T@6@@@@�M>6T@6@@@embox>�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@@>@@?�cx�6�=6�6T@@@1\
+�cd@cd@@@Qexphr�Qdl�@@?@@�M>6T@@>@@?�cx�6�=6�6T@@@1\: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>eE
+[K[8Cembox>eE�
+[K[9Cembox>eE�c
+[K[10Cembox>eE�cx
+[K[11Cembox>eE�cx�
+[K[12Cembox>eE�cx�6
+[K[13Cembox>eE�cx�6�
+[K[14Cembox>eE�cx�6�=
+[K[15Cembox>eE�cx�6�=6
+[K[16Cembox>eE�cx�6�=6@
+[K[17Cembox>eE�cx�6�=6@6
+[K[18Cembox>eE�cx�6�=6@6T
+[K[19Cembox>eE�cx�6�=6@6T@
+[K[20Cembox>eE�cx�6�=6@6T@
+[K[21Cembox>eE�cx�6�=6@6T@
+[K[6Cembox>�eE�cx�6�=6@6T@
+[K[7Cembox>��eE�cx�6�=6@6T@
+[K[8Cembox>��@eE�cx�6�=6@6T@
+[K[9Cembox>��@@eE�cx�6�=6@6T@
+[Kembox>��@@@eE�cx�6�=6@6T@
+[Kembox>��@@@@eE�cx�6�=6@6T@
+[K[12Cembox>��@@@@@eE�cx�6�=6@6T@
+[K[13Cembox>��@@@@@QeE�cx�6�=6@6T@
+[K[14Cembox>��@@@@@QeeE�cx�6�=6@6T@
+[K[15Cembox>��@@@@@QexeE�cx�6�=6@6T@
+embox>��@@@@@QexpeE�cx�6�=6@6T@
+embox>��@@@@@QexpoeE�cx�6�=6@6T@
+embox>��@@@@@QexporeE�cx�6�=6@6T@
+embox>��@@@@@QexporteE�cx�6�=6@6T@
+embox>��@@@@@Qexport@eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@��eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@���eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@����eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@��������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@���������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@����������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������<eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������<6eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������<66eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������<665eE�cx�6�=6@6T@
+embox>��@@@@@Qexport@�����������<6656eE�cx�6�=6@6T@
+embox>[K[39C
+��@@@@@Qexport@�������: Command not found
+tish error: #-2
+embox>6T@cdhr�Qdl�@@?@@�M>6T@��@>@@?@@�M>6T@6@@@@/@@@\
+6T@: Command not found
+tish error: #-2
+embox>
+ �&�xport&&&&
+tish error: #-22
+embox>
+
+6: Command not found
+tish error: #-2
+embox>
+
+�l�@@?@@�M>��@>@@?@@�M>6T@: Command not found
+tish error: #-2
+embox>@@@/@@E�cx�6�=6@6T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

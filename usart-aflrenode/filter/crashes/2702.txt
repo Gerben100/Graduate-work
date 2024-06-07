@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�~gout�n
+�~: Command not found
+tish error: #-2
+embox>
+��
+embox>��������'exit��exi4
+��������'exit�: Command not found
+tish error: #-2
+embox>embox>��������'exit�[K[39Cp�n
+��������'exit�p�n: Command not found
+tish error: #-2
+embox>
+�~����
+embox>��������#embox>��������'exit�p�npyn
+��������'exit�p�npyn: Command not found
+tish error: #-2
+embox>
+�~�۴�
+embox>��������#embox>��������'exit�p�npin
+��������'exit�p�npin: Command not found
+tish error: #-2
+embox>
+��~���
+embox>�@�����#embox>��������'exit�p�npin
+��������'exit�p�npin: Command not found
+tish error: #-2
+embox>
+�~����
+embox>�E��'���embox>��������'exit�p�nh�embox>��������'exit�p�nh�embox>��������'exit�p�nh�embox>��������'exit�p�nhembox>��������'exit�p�nh
+��������'exit�p�n: Command not found
+tish error: #-2
+embox>
+���Ed���pM����M�embox>
+���Ed���pM����M�[Kembox>
+���Ed���pM����M�[Kembox>
+���Ed���pM����M[K[25CEd���pM����M�embox>
+���Ed���pM����MEd���pM����M�embox>
+���Ed���pM����MEd���pM����M�embox>
+���Ed���pM����MEd���pM����Membox>
+���Ed���pM����MEd���pM����M
+���Ed: Command not found
+tish error: #-2
+embox>
+܂��������������
+܂��������������: Command not found
+tish error: #-2
+embox>embox>[K[6C
+embox>
+�~����
+embox>�Ed���Ed��dembox>[K[22C
+�Ed: Command not found
+tish error: #-2
+embox>
+����embox>
+����[K
+����: Command not found
+tish error: #-2
+embox>
+�~���Ed���d�pM�embox>[K[23C�embox>[K[23C�embox>[K[24C
+�~���Ed��: Command not found
+tish error: #-2
+embox>
+�~����
+embox>�Ed����xpM�embox>�Ed����xpM�embox>�Ed����xpM�embox>�Ed����xpMembox>�Ed����xpM
+�Ed: Command not found
+tish error: #-2
+embox>
+c
+�Ed: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ܚ��� t��{�v $
+�Ed$: Command not found
+tish error: #-2
+embox>
+�pn�E�export�
+�pnexpo: Command not found
+tish error: #-2
+embox>
+export�~����
+embox>�Ed��dxpcd
+�Ed: Command not found
+tish error: #-2
+embox>
+�~�iiiiii
+�~�iiiiii: Command not found
+tish error: #-2
+embox>
+�~����
+embox>���
+embox>x%iiiiii�iiii�i
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+�~����
+embox>���
+embox>x%iiiiii�iii�@@ogout@9\@iii
+x%iiiiii: Command not found
+tish error: #-2
+embox>
+�
+embox>��� x%iiiiii�iiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

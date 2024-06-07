@@ -1,0 +1,73 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eYportx
+eYportx: Command not found
+tish error: #-2
+embox>
+@dlogoutï¿½embox>eYportx[K[13C@cdï¿½dï¿½iï¿½
+eYportx: Command not found
+tish error: #-2
+embox>
+@dï¿½embox>eYportx[K[13C@cdï¿½diï¿½
+eYportx: Command not found
+tish error: #-2
+embox>
+Gï¿½
+Gï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+@tï¿½ï¿½exitï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Qï¿½ï¿½ï¿½8I8888888
+@t: Command not found
+tish error: #-2
+embox>88ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>
+@t[K[9Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½mgoï¿½ï¿½ï¿½
+@tï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ö®®®ï¿½ï¿½ï¿½embox>
+@tï¿½ï¿½ï¿½ï¿½ï¿½[K[14Ccdcï¿½ï¿½dembox>
+@t[K[9Cï¿½diï¿½
+@tï¿½d: Command not found
+tish error: #-2
+embox>
+dï¿½embox>
+@tï¿½d[K[11C@cdï¿½ï¿½ï¿½embox>
+@tï¿½d@cdï¿½ï¿½[Kiï¿½iï¿½
+@tï¿½d: Command not found
+tish error: #-2
+embox>
+@dï¿½dï¿½embox>
+@tï¿½d[K[11C@cdï¿½dembox>
+@tï¿½ï¿½ï¿½ï¿½ï¿½cdcï¿½ï¿½d[K[20Cï¿½iembox>
+@t[K[9C@cdï¿½dembox>
+ï¿½[K[8Cï¿½iï¿½
+×€: Command not found
+tish error: #-2
+embox>
+@dï¿½embox>
+×€[K[9Ceï¿½itï¿½dembox>
+@tï¿½d@cdï¿½d[K[17Cï¿½iï¿½
+@tï¿½d@cdï¿½dï¿½: Command not found
+tish error: #-2
+embox>
+eeeeeeeeexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

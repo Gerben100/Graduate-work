@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+ ex embox>
+ ex [K[10Cembox>
+ ex [K[11Cembox>
+ exe [K[12Cembox>
+ exex [K[13Cembox>
+ exexp [K[14Cembox>
+ exexpo [K[15Cembox>
+ exexpor [K[16Cembox>
+ exexport [K[17Cembox>
+ exexporte [K[18Cembox>
+ exexporte� [K[19Cembox>
+ exexporte� [K[20Cembox>
+ exexporte�$ [K[21Cembox>
+ exexporte�$l [K[22Cembox>
+ exexporte�$l_ [K[23Cembox>
+ exexporte�$l_g [K[24Cembox>
+ exexporte�$l_go [K[25Cembox>
+ exexporte�$l_go> [K[26Cembox>
+ exexporte�$l_go>p [K[27Cembox>
+ exexporte�$l_go>po [K[28Cembox>
+ exexporte�$l_go>por [K[29Cembox>
+ exexporte�$l_go>port [K[30Cembox>
+ exexporte�$l_go>porte [K[31Cembox>
+ exexporte�$l_go>porte� [K[32Cembox>
+ exexporte�$l_go>porte� [K[33Cembox>
+ exexporte�$l_go>porte�$ [K[34Cembox>
+ exexporte�$l_go>porte�$l [K[35Cembox>
+ exexporte�$l_go>porte�$l_ [K[36Cembox>
+ exexporte�$l_go>porte�$l_g [K[37Cembox>
+ exexporte�$l_go>porte�$l_go [K[38Cembox>
+ exexporte�$l_go>porte�$l_go> [K[39Cembox>
+ exexporte�$l_go>porte�$l_go>o [K[40Cembox>
+ exexporte�$l_go>porte�$l_go>o> [K[41Cembox>
+ exexporte�$l_go>porte�$l_go>o> [K[42C
+ex: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[7Cembox>
+e[K[8Cembox>
+ee[K[9Cembox>
+e_e[K[10Cembox>
+e_xe[K[11Cembox>
+e_xpe[K[12Cembox>
+e_xpoe[K[13Cembox>
+e_xpore[K[14Cembox>
+e_xporte[K[15Cembox>
+e_xportoe[K[16Cembox>
+e_xportoue[K[17Cembox>
+e_xportoue[K[18C
+tish error: #-22
+embox>
+_embox>
+_[K[7Cembox>
+e_[K[8Cembox>
+e_[K[9Cembox>
+e_[K[10Cembox>
+e$_[K[11Cembox>
+e$e_[K[12Cembox>
+e$ex_[K[13Cembox>
+e$exp_[K[14Cembox>
+e$expo_[K[15Cembox>
+e$expor_[K[16Cembox>
+e$export_[K[17C
+e: Command not found
+tish error: #-2
+embox>
+~cdl�embox>
+e[K[8CN
+e: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[7Cembox>
+@[K[8Cembox>
+X@[K[9Cembox>
+X@[K[10Cembox>
+X@[K[11Cembox>
+Xl@[K[12Cembox>
+Xll@[K[13Cembox>
+Xll@[K[14C��embox>
+adduser.conf[Kio
+adduser.confio: Command not found
+tish error: #-2
+embox>
+����^�
+����^�: Command not found
+tish error: #-2
+embox>
+�hlgous�i�
+tish error: #-22
+embox>
+_embox>
+_[K[7Cembox>
+_[K[8Cembox>
+_[K[9Cembox>
+_[K[6Cembox>i
+_[K[7Cembox>io
+_[K[8Cembox>iog
+_[K[9Cembox>iog�
+_[K[10Cembox>iog�
+_[K[11Cembox>iog�l
+_[Kembox>iog�ll
+_[Kembox>iog�llo
+_[K
+iog�: Command not found
+tish error: #-2
+embox>
+_
+embox>Yhlog�embox>Yhlog[K[13Cio
+Y: Command not found
+tish error: #-2
+embox>
+_embox>
+_[K[7Cembox>
+_[K[8Cembox>
+l_[K[9Cembox>
+ll_[K[10Cembox>
+llo_[K[11Cembox>
+llog_[K[12Cembox>
+llog�_[K[13Cembox>
+llog_[K[12Cembox>
+llog_[K[13Cembox>
+llogX_[K[14Cembox>
+llogX_[K[15Cembox>
+llogX_[K[16Cembox>
+llogXl_[K[17Cembox>
+llogXl_[K[18Cembox>
+llogXl[K[18Cg�embox>
+llogXlg[K[19Cio
+tish error: #-22
+embox>
+_embox>
+_[Kembox>
+e_[Kembox>
+ex_[Kembox>
+exi_[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

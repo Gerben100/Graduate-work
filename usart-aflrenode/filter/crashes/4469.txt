@@ -1,0 +1,68 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[?5h[?5lV@@@P@[?5h[?5lV@@P@@@D
+V@@@P@: Command not found
+tish error: #-2
+embox>
+[?5h[?5l@@@E@@+@@�@\@@��@@ex%c
+: Command not found
+tish error: #-2
+embox>
+lZgout@@@+@@embox>
+lZgout@@@+@[K[19Cxp@@e�.�
+lZgout@@@+@xp@@e�.�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lP@@@@@+@@�@\L@��embox>
+P@@@@@+@@�@\L@��[K[26Cxp@@ex%ccd
+: Command not found
+tish error: #-2
+embox>
+�xi�������t�tttttttttttttt�ttttt�� ������������
+�xi�������t�tttttttttttttt�ttttt��: Command not found
+tish error: #-2
+embox>���embox>���[K[9C@xlogou
+���@xlogou: Command not found
+tish error: #-2
+embox>
+o�tttytttttttttttt�tttt]tt�tttt`� ����embox>
+o�tttytttttttttttt�tttt]tt�tttt`� ����-[?5h[?5l�����
+tish error: #-22
+embox>�����x�ogou
+���: Command not found
+tish error: #-2
+embox>
+�x�
+embox>tt�� ��������������embox>tt�� ���������������xlogou
+tt��: Command not found
+tish error: #-2
+embox>
+�xi�����tt expott����xWggou
+�xi�����tt: Command not found
+tish error: #-2
+embox>
+�tttttttt�ttttt�� �������������
+�xi�����tt: Command not found
+tish error: #-2
+embox>����xlogou
+����xlogou: Command not found
+tish error: #-2
+embox>
+�xi�����[@@@@@G@@\@@@@@@G@(�u
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,153 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>� 
+�: Command not found
+tish error: #-2
+embox>
+O�
+O�: Command not found
+tish error: #-2
+embox>
+��exit�iiiiii�iiiiiiiiiut@ut@
+��exit�iiiiii�iiiiiiiiiut@: Command not found
+tish error: #-2
+embox>
+c�p
+c�p: Command not found
+tish error: #-2
+embox>
+�������embox>
+������[K[13C��%i
+��������%i: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+embox>��[K[8C0embox>
+[K[7Cembox>
+��������%i[K[17C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>�[K[7CO����
+�O��: Command not found
+tish error: #-2
+embox>
+gp
+embox>
+�}�i
+�: Command not found
+tish error: #-2
+embox>
+j
+tish error: #-22
+embox>
+�@exitlsef��x
+embox>qpin�
+qpin�: Command not found
+tish error: #-2
+embox>
+� �
+�: Command not found
+tish error: #-2
+embox>
+���2��
+���2�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+*�
+�@: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+����~�
+����~�: Command not found
+tish error: #-2
+embox>
+�xi�
+�xi: Command not found
+tish error: #-2
+embox>
+
+embox>pin
+embox>
+ ,ht��
+tish error: #-22
+embox>
+
+�O��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+�@: Command not found
+tish error: #-2
+embox>p3
+p3: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+
+tish error: #-22
+embox>
+�Yx[���ypXpPp�qT
+�qT: Command not found
+tish error: #-2
+embox>
+p�
+�@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+a&p�
+�@&p�: Command not found
+tish error: #-2
+embox>
+pT
+�@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lo,ogoovooPooooooooo�oooooooo�utopgp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+O�
+ls�
+�@embox>�@[K[8C@
+�@@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����~�
+�����~�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+� @ @@embox>
+@[K[8C
+@: Command not found
+tish error: #-2
+embox>
+e`po�t���@@embox>
+@[K[8C@ @
+@@: Command not found
+tish error: #-2
+embox>
+@@embox>
+@@[K[6Cembox>@
+@@[K[7C
+@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C� @
+�: Command not found
+tish error: #-2
+embox>
+��@@@A /embox>� @[K[9Cembox>@
+@@[K[10CA /
+@: Command not found
+tish error: #-2
+embox>
+�� 
+��: Command not found
+tish error: #-2
+embox>
+������������������������@W@���������������embox>[K �
+������������������������@W: Command not found
+tish error: #-2
+embox>
+]
+]: Command not found
+tish error: #-2
+embox>
+export @embox>
+][K@
+]@: Command not found
+tish error: #-2
+embox>
+@ls
+@ls: Command not found
+tish error: #-2
+embox>
+@�s@
+@ls�s@: Command not found
+tish error: #-2
+embox>
+�!
+�!: Command not found
+tish error: #-2
+embox>
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC#CC @
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

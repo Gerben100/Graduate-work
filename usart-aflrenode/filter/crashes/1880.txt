@@ -1,0 +1,139 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��m�
+��m�: Command not found
+tish error: #-2
+embox>
+ �
+�: Command not found
+tish error: #-2
+embox>
+��m��
+��m��: Command not found
+tish error: #-2
+embox>
+�d��l�gcd�embox>
+�d��l�gcd�[K[6C
+�d�: Command not found
+tish error: #-2
+embox>
+��000000exitembox>
+��000000exit[K[6Cembox>0
+��000000exit[K[7Cembox>0J
+��000000exit[K[8Cembox>0J0
+��000000exit[K[9Cembox>0J0�
+��000000exit[K[10Cembox>0J0�
+��000000exit[K[11C
+0J0�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�d�
+�d�: Command not found
+tish error: #-2
+embox>
+bb��embox>
+bb��[K[12Cembox>
+�d�[K[10C��axQ�
+embox>
+embox>
+bqNn�embox>
+bqNn[K[11Cembox>
+bqN[K[10C�
+bqN�: Command not found
+tish error: #-2
+embox>
+bb��>]embox>
+bqN�[K[11C��embox>
+bqN���[K[6Cembox>
+bqN���[K[7Cembox>
+bqN���[K[8Cembox>�
+bqN���[K[9C[H[H[2Jembox>�
+bqN���[K[9Cembox>�x
+bqN���[K[10Cembox>�xQ
+bqN���[K[11Cembox>�xQi
+bqN���[K[12Cembox>�xQi
+bqN���[K[13Cembox>�xQi
+bqN���[K[14Cembox>�xQi
+bqN���[K[15C
+embox>
+bb��>embox>
+bqN�[K[11Cembox>
+bb��[K[12C��_ogoutQWjjembox>
+bb����_ogoutQWjjembox>
+bb����_ogoutQWjj
+embox>
+b]embox>
+bqN�[K[11C��lsb]P��lsd�dhd�xQh�qu��
+bqN���lsb: Command not found
+tish error: #-2
+embox>
+bb��>�embox>
+bqN���lsb[K[16C��embox>
+bqN���lsb��[K[6Cembox>
+bqN���lsb��[Kembox>
+bqN���lsb��[Kembox>�
+bqN���lsb��[Kembox>ڶ
+bqN���lsb��[Kembox>ڶx
+bqN���lsb��[Kembox>ڶxQ
+bqN���lsb��[K
+embox>�embox>�[K[6Cembox>�[K[7C
+embox>
+bb��>]embox>
+bb��>�[K[13C��embox>
+bb��>���[K[6Cembox>
+bb��>���[K[7Cembox>
+bb��>���[K[6Cembox>
+bb��>���[K[7Cembox>
+bb��>���[K[8Cembox>x
+bb��>���[Kembox>xQ
+bb��>���[Kembox>xQi
+bb��>���[Kembox>xQi
+bb��>���[Kembox>xQil
+bb��>���[Kembox>xQils
+bb��>���embox>xQils
+bb��>���embox>xQils
+bb��>���
+embox>
+bb��>]Qiembox>
+bb��>]Qi[K[6Cembox>
+bb��>]Qi[K[7C
+embox>
+cX���ls����logout��embox>
+cX���ls����logout��embox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>
+bb��>�[K[13C�embox>
+bb��>�[K[14Cembox>
+bb��>�[K[6C
+bb��>�: Command not found
+tish error: #-2
+embox>
+ls@t�t��
+ls@t�t��: Command not found
+tish error: #-2
+embox>
+bb��>]�ex��
+embox>
+
+tish error: #-22
+embox>
+bb��������������phnd����������(
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

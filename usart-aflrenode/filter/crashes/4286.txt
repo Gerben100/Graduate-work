@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���VE
+���VE: Command not found
+tish error: #-2
+embox>
+��embox>[K[6C
+embox>
+�
+tish error: #-22
+embox>
+l@�embox>
+l@�[K[6Cembox>+
+l@�[K[7Cembox>+,
+l@�[K[8C
++,: Command not found
+tish error: #-2
+embox>
+embox>+,
+l@�[K[12Cxe�
++,: Command not found
+tish error: #-2
+embox>
+_:�e� �sembox>+,
+l@�[K[12Cembox>+,
+l@�[K[6Cembox>+,
+l@�[K[7C
+embox>
+c3embox>
+c[K[11C
+: Command not found
+tish error: #-2
+embox>
+bl��:xembox>[K[6C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>x
+[K[8Cembox>x�
+[K[9Cembox>x�y
+[K[10Cembox>x�y7
+[K[11Cembox>x�y7x
+[K[12Cembox>x�y7x�
+[K[13Cembox>x�y7x�
+[K[14Cembox>x�y7x�
+[K[15C
+embox>
+�:embox>
+�:[K[6Cembox>�
+�:[K[7Cembox>
+�:[K[6Cembox>�
+�:[K[7Cembox>��
+�:[K[8Cembox>���
+�:[K[9C
+���: Command not found
+tish error: #-2
+embox>
+��:xsx
+��:xsx: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>
+��[K[7Cembox>�
+��[K[8Cembox>�:
+��[K[9Cembox>�:��[K[9Cembox>�:y��[K[10Cembox>�:yr��[K[11Cembox>�:yrx��[K[12Cembox>�:yrx[?5h[?5l��[K[13Cembox>�:yrx[?5h[?5l���[K[14Cembox>�:yrx[?5h[?5l���[K[15C
+embox>
+dd
+dd: Command not found
+tish error: #-2
+embox>
+���xe�
+���xe�: Command not found
+tish error: #-2
+embox>
+��:xexport�cx�66F6>6T@embox>
+��:xexport�cx�66F6>6T@embox>�
+��:xexport�cx�66F6>6T@embox>��
+��:xexport�cx�66F6>6T@embox>��@
+��:xexport�cx�66F6>6T@embox>��@@
+��:xexport�cx�66F6>6T@embox>��@@@
+��:xexport�cx�66F6>6T@embox>��@@@@
+��:xexport�cx�66F6>6T@embox>��@@@@@
+��:xexport�cx�66F6>6T@embox>��@@@@@Q
+��:xexport�cx�66F6>6T@embox>��@@@@@Qe
+��:xexport�cx�66F6>6T@embox>��@@@@@Qex
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexp
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo�
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo�
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo�
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo�
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c6
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c66
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c665
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c665
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c665e
+��:xexport�cx�66F6>6T@embox>��@@@@@Qexpo��@c665ex
+��:xexport�cx�66F6>6T@
+��@@@@@Qexpo�: Command not found
+tish error: #-2
+embox>port�@@@@@@@@@?@@@
+port�@@@@@@@@@?@@@: Command not found
+tish error: #-2
+embox>
+logout@`
+logout@`: Command not found
+tish error: #-2
+embox>
+��:xextor]�yx�@@@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

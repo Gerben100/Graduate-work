@@ -1,0 +1,167 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�oexpo{tembox>
+�oexpo{t[K[16C��ZZZZZembox>
+�oexpo{t��ZZZZZ[K[6Cembox>�
+�oexpo{t��ZZZZZ[K[7Cembox>��
+�oexpo{t��ZZZZZ[K[8Cembox>���
+�oexpo{t��ZZZZZ[K[9Cembox>����
+�oexpo{t��ZZZZZ[K[10Cembox>���ʏ
+�oexpo{t��ZZZZZ[K[11Cembox>���ʏ�
+�oexpo{t��ZZZZZ[K[12Cembox>���ʏ�
+�oexpo{t��ZZZZZ[K[13Cembox>���ʏ��
+�oexpo{t��ZZZZZ[K[14Cembox>���ʏ���
+�oexpo{t��ZZZZZ[K[15Cembox>���ʏ����
+�oexpo{t��ZZZZZ[K[16Cembox>���ʏ�����
+�oexpo{t��ZZZZZ[K[17Cembox>���ʏ�����
+�oexpo{t��ZZZZZ[K[6Cembox>m���ʏ�����
+�oexpo{t��ZZZZZ[K[7Cembox>m���ʏ�����
+�oexpo{t��ZZZZZ[K[6C
+m���ʏ�����: Command not found
+tish error: #-2
+embox>F
+F: Command not found
+tish error: #-2
+embox>
+�oexpologoutZZZZZ��������������embox>
+�oexpologoutZZZZZ��������������[K[6Cembox>�
+�oexpologoutZZZZZ��������������[K[7Cembox>�
+�oexpologoutZZZZZ��������������[K[6Cembox>F�
+�oexpologoutZZZZZ��������������[K[7Cembox>F�
+�oexpologoutZZZZZ��������������[K[8C
+F: Command not found
+tish error: #-2
+embox>
+expo��o�lsZZZZZ�������embox>
+expo��o�lsZZZZZ�������[K[6Cembox>�
+expo��o�lsZZZZZ�������[K[7Cembox>��
+expo��o�lsZZZZZ�������[K[8Cembox>���
+expo��o�lsZZZZZ�������[K[9Cembox>����
+expo��o�lsZZZZZ�������[K[10Cembox>�����
+expo��o�lsZZZZZ�������[K[11Cembox>������
+expo��o�lsZZZZZ�������[K[12Cembox>�������
+expo��o�lsZZZZZ�������[K[13Cembox>�������
+expo��o�lsZZZZZ�������[K[6Cembox>��������
+expo��o�lsZZZZZ�������[K[7Cembox>��������
+expo��o�lsZZZZZ�������[K[6Cembox>F��������
+expo��o�lsZZZZZ�������[K[7Cembox>F��������
+expo��o�lsZZZZZ�������[K[8C
+F: Command not found
+tish error: #-2
+embox>
+�oe porto����ZpinZZZZZZZZZ�embox>
+�oe porto����ZpinZZZZZZZZZ�[K[6Cembox>�
+�oe porto����ZpinZZZZZZZZZ�[K[7Cembox>�
+�oe porto����ZpinZZZZZZZZZ�[K[6Cembox>F�
+�oe porto����ZpinZZZZZZZZZ�[K[7Cembox>F�
+�oe porto����ZpinZZZZZZZZZ�[K[8C
+F: Command not found
+tish error: #-2
+embox>
+�oeZZZZZZ>�������embox>
+�oeZZZZZZ>�������[K[6Cembox>�
+�oeZZZZZZ>�������[K[7Cembox>�
+�oeZZZZZZ>�������[K[6Cembox>F�
+�oeZZZZZZ>�������[K[7Cembox>F�
+�oeZZZZZZ>�������[K[8Cembox>Fʪ
+�oeZZZZZZ>�������[K[9Cembox>F�ʪ
+�oeZZZZZZ>�������[K[10Cembox>F��Z�
+�oeZZZZZZ>�������[K[11Cembox>F��ZZ�
+�oeZZZZZZ>�������[K[12Cembox>F��ZZS�
+�oeZZZZZZ>�������[K[13Cembox>F��ZZSZ�
+�oeZZZZZZ>�������[K[14Cembox>F��ZZSZZ�
+�oeZZZZZZ>�������[K[15Cembox>F��ZZSZZ��
+�oeZZZZZZ>�������[K[16Cembox>F��ZZSZZ��
+�oeZZZZZZ>�������[K[17Cembox>F��ZZSZZ���
+�oeZZZZZZ>�������[K[18Cembox>F��ZZSZZ���ʪ
+�oeZZZZZZ>�������[K[19Cembox>F��ZZSZZ����ʪ
+�oeZZZZZZ>�������[K[20Cembox>F��ZZSZZ�����ʪ
+�oeZZZZZZ>�������[K[21Cembox>F��ZZSZZ������ʪ
+�oeZZZZZZ>�������[K[22Cembox>F��ZZSZZ�������ʪ
+�oeZZZZZZ>�������[K[23Cembox>F��ZZSZZ��������ʪ
+�oeZZZZZZ>�������[K[24Cembox>F��ZZSZZ���������ʪ
+�oeZZZZZZ>�������[K[25Cembox>F��ZZSZZ����������ʪ
+�oeZZZZZZ>�������[Kembox>F��ZZSZZ�����������ʪ
+�oeZZZZZZ>�������[Kembox>F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[Kembox>F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[Kembox>�F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[Kembox>�F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[Kembox>F�F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[Kembox>F�F��ZZSZZ������������ʪ
+�oeZZZZZZ>�������[K
+F: Command not found
+tish error: #-2
+embox>
+�oexporto����ZZZZexportZZZZZZZZZZ��������������embox>
+�oexporto����ZZZZexportZZZZZZZZZZ��������������[K[6Cembox>�
+�oexporto����ZZZZexportZZZZZZZZZZ��������������[K[7Cembox>�
+�oexporto����ZZZZexportZZZZZZZZZZ��������������[K[6C
+�: Command not found
+tish error: #-2
+embox>F
+F: Command not found
+tish error: #-2
+embox>
+�oexporto����ZZZZZZZDZ�ZZZZZZZZJZ������������embox>
+�oexporto����ZZZZZZZDZ�ZZZZZZZZJZ������������embox>�
+�oexporto����ZZZZZZZDZ�ZZZZZZZZJZ������������embox>�
+�oexporto����ZZZZZZZDZ�ZZZZZZZZJZ������������
+�: Command not found
+tish error: #-2
+embox>F
+F: Command not found
+tish error: #-2
+embox>
+�oexpo�t]���exitZZZZZ�ZZZZZZZZZZZ��ʬ�����������embox>
+�oexpo�t]���exitZZZZZ�ZZZZZZZZZZZ��ʬ�����������
+�oexpo�t]���exitZZZZZ�ZZZZZZZZZZZ��ʬ����������: Command not found
+tish error: #-2
+embox>F
+F: Command not found
+tish error: #-2
+embox>
+�oexporto����ZZZsZZZZZZZZZZdZZZZZ��������������embox>
+�oexporto����ZZZsZZZZZZZZZZdZZZZZ��������������embox>�
+�oexporto����ZZZsZZZZZZZZZZdZZZZZ��������������embox>�
+�oexporto����ZZZsZZZZZZZZZZdZZZZZ��������������
+�: Command not found
+tish error: #-2
+embox>F
+F: Command not found
+tish error: #-2
+embox>
+embox>F[K[7Coegpembox>Foeg[K[10C�JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ��������embox>Foeg�JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ�������Zembox>Foeg�JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ�������ZZZ
+Foeg�JJJJJJJJJJJJJJJJJJJJJJJJJJJJJ�������ZZZ: Command not found
+tish error: #-2
+embox>ZZ� ���YZHZZ���F
+ZZ�: Command not found
+tish error: #-2
+embox>
+embox>[K[6CFxp���o�ortZ��embox>Fxp���o�ortZ�[K[20C���embox>Fxp���o�ortZ����[K[6Cembox>�Fxp���o�ortZ����embox>�Fxp���o�ortZ����embox>o�Fxp���o�ortZ����embox>o�Fxp���o�ortZ����
+o�F: Command not found
+tish error: #-2
+embox>
+�oJembox>
+�o[K[9C�@��{��embox>[K[6Cembox>[K[7Cembox>[K[8C
+f: Command not found
+tish error: #-2
+embox>
+�o�oembox>[K[6C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

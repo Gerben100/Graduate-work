@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>F__ssssss�sssssssss__ssssss�ssssssssssssses_e3
+F__ssssss�sssssssss__ssssss�ssssssssssssses_e3: Command not found
+tish error: #-2
+embox>
+B.
+B: Command not found
+tish error: #-2
+embox>
+_embox>
+[K[7CloUout
+loUout: Command not found
+tish error: #-2
+embox>
+____embox>
+___[K[10C_embox>
+____[K[6Cembox>�
+____[K[7C
+�: Command not found
+tish error: #-2
+embox>
+__b_
+embox>!export
+embox>
+__`
+__`: Command not found
+tish error: #-2
+embox>_embox>_[K[6Cembox>�_[K[7C
+�_: Command not found
+tish error: #-2
+embox>
+�_����embox>
+�_���[K[13C1����
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@����xQii�
+: Command not found
+tish error: #-2
+embox>
+�__�_
+�: Command not found
+tish error: #-2
+embox>
+\__��_
+�: Command not found
+tish error: #-2
+embox>
+)
+): Command not found
+tish error: #-2
+embox>
+_t__�_
+�: Command not found
+tish error: #-2
+embox>
+NT����
+NT���: Command not found
+tish error: #-2
+embox>
+j��
+j: Command not found
+tish error: #-2
+embox>
+lY``
+lY``: Command not found
+tish error: #-2
+embox>
+�����l^�cd��l�^^
+l^cd��l^: Command not found
+tish error: #-2
+embox>
+____pin�l^�ad�lye�sl^'�^
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

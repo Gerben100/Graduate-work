@@ -1,0 +1,111 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�665@@@@ @@
+�665@@@@: Command not found
+tish error: #-2
+embox>
+�t"d��ls
+�t"d��ls: Command not found
+tish error: #-2
+embox>
+�tp�d�V
+�tp�d�V: Command not found
+tish error: #-2
+embox>
+ex��embox>
+ex�[K[10CtdWdlt
+ex�tdWdlt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+��embox>
+[K[7C�vt��exitls
+tish error: #-22
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�t"embox>
+e[K[8C,sd�embox>
+e,sd[K[12Cpi
+e,sdpi: Command not found
+tish error: #-2
+embox>
+�t!���ls
+�t!���ls: Command not found
+tish error: #-2
+embox>
+�A
+�A: Command not found
+tish error: #-2
+embox>
+�t"������6656>6@���embox>[K[6Cdxdh/embox>dxdh/[K[11Cembox>dxdh/[K[12Cembox>dxdh�/[K[13Cembox>dxdh�W/[K[14Cembox>[K[6C��x{h�Wembox>��x{h�[K[18C�
+embox>�/xd
+embox>
+�t"������6656>6@���embox>[K[6CxWembox>[K[6C��x{h+�W�6656>6@
+embox>���embox>[K[6CxWembox>[K[6C��embox>�[K[10C��/xd
+embox>
+�t"��������/xd
+�t"�������: Command not found
+tish error: #-2
+embox>
+�t������6656>6@���embox>[Kxdembox>x[Kh/embox>xh/[Kembox>xh/[Kembox>[K[11Cembox>[K[12Cembox>[K��x{h"����
+embox>�6656>�@���embox>[Kxdembox>x[Kh/embox>xh/[Kembox>xh/[Kembox>[K[11Cembox>[K[12Cembox>[K��x{h+�Wembox>[K[18C��/xd
+embox>
+@j
+@j: Command not found
+tish error: #-2
+embox>
+�t"������6656>6@���embox>[K[6Cxdh/embox>xdh/embox>xdh/embox>xdh�/embox>xdh�W/embox>[K[6C��x{h+�W@
+embox>�/�xd
+embox>
+�t""�������cdti�[?5h[?5l�/xd
+�t""����: Command not found
+tish error: #-2
+embox>
+�t"����6656�6@����xdh/
+��x{h+: Command not found
+tish error: #-2
+embox>�W��/�W��/xd
+��: Command not found
+tish error: #-2
+embox>
+�t"����6656>6@����xdh/��xd
+�: Command not found
+tish error: #-2
+embox>
+�t"������6656>6@���@xdh/��x{h+�W�
+embox>�/xd
+embox>
+�t"�����cd656>6@���xdh/
+embox>�/xd
+embox>
+�t"������6656>6@���x��/��x{h+�W
+embox>�/xd
+embox>
+�u6[?5h[?5l�
+�u6[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+�t����@@@@@@@?@exp@"[?5h[?5l�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

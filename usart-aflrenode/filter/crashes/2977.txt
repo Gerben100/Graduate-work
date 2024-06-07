@@ -1,0 +1,109 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>111iniJdn�embox>111iniJdn[K[15C��
+111iniJdn��: Command not found
+tish error: #-2
+embox>
+l�ss
+l�ss: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�jjjjjjjjjj�embox>[K[6C�����embox>�����[K[11Cembox>[K[6C��j�����embox>��j�����[K[14Cembox>[K[6C��j�����j�����ls
+��j�����j�����ls: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>[K[6C�[H[H[2Jembox>�[K[7Cembox>�[K[6Cembox>�[K[7C[H[2Jembox>�[K[7Cembox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>�[K[9Cembox>��[K[10Cembox>ފ�[K[11Cembox>[K[6C�[H[2Jembox>�[K[10Cembox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>�[K[9Cembox>��[K[10Cembox>ފ�[K[11Cembox>ފe�[K[12C
+embox>
+embox>
+[K[7Cembox>[K[6C��j�ls
+��j�ls: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>[K[6C��j��cs
+��j��cs: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>s
+[K[7C
+s: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>[K[6C�i��l���
+�i��l���: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�logoutr�`�#�q������
+�logoutr�`�#�q������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�
+embox>logout��`�#�q������
+embox>
+embox>
+[K[6Cembox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>&
+embox>&�
+embox>&�`
+embox>&�`�
+embox>&�`�#
+embox>&�`�#
+embox>&�`�#u
+embox>&�`�#u�
+embox>&�`�#u��
+
+embox>
+
+embox>dQoutembox>�logoutr�`�#�q������
+�logoutr�`�#�q������: Command not found
+tish error: #-2
+embox>
+
+�embox>
+
+l[gout��`�#���q���������embox>[Kl[gout��`�#�
+l[gout��`�#: Command not found
+tish error: #-2
+embox>��q��������
+��q��������: Command not found
+tish error: #-2
+embox>
+
+embox>�logo
+embox>x�
+embox>x'expinit����l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

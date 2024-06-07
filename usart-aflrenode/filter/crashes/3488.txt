@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>�[K[7Cembox>[K[6Cembox>r[K[7Cembox>rl[K[8Cembox>rlo[K[9Cembox>rlo([K[10Cembox>rlo(x[K[11Cembox>rlo(x[K[12Cembox>rlo(xm[K[13Cembox>rlo(xm:[K[14Cembox>rlo(xm:i[K[15Cembox>rlo(xm:ix[K[16Cembox>rlo(xm:ixa[K[17C
+rlo(xm:ixa: Command not found
+tish error: #-2
+embox>
+embox>[K[6C����5�
+embox>
+ߓi
+ߓi: Command not found
+tish error: #-2
+embox>
+ߛ&embox>
+ߛ[K[9Cembox>
+ߛ[K[6C
+ߛ: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+]�pcdt
+]�pcdt: Command not found
+tish error: #-2
+embox>
+y
+pnn�
+y: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C�
+��: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>embox>[K
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��tembox>
+��lo�o�t
+�: Command not found
+tish error: #-2
+embox>
+߇�t���_t
+߇���_t: Command not found
+tish error: #-2
+embox>
+߇�t��ex������blog�t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�S��Q}�Q}� 
+�S��Q}�Q}�: Command not found
+tish error: #-2
+embox>
+embox>�S��Q}�Q}� [K[18C��ɼS�embox>�S��Q}�Q}� ��ɼS[K[23C����
+�S��Q}�Q}�: Command not found
+tish error: #-2
+embox>
+�c�embox>
+�c[K[9C���embox>
+�c��[K[11C���
+�c�����: Command not found
+tish error: #-2
+embox>
+'d�ɼh�embox>
+'d�ɼh[K[13CQc� 
+(null): Command not found
+tish error: #-2
+embox>
+export �b^
+export: Command not found
+tish error: #-2
+embox>
+���embox>
+export �b^[K[17Cd��rpembox>
+export �b^d��rp[K[6Cembox>�
+export �b^d��rp[K[7Cembox>�i
+export �b^d��rp[Kembox>�ii
+export �b^d��rp[Kembox>�iix
+export �b^d��rp[Kembox>
+'d�ɼhQc� [K[17Ceembox>[K[26CW�
+�iix: Command not found
+tish error: #-2
+embox>
+embox>[Kd�rembox>[Keembox>
+'d�ɼhQc� e3embox>[Kembox>[Kembox>[K
+(null): Command not found
+tish error: #-2
+embox>
+embox>[Kd�rembox>[K[27C(�tx�pHHHHHHHQHHHHHHHHHHHembox>[K[52CH�Hembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+yi�W�iix: Command not found
+tish error: #-2
+embox>
+lgcembox>
+lgcembox>
+lgcembox>�
+lgcembox>�
+lgcembox>�p
+lgcembox>�pz
+lgc
+embox>
+Wembox>[K:c��
+yi�W�iix: Command not found
+tish error: #-2
+embox>
+d###[?5h[?5l####>
+d##��##���
+d#######>: Command not found
+tish error: #-2
+embox>
+embox>[KJtxpembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+yiyW�i�W�iix: Command not found
+tish error: #-2
+embox>
+embox>[Kd�rembox>[K[6Ceeintxpembox>eeintxp[Kembox>yeeintxp[Kembox>yieeintxp[Kembox>yieeintxp[Kembox>yieWeintxp[Kembox>yieW�eintxp[K
+yieW�e: Command not found
+tish error: #-2
+embox>
+embox>yieW�eembox>[K[6Cetxtxpembox>etxtxpembox>yetxtxpembox>yetxtxpembox>yetxtxpembox>ytetxtxpembox>ytxetxtxpembox>ytxetxtxpembox>ytxetxtxpembox>ytxtetxtxpembox>ytxtxetxtxpembox>ytxtxpetxtxpembox>ytxtxpetxtxpembox>yytxtxpetxtxpembox>yiytxtxpetxtxpembox>yieytxtxpetxtxpembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+yiexityW�: Command not found
+tish error: #-2
+embox>
+�y��yyxyy�yyyd
+tish error: #-22
+embox>
+d�vtxpi�vtx��W�
+yieW�e: Command not found
+tish error: #-2
+embox>
+d�retxp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

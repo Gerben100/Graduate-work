@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>000embox>00[K[8C00A00000/00000000000000/
+0000A00000/00000000000000/: Command not found
+tish error: #-2
+embox>
+000000088I88888888
+0000000: Command not found
+tish error: #-2
+embox>
+0l�
+0l�: Command not found
+tish error: #-2
+embox>
+e\lrembox>
+e\lr[K[6Cembox>
+e\lr[K[7Cembox>W
+e\lr[K[8Cembox>W�
+e\lr[K[9Cembox>W��
+e\lr[K[10Cembox>W���
+e\lr[K[11C
+embox>
+�R�000pin0P00,�0000�J8I888  embox>
+�R�000pin0P00,�0000�J8I888  [K[6Cembox>�
+�R�000pin0P00,�0000�J8I888  [K[7Cembox>�
+�R�000pin0P00,�0000�J8I888  [K[8Cembox>�i
+�R�000pin0P00,�0000�J8I888  [K[9Cembox>�i�
+�R�000pin0P00,�0000�J8I888  [K[10Cembox>�i�Z
+�R�000pin0P00,�0000�J8I888  [K[11Cembox>�i�Z8
+�R�000pin0P00,�0000�J8I888  [K[12Cembox>�i�Z88
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�@
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�@@
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�@@@
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�@@@@
+�R�000pin0P00,�0000�J8I888  [Kembox>�i�Z888�@@@@8
+�R�000pin0P00,�0000�J8I888  [K[20Cembox>�i�Z888�@@@@88
+�R�000pin0P00,�0000�J8I888  [K[21C
+�: Command not found
+tish error: #-2
+embox>
+0000000pin0P000�0pin0P000�N000�88I8888888N000�88
+0000000pin0P000�0pin0P000�N000�: Command not found
+tish error: #-2
+embox>I88888888
+I88888888: Command not found
+tish error: #-2
+embox>
+0000000pinin0P00100�%8�I888888
+0000000pinin0P00100�%8�I888888: Command not found
+tish error: #-2
+embox>
+008TI8888888
+008TI8888888: Command not found
+tish error: #-2
+embox>
+0000060pin0P000�08888888
+0000060pin0P000�08888888: Command not found
+tish error: #-2
+embox>
+00000dc00embox>
+00000dc0in0P000�000�88I888888�x�xQiie�88
+00000dc0in0P000�000�: Command not found
+tish error: #-2
+embox>
+�000008pin0P000�0000�88I88888808
+�000008pin0P000�0000�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>�embox>�embox>0�embox>00�embox>00p�embox>00pi�embox>00pin�embox>00pin0�embox>00pin0P�embox>00pin0P0�embox>00pin0P00�embox>00pin0P000�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+0000000pin0P000�010�88I8�888888
+0000000pin0P000�010�: Command not found
+tish error: #-2
+embox>
+00&I�embox>[K�88888
+008TI8888888�88888: Command not found
+tish error: #-2
+embox>
+0000000pin0P00rt00����88888M88
+0000000pin0P00rt00�: Command not found
+tish error: #-2
+embox>
+00000Dpin0P00�00pin8=I888888888
+00000Dpin0P00�00pin8=I888888888: Command not found
+tish error: #-2
+embox>
+0000000pin0Pembox>
+0000000pin000�0000���8888888
+0000000pin000�0000�: Command not found
+tish error: #-2
+embox>
+./�
+./�: Command not found
+tish error: #-2
+embox>
+7
+7: Command not found
+tish error: #-2
+embox>
+E088
+E088: Command not found
+tish error: #-2
+embox>
+00000expjti`i�s0�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

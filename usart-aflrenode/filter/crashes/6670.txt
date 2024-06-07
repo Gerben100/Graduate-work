@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e@�cNNNNNNNNNNNNNNNNNNNembox>e@�cNNNNNNNNNNNNNNNNNNN[K[6Cembox>�e@�cNNNNNNNNNNNNNNNNNNN[K[7Cembox>��e@�cNNNNNNNNNNNNNNNNNNN[K[8Cembox>��@e@�cNNNNNNNNNNNNNNNNNNN[K[9Cembox>��@e@�cNNNNNNNNNNNNNNNNNNN[K[8Cembox>��@e@�cNNNNNNNNNNNNNNNNNNN[K[9Cembox>��b@e@�cNNNNNNNNNNNNNNNNNNN[K[10Cembox>��b7@e@�cNNNNNNNNNNNNNNNNNNN[K[11Cembox>��b7q@e@�cNNNNNNNNNNNNNNNNNNN[K[12Cembox>��b7qe@e@�cNNNNNNNNNNNNNNNNNNN[K[13Cembox>��b7qex@e@�cNNNNNNNNNNNNNNNNNNN[K[14Cembox>��b7qexp@e@�cNNNNNNNNNNNNNNNNNNN[K[15Cembox>��b7qexpo@e@�cNNNNNNNNNNNNNNNNNNN[K[16Cembox>��b7qexpor@e@�cNNNNNNNNNNNNNNNNNNN[K[17Cembox>��b7qexport@e@�cNNNNNNNNNNNNNNNNNNN[K[18Cembox>��b7qexport@@e@�cNNNNNNNNNNNNNNNNNNN[K[19Cembox>��b7qexport@<@e@�cNNNNNNNNNNNNNNNNNNN[K[20Cembox>��b7qexport@<@@e@�cNNNNNNNNNNNNNNNNNNN[K[21Cembox>��b7qexport@<@@@e@�cNNNNNNNNNNNNNNNNNNN[K[22Cembox>��b7qexport@<@@6@e@�cNNNNNNNNNNNNNNNNNNN[K[23Cembox>��b7qexport@<@@66@e@�cNNNNNNNNNNNNNNNNNNN[K[24Cembox>��b7qexport@<@@66N@e@�cNNNNNNNNNNNNNNNNNNN[K[25Cembox>��b7qexport@<@@66NN@e@�cNNNNNNNNNNNNNNNNNNN[Kembox>��b7qexport@<@@66NNN@e@�cNNNNNNNNNNNNNNNNNNN[K[27Cembox>��b7qexport@<@@66NNNe@e@�cNNNNNNNNNNNNNNNNNNN[K[28Cembox>��b7qexport@<@@66NNNe@e@�cNNNNNNNNNNNNNNNNNNN[K[29C
+��: Command not found
+tish error: #-2
+embox>membox>[K[6C�@���?exX@embox>�@���?exX[K[16C@NHc6656>6T�66F7��embox>tish[K[10C�@@embox>��[K[8C��ex
+����: Command not found
+tish error: #-2
+embox>embox>����[K[10C6T@@@@
+����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e@�cNNNNNNNNNNNembox>
+�[K[8C5NN7NNNNNNexemembox>[K[6C�@���?exX@embox>�@���?exX[K[16C
+embox>@�Hc656�>6R@u��K@ls@embox>@�Hc656�>6R@u��K@ls@[K[28Cembox>@�Hc656�>6R@u��K@ls@[K[29Cembox>@�Hc656�>6R@u��K@ls@@[K[30Cembox>@�Hc656�>6R@u��K@ls@@@[K[31Cembox>@�Hc656�>6R@u��K@ls@@@@[K[32Cembox>@�Hc656�>6R@u��K@ls@@@@@[K[33Cembox>@�Hc656�>6R@u��K@ls@@@@@'[K[34Cembox>@�Hc656�>6R@u��K@ls@@@@@'@[K[35Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D[K[36Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@[K[37Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\[K[38Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@[K[39Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@[K[40Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@e[K[41Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@ex[K[42Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@ex [K[43Cembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@ex {[Kembox>@�Hc656�>6R@u��K@ls@@@@@'@D@\@@ex {@[K
+@�Hc656�>6R@: Command not found
+tish error: #-2
+embox>
+e@�cNNNNNNNNNNNNNNNNNNNNNNemembox>[K[6C�A�?exX@embox>�A�?exX[K[16C@NHc
+embox>6656>6T�66F7��[?5h[?5l�@@embox>@�Hc656�>6R@[K[19Cexembox>
+�[K[8C T@@@@
+�: Command not found
+tish error: #-2
+embox>
+e@@@@@@@@:@@@@exembox>
+�[K[8C�6P�&@
+��6P: Command not found
+tish error: #-2
+embox>
+e@�cNNN�<NexitNNembox>
+e@�cNNN�<NexitNN[K[6Cembox>N
+e@�cNNN�<NexitNN[Kembox>NN
+e@�cNNN�<NexitNN[Kembox>NNN
+e@�cNNN�<NexitNN[Kembox>NNNN
+e@�cNNN�<NexitNN[Kembox>NNNNN
+e@�cNNN�<NexitNNembox>NNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNNN
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNNNe
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNNNe
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNNNem
+e@�cNNN�<NexitNNembox>NNNNNNNNNNNNNem
+e@�cNNN�<NexitNNembox>
+e@�cNNN�<NexitNN[K[6Cembox>m
+e@�cNNN�<NexitNN[Kembox>m�
+e@�cNNN�<NexitNN[Kembox>m�@
+e@�cNNN�<NexitNN[Kembox>m�@�
+e@�cNNN�<NexitNN[Kembox>m�@��
+e@�cNNN�<NexitNNembox>m�@���
+e@�cNNN�<NexitNNembox>m�@���?
+e@�cNNN�<NexitNNembox>m�@���?e
+e@�cNNN�<NexitNNembox>m�@���?ex
+e@�cNNN�<NexitNNembox>m�@���?exX
+e@�cNNN�<NexitNNembox>m�@���?exXl
+e@�cNNN�<NexitNNembox>m�@���?exXlo
+e@�cNNN�<NexitNNembox>m�@���?exXlog
+e@�cNNN�<NexitNNembox>m�@���?exXlogo
+e@�cNNN�<NexitNNembox>m�@���?exXlogou
+e@�cNNN�<NexitNN
+m�@���?exXlogou: Command not found
+tish error: #-2
+embox>t@embox>t[K[7C@NHc6656>4T�66F7��embox>tish[K�exembox>[K[38C6T@@@@
+m�@���?exXlogou: Command not found
+tish error: #-2
+embox>
+
+embox>�NOembox>�NO[K[10CT�membox>[K[6C�@embox>�@[K[9C@
+embox>
+�@@@@@@embox>
+�@@@@@@[K[6Cembox>@
+�@@@@@@[K[7Cembox>@�
+�@@@@@@[Kembox>@�@
+�@@@@@@[Kembox>@�@@
+�@@@@@@[Kembox>@�@@@
+�@@@@@@[Kembox>@�@@@@
+�@@@@@@embox>@�@@@@?
+�@@@@@@embox>@�@@@@?�
+�@@@@@@embox>@�@@@@?�
+�@@@@@@embox>@�@@@@?�
+�@@@@@@embox>@�@@@@?�
+�@@@@@@embox>@@�@@@@?�
+�@@@@@@embox>@@@�@@@@?�
+�@@@@@@embox>@@?@�@@@@?�
+�@@@@@@embox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23C
+embox>
+e@�cNNNNNNNNNN4N@?@@o@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26C
+@�@@@@?�: Command not found
+tish error: #-2
+embox>6656>6T�66F7��[?5h[?5l�@@embox>@�@@@@?�[Kexembox>[K[38C6T@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

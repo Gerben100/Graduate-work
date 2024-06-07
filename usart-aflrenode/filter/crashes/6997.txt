@@ -1,0 +1,169 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�M
+�M: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+,��
+,��: Command not found
+tish error: #-2
+embox>
+lo_�embox>
+lo_�[K[6Cembox>�
+lo_�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�exs���exs��o�i�
+�ex: Command not found
+tish error: #-2
+embox>
+�Lembox>
+�L[K[6Cembox>L
+�L[K[7Cembox>LL
+�L[K[8Cembox>LLL
+�L[K[9Cembox>LLLL
+�L[K[10Cembox>LLLLL
+�L[K[11Cembox>LLLLLL
+�L[K[12Cembox>LLLLLL@
+�L[K[13Cembox>LLLLLL@�
+�L[K[14Cembox>LLLLLL@�@
+�L[K[15Cembox>LLLLLL@�@B
+�L[K[16Cembox>LLLLLL@�@B
+�L[K[6Cembox>@LLLLLL@�@B
+�L[K[7Cembox>@?LLLLLL@�@B
+�L[K[8Cembox>@?]LLLLLL@�@B
+�L[K[9Cembox>@?]@LLLLLL@�@B
+�L[K[10Cembox>@?]@@LLLLLL@�@B
+�L[K[11Cembox>@?]@@@LLLLLL@�@B
+�L[K[12Cembox>@?]@@@@LLLLLL@�@B
+�L[K[13Cembox>@?]@@@@.LLLLLL@�@B
+�L[K[14Cembox>@?]@@@@.LLLLLLL@�@B
+�L[K[15Cembox>@?]@@@@.LLLLLLLL@�@B
+�L[K[16Cembox>@?]@@@@.LLLLLLLLL@�@B
+�L[K[17Cembox>@?]@@@@.LLLLLLLLLL@�@B
+�L[K[18Cembox>@?]@@@@.LLLLLLLLLLL@�@B
+�L[K[19Cembox>@?]@@@@.LLLLLLLLLLLL@�@B
+�L[K[20Cembox>@?]@@@@.LLLLLLLLLLLLL@�@B
+�L[K[21Cembox>@?]@@@@.LLLLLLL�LLLLLL@�@B
+�L[K[22Cembox>@?]@@@@.LLLLLLL�LLLLLL@�@B
+�L[K[23Cembox>@?]@@@@.LLLLLLL�LLLLLL@�@B
+�L[K[24Cembox>@?]@@@@.LLLLLLL��LLLLLL@�@B
+�L[K[25Cembox>@?]@@@@.LLLLLLL��LLLLLLL@�@B
+�L[K[26Cembox>@?]@@@@.LLLLLLL��LLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLLLL@�@B
+�Lembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLLLLL@�@B
+�L[K[42C
+@?]@@@@.LLLLLLL�: Command not found
+tish error: #-2
+embox>LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL
+LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL: Command not found
+tish error: #-2
+embox>LLLLLLLLLLLLLLL�@Bembox>LLLLLLLLLLLLLLL�@Bembox>@LLLLLLLLLLLLLLL�@Bembox>@?LLLLLLLLLLLLLLL�@Bembox>@?]LLLLLLLLLLLLLLL�@Bembox>@?]@LLLLLLLLLLLLLLL�@Bembox>@?]@@LLLLLLLLLLLLLLL�@Bembox>@?]@@@LLLLLLLLLLLLLLL�@Bembox>@?]@@@@LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL�LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL�LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL�LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLLL�@Bembox>@?]@@@@.LLLLLLL��LLLLLLLLLLLLLLLLLLLL�@B
+embox>
+embox>
+embox>@?]@@@@.LLLLLLL�
+@?]@@@@.LLLLLLL�: Command not found
+tish error: #-2
+embox>
+g;n�embox>
+g;n�[K[6Cembox>
+g;n�[K[7Cembox>e
+g;n�[K[8Cembox>ee
+g;n�[K[9Cembox>eex
+g;n�[K[10Cembox>eexi
+g;n�[K[11Cembox>eexit
+g;n�[K[12Cembox>eexit
+g;n�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�blogout[?5h[?5l
+�blogout[?5h[?5l: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�c�cembox>
+�c�c[K[6C
+�c�c: Command not found
+tish error: #-2
+embox>
+log/ut�
+log/ut�: Command not found
+tish error: #-2
+embox>
+�c
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+c�
+c�: Command not found
+tish error: #-2
+embox>
+�locoxc
+embox>
+��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�c
+�c: Command not found
+tish error: #-2
+embox>
+�c[?5h[?5l
+��c: Command not found
+tish error: #-2
+embox>
+�a
+�a: Command not found
+tish error: #-2
+embox>
+
+log/ut�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

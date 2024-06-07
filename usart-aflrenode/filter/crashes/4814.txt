@@ -1,0 +1,181 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+mm
+mm: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+i�go�^
+i�: Command not found
+tish error: #-2
+embox>
+M
+M: Command not found
+tish error: #-2
+embox>
+ttT
+ttT: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8Clogou�
+�logou�: Command not found
+tish error: #-2
+embox>
+<�o����
+<�o����: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+cd�ttrembox>[K[14Cembox>[K[13C
+cd�t: Command not found
+tish error: #-2
+embox>
+�oit
+�o: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>
+�l
+�l: Command not found
+tish error: #-2
+embox>
+1
+1: Command not found
+tish error: #-2
+embox>
+
+�I�
+�I�: Command not found
+tish error: #-2
+embox>
+{4 ����j
+{4: Command not found
+tish error: #-2
+embox>
+pi�
+tish error: #-22
+embox>
+
+embox>
+i���
+i���: Command not found
+tish error: #-2
+embox>
+d"[?5h[?5l 
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+i��������
+i�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+
+embox>x�{�
+x�{�: Command not found
+tish error: #-2
+embox>
+expkru[?5h[?5l
+expkru: Command not found
+tish error: #-2
+embox>
+�
+embox>
+
+�x%i�&
+�x%i�&: Command not found
+tish error: #-2
+embox>
+� i�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+��Q
+��Q: Command not found
+tish error: #-2
+embox>
+�������
+�������: Command not found
+tish error: #-2
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+i�[?5h[?5l
+t: Command not found
+tish error: #-2
+embox>
+�
+embox>x%u�i
+x%u�i: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+�x%�tn�epcd[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

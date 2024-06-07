@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>export
+embox>
+embox>
+adduser.conf[K[19C��� x)
+adduser.conf: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+group[Kembox>
+�[K[8Cl�_xi
+�l�_xi: Command not found
+tish error: #-2
+embox>
+embox>
+group[K�l�dembox>
+�l�_xi[K[13Cl��xi
+�l�_xi: Command not found
+tish error: #-2
+embox>
+embox>
+group[K
+group: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+tembox>
+t[K[8C����ex�[?5h[?5l�
+t����: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+[K[6Cembox>[K[6Cembox>[K[6C_l+embox>_l+[K[10C�=�pin
+_l: Command not found
+tish error: #-2
+embox>
+[?5h[?5l^[?5h[?5l^embox>
+^^[K[6Cembox>
+^^[K[7Cembox>�
+^^[K[8Cembox>��
+^^[K[9C
+embox>
+de�
+embox>de
+embox>
+
+tish error: #-22
+embox>
+[?5h[?5l~l[?5h[?5lembox>
+~l[K[11C^l
+embox>�embox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�embox>
+�[K�
+�: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+Ypino�
+Ypino�: Command not found
+tish error: #-2
+embox>
+uu���
+���: Command not found
+tish error: #-2
+embox>
+[?5h[?5l@b�=�
+tish error: #-22
+embox>
+@n��� 
+@n���: Command not found
+tish error: #-2
+embox>
+ecY|xlono_eKdtxlogoutp�=expo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

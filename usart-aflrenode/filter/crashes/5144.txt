@@ -1,0 +1,60 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e��6656>6�@embox>e��6656>6�@[K[17C��@@@@@@@@@c@@@@@@@@@@@@\@@exp@�@@@@
+e��6656>6�@��@@@@@@@@@c@@@@@@@@@@@@\@@exp@�@@@@: Command not found
+tish error: #-2
+embox>?@@�@embox>?@@�@[K[6Cembox>@?@@�@[K[7Cembox>@@?@@�@[K[8Cembox>@@@?@@�@[K[9Cembox>@@@@?@@�@[K[10Cembox>@@@@@?@@�@[K[11Cembox>@@@@@\?@@�@[K[12Cembox>@@@@@\@?@@�@[K[13Cembox>@@@@@\@@?@@�@[K[14Cembox>@@@@@\@@e?@@�@[K[15C
+@@@@@\@@e?@@�@: Command not found
+tish error: #-2
+embox>
+embox>@@@@@\@@e?@@�@[K[20Cee@?@@@cd@+embox>@@@@@\@@e?@@�@ee@?@@@cd@+embox>@@@@@\@@e?@@�@ee@?@@@cd@+@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@e
+@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@eexport8>6@�4@@\@@e
+@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@eexport8>6@�4@@\@@e: Command not found
+tish error: #-2
+embox>
+embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@eee�6656>6`@embox>@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@eee�6656>6`@��@@?@@@@@c@@@@@@@@@@�@\@@eembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+@@@@@\@@e?@@�@ee@?@@@cd@+@@@@@\@@eee�6656>6`@��@@?@: Command not found
+tish error: #-2
+embox>?@@@@@embox>?@@@@@[K[6Cembox>@?@@@@@[K[7Cembox>@@?@@@@@[K[8Cembox>@@@?@@@@@[K[9Cembox>@@@@?@@@@@[K[10Cembox>@@@@@?@@@@@[K[11Cembox>@@@@@\?@@@@@[K[12Cembox>@@@@@\@?@@@@@embox>@@@@@\@@?@@@@@embox>@@@@@\@@e?@@@@@
+@@@@@\@@e?@@@@@: Command not found
+tish error: #-2
+embox>
+embox>[K[21C 
+@@@@@\@@e?@@@@@: Command not found
+tish error: #-2
+embox>
+���dpint
+@@@@@\@@e?@@@@@: Command not found
+tish error: #-2
+embox>
+d
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+uf|P
+uf|P: Command not found
+tish error: #-2
+embox>
+�Ddufxi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

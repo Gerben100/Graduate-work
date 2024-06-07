@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p.r /����e����������������e
+p.r: Command not found
+tish error: #-2
+embox>
+��N
+��N: Command not found
+tish error: #-2
+embox>
+pembox>
+��N[K[10C��
+��N��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>r
+[K[7Cembox>r 
+[K[8Cembox>
+��N��[K[12Cr ��cd���e
+��N��r: Command not found
+tish error: #-2
+embox>
+dorexitembox>
+��N��r ��cd���e[K[22Cg
+��N��r: Command not found
+tish error: #-2
+embox>
+gg%?�@@�+A[1@�goggggggggggggggg
+gg%: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+ppembox>
+s[K[8Core�ireembox>
+sore�ire[Kembox>
+gg%[K[10C�rNxitgrexiembox>
+gg%�rNxitgrexiembox>
+gg%�rNxitgrexiembox>S
+gg%�rNxitgrexi
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+Slu�/ku�/�PrLporexi
+Slu�/ku�/�PrLporexi: Command not found
+tish error: #-2
+embox>
+elogoutoTnt��
+elogoutoTnt��: Command not found
+tish error: #-2
+embox>
+���embox>
+���
+tish error: #-22
+embox>
+porliittR
+porliitt: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>x'ex
+embox>x%
+x%: Command not found
+tish error: #-2
+embox>
+potttttttt�ttexg
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

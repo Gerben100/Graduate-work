@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Jembox>J[K[7Cembox>J[K[8Cembox>Jd[K[9Cembox>Jdd[K[10Cembox>Jddd[K[11Cembox>Jdddd[K[12Cembox>Jddddd[K[13Cembox>Jdddddd[K[14Cembox>Jddddddd[K[15Cembox>Jdddddddd[K[16Cembox>Jddddddddd[K[17Cembox>Jddddddddd[[K[18Cembox>Jddddddddd[d[K[19Cembox>Jddddddddd[dd[K[20Cembox>Jddddddddd[ddd[K[21Cembox>Jddddddddd[dddd[K[22Cembox>Jddddddddd[dddd[K[23Cembox>Jddddddddd[dddd�[K[24C
+J: Command not found
+tish error: #-2
+embox>
+J�pobt@t�
+embox>xdp�
+embox>
+�
+tish error: #-22
+embox>
+J[?5h[?5l�
+embox>xdpinxdembox>
+[K[7C[?5h[?5l�
+embox>xdpin�d1embox>xdpin�d1[K[16Cembox>xdpin�d1[K[17Cembox>xdpin�d1[K[16Cembox>xdpin�d1[K[17Cembox>xdpin�d1�[K[18C
+embox>
+embox>
+[K[7Cls[?5h[?5l�embox>
+ls[?5h[?5l�[K[6Cembox>[?5h[?5l
+ls[?5h[?5l�[K[7Cembox>[?5h[?5l�
+ls[?5h[?5l�[K[8C
+[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+�
+embox>/dpin�dembox>[?5h[?5l�
+ls[?5h[?5l�[K[13C���
+[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+embox>[?5h[?5l�
+ls[?5h[?5l�[K[13C�
+embox>�@dJpin
+embox>
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+�exort
+�ex: Command not found
+tish error: #-2
+embox>
+e�embox>
+e�[K[9C��
+e���: Command not found
+tish error: #-2
+embox>
+5����� sembox>
+5����� s[K[6Cembox>
+5����� s[K[7Cembox>
+5����� s[K[8Cembox>�
+5����� s[K[9Cembox>�
+5����� s[K[10C
+embox>
+7
+7: Command not found
+tish error: #-2
+embox>
+J���yyyyyyyyyyyyyyyyyyyyy���embox>
+J���yyyyyyyyyyyyyyyyyyyyy���e��embox>
+J���yyyyyyyyyyyyyyyyyyyyy���e��e
+J���yyyyyyyyyyyyyyyyyyyyy���e��e: Command not found
+tish error: #-2
+embox>
+J�����J�����������embox>
+J�����J�����������e������embox>[K[32Co
+J�����J�����������e������o: Command not found
+tish error: #-2
+embox>
+J�������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

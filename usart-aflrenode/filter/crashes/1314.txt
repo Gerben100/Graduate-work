@@ -1,0 +1,159 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>``w�@```K`ll
+``w�: Command not found
+tish error: #-2
+embox>
+````�@```�@```K`|l
+````�: Command not found
+tish error: #-2
+embox>
+�$��
+�$��: Command not found
+tish error: #-2
+embox>
+```�@����kt1embox>
+```�@����kt1[K[21C
+```�: Command not found
+tish error: #-2
+embox>
+```tttttttttttttStttcdYtttttttt
+```tttttttttttttStttcdYtttttttt: Command not found
+tish error: #-2
+embox>
+```�@����kt1�embox>
+```�@����kt1[K[21C��1��kt1�embox>
+```�@����kt1��1��kt1pin��
+```�: Command not found
+tish error: #-2
+embox>
+�aembox>[K[6C�@����kt1���I��cd1�embox>�@����kt1���I��cd1[Kpin��
+�@: Command not found
+tish error: #-2
+embox>
+```�@����kt1�embox>
+```�@����kt1��1��kt1embox>
+```�@����kt1��1��kt1embox>p
+```�@����kt1��1��kt1embox>pi
+```�@����kt1��1��kt1embox>pin
+```�@����kt1��1��kt1embox>pin�
+```�@����kt1��1��kt1embox>pin��
+```�@����kt1��1��kt1
+pin��: Command not found
+tish error: #-2
+embox>
+```�@�in��
+```�: Command not found
+tish error: #-2
+embox>
+```�embox>
+```�[K@����embox>pin��
+```�t��1��|t1�embox>pin��
+```�t��1��|t1pembox>�@n��
+�@n��: Command not found
+tish error: #-2
+embox>
+```�@����kt?���1��kt1�pin
+```�: Command not found
+tish error: #-2
+embox>
+``������@������������������������������
+``������@: Command not found
+tish error: #-2
+embox>
+`
+`�`�: Command not found
+tish error: #-2
+embox>kt1�pin��
+kt1pin��: Command not found
+tish error: #-2
+embox>
+`c}���d~@���
+`c}���d~@���: Command not found
+tish error: #-2
+embox>
+���
+����������`�`�: Command not found
+tish error: #-2
+embox>
+```�@`������h������
+```�: Command not found
+tish error: #-2
+embox>
+```�@``������������
+```�: Command not found
+tish error: #-2
+embox>
+`�d�d@
+```�: Command not found
+tish error: #-2
+embox>
+```�@`K���exit�������
+```�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+a``�@``�������������
+a``�: Command not found
+tish error: #-2
+embox>
+�
+```�: Command not found
+tish error: #-2
+embox>
+�@`������������
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+```�@``�������������
+�����������: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+``��
+``�: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+���l
+��l: Command not found
+tish error: #-2
+embox>
+`O��
+`O��: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+exit
+d
+exit: exit code should be numerical value
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

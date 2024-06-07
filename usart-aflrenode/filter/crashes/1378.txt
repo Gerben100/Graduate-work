@@ -1,0 +1,73 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@@�/@@
+@@�/@@: Command not found
+tish error: #-2
+embox>
+xembox>@@�/@@[K[12C��embox>@@�/@@�[K[14Czog�xic@embox>@@�/@@�zog�xic@[K[6Cembox>6@@�/@@�zog�xic@[K[7Cembox>66@@�/@@�zog�xic@[K[8Cembox>66F@@�/@@�zog�xic@[K[9Cembox>66F6@@�/@@�zog�xic@[K[10Cembox>66F6>@@�/@@�zog�xic@[K[11Cembox>66F6>6@@�/@@�zog�xic@[K[12Cembox>66F6>6�@@�/@@�zog�xic@[K[13Cembox>66F6>6��@@�/@@�zog�xic@[K[14Cembox>66F6>6��@@@�/@@�zog�xic@[K[15Cembox>66F6>6��@+@@�/@@�zog�xic@[K[16Cembox>66F6>6��@+�@@�/@@�zog�xic@[K[17Cembox>66F6>6��@+�c@@�/@@�zog�xic@[K[18Cembox>66F6>6��@+�c@@@�/@@�zog�xic@[K[19Cembox>66F6>6��@+�c@x@@�/@@�zog�xic@[K[20Cembox>66F6>6��@+�c@xp@@�/@@�zog�xic@[K[21Cembox>66F6>6��@+�c@xpo@@�/@@�zog�xic@[K[22Cembox>66F6>6��@+�c@xpor@@�/@@�zog�xic@[K[23Cembox>66F6>6��@+�c@xport@@�/@@�zog�xic@[K[24Cembox>66F6>6��@+�c@xport@@@�/@@�zog�xic@[K[25Cembox>66F6>6��@+�c@xport@<@@�/@@�zog�xic@[K[26Cembox>66F6>6��@+�c@xport@<@@@�/@@�zog�xic@[K[27Cembox>66F6>6��@+�c@xport@<@@@@�/@@�zog�xic@[K[28Cembox>66F6>6��@+�c@xport@<@@@@@�/@@�zog�xic@[K[29Cembox>66F6>6��@+�c@xport@<@@@@@@�/@@�zog�xic@[K[30Cembox>66F6>6��@+�c@xport@<@@@@@@@�/@@�zog�xic@[K[31Cembox>66F6>6��@+�c@xport@<@@@@@l@@�/@@�zog�xic@[K[32Cembox>66F6>6��@+�c@xport@<@@@@@lo@@�/@@�zog�xic@[K[33Cembox>66F6>6��@+�c@xport@<@@@@@log@@�/@@�zog�xic@[K[34Cembox>66F6>6��@+�c@xport@<@@@@@logo@@�/@@�zog�xic@[K[35Cembox>66F6>6��@+�c@xport@<@@@@@logou@@�/@@�zog�xic@[K[36Cembox>66F6>6��@+�c@xport@<@@@@@logout@@�/@@�zog�xic@[K[37Cembox>66F6>6��@+�c@xport@<@@@@@logout@@@�/@@�zog�xic@[K[38Cembox>66F6>6��@+�c@xport@<@@@@@logout@@@@�/@@�zog�xic@[K[39Cembox>66F6>6��@+�c@xport@<@@@@@logout@@@@@�/@@�zog�xic@[K
+66F6>6��@+�c@xport@<@@@@@logout@@@@@�/@@�: Command not found
+tish error: #-2
+embox>\@@@@@@�c@xport@<@@@@@@@@\@@@@@embox>\@@@@@@�c@xport@<@@@@@@@@\@@@@[K[36C�@.@�@@?���������
+\@@@@@@�c@xport@<@@@@@@@@\@@@@�@.@�@@?���������: Command not found
+tish error: #-2
+embox>���embox>��[K[8C����embox>������[K[16C@@\@@@@@@?exp@/@@
+������: Command not found
+tish error: #-2
+embox>
+x��embox>
+x�[K[10Czog�xic@embox>
+x�zog�xic@[K[6Cembox>6
+x�zog�xic@[K[7Cembox>66
+x�zog�xic@embox>66
+x�zog�xic@embox>66
+x�zog�xic@embox>66>
+x�zog�xic@embox>66>6
+x�zog�xic@embox>66>6�
+x�zog�xic@embox>66>6��
+x�zog�xic@embox>66>6��@
+x�zog�xic@embox>66>6��@+
+x�zog�xic@embox>66>6��@+�
+x�zog�xic@embox>66>6��@+�c
+x�zog�xic@embox>66>6��@+�c@
+x�zog�xic@embox>66>6��@+�c@x
+x�zog�xic@embox>66>6��@+�c@xp
+x�zog�xic@embox>66>6��@+�c@xpo
+x�zog�xic@embox>66>6��@+�c@xpor
+x�zog�xic@embox>66>6��@+�c@xport
+x�zog�xic@embox>66>6��@+�c@xport@
+x�zog�xic@embox>66>6��@+�c@xport@<
+x�zog�xic@embox>66>6��@+�c@xport@<@
+x�zog�xic@embox>66>6��@+�c@xport@<@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\@@@@
+x�zog�xic@embox>66>6��@+�c@xport@<@@@@@@@@\@@@@@
+x�zog�xic@
+66>6��@+�c@xport@<@@@@@@@@\@@@@@: Command not found
+tish error: #-2
+embox>@�c@xport@<@@@@@@@@\@@@@@embox>[K[30C�@.@�@@?������������embox>[K[50C��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

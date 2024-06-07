@@ -1,0 +1,244 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����o��embox>����o��[K[6Cembox>�����o��[K[7Cembox>������o��[K[8Cembox>��b����o��[K[9Cembox>��bd����o��[K[10Cembox>��bd����o��[K[17C��
+��bd����o����: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>���[K[9C�cd��
+����cd��: Command not found
+tish error: #-2
+embox>
+����cc�����dd��
+tish error: #-22
+embox>
+cH���
+tish error: #-22
+embox>
+ embox>
+[K[8Cl
+embox>�/��embox>�/��[K[11Cembox>�/��[?5h[?5l[K[12Cembox>�/��[?5h[?5ll[K[13Cembox>�/��[?5h[?5llo[K[14Cembox>�/��[?5h[?5lloe[K[15Cembox>�/��[?5h[?5lloex[K[16Cembox>�/��[?5h[?5lloexi[K[17Cembox>�/��[?5h[?5lloexit[K[18Cembox>�/��[?5h[?5lloexitS[K[19Cembox>�/��[?5h[?5lloexitSi[K[20C
+embox>�%�embox>�%�[K[9Cembox>�%�[K[10Cembox>�%�[K[9Cembox>�%�[?5h[?5l[K[10Cembox>�%�[?5h[?5ll[K[11Cembox>�%�[?5h[?5llo[K[12Cembox>�%�[?5h[?5lloe[K[13Cembox>�%�[?5h[?5lloex[K[14Cembox>�%�[?5h[?5lloexi[K[15Cembox>�%�[?5h[?5lloexit[K[16Cembox>�%�[?5h[?5lloexitS[K[17Cembox>�%�[?5h[?5lloexitSi[K[18Cembox>�%�[?5h[?5lloexitSiy[K[19Cembox>�%�[?5h[?5lloexitSiye[K[20Cembox>�%�[?5h[?5lloexitSiye[K[21Cembox>�%�[?5h[?5lloexitSiyeB[K[22Cembox>�%�[?5h[?5lloexitSiyeB[K[23Cembox>�%�[?5h[?5lloexitSiyeB[K[22Cembox>�%�[?5h[?5lloexitSiyeB[K[23Cembox>�%�[?5h[?5lloexitSiyeBo[K[24Cembox>�%�[?5h[?5lloexitSiyeBoo[K[25Cembox>�%�[?5h[?5lloexitSiyeBoo[K[26Cembox>�%�[?5h[?5lloexitSiyeBoo[K[27Cembox>�%�[?5h[?5lloexitSiyeBoo[K[28C
+�%�[?5h[?5lloexitSiye: Command not found
+tish error: #-2
+embox>
+embox>
+o�%�embox>
+o�%�[K[13Cembox>
+o�%�[K[14Cembox>
+o�%� [K[15Cembox>
+o�%�[K[14Cembox>
+o�%�o[K[15Cembox>
+o�%�o�[K[16Cembox>
+o�%�o�[Kembox>
+o�%�o�%[Kembox>
+o�%�o�%�[K[19Cembox>
+o�%�o�%�[K[20Cembox>
+o�%�o�%�[K[19Cembox>
+o�%�o�%�[K[20Cembox>
+o�%�o�%� [K[21Cembox>
+o�%�o�%�[K[20Cembox>
+o�%�o�%�e[K[21Cembox>
+o�%�o�%�e[Kembox>
+o�%�o�%�e[Kembox>
+o�%�o�%�e�[Kembox>
+o�%�o�%�e�[Kembox>
+o�%�o�%�e�[Kembox>
+o�%�o�%�e��[Kembox>
+o�%�o�%�e�o�embox>
+o�%�o�%�e�og�embox>
+o�%�o�%�e�og�embox>
+o�%�o�%�e�oge�embox>
+o�%�o�%�e�oge�embox>
+o�%�o�%�e�oge�embox>
+o�%�o�%�e�oge��embox>
+o�%�o�%�e�oge��embox>
+o�%�o�%�e�oge��embox>
+o�%�o�%�e�oge���embox>
+o�%�o�%�e�oge�o��embox>
+o�%�o�%�e�oge�og��embox>
+o�%�o�%�e�oge�og��embox>
+o�%�o�%�e�oge�og��embox>
+o�%�o�%�e�oge�ogl��embox>
+o�%�o�%�e�oge�ogl)��embox>
+o�%�o�%�e�oge�ogl)��
+tish error: #-22
+embox>
+W�embox>
+W�[K[9Cembox>
+W�[K[10Cembox>
+Wl�[K[11Cembox>
+Wlo�[K[12Cembox>
+Wlol�[K[13Cembox>
+Wlol~�[K[14Cembox>
+Wlol~g�[Kembox>
+Wlol~gn�[Kembox>
+Wlol~gn[Kembox>
+Wlol~g[K[15Cembox>
+Wlol~g[K
+tish error: #-22
+embox>
+ embox>
+[K[8Co
+embox>embox>
+[K[7C%�embox>
+%�[K[9Cembox>
+%�[K[10Cembox>
+%�[K[9Cembox>
+%�[K[10Cembox>
+%�l[K[11Cembox>
+%�lo[K[12Cembox>
+%�loe[K[13Cembox>
+%�loex[Kembox>
+%�loexo[Kembox>
+%�loexoR[Kembox>
+%�loexoRx[Kembox>
+%�loexoRxw[K[18Cembox>
+%�loexoRxwt[K[19Cembox>
+%�loexoRxwtS[K[20Cembox>
+%�loexoRxwtS[K[21Cembox>
+%�loexoRxwtS�[Kembox>
+%�loexoRxwtS�e[Kembox>
+%�loexoRxwtS�e[Kembox>
+%�loexoRxwtS�e[Kembox>
+%�loexoRxwtS�e[Kembox>
+%�loexoRxwtS�ewembox>
+%�loexoRxwtS�ewtembox>
+%�loexoRxwtS�ewtSembox>
+%�loexoRxwtS�ewtSembox>
+%�loexoRxwtS�ewtS�embox>
+%�loexoRxwtS�ewtS�eembox>
+%�loexoRxwtS�ewtS�eembox>
+%�loexoRxwtS�ewtS�eembox>
+%�loexoRxwtS�ewtS�eembox>
+%�loexoRxwtS�ewtS�eembox>
+%�loexoRxwtS�ewtS�leembox>
+%�loexoRxwtS�ewtS�lweembox>
+%�loexoRxwtS�ewtS�lwteembox>
+%�loexoRxwtS�ewtS�lwtSeembox>
+%�loexoRxwtS�ewtS�lwtSeembox>
+%�loexoRxwtS�ewtS�lwtS�eembox>
+%�loexoRxwtS�ewtS�lwtS�eeembox>
+%�loexoRxwtS�ewtS�lwtS�eeembox>
+%�loexoRxwtS�ewtS�lwtS�eeembox>
+%�loexoRxwtS�ewtS�lwtS�eeembox>
+%�loexoRxwtS�ewtS�lwtS�ee
+%�: Command not found
+tish error: #-2
+embox>lembox>[K[7Cgoxembox>gox[K[10C
+embox>
+embox>
+[K[7C����embox>
+����[K[11C
+����: Command not found
+tish error: #-2
+embox>
+ embox>
+[K[8Co
+embox>�%�embox>�%�[K[9Cembox>�%�[K[10Cembox>�%�[K[11Cembox>�%�[K[12Cembox>�%� [K[13Cembox>�%� o[K[14Cembox>�%� oe[K[15Cembox>�%� oex[K[16Cembox>�%� oexi[K[17Cembox>�%� oexit[K[18Cembox>�%� oexitS[K[19Cembox>�%� oexitSi[K[20Cembox>�%� oexitSiy[K[21Cembox>�%� oexitSiy[K[21Cxembox>�%� oexitSiyx[K[22C
+�%�: Command not found
+tish error: #-2
+embox>
+ g�go
+tish error: #-22
+embox>
+x��
+tish error: #-22
+embox>
+ embox>
+o
+embox>�%�embox>�%�embox>�%�embox>�%�eembox>�%�exembox>�%�exiembox>�%�exitembox>�%�exiteembox>�%�exitexembox>�%�exitexiembox>�%�exitexitembox>�%�exitexitSembox>�%�exitexitSiembox>�%�exitexitSiyembox>�%�exitexitSiyeembox>�%�exitexitSiyeembox>�%�exitexitSiyeembox>�%�exitexitSiyeembox>�%�exitexitSiyeembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kxembox>[K
+�%�: Command not found
+tish error: #-2
+embox>
+ o
+embox>�6
+�%�: Command not found
+tish error: #-2
+embox>
+ o��
+tish error: #-22
+embox>
+ o
+embox>�%�
+�%�exitSi: Command not found
+tish error: #-2
+embox>
+xSSSSSSSSSS@
+tish error: #-22
+embox>
+ �o3@
+tish error: #-22
+embox>
+ @
+tish error: #-22
+embox>
+�S@�S@lsls
+tish error: #-22
+embox>
+ 
+IS@
+tish error: #-22
+embox>
+� <*�Oogout
+embox>o6@
+o: Command not found
+tish error: #-2
+embox>
+c
+embox>��}
+��}: Command not found
+tish error: #-2
+embox>
+�S@S@
+tish error: #-22
+embox>
+9[?5h[?5lo�S�
+9[?5h[?5lo�S�: Command not found
+tish error: #-2
+embox>
+���Sd
+���Sd: Command not found
+tish error: #-2
+embox>
+ee/port�to
+ee/port: Command not found
+tish error: #-2
+embox>
+��S@
+�: Command not found
+tish error: #-2
+embox>
+� ,
+tish error: #-22
+embox>
+4
+tish error: #-22
+embox>
+�������������,
+tish error: #-22
+embox>
+�
+embox>
+embox>
+�������������������+�+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

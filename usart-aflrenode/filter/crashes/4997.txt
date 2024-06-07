@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i
+embox>i[K[7C����L�
+embox>
+: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[8Cembox>[K[7C���L�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+ii
+ii: Command not found
+tish error: #-2
+embox>
+i�embox>[K[6C
+embox>
+iembox>
+i[K[8C����M�
+embox>
+: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[8C���
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[8C{��embox>
+i{��[K[11C�Lembox>
+i{���[K[12Cembox>
+i{���[K[12C
+i{���: Command not found
+tish error: #-2
+embox>
+i}�����L�
+embox>
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C����L�
+embox>iembox>i[K[8Cembox>[K[6C����L�
+embox>
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���
+���: Command not found
+tish error: #-2
+embox>
+iembox>
+i[K[8C�iembox>
+i�i[K[10C������
+embox>�����
+embox>
+: Command not found
+tish error: #-2
+embox>
+i�[?5h[?5l���L�L��embox>
+i�[?5h[?5l���L�L��[K[19Cembox>
+i�[?5h[?5l���L�L��[K[19C���ـembox>
+i�[?5h[?5l���L�L������
+i�[?5h[?5l���L�L�: Command not found
+tish error: #-2
+embox>
+iembox>
+i[Klogout
+ilogout: Command not found
+tish error: #-2
+embox>
+ilooout
+embox>embox>
+ilogoutembox>
+ilogout�L
+ilogout�L: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+%
+embox>x'
+x': Command not found
+tish error: #-2
+embox>
+t�d3�i�
+t�d3�i�: Command not found
+tish error: #-2
+embox>
+@���
+tish error: #-22
+embox>
+i��
+i��: Command not found
+tish error: #-2
+embox>
+ip)~
+��: Command not found
+tish error: #-2
+embox>
+�F��
+�F: Command not found
+tish error: #-2
+embox>
+iccc��
+i: Command not found
+tish error: #-2
+embox>
+ii��
+ii��: Command not found
+tish error: #-2
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+icd���
+icd���: Command not found
+tish error: #-2
+embox>
+
+embox>
+i���logout�������cd�������s
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

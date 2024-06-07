@@ -1,0 +1,120 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��eT�
+��eT�: Command not found
+tish error: #-2
+embox>
+xit`l�s
+xit`l�s: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d�o�x}iu}i��
+d�o�x}iu}i��: Command not found
+tish error: #-2
+embox>
+999�xxii[?5h[?5l�aembox>
+d�o�x}iu}i��[K[19C/�999999999�ղ�����������9999�x� 
+d�o�x}iu}i��/�999999999�ղ�����������9999�x: Command not found
+tish error: #-2
+embox>
+embox>[K[6Copint
+embox>
+�Bxeembox>
+�Bxe[K[11Cembox>
+�Bxe[K[12Cembox>
+�Bxe
+[K[13Cembox>
+�Bxe
+z[K[14Cembox>
+�Bxe
+ze[K[15Cembox>
+�Bxe
+ze[K[16Cembox>
+�Bxe
+ze[K[16C�lembox>
+�Bxe
+ze�l[K[6Cembox>X
+�Bxe
+ze�l[K[7Cembox>X8
+�Bxe
+ze�l[K[8Cembox>X88
+�Bxe
+ze�l[K[9Cembox>X888
+�Bxe
+ze�l[K[10Cembox>X8888
+�Bxe
+ze�l[K[11Cembox>X88888
+�Bxe
+ze�l[Kembox>X888888
+�Bxe
+ze�l[Kembox>X8888888
+�Bxe
+ze�l[K
+X8888888: Command not found
+tish error: #-2
+embox>
+�Bxei�cdembox>
+�Bxei�cd[K[14Cembox>
+�Bxei�c8d[K[15C
+�Bxei�c8d: Command not found
+tish error: #-2
+embox>
+�Bxexi@e�lX8888888
+�Bxexi@: Command not found
+tish error: #-2
+embox>
+�Bxgiembox>
+�Bxgi[K[12Cembox>
+�Bxgi[K[13Cembox>
+�Bxgi�[K[14Cembox>
+�Bxgi�y[K[15Cembox>
+�Bxgi�ye[K[16Cembox>
+�Bxgi�ye[K[17Cembox>
+�Bxgi�ye[K[17C�l�X8888888
+�Bxgi: Command not found
+tish error: #-2
+embox>
+�Bxei
+�Bxei: Command not found
+tish error: #-2
+embox>
+�B��iembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+embox>
+embox>�lembox>�l[Kembox>X�l[Kembox>X8�l[Kembox>X8l�l[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14C
+X8ls8888�l: Command not found
+tish error: #-2
+embox>
+"
+(null): Command not found
+tish error: #-2
+embox>
+�688[?5h[?5l
+(null): Command not found
+tish error: #-2
+embox>
+88�8/
+88�8/: Command not found
+tish error: #-2
+embox>
+�Bxei�l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,103 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>c�[K[7Cembox>c�[K[8Cembox>c�[K[9Cembox>c�[K[10Cembox>c�[K[11Cembox>c��[K[12Cembox>c���[K[13C
+c: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C��embox>
+��[K[11C��
+�: Command not found
+tish error: #-2
+embox>
+pl�pppxpNpppSpp
+pl�pppxpNpppSpp: Command not found
+tish error: #-2
+embox>
+ux
+ux: Command not found
+tish error: #-2
+embox>
+�x��expg�t�@����
+�x��expg�t�@����: Command not found
+tish error: #-2
+embox>
+
+embox>����
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+ds��
+tish error: #-22
+embox>
+$*�$r�oo�Lo�
+$*�$r�oo�Lo�: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�l
+�l: Command not found
+tish error: #-2
+embox>
+���"��y
+���"��y: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+embox>�
+embox>�
+embox>
+�xp��pppd�
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+embox>��
+embox>��
+embox>
+�
+d: Command not found
+tish error: #-2
+embox>
+��
+embox>
+embox>
+�����
+���: Command not found
+tish error: #-2
+embox>
+exti��@���������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

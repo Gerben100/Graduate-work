@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10C����portH�cdrlstttt��exHocd
+tish����portH�cdrlstttt��exHocd: Command not found
+tish error: #-2
+embox>r 2� ��¸�� �X
+r: Command not found
+tish error: #-2
+embox>
+embox>
+group[K
+group: Command not found
+tish error: #-2
+embox>
+embox>
+group[Kembox>
+group[K[12Cembox>r 2�[K[10C�@@@@@#@@@?@@oembox>tish����portH�cdrlstttt��exHocd[K[38CexHort2�ؼ��������X
+tish����portH�cdrlstttt��exHocdexHort2: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>tish����portH�cdrlstttt��exHocdexHort2
+tish����portH�cdrlstttt��exHocdexHort2: Command not found
+tish error: #-2
+embox>
+
+
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+[?5h[?5lembox>
+[Kembox>
+embox>
+
+[Kembox>
+
+[Kembox>[K[45Cembox>
+groupembox>[K[24CehHo��xHo
+r: Command not found
+tish error: #-2
+embox>���������ص���X��������
+���������ص���X�����: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+[K[7Cembox>
+[Kembox>
+
+[Kembox>[K[45C#ogout����exHortembox>
+groupembox>[K[24CexHort2���embox>[K[38C
+tish����portH�cdrlstttt��exHocd: Command not found
+tish error: #-2
+embox>pinHo����7���������������embox>
+[Kembox>
+[Kembox>
+
+[Kembox>[K[51Cembox>[K[12Cembox>[K[31Cembox>[K[38CexHortex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

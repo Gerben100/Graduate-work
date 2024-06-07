@@ -1,0 +1,205 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>x�[K[7Cembox>x��[K[8C
+x��: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[10C���embox>
+e���[K[12C
+e: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[6Cembox>�
+e[K[7Cembox>��
+e[K[8Cembox>��
+e[K[9Cembox>��
+e[K[8C
+��: Command not found
+tish error: #-2
+embox>
+(xeN��(6>6@@embox>
+(xeN��(6>6@@[K[20C��@@@@@@@@@?@@@@@@@@@@@\@@exp@�@@A
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xemembox>
+(xeN��(xem[K[17Cembox>
+(xeN��(xe�m[K[18Cembox>
+(xeN��(xe�6m[K[19Cembox>
+(xeN��(xe�6Im[K[20Cembox>
+(xeN��(xe�6I5m[K[21Cembox>
+(xeN��(xe�6I5�m[K[22Cembox>
+(xeN��(xe�6I5�@m[K[23Cembox>
+(xeN��(xe�6I5�@@m[K[24Cembox>
+(xeN��(xe�6I5�@@@m[K[25Cembox>
+(xeN��(xe�6I5�@@@@m[K[26Cembox>
+(xeN��(xe�6I5�@@@@@m[K[27Cembox>
+(xeN��(xe�6I5�@@@@@@m[K[28Cembox>
+(xeN��(xe�6I5�@@@@@@@m[K[29Cembox>
+(xeN��(xe�6I5�@@@@@@@@m[K[30Cembox>
+(xeN��(xe�6I5�@@@@@@@@@m[K[31Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?m[K[32Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@m[K[33Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@m[K[34Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@m[K[35Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@m[K[36Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@m[K[37Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@m[K[38Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@m[K[39Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@m[K[40Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@m[K[41Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@m[K[42Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@m[K[43Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@m[K[44Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\m[K[45Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@m[K[46Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@m[K[47Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@em[K[48Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exm[K[49Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@expmembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exp@membox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exp@�membox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exp@�@membox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exp@�@@m[K[54Cembox>
+(xeN��(xe�6I5�@@@@@@@@@?@@@@@@@@@@@\@@exp@�@@Am[K
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xemembox>
+(xeN��(xem[Kembox>
+(xeN��(xe�m[Kembox>
+(xeN��(xe�6m[K[19Cembox>
+(xeN��(xe�6Im[K[20Cembox>
+(xeN��(xe�6I5m[K[21Cembox>
+(xeN��(xe�6I56m[K[22Cembox>
+(xeN��(xe�6I56>m[Kembox>
+(xeN��(xe�6I56>6m[Kembox>
+(xeN��(xe�6I56>6@m[Kembox>
+(xeN��(xe�6I56>6@@m[Kembox>
+(xeN��(xe�6I56>6@@membox>
+(xeN��(xe�6I56>6@@m[Kembox>
+(xeN��(xe�6I56>6@@�membox>
+(xeN��(xe�6I56>6@@�@membox>
+(xeN��(xe�6I56>6@@�@@membox>
+(xeN��(xe�6I56>6@@�@@?membox>
+(xeN��(xe�6I56>6@@�@@?@membox>
+(xeN��(xe�6I56>6@@�@@?@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@emembox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exmembox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@expmembox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exp@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exp@�membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exp@�@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exp@�@@membox>
+(xeN��(xe�6I56>6@@�@@?@@@@@@@@@@@\@@exp@�@@Am
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xemembox>
+(xeN��(xem[K[17Cembox>
+(xeN��(xe�m[K[18Cembox>
+(xeN��(xe�6m[K[19Cembox>
+(xeN��(xe�6Im[K[20Cembox>
+(xeN��(xe�6I5m[K[21Cembox>
+(xeN��(xe�6I56m[K[22Cembox>
+(xeN��(xe�6I56>membox>
+(xeN��(xe�6I56>6membox>
+(xeN��(xe�6I56>6@membox>
+(xeN��(xe�6I56>6@@membox>
+(xeN��(xe�6I56>6@@membox>
+(xeN��(xe�6I56>6@@membox>
+(xeN��(xe�6I56>6@@�membox>
+(xeN��(xe�6I56>6@@��membox>
+(xeN��(xe�6I56>6@@��@membox>
+(xeN��(xe�6I56>6@@��@@membox>
+(xeN��(xe�6I56>6@@��@@@membox>
+(xeN��(xe�6I56>6@@��@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@@@@@membox>
+(xeN��(xe�6I56>6@@��@@@@@@@@@@@@@membox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52Cembox>[K[53C
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xemembox>
+(xeN��(xemembox>
+(xeN��(xe�membox>
+(xeN��(xe�6membox>
+(xeN��(xe�6Imembox>
+(xeN��(xe�6I5membox>
+(xeN��(xe�6I56membox>
+(xeN��(xe�6I56>membox>
+(xeN��(xe�6I56>6membox>
+(xeN��(xe�6I56>6@membox>
+(xeN��(xe�6I56>6@@membox>[Kembox>
+(xeN��(xe�6I56>6@@membox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xem
+tish error: #-22
+embox>@?@@@@@`@
+@?@@@@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xem
+tish error: #-22
+embox>exp@�@@`@
+exp@�@@`@: Command not found
+tish error: #-2
+embox>
+(xeN��(xem
+tish error: #-22
+embox>exp@�@@A@?@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

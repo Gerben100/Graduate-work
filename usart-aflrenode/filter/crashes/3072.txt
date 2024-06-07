@@ -1,0 +1,199 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+p�nlsembox>
+p�nls[K[6Cembox>
+p�nls[K[7Cembox>�
+p�nls[K[8Cembox>��
+p�nls[K[9Cembox>��
+p�nls[K[10Cembox>��
+p�nls[K[11Cembox>��
+p�nls[K[12Cembox>��
+p�nls[K[13C
+embox>
+�o��
+�o��: Command not found
+tish error: #-2
+embox>
+�oembox>
+�o��[K[12Cp�nembox>
+�o��p�n[K[6Cembox>
+�o��p�n[K[7Cembox>
+�o��p�n[K[8Cembox>g
+�o��p�n[K[9Cembox>g�
+�o��p�n[K[10Cembox>g�p
+�o��p�n[K[11Cembox>g�p�
+�o��p�n[K[12Cembox>g�p�n
+�o��p�n[K[13Cembox>g�p�nt
+�o��p�n[K[14Cembox>g�p�nt
+�o��p�n[K[6Cembox>g�p�nt
+�o��p�n[K[7C
+embox>
+: Command not found
+tish error: #-2
+embox>
+�oembox>[K[7C
+nRembox>
+nR[K[6Cembox>
+nR[K[7Cembox>�
+nR[K[8Cembox>��
+nR[K[9Cembox>��
+nR[K[10Cembox>��
+nR[K[11Cembox>��
+nR[K[12C
+embox>
+�Ucdp�9999999�@
+�Ucdp: Command not found
+tish error: #-2
+embox>
+�embox>
+�Ucdp[K[13C,embox>
+�Ucdp,[K[14C-0L0p�p�nembox>
+�Ucdp,-0L0p�p�n[K[6Cembox>
+�Ucdp,-0L0p�p�n[K[7Cembox>�
+�Ucdp,-0L0p�p�n[K[8Cembox>�0
+�Ucdp,-0L0p�p�n[K[9Cembox>�0
+�Ucdp,-0L0p�p�n[K[6Cembox>�0
+�Ucdp,-0L0p�p�n[K[7Cembox>�0
+�Ucdp,-0L0p�p�n[K[8Cembox>�0
+�Ucdp,-0L0p�p�n[K[9C
+embox>
+�op�nembox>
+�op�n[K[6Cembox>
+�op�n[K[7Cembox>
+�op�n[K[8Cembox>
+�op�n[K[9Cembox>p
+�op�n[K[10Cembox>p�
+�op�n[K[11Cembox>p�n
+�op�n[K[12Cembox>p�n
+�op�n[K[13Cembox>p�n
+�op�n[K[6Cembox>p�n
+�op�n[K[7C
+embox>
+: Command not found
+tish error: #-2
+embox>
+�oembox>[K[7Cp�nembox>p�n[K[6Cembox>p�n[K[7Cembox>p�n[K[8Cembox>&p�n[K[9Cembox>&pp�n[K[10Cembox>&p�p�n[K[11Cembox>&p�ep�n[K[12Cembox>&p�ep�n[K[6Cembox>&p�ep�n[K[7C
+embox>
+: Command not found
+tish error: #-2
+embox>
+[embox>[K[7C#outlog�������
+#outlog�������: Command not found
+tish error: #-2
+embox>
+embox>#outlog�������[K[21Cembox>[K[7Cp�nembox>p�n[K[6Cembox>p�n[K[7Cembox>p�n[K[8Cembox>p�n[K[9Cembox>pp�n[K[10Cembox>ppp�n[K[11Cembox>pp�p�n[K[12Cembox>pp�np�n[K[13Cembox>pp�np�n[K[6Cembox>pp�np�n[K[7C
+embox>embox>#outlog�������[K[21C
+#outlog�������: Command not found
+tish error: #-2
+embox>
+�oembox>#outlog�������[K[21Cembox>[K[6Cp�nembox>p�n[K[6Cembox>p�n[K[7Cembox>p�n[K[8Cembox>�p�n[K[9Cembox>�pp�n[K[10Cembox>�p�p�n[K[11Cembox>�p�np�n[K[12Cembox>�p�np�n[K[6Cembox>�p�np�n[K[7C
+embox>@
+: Command not found
+tish error: #-2
+embox>
+
+�rin
+�rin: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+���� i�c��c��
+tish error: #-22
+embox>
+embox>
+�����
+tish error: #-22
+embox>
+��m��
+��m��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[9C���c��embox>
+����c���
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+���@c��embox>
+���@c��embox>
+���@c��embox>
+���@c��
+tish error: #-22
+embox>
+c��
+tish error: #-22
+embox>
+������embox>
+������&�d
+embox>2g�
+embox>
+embox>[K[6C�
+�����d"��ee�L
+�: Command not found
+tish error: #-2
+embox>
+����i�
+tish error: #-22
+embox>
+�b�@�d
+�b�@�d: Command not found
+tish error: #-2
+embox>
+�bSbbbO��d���d
+�bSbbbO��d���d: Command not found
+tish error: #-2
+embox>
+�B`��d�k�[
+�B`��d�k�[: Command not found
+tish error: #-2
+embox>
+�b����d
+�b����d: Command not found
+tish error: #-2
+embox>
+�
+�A���: Command not found
+tish error: #-2
+embox>
+����ll
+tish error: #-22
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+b`babA��
+���d: Command not found
+tish error: #-2
+embox>
+jb`exitb�bA��dd
+jb`exitb�bA��dd: Command not found
+tish error: #-2
+embox>
+ev`�lcd
+ev`�lcd: Command not found
+tish error: #-2
+embox>
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

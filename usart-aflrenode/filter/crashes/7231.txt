@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���� ZeXeeet[?5h[?5llslembox>���� [K[11C;@Se@pembox>���� ;@Se@p[K[6Cembox>e���� ;@Se@p[K[7Cembox>ee���� ;@Se@p[K[8Cembox>eee���� ;@Se@p[K[9Cembox>eeet���� ;@Se@p[K[10C[?5h[?5lembox>eeet����� ;@Se@p[K[11C
+eeet�����: Command not found
+tish error: #-2
+embox>>Tl�
+>Tl�: Command not found
+tish error: #-2
+embox>
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���� eeeeeet[?5h[?5llembox>
+���� [K[12C;@exiteeeet[?5h[?5lTlembox>
+���� [K[12Ce
+����: Command not found
+tish error: #-2
+embox>
+���� pinzeet[?5h[?5llet[?5h[?5ll
+����: Command not found
+tish error: #-2
+embox>���embox>���[K[6Cembox>e���[K[7C
+e���: Command not found
+tish error: #-2
+embox>ee
+ee: Command not found
+tish error: #-2
+embox>���embox>���[K[6Cembox>e���[K[7Cembox>ee���[K[8Cembox>eee���[K[9Cembox>eeee���[K[10Cembox>eeeee���[K[11Cembox>eeeeee���[K[12Cembox>eeeeeet���[K[13C[?5h[?5lembox>eeeeeetl���[K[14Cembox>���[K[6Cembox>e���[K[7C
+e���: Command not found
+tish error: #-2
+embox>
+����cdeeembox>
+����cde[K[14Ceet[?5h[?5l���
+
+����cdeeet: Command not found
+tish error: #-2
+embox>@pgoeeeee&[?5h[?5lTlembox>[K[6Ce
+e: Command not found
+tish error: #-2
+embox>
+���� eeeeeet[?5h[?5ll;@pgoeeeeet[?5h[?5l�><le
+����: Command not found
+tish error: #-2
+embox>
+���� eeeeeet[?5h[?5l�>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

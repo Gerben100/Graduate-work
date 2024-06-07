@@ -1,0 +1,116 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+í�������xl��������56>6embox>
+í�������xl��������56>6[K[34C��@D@@@@��@������ex
+í�������xl��������: Command not found
+tish error: #-2
+embox>port����������������embox>port���������������[K[27C�������cembox>[K[6Cembox>[K[6Cttttt�������embox>ttttt������[K[17Cls
+ttttt������ls: Command not found
+tish error: #-2
+embox>
+í��^�xl��������������������������������������
+í��^�: Command not found
+tish error: #-2
+embox>�����������c���������embox>�����������c��������[K[28C�
+�����embox>�����������c���������
+����[K[35C�����c�����embox>�����������c���������
+���������c�����embox>�����������c���������
+���������c����ls
+�����������c��������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�3>((((pii�((�[?5h[?5l((((piiy((�3>((e((((((p(((piiy(((
+�3>((((pii�((�((((piiy((�3>((e((((((p(((piiy(((: Command not found
+tish error: #-2
+embox>([?5h[?5l((([?5h[?5l(((id
+(((((((i: Command not found
+tish error: #-2
+embox>
+[
+[: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>�
+[K
+�: Command not found
+tish error: #-2
+embox>
+et
+et: Command not found
+tish error: #-2
+embox>
+�?�@
+�?�@: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ji
+ji: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>
+�R
+R: Command not found
+tish error: #-2
+embox>
+
+I: Command not found
+tish error: #-2
+embox>
+��re�xp
+yi: Command not found
+tish error: #-2
+embox>
+���etxp
+zi: Command not found
+tish error: #-2
+embox>
+���retxp
+y{: Command not found
+tish error: #-2
+embox>
+
+yiy`�i: Command not found
+tish error: #-2
+embox>
+��i@��re��e�i@��re�W�
+�: Command not found
+tish error: #-2
+embox>���i[��
+�i���i[��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��retxh
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,101 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�$x�F���F�Ѱ
+�$x: Command not found
+tish error: #-2
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+�Bx�����Ǽ.��
+�Bx: Command not found
+tish error: #-2
+embox>
+fembox>
+�Bx[K[10C������
+�Bx: Command not found
+tish error: #-2
+embox>
+]Bx���рBr���������љ�����
+]Bx: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+\embox>
+[K[7Cembox>
+]Bx[K[10C
+]Bx: Command not found
+tish error: #-2
+embox>
+exe�ihembox>
+exe�i[K[15CS
+ex: Command not found
+tish error: #-2
+embox>
+e��V
+e�: Command not found
+tish error: #-2
+embox>
+xitembox>
+xi[K[9CS
+xiS: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+ex�epi�S
+ex�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+exlogoutexi��S
+ex: Command not found
+tish error: #-2
+embox>
+exex
+ex: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+.
+.: Command not found
+tish error: #-2
+embox>
+ex
+embox>
+�Yxe�
+�Yxe�: Command not found
+tish error: #-2
+embox>
+�Bxfeor�pt
+�Bxf: Command not found
+tish error: #-2
+embox>
+�xcTeqinxxxxxxxxxxxxxxxxxeqin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

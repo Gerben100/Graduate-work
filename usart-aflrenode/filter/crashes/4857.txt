@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>RR��I�qlsp
+RR��I�qlsp: Command not found
+tish error: #-2
+embox>
+R�R�d�I�tp
+R�R�d�I�tp: Command not found
+tish error: #-2
+embox>
+RR��tt�
+RR��tt�: Command not found
+tish error: #-2
+embox>
+xit[H[H[2Jembox>
+xit[K[12Cembox>
+RR��tt�[K[15Cembox>
+R�R�d�I�tp[K[17Ci������cd
+R�R�d�I�tpi������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+s!ly 
+s!ly: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>t
+[K[8Cembox>t/
+[K[9C
+embox>
+R~wembox>
+s!ly [K[12C
+s!ly: Command not found
+tish error: #-2
+embox>
+embox>[K[6CR1embox>R[K[8C
+R: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+^�embox>
+^�[K[6C
+^: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+#d
+#d: Command not found
+tish error: #-2
+embox>
+Rembox>
+Rembox>c
+Rembox>cd
+Rembox>cd�
+R
+cd�: Command not found
+tish error: #-2
+embox>
+�w�
+�w: Command not found
+tish error: #-2
+embox>
+ttttttttdxpkr�`!
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

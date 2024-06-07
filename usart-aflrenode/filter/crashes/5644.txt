@@ -1,0 +1,177 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p
+p: Command not found
+tish error: #-2
+embox>Vembox>V[K[7Cembox>V[K[7C����
+V����: Command not found
+tish error: #-2
+embox>
+pR333
+pR333: Command not found
+tish error: #-2
+embox>txR3333333
+txR3333333: Command not found
+tish error: #-2
+embox>333333333333333333333333����
+333333333333333333333333����: Command not found
+tish error: #-2
+embox>
+p,embox>
+p[K[8C�xembox>
+p�x[K[6Cembox>�
+p�x[K[7Cembox>�&
+p�x[K[8Cembox>�&�
+p�x[K[9Cembox>�&��
+p�x[K[10C
+�&��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>Vx���
+Vx���: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>FhR����
+FhR����: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>Vxls�l��
+Vxls�l: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>dxls�l
+dxls�l: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>p
+p: Command not found
+tish error: #-2
+embox>V�l
+V�l: Command not found
+tish error: #-2
+embox>
+pp
+pp: Command not found
+tish error: #-2
+embox>Vxls
+Vxls: Command not found
+tish error: #-2
+embox>
+��l��ls@s@
+��l��ls@s@: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>Vxllogo�k}at
+Vxllogo: Command not found
+tish error: #-2
+embox>
+si
+si: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+q�
+q�: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>Vxw�l
+Vxw: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>��
+p
+��: Command not found
+tish error: #-2
+embox>nxls�l
+nxls�l: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+pdE�
+pd: Command not found
+tish error: #-2
+embox>
+yyyP�
+yyyP�: Command not found
+tish error: #-2
+embox>
+ppXXppXXin��in
+ppXX: Command not found
+tish error: #-2
+embox>pPin�@n
+pPin�@: Command not found
+tish error: #-2
+embox>pP�
+pP�: Command not found
+tish error: #-2
+embox>
+t��t�exit
+t��t�exit: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>�P�
+�P�: Command not found
+tish error: #-2
+embox>
+pipPkxp�
+��: Command not found
+tish error: #-2
+embox>
+logkut $pP�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

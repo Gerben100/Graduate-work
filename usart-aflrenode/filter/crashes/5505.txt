@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�_d�1x iembox>�_d�1x i[K[6Cembox>�_d�1x i[K[7Cembox>w�_d�1x i[K[8Cembox>wi�_d�1x i[K[9Cembox>wij�_d�1x i[K[10Cembox>wiji�_d�1x i[K[11Cembox>wijii�_d�1x i[K[12Cembox>wijiii�_d�1x i[K[13Cembox>wijiiii�_d�1x i[K[14Cembox>wijiiiii�_d�1x i[K[15Cembox>wijiiii�_d�1x i[K[14Cembox>wijiiiii�_d�1x i[K[15Cembox>wijiiiiii�_d�1x i[K[16Cembox>wijiiiiiii�_d�1x i[K[17Cembox>wijiiiiiiii�_d�1x i[K[18Cembox>wijiiiiiiiii�_d�1x i[K[19Cembox>wijiiiiiiiiii�_d�1x i[K[20Cembox>wijiiiiiiiiiiZ�_d�1x i[K[21Cembox>wijiiiiiiiiiiZi�_d�1x i[K[22Cembox>wijiiiiiiiiiiZi�_d�1x i[K[23Cembox>wijiiiiiiiiiiZi_d�1x i[K[23Cembox>wijiiiiiiiiiiZix_d�1x i[K[24Cembox>wijiiiiiiiiiiZixl_d�1x i[K[25Cembox>wijiiiiiiiiiiZixlo_d�1x i[K[26Cembox>wijiiiiiiiiiiZixlog_d�1x i[K[27Cembox>wijiiiiiiiiiiZixlogo_d�1x i[K[28Cembox>wijiiiiiiiiiiZixlogou_d�1x i[K[29Cembox>wijiiiiiiiiiiZixlogout_d�1x i[K[30Cembox>wijiiiiiiiiiiZixlogouti_d�1x i[K[31Cembox>wijiiiiiiiiiiZixlogoutii_d�1x i[K[32Cembox>wijiiiiiiiiiiZixlogoutiii_d�1x i[K[33Cembox>wijiiiiiiiiiiZixlogoutiiii_d�1x i[K[34C
+embox>)embox>)[K[6Cembox>)[K[7Cembox>i)[K[8Cembox>ii)[K[9Cembox>ii)[K[10Cembox>ii)[K[11Cembox>ii)[K[10Cembox>ii�)[K[11Cembox>ii�i)[K[12Cembox>ii�iP)[K[13C
+embox>
+�_d�1x iembox>
+�_d�1x i[K[6Cembox>
+�_d�1x i[K[7Cembox>w
+�_d�1x i[K[8Cembox>wi
+�_d�1x i[K[9Cembox>wij
+�_d�1x i[K[10Cembox>wij)
+�_d�1x i[K[11Cembox>wij)
+�_d�1x i[K[12Cembox>wij)i
+�_d�1x i[K[13Cembox>wij)ii
+�_d�1x i[K[14Cembox>wij)iii
+�_d�1x i[K[15Cembox>wij)iiii
+�_d�1x i[K[16Cembox>wij)iiiii
+�_d�1x i[K[17Cembox>wij)iiii
+�_d�1x i[K[16Cembox>wij)iiiii
+�_d�1x i[K[17Cembox>wij)iiiiii
+�_d�1x i[K[18Cembox>wij)iiiiiii
+�_d�1x i[K[19Cembox>wij)iiiiiiii
+�_d�1x i[K[20Cembox>wij)iiiiiiiii
+�_d�1x i[K[21Cembox>wij)iiiiiiiiio
+�_d�1x i[K[22Cembox>wij)iiiiiiiiioi
+�_d�1x i[K[23Cembox>wij)iiiiiiiiioii
+�_d�1x i[K[24Cembox>wij)iiiiiiiiioii
+�_d�1x i[K[25Cembox>wij)iiiiiiiiioii�_d�1x i[K[25Cembox>wij)iiiiiiiiioiix�_d�1x i[K[26Cembox>wij)iiiiiiiiioiixl�_d�1x i[K[27Cembox>wij)iiiiiiiiioiixlo�_d�1x i[K[28Cembox>wij)iiiiiiiiioiixlog�_d�1x i[K[29Cembox>wij)iiiiiiiiioiixlogo�_d�1x i[K[30Cembox>wij)iiiiiiiiioiixlogou�_d�1x i[K[31Cembox>wij)iiiiiiiiioiixlogout�_d�1x i[K[32Cembox>wij)iiiiiiiiioiixlogouti�_d�1x i[K[33Cembox>wij)iiiiiiiiioiixlogoutii�_d�1x i[K[34C
+embox>ii)embox>ii)[K[6Cembox>ii)[K[7Cembox>iii)[K[8Cembox>iiii)[K[9Cembox>iiiii)[K[10Cembox>iiiiii)[K[11Cembox>iiiiiii)[K[12Cembox>iiiiikii)[K[13Cembox>iiiiikiii)[K[14Cembox>iiiiikiPii)[K[15C
+embox>
+���������������������exi��xi���������������������e
+���������������������exi��xi���������������������e: Command not found
+tish error: #-2
+embox>xi�ߎ�xh���/�x
+xi�ߎ�xh���: Command not found
+tish error: #-2
+embox>
+�������������������9�����exi��xi��/�x
+�������������������9�����exi��xi��: Command not found
+tish error: #-2
+embox>
+����Վ���embox>
+�������������������9�����exi��xi����������Վ���embox>xi�ߎ�xh���[K[18C����������embox>xi�ߎ�xh�������������embox>xi�ߎ�xh�������������embox>i�ߎ�xh�������������embox>�i�ߎ�xh�������������embox>�ei�ߎ�xh�������������embox>�exi�ߎ�xh�������������embox>�exii�ߎ�xh�������������embox>�exi�i�ߎ�xh�������������embox>�exi��i�ߎ�xh�������������embox>�exi��xi�ߎ�xh�������������embox>�exi��x�i�ߎ�xh�������������embox>�exi��x��i�ߎ�xh�������������embox>�exi��x���i�ߎ�xh�������������embox>�exi��x����i�ߎ�xh�������������
+embox>�exi��xi��+�x
+embox>
+��embox>
+�[K[8C���������������exi��xi���/�x
+�: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[10C��Վ���/��
+�����Վ���: Command not found
+tish error: #-2
+embox>
+�������������������������������exi��xi��/exit��
+�������������������������������exi��xi��: Command not found
+tish error: #-2
+embox>�������exi��xi��/�x
+�������exi��xi��: Command not found
+tish error: #-2
+embox>
+�export���������exi��x/�]
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

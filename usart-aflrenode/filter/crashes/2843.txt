@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xxembox>�xx[K[10Cembox>�xx[K[11C
+�xx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�slxFtqembox>
+�slxFtq[K[14Cembox>
+�slxFtq[K[14CCCCembox>
+�[K[8Cembox>
+�[K[10Cembox>
+��[K[11C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>i
+�[K[7Cembox>it
+�[K[8Cembox>itx
+�[K[9Cembox>itxt
+�[K[10Cembox>itxt
+�[K[11Cembox>itxt�
+�[K[12C
+itxt: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[11Cembox>
+��[K[10C:E�
+��:E: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C���embox>
+����[K[10Cembox>
+����[K[11Cembox>
+���u�[K[12Cembox>
+���u�[K[11C
+���u�: Command not found
+tish error: #-2
+embox>
+�xFtembox>
+�xF[K[10Cl:xd��
+�xFl:xd: Command not found
+tish error: #-2
+embox>
+��xembox>
+��x[K[11Cembox>
+��x[K[12C
+��x: Command not found
+tish error: #-2
+embox>
+�expo:xiembox>
+�expo:xi[K[16Cembox>
+�expo:xi[K
+�expo:x: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+�
+embox>�l:Ftembox>�l:F[K[10Cl:
+�l:Fl:: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�Z
+[K[9Cembox>�Z�
+[K[10C
+embox>
+�w��:x
+�w��:x: Command not found
+tish error: #-2
+embox>
+�y���e�lseiembox>[K[18Cembox>[K[19C
+�y���e�lsei: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���d/Bmm
+���d/Bmm: Command not found
+tish error: #-2
+embox>
+�l a
+���d/Bmm: Command not found
+tish error: #-2
+embox>
+Bw �l ls[?5h[?5l
+!�[?5h[?5lexPort%a: Command not found
+tish error: #-2
+embox>
+�lsl � �@
+��Q(a: Command not found
+tish error: #-2
+embox>
+�l la
+�l: Command not found
+tish error: #-2
+embox>
+�l 2ls
+embox>
+
+embox>
+�l ls
+embox>
+��xxcR�
+tish error: #-22
+embox>
+l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

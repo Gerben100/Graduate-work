@@ -1,0 +1,191 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>j�x�j@x�j���hd
+j�x�j@x�j���hd: Command not found
+tish error: #-2
+embox>
+J�x�jembox>j�x�j@x�j���hd[K[26C@ޥsxd
+j�x�j@x�j���hd@ޥsxd: Command not found
+tish error: #-2
+embox>
+j�x�jembox>j�x�j@x�j���hd@ޥsxdd���xd
+j�x�j@x�j���hd@ޥsxdd: Command not found
+tish error: #-2
+embox>
+dx�j��x�js@embox>
+dx�j��x�js@[K[6Cembox>
+dx�j��x�js@[K[7Cembox>�
+dx�j��x�js@[K[8Cembox>��
+dx�j��x�js@[Kembox>��
+dx�j��x�js@[Kembox>��s
+dx�j��x�js@[Kembox>��s
+dx�j��x�js@[Kembox>��s
+dx�j��x�js@embox>��sx
+dx�j��x�js@embox>��sxx
+dx�j��x�js@embox>��sxxd
+dx�j��x�js@embox>��sxxde
+dx�j��x�js@embox>��sxxdep
+dx�j��x�js@embox>��sxxdepo
+dx�j��x�js@embox>��sxxdepor
+dx�j��x�js@embox>��sxxdeport
+dx�j��x�js@embox>��sxxdeport
+dx�j��x�js@embox>��sxxdeports
+dx�j��x�js@embox>��sxxdeports
+dx�j��x�js@embox>��sxxdeports
+dx�j��x�js@embox>��sxxdeportsx
+dx�j��x�js@embox>��sxxdeportsxd
+dx�j��x�js@
+��sxxdeportsxd: Command not found
+tish error: #-2
+embox>
+i�j�&<exit�
+i�j�&<exit�: Command not found
+tish error: #-2
+embox>
+$embox>
+$[K[8Cwembox>
+$w[K[9C$embox>
+$w$[Kwembox>
+$w$w[Kembox>
+$w$w[K
+$w: Command not found
+tish error: #-2
+embox>
+j�$ �$embox>[K[13Cwembox>[K[14Cembox>[K[14C�
+j�$: Command not found
+tish error: #-2
+embox>
+j($+$ �c$ �cg  j$ �cg
+j($+$: Command not found
+tish error: #-2
+embox>
+jexit#��
+jexit#��: Command not found
+tish error: #-2
+embox>
+�pin�$d$d
+�pin: Command not found
+tish error: #-2
+embox>
+n����
+n����: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+L�
+L�: Command not found
+tish error: #-2
+embox>
+j�$ 3'w
+j�$: Command not found
+tish error: #-2
+embox>
+j�$$ww
+j�$: Command not found
+tish error: #-2
+embox>
+j�$ $exit
+logoutvexit: Command not found
+tish error: #-2
+embox>
+�+^
+�: Command not found
+tish error: #-2
+embox>
+jpj�Np`
+jpj�Np`: Command not found
+tish error: #-2
+embox>
+�NpNpxx
+tish error: #-22
+embox>
+j��NNp`
+jexit#��: Command not found
+tish error: #-2
+embox>
+�z�Np@
+�z�Np@: Command not found
+tish error: #-2
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+ipi�N�n��
+ipi��n��: Command not found
+tish error: #-2
+embox>
+jpG�Np�
+jpG�Np�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+ �xNx�xp`
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d@@
+d@: Command not found
+tish error: #-2
+embox>
+���>.����7
+��>.���7: Command not found
+tish error: #-2
+embox>
+k�d 
+k�d: Command not found
+tish error: #-2
+embox>
+>�x��
+>�x: Command not found
+tish error: #-2
+embox>
+j�������
+j�������: Command not found
+tish error: #-2
+embox>
+9logout
+9logout: Command not found
+tish error: #-2
+embox>
+j��&�
+j�: Command not found
+tish error: #-2
+embox>�pin�����������������xit�;�>
+;�>: Command not found
+tish error: #-2
+embox>
+j�x�.��.�>
+j�x�: Command not found
+tish error: #-2
+embox>
+j.>m�������d>.d>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

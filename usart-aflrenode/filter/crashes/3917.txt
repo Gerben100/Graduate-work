@@ -1,0 +1,142 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eembox>e[K[7C@embox>e@[K[10CLhod@embox>e@Lhod@[K[17CLhoueembox>e@Lhod@Lhoue[K[22CLhoueembox>e@Lhod@LhoueLhoue[K[27CC
+e: Command not found
+tish error: #-2
+embox>
+houembox>
+ho[K[9Cd@^L 
+ho: Command not found
+tish error: #-2
+embox>
+eexporvxit�xi 
+eexporvxit�xi: Command not found
+tish error: #-2
+embox>
+so eembox>
+eexporvxit�xi [K[21C�
+eexporvxit�xi: Command not found
+tish error: #-2
+embox>
+embox>[K[6CL 
+L: Command not found
+tish error: #-2
+embox>
+ho�eembox>
+ho�e[K[11C �llogoutlso�d�txpembox>
+ho�e �llogoutlso�d�txp[K[6Cembox>y
+ho�e �llogoutlso�d�txp[K[7Cembox>yi
+ho�e �llogoutlso�d�txp[K[8Cembox>L [K[8CWdembox>L W[K[10CL
+L: Command not found
+tish error: #-2
+embox>
+xp|tcexit(
+tish error: #-22
+embox>
+exitembox>
+exi[K[10C�d@uembox>
+[K[7Cembox>
+[K[6Cembox>W
+[K[7Cembox>W�
+[K[8Cembox>W��
+[K[9Cembox>W���
+[K[10Cembox>W���
+[K[11Cembox>W���o
+[K[12Cembox>W���o�
+[K[13Cembox>W���o��
+[K[14Cembox>W���o��
+[K[6Cembox>W���o��
+[K[7Cembox>�W���o��
+[K[8C
+embox>^;; 
+^;;: Command not found
+tish error: #-2
+embox>
+hghgembox>
+hghg[K[11Cembox>
+hghgo[K[12Cembox>
+hghgos[K[13Cembox>
+hghgosu[K[14Cembox>
+hghgosu[K[15Cembox>
+hghgosu[K[14Cembox>
+hghgosuo[K[15Cembox>
+hghgosuos[K[16Cembox>
+hghgosuoso[K[17Cembox>
+hghgosuosoembox>
+hghgosuosoembox>
+hghgosuosohembox>
+hghgosuosohgembox>
+hghgosuosohghembox>
+hghgosuosohghgembox>
+hghgosuosohghgembox>
+hghgosuosohghgembox>
+hghgosuosohghgoembox>
+hghgosuosohghgosembox>
+hghgosuosohghgosuembox>
+hghgosuosohghgosuembox>
+hghgosuosohghgosuembox>
+hghgosuosohghgosuNembox>
+hghgosuosohghgosuNsembox>
+hghgosuosohghgosuNsoembox>
+hghgosuosohghgosuNsoembox>
+hghgosuosohghgosuNsoembox>
+hghgosuosohghgosuNsomembox>
+hghgosuosohghgosuNsomsembox>
+hghgosuosohghgosuNsomsuembox>
+hghgosuosohghgosuNsomsu�embox>
+hghgosuosohghgosuNsomsu�embox>
+hghgosuosohghgosuNsomsuh�embox>
+hghgosuosohghgosuNsomsuhg�embox>
+hghgosuosohghgosuNsomsuhg�embox>
+hghgosuosohghgosuNsomsuhg�embox>
+hghgosuosohghgosuNsomsuhgo�embox>
+hghgosuosohghgosuNsomsuhgos�embox>
+hghgosuosohghgosuNsomsuhgosu�embox>
+hghgosuosohghgosuNsomsuhgosu�embox>
+hghgosuosohghgosuNsomsuhgosu�embox>
+hghgosuosohghgosuNsomsuhgosuo�embox>
+hghgosuosohghgosuNsomsuhgosuo��embox>
+hghgosuosohghgosuNsomsuhgosuo���embox>
+hghgosuosohghgosuNsomsuhgosuo���
+hghgosuosohghgosuNsomsuhgosuo��: Command not found
+tish error: #-2
+embox>�embox>�embox>h�embox>hg�embox>hg�embox>hg�embox>hgo�embox>hgos�embox>hgosu�embox>hgosu�embox>hgosu�embox>hgosuo�embox>hgosuos�embox>hgosuoso�embox>hgosuoso�embox>[K
+embox>
+sle
+sle: Command not found
+tish error: #-2
+embox>
+*
+*: Command not found
+tish error: #-2
+embox>
+s�
+s: Command not found
+tish error: #-2
+embox>
+houy�lse
+houy: Command not found
+tish error: #-2
+embox>
+hou
+xpp�E: Command not found
+tish error: #-2
+embox>
+houexp�plsssZe
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

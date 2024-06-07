@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ebiembox>ebi[K[12C���e�e�xeiembox>ebi���e�e�xei[K[23Cembox>ebi���e�e�xei[K[24Cembox>ebi���e�e�xei�[K[25Cembox>ebi���e�e�xei�[K[25Cxeiembox>ebi���e�e�xei�xei[K[28Cembox>ebi���e�e�xei�xei[K[29Cembox>ebi���e�e�xei�xei[K[30Cembox>ebi���e�e�xei�xei�[K[31Cembox>ebi���e�e�xei�xei�y[K[32Cembox>ebi���e�e�xei�xei�ye[K[33Cembox>ebi���e�e�xei�xei�yee[K[34Cembox>ebi���e�e�xei�xei�yeei[K[35Cembox>ebi���e�e�xei�xei�yeei�[K[36Cembox>ebi���e�e�xei�xei�yeei�[K[35C
+embox>
+��xlogout��x
+��xlogout��x: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�[H[H[2Jembox>�[K[7Cnt�
+�nt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cp�epin��embox>
+p�epin��[K[19Cembox>
+p�epin�t�[K[20Cembox>
+p�epin�t��[K[21C
+tish error: #-22
+embox>
+_
+_: Command not found
+tish error: #-2
+embox>
+qK��exicdcdLqKembox>
+qK��exicdcdLqK[K[24Cembox>
+qK��exicdcdLqK[K[25Cembox>
+qK��exicdcdLqK[K[26Cembox>
+qK��exicdcdLqKi[K[27Cembox>
+qK��exicdcdLqKic[K[28Cembox>
+qK��exicdcdLqKicd[K[29Cembox>
+qK��exicdcdLqKicd�[K[30C
+qK: Command not found
+tish error: #-2
+embox>
+��oembox>
+��o[K[9Cembox>
+��o[K[10Cembox>
+���o[K[11C
+��: Command not found
+tish error: #-2
+embox>
+ �Ȍn��
+�: Command not found
+tish error: #-2
+embox>
+�F�F
+�F�F: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+�F�F[K[11Cc��f
+�F�Fc��f: Command not found
+tish error: #-2
+embox>
+embox>
+[Kpe������nt
+embox>��������nt�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cpe����������
+tish error: #-22
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+Bdd�
+d�: Command not found
+tish error: #-2
+embox>
+Bddd�d
+dd�d: Command not found
+tish error: #-2
+embox>
+B��pi�pind��Cd
+B�: Command not found
+tish error: #-2
+embox>
+ dWd�d�
+dd�d�: Command not found
+tish error: #-2
+embox>
+Bd���d�r�
+embox>
+Bddudd���d�d�
+d���: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+Bdxdd��
+duddxdd��: Command not found
+tish error: #-2
+embox>
+Bdd
+Bdd�d�: Command not found
+tish error: #-2
+embox>
+Bddd�d���������������������____________________
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

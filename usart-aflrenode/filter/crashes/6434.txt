@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���@kkkk�kkk
+embox>
+����kkkkk�kkk
+tish error: #-22
+embox>
+����k@�kkk
+tish error: #-22
+embox>
+����k@kkkk
+tish error: #-22
+embox>
+��Ȁk@��kik�kkk
+tish error: #-22
+embox>
+hhh����k@embox>
+hhh����k@[K[6Cembox>
+hhh����k@[K[7Cembox>
+hhh����k@[K[8Cembox>k
+hhh����k@[K[9Cembox>kk
+hhh����k@[K[10Cembox>kkk
+hhh����k@[K[11Cembox>kkkk
+hhh����k@[K[12Cembox>kkkk�
+hhh����k@[K[13Cembox>kkkk�k
+hhh����k@[K[14Cembox>kkkk�kk
+hhh����k@[K[15Cembox>kkkk�kkk
+hhh����k@[K[16C
+embox>
+����N����N�����N�kkkkembox>
+����N����N�����N�kkkk[K[6Cembox>
+����N����N�����N�kkkk[K[7Cembox>
+����N����N�����N�kkkk[K[8Cembox>k
+����N����N�����N�kkkk[K[9C
+embox>kkkembox>kkk[K[6Cembox>kkk[K[7Cembox>kkk[K[8Cembox>kkk[K[9Cembox>kkk[K[10Cembox>kkk[K[11Cembox>kkk[K[12Cembox>kkk[K[13Cembox>�kkk[K[14Cembox>�kkk[K[15Cembox>�kkk[K[16Cembox>��kkk[K[17Cembox>���kkk[K[18Cembox>����kkk[K[19Cembox>����kkk[K[20Cembox>����kkk[K[21Cembox>����Nkkk[K[22Cembox>����N�kkk[K[23Cembox>����N�kkk[K[24Cembox>����N�kkk[K[25Cembox>����N�kkk[K[26Cembox>����N�kkkk[K[27Cembox>����N�kkkkk[K[28Cembox>����N�kkkkkk[K[29Cembox>����N�kkkkkkk[K[30Cembox>����N�kkkkkkk[K[6Cembox>����N�kkkkkkk[K[7Cembox>����N�kkkkkkk[K[8Cembox>k����N�kkkkkkk[K[9Cembox>kk����N�kkkkkkk[K[10Cembox>kkk����N�kkkkkkk[K[11Cembox>kkkk����N�kkkkkkk[K[12Cembox>kkkk����N�kkkkkkk[K[6Cembox>kkkk����N�kkkkkkk[K[7Cembox>kkkk����N�kkkkkkk[K[8Cembox>kkkk����N�kkkkkkk[K[9C
+embox>
+t�kUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+t�kUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU: Command not found
+tish error: #-2
+embox>UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU: Command not found
+tish error: #-2
+embox>UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU: Command not found
+tish error: #-2
+embox>UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUkk
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUkk: Command not found
+tish error: #-2
+embox>
+����k@kkkembox>[K[25C�kjk
+tish error: #-22
+embox>
+�embox>
+[K[9C����j@�jkkk�kk�
+tish error: #-22
+embox>
+embox>[K[6Ck@[?5h[?5lk
+embox>
+�k���\@�k�kk�kkk
+tish error: #-22
+embox>
+����kkokkk
+tish error: #-22
+embox>
+�xOH^
+�xOH^: Command not found
+tish error: #-2
+embox>
+cl����k@kkkk�kkk
+tish error: #-22
+embox>
+��ls����k@lo�outjNdk�kkk
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�@Fl��[H[H[2J�
+embox>
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+��@expo
+�@expo: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�pi��@&l[?5h[?5l��
+�@&l: Command not found
+tish error: #-2
+embox>
+)l
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+��@Fl�logout�[H[H[2J��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

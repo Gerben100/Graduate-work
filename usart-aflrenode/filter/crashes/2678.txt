@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e
+e: Command not found
+tish error: #-2
+embox>
+lsembox>
+ls[K[6C
+ls: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lnt[?5h[?5lnembox>
+tnt[K[10C
+tnt: Command not found
+tish error: #-2
+embox>
+lo
+lo: Command not found
+tish error: #-2
+embox>
+~�embox>
+~�[K[9C
+~�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+ lsrq��
+embox>
+embox>
+ee
+ee: Command not found
+tish error: #-2
+embox>
+.embox>
+ee[K[9Cembox>[K[6Cpinembox>[K[6C
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+e�embox>
+e�[K[6Cembox>x
+e�[K[7C
+x: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cl�t �
+tish error: #-22
+embox>
+t[H[H[2Jembox>
+t[K
+�[H[H[2Jembox>
+t
+�[K
+��
+t: Command not found
+tish error: #-2
+embox>
+tembox>
+t��N
+t��N: Command not found
+tish error: #-2
+embox>
+@��
+t��N�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+t�ttttttttttttttttttttttttttttttt��t[?5h[?5l�:�
+[?5h[?5l�$�:�: Command not found
+tish error: #-2
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+exit��#$2���
+embox>
+t[?5h[?5l[?5h[?5l[?5h[?5l�$�$
+t[?5h[?5l[?5h[?5l�$�$: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l
+[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l��$�$�$
+[?5h[?5l��$�$�$: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�$��
+embox>$�$
+embox>
+�
+embox>pinK
+pinK: Command not found
+tish error: #-2
+embox>
+[?5h[?5l���
+[?5h[?5l���: Command not found
+tish error: #-2
+embox>
+n
+[?5h[?5l�n: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�[?5h[?5l[?5h[?5lx7��
+t�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�$�$[?5h[?5l�$�$
+t�$�$[?5h[?5l�$�$: Command not found
+tish error: #-2
+embox>
+i�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

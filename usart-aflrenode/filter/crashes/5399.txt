@@ -1,0 +1,171 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ï¿½xï¿½embox>ï¿½xï¿½[K[9Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½loMoti
+ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½loMoti: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+xpoï¿½tï¿½gouti
+xpoï¿½tï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[Koti
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½embox>
+ï¿½xï¿½[K[10Cloï¿½oï¿½i
+ï¿½xï¿½loï¿½oï¿½i: Command not found
+tish error: #-2
+embox>
+~ï¿½lslo%out
+~ï¿½lslo%out: Command not found
+tish error: #-2
+embox>
+Ockï¿½t
+Ockï¿½t: Command not found
+tish error: #-2
+embox>
+embox>[Kxï¿½ï¿½
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+embox>
+ï¿½xï¿½embox>
+ï¿½xï¿½[KloMlï¿½'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½xï¿½loM: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½embox>
+ï¿½xï¿½loMlï¿½ï¿½
+ï¿½xï¿½loM: Command not found
+tish error: #-2
+embox>
+ï¿½xembox>
+ï¿½xï¿½loMï¿½
+embox>[H[H[2J
+embox>ï¿½zï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+Ockï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½loMlï¿½'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½xï¿½loM: Command not found
+tish error: #-2
+embox>
+ï¿½x'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½xï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½Xï¿½
+embox>ï¿½ï¿½.Xcdï¿½ï¿½xeiï¿½ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>~1ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½loMlï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½xï¿½lol: Command not found
+tish error: #-2
+embox>
+ï¿½xlï¿½'ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ö‹˜˜lohexï¿½ï¿½ï¿½tï¿½ï¿½
+embox>ï¿½'ï¿½ï¿½ï¿½Ø˜ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½
+ï¿½'ï¿½ï¿½ï¿½Ø˜ï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>loMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø˜ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+loMï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø˜ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½[H[H[2J@d@@ï¿½ï¿½@@@@@@A?@@@G@+
+@d@@ï¿½ï¿½@@@@@@A?@@@G@+: Command not found
+tish error: #-2
+embox>@@@@@\@@eï¿½p@ï¿½@@@
+@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½ï¿½@lï¿½t~ï¿½~@@@@@@ï¿½ï¿½ï¿½Soenï¿½ï¿½ï¿½ï¿½ï¿½
+embox>ï¿½\@@ls
+ï¿½\@@ls: Command not found
+tish error: #-2
+embox>p@ï¿½@@@
+p@ï¿½@@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½[H[H[2J@dï¿½ï¿½@@@@@@@@@?pin@@@
+@dï¿½ï¿½@@@@@@@@@?pin@@@: Command not found
+tish error: #-2
+embox>G@+@@@@@\@@exp@ï¿½@@@
+G@+@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½[H[H[2Jï¿½ï¿½@@TABï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@@@
+ï¿½x: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½[H[H[2J
+@dï¿½ï¿½@@@@@@@@@?@@ï¿½G@+@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½[H[H[2J@dï¿½ï¿½@@@@ï¿½ï¿½@@@?@@@
+@dï¿½ï¿½@@@@ï¿½ï¿½@@@?@@@: Command not found
+tish error: #-2
+embox>@@@@@\@@exp@ï¿½@a@
+@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½ï¿½[H[H[2J
+embox>
+embox>@@@@@\@@@@@?@@NG@+@@@@\@@exp@ï¿½@W@
+@@\@@exp@ï¿½@W@: Command not found
+tish error: #-2
+embox>
+6>@dï¿½ï¿½@ï¿½@@ï¿½@G@ï¿½@@exi@@@@9\@@exp@ï¿½@@@
+@dï¿½ï¿½ï¿½@@: Command not found
+tish error: #-2
+embox>
+ï¿½_(ï¿½.ï¿½ï¿½eï¿½ï¿½6656>@@dï¿½ï¿½ï¿½@e[?5h[?5lï¿½ï¿½@@@@
+@@dï¿½ï¿½@ï¿½ï¿½@@@@: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½tï¿½[H[H[2J[?5h[?5l
+0: Command not found
+tish error: #-2
+embox>@G@+@@@@@\@@exp@ï¿½@@@
+@G@+@@: Command not found
+tish error: #-2
+embox>
+ï¿½xï¿½ï¿½ï¿½[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>����dembox>����d[K[10Cembox>����d[K[11C
+embox>����d��
+����d��: Command not found
+tish error: #-2
+embox>
+fi�exitx~embox>
+fi�exitx[K[15Cxbo
+fi�exitxxbo: Command not found
+tish error: #-2
+embox>
+<embox>
+fi�exitxxbo[K[18Cp�r9+
+fi�exitxxbop�r9+: Command not found
+tish error: #-2
+embox>
+ embox>
+ [K[6Cembox>
+ [K[7Cembox>
+ [K[8Cembox>
+ [K[9Cembox>
+ [K[10Cembox>d
+ [K[11Cembox>d�
+ [K[12Cembox>d�[K[12Cembox>d[K[11C*
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox> 
+[K[9Cembox> d
+[K[10Cembox> d*
+[K[11C
+embox>
+����d�embox>
+����d�[K[6Cembox>�
+����d�[K[7Cembox>��
+����d�[K[8Cembox>���
+����d�[K[9Cembox>����
+����d�[K[10Cembox>����d
+����d�[K[11Cembox>����d�
+����d�[K[12Cembox>����d�*
+����d�[K[13C
+����d�*: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>���
+[K[10Cembox>���d
+[K[11Cembox>���d�
+[K[12Cembox>���d�[?5h[?5l
+[K[13Cembox>���d�[?5h[?5l 
+[K[14Cembox>���d�[?5h[?5l 
+[K[15Cembox>���d�[?5h[?5l *
+[K[16C
+�: Command not found
+tish error: #-2
+embox>
+lo�s,embox>
+lo�s,[K[6Cembox>
+lo�s,[K[7Cembox>z
+lo�s,[K[8Cembox>z�
+lo�s,[K[9Cembox>z�o
+lo�s,[Kembox>z�ow
+lo�s,[Kembox>�[K[7C�oouM
+�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��
+"
+��: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+embox>���embox>���embox>d���embox>d����embox>d����embox>�d����embox>��d����embox>���d����embox>����d����embox>����dd����embox>����d�d����embox>����d�d����
+����d�d����: Command not found
+tish error: #-2
+embox>
+���
+�d�d�3: Command not found
+tish error: #-2
+embox>
+bp
+bp: Command not found
+tish error: #-2
+embox>
+*
+*: Command not found
+tish error: #-2
+embox>
+l�������l���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

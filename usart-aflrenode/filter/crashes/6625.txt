@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>w])lsembox>w])ls[K[6Cembox>�w])ls[K[7Cembox>��w])ls[K[8Cembox>���w])ls[K[9Cembox>���Lw])ls[K[10C
+���Lw])ls: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+000000o��0o��L
+000000o��0o��L: Command not found
+tish error: #-2
+embox>
+W
+W: Command not found
+tish error: #-2
+embox>
+wM��oL
+wM��oL: Command not found
+tish error: #-2
+embox>
+cdloHo]t�L
+cdloHo]t�L: Command not found
+tish error: #-2
+embox>
+????
+????: Command not found
+tish error: #-2
+embox>
+w])embox>
+w][K[9C in
+w]: Command not found
+tish error: #-2
+embox>
+embox>[K[6C])ov
+])ov: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>l
+[K[7Cembox>l�
+[K[8Cembox>l�@
+[K[9Cembox>l�@%
+[K[10Cembox>l�@%K
+[K[11Cembox>l�@%Kp
+[K[12Cembox>l�@%Kpi
+[K[13Cembox>l�@%Kpin
+[K[14Cembox>l�@%KpinK
+[K[15Cembox>l�@%KpinKK
+[K[16Cembox>l�@%KpinKK�
+[K[17Cembox>l�@%KpinKK�L
+[K[18C
+l�@%KpinKK�L: Command not found
+tish error: #-2
+embox>
+w])�]L���L
+w])�]L���L: Command not found
+tish error: #-2
+embox>
+����yelt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

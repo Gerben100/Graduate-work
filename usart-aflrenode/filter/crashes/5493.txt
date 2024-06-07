@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>?embox>[K[6C��embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cqs
+qs: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+lsb@exb@e
+lsb@exb@e: Command not found
+tish error: #-2
+embox>
+xb@d
+xb@d: Command not found
+tish error: #-2
+embox>
+xb,\e
+xb,\e: Command not found
+tish error: #-2
+embox>
+ii@e
+ii@e: Command not found
+tish error: #-2
+embox>
+yb@eigei��embox>
+yb@eigei�[K[16CgxiiYe
+yb@eigei�gxiiYe: Command not found
+tish error: #-2
+embox>
+xbd
+xb: Command not found
+tish error: #-2
+embox>
+e�w�
+e�w�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+@b:e
+@: Command not found
+tish error: #-2
+embox>
+
+embox>
+�@e��������
+embox>�x;xb��
+�x;xb��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+[��
+[��: Command not found
+tish error: #-2
+embox>
+ x����
+tish error: #-22
+embox>
+x���
+x���: Command not found
+tish error: #-2
+embox>
+?
+?: Command not found
+tish error: #-2
+embox>
+x@@j�Mogou��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�expo`
+embox>
+��de
+tish error: #-22
+embox>
+��lsQieeeeeeeeeembox>
+��lsQieeeeeeee[K[25C�eeeeeeeeiembox>
+��lsQieeeeeeee�eeeeeeeei[K[35Cembox>
+��lsQieeeeeeee�eeeeeeeeiy[K[36Cembox>
+��lsQieeeeeeee�eeeeeeeeiye[K[37Cembox>
+��lsQieeeeeeee�eeeeeeeeiye�[K[38Cembox>
+��lsQieeeeeeee�eeeeeeeeiye�y[K[39Cembox>
+��lsQieeeeeeee�eeeeeeeeiye�ye[K[40C
+tish error: #-22
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>�e
+��[K[8Cembox>�ex
+��[K[9Cembox>�exp
+��[K[10Cembox>�expo
+��[K[11Cembox>�expor
+��[K[12Cembox>�export
+��[K[13Cembox>�export
+��[K[14Cembox>�export��[K[14Cembox>�exportx��[K[15Cembox>�exportx��[K[16Cembox>�exportx���[K[17Cembox>�exportx���[K[18Cembox>�exportx�x��[K[19Cembox>�exportx�xQ��[K[20Cembox>�exportx�xQp��[K[21Cembox>�exportx�xQpi��[K[22C
+�export: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>@<
+@<: Command not found
+tish error: #-2
+embox>
+
+embox>���lgoul
+���: Command not found
+tish error: #-2
+embox>
+@l
+@l: Command not found
+tish error: #-2
+embox>
+xlsembox>
+xls[K[12Cembox>
+xls[K[13Cembox>
+xls�[K[14Cembox>
+xls�[K[15Cembox>
+xls�e[K[16Cembox>
+xls�e@[K[17Cembox>
+xls�e@�[K[18C
+tish error: #-22
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+xeieb�
+tish error: #-22
+embox>
+texpMn�&ki
+t: Command not found
+tish error: #-2
+embox>
+
+embox>�embox>�[K[6Cembox>[K[6Cxefembox>xef[K[9Cembox>xef[K[10Cembox>xef8[K[11Cembox>xef8�[K[12C
+xef8�: Command not found
+tish error: #-2
+embox>
+@�
+@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>�h
+embox>�h�
+embox>�h�
+embox>�h��
+embox>�h��
+embox>�h���
+embox>�h����
+embox>�h�����
+embox>�h������
+
+�h�: Command not found
+tish error: #-2
+embox>
+�ei
+embox>e@x
+e@x: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+�y�~����
+embox>A�������*#
+A�������*#: Command not found
+tish error: #-2
+embox>
+�x������
+tish error: #-22
+embox>
+�[?5h[?5l~�
+embox>��n�pi�� #
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

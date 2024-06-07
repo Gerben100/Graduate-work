@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�lopp�exportex���[?5h[?5l[?5h[?5l[?5h[?5lprn[?5h[?5l[?5h[?5l[?5h[?5l�ex��
+�lopp�exportex���prn�ex��: Command not found
+tish error: #-2
+embox>
+5cd
+5cd: Command not found
+tish error: #-2
+embox>
+��eembox>
+��e[K[10Cembox>
+��et[K[11C
+��et: Command not found
+tish error: #-2
+embox>
+�sopp�o��d�embox>
+�sopp�o��d�[K[6Cembox>
+�sopp�o��d�[K[7Cembox>
+�sopp�o��d�[K[8Cembox>
+�sopp�o��d�[K[9Cembox>�
+�sopp�o��d�[K[10Cembox>tish[Kembox>exit[Kembox>logout[Kpin[?5h[?5l[?5h[?5l[?5h[?5l�ex��
+logoutpin�ex��: Command not found
+tish error: #-2
+embox>
+������logout��������������
+������logout��������������: Command not found
+tish error: #-2
+embox>
+�lopp�o��d�ex�[?5h[?5l�[?5h[?5l[?5h[?5l[?5h[?5lpiembox>
+�lopp�o��d�ex��p[K[?5h[?5l[?5h[?5l[?5h[?5l�ex��
+�lopp�o��d�ex��p�ex��: Command not found
+tish error: #-2
+embox>
+�lopp�o��d�Rex���[?5h[?5l[?5h[?5l[?5h[?5lm�
+�lopp�o��d�Rex���m�: Command not found
+tish error: #-2
+embox>
+(xlogout56>6E@�e@@d@@@@@@@��
+(xlogout56>6E@: Command not found
+tish error: #-2
+embox>
+�lopp�o��d�ex���[?5h[?5l[?5h[?5lpin[?5h[?5l[?5h[?5l[?5h[?5lex��
+(xlogout56>6E@ex��: Command not found
+tish error: #-2
+embox>
+�@
+�@: Command not found
+tish error: #-2
+embox>
+�x��p"�el�
+�x��p"�el�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ll
+�l: Command not found
+tish error: #-2
+embox>
+�l
+�l: Command not found
+tish error: #-2
+embox>
+x,eit
+xe: Command not found
+tish error: #-2
+embox>
+�d
+tish error: #-22
+embox>
+��fexit
+��f: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+embox>l
+l: Command not found
+tish error: #-2
+embox>
+�L
+�L: Command not found
+tish error: #-2
+embox>
+embox>
+�l��
+�l: Command not found
+tish error: #-2
+embox>
+�n�
+�n�: Command not found
+tish error: #-2
+embox>
+�lop����
+embox>"
+embox>ls;����tttt�s;t�ls;t��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,121 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@embox>�@[K[14C��
+embox>
+Qpin
+Qpin: Command not found
+tish error: #-2
+embox>
+e���
+e���: Command not found
+tish error: #-2
+embox>
+e�embox>
+e���[K[11Cembox>
+Qpin[K[12C
+Qpin: Command not found
+tish error: #-2
+embox>
+^
+^: Command not found
+tish error: #-2
+embox>
+zeiembox>
+zei[K[6C
+tish error: #-22
+embox>
+nnnnnvxx
+nnnnnvxx: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+tish error: #-22
+embox>
+�zei�zei�
+�zei�zei�: Command not found
+tish error: #-2
+embox>
+dlo��
+dlo��: Command not found
+tish error: #-2
+embox>
+embox>[K[13C
+dlo��: Command not found
+tish error: #-2
+embox>
+zeh�zeh�
+tish error: #-22
+embox>
+'x%ilogo@Tembox>
+'x%ilogo@Tembox>
+'x%ilogo@T
+embox>
+�
+embox>zei�
+zei�: Command not found
+tish error: #-2
+embox>
+
+embox>�
+embox>
+�@@@@�
+?
+eort
+tish error: #-22
+embox>
+�do���
+�do�: Command not found
+tish error: #-2
+embox>
+P
+embox>
+c]i
+y: Command not found
+tish error: #-2
+embox>
+gei�
+tish error: #-22
+embox>
+
+embox>~
+embox>
+
+tish error: #-22
+embox>
+�Zt�pin
+�Zt�pin: Command not found
+tish error: #-2
+embox>
+�ymi�
+tish error: #-22
+embox>
+x�w(i�[?5h[?5l
+x�w(i�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+)�
+embox>
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

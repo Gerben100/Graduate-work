@@ -1,0 +1,390 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@@@�@embox>@@@�[K[12C L@@@�@
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c@: Command not found
+tish error: #-2
+embox>56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c@[K[42C@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c@@@@�[K L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c@: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xpr@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:�logou@@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666gou@@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�lo@icd\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@\emembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icdmembox>[K[6Cw;c�656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\ew;c�656>%Tembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79C
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r: Command not found
+tish error: #-2
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6C656>%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6Cw;c�%TQelogout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>logout@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQeut@@
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@@@� L@@@�@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@@@�@embox>ut@@@@�[K[13C L@@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@embox>ut@@@@�@[K[15C L@@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@@@�@ L@@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@@@�@embox>ut@@@@�@@@�[K[19C@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@@@�@embox>ut@@@@�@@@�[K[19C L@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@@@�@embox>ut@@@@�@@@�[K[19C L@@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lembox>
+[K[7C�O@@9�ex�t@@pin@@ac?ce\}o��w1c�656noNout@@embox>ut@@@@�[K[13C
+ut@@@@�: Command not found
+tish error: #-2
+embox>@@@�@embox>@@@�[K[12C L@@@�@
+embox>
+t[?5h[?5l&56r�@@H���embox>
+t&56r�@@H��[K[18CLxpw�embox>
+t&56r�@@H��Lxpw[K[22Cbembox>
+t&56r�@@H��Lxpw[K[22C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@H��Lxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelogo
+embox>ut@@embox>ut@@@@�[K[13C@@@�@embox>ut@@@@�@@@�[K[19C L@@@�@
+ut@@@@�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�q@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�q@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>ut@@@@�[K[13C56r@:cembox>[K[6Cw;c�656>%TQelogout@@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@!@�@embox>
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e@!@� L@@
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>@��
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�X@cdin@@@c?[
+t&56r�@@cNLxpw�O@@9�ex�X@cdin@@@c?[: Command not found
+tish error: #-2
+embox>xp@embox>@��[K[9C56r@:c666�log�c@icK\emembox>[K[6Cw;c�656>%T@@�embox>w;c�656>%T@@�[K[21C
+embox>�LQelogout@@embox>@��[K[9C@@@�embox>@��@@@�[K[15C�L@@@embox>@��@@@��L@@@[K[23Cembox>@��@@@��L@@@[K[23C
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@cNLxpw�embox>
+t&56r�@@cNLxpw[K[21Cbembox>
+t&56r�@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56r�@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>@��[K[9C56r@:cembox>@��56r@:[K[15C66�logou@@icd\emembox>[K[6Cw;c�656>%TQ�logo
+embox>ut@@embox>@��[K[9C@@@�@embox>@��@@@�[K[15C L@@@�@
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56rA@@cNLxpw�embox>
+t&56rA@@cNLxpw[K[21Cbembox>
+t&56rA@@cNLxpw[K[21C�O@@9�ex�t@@pin@@@c?e
+t&56rA@@cNLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>@��[K[9C56r@:c666�logou@@icd\emembox>[K[6Cw;c�656>%TQelo�
+embox>�@@embox>@��[K[9C@@@�@embox>@��@@@�[K[15C L@@@�@
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@�jxpw�embox>
+t&56r�@�jxpw[K[21Cbembox>
+t&56r�@�jxpw[K[21C�O@@9�mx�t@@Vi}@@@c?e
+t&56r�@�j: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@�j[K[16C56L@G@�66m embox>[K[6Cwlllllll\emembox>[K[6Cw;c�656>%TQelogo
+embox>qt@@embox>
+t&56r�@�j[K[16C@@@�@embox>
+t&56r�@�j@@@� r@:e@
+t&56r�@�j: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r�@@�NLxpw�embox>
+t&56r�@@�NLxpwbembox>
+t&56r�@@�NLxpw�O@@9�ex�t@@pin@@@c?e
+t&56r�@@�NLxpw�O@@9�ex�t@@pin@@@c?e: Command not found
+tish error: #-2
+embox>xp@embox>
+t&56r�@�j[K[16C56r@:c666�logou@embox>@��[K[9C@@@�@embox>@��@@@�[K[15C L@@@�@
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l%�6&56r�@@cNLxpw�embox>[K[24Cbembox>[K[24C�O@@9�exou@@icd\em
+t%�6&56r�@@cNLxpw�O@@9�exou@@icd\e: Command not found
+tish error: #-2
+embox>embox>[Kw;c�656>%TQelogogou@@icd\emembox>[Kw;c�656>%TQelogo
+embox>ut@#embox>@��[K@@@�@embox>[K[15C L@@@�@
+@��: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lgou�#�@�eembox>[K[16Cembox>[K[15Cembox>[K[14Cembox>[K[13Cembox>[K[12Cembox>
+tgou[Kembox>
+tgo[Kembox>
+tg[Kembox>
+t[KWWWWWWx�tpw�embox>[K[19Cbembox>[K[19C�O@@9�@@pin@M@c?$xp@embox>@��xNLxpw�embox>@��xNLxpwbembox>@��xNLxpw�O@@9�@pin@M@c?$xp@
+@��xNLxpw�O@@9�@pin@M@c?$xp@: Command not found
+tish error: #-2
+embox>embox>@��[K56r@:d666@@@@�lo&5>r�@@c
+@��56r: Command not found
+tish error: #-2
+embox>
+t��Rembox>
+t��Rembox>
+t��Rembox>�
+t��Rembox>�p
+t��Rembox>�pi
+t��Rembox>�pin
+t��Rembox>�pin�
+t��Rembox>�pin��
+t��Rembox>�pin���
+t��Rembox>�pin����
+t��Rembox>�pin�����
+t��Rembox>�pin������
+t��Rembox>�pin�����
+t��Rembox>�pin�����
+t��Rembox>�pin�����O
+t��Rembox>�pin�����O@
+t��Rembox>�pin�����O@@
+t��Rembox>�pin�����O@@9
+t��Rembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>�?exp%embox>@��56r56r�?:
+@��56r56r�?:: Command not found
+tish error: #-2
+embox>c6embox>c[K���logou@@icdquuquuuuuuuuuuuuuuuuuouuuuuuuuu\e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

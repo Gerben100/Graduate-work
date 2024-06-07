@@ -1,0 +1,185 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>|Xxla
+|Xxla: Command not found
+tish error: #-2
+embox>
+�Xxt�pin
+�Xxt�pin: Command not found
+tish error: #-2
+embox>
+|�embox>
+|[K[8Ct�
+|t�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+|X��xe�eembox>
+|X��xe�e[K[16Cyeilsembox>
+|X��xe�eyeils[K[21Cembox>
+|X��xe�eyeils[K[22Cembox>
+|X��xe�eyeil�s[K[23Cembox>
+|X��xe�eyeil�ys[K[24Cembox>
+|X��xe�eyeil�ys[K[25Cembox>
+|X��xe�eyeil�y�s[K[26Cembox>
+|X��xe�eyeil�y�ys[K[27Cembox>
+|X��xe�eyeil�y�yes[K[28Cembox>
+|X��xe�eyeil�y�ye�s[K[29C
+|X��xe�e: Command not found
+tish error: #-2
+embox>
+|X��xe�e�yeiembox>
+|X��xe�e�yei[K[20Cembox>
+|X��xe�e�yei[K[21Cembox>
+|X��xe�e�yei�[K[22Cembox>
+|X��xe�e�yei�y[K[23Cembox>
+|X��xe�e�yei�ye[K[24Cembox>
+|X��xe�e�yei�ye�[K[25Cembox>
+|X��xe�e�yei�ye��[K[26Cembox>
+|X��xe�e�yei�ye��[K[27Cembox>
+|X��xe�e�yei�ye��[K[27Cembox>
+|X��xe�e�yei�ye��[K[26C���xe���yeiembox>
+|X��xe�e�yei�ye�����xe���yei[K[39Cembox>
+|X��xe�e�yei�ye�����xe���yei[K[40Cembox>
+|X��xe�e�yei�ye�����xe���yei�[K[41Cembox>
+|X��xe�e�yei�ye�����xe���yei�V[K[42Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vg[K[43Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgo[K[44Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgou[K[45Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgout[K[46Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgouty[K[47Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgoutye[K[48Cembox>
+|X��xe�e�yei�ye�����xe���yei�Vgoutyei[K[49C
+|X��xe�e: Command not found
+tish error: #-2
+embox>�
+embox>
+|X��xe�i�ye�
+|X��xe�i: Command not found
+tish error: #-2
+embox>
+|X��xe�eye�[?5h[?5le�
+embox>�ye�
+embox>
+|X��xe�e�eiembox>
+|X��xe�e�ei[K[20Cembox>
+|X��xe�e�ei[K[6Cembox>
+|X��xe�e�ei[K[7Cembox>
+|X��xe�e�ei[K[8Cembox>
+|X��xe�e�ei[K[9Cembox>�
+|X��xe�e�ei[K[10Cembox>��
+|X��xe�e�ei[K[11C
+embox>
+|X��embox>[K[6Ce�e�yee��embox>e�e�yee��[K[16C���xe���yeiembox>e�e�yee�����xe���yei[K[29Cembox>e�e�yee�����xe���yei[K[30Cembox>e�e�yee�����xe���yei�[K[31Cembox>e�e�yee�����xe���yei�y[K[32Cembox>e�e�yee�����xe���yei�ye[K[33Cembox>e�e�yee�����xe���yei�ye�[K[34C
+e�e: Command not found
+tish error: #-2
+embox>
+|XWWi��xe�e�yeiembox>
+|XWWi��xe�e�yei[Kembox>
+|XWWi��xe�e�yei[Kembox>
+|XWWi��xe�e�yei�[Kembox>
+|XWWi��xe�e�yei�[Kembox>
+|XWWi��xe�e�yei��embox>
+|XWWi��xe�e�yei��yembox>
+|XWWi��xe�e�yei��yeembox>
+|XWWi��xe�e�yei��yeiembox>
+|XWWi��xe�e�yei��yeiembox>
+|XWWi��xe�e�yei��yeiembox>
+|XWWi��xe�e�yei��yei�embox>
+|XWWi��xe�e�yei��yei��embox>
+|XWWi��xe�e�yei��yei���embox>
+|XWWi��xe�e�yei��yei���xembox>
+|XWWi��xe�e�yei��yei���xeembox>
+|XWWi��xe�e�yei��yei���xe�embox>
+|XWWi��xe�e�yei��yei���xe�embox>
+|XWWi��xe�e�yei��yei���xe��embox>
+|XWWi��xe�e�yei��yei���xe��yembox>
+|XWWi��xe�e�yei��yei���xe��yeembox>
+|XWWi��xe�e�yei��yei���xe��ye�embox>
+|XWWi��xe�e�yei��yei���xe��ye��embox>
+|XWWi��xe�e�yei��yei���xe��ye��embox>
+|XWWi��xe�e�yei��yei���xe��ye��embox>
+|XWWi��xe�e�yei��yei���xe��ye��embox>
+|XWWi��xe�e�yei��yei���xe��ye��embox>
+|XWWi��xe�e�yei��yei���xe��ye���embox>
+|XWWi��xe�e�yei��yei���xe��ye���yembox>
+|XWWi��xe�e�yei��yei���xe��ye���yeembox>
+|XWWi��xe�e�yei��yei���xe��ye���ye�
+|XWWi��xe�e: Command not found
+tish error: #-2
+embox>
+|X�xe���yeiembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25C
+|X�xe�: Command not found
+tish error: #-2
+embox>
+|X��xe�e�yeembox>
+|X�xe��ye�logout�embox>
+|X�xe��ye�logout����xe���yeiembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+|X�xe��ye�logout����xe�: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+|X��exportxe�e�yeixxZxxxxx�xxxxxxxxxxxxembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+xݖ: Command not found
+tish error: #-2
+embox>ei
+x�: Command not found
+tish error: #-2
+embox>[?5h[?5le�
+e�: Command not found
+tish error: #-2
+embox>
+|X��xe�e�yei�ls��xe���yei
+|X��xe�e: Command not found
+tish error: #-2
+embox>
+|X��xe�&e�yei���xe�
+�: Command not found
+tish error: #-2
+embox>
+|||i[?5h[?5l
+��3|||i: Command not found
+tish error: #-2
+embox>
+�Ѷ�џ��
+�Ѷ�џ��: Command not found
+tish error: #-2
+embox>
+�6�
+�6: Command not found
+tish error: #-2
+embox>
+�'�
+�'�: Command not found
+tish error: #-2
+embox>
+|'�@
+|'���|�@: Command not found
+tish error: #-2
+embox>
+Q
+tish error: #-22
+embox>
+66@ee�yyyeyyyyyy�y��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,163 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C
+embox>
+�dembox>
+�d[K[6Cembox>�
+�d[K[7Cembox>
+��d[K[8Cembox>
+�i�d[K[9Cembox>
+�i��d[K[10Cembox>
+�i�[K[10C�embox>
+�i�[K[10C
+�i�: Command not found
+tish error: #-2
+embox>
+��a
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>� 
+�[K[9Cembox>� �
+�[K[10Cembox>� �
+�[K[11Cembox>� �
+�[K[6Cembox>� �
+�[K[7Cembox>�� �
+�[K[8Cembox>�� �
+�[K[6Cembox>�� �
+�[K[7Cembox>�� �
+�[K[6Cembox>�� �
+�[K[7Cembox>��� �
+�[K[8Cembox>� �� �
+�[K[9Cembox>� ��� �
+�[K[10Cembox>� ��� �
+�[K[11Cembox>� ��� �
+�[K[6Cembox>� ��� �
+�[K[7Cembox>�� ��� �
+�[K[8Cembox>� � ��� �
+�[K[9Cembox>� �� ��� �
+�[K[10Cembox>� � � ��� �
+�[K[11C
+embox>
+�n�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�i
+[K[9Cembox>�i�
+[K[10Cembox>�i�Z
+[K[11Cembox>[K[6C��embox>��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+�dbdembox>
+�dbd[K[11Ci�embox>
+�dbdi[K[12C�
+�dbdi�: Command not found
+tish error: #-2
+embox>
+�dd�ddembox>
+�dd�dd[K[16Cf�embox>
+�dd�ddf[K[17C�embox>
+�dd�ddf[K[17C
+�d: Command not found
+tish error: #-2
+embox>
+@embox>
+@[K[8Cembox>
+@[K[9Cembox>
+@[K[8Cembox>
+@[K[9Cembox>
+@[K[10Cembox>
+@[K[11Cembox>
+@[K[12Cembox>
+@e[K[13Cembox>
+@ex[K[14Cembox>
+@exi[K[15Cembox>
+@exit[K[16C
+@: Command not found
+tish error: #-2
+embox>
+nd
+nd: Command not found
+tish error: #-2
+embox>
+|��[?5h[?5liw}
+|��[?5h[?5liw}: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8Cp:poppipppembox>
+�p:poppipp[K[17C
+�p:poppipp: Command not found
+tish error: #-2
+embox>
+�dembox>
+�d[K[9Cembox>
+�d[K[10C�xembox>
+�d�[K[11C�embox>
+�d�[K[11C
+�d: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K
+�: Command not found
+tish error: #-2
+embox>
+�drembox>
+�drh��embox>
+�drh�
+�drh�: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+�d=
+d=: Command not found
+tish error: #-2
+embox>
+�??��
+�??��: Command not found
+tish error: #-2
+embox>
+�d�di��f
+�d�di�f: Command not found
+tish error: #-2
+embox>
+�c�di��~
+�c�di: Command not found
+tish error: #-2
+embox>
+򃀊ls
+򃀊ls: Command not found
+tish error: #-2
+embox>
+�y�Os�Rv�Os
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,203 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+$
+$: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+Z
+Z: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+��������exiU�������
+��������exiU�������: Command not found
+tish error: #-2
+embox>
+77ex�ost�
+77: Command not found
+tish error: #-2
+embox>
+ʹ�t}
+ʹ�t}: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+logofq
+logofq: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�xpi�@@@
+�xpi�@: Command not found
+tish error: #-2
+embox>
+�xpin@@@
+�xpin: Command not found
+tish error: #-2
+embox>
+�xpin@�@@
+�xpin: Command not found
+tish error: #-2
+embox>
+�xpin@�@@
+�xpin: Command not found
+tish error: #-2
+embox>
+�xpin@�@@@
+�xpin: Command not found
+tish error: #-2
+embox>
+�xpin�@@����@
+�xpin: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ppppppin@@pppppp@@
+�ppppppin@@pppppp@: Command not found
+tish error: #-2
+embox>
+�xpin@�@@�@
+�xpin: Command not found
+tish error: #-2
+embox>
+�xpexit@�@
+�xpexit@�@: Command not found
+tish error: #-2
+embox>
+�pin@�@@\@
+�: Command not found
+tish error: #-2
+embox>
+ xpin@{@@@
+xpin: Command not found
+tish error: #-2
+embox>
+�xpim���@@@
+�xpim�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�@@�@@�� 
+�@: Command not found
+tish error: #-2
+embox>
+߅p^N@�@@@
+߅p^N: Command not found
+tish error: #-2
+embox>
+�xpin@�@@�
+�xpi: Command not found
+tish error: #-2
+embox>
+�xp
+�: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+�~pin@�1@[?5h[?5lpin@�@@@
+�~pin: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+@��
+@��: Command not found
+tish error: #-2
+embox>
+�����
+����: Command not found
+tish error: #-2
+embox>
+_xpin@k@.��
+_xpin: Command not found
+tish error: #-2
+embox>
+�xpiX@�O@��
+�xpiX: Command not found
+tish error: #-2
+embox>
+�xpinls�@@��
+�xpin: Command not found
+tish error: #-2
+embox>
+c�jdexit��ex���
+c�jdexit��ex�: Command not found
+tish error: #-2
+embox>
+�xs�xs�xs�xs�nD����nD���
+�xs�xs�xs�xs�n: Command not found
+tish error: #-2
+embox>
+�xpinls@�@�����@��
+�xpin: Command not found
+tish error: #-2
+embox>
+in@�KAKKKKKKKKKKKKK@�KKKKKKKKKK[?5h[?5lKKKpin@�KAYK`
+in: Command not found
+tish error: #-2
+embox>KKKKKK[?5h[?5lKKKpi�KKKKKKKKKKKKKKKKKKKKKKKK@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

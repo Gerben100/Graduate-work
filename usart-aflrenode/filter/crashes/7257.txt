@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+�embox>
+�d[K[9C��
+�d��: Command not found
+tish error: #-2
+embox>
+d�
+d�: Command not found
+tish error: #-2
+embox>
+Kiembox>
+K[K[8C�
+K�: Command not found
+tish error: #-2
+embox>
+ml�
+tish error: #-22
+embox>
+cSSS```MM�j
+cSSS```MM�j: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+�RlogoutRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRsRRN
+�RlogoutRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRsRRN: Command not found
+tish error: #-2
+embox>RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR: Command not found
+tish error: #-2
+embox>R
+R: Command not found
+tish error: #-2
+embox>
+����zs
+����zs: Command not found
+tish error: #-2
+embox>
+�ml@@@@-@$@@@@embox>
+�ml@@@@-@$@@@@[K[6Cembox>@
+�ml@@@@-@$@@@@[K[7Cembox>@@
+�ml@@@@-@$@@@@[K[8Cembox>@@e
+�ml@@@@-@$@@@@embox>@@ex
+�ml@@@@-@$@@@@embox>@@exp
+�ml@@@@-@$@@@@embox>@@expZ
+�ml@@@@-@$@@@@embox>@@expZ�
+�ml@@@@-@$@@@@embox>@@expZ�@
+�ml@@@@-@$@@@@embox>@@expZ�@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@@@@
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@@@@�
+�ml@@@@-@$@@@@embox>@@expZ�@@@@@@@@@@@@@�F
+�ml@@@@-@$@@@@embox>[K[29C
+@@expZ�@@@@@@@@@@@@@�Fs: Command not found
+tish error: #-2
+embox>
+lsiJh�embox>
+lsiJh�[K[6C
+lsiJh�: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+embox>
+`gout�mls
+`: Command not found
+tish error: #-2
+embox>
+�uls�uls
+�uls�uls: Command not found
+tish error: #-2
+embox>
+�msnls
+�msnls: Command not found
+tish error: #-2
+embox>
+�
+�msnls: Command not found
+tish error: #-2
+embox>
+nm1jexi�
+nm1jexi�: Command not found
+tish error: #-2
+embox>
+e`ee��i
+
+ye: Command not found
+tish error: #-2
+embox>e�
+e�: Command not found
+tish error: #-2
+embox>���������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,62 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d?x
+embox>��66 6>embox>��66 6[K[12Cortembox>��66 6or[K[14Cxp@�@� O@@G@@\@@@@@@G@@\@@e@
+��66: Command not found
+tish error: #-2
+embox>
+d�66 6>embox>
+d�66 6[K[14Cortembox>
+d�66 6or[K[16Cxp@�@� =@@@[@embox>
+d�66 6orxp@�@� =@@@[[K[29C@@@G@@\@@@p@�@@@ =@s@[
+tish error: #-22
+embox>@@@@@G@@\@@@@@@G@@\@@ex
+@@@@@G@@\@@@@@@G@@\@@ex: Command not found
+tish error: #-2
+embox>
+d�66 6>embox>
+d�66 6[K[14Cortembox>
+d�66 6or[K[16Cxp@�@� =@@@[@@@@@G@@\@@@p@�@@@ =@@@[
+tish error: #-22
+embox>@@@@@G@@\@@@@@@G@D\@@ex
+@@@@@G@@\@@@@@@G@D\@@ex: Command not found
+tish error: #-2
+embox>
+d�F6 6>embox>
+d�F6 6[K[14Cortembox>
+d�F6 6or[K[16Cxp@�@� =@@�������G@G@@\@@@p@�@@@ =@@
+tish error: #-22
+embox>@[@@@@@\@@@�@�@@@ =@@@[@@@@@G@@\@@@@@@G@@\@@ex
+@[@@@@@\@@@�@�@@@: Command not found
+tish error: #-2
+embox>
+d�6[@@@@@@[@@@@@@@@@@@[@@@@@@@@G@@@@@G@@k@@@p@�@@
+tish error: #-22
+embox>@}x
+@}x: Command not found
+tish error: #-2
+embox>
+D�66`6>_@\@���$@[@@@@@Gvortembox>[K[44C@embox>[K[44CG@@\@@e
+tish error: #-22
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+d�66 6>o66 6>ortxp@x@[@@@@@@@\@@@p@�@@@ =_���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

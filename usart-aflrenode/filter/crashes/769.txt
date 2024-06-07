@@ -1,0 +1,41 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@H@qtembox>�@H@qt[K[6Cembox><�@H@qt[K[7Cembox><@�@H@qt[K[8Cembox><@@�@H@qt[K[9Cembox><@@@�@H@qt[K[10C
+<@@@�@H@qt: Command not found
+tish error: #-2
+embox>
+R���membox>[K[6Cembox>[K[6C�xembox>�x[K[6Cembox>[K[6C�Fyxembox><@@@�@H@qt[K[16Cembox><@@@�@H@qt[K[16Cembox><@@@�@H@q[K[15Cembox><@@@�@H@q6[K[16Cembox><@@@�@H@q6>[K[17Cembox><@@@�@H@q6>6[K[18Cembox><@@@�@H@q6>6T[K[19Cembox><@@@�@H@q6>6T�[K[20Cembox><@@@�@H@q6>6T�6[K[21Cembox><@@@�@H@q6>6T�66[K[22Cembox><@@@�@H@q6>6T�66l[K[23Cembox><@@@�@H@q6>6T�66ls[K[24Cembox><@@@�@H@q6>6T�66lsF[K[25Cembox><@@@�@H@q6>6T�66lsFC[K[26Cembox><@@@�@H@q6>6T�66lsFC>[K[27Cembox><@@@�@H@q6>6T�66lsFC>6[K[28Cembox><@@@�@H@q6>6T�66lsFC>6�[K[29Cembox><@@@�@H@q6>6T�66lsFC>6��[K[30Cembox><@@@�@H@q6>6T�66lsFC>6���[K[31Cembox><@@@�@H@q6>6T�66lsFC>6����[K[32Cembox><@@@�@H@q6>6T�66lsFC>6�����[K[33Cembox><@@@�@H@q6>6T�66lsFC>6������[K[34Cembox><@@@�@H@q6>6T�66lsFC>6������@[K[35Cembox><@@@�@H@q6>6T�66lsFC>6������@@[K[36Cembox><@@@�@H@q6>6T�66lsFC>6������@@@[K[37Cembox><@@@�@H@q6>6T�66lsFC>6������@@@�[K[38Cembox><@@@�@H@q6>6T�66lsFC>6������@@@�@[K[39C
+<@@@�@H@q6>6T�66lsFC>6������@@@�@: Command not found
+tish error: #-2
+embox>Qexpo6T@embox>Qexpo6T@[K[6Cembox>�Qexpo6T@[K[7Cembox>��Qexpo6T@[K[8Cembox>��@Qexpo6T@[K[9Cembox>��@@Qexpo6T@[K[10Cembox>��@@@Qexpo6T@[K[11Cembox>��@@@@Qexpo6T@[K[12Cembox>��@@@@$Qexpo6T@[K[13Cembox>��@@@@$QQexpo6T@[K[14Cembox>��@@@@$QeQexpo6T@[K[15Cembox>��@@@@$QexQexpo6T@[K[16Cembox>��@@@@$QexdQexpo6T@[K[17Cembox>��@@@@$QexdoQexpo6T@[K[18Cembox>��@@@@$QexdorQexpo6T@[K[19Cembox>��@@@@$QexdortQexpo6T@[K[20Cembox>��@@@@$Qexdort@Qexpo6T@[K[21Cembox>��@@@@$Qexdort@<Qexpo6T@[K[22Cembox>��@@@@$Qexdort@<MQexpo6T@[K[23Cembox>��@@@@$Qexdort@<M@Qexpo6T@[K[24Cembox>��@@@@$Qexdort@<M@�Qexpo6T@[K[25Cembox>��@@@@$Qexdort@<M@�@Qexpo6T@[K[26Cembox>��@@@@$Qexdort@<M@�@@Qexpo6T@[K[27Cembox>��@@@@$Qexdort@<M@�@@@Qexpo6T@[K[28Cembox>��@@@@$Qexdort@<M@�@@@qQexpo6T@[K[29Cembox>��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[30Cembox>��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[6Cembox><��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[7Cembox><@��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[8Cembox><@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[9Cembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@[K[10C
+<@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@: Command not found
+tish error: #-2
+embox>
+R@@@@@@@@@@@��embox>
+R@@@@@@@@@@@��[K[6Cembox>
+R@@@@@@@@@@@��[K[7Cembox>m
+R@@@@@@@@@@@��[K[8Cembox>m�
+R@@@@@@@@@@@��[K[9Cembox>m� 
+R@@@@@@@@@@@��[K[10Cembox>m� 
+R@@@@@@@@@@@��[Kembox>m� 
+R@@@@@@@@@@@��[Kembox>m� R@@@@@@@@@@@��[Kembox>m� xR@@@@@@@@@@@��[Kembox>m� xR@@@@@@@@@@@��[K[14Cembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6Tembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@sembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?eembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?exembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?expembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?exp@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?exp@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?exp@embox>[K[53Cembox>[K[54Cembox>[K[55Cembox>[K[56Cembox>[K[57Cembox>[K[58Cembox>[K[59Cembox>[K[60C
+<@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T�@@@s?exp: Command not found
+tish error: #-2
+embox>xembox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@embox><@@@��@@@@$Qexdort@<M@�@@@qtQexpo6T@�embox><@@@�@H@q6>6T�66lsFC>6������@@@�@@@@logout$Qexd�rt@<@����@qtembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

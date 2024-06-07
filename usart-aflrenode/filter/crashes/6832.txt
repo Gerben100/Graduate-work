@@ -1,0 +1,73 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+l�
+l�: Command not found
+tish error: #-2
+embox>
+lqpin(((((((((((((((((((��(=(xee(�((((((
+lqpin(((((((((((((((((((��(=(: Command not found
+tish error: #-2
+embox>lq(((((((((((((((((embox>lq((((((((((((((((([K[6Cembox>lq((((((((((((((((([K[7Cembox>,lq((((((((((((((((([K[8Cembox>,(lq((((((((((((((((([K[9Cembox>,(dlq((((((((((((((((([K[10Cembox>,(lq((((((((((((((((([K[9Cembox>,(plq((((((((((((((((([K[10Cembox>,(plq((((((((((((((((([K[11Cembox>,(pElq((((((((((((((((([K[12Cembox>,(pElq((((((((((((((((([K[11Cembox>,(p�Elq((((((((((((((((([K[12Cembox>,(p�Elq((((((((((((((((([K[13Cembox>,(p��Elq((((((((((((((((([K[14Cembox>,(p��eElq((((((((((((((((([K[15Cembox>,(p��exElq((((((((((((((((([K[16Cembox>,(p��expElq((((((((((((((((([K[17Cembox>,(p��expoElq((((((((((((((((([K[18Cembox>,(p��exporElq((((((((((((((((([K[19Cembox>,(p��exportElq((((((((((((((((([K[20Cembox>,(p��exportlElq((((((((((((((((([K[21Cembox>,(p��exportllElq((((((((((((((((([Kembox>,(p��exportllpElq((((((((((((((((([Kembox>,(p��exportllpiElq((((((((((((((((([Kembox>,(p��exportllpiWElq((((((((((((((((([Kembox>,(p��exportllpiWgElq((((((((((((((((([Kembox>,(p��exportllpiWgdElq((((((((((((((((([Kembox>,(p��exportllpiWgduElq((((((((((((((((([Kembox>,(p��exportllpiWgdutElq((((((((((((((((([K[29C
+embox>�(=(xee(embox>�(=(xee([K[6Cembox>�(=(xee([K[7Cembox>�(=(xee([K[8Cembox>(�(=(xee([K[9Cembox>((�(=(xee([K[10Cembox>((�(=(xee([K[11Cembox>(((�(=(xee([K[12Cembox>((((�(=(xee([K[13Cembox>(((((�(=(xee([K[14Cembox>((((((�(=(xee([K[15Cembox>(((((((�(=(xee([K[16Cembox>((((((((�(=(xee([K[17Cembox>(((((((((�(=(xee([K[18Cembox>((((((((((�(=(xee([K[19Cembox>(((((((((((�(=(xee([K[20Cembox>((((((((((((�(=(xee([K[21Cembox>(((((((((((((�(=(xee([K[22Cembox>((((((((((((((�(=(xee([K[23Cembox>(((((((((((((((�(=(xee([K[24Cembox>((((((((((((((((�(=(xee([K[25Cembox>(((((((((((((((((�(=(xee([K[26Cembox>((((((((((((((((((�(=(xee([K[27Cembox>(((((((((((((((((((�(=(xee([K[28Cembox>((((((((((((((((((((�(=(xee([K[29Cembox>(((((((((((((((((((((�(=(xee([K[30Cembox>((((((((((((((((((((((�(=(xee([K[31Cembox>(((((((((((((((((((((((�(=(xee([K[32Cembox>((((((((((((((((((((((((�(=(xee([K[33Cembox>(((((((((((((((((((((((((�(=(xee([K[34Cembox>((((((((((((((((((((((((((�(=(xee([Kembox>(((((((((((((((((((((((((((�(=(xee([Kembox>((((((((((((((((((((((((((((�(=(xee([Kembox>(((((((((((((((((((((((((((((�(=(xee([Kembox>((((((((((((((((((((((((((((((�(=(xee([Kembox>(((((((((((((((((((((((((((((((�(=(xee([Kembox>((((((((((((((((((((((((((((((((�(=(xee([Kembox>(((((((((((((((((((((((((((((((((�(=(xee([K[42Cembox>((((((((((((((((((((((((((((((((((�(=(xee([K[43C
+embox>((((((((((((
+((((((((((((: Command not found
+tish error: #-2
+embox>
+lq(((((((((((((((((((((,((=(xee(embox>
+lq(((((((((((((((((((((,((=(xee(embox>
+lq(((((((((((((((((((((,((=(xee(embox>
+lq(((((((((((((((((((((,((=(xee(embox>(
+lq(((((((((((((((((((((,((=(xee(embox>((
+lq(((((((((((((((((((((,((=(xee(embox>((
+lq(((((((((((((((((((((,((=(xee(embox>(((
+lq(((((((((((((((((((((,((=(xee(embox>((((
+lq(((((((((((((((((((((,((=(xee(embox>(((((
+lq(((((((((((((((((((((,((=(xee(embox>((((((
+lq(((((((((((((((((((((,((=(xee(embox>(((((((
+lq(((((((((((((((((((((,((=(xee(embox>((((((((
+lq(((((((((((((((((((((,((=(xee(embox>(((((((((
+lq(((((((((((((((((((((,((=(xee(
+embox>(((((((((((((((
+(((((((((((((((: Command not found
+tish error: #-2
+embox>
+lq(((((((((((((((((((((,((=(xlogoutee(
+lq(((((((((((((((((((((,((=(: Command not found
+tish error: #-2
+embox>
+embox>[KqeypgM\embox>[K[36CM5TM
+lq(((((((((((((((((((((,((=(M5TM: Command not found
+tish error: #-2
+embox>
+M
+M: Command not found
+tish error: #-2
+embox>
+\\\embox>
+MM
+MM: Command not found
+tish error: #-2
+embox>
+qyeW
+qyeW: Command not found
+tish error: #-2
+embox>
+ qyxpg5MM\}Lewxpg5M�\}Lexit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

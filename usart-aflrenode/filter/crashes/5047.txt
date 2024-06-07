@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�6666666666666Fdii�
+�6666666666666Fdii�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�6Fd�������ٙ�������ii�
+�6Fd�������ٙ�������ii�: Command not found
+tish error: #-2
+embox>
+�%��������pin����dii�
+�%��������pin����: Command not found
+tish error: #-2
+embox>
+�i�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�@�
+�: Command not found
+tish error: #-2
+embox>
+p]np]nSSa�
+p]np]nSSa�: Command not found
+tish error: #-2
+embox>
+�}
+�}: Command not found
+tish error: #-2
+embox>
+Fdai�
+Fdai�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8Ci�
+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�6F�xxx
+embox>�xxx
+�xxx: Command not found
+tish error: #-2
+embox>
+"68
+x
+x: Command not found
+tish error: #-2
+embox>
+��F
+embox>�x~x�x
+x~x�x: Command not found
+tish error: #-2
+embox>
+l�oWt����xxxxx|xxxx
+l: Command not found
+tish error: #-2
+embox>
+�6F
+embox>�xxxxx|xXxx
+�6F�xxxx|xXxx: Command not found
+tish error: #-2
+embox>
+�6F$xx�xx|xxxx
+�6F�x�xx|xxxx: Command not found
+tish error: #-2
+embox>
+�F|Fpinxls
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

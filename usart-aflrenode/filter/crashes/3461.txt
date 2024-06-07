@@ -1,0 +1,197 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>w[H[H[2Jembox>w[K[7C)�[?5h[?5l
+embox>
+: Command not found
+tish error: #-2
+embox>
+�export��embox>
+�export��[K[17C���������H�����������������
+�export��: Command not found
+tish error: #-2
+embox>
+c�i��embox>
+c�i�[K[12C���
+tish error: #-22
+embox>
+dw)�[?5h[?5l
+embox>embox>
+[K[7C
+tish error: #-22
+embox>
+�embox>
+[K[7C�embox>
+�[K[11Cembox>
+�[K[6Cembox>�
+�[K[7Cembox>�l
+�[K[8Cembox>�lV
+�[K[9Cembox>�lVg
+�[K[10Cembox>�lVgo
+�[K[11Cembox>�lVgo�
+�[K[12Cembox>�lVgo��
+�[K[13Cembox>�lVgo�
+�[K[12Cembox>�lVgo�
+�[K[13Cembox>
+[K[7Cembox>
+adduser.conf[Ke�@@��embox>
+adduser.confe�@@��[K[6Cembox> 
+adduser.confe�@@��[K[7Cembox>[K[6Ce�@8��
+embox>@eembox>@e[K[6Cembox> @e[K[7C
+tish error: #-22
+embox>
+embox>[K[6C�lo�Pu4 embox> [K[7C[?5h[?5l��Pu4 embox>�lVgo�[K[12C[?5h[?5l�embox>�lVgo�[K[13C�embox>�lVgo��[K[16C�lsembox>�lVgo���ls[K[6Cembox>��lVgo���ls[K[7Cembox>�l�lVgo���ls[K[8Cembox>�lo�lVgo���ls[K[9Cembox>�lo��lVgo���ls[K[10Cembox>�lo�o�lVgo���ls[K[11Cembox>�lo�ou�lVgo���ls[K[12Cembox>�lo�out�lVgo���ls[K[13Cembox>�lo�ou�lVgo���ls[K[12Cembox>�lo�oul�lVgo���ls[K[13Cembox>�lo�oulo�lVgo���ls[K[14Cembox>�lo�oulog�lVgo���ls[K[15Cembox>�lo�oulogo�lVgo���ls[K[16C
+�lo�oulogo�lVgo�: Command not found
+tish error: #-2
+embox>utembox>ut[K[6Cembox>�ut[K[7Cembox>�lut[K[8Cembox>�lout[K[9Cembox>�lout[K[10Cembox>�loaut[K[11Cembox>�loa=ut[K[12Cembox>�loa=�ut[K[13Cembox>�loa=ȸut[K[14Cembox>�loa=ȸut[K[6Cembox> �loa=ȸut[K[7Cembox> �loa=ȸut[K[6Cembox>e �loa=ȸut[K[7Cembox>e� �loa=ȸut[K[8Cembox>e� �loa=ȸut[K[9Cembox>e�@ �loa=ȸut[K[10Cembox>e�@@ �loa=ȸut[K[11Cembox>e�@@� �loa=ȸut[K[12Cembox>e�@@�� �loa=ȸut[K[13C
+embox>@eembox>@e[K[6Cembox> @e[K[7C
+tish error: #-22
+embox>
+�embox>
+[K[14C�embox>
+�[K[17Cembox>
+�[K[16Cembox>
+�[K[6Cembox>�
+�[K[7Cembox>�l
+�[K[8Cembox>�lo
+�[K[9Cembox>�log
+�[K[10Cembox>�logo
+�[K[11Cembox>�logou
+�[K[12Cembox>�logout
+�[K[13Cembox>�logou
+�[K[12Cembox>�logou
+�[K[13Cembox> [K[7C[?5h[?5l e�@@��embox>  e�@@��[K[6Cembox>   e�@@��[K[7Cembox>[K[6C
+embox>
+�embox>
+[K[7C�embox>
+�[K[11Cembox>
+�[K[6Cembox>�
+�[K[7Cembox>�l
+�[K[8Cembox>�lo
+�[K[9Cembox>�log
+�[K[10Cembox>�logo
+�[K[11Cembox>�logou
+�[K[12Cembox>�logout
+�[K[13Cembox>�logou
+�[K[12Cembox>�logou
+�[K[13Cembox> [K[7C[?5h[?5le�@@��embox> e�@@��[K[6Cembox>  e�@@��[K[7Cembox>[K[6Ce7@ogoutembox>e7@ogou[K[14Cembox>�lo�oulogo�lVgo�[K[22C[?5h[?5le���@
+�lo�oulogo�lVgo�: Command not found
+tish error: #-2
+embox>��embox>��[K[6Cembox> ��[K[7Cembox>[K[6Ce7@@��
+embox>@e@��
+embox>@eembox>@e[K[6Cembox>�@e[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8Cembox>
+�[K[6Cembox>�
+�[K[7Cembox>��
+�[K[8Cembox>���
+�[K[9Cembox>����
+�[K[10Cembox>����e
+�[K[11Cembox>����e�
+�[K[12Cembox>����e�p
+�[K[13Cembox>����e�po
+�[K[14Cembox>����e�por
+�[K[15Cembox>����e�port
+�[K[16Cembox>����e�port
+�[K[17Cembox>����e�port�
+�[K[18Cembox>����e�port�e
+�[K[19Cembox>����e�port�ex
+�[K[20Cembox>����e�port�exp
+�[K[21Cembox>����e�port�expo
+�embox>����e�port�expor
+�embox>����e�port�export
+�embox>����e�port�expor
+�embox>����e�port�expor
+�embox>����e�port�expor�
+�embox>����e�port�expor�
+�embox>����e�port�expor�
+�embox>����e�port�expor�
+�embox>����e�port�expor�
+�embox>����e�port�expor�
+�embox>�����e�port�expor�
+�embox>�e����e�port�expor�
+�embox>�ex����e�port�expor�
+�embox>�exp����e�port�expor�
+�embox>�expo����e�port�expor�
+�embox>�expor����e�port�expor�
+�embox>�export����e�port�expor�
+�embox>�export����e�port�expor�
+�embox>�export�����e�port�expor�
+�embox>�export�e����e�port�expor�
+�embox>�export�ex����e�port�expor�
+�embox>�export�exp����e�port�expor�
+�embox>�export�expo����e�port�expor�
+�embox>�export�expof����e�port�expor�
+�embox>[K[21Cembox>[K[22Cembox>[K[23C
+�export: Command not found
+tish error: #-2
+embox>@@embox>@[K[8C�@embox>@�[K embox>[K[6C@��
+embox>
+��@eembox>
+��@e[Kembox> 
+��@e[K
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�_embox>
+�_embox>
+�_embox>
+�_embox>�
+�_embox>�l
+�_embox>�lo
+�_embox>�log
+�_embox>�logo
+�_embox>�logo 
+�_embox>[K[6Ce��@@��@e
+embox> qd
+qd: Command not found
+tish error: #-2
+embox>
+�els��@@��
+embox>@e
+tish error: #-22
+embox>
+���og�
+��: Command not found
+tish error: #-2
+embox>
+�ls�out�[?5h[?5le�>@��[?5h[?5l
+����@�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>���e�@@��e�@��
+embox>@e
+tish error: #-22
+embox>
+��
+embox>e���e�
+e�: Command not found
+tish error: #-2
+embox>
+pZ
+pZ: Command not found
+tish error: #-2
+embox>
+�iueeeeeee(xdN�@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

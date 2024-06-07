@@ -1,0 +1,51 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6ClstdttVYtttVYtttttttdcdc
+lstdttVYtttVYt: Command not found
+tish error: #-2
+embox>e�ttt�embox>e�ttt[K[12C���dttttttembox>e�ttt���dttttt[K[21Cttexit�tt�@tgoutd�
+e�ttt���dttttt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7ClstdttVYtttVYtttttttembox>e�ttt���dttttt[K[21Cdcdc
+e�ttt���dtttttdcdc: Command not found
+tish error: #-2
+embox>e�ttt�embox>e�ttt[K[12C���dttVtttembox>e�ttt���dttVtt[K[21Cttexit�tt�@tgoutd�
+e�ttt���dttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7ClstdttVYtttVYtttttttembox>e�ttt���dttVttdcdc
+e�ttt���dttVttdcdc: Command not found
+tish error: #-2
+embox>e�ttt�embox>e�ttt[K[12C���dttVtttttttexit�tt�@tgoutd�
+e�ttt���dttVtttttttexit�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7ClstdttVYtttVYtttttttembox>e�ttt���dttVttdcdcdcdc
+e�ttt���dttVttdcdcdcdc: Command not found
+tish error: #-2
+embox>e�ttt�embox>e�ttt[K[12C���dttVtttttttembox>e�ttt���dttVtttttttt�tt�@tgoutd�
+e�ttt���dttVtttttt: Command not found
+tish error: #-2
+embox>
+lstdttVYtttVYtttttttdcdc
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

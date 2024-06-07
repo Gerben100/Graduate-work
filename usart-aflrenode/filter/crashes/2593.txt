@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C&�q^�i�eYembox>&�q^�i�eY[K[17Cembox>&�q^�i�eY[K[18Cembox>&�q^�i�eY[K[17Cembox>&�q^�i�eY�[K[18Cembox>&�q^�i�eY��[K[19Cembox>&�q^�i�eY��m[K[20Cembox>&�q^�i�eY��m [K[21Cembox>&�q^�i�eY��m �[K[22Cembox>&�q^�i�eY��m ��[K[23Cembox>&�q^�i�eY��m ��l[K[24Cembox>&�q^�i�eY��m ��ll[K[25Cembox>&�q^�i�eY��m ��ll[K[26Cembox>&�q^�i�eY��m ��ll[K[27Cembox>&�q^�i�eY��m ��lll[K[28Cembox>&�q^�i�eY��m ��lll[K[29Cembox>&�q^�i�eY��m ��lll[K[30Cembox>&�q^�i�eY��m ��lll[K[6Cembox>&�q^�i�eY��m ��lll[K[7Cembox>l&�q^�i�eY��m ��lll[K[8Cembox>ll&�q^�i�eY��m ��lll[K[9Cembox>lll&�q^�i�eY��m ��lll[K[10Cembox>llll&�q^�i�eY��m ��lll[K[11Cembox>lllll&�q^�i�eY��m ��lll[K[12C
+embox>
+embox>
+[K[7C
+embox>
+[K[7Cr^�i�eYembox>
+r^�i�eY[K[16Cembox>
+r^�i�eY�[K[17Cembox>
+r^�i�eY��[K[18Cembox>
+r^�i�eY���[K[19Cembox>
+r^�i�eY����[K[20Cembox>
+r^�i�eY����m[K[21Cembox>
+r^�i�eY����m [K[22Cembox>
+r^�i�eY����m l[K[23Cembox>
+r^�i�eY����m l�[K[24Cembox>
+r^�i�eY����m l�l[K[25Cembox>
+r^�i�eY����m l�ll[K[26Cembox>
+r^�i�eY����m l�lll[K[27Cembox>
+r^�i�eY����m l�lllL[K[28Cembox>
+r^�i�eY����m l�lllLl[K[29Cembox>
+r^�i�eY����m l�lllLll[K[30Cembox>
+r^�i�eY����m l�lllLll[K[31Cembox>
+r^�i�eY����m l�lllLll[K[6Cembox>
+r^�i�eY����m l�lllLll[K[7Cembox>
+r^�i�eY����m l�lllLll[K[8Cembox>l
+r^�i�eY����m l�lllLll[K[9C
+embox>lll
+lll: Command not found
+tish error: #-2
+embox>
+^embox>lll[K[9C�d
+lll�d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C^ o
+^: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+embox>
+[K[7C^jjjjjlqjj[?5h[?5l�jjj�jjembox>
+^ o[K[10C1�jjloU@
+^: Command not found
+tish error: #-2
+embox>
+�embox>
+^ o1�jjloU@[K[18CXout pinoo
+^: Command not found
+tish error: #-2
+embox>
+�ks
+�ks: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C^ lo���������_o���
+^: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C^������������pqo
+embox>x%�
+x%�: Command not found
+tish error: #-2
+embox>
+embox>
+[K^ lrXo
+^: Command not found
+tish error: #-2
+embox>
+Jo�o
+Jo�o: Command not found
+tish error: #-2
+embox>
+^ �
+^: Command not found
+tish error: #-2
+embox>
+^"d
+^"d: Command not found
+tish error: #-2
+embox>
+Wo
+Wo: Command not found
+tish error: #-2
+embox>
+ex�ort@
+ex�ort@: Command not found
+tish error: #-2
+embox>
+M�
+M: Command not found
+tish error: #-2
+embox>
+�����n
+�: Command not found
+tish error: #-2
+embox>
+^ lnW 
+^: Command not found
+tish error: #-2
+embox>
+x�
+x�: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+: Command not found
+tish error: #-2
+embox>�t
+�t: Command not found
+tish error: #-2
+embox>
+�
+-�
+embox>
+ep\
+e: Command not found
+tish error: #-2
+embox>
+�
+embox>
+er�
+^: Command not found
+tish error: #-2
+embox>
+O���ls����������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

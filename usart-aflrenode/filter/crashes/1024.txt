@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x�
+embox>
+�gexportx
+�gexportx: Command not found
+tish error: #-2
+embox>
+~�t
+tish error: #-22
+embox>
+cd�@��embox>
+[K[7C����Ҽ�����������������d
+����Ҽ�����������������d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>gZ�
+gZ�: Command not found
+tish error: #-2
+embox>
+��J�{�
+��J�{�: Command not found
+tish error: #-2
+embox>
+%
+%: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+y�Q
+y�Q: Command not found
+tish error: #-2
+embox>
+logoutpin�
+logoutpin�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�;
+�;: Command not found
+tish error: #-2
+embox>
+�8��
+�8��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+��: Command not found
+tish error: #-2
+embox>
+�1��[?5h[?5l�
+�1��[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�vv�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��4
+��4: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+cdUTpU
+cdUTpU: Command not found
+tish error: #-2
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+�cx�66F66@@@@@@@@@@@@@@@@@@@T@���@@@@@Qexport@<
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

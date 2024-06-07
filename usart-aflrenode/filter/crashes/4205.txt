@@ -1,0 +1,138 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>A��h��2i�dd}pdlr}
+A��h��2i�dd}pdlr}: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+A=�@�d@�r}embox>
+A=�@�d@�r}[K[6Cembox>
+A=�@�d@�r}[K[7Cembox>e
+A=�@�d@�r}[K[8Cembox>ex
+A=�@�d@�r}[K[9Cembox>exi
+A=�@�d@�r}[K[10Cembox>exit
+A=�@�d@�r}[K[11Cembox>exitu
+A=�@�d@�r}[K[12Cembox>exitut
+A=�@�d@�r}[K[13C
+embox>
+A�r�
+A�r�: Command not found
+tish error: #-2
+embox>
+A[1@�bexnperogout�embox>
+A[1@�bexnperogout[K[24C=���X}Vdlr}
+A[1@�bexnperogout=���X}Vdlr}: Command not found
+tish error: #-2
+embox>
+A[1@p������indlr�
+A[1@p������indlr�: Command not found
+tish error: #-2
+embox>
+A/
+A/: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+A[1@�d}rdembox>
+A[1@�d}rd[Kembox>d
+A[1@�d}rd[Kembox>d}
+A[1@�d}rd[K
+d}: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Aout�{l\@�d}9}@��}9!
+A/@�d}9}@��}9!: Command not found
+tish error: #-2
+embox>
+�A�d}@dlr�
+�A�d}@dlr�: Command not found
+tish error: #-2
+embox>
+cdcd�^ei�,
+cdcd�^ei�,: Command not found
+tish error: #-2
+embox>
+e�,
+e: Command not found
+tish error: #-2
+embox>
+�,
+�,: Command not found
+tish error: #-2
+embox>
+logout@
+M: Command not found
+tish error: #-2
+embox>
+d^�i�,ei�,,
+ed^�i: Command not found
+tish error: #-2
+embox>
+u�4
+u�4: Command not found
+tish error: #-2
+embox>
+��x�
+embox>���x�
+embox>�eu�
+eeu: Command not found
+tish error: #-2
+embox>
+N dÀ,
+edÀ,: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+,e�ed^
+�ed^: Command not found
+tish error: #-2
+embox>
+�[eils@
+e�[eils: Command not found
+tish error: #-2
+embox>
+d��,
+ed��,: Command not found
+tish error: #-2
+embox>
+de�,
+ede�,: Command not found
+tish error: #-2
+embox>
+
+embox>
+�����x
+�����x: Command not found
+tish error: #-2
+embox>
+,,xCs,,,J,xexi\7�cp�r,
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d6T@embox>d6T@[K[6Cembox>�d6T@[K[7Cembox>�d6T@[K[8Cembox>�d6T@[K[9Cembox>�@d6T@[K[10Cembox>�@@d6T@[K[11Cembox>�@@@d6T@[K[12Cembox>�@@@@d6T@[K[13Cembox>�@@@@@d6T@[K[14Cembox>�@@@@@@d6T@[K[15Cembox>�@@@@@@@d6T@[K[16Cembox>�@@@@@@@@d6T@[K[17Cembox>�@@@@@@@@@d6T@[K[18Cembox>�@@@@@@@@@@d6T@[K[19Cembox>�@@@@@@@@@@@d6T@[K[20Cembox>�@@@@@@@@@@@@d6T@[K[21Cembox>�@@@@@@@@@@@@@d6T@[K[22Cembox>�@@@@@@@@@@@@@@d6T@[K[23Cembox>�@@@@@@@@@@@@@@@d6T@[K[24Cembox>�@@@@@@@@@@@@@@@@d6T@[K[25Cembox>�@@@@@@@@@@@@@@@@@d6T@[K[26Cembox>�@@@@@@@@@@@@@@@@@@d6T@[K[27Cembox>�@@@@@@@@@@@@@@@@@@@d6T@[K[28Cembox>�@@@@@@@@@@@@@@@@@@@@d6T@[K[29Cembox>�@@@@@@@@@@@@@@@@@@@@@d6T@[K[30Cembox>�@@@@@@@@@@@@@@@@@@@@@@d6T@[K[31Cembox>�@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[32Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[33Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[34Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[35Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[36Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[37Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[38Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[39Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[40Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[41Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[42Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@d6T@[K[43Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?d6T@[K[44Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?ld6T@[K[45Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?lsd6T@[Kembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?lsed6T@[K[47Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?lsexd6T@[K[48Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?lsexpd6T@[K[49Cembox>�@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@?lsexp@d6T@[K[50C
+�: Command not found
+tish error: #-2
+embox>��
+embox>
+embox>
+�2�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�j �
+�j: Command not found
+tish error: #-2
+embox>
+e�
+e�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+cdembox>
+cd[K[8Cembox>
+ccd[K[9Cembox>
+ccdd[K[10Cembox>
+ccdcd[K[11Cembox>
+ccdcdd[K[12Cembox>
+ccdcdd[K[11Cembox>
+ccdccdd[K[12Cembox>
+ccdccddd[K[13Cembox>
+ccdccddd[K[12Cembox>
+ccdcc*ddd[K[13Cembox>
+ccdcc*ddd[K[12Cembox>
+ccdcc**ddd[K[13Cembox>
+ccdcc*t*ddd[K[14Cembox>
+ccdcc*t^*ddd[K[15C
+ccdcc*t^*ddd: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[11C�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ֈ�*�i
+ֈ�*�: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+tish error: #-22
+embox>
+embox>
+
+tish error: #-22
+embox>
+�embox>
+[K[7C�i�
+tish error: #-22
+embox>
+�i���du���export����embox>[K
+�: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�*�}V
+: Command not found
+tish error: #-2
+embox>
+
+@{: Command not found
+tish error: #-2
+embox>
+d*
+embox>
+**.#*-*|*||
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

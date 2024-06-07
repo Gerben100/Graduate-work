@@ -1,0 +1,119 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p[?5h[?5l7$logoutTembox>[K[6Cljmsembox>[K[6Ctttttembox>ttttt[K[6Cembox>ttttt[K[7Cembox> ttttt[K[8Cembox> ttttt[K[9Cembox> ttttt[K[10Cembox> tttttt[K[11Cembox> t�ttttt[K[12Cembox> t�tttttt[K[13Cembox> t�ttttttt[K[14Cembox> t�tttttttt[K[15Cembox> t�ttttttttt[K[16Cembox> t�tttttttttt[K[17Cembox> t�ttttttttttt[K[18Cembox> t�tttttttttttt[K[19Cembox> t�ttttttttttttt[K[20Cembox> t�tttttttttttttt[K[21Cembox> t�ttttttttttttttt[K[22Cembox> t�tttttttttttttttt[K[23Cembox> t�ttttttttttttttttt[K[24Cembox> t�tttttttttttttttttt[K[25Cembox> t�ttttttttttttttttttt[K[26Cembox> t�tttttttttttttttttttt[K[27Cembox> t�ttttttttttttttt�ttttt[K[28Cembox> t�ttttttttttttttt�ttttt[K[29Cembox> t�ttttttttttttttt�@ttttt[K[30Cembox> t�ttttttttttttttt�@tttttt[K[31Cembox> t�ttttttttttttttt�@tgttttt[K[32Cembox> t�ttttttttttttttt�@tgottttt[K[33Cembox> t�ttttttttttttttt�@tgouttttt[K[34Cembox> t�ttttttttttttttt�@tgoutttttt[K[35Cembox> t�ttttttttttttttt�@tgoutdttttt[K[36Cembox> t�ttttttttttttttt�@tgoutd�ttttt[K[37Cembox> t�ttttttttttttttt�@tgoutd��ttttt[K[38C
+embox>
+p[?5h[?5l7'logoupin#$embox>[K[6Clj�lsembox>[K[6Ctttttembox>ttttt[K[6Cembox>ttttt[K[7Cembox>�ttttt[K[8Cembox>�ttttt[K[9Cembox>�ttttt[K[10Cembox>�tttttt[K[11Cembox>�t�ttttt[K[12Cembox>�t�tttttt[K[13Cembox>�t�ttttttt[K[14Cembox>�t�tttttttt[K[15Cembox>�t�ttttttttt[K[16Cembox>�t�tttttttttt[K[17Cembox>�t�ttttttttttt[K[18Cembox>�t�tttttttttttt[K[19Cembox>�t�ttttttttttttt[K[20Cembox>�t�tttttttttttttt[K[21Cembox>�t�ttttttttttttttt[K[22Cembox>�t�tttttttttttttttt[K[23Cembox>�t�ttttttttttttttttt[K[24Cembox>�t�tttttttttttttttttt[K[25Cembox>�t�ttttttttttttttttttt[K[26Cembox>�t�tttttttttttttttttttt[K[27Cembox>�t�ttttttttttttttt�ttttt[K[28Cembox>�t�ttttttttttttttt�ttttt[K[29Cembox>�t�ttttttttttttttt�@ttttt[K[30Cembox>�t�ttttttttttttttt�@tttttt[K[31Cembox>�t�ttttttttttttttt�@tgttttt[K[32Cembox>�t�ttttttttttttttt�@tgottttt[K[33Cembox>�t�ttttttttttttttt�@tgouttttt[K[34Cembox>�t�ttttttttttttttt�@tgoutttttt[K[35Cembox>�t�ttttttttttttttt�@tgoutdttttt[K[36Cembox>�t�ttttttttttttttt�@tgoutd�ttttt[K[37Cembox>�t�ttttttttttttttt�@tgoutd��ttttt[K[38C
+embox>
+����
+tish error: #-22
+embox>
+�embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[9Cembox>
+�[K[10Cembox>
+�[K[11Cembox>
+�@[K[12C
+�: Command not found
+tish error: #-2
+embox>
+f@�,f��
+f@�,f��: Command not found
+tish error: #-2
+embox>
+��embox>
+f@�,f��[K[14C��
+f@�,f����: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+"���
+(null): Command not found
+tish error: #-2
+embox>
+exit��
+exit��: Command not found
+tish error: #-2
+embox>
+����
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+%��embox>
+[K[7Cembox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�w��
+���: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+�؇~s
+�؇~s: Command not found
+tish error: #-2
+embox>
+^l�
+^l�: Command not found
+tish error: #-2
+embox>
+[23;80H ޫ
+
+[23;80H ޫ
+: Command not found
+tish error: #-2
+embox>
+�w
+�w: Command not found
+tish error: #-2
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+��s
+��: Command not found
+tish error: #-2
+embox>
+��nus
+��nus: Command not found
+tish error: #-2
+embox>
+ʇ}�s
+ʇ}�s: Command not found
+tish error: #-2
+embox>
+ޏߏgxit~ss
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

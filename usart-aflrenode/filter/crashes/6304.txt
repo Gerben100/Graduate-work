@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+��� 
+���: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+kiembox>
+k[K[8Cembox>[K[6Caa
+aa: Command not found
+tish error: #-2
+embox>
+�@embox>
+�@[K[6Cembox>x
+�@[K[7Cembox>xx
+�@[K[8Cembox>xxx
+�@[K[9Cembox>xxxx
+�@[K[10Cembox>xxxxx
+�@[K[11Cembox>xxxxxx
+�@[K[12Cembox>xxxxxxx
+�@[K[13Cembox>xxxxxxxx
+�@[K[14Cembox>xxxxxxxxx
+�@[K[15Cembox>xxxxxxxxxx
+�@[K[16Cembox>xxxxxxxxxxx
+�@[K[17Cembox>xxxxxxxxxxxx
+�@[K[18Cembox>xxxxxxxxxxxxx
+�@[K[19Cembox>xxxxxxxxxxxxxx
+�@[K[20Cembox>xxxxxxxxxxxxxxx
+�@[K[21Cembox>xxxxxxxxxxxxxxx@
+�@[K[22Cembox>xxxxxxxxxxxxxxx@|
+�@[K[23Cembox>xxxxxxxxxxxxxxx@|x
+�@[K[24Cembox>xxxxxxxxxxxxxxx@|x�
+�@[K[25Cembox>xxxxxxxxxxxxxxx@|x��
+�@[K[26Cembox>xxxxxxxxxxxxxxx@|x��
+�@[K[6Cembox>xxxxxxxxxxxxxxxx@|x��
+�@[K[7Cembox>xxxxxxxxxxxxxxxxx@|x��
+�@[K[8Cembox>xxxxxxxxxxxxxxxxxx@|x��
+�@[K[9Cembox>xxxxxxxxxxxxxxxxxxx@|x��
+�@[K[10Cembox>xxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[11Cembox>xxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[12Cembox>xxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[13Cembox>xxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[14Cembox>xxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[15Cembox>xxxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[16Cembox>xxxxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[17Cembox>xxxxxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[18Cembox>xxxxxxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[19Cembox>xxxxxxxxxxxxxxxxxxxxxxxxxxxxx@|x��
+�@[K[20Cembox>xxxxxxxxxxxxxx xxxxxxxxxxxxxxx@|x��
+�@[K[21C
+xxxxxxxxxxxxxx: Command not found
+tish error: #-2
+embox>
+g
+g: Command not found
+tish error: #-2
+embox>
+cembox>
+c[K[6Cembox>c[K[6Cembox>Vc[K[7Cembox>V�c[K[8Cembox>V��c[K[9Cembox>V���c[K[10Cembox>V����c[K[11Cembox>V���c[K[10C[?5h[?5lembox>V���gc[K[11C
+V���gc: Command not found
+tish error: #-2
+embox>
+�c�]l�����������embox>V���gc[K����@����������������[?5h[?5l^l����
+V���gc����@: Command not found
+tish error: #-2
+embox>������������@����������[?5h[?5l^l����������������@����
+������������@: Command not found
+tish error: #-2
+embox>������������������������������������������c
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

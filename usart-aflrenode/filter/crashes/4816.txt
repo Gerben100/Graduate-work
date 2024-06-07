@@ -1,0 +1,59 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>g�66F6665R>6T@embox>g�66F6665R>6T@[K[21C�dB@embox>g�66F6665R>6T@�dB@[K[6Cembox>�g�66F6665R>6T@�dB@[K[7Cembox>�g�66F6665R>6T@�dB@[K[8Cembox>�@g�66F6665R>6T@�dB@[K[9Cembox>�@Rg�66F6665R>6T@�dB@[K[10Cembox>�@R@g�66F6665R>6T@�dB@[K[11Cembox>�@R@?g�66F6665R>6T@�dB@[K[12Cembox>�@R@?lg�66F6665R>6T@�dB@[K[13Cembox>�@R@?lsg�66F6665R>6T@�dB@[K[14Cembox>�@R@?lseg�66F6665R>6T@�dB@[K[15Cembox>�@R@?lsexg�66F6665R>6T@�dB@[K[16Cembox>�@R@?lsexpg�66F6665R>6T@�dB@[K[17Cembox>�@R@?lsexp@g�66F6665R>6T@�dB@[K[18Cembox>�@R@?lsexp@�g�66F6665R>6T@�dB@[K[19Cembox>�@R@?lsexp@��g�66F6665R>6T@�dB@[K[20Cembox>�@R@?lsexp@��g�66F6665R>6T@�dB@[K[21Cembox>�@R@?lsexp@��g�66F6665R>6T@�dB@[K[22Cembox>�@R@?lsexp@��g�66F6665R>6T@�dB@[K[21Cembox>�@R@?lsexp@��lg�66F6665R>6T@�dB@[K[22Cembox>�@R@?lsexp@��log�66F6665R>6T@�dB@[K[23Cembox>�@R@?lsexp@��logg�66F6665R>6T@�dB@[K[24Cembox>�@R@?lsexp@��logog�66F6665R>6T@�dB@[K[25C
+�: Command not found
+tish error: #-2
+embox>Ut,6T@embox>Ut,6T@[K[12C�pin�@R@?lsdxp@�@c665R>6T@embox>Ut,6T@�pin�@R@?lsdxp@�@c665R>6T@[K[38C�dB/>@@@@@@/@@
+Ut,6T@�pin�@R@?lsdxp@�@c665R>6T@�dB/>@@@@@@/@@: Command not found
+tish error: #-2
+embox>@\cd/@@@\cde[?5h[?5l
+@\cd/@@@\cde[?5h[?5l: Command not found
+tish error: #-2
+embox>
+g�66F6>@@@@@@/P@@\cd[[[[[[[[[[[[[[[[[[[[[[[[[
+tish error: #-22
+embox>[[[[[embox>[[[[[[K[6Cembox>�[[[[[[K[7Cembox>�[[[[[[K[8Cembox>�@[[[[[[K[9Cembox>�@R[[[[[[K[10Cembox>�@R@[[[[[[K[11Cembox>�@R@?[[[[[[K[12Cembox>�@R@?l[[[[[[K[13Cembox>�@R@?ls[[[[[[K[14Cembox>�@R@?lse[[[[[embox>�@R@?lsex[[[[[embox>�@R@?lsexp[[[[[embox>�@R@?lsexp@[[[[[embox>�@R@?lsexp@�[[[[[embox>�@R@?lsexp@��[[[[[embox>�@R@?lsexp@��[[[[[embox>�@R@?lsexp@��[[[[[embox>�@R@?lsexp@��[[[[[embox>�@R@?lsexp@��6[[[[[embox>�@R@?lsexp@��66[[[[[embox>�@R@?lsexp@��665[[[[[embox>�@R@?lsexp@��665R[[[[[embox>�@R@?lsexp@��665R>[[[[[embox>�@R@?lsexp@��665R>6[[[[[embox>�@R@?lsexp@��665R>6T[[[[[embox>�@R@?lsexp@��665R>6T@[[[[[embox>�@R@?lsexp@��665R>6T@[[[[[embox>�@R@?lsexp@��665R>6T@[[[[[embox>�@R@?lsexp@��665R>6T@�[[[[[embox>�@R@?lsexp@��665R>6T@�d[[[[[embox>�@R@?lsexp@��665R>6T@�dB[[[[[embox>�@R@?lsexp@��665R>6T@�dB/[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@@@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@@@/[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@@@/@[[[[[embox>�@R@?lsexp@��665R>6T@�dB/>@@@@@@/@@[[[[[
+�: Command not found
+tish error: #-2
+embox>j\cd/@@@\cde 
+j\cd/@@@\cde: Command not found
+tish error: #-2
+embox>
+g�66F6>@@@@@@/@@@\cd6T@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>>6T�@@@\cde 
+�@@@\cde: Command not found
+tish error: #-2
+embox>
+g�66F6>@@@@@�/@@@\��665R>6T@�dcd6T@
+�: Command not found
+tish error: #-2
+embox>@?lsexp@��665R>6T@�dB/>@@@@@@/@@@\cd/@@@\c
+@?lsexp@��: Command not found
+tish error: #-2
+embox>de 
+de: Command not found
+tish error: #-2
+embox>
+g�66F6>@@@@@@/@@@\cd6T@
+�: Command not found
+tish error: #-2
+embox>@@T@�fB/>@@@@@@/@@@\cd/@@@\cde 
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>^e""""c��UUU�AUUembox>^e""""c��UUU�AUU[K[6Cembox>U^e""""c��UUU�AUU[K[7Cembox>Ur^e""""c��UUU�AUU[K[8Cembox>UrU^e""""c��UUU�AUU[K[9Cembox>UrUU^e""""c��UUU�AUU[K[10Cembox>UrUUU^e""""c��UUU�AUU[K[11C
+UrUUU^e"""": Command not found
+tish error: #-2
+embox>
+^�e;"�������rtpinc�UUUUU
+^�e;"�������rtpinc�UUUUU: Command not found
+tish error: #-2
+embox>
+^UUs?UUlsUUUUU
+^UUs?UUlsUUUUU: Command not found
+tish error: #-2
+embox>
+^e;""""c��cdembox>
+^e;""""c��cd[K[22Cembox>
+^e;""""c��cdU[Kembox>
+^e;""""c��cdUU[Kembox>
+^e;""""c��cdUUU[Kembox>
+^e;""""c��cdUUUU[Kembox>
+^e;""""c��cdUUUUUembox>
+^e;""""c��cdUUUUUUembox>
+^e;""""c��cdUUUUUUUembox>
+^e;""""c��cdUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUUUUUembox>
+^e;""""c��cdUUUUUUUUUUUUUUUUUU
+^e;"""": Command not found
+tish error: #-2
+embox>
+^e"embox>
+^e;""""[K[14C<embox>[K[6CcU
+embox>
+eexporembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6CtB�X
+tB�X: Command not found
+tish error: #-2
+embox>
+^e"""/"���embox>
+^e"""/"���embox>
+^e"""/"���eembox>
+^e"""/"���e"embox>
+^e"""/"���e""embox>
+^e"""/"���e"""embox>
+^e"""/"���e""""embox>
+^e"""/"���e"""""embox>
+^e"""/"���e"""""embox>
+^e"""/"���e"""""embox>
+^e"""/"���e"""""�embox>
+^e"""/"���e"""""��embox>
+^e"""/"���e"""""��embox>
+^e"""/"���e"""""��embox>
+^e"""/"���e"""""��embox>
+^e"""/"���e"""""��Uembox>
+^e"""/"���e"""""��UUembox>
+^e"""/"���e"""""��UUUembox>
+^e"""/"���e"""""��UUUUembox>
+^e"""/"���e"""""��UUUUUembox>
+^e"""/"���e"""""��UUUUUUembox>
+^e"""/"���e"""""��UUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUUUUUembox>
+^e"""/"���e"""""��UUUUUUUUUUUUembox>U
+^e"""/"���e"""""��UUUUUUUUUUUUembox>UU
+^e"""/"���e"""""��UUUUUUUUUUUUembox>UUU
+^e"""/"���e"""""��UUUUUUUUUUUUembox>UUUU
+^e"""/"���e"""""��UUUUUUUUUUUUembox>UUUUU
+^e"""/"���e"""""��UUUUUUUUUUUUembox>UUUUUU
+^e"""/"���e"""""��UUUUUUUUUUUU
+UUUUUU: Command not found
+tish error: #-2
+embox>
+^e"""""�������������������
+^e""""": Command not found
+tish error: #-2
+embox>
+�r
+�r: Command not found
+tish error: #-2
+embox>
+^""�p}pppp}pppppexpr
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

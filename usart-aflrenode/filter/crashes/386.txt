@@ -1,0 +1,133 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x�embox>x�[K[10Cembox>x�[K[11Cembox>x��[K[12Cembox>x��y[K[13Cembox>x��y�[K[14Cembox>x��y�6[K[15Cembox>x��y�66[K[16Cembox>x��y�66r[K[17Cembox>x��y�66rt[K[18Cembox>x��y�66rt@[K[19Cembox>x��y�66rt@<[K[20Cembox>x��y�66rt@<@[K[21Cembox>x��y�66rt@<@@[K[22Cembox>x��y�66rt@<@@@[K[23Cembox>x��y�66rt@<@@@@[K[24Cembox>x��y�66rt@<@@@@@[K[25Cembox>x��y�66rt@<@@@@@@[K[26Cembox>x��y�66rt@<@@@@@@@[K[27Cembox>x��y�66rt@<@@@@@@@@[K[28Cembox>x��y�66rt@<@@@@@@@@\[K[29Cembox>x��y�66rt@<@@@@@@@@\ [K[30Cembox>x��y�66rt@<@@@@@@@@\ @[K[31Cembox>x��y�66rt@<@@@@@@@@\ @@[K[32Cembox>x��y�66rt@<@@@@@@@@\ @[K[31Cembox>x��y�66rt@<@@@@@@@@\ @@[K[32Cembox>x��y�66rt@<@@@@@@@@\ @@@[K[33Cembox>x��y�66rt@<@@@@@@@@\ @@@?[K[34Cembox>x��y�66rt@<@@@@@@@@\ @@@?e[K[35Cembox>x��y�66rt@<@@@@@@@@\ @@@?ex[K[36Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp[K[37Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@[K[38Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@�[K[39Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@��[K[40Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@��[K[41Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@��[K[42Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@��[K[41Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���[K[42Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@[K[43Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c[K[44Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c6[K[45Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c66[K[46Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c665[K[47Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c6656[K[48Cembox>x��y�66rt@<@@@@@@@@\ @@@?exp@���@c6656�[K[49C
+embox>��/
+��/: Command not found
+tish error: #-2
+embox>
+x�embox>
+x�[K[6Cembox>
+x�[K[7Cembox>�
+x�[K[8Cembox>�y
+x�[K[9Cembox>�y�
+x�[K[10Cembox>�y�6
+x�[K[11Cembox>�y�66
+x�[K[12Cembox>�y�66F
+x�[K[13Cembox>�y�66F6
+x�[K[14Cembox>�y�66F6>
+x�[K[15Cembox>�y�66F6>6
+x�[K[16Cembox>�y�66F6>6T
+x�[K[17Cembox>�y�66F6>6T2
+x�[K[18Cembox>�y�66F6>6T2
+x�[K[19Cembox>�y�66F6>6T2
+x�[K[6Cembox>@�y�66F6>6T2
+x�[K[7Cembox>@@�y�66F6>6T2
+x�[K[8Cembox>@@@�y�66F6>6T2
+x�[K[9Cembox>@@@@�y�66F6>6T2
+x�[K[10Cembox>@@@@@�y�66F6>6T2
+x�[K[11Cembox>@@@@@?�y�66F6>6T2
+x�[K[12Cembox>@@@@@?|�y�66F6>6T2
+x�[K[13Cembox>@@@@@?|x�y�66F6>6T2
+x�[K[14Cembox>@@@@@?|xp�y�66F6>6T2
+x�[K[15Cembox>@@@@@?|xp@�y�66F6>6T2
+x�[K[16Cembox>@@@@@?|xp@��y�66F6>6T2
+x�[K[17Cembox>@@@@@?|xp@���y�66F6>6T2
+x�[K[18Cembox>@@@@@?|xp@����y�66F6>6T2
+x�[K[19Cembox>@@@@@?|xp@����y�66F6>6T2
+x�[K[20Cembox>@@@@@?|xp@����y�66F6>6T2
+x�[K[19Cembox>@@@@@?|xp@���6�y�66F6>6T2
+x�[K[20Cembox>@@@@@?|xp@���6>�y�66F6>6T2
+x�[K[21Cembox>@@@@@?|xp@���6>6�y�66F6>6T2
+x�[K[22Cembox>@@@@@?|xp@���6>6@�y�66F6>6T2
+x�[K[23Cembox>@@@@@?|xp@���6>6@@�y�66F6>6T2
+x�[K[24Cembox>@@@@@?|xp@���6>6@@@�y�66F6>6T2
+x�[K[25Cembox>@@@@@?|xp@���6>6@@@@�y�66F6>6T2
+x�[K[26Cembox>@@@@@?|xp@���6>6@@@@@�y�66F6>6T2
+x�[K[27Cembox>@@@@@?|xp@���6>6@@@@@P�y�66F6>6T2
+x�[K[28Cembox>@@@@@?|xp@���6>6@@@@@P\�y�66F6>6T2
+x�[K[29Cembox>@@@@@?|xp@���6>6@@@@@P\@�y�66F6>6T2
+x�[K[30Cembox>@@@@@?|xp@���6>6@@@@@P\@@�y�66F6>6T2
+x�[K[31Cembox>@@@@@?|xp@���6>6@@@@@P\@@@�y�66F6>6T2
+x�[K[32Cembox>@@@@@?|xp@���6>6@@@@@P\@@@@�y�66F6>6T2
+x�[K[33C
+@@@@@?|xp@���6>6@@@@@P\@@@@: Command not found
+tish error: #-2
+embox>@@?|xp@���embox>@@?|xp@���[K[16Cembox>@@?|xp@��[K[15CCembox>@@?|xp@��C[K[16C�@@`@@@@@(?@@@embox>@@?|xp@��C�@@`@@@@@(?@@[K[30C@@/
+@@?|xp@��C�@@`@@@@@(?@@@@/: Command not found
+tish error: #-2
+embox>
+x�embox>
+x�[K[11Cembox>
+x�[K[12Cembox>
+x��[K[13Cembox>
+x��y[K[14Cembox>
+x��y�[K[15Cembox>
+x��y�6[K[16Cembox>
+x��y�66[K[17Cembox>
+x��y�66F[K[18Cembox>
+x��y�66F6[K[19Cembox>
+x��y�66F6>[K[20Cembox>
+x��y�66F6>6[K[21Cembox>
+x��y�66F6>6T[K[22Cembox>
+x��y�66F6>6T@[Kembox>
+x��y�66F6>6T@[Kembox>
+x��y�66F6>6T@[Kembox>�
+x��y�66F6>6T@[Kembox>��
+x��y�66F6>6T@[Kembox>��@
+x��y�66F6>6T@embox>��@@
+x��y�66F6>6T@embox>��@@@
+x��y�66F6>6T@embox>��@@@@
+x��y�66F6>6T@embox>��@@@@@
+x��y�66F6>6T@embox>��@@@@@Q
+x��y�66F6>6T@embox>��@@@@@Q@
+x��y�66F6>6T@embox>��@@@@@Q@@
+x��y�66F6>6T@embox>��@@@@@Q@@@
+x��y�66F6>6T@embox>��@@@@@Q@@@o
+x��y�66F6>6T@embox>��@@@@@Q@@@or
+x��y�66F6>6T@embox>��@@@@@Q@@@ort
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<e
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<ex
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@\
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@\@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@\@@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@\@@@
+x��y�66F6>6T@embox>��@@@@@Q@@@ort@<exp@�@@@\@@@!
+x��y�66F6>6T@
+��@@@@@Q@@@ort@<exp@�@@@\@@@!: Command not found
+tish error: #-2
+embox>@@?exp@��56>6T@embox>@@?exp@��56>6T@[K�@@@@@@@@@?@@@@@@/
+@@?exp@��: Command not found
+tish error: #-2
+embox>
+x����66@@@@?@@Z@Qexpoexititlogout\@@@@ @?Exp
+tish error: #-22
+embox>@��embox>@���@c6656>6T@@\A@@@ @?Exp@embox>[K�@@@@@@@@@?@@@/
+@��: Command not found
+tish error: #-2
+embox>
+x�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

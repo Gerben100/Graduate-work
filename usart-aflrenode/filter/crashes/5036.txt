@@ -1,0 +1,147 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ecddx�d�xi
+ecddx�d�xi: Command not found
+tish error: #-2
+embox>
+ecdxembox>
+ecd[K[10C���i;
+ecd���i;: Command not found
+tish error: #-2
+embox>
+Nec�wi���;
+Nec�wi���;: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+embox>
+e[K[8Cs�����
+embox>���������ܿ�xi;
+���������ܿ�xi;: Command not found
+tish error: #-2
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�;�xid�
+��;�xid�: Command not found
+tish error: #-2
+embox>
+e�������������lcembox>[K[6C�embox>�[K[6Cembox>d�[K[7Cembox>[K[6C�/d
+�/d: Command not found
+tish error: #-2
+embox>
+���embox>[K��J�logou/d
+�: Command not found
+tish error: #-2
+embox>
+ec
+embox>�i�ec
+embox>�i� embox>�i� embox>[�i� embox>[K[6C�/dcembox>[K[6Cvembox>v[K[6Cembox>dvembox>[K[6C�/b embox>�/b embox>d�/b embox>[K[6C�/dcembox>[K[6Cvembox>v[K[6Cembox>�vembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>/b
+Unreconized command: /b
+embox>
+ecdxdd�embox>
+ecdxdd�embox>$
+ecdxdd�embox>[K[6Cb/�
+b/�: Command not found
+tish error: #-2
+embox>
+8cdl
+8cdl: Command not found
+tish error: #-2
+embox>
+���@@@@@@@H?
+��@@@@@@@: Command not found
+tish error: #-2
+embox>
+ek����/dc�cdcdl
+d�/d���: Command not found
+tish error: #-2
+embox>c�
+Unreconized command: /Fd
+embox>
+eexiXbj@
+embox>�A
+�A: Command not found
+tish error: #-2
+embox>
+�O�c!�k�c�
+�: Command not found
+tish error: #-2
+embox>
+ecd�x�ldi#����pin
+pin: Command not found
+tish error: #-2
+embox>
+ecdxi���5dc��/d
+�/d: Command not found
+tish error: #-2
+embox>
+�cdxi�d
+�cdxi�d: Command not found
+tish error: #-2
+embox>
+�cdxi��x&
+�: Command not found
+tish error: #-2
+embox>
+ecdxi�߃
+ecdxi�߃: Command not found
+tish error: #-2
+embox>
+ecdxi��x
+dcd@: Command not found
+tish error: #-2
+embox>
+ecd�L��x�d@d@
+�i��x: Command not found
+tish error: #-2
+embox>
+Pcdji��x
+N: Command not found
+tish error: #-2
+embox>
+ecd2;�2i�2x
+d3: Command not found
+tish error: #-2
+embox>
+ecdxi��x
+d@: Command not found
+tish error: #-2
+embox>
+ecdx��x
+d@: Command not found
+tish error: #-2
+embox>
+ecdxi�ls
+d@: Command not found
+tish error: #-2
+embox>
+e
+embox>
+ecp]nd�i��xJ)
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

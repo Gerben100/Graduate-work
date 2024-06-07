@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>hhhhhhhhhhhhhhhhhhhxseikeihhhh�(�%@hhhhhhhhhh
+hhhhhhhhhhhhhhhhhhhx: Command not found
+tish error: #-2
+embox>hhh
+hhh: Command not found
+tish error: #-2
+embox>
+�xxeikeiembox>hhh[K[9Chhhhhh�hcdhhhhPhhhhhhh
+hhhhhhhhh�: Command not found
+tish error: #-2
+embox>
+�xCxeikEiembox>hhhhhhhhh�[K[16Chhhhhhhhhhhhhhhhhhhhh
+hhhhhhhhh�hhhhhhhhhhhhhhhhhhhhh: Command not found
+tish error: #-2
+embox>
+�x�xeikhembox>
+�x�xeikh[K[6Cembox>
+�x�xeikh[K[7Cembox>
+�x�xeikh[K[8Cembox>l
+�x�xeikh[K[9Cembox>ls
+�x�xeikh[K[10Cembox>l
+s�x�xeikh[K[11Cembox>l
+sp�x�xeikh[K[12Cembox>l
+spx�xeikh[K[12Cembox>l
+spx�xeikh[K[13Cembox>l
+spix�xeikh[K[14Cembox>l
+spiKx�xeikh[K[15Cembox>l
+spiKx�xeikhembox>l
+spiKxx�xeikhembox>l
+spiKxex�xeikhembox>l
+spiKxehx�xeikhembox>l
+spiKxehhx�xeikhembox>l
+spiKxehh{x�xeikhembox>l
+spiKxehh{hx�xeikhembox>l
+spiKxehh{hhx�xeikhembox>l
+spiKxehh{hhhx�xeikhembox>l
+spiKxehh{hhhhx�xeikhembox>l
+spiKxehh{hhhhhx�xeikhembox>l
+spiKxehh{hhhhhhx�xeikhembox>l
+spiKxehh{hhhhhhhx�xeikhembox>l
+spiKxehh{hhhhhhhhx�xeikhembox>l
+spiKxehh{hhhhhhhh"x�xeikhembox>l
+spiKxehh{hhhhhhhh"hx�xeikhembox>l
+spiKxehh{hhhhhhhh"hhx�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�x�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�hx�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�hhx�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�hhhx�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�hhhhx�xeikhembox>l
+spiKxehh{hhhhhhhh"hh�hhhhhx�xeikh
+embox>
+�x��ieiembox>hhhhhhhhh�hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]h(h�Qhhhhh
+hhhhhhhhh�hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh]h(h: Command not found
+tish error: #-2
+embox>
+
+embox>f
+f: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+u�ж�uu���������ж�uq���������� �
+u�ж�uu��������: Command not found
+tish error: #-2
+embox>
+����������������������������O����X������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

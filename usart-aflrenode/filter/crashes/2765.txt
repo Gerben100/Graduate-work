@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�Vdut
+�Vd: Command not found
+tish error: #-2
+embox>
+�ls���
+�ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+embox>[K[6Cembox>
+�ls�[K[11C
+�ls�: Command not found
+tish error: #-2
+embox>
+�(n
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�q
+[K[8Cembox>�q
+[K[9Cembox>�qe
+[K[10Cembox>�qe�
+[K[11Cembox>�qe��
+[K[12Cembox>�qe���
+[K[13Cembox>�qe����
+[K[14C
+�q: Command not found
+tish error: #-2
+embox>
+
+L?Z=Tembox>
+
+L?Z=T[K[14Csoembox>
+
+L?Z=Tso[K[18Csorea�exyt�embox>
+
+L?Z=Tsosorea�exyt�embox>�
+
+L?Z=Tsosorea�exyt�embox>
+
+L?Z=Tsosorea�exyt�embox>@
+
+L?Z=Tsosorea�exyt�embox>@
+
+L?Z=Tsosorea�exyt�embox>@�
+
+L?Z=Tsosorea�exyt�embox>@�
+
+L?Z=Tsosorea�exyt�embox>@�
+
+L?Z=Tsosorea�exyt�embox>@�l
+
+L?Z=Tsosorea�exyt�embox>@�l#
+
+L?Z=Tsosorea�exyt�embox>@�l#c
+
+L?Z=Tsosorea�exyt�embox>@�l#c�
+
+L?Z=Tsosorea�exyt�
+@�: Command not found
+tish error: #-2
+embox>
+
+M?l=U]�ylexpore@�woO��embox>[Ks�.�v��ouembox>[K[15Cd
+s�.�v��ou: Command not found
+tish error: #-2
+embox>
+
+M?l=
+tish error: #-22
+embox>
+
+M?l:ore`�wogou�L
+tish error: #-22
+embox>
+
+M5V=c]cdWexpore����L�xxxxxxxxxxxxxd
+tish error: #-22
+embox>
+@cd@dodddF@+@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

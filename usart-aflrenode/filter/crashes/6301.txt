@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�pp�l?embox>
+�pp�l?[K[6Cembox>�
+�pp�l?[K[7Cembox>�[?5h[?5l
+�pp�l?[K[8C
+�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+��logl000000in090�0�000���
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+��logl000��logl0000000pin090�0�0000embox>8I8[K[9CI0000Qin0
+8I8: Command not found
+tish error: #-2
+embox>90�0�#000embox>8I8[K[9CI8
+8I8: Command not found
+tish error: #-2
+embox>
+�o�logl200000in090�0�000��embox>8I8[K[9CI8
+8I8: Command not found
+tish error: #-2
+embox>
+��logl0000000pi000000pin090�0�0000�embox>8I8[K[9C`090�0�0000
+8I8: Command not found
+tish error: #-2
+embox>��
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+��logRl000000 090�0�0000��
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+�n090��ogl0�0000��
+embox>
+embox>8I8
+8I8: Command not found
+tish error: #-2
+embox>
+��logl0000000plsi��0�000F��
+embox>8I�
+8I�: Command not found
+tish error: #-2
+embox>
+��lot[?5h[?5lI56r@@c66wi��w6@@@�?@@@@iF@@O@@9\@@e:y�
+��lotI56r: Command not found
+tish error: #-2
+embox>
+embox>xembox>
+��lotI56r[K[16C
+embox>��6I56r@�?ex@@embox>��6I56r@�?ex@@[K[21Cembox>��6I56r@�?ex@@[K[22Cembox>��6I56r@�?ex@�@[K[23Cembox>��6I56r@�?ex@�@[K[24Cembox>��6I56r@�?ex@�t@[K[25Cembox>��6I56r@�?ex@�t@@[K[26Cembox>��6I56r@�?ex@�t@e@[K[27Cembox>��6I56r@�?ex@�t@ex@[K[28Cembox>��6I56r@�?ex@�t@exp@[K[29Cembox>��6I56r@�?ex@�t@expK@[K[30Cembox>��6I56r@�?ex@�t@expK�@[K[31Cembox>��6I56r@�?ex@�t@expK�L@[K[32Cembox>��6I56r@�?ex@�t@expK�L6@[K[33C
+embox>
+��l�xpK�L6
+��l�: Command not found
+tish error: #-2
+embox>
+��l@@@@@@@@7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+��l@@@@@@@@7@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@@@@@@@@@@p>�L6
+@@@@@@@@@@@@@@@@@@@@p>�L6: Command not found
+tish error: #-2
+embox>
+m��@embox>
+m��@ui�embox>
+m��@ui�embox>
+m��@ui�embox>
+m��@ui��embox>
+m��@ui�y�embox>
+m��@ui�y�embox>
+m��@ui�y@�embox>
+m��@ui�y@c�embox>
+m��@ui�y@c��[H[H[2Jembox>
+m��@ui�y@c��embox>
+m��@ui�y@c��
+embox>�embox>��Z�embox>��Z�embox>��Z�embox>��Z��embox>��Z�y�embox>��Z�y�embox>��Z�y�embox>��Z�y��embox>��Z�y�f�embox>[K�6
+@@@@@@@@@@@@@@@@@@@@p>�L6�6: Command not found
+tish error: #-2
+embox>
+w�lot[?5h[?5lI5��ܾ?ex@@embox>
+w�lotI5��ܾ?ex@@embox>
+w�lotI5��ܾ?ex@@embox>
+w�lotI5��ܾ?ex@�@embox>
+w�lotI5��ܾ?ex@�@embox>
+w�lotI5��ܾ?ex@�t@embox>[K@O@@iV@#O"@9\@@e:yex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

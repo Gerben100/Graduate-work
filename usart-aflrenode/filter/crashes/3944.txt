@@ -1,0 +1,31 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exporq�������������embox>exporq�������������[K[27Cexi
+exporq���: Command not found
+tish error: #-2
+embox>
+�6�Membox>exporq���[K[15C�embox>exporq����[K[6Cembox>�exporq����[K[7Cembox>�uexporq����[K[8Cembox>�utexporq����[K[9Cembox>�ut�exporq����[K[10Cembox>�ut��exporq����[K[11Cembox>�ut��oexporq����[K[12Cembox>�ut��ogexporq����[K[13Cembox>�ut��ogoexporq����[K[14Cembox>�ut��ogo�exporq����[K[15Cembox>�ut��ogo��exporq����[K[16Cembox>�ut��ogo���exporq����[K[17Cembox>�ut��ogo����exporq����[K[18Cembox>�ut��ogo�����exporq����[K[19Cembox>�ut��ogo������exporq����[K[20Cembox>�ut��ogo������exporq����[K[21Cembox>�ut��ogo������e�xporq����[K[22Cembox>�ut��ogo������e�@xporq����[K[23Cembox>�ut��ogo������e�@�xporq����[K[24Cembox>�ut��ogo������e�@�xporq����[K[33C��itut��logoee���ut��
+�ut��ogo������e�@�xporq������itut��logoee���ut��: Command not found
+tish error: #-2
+embox>oexport��������cd�eepitexi
+oexport��������cd�eepitexi: Command not found
+tish error: #-2
+embox>
+�6~6embox>oexport��������cd�eepitexi�embox>oexport��������cd�eepitexi�embox>�oexport��������cd�eepitexi�embox>�uoexport��������cd�eepitexi�embox>�utoexport��������cd�eepitexi�embox>�ut�oexport��������cd�eepitexi�embox>�ut��oexport��������cd�eepitexi�embox>�ut��ooexport��������cd�eepitexi�embox>�ut��ogoexport��������cd�eepitexi�embox>�ut��ogooexport��������cd�eepitexi�embox>�ut��ogo�oexport��������cd�eepitexi�embox>�ut��ogo��oexport��������cd�eepitexi�embox>�ut��ogo���oexport��������cd�eepitexi�embox>�ut��ogo����oexport��������cd�eepitexi�embox>�ut��ogo�����oexport��������cd�eepitexi�embox>�ut��ogo������oexport��������cd�eepitexi�embox>�ut��ogo������oexport��������cd�eepitexi�embox>�ut��ogo������o�export��������cd�eepitexi�embox>�ut��ogo������o��export��������cd�eepitexi�embox>�ut��ogo������o���export��������cd�eepitexi�embox>�ut��ogo������o���export��������cd�eepitexi���embox>[K[54Cpitut��logo�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

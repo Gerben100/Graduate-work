@@ -1,0 +1,73 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6Cl�embox>l[K[7Cw�wejcd
+lw�wejcd: Command not found
+tish error: #-2
+embox>
+embox>lw�wejcd[K[14C�kl���[?5h[?5l�eMccd
+lw�wejcd�kl����eMccd: Command not found
+tish error: #-2
+embox>
+����weadd
+tish error: #-22
+embox>
+���������������
+���������������: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[7Cembox>
+l[K[8C��lsembox>
+l��ls[K[14Cembox>
+l��ls[K[15Cembox>
+l��ls[K[16C[?5h[?5lembox>
+l��ls[Kembox>
+���������������[K[22C�embox>
+���������������[K[22Chcd
+���������������hcd: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+���������������hcd[Kembox>
+���������������[K[22C�embox>
+���������������[K[22Cl���vejcd
+���������������l���vejcd: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5lc
+c: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>
+cembox>[K�embox>[Kembox>
+���������������hcdembox>[Kembox>
+[K[7Cembox>[K[26Cembox>lw�wejcd
+lw�wejcd: Command not found
+tish error: #-2
+embox>
+[?5h[?5l����jcd
+cjcd: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�R���wejwd
+cR���wejwd: Command not found
+tish error: #-2
+embox>
+ll[?5h[?5l[?5h[?5l�ll
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

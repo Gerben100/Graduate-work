@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i[?5h[?5lembox>i[K[7C�qembox>i�q[K[9Ce
+i�q: Command not found
+tish error: #-2
+embox>
+picd
+picd: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+t�[K[8Cembox>
+t1�[K[9Cembox>
+t1i�[K[10C
+t1i�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cembox>
+[K[8C���ii
+tish error: #-22
+embox>
+1
+1: Command not found
+tish error: #-2
+embox>
+
+embox>�embox>�[K[7C�w�x1i
+��w�: Command not found
+tish error: #-2
+embox>
+�x
+embox>1i
+1i: Command not found
+tish error: #-2
+embox>
+�x1ii
+�x1ii: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C.�w
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cembox>
+[K[8C�Uoex{orpi�[?5h[?5l
+embox>
+embox>logoutembox>x1i[K[9C{o�ti��embox>x1i{o�ti��[K[16Cembox>x1i{o�ti�x�[K[17Cembox>x1i{o�ti�x�[K[6Cembox>ix1i{o�ti�x�[K[7C
+ix1i: Command not found
+tish error: #-2
+embox>
+e[?5h[?5l�pm
+e�pm: Command not found
+tish error: #-2
+embox>
+sOS��
+sOS��: Command not found
+tish error: #-2
+embox>
+V��VVt
+tish error: #-22
+embox>
+�����������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

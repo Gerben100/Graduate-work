@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��R�expo
+��R�expo: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Clcdo]tFZembox>
+lcdo]tFZ[K[6Cembox>�
+lcdo]tFZ[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C cdoutFZembox>
+ cdoutFZ[K[6Cembox> 
+ cdoutFZ[K[7Cembox> �
+ cdoutFZ[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cembox>
+[K[6Cembox>r
+[K[7Cembox>rt
+[K[8Cembox>r
+[K[7Cembox>r�
+[K[8C
+r�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7ClcdoutFZ�embox>
+lcdoutFZ[K[15C�
+lcdoutFZ�: Command not found
+tish error: #-2
+embox>
+
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7ClcdoutJZembox>
+lcdoutJZ[K[6Cembox>�
+lcdoutJZ[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Clcdoujembox>
+lcdouj[K[13Cembox>
+lcdoujj[K[14Cembox>
+lcdoujjj[K[15Cembox>
+lcdoujjjj[K[16Cembox>
+lcdoujjjjj[Kembox>
+lcdoujjjjjj[Kembox>
+lcdoujjjjjjj[K[19Cembox>
+lcdoujjjjjjjj[K[20Cembox>
+lcdoujjjjjjjjj[K[21Cembox>
+lcdoujjjjjjjjjI[K[22Cembox>
+lcdoujjjjjjjjjIQ[Kembox>
+lcdoujjjjjjjjjIQ[Kembox>
+lcdoujjjjjjjjjIQl[Kembox>
+lcdoujjjjjjjjjIQlo[Kembox>
+lcdoujjjjjjjjjIQlogembox>
+lcdoujjjjjjjjjIQlogoembox>
+lcdoujjjjjjjjjIQlogouembox>
+lcdoujjjjjjjjjIQlogoutembox>
+lcdoujjjjjjjjjIQlogoutjembox>
+lcdoujjjjjjjjjIQlogoutjjembox>
+lcdoujjjjjjjjjIQlogoutjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtFembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtFZembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtFZembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtFZembox>
+lcdoujjjjjjjjjIQlogoutjjjjjjjjjjjjtF
+lcdoujjjjjjjjjIQ: Command not found
+tish error: #-2
+embox>
+tc�cdpdo�FZembox>
+tc�cdpdo�FZ[K
+tc�cdpdo: Command not found
+tish error: #-2
+embox>
+�tFtFZembox>
+�tFtFZ[Kembox>�
+�tFtFZ[Kembox>��
+�tFtFZ[K
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cl{embox>
+l{embox>d
+l{embox>do
+l{embox>d
+l{embox>d�
+l{embox>d�F
+l{embox>d�Ff
+l{embox>d�Ff�
+l{embox>d�Ff
+l{embox>d�Ffs
+l{embox>d�Ffs{
+l{embox>d�Ffs{
+l{embox>dd�Ffs{
+l{embox>dod�Ffs{
+l{embox>dd�Ffs{
+l{embox>dd�Ffs{
+l{embox>d�Ffs{
+l{
+d�Ffs{: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�|cdoutFZ
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

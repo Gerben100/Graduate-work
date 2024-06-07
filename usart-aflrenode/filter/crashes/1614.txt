@@ -1,0 +1,63 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>r�|�ypiFembox>r�|�ypiF[K[15C
+r�|�y: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>xxeembox>xxe[K[6Cembox>xxe[K[7Cembox>xxe[K[8Cembox>txxe[K[9Cembox>t�xxe[K[10Cembox>t�xxxe[K[11Cembox>t�xixxe[K[12Cembox>t�xitxxe[K[13Cembox>t�xitxxxe[K[14Cembox>t�xitxTxxe[K[15Cembox>t�xitxT@xxe[K[16Cembox>t�xitxT@xxe[K[17Cembox>t�xitxT@xxe[K[6Cembox>xt�xitxT@xxe[K[7Cembox>xxt�xitxT@xxe[K[8Cembox>xxxt�xitxT@xxe[K[9Cembox>xxxxt�xitxT@xxe[K[10Cembox>xxxxxt�xitxT@xxe[K[11Cembox>xxxxxxt�xitxT@xxe[K[12Cembox>xxxxxxxt�xitxT@xxe[K[13Cembox>xxxxxxxxt�xitxT@xxe[K[14Cembox>xxxxxxxxxt�xitxT@xxe[K[15Cembox>xxxxxxxxxxt�xitxT@xxe[K[16Cembox>xxxxxxxxxxxt�xitxT@xxe[K[17Cembox>xxxxxxxxxxxxt�xitxT@xxe[K[18Cembox>xxxxxxxxxxxxxt�xitxT@xxe[K[19Cembox>xxxxxxxxxxxxxxt�xitxT@xxe[K[20Cembox>xxxxxxxxxxxxxx{t�xitxT@xxe[K[21Cembox>xxxxxxxxxxxxxx{et�xitxT@xxe[K[22Cembox>xxxxxxxxxxxxxx{ext�xitxT@xxe[K[23Cembox>xxxxxxxxxxxxxx{expt�xitxT@xxe[K[24Cembox>xxxxxxxxxxxxxx{expot�xitxT@xxe[K[25Cembox>xxxxxxxxxxxxxx{export�xitxT@xxe[K[26Cembox>xxxxxxxxxxxxxx{exportt�xitxT@xxe[K[27Cembox>xxxxxxxxxxxxxx{exportct�xitxT@xxe[K[28Cembox>xxxxxxxxxxxxxx{exportcct�xitxT@xxe[K[29Cembox>xxxxxxxxxxxxxx{exportcct�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportcct�xitxT@xxe[K[30Cembox>xxxxxxxxxxxxxx{exportccxt�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportccxt�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportccx�t�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportccx�t�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportccx�t�xitxT@xxe[Kembox>xxxxxxxxxxxxxx{exportccx�t�xitxT@xxe[K
+xxxxxxxxxxxxxx{exportcc: Command not found
+tish error: #-2
+embox>�y@p@��embox>�y@p@�[K[12C�embox>�y@p@�[K[12C�@c665G>6T�66F6>6T@embox>�y@p@��@c665G>6T�66F6>6T@embox>x�y@p@��@c665G>6T�66F6>6T@embox>xx�y@p@��@c665G>6T�66F6>6T@embox>xxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@�y@p@��@c665G>6T�66F6>6T@embox>xxxx@x�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxxxxxx�y@p@��@c665G>6T�66F6>6T@embox>xxxx@xxxxxxxxxxxx�y@p@��@c665G>6T�66F6>6T@
+xxxx: Command not found
+tish error: #-2
+embox>xxxxxxxxx��@@@@@Qexpembox>xxxxxxxxx��@@@@@Qexp[Kembox>[K[6C@@@@@@@@@\Z@@@@@?exp@����embox>@@@@@@@@@\Z@@@@@?exp@���
+embox>�@c6656>6T@embox>�@c6656>6T@[K�
+�@c6656>6T@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>xxexport�xitx{ccx�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+xxexport�xitx{cc: Command not found
+tish error: #-2
+embox>6T�66F6>6U@embox>6T�66F6>6U@embox>�6T�66F6>6U@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+��@I@@@Q: Command not found
+tish error: #-2
+embox>6T@embox>6T@�
+6T@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+embox>xxexpo���_itx{ccx�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

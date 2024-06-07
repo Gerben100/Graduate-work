@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�[?5h[?5l&56r@�����������lo
+�&56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@��������embox>
+t&56r@��������[K[24Co
+t&56r: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l&56r@�����������lo
+�&56r: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l56embox>
+`[K[8Cembox>
+�&56r[K[12Cۄ�^embox>
+�&56rۄ�^[K[18C��c��o
+�&56rۄ�^: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@��������embox>
+�&56rۄ�^[K[16C�lk
+�&56rۄ�^: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56rC@�����������lp
+t&56rC@�����������lp: Command not found
+tish error: #-2
+embox>
+sembox>
+shadow[K[13Cembox>
+s[K[8C&5@�����������6t@�����Kp]n��embox>
+s&5@�����������6t@�����Kp]n��
+s&5@�����������6t: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>&56����ppp
+embox>�pccpmpcc�pxpNppppvr@�������
+�pcc: Command not found
+tish error: #-2
+embox>����lo
+����lo: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@c6r@@�c666@@@�?[?5h[?5ll*embox>[K[32CBdzd��\embox>����lo[K[12C[?5h[?5l@embox>�pcc[K[10C56r@@�
+�pcc56r: Command not found
+tish error: #-2
+embox>d�1i�ii6r@/�d�1ixi)
+d: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&�r@@�66k@@@�?[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l@'A66@��@
+t&r: Command not found
+tish error: #-2
+embox>@�dd�1
+embox>
+tP&56r@@c666@@@�?[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lpin[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lw@@@c?e
+tP&56r: Command not found
+tish error: #-2
+embox>xp@56r@@�d�1ix�i
+d56r: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56r@@?[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l,[?5h[?5l[?5h[?5lw@@@c?exp@56rV@�
+d56r: Command not found
+tish error: #-2
+embox>d�>ixii
+d: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l&56\@@c666@@@�?[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l@c?�xp@5T����exqt�d[?5h[?5l�i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

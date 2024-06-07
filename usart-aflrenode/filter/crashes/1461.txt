@@ -1,0 +1,228 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���{{{{{{{�ye��e�]eexpsrtiembox>���{{{{{{{�ye��e�]eexpsrti[K[34Cembox>���{{{{{{{�ye��e�]eexpsrtiA[K[35Cembox>���{{{{{{{�ye��e�]eexpsrtiA�[K[36Cembox>���{{{{{{{�ye��e�]eexpsrtiA�[K[37Cembox>���{{{{{{{�ye��e�]eexpsrtiA�[K[38Cembox>���{{{{{{{�ye��e�]eexpsrtiA�[K[6Cembox>���{{{{{{{�ye��e�]eexpsrtiA�[K[7Cembox>s���{{{{{{{�ye��e�]eexpsrtiA�[K[8Cembox>s6���{{{{{{{�ye��e�]eexpsrtiA�[K[9Cembox>s6@���{{{{{{{�ye��e�]eexpsrtiA�[K[10Cembox>s6@@���{{{{{{{�ye��e�]eexpsrtiA�[K[11Cembox>s6@@���{{{{{{{�ye��e�]eexpsrtiA�[K[12Cembox>s6@@���{{{{{{{�ye��e�]eexpsrtiA�[K[11Cembox>s6@@c���{{{{{{{�ye��e�]eexpsrtiA�[K[12Cembox>s6@@cd���{{{{{{{�ye��e�]eexpsrtiA�[K[13Cembox>s6@@cd����{{{{{{{�ye��e�]eexpsrtiA�[K[14Cembox>s6@@cd�����{{{{{{{�ye��e�]eexpsrtiA�[K[15Cembox>s6@@cd��@���{{{{{{{�ye��e�]eexpsrtiA�[K[16Cembox>s6@@cd��@@���{{{{{{{�ye��e�]eexpsrtiA�[K[17Cembox>s6@@cd��@@@���{{{{{{{�ye��e�]eexpsrtiA�[K
+embox>@@@@eiembox>@@@@ei[K[12Cembox>@@@@eiA[K[13Cembox>@@@@eiA�[K[14Cembox>@@@@eiA�[K[15Cembox>@@@@eiA�[K[16Cembox>@@@@eiA�[K[6Cembox>@@@@eiA�[K[7Cembox>s@@@@eiA�[K[8Cembox>s6@@@@eiA�[K[9Cembox>s6@@@@@eiA�[K[10Cembox>s6@@@@@@eiA�[K[11Cembox>s6@@@@@@eiA�[K[12Cembox>s6@@@@@@eiA�[K[11Cembox>s6@@�@@@@eiA�[K[12Cembox>s6@@��@@@@eiA�[K[13Cembox>s6@@��@@@@@eiA�[K[14Cembox>s6@@��@@@@@@eiA�[K[15Cembox>s6@@��@@?@@@@eiA�[K[16Cembox>s6@@��@@?@@@@@eiA�[K[17Cembox>s6@@��@@?@@@@@@eiA�[K[18Cembox>s6@@��@@?@@o@@@@eiA�[K[19Cembox>s6@@��@@?@@o@@@@@eiA�[K[20Cembox>s6@@��@@?@@o@5@@@@eiA�[K[21Cembox>s6@@��@@?@@o@5e@@@@eiA�[K[22Cembox>s6@@��@@?@@o@5e@@@@eiA�[K[23Cembox>s6@@��@@?@@o@5e@@@@eiA�[K[6Cembox>@s6@@��@@?@@o@5e@@@@eiA�[K[7Cembox>@es6@@��@@?@@o@5e@@@@eiA�[K[8Cembox>@exs6@@��@@?@@o@5e@@@@eiA�[K[9Cembox>@exps6@@��@@?@@o@5e@@@@eiA�[K[10Cembox>@expos6@@��@@?@@o@5e@@@@eiA�[K[11Cembox>@expors6@@��@@?@@o@5e@@@@eiA�[K[12Cembox>@exports6@@��@@?@@o@5e@@@@eiA�[K[13C
+@export: Command not found
+tish error: #-2
+embox>
+�
+embox>{{�embox>{{[K[10C{{��ye��e�xpineiembox>{{{{��ye��e�xpinei[K[27Cembox>{{{{��ye��e�xpineiA[K[28Cembox>{{{{��ye��e�xpineiA�[K[29Cembox>{{{{��ye��e�xpineiA�[K[30Cembox>{{{{��ye��e�xpineiA�[K[31Cembox>{{{{��ye��e�xpineiA�[K[6Cembox>{{{{��ye��e�xpineiA�[K[7Cembox>s{{{{��ye��e�xpineiA�[K[8Cembox>s6{{{{��ye��e�xpineiA�[K[9Cembox>s6@{{{{��ye��e�xpineiA�[K[10Cembox>s6@@{{{{��ye��e�xpineiA�[K[11Cembox>s6@@{{{{��ye��e�xpineiA�[K[12Cembox>s6@@{{{{��ye��e�xpineiA�[K[11Cembox>s6@@�{{{{��ye��e�xpineiA�[K[12Cembox>s6@@��{{{{��ye��e�xpineiA�[K[13Cembox>s6@@��@{{{{��ye��e�xpineiA�[K[14Cembox>s6@@��@@{{{{��ye��e�xpineiA�[K[15Cembox>s6@@��@@@{{{{��ye��e�xpineiA�[K[16Cembox>s6@@��@@@@{{{{��ye��e�xpineiA�[K[17Cembox>s6@@��@@@@@{{{{��ye��e�xpineiA�[K[18Cembox>s6@@��@@@@@@{{{{��ye��e�xpineiA�[K[19Cembox>s6@@��@@@@@@@{{{{��ye��e�xpineiA�[K[20Cembox>s6@@��@@@@@@@e{{{{��ye��e�xpineiA�[K[21C
+embox>iembox>i[K[7Cembox>iA[K[8Cembox>iA�[K[9Cembox>iA�[K[10Cembox>iA�[K[11Cembox>iA�[K[6Cembox>iA�[K[7Cembox>siA�[K[8Cembox>s6iA�[K[9Cembox>s6@iA�[K[10Cembox>s6@@iA�[K[11Cembox>s6@@iA�[K[12Cembox>s6@@iA�[K[11Cembox>s6@@�iA�[K[12Cembox>s6@@��iA�[K[13Cembox>s6@@��@iA�[K[14Cembox>s6@@��@@iA�[K[15Cembox>s6@@��@@?iA�[K[16Cembox>s6@@��@@?@iA�[K[17Cembox>s6@@��@@?@@iA�[K[18Cembox>s6@@��@@?@@oiA�[K[19Cembox>s6@@��@@?@@o@iA�[K[20Cembox>s6@@��@@?@@o@5iA�[K[21Cembox>s6@@��@@?@@o@5eiA�[K[22Cembox>s6@@��@@?@@o@5eiA�[K[23Cembox>s6@@��@@?@@o@5eiA�[K[6Cembox>@s6@@��@@?@@o@5eiA�[K[7Cembox>@es6@@��@@?@@o@5eiA�[K[8Cembox>@exs6@@��@@?@@o@5eiA�[K[9Cembox>@exps6@@��@@?@@o@5eiA�[K[10Cembox>@expos6@@��@@?@@o@5eiA�[K[11Cembox>@expors6@@��@@?@@o@5eiA�[K[12Cembox>@exports6@@��@@?@@o@5eiA�[K[13C
+@export: Command not found
+tish error: #-2
+embox>
+���{{{{{{{�ye�embox>
+���{{{{{{{�ye�[K[22Cembox>
+���{{{{{{{�yeA�[K[23Cembox>
+���{{{{{{{�yeA��[K[24Cembox>
+���{{{{{{{�yeA�[K[24Cxeiembox>
+���{{{{{{{�yeA�xei[K[27Cembox>
+���{{{{{{{�yeA�xeiA[K[28Cembox>
+���{{{{{{{�yeA�xeiA�[K[29Cembox>
+���{{{{{{{�yeA�xeiA�[K[30Cembox>
+���{{{{{{{�yeA�xeiA�[K[31Cembox>
+���{{{{{{{�yeA�xeiA�[K[6Cembox>
+���{{{{{{{�yeA�xeiA�[K[7Cembox>s
+���{{{{{{{�yeA�xeiA�[K[8Cembox>s6
+���{{{{{{{�yeA�xeiA�[K[9Cembox>s6@
+���{{{{{{{�yeA�xeiA�[K[10Cembox>s6@@
+���{{{{{{{�yeA�xeiA�[K[11Cembox>s6@@
+���{{{{{{{�yeA�xeiA�[K[12Cembox>s6@@
+���{{{{{{{�yeA�xeiA�[K[11Cembox>s6@@�
+���{{{{{{{�yeA�xeiA�[K[12Cembox>s6@@��
+���{{{{{{{�yeA�xeiA�[K[13Cembox>s6@@��@
+���{{{{{{{�yeA�xeiA�[K[14Cembox>s6@@��@@
+���{{{{{{{�yeA�xeiA�[K[15Cembox>s6@@��@@@
+���{{{{{{{�yeA�xeiA�[K[16Cembox>s6@@��@@@@
+���{{{{{{{�yeA�xeiA�[K[17Cembox>s6@@��@@@@@
+���{{{{{{{�yeA�xeiA�[K[18Cembox>s6@@��@@@@@@
+���{{{{{{{�yeA�xeiA�[K[19Cembox>s6@@��@@@@@@@
+���{{{{{{{�yeA�xeiA�[K[20Cembox>s6@@��@@@@@@@e
+���{{{{{{{�yeA�xeiA�[K[21Cembox>s6@@��@@@@@@@ei
+���{{{{{{{�yeA�xeiA�[K[22Cembox>s6@@��@@@@@@@ei
+���{{{{{{{�yeA�xeiA�[K[23Cembox>s6@@��@@@@@@@ei
+���{{{{{{{�yeA�xeiA�[K[22C
+embox>A�embox>A�[K[6Cembox>A�[K[7Cembox>sA�[K[8Cembox>s6A�[K[9Cembox>s6@A�[K[10Cembox>s6@@A�[K[11Cembox>s6@@A�[K[12Cembox>s6@@A�[K[11Cembox>s6@@�A�[K[12Cembox>s6@@�A�[K[13Cembox>s6@@�@A�[K[14Cembox>s6@@�@@A�[K[15Cembox>s6@@�@@?A�[K[16Cembox>s6@@�@@?@A�[K[17Cembox>s6@@�@@?@<A�[K[18Cembox>s6@@�@@?@<oA�[K[19Cembox>s6@@�@@?@<o@A�[K[20Cembox>s6@@�@@?@<o@5A�[K[21Cembox>s6@@�@@?@<o@5eA�[K[22Cembox>s6@@�@@?@<o@5eA�[K[23Cembox>s6@@�@@?@<o@5eA�[K[6Cembox>@s6@@�@@?@<o@5eA�[K[7Cembox>@Ys6@@�@@?@<o@5eA�[K[8Cembox>@Yxs6@@�@@?@<o@5eA�[K[9Cembox>@Yxps6@@�@@?@<o@5eA�[K[10Cembox>@Yxpos6@@�@@?@<o@5eA�[K[11Cembox>@Yxpors6@@�@@?@<o@5eA�[K[12Cembox>@Yxports6@@�@@?@<o@5eA�[K[13C
+@Yxport: Command not found
+tish error: #-2
+embox>
+���{{{{{{{�����������������������������@@@@@eiembox>
+���{{{{{{{�����������������������������@@@@@ei[K
+���: Command not found
+tish error: #-2
+embox>A�embox>A�[K[6Cembox>A�[K[7Cembox>sA�[K[8Cembox>s6A�[K[9Cembox>s6@A�[K[10Cembox>s6@@A�[K[11Cembox>s6@@A�[K[12Cembox>s6@@A�[K[11Cembox>s6@@�A�[K[12Cembox>s6@@��A�[K[13Cembox>s6@@��8A�[K[14Cembox>s6@@��8@A�[K[15Cembox>s6@@��8@?A�[K[16Cembox>s6@@��8@?@A�[K[17Cembox>s6@@��8@?@@A�[K[18Cembox>s6@@��8@?@@oA�[K[19Cembox>s6@@��8@?@@o@A�[K[20Cembox>s6@@��8@?@@o@5A�[K[21Cembox>s6@@��8@?@@o@5eA�[K[22Cembox>s6@@��8@?@@o@5eA�[K[23Cembox>s6@@��8@?@@o@5eA�[K[6Cembox>@s6@@��8@?@@o@5eA�[K[7Cembox>@es6@@��8@?@@o@5eA�[K[8Cembox>@exs6@@��8@?@@o@5eA�[K[9Cembox>@exps6@@��8@?@@o@5eA�[K[10Cembox>@expos6@@��8@?@@o@5eA�[K[11Cembox>@expors6@@��8@?@@o@5eA�[K[12Cembox>@exports6@@��8@?@@o@5eA�[K[13C
+@export: Command not found
+tish error: #-2
+embox>
+���{{�������������d����������(�6@@embox>
+���{{�������������d����������(�6@@[K[42C��[@@@@@@Qiembox>
+���{{�������������d����������(�6@@��[@@@@@@Qi[K[53C
+���: Command not found
+tish error: #-2
+embox>A�embox>A�[K[6Cembox>A�[K[7Cembox>sA�[K[8Cembox>s6A�[K[9Cembox>s6@A�[K[10Cembox>s6@�A�[K[11Cembox>s6@�A�[K[12Cembox>s6@�A�[K[11Cembox>s6@��A�[K[12Cembox>s6@���A�[K[13Cembox>s6@���@A�[K[14Cembox>s6@���@@A�[K[15Cembox>s6@���@@?A�[K[16Cembox>s6@���@@?@A�[K[17Cembox>s6@���@@?@@A�[K[18Cembox>s6@���@@?@@oA�[K[19Cembox>s6@���@@?@@o@A�[K[20Cembox>s6@���@@?@@o@5A�[K[21Cembox>s6@���@@?@@o@5eA�[K[22Cembox>s6@���@@?@@o@5eA�[K[23Cembox>s6@���@@?@@o@5eA�[K[6Cembox>@s6@���@@?@@o@5eA�[K[7Cembox>@es6@���@@?@@o@5eA�[K[8Cembox>@exs6@���@@?@@o@5eA�[K[9Cembox>@exps6@���@@?@@o@5eA�[K[10Cembox>@expos6@���@@?@@o@5eA�[K[11Cembox>@expors6@���@@?@@o@5eA�[K[12Cembox>@exports6@���@@?@@o@5eA�[K[13C
+@export: Command not found
+tish error: #-2
+embox>
+���{{{{{{{�ye��fxeiembox>
+���{{{{{{{�ye��fxei[K[28Cembox>
+���{{{{{{{�ye��fxeiA[K[29Cembox>
+���{{{{{{{�ye��fxeiA�[K[30Cembox>
+���{{{{{{{�ye��fxeiA�[K[31Cembox>
+���{{{{{{{�ye��fxeiA�[K[32Cembox>
+���{{{{{{{�ye��fxeiA�[K[6Cembox>s
+���{{{{{{{�ye��fxeiA�[K[7Cembox>s6
+���{{{{{{{�ye��fxeiA�[K[8Cembox>s6@
+���{{{{{{{�ye��fxeiA�[K[9Cembox>s6@@
+���{{{{{{{�ye��fxeiA�[K[10Cembox>s6@@
+���{{{{{{{�ye��fxeiA�[K[11Cembox>s6@@
+���{{{{{{{�ye��fxeiA�[K[10Cembox>s6@@�
+���{{{{{{{�ye��fxeiA�[K[11Cembox>s6@@��
+���{{{{{{{�ye��fxeiA�[K[12Cembox>s6@@��@
+���{{{{{{{�ye��fxeiA�embox>s6@@��@e
+���{{{{{{{�ye��fxeiA�embox>s6@@��@ex
+���{{{{{{{�ye��fxeiA�embox>s6@@��@exp
+���{{{{{{{�ye��fxeiA�embox>s6@@��@expo
+���{{{{{{{�ye��fxeiA�embox>s6@@��@expor
+���{{{{{{{�ye��fxeiA�embox>s6@@��@export
+���{{{{{{{�ye��fxeiA�
+s6@@��@export: Command not found
+tish error: #-2
+embox>
+��� {{{{{�yd��e�xei�embox>
+��� {{{{{�yd��e�xei�embox>
+��� {{{{{�yd��e�xeiA�embox>
+��� {{{{{�yd��e�xeiA¯embox>
+��� {{{{{�yd��e�xeiA��embox>
+��� {{{{{�yd��e�xeiA��embox>
+��� {{{{{�yd��e�xeiA���
+6@@embox>
+��� {{{{{�yd��e�xeiA���
+6@@��@@@@@@@embox>
+��� {{{{{�yd��e�xeiA���
+6@@��@@@@@@@
+���: Command not found
+tish error: #-2
+embox>A�embox>A�[K[6Cembox>A�[K[7Cembox>�A�[K[8Cembox>�6A�[K[9Cembox>�6@A�[K[10Cembox>�6@@A�[K[11Cembox>�6@@A�[K[12Cembox>�6@@A�[K[11Cembox>�6@@�A�[K[12Cembox>�6@@��A�[K[13Cembox>�6@@��@A�[K[14Cembox>�6@@��@IA�[K[15Cembox>�6@@��@I?A�[K[16Cembox>�6@@��@I?@A�[K[17Cembox>�6@@��@I?@@A�[K[18Cembox>�6@@��@I?@@oA�[K[19Cembox>�6@@��@I?@@o@A�embox>�6@@��@I?@@o@5A�embox>�6@@��@I?@@o@5eA�embox>�6@@��@I?@@o@5eA�embox>�6@@��@I?@@o@5eA�embox>@�6@@��@I?@@o@5eA�embox>@e�6@@��@I?@@o@5eA�embox>@ex�6@@��@I?@@o@5eA�embox>@exp�6@@��@I?@@o@5eA�embox>@expo�6@@��@I?@@o@5eA�embox>@expor�6@@��@I?@@o@5eA�embox>@export�6@@��@I?@@o@5eA�
+@export: Command not found
+tish error: #-2
+embox>
+���{{{|{{{�ye��e��embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[6Cembox>[K[7Cembox>[K[8C
+embox>6@@embox>6@@[K[9C��embox>6@@��[Kembox>6@@��A[Kembox>6@@��A�[Kembox>6@@��A�[Kembox>6@@��A�[Kembox>6@@��A�[Kembox>6@@��A�[Kembox>s6@@��A�[Kembox>s66@@��A�[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+embox>
+2�
+embox> �nllssp
+�nllssp: Command not found
+tish error: #-2
+embox>
+2�
+embox>�yembox> �nllssp[K[14C�lssp
+�nllssp�lssp: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y� �nl
+�nllssp�lssp�: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y� �nllssp
+�nllssp�lssp�: Command not found
+tish error: #-2
+embox>
+s�
+s�: Command not found
+tish error: #-2
+embox>
+�t
+�t: Command not found
+tish error: #-2
+embox>
+exity� �nllssp
+s��: Command not found
+tish error: #-2
+embox>
+�2�
+embox>�y� �nLlusp
+s��: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y�kllssp
+s�: Command not found
+tish error: #-2
+embox>
+2��y,� �nllssp
+tish error: #-22
+embox>
+erxport
+embox>
+embox>
+
+embox>�y �n2�
+embox>�y �nnllssp
+s�: Command not found
+tish error: #-2
+embox>
+�(((((((((((((((((
+�((((((((((((((((: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y� �nllssp
+s��: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y��^�|�l 
+s���^�|�l: Command not found
+tish error: #-2
+embox>
+2�
+embox>�y� �nllssp
+s��: Command not found
+tish error: #-2
+embox>
+
+�x��: Command not found
+tish error: #-2
+embox>
+2y
+tish error: #-22
+embox>
+22��/��lssp
+s��/��lssp: Command not found
+tish error: #-2
+embox>
+� �nllssp�
+embox>�y� �nllnllssp
+s��: Command not found
+tish error: #-2
+embox>
+2SSSSSSSSS��
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+� �nQ�xi/n
+embox>
+2�
+embox>�yy� �nll� �nl�ssp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

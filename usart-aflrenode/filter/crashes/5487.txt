@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Ed���dxpM�embox>Ed���dxpM�[K[17Cembox>Ed���dxpM�[K[17Cembox>Ed���dxpM[K[16Cembox>Ed���dxpM[K[17Clogou�
+Ed��: Command not found
+tish error: #-2
+embox>
+Ed��i�
+Ed�: Command not found
+tish error: #-2
+embox>
+E�
+E�: Command not found
+tish error: #-2
+embox>
+xp<�embox>
+xp<�[K[11C�
+xp<�: Command not found
+tish error: #-2
+embox>
+Ed�export�embox>
+Ed�export�[K[18Cembox>
+Ed�export�[K[18Cembox>
+Ed�export[K[17Cexportembox>
+Ed�exportexport[K[24C�i�
+Ed: Command not found
+tish error: #-2
+embox>
+E|��dopM�embox>
+E|��dopM�[K[18Cembox>
+E|��dopM�[K[18Cnembox>
+E|��dopM�n[K[20C�i�
+E|: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C���
+���: Command not found
+tish error: #-2
+embox>
+E��������l�lll�Wle�embox>
+E��������l�lll�Wle[Khlll�
+E��������l�lll�Wlehlll�: Command not found
+tish error: #-2
+embox>
+��W
+tish error: #-22
+embox>
+Ed�@pM�embox>
+Ed�@pM�embox>
+Ed�@pM�embox>
+Ed�@pM�
+�i�
+Ed: Command not found
+tish error: #-2
+embox>
+Ed���dxpM�embox>[Kembox>[Kembox>[Kembox>[K�ils�
+Ed��: Command not found
+tish error: #-2
+embox>
+Ed��i�
+JxpM�: Command not found
+tish error: #-2
+embox>
+cdEd]��
+�^\��p.epor�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

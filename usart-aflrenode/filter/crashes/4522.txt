@@ -1,0 +1,189 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>�embox>[K[6C
+embox>
+�embox>�[K[7C�x embox>��x [K[13Cembox>��x [K[6Cembox>��x [K[13Cembox>��x [K[12Cembox>��x y[K[13Cembox>��x ye[K[14Cembox>��x yey[K[15Cembox>��x yeye[K[16Cembox>��x yeye[K[15Cembox>��x yeyye[K[16Cembox>��x yeyyee[K[17Cembox>��x yeyye�e[K[18Cembox>��x yeyye�ye[K[19Cembox>��x yeyye�y#e[K[20Cembox>��x yeyye�y#de[K[21Cembox>��x yeyye�y#dde[K[22Cembox>��x yeyye�y#dd�e[K[23Cembox>��x yeyye�y#dd��e[K[24C
+�: Command not found
+tish error: #-2
+embox>
+��x ��embox>
+��x ��[K[18Cembox>
+��x �y�[K[19Cembox>
+��x �ye�[K[20Cembox>
+��x �ye�[K[19Cembox>
+��x �yye�[K[20Cembox>
+��x �yy�e�[K[21Cembox>
+��x �yy��e�[K[22Cembox>
+��x �yy��ye�[K[23Cembox>
+��x �yy��y#e�[K[24Cembox>
+��x �yy��y#de�[K[25Cembox>
+��x �yy��y#dde�[K[26Cembox>
+��x �yy��y#dd�e�[K[27Cembox>
+��x �yy��y#dd�e�[K[28C
+�: Command not found
+tish error: #-2
+embox>
+��x ��
+�: Command not found
+tish error: #-2
+embox>
+��d�embox>
+��d�[K[14Cembox>
+��dy�[K[15Cembox>
+��dye�[K[16Cembox>
+��dye�[K[15Cembox>
+��dyye�[K[16Cembox>
+��dyyee�[K[17Cembox>
+��dyye�e�[K[18Cembox>
+��dyye�ye�[K[19Cembox>
+��dyye�y#e�[K[20Cembox>
+��dyye�y#de�[K[21Cembox>
+��dyye�y#dde�[K[22Cembox>
+��dyye�y#dd�e�[K[23Cembox>
+��dyye�y#dd�e�[K[24C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C�cdeembox>
+��cde[K[12Cembox>
+��cdye[K[13Cembox>
+��cdyee[K[14C
+�: Command not found
+tish error: #-2
+embox>
+�_����66Z@1@@@@@@@?$d�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>� 
+�[K[8Cembox>� 
+�[K[9Cembox>� 
+�[K[10Cembox>� 
+�[K[9Cembox>� 
+�[K[10Cembox>� �
+�[K[11Cembox>� ��
+�[K[12Cembox>� ��
+�[K[11Cembox>� �y�
+�[K[12Cembox>� �ye�
+�[K[13Cembox>� �ye�
+�[K[12Cembox>� �yye�
+�[K[13Cembox>� �yyee�
+�[K[14Cembox>� �yye�e�
+�[K[15Cembox>� �yye�ye�
+�[K[16Cembox>� �yye�y#e�
+�[K[17Cembox>� �yye�y#de�
+�[K[18Cembox>� �yye�y#dde�
+�[K[19Cembox>� �yye�y#dd�e�
+�[K[20Cembox>� �yye�y#dd�e�
+�[K[21C
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cexport��embox>export��[K[16Cembox>export�y�[K[17Cembox>export�ye�[K[18Cembox>export�ye�[K[17Cembox>export�yye�[K[18Cembox>export�yyee�[K[19Cembox>export�yye�e�[K[20Cembox>export�yye�ye�[K[21Cembox>export�yye�y#e�[K[22Cembox>export�yye�y#de�[K[23Cembox>export�yye�y#dde�[K[24Cembox>export�yye�y#dd�e�[K[25Cembox>export�yye�y#dd�e�[K[26C
+embox>
+����x �y#cd�
+����: Command not found
+tish error: #-2
+embox>
+��~��embox>
+��~��[K[16Cembox>
+��~�y�[K[17Cembox>
+��~�ye�[K[18Cembox>
+��~�ye�[K[17Cembox>
+��~�yye�[K[18Cembox>
+��~�yy~e�[K[19Cembox>
+��~�yy~�e�[K[20Cembox>
+��~�yy~�ye�[K[21Cembox>
+��~�yy~�y#e�[K[22Cembox>
+��~�yy~�y#de�[K[23Cembox>
+��~�yy~�y#dde�[K[24Cembox>
+��~�yy~�y#dd�e�[K[25Cembox>
+��~�yy~�y#dd�e�[K[26C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K[8C�eembox>
+��e[K[11Cembox>
+��ye[K[12Cembox>
+��yee[K[13Cembox>
+��ye�e[K[14Cembox>
+��ye�ye[K[15Cembox>
+��ye�y#e[K[16Cembox>
+��ye�y#de[K[17Cembox>
+��ye�y#dde[K[18Cembox>
+��ye�y#dd�e[K[19Cembox>
+��ye�y#dd�e[K[20C
+�: Command not found
+tish error: #-2
+embox>
+�����
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����
+��: Command not found
+tish error: #-2
+embox>
+(
+(: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+(=((
+(=((: Command not found
+tish error: #-2
+embox>
+�export�
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+t�@
+t: Command not found
+tish error: #-2
+embox>
+��~��
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+���cd�������������ds�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

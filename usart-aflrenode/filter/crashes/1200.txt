@@ -1,0 +1,168 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eziT^"��� embox>eziT^"���[K[18C@O���
+eziT^": Command not found
+tish error: #-2
+embox>
+embox>eziT^"[K[12C����(y
+eziT^"����(y: Command not found
+tish error: #-2
+embox>
+g�(��
+g�(�: Command not found
+tish error: #-2
+embox>
+�%i���
+embox>g[H[H[2Jembox>g[K[7C
+g: Command not found
+tish error: #-2
+embox>
+�綶y�
+�綶y: Command not found
+tish error: #-2
+embox>
+�����
+����: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls�
+ls: Command not found
+tish error: #-2
+embox>
+embox>
+ls[K�(yembox>[K[6Cembox>[K[7C
+: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+癙�������
+癙�������: Command not found
+tish error: #-2
+embox>
+[?5h[?5l��
+: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+m�
+m�: Command not found
+tish error: #-2
+embox>
+��g
+�: Command not found
+tish error: #-2
+embox>
+ls
+embox>
+�@���
+�@���: Command not found
+tish error: #-2
+embox>
+� ls
+embox>��cd
+embox>
+�e�i�
+�e�i�: Command not found
+tish error: #-2
+embox>
+aqs
+aqs: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>���@
+���@: Command not found
+tish error: #-2
+embox>
+�[H[H[2Ji
+�ye�e
+�: Command not found
+tish error: #-2
+embox>
+���i
+���edQllxportlllnlllexportlllnlll
+lllnlll: Command not found
+tish error: #-2
+embox>l
+embox>
+�a
+�ye
+�e: Command not found
+tish error: #-2
+embox>
+��si
+tish error: #-22
+embox>
+���i
+�ye�e
+�: Command not found
+tish error: #-2
+embox>
+��
+�ye�e
+�: Command not found
+tish error: #-2
+embox>
+�"
+�: Command not found
+tish error: #-2
+embox>
+�pie� 
+�pi: Command not found
+tish error: #-2
+embox>
+��i
+�e��
+�: Command not found
+tish error: #-2
+embox>
+���������@@
+embox>
+cd xit
+embox>
+embox>
+Qgo@�l\ggoub
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

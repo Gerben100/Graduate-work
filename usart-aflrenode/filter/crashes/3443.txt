@@ -1,0 +1,172 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>z
+z: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C
+tish error: #-22
+embox>
+xx[H[H[2Jembox>
+xx[K[9Cembox>
+xx[K[9Cï¿½x
+xxï¿½x: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+x[K[8Cembox>[K[6Cp$hï¿½xxxxxx8xxxxyxxx$hï¿½xxxxxx8zxxxxxxx
+p$hï¿½xxxxxx8xxxxyxxx$hï¿½xxxxxx8zxxxxxxx: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+x[K[8Cembox>
+x[K[10C$hï¿½xxxxxx8exitxxxxx
+x: Command not found
+tish error: #-2
+embox>
+embox>
+x[K[8C1
+x: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+x[K[8Cembox>[K[6Cï¿½xxxxxx8xxxï¿½xxï¿½ix
+ï¿½xxxxxx8xxxï¿½xxï¿½ix: Command not found
+tish error: #-2
+embox>
+xdembox>[K[6C$hï¿½xxxxxx8xxembox>[Kxxx
+ï¿½xxxxxx8xxxï¿½xxï¿½ix: Command not found
+tish error: #-2
+embox>
+xgeyithï¿½xxsxxx8ï¿½lï¿½
+embox>ixï¿½x
+ixï¿½x: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+xembox>[K$hï¿½xxï¿½x[H[H[2Jembox>[Kembox>[K$hï¿½xxï¿½xx8xxxxxxxx8xxxxxbx
+$hï¿½xxï¿½: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+xembox>[Kï¿½xxxembox>ï¿½xxxembox>ï¿½xxxxembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+ï¿½xxxx8Uxxxxx8xxx: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+xï¿½~$hï¿½xxxxexportxxxxzx
+x: Command not found
+tish error: #-2
+embox>
+xï¿½ï¿½ï¿½xrxx8xï¿½ï¿½xexxxx
+xï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+xx
+xx: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jï¿½Vxï¿½ï¿½
+Vxï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+x[H[H[2JVxï¿½ï¿½ï¿½ï¿½
+Vxï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jï¿½Vï¿½ï¿½nrt
+xï¿½Vï¿½ï¿½nrt: Command not found
+tish error: #-2
+embox>
+xLVï¿½ï¿½
+VxVï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+x[H[H[2J0exportVxp{r^
+exportVxp{r^: Command not found
+tish error: #-2
+embox>
+xlyeï¿½gï¿½sï¿½gï¿½sï¿½oï¿½ï¿½ï¿½,oï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½rt
+xlyeï¿½gï¿½s: Command not found
+tish error: #-2
+embox>
+xï¿½ort
+x: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+j[H[H[2JVzpost
+Vzpost: Command not found
+tish error: #-2
+embox>
+x^Vï¿½ï¿½/rt
+Vï¿½ï¿½/rt: Command not found
+tish error: #-2
+embox>
+xVxport
+Vxport: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jd ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½t[?5h[?5lxï¿½ï¿½ï¿½ï¿½ï¿½exit
+d: Command not found
+tish error: #-2
+embox>
+xï¿½ï¿½ï¿½t
+xï¿½ï¿½ï¿½t: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jtï¿½ï¿½ï¿½exaï¿½~ï¿½[Ux[H[2Jtï¿½ï¿½ï¿½exaï¿½
+embox>
+xtxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½%wiï¿½[?5h[?5lï¿½%ï¿½ï¿½exit
+xï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½ï¿½logutï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+Xï¿½ï¿½ï¿½r
+Xï¿½: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jï¿½ï¿½Èï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½sï¿½ï¿½eï¿½ï¿½ï¿½ï¿½ï¿½kxit
+ï¿½ï¿½ï¿½logï¿½kxit: Command not found
+tish error: #-2
+embox>
+ortt[?5h[?5lxï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½cdõï¿½
+embox>EEï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exit
+embox>
+x[H[H[2J@Dt[?5h[?5lxï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½eï¿½it
+Dtxï¿½ï¿½ï¿½ï¿½ï¿½xï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½eï¿½it: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5l$t[?5h[?5lxï¿½nï¿½ï¿½ï¿½uxit
+$txï¿½nï¿½ï¿½ï¿½uxit: Command not found
+tish error: #-2
+embox>
+x[H[H[2J$t[?5h[?5lxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½exit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

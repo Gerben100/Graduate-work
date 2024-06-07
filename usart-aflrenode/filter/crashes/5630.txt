@@ -1,0 +1,203 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eembox>e[K[6Cembox>e[K[7Cembox>pe[K[8C
+embox>
+�����p��
+��: Command not found
+tish error: #-2
+embox>
+�
+: Command not found
+tish error: #-2
+embox>
+d@p
+tish error: #-22
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cembox>
+t[K[9Cembox>
+tt[K[10Cembox>
+tt�[K[11C
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>exp
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Cxp
+: Command not found
+tish error: #-2
+embox>
+�xp
+tish error: #-22
+embox>
+!exp
+tish error: #-22
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+�[K[8Cembox>�
+�[K[9Cembox>�
+�[K[10Cembox>��[K[10Cembox>��[K[11Cembox>��[K[12Cembox>���[K[13Cembox>��H�[K[14Cembox>��Hǔ[K[15Cembox>��H�ߔ[K[16Cembox>��Hǔ[K[15Cembox>��H��[K[16Cembox>��H�E�[K[17Cembox>��H�EȔ[K[18Cembox>��H�E�Ȕ[K[19Cembox>��H�E��Ȕ[K[20Cembox>��H�E���ǔ[K[21Cembox>��H�E�����embox>��H�E����p�embox>��H�E����pe�embox>��H�E����pe�embox>��H�E����peembox>��H�E����pepembox>��H�E����pepeembox>��H�E����pepexembox>��H�E����pepexpembox>��H�E����pepexpoembox>��H�E����pepexpooembox>��H�E����pepexpoorembox>��H�E����pepexpoort
+�: Command not found
+tish error: #-2
+embox>
+U
+U: Command not found
+tish error: #-2
+embox>
+l�@exp
+l�: Command not found
+tish error: #-2
+embox>
+exs
+tish error: #-22
+embox>
+QNNp9NNp
+QNNp9NNp: Command not found
+tish error: #-2
+embox>
+p��logout
+tish error: #-22
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+lsNekQ
+tish error: #-22
+embox>
+axg
+tish error: #-22
+embox>
+x^
+x^: Command not found
+tish error: #-2
+embox>
+������
+tish error: #-22
+embox>
+:��
+�: Command not found
+tish error: #-2
+embox>
+�d��
+embox>x�DR^-p
+x�DR^-p: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�cnxp
+�cnxp: Command not found
+tish error: #-2
+embox>
+ �= #
+�=: Command not found
+tish error: #-2
+embox>
+�@�@
+tish error: #-22
+embox>
+�x[
+tish error: #-22
+embox>
+@xp
+tish error: #-22
+embox>
+u�
+embox>
+
+embox>
+embox>
+� $logo
+�: Command not found
+tish error: #-2
+embox>
+��xp
+tish error: #-22
+embox>
+�p
+tish error: #-22
+embox>
+x��g>iiq>ii�
+x��g: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+embox>
+"e)"xdi
+xdb
+xdb: Command not found
+tish error: #-2
+embox>
+
+embox>����
+embox>
+
+tish error: #-22
+embox>
+ex���xdi
+tish error: #-22
+embox>
+e���|i
+e���|i: Command not found
+tish error: #-2
+embox>
+�?@@@@@xdm��@@@@M@@@�?@@@@xdi
+tish error: #-22
+embox>
+exdi�cdx�i
+tish error: #-22
+embox>
+exdi
+tish error: #-22
+embox>
+exportdixdi
+tish error: #-22
+embox>
+x%i[?5h[?5l
+embox>x5e�ye��X�xei
+x: Command not found
+tish error: #-2
+embox>
+��exlo��������������������xdii
+��: Command not found
+tish error: #-2
+embox>
+I
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�����������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

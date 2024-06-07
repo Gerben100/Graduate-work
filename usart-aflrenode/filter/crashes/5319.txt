@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>x��
+x: Command not found
+tish error: #-2
+embox>
+�[?5h[?5lembox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>V
+�[K[9Cembox>V
+�[K[10Cembox>V�
+�[K[11Cembox>V�
+�[K[12C
+embox>
+�[?5h[?5lembox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>�
+�[K[9Cembox>�d
+�[K[10Cembox>�d�
+�[K[11Cembox>�d�
+�[K[12Cembox>�d��
+�[K[13Cembox>�d��
+�[K[14Cembox>�d��
+�[K[6Cembox>�d��
+�[K[7Cembox>��d��
+�[K[8Cembox>��d��
+�[K[9Cembox>���d��
+�[K[10C
+���d�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�(xeN�I5@@@@pin@@@���@embox>�(xeN�I5@@@@pin@@@���@[K[28Cembox>�(xeN�I5@@@@pin@@@���@@[K[29Cembox>�(xeN�I5@@@@pin@@@���@M@[K[30Cembox>�(xeN�I5@@@@pin@@@���@Me@[K[31Cembox>�(xeN�I5@@@@pin@@@���@Mex@[K[32Cembox>�(xeN�I5@@@@pin@@@���@Mexp@[K[33Cembox>�(xeN�I5@@@@pin@@@���@Mexp@@[K[34Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@[K[35Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@[K[36Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@[K[37Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@[K[38Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@@[K[39Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@?@[K[40Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@?@@[K[41Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@?@@@[K[42Cembox>�(xeN�I5@@@@pin@@@���@Mexp@�@@@@?@@@@[K[43C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>��embox>�[K[7CxeN�I5@@@@pin@@@G@@@embox>�xeN�I5@@@@pin@@@G@@@[K[6Cembox>@�xeN�I5@@@@pin@@@G@@@[K[7Cembox>@M�xeN�I5@@@@pin@@@G@@@[K[8Cembox>@Me�xeN�I5@@@@pin@@@G@@@[K[9Cembox>@Mex�xeN�I5@@@@pin@@@G@@@[K[10Cembox>@Mexp�xeN�I5@@@@pin@@@G@@@[K[11Cembox>@Mexp@�xeN�I5@@@@pin@@@G@@@[K[12Cembox>@Mexp@��xeN�I5@@@@pin@@@G@@@[K[13Cembox>@Mexp@�@�xeN�I5@@@@pin@@@G@@@[K[14Cembox>@Mexp@�@@�xeN�I5@@@@pin@@@G@@@[K[15Cembox>@Mexp@�@@@�xeN�I5@@@@pin@@@G@@@[K[16Cembox>@Mexp@�@@@@�xeN�I5@@@@pin@@@G@@@[K[17Cembox>@Mexp@�@@@@?�xeN�I5@@@@pin@@@G@@@[K[18Cembox>@Mexp@�@@@@?@�xeN�I5@@@@pin@@@G@@@[K[19Cembox>@Mexp@�@@@@?@@�xeN�I5@@@@pin@@@G@@@[K[20Cembox>@Mexp@�@@@@?@@@�xeN�I5@@@@pin@@@G@@@[K[21C
+@Mexp@�@@@@?@@@�xeN�I5@@@@pin@@@G@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�(xeN�I5@@@@pio@@@@@@@embox>�(xeN�I5@@@@pio@@@@@@@embox>@�(xeN�I5@@@@pio@@@@@@@embox>@M�(xeN�I5@@@@pio@@@@@@@embox>@Me�(xeN�I5@@@@pio@@@@@@@embox>@Mex�(xeN�I5@@@@pio@@@@@@@embox>@Mexp�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@��(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@@?�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@@?@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@@?@@�(xeN�I5@@@@pio@@@@@@@embox>@Mexp@�*@@@?@@@�(xeN�I5@@@@pio@@@@@@@
+@Mexp@�*@@@?@@@�: Command not found
+tish error: #-2
+embox>
+logout@@embox>
+logout@@[K[6Cembox>@
+logout@@[K[7Cembox>@@
+logout@@[K[8C
+@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�N�I5@�@@pin@@@@@@@embox>�N�I5@�@@pin@@@@@@@embox>@�N�I5@�@@pin@@@@@@@embox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32C
+@Mexp@�(xeN�I5@@@@pin@@@@@�: Command not found
+tish error: #-2
+embox>@@embox>@@[K[6Cembox>@@@[K[7Cembox>@M@@[K[8Cembox>@Me@@[Kembox>@Mex@@[Kembox>@Mexp@@[Kembox>@Mexp@@@[Kembox>@Mexp@�@@[Kembox>@Mexp@�@@@[Kembox>@Mexp@�@@@@[Kembox>@Mexp@�@@@@@[Kembox>@Mexp@�@@@@@@[Kembox>@Mexp@�@@@@?@@embox>@Mexp@�@@@@?@@@embox>@Mexp@�@@@@?@@@@embox>@Mexp@�@@@@?@@@@@
+@Mexp@�@@@@?@@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+embox>�(yeN�I5@@@@pin@@@@@@@cdembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@Mexp@�@@@@?@@@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+embox>��(xeN�I5@@Hcpin@#@@@@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

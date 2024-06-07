@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l���cd�@@@@@@Rembox>l���cd�@@@@@@R[K[6Cembox>@l���cd�@@@@@@R[K[7Cembox>@@l���cd�@@@@@@R[K[8Cembox>@@@l���cd�@@@@@@R[K[9Cembox>@@@@l���cd�@@@@@@R[K[10Cembox>@@@@@l���cd�@@@@@@R[K[11Cembox>@@@@@l���cd�@@@@@@R[K[12Cembox>@@@@@@l���cd�@@@@@@R[K[13Cembox>@@@@@@@l���cd�@@@@@@R[K[14Cembox>@@@@@@@@l���cd�@@@@@@R[K[15Cembox>@@@@@@@@@l���cd�@@@@@@R[K[16Cembox>@@@@@@@@@@l���cd�@@@@@@R[K[17Cembox>@@@@@@@@@@@l���cd�@@@@@@R[K[18Cembox>@@@@@@@@@@@l���cd�@@@@@@R[K[6Cembox>@@@@@@@@@@@@l���cd�@@@@@@R[K[7Cembox>@@@@@@@@@@@@@l���cd�@@@@@@R[K[8Cembox>@@e@@@@@@@@@@@l���cd�@@@@@@R[K[9Cembox>@@ex@@@@@@@@@@@l���cd�@@@@@@R[K[10Cembox>@@exp@@@@@@@@@@@l���cd�@@@@@@R[K[11Cembox>@@exp@@@@@@@@@@@@l���cd�@@@@@@R[K[12Cembox>@@exp@�@@@@@@@@@@@l���cd�@@@@@@R[K[13Cembox>@@exp@�@@@@@@@@@@@@l���cd�@@@@@@R[K[14C
+@@exp@�@@@@@@@@@@@@l���cd�: Command not found
+tish error: #-2
+embox>
+l�L@@embox>@@exp@�@@@@@@@@@@@@l���cd�[K[34Cpin@embox>@@exp@�@@@@@@@@@@@@l���cd�pin@[K[39C��@�@@@@@@@@@@O@@j@@@?��export�@@
+@@exp@�@@@@@@@@@@@@l���cd�pin@��@: Command not found
+tish error: #-2
+embox>@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@e@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@ex@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@exp@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@exp@@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@exp@�@@@@exh@@@@@@@@@@R2@@@@@@�@embox>@@exp@�@@@@@exh@@@@@@@@@@R2@@@@@@�@
+@@exp@�@@@@@exh@@@@@@@@@@R2@@@@@@�@: Command not found
+tish error: #-2
+embox>
+lembox>[K[41C�embox>[K[42Cembox>@@exp@�@@@@@@@@@@@@l���cd����(xeN�I5d6@?�embox>@@exp@�@@@@@@@@@@@@l���cd����(xeN�I5d6@?��@@@@@@@@@@@@@@@@R?@@@@
+@@exp@�@@@@@@@@@@@@l���cd����: Command not found
+tish error: #-2
+embox>@@@@@@@embox>@@@@@@@[K[6Cembox>@@@@@@@@[K[7Cembox>@@@@@@@@@[K[8Cembox>@@e@@@@@@@[K[9Cembox>@@ex@@@@@@@[K[10Cembox>@@exp@@@@@@@[K[11Cembox>@@exp@@@@@@@@[K[12Cembox>@@exp@�@@@@@@@[K[13Cembox>@@exp@�!@@@@@@@[K[14C
+@@exp@�!@@@@@@@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�wxF�����������
+�wxF�����������: Command not found
+tish error: #-2
+embox>
+lexportembox>[K[14C
+embox>�
+embox>
+lll�"�
+lll�"�: Command not found
+tish error: #-2
+embox>
+lembox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+embox>eexpot�
+eexpt: Command not found
+tish error: #-2
+embox>
+�
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+l5
+embox>�[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+l
+embox>���
+��: Command not found
+tish error: #-2
+embox>
+l��
+�: Command not found
+tish error: #-2
+embox>
+l
+embox>
+
+embox>
+embox>
+embox>
+J
+tish error: #-22
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+� e�W
+eexpt: Command not found
+tish error: #-2
+embox>
+
+Sp�ou�$I�: Command not found
+tish error: #-2
+embox>
+��
+e�t: Command not found
+tish error: #-2
+embox>
+���@@@
+���@@@: Command not found
+tish error: #-2
+embox>
+�
+L�: Command not found
+tish error: #-2
+embox>
+lllLlllllllllllllll
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

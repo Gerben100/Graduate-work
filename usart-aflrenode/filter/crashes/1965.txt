@@ -1,0 +1,189 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttt�tt�@tgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttt�tt�@tgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttt�tt�@tgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVtttttttttttttt�@tgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttttttt�@tgoutd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttttttt�tt�utd�
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVtttttttt�lsttttttttttdttVttttttttttttttt�tt�@tgo
+passwd7sttttttdttVtt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7Q&lsssssssssssssssssssssss�����wd
+passwd7Q&lsssssssssssssssssssssss�����w: Command not found
+tish error: #-2
+embox>tttttd�lsttdtttttudt@^goutd�
+tttttd�lsttdtttttudt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sk[?5h[?5ltt�ttt�ttddtVttttUtls�tttt
+passwd7sk[?5h[?5ltt�ttt�ttddtVtt: Command not found
+tish error: #-2
+embox>ttt�tt�@Wou�,�logout
+ttt�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+embox>p[?5h[?5l7sttttttdtttttt222222222222222ttdt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

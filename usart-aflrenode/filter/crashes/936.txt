@@ -1,0 +1,185 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>q
+%
+q: Command not found
+tish error: #-2
+embox>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~
+
+
+
+
+
+%l`
+~: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~
+~: Command not found
+tish error: #-2
+embox>
+embox>
+~[K[8C
+~: Command not found
+tish error: #-2
+embox>
+~�embox>
+~�[K[10C�
+~��: Command not found
+tish error: #-2
+embox>
+~exit�embox>
+~exit�[K[14C��
+~exit���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�����
+�����: Command not found
+tish error: #-2
+embox>
+~�{��
+~�{�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+~����
+~����: Command not found
+tish error: #-2
+embox>
+�~@
+�~: Command not found
+tish error: #-2
+embox>
+cdls�
+cdls�: Command not found
+tish error: #-2
+embox>�cd�
+�cd�: Command not found
+tish error: #-2
+embox>
+@x�Q
+@: Command not found
+tish error: #-2
+embox>
+��Akk
+��Akk: Command not found
+tish error: #-2
+embox>
+WQQ
+WQQ: Command not found
+tish error: #-2
+embox>
+~�rVތo
+~�rVތo: Command not found
+tish error: #-2
+embox>
+6x
+6x: Command not found
+tish error: #-2
+embox>
+�bD�
+�bD�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+exit��
+exit�: Command not found
+tish error: #-2
+embox>
+pinwQ
+pinwQ: Command not found
+tish error: #-2
+embox>
+3�xe�xeQ
+�xe�xeQ: Command not found
+tish error: #-2
+embox>
+�xB�
+�xB�: Command not found
+tish error: #-2
+embox>
+DxlsQ
+DsQ: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~
+&p�
+~: Command not found
+tish error: #-2
+embox>
+~p~p~p?��
+~p~p~p?��: Command not found
+tish error: #-2
+embox>
+�logoutpp?��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

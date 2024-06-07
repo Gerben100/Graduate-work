@@ -1,0 +1,183 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+l�
+tish error: #-22
+embox>
+�ܗ�
+�ܗ�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+l���embox>
+[K[7Cembox>
+�ܗ�[K[11C#embox>
+[K[7C�#Vgogo
+tish error: #-22
+embox>
+l�cd��embox>
+[K[7Cembox>
+�ܗ�#[K[12C[?5h[?5ll\exitlo
+�ܗ�#: Command not found
+tish error: #-2
+embox>
+l���export
+l�: Command not found
+tish error: #-2
+embox>
+�embox>
+l�[K[9Cg�
+l�g�: Command not found
+tish error: #-2
+embox>
+logo���embox>
+l�g�[K[11Cembox>
+l�[K[9C[H[H[2Jembox>
+l�[K[9C�#embox>
+�ܗ�#[K[12CVgogo
+�ܗ�#Vgo: Command not found
+tish error: #-2
+embox>
+l
+embox>�tembox>
+�ܗ�#Vgo[K[15Csgogoembox>
+l�g�[K[11Cago����������������embox>
+l�g�ago���������������
+l�g�ago�: Command not found
+tish error: #-2
+embox>
+
+embox>�logoutembox>
+l�g�ago�[K[15C�#embox>[K[20CVgogo�
+�ܗ�#VgosgogoV: Command not found
+tish error: #-2
+embox>
+Sxxembox>
+Sxx
+Sx: Command not found
+tish error: #-2
+embox>
+l���[?5h[?5l��[?5h[?5l�#Vgogo�#Vgogo
+l��#Vgo: Command not found
+tish error: #-2
+embox>
+l��/[?5h[?5l�#Vgogo�
+�/�#Vgo: Command not found
+tish error: #-2
+embox>
+l���#Vgogo
+SxVgo: Command not found
+tish error: #-2
+embox>
+l�����#Vgfgoexit 
+SxVgf: Command not found
+tish error: #-2
+embox>
+�
+SxVgf�: Command not found
+tish error: #-2
+embox>
+D'@$
+D'@$: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+@�
+@�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+
+SxVgf: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�'
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+)
+): Command not found
+tish error: #-2
+embox>
+� [?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+���
+SxVgf��: Command not found
+tish error: #-2
+embox>
+�@��[?5h[?5l
+�@��: Command not found
+tish error: #-2
+embox>
+pinD8@@A @@@@@@@]pi@@@��@@@S @@J
+pinD8: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�L[?5h[?5l
+�L: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l
+embox>�>eXitW
+�>eXitW: Command not found
+tish error: #-2
+embox>
+xiti|W
+xiti|W: Command not found
+tish error: #-2
+embox>
+��exitmwitW
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

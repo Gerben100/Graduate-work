@@ -1,0 +1,77 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>j2^lsex~tembox>j2^lsex~[K[14C
+j2^lsex~: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�#dx�
+tish error: #-22
+embox>
+embox>[K[6C�^lUembox>�^l[K[9C
+�^l: Command not found
+tish error: #-2
+embox>
+lsLls
+
+lsLls: Command not found
+tish error: #-2
+embox>
+�sembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+rN�,s�embox>
+rN�,s�[K[6C
+rN�,s�: Command not found
+tish error: #-2
+embox>
+��lsembox>
+��l[K[10C
+��l: Command not found
+tish error: #-2
+embox>
+
+embox>D�embox>D�[K
+D�: Command not found
+tish error: #-2
+embox>
+�^2lsembox>
+�^2lsembox>
+�^2lsembox>�^2lsembox>x�^2lsembox>xe�^2lsembox>xei�^2lsembox>xei�^2lsembox>xei�^2lsembox>xei�^2lsembox>�xei�^2lsembox>�yxei�^2lsembox>�yuxei�^2lsembox>�yuexei�^2lsembox>�yuexxei�^2lsembox>�yuexixei�^2lsembox>�yuexitxei�^2lsembox>�yuexit�xei�^2lsembox>�yuexit��xei�^2lsembox>�yuexit��exei�^2lsembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+Q^lssembox>
+Q^ls
+Q^ls: Command not found
+tish error: #-2
+embox>
+�222222<222222222222222222^ls
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

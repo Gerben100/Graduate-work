@@ -1,0 +1,119 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[10Cddddd�[H[H[2Jembox>��ddddd�[K[17Cembox>��ddddd�[K[6Cembox>���ddddd�[K[7Cembox>��ddddd�[K[6Cembox>���ddddd�[K[7Cembox>�s��ddddd�[K[8Cembox>�s���ddddd�[K[9Cembox>�s���ddddd�[K[10Cembox>�s�.��ddddd�[K[11Cembox>�s�.<��ddddd�[K[12Cembox>�s�.<@��ddddd�[K[13Cembox>�s�.<@@��ddddd�[K[14Cembox>�s�.<@@@��ddddd�[K[15Cembox>�s�.<@@@@��ddddd�[K[16Cembox>�s�.<@@@@@��ddddd�[K[17Cembox>�s�.<@@@@@?��ddddd�[K[18Cembox>�s�.<@@@@@??��ddddd�[K[19Cembox>�s�.<@@@@@??@��ddddd�[K[20Cembox>�s�.<@@@@@??@@��ddddd�[K[21Cembox>�s�.<@@@@@??@@@��ddddd�[K[22Cembox>�s�.<@@@@@??@@@G��ddddd�[K[23Cembox>�s�.<@@@@@??@@@G@��ddddd�[K[24Cembox>�s�.<@@@@@??@@@G@+��ddddd�[K[25Cembox>�s�.<@@@@@??@@@G@+@��ddddd�[K[26Cembox>�s�.<@@@@@??@@@G@+@@��ddddd�[K[27Cembox>�s�.<@@@@@??@@@G@+@@��ddddd�[K[28Cembox>�s�.<@@@@@??@@@G@+@@@��ddddd�[K[29Cembox>�s�.<@@@@@??@@@G@+@@��ddddd�[K[28Cembox>�s�.<@@@@@??@@@G@+@@���ddddd�[K[29Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5l��ddddd�[K[30Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ��ddddd�[K[31Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@��ddddd�[K[32Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@@��ddddd�[K[33Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@@@��ddddd�[K[34Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@@@@��ddddd�[K[35Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@@@@@��ddddd�[K[36Cembox>�s�.<@@@@@??@@@G@+@@�[?5h[?5lJ@@@@@@��ddddd�[K[37C
+�s�.<@@@@@??@@@G@+@@: Command not found
+tish error: #-2
+embox>@embox>[K[7C�
+embox>J@@@@@T@U90�0�000?
+J@@@@@T@U90�0�000?: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[11Cddddd�[H[H[2Jembox>
+��ddddd�[K[18Cembox>
+��ddddd�[K[6Cembox>�
+��ddddd�[K[7Cembox>
+��ddddd�[K[6Cembox>�
+��ddddd�[K[7Cembox>�s
+��ddddd�[K[8Cembox>�s�
+��ddddd�[K[9Cembox>�s�
+��ddddd�[K[10Cembox>�s�
+.��ddddd�[K[11Cembox>�s�
+.<��ddddd�[K[12Cembox>�s�
+.<@��ddddd�[K[13Cembox>�s�
+.<@��ddddd�[K[14Cembox>�s�
+.<@e��ddddd�[K[15Cembox>�s�
+.<@ex��ddddd�[K[16Cembox>�s�
+.<@exi��ddddd�[K[17Cembox>�s�
+.<@exit��ddddd�[K[18Cembox>�s�
+.<@exit?��ddddd�[K[19Cembox>�s�
+.<@exit?@��ddddd�[K[20Cembox>�s�
+.<@exit?@@��ddddd�[K[21Cembox>�s�
+.<@exit?@@��ddddd�[K[22Cembox>�s�
+.<@exit?@@���ddddd�[K[23Cembox>�s�
+.<@exit?@@�@��ddddd�[K[24Cembox>�s�
+.<@exit?@@�@?��ddddd�[K[25Cembox>�s�
+.<@exit?@@�@??��ddddd�[K[26Cembox>�s�
+.<@exit?@@�@??@��ddddd�[K[27Cembox>�s�
+.<@exit?@@�@??@@��ddddd�[K[28Cembox>�s�
+.<@exit?@@�@??@@@��ddddd�[K[29Cembox>�s�
+.<@exit?@@�@??@@@G��ddddd�[K[30Cembox>�s�
+.<@exit?@@�@??@@@G@��ddddd�[K[31Cembox>�s�
+.<@exit?@@�@??@@@G@+��ddddd�[K[32Cembox>�s�
+.<@exit?@@�@??@@@G@+@��ddddd�[K[33Cembox>�s�
+.<@exit?@@�@??@@@G@+@@��ddddd�[K[34Cembox>�s�
+.<@exit?@@�@??@@@G@+@@��ddddd�[K[35Cembox>�s�
+.<@exit?@@�@??@@@G@+@@@��ddddd�[K[36Cembox>�s�
+.<@exit?@@�@??@@@G@+@@��ddddd�[K[35Cembox>�s�
+.<@exit?@@�@??@@@G@+@@���ddddd�[K[36Cembox>�s�
+.<@exit?@@�@??@@@G@+@@���ddddd�[K[37C
+�s�: Command not found
+tish error: #-2
+embox>@Utz@@<�@G@+@@@embox>@Utz@@<�@G@+@@[K[22C�
+@Utz@@<�: Command not found
+tish error: #-2
+embox>Jd@@J@@@@@@@U?
+Jd: Command not found
+tish error: #-2
+embox>
+�JxportN@embox>
+�JxportN[K[17C�
+embox>�ortN@��@
+�ortN@��@: Command not found
+tish error: #-2
+embox>
+���+@@�?embox>
+���+@@�[K[17C�
+��: Command not found
+tish error: #-2
+embox>J@@Yv�!.<@J@@@??@@@G@+@@?@+@@@embox>[K[37C�
+J@@Yv�!.<@J@@@??@@@G@+@@: Command not found
+tish error: #-2
+embox>
+embox>��@@@@Ut�@@Rdddd��fui�
+��@@@@Ut�@@Rdddd��fui�: Command not found
+tish error: #-2
+embox>��@D@@Ur�@@<@@@@@?xlq�R
+��@D@@Ur�@@<@@@@@?xlq�R: Command not found
+tish error: #-2
+embox>x?@@@G@d@@@@@??@@@@@@U?
+x?@@@G@: Command not found
+tish error: #-2
+embox>
+?@@�
+?@�: Command not found
+tish error: #-2
+embox>J@??@J@@@@@@@Ut�@@@<@@@@@@@G@+@�[H[H[2J��
+J@??@J@@@@@@@Ut�@@: Command not found
+tish error: #-2
+embox>s��.<@@@dd@@@@@@@U?
+s��.<@@@dd@: Command not found
+tish error: #-2
+embox>
+���dddFd�[H[H[2J
+��+@@: Command not found
+tish error: #-2
+embox>J@C@@@@��s�.�<@@@@@@@??@
+J@C@@@@��s�.�: Command not found
+tish error: #-2
+embox>@@G@+[@�
+@@G@+[: Command not found
+tish error: #-2
+embox>J@@@@@@@Ut�@@@??@@C@@@@@Ut�@@<e@@@@?^@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

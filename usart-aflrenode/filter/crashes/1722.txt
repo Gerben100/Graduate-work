@@ -1,0 +1,120 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+���s
+���s: Command not found
+tish error: #-2
+embox>
+zembox>
+[K[7C@s
+tish error: #-22
+embox>
+zembox>
+z[K[6Cembox>y
+z[K[7Cembox>yk
+z[K[8Cembox>yk
+z[K[9Cembox>yk
+(z[K[10Cembox>yk
+(xz[K[11Cembox>yk
+(xpz[K[12C
+yk: Command not found
+tish error: #-2
+embox>
+jembox>
+j[K[6Cembox>p
+j[K[7C
+p: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>y
+�[K[7Cembox>yi
+�[K[8Cembox>yi
+�[K[9Cembox>yi
+ߓ[K[10Cembox>yi
+�x�[K[11Cembox>yi
+�xi�[K[12Cembox>yi
+�xid�[K[13Cembox>yi
+�xid(�[K[14Cembox>yi
+�xid(x�[K[15Cembox>yi
+�xid(xp�[K[16C
+yi: Command not found
+tish error: #-2
+embox>
+z�����embox>
+z����[K[12Cx(yp
+z����x(yp: Command not found
+tish error: #-2
+embox>
+d�x�(xp
+d: Command not found
+tish error: #-2
+embox>
+hembox>
+h[K[8Cd(�p
+hd(�p: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8Cembox>
+�[K[9Cembox>
+�[K[10Cembox>
+��[K[11Cembox>
+��[K[12Cembox>
+��"[K[13Cembox>
+��"[K[6Cembox>
+��"[K[7C
+embox>
+zembox>
+z[K[6Cembox>
+z[K[7Cembox>
+(z[K[8Cembox>
+(xz[K[9Cembox>
+(xpz[K[10C
+(xpz: Command not found
+tish error: #-2
+embox>
+��embox>
+��[Kembox>
+��[Kembox>
+��[Kembox>
+��[Kembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21C
+embox>
+zembox>
+z[Kembox>j
+z[Kembox>jb
+z[Kembox>jb
+z[Kembox>jb
+�z[Kembox>[K[11Cembox>[K[12Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14C
+jb: Command not found
+tish error: #-2
+embox>
+��ip� s�
+�: Command not found
+tish error: #-2
+embox>
+z(xp
+yi: Command not found
+tish error: #-2
+embox>
+���������cx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,203 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xe@embox>xe@[K[10Cembox>xe@[K[11Cembox>xe�@[K[12Cembox>xe�^@[K[13Cembox>xe�^e@[K[14Cembox>xe�^e�@[K[15Cembox>xe�^e�@[K[16Cembox>xe�^e��@[K[17Cembox>xe�^e��y@[K[18Cembox>xe�^e��ye@[K[19Cembox>xe�^e��ye�@[K[20Cembox>xe�^e��ye�x@[K[21Cembox>xe�^e��ye�xp@[K[22Cembox>xe�^e��ye�xpi@[K[23Cembox>xe�^e��ye�xpid@[K[24Cembox>xe�^e��ye�xpidn@[K[25Cembox>xe�^e��ye�xpidne@[K[26C
+embox>
+xe@embox>
+xe@[K[11Cembox>
+xe@[K[12Cembox>
+xe�@[K[13Cembox>
+xe�^@[K[14Cembox>
+xe�^e@[K[15Cembox>
+xe�^e�@[K[16Cembox>
+xe�^e��@[K[17Cembox>
+xe�^e��p@[K[18Cembox>
+xe�^e��p@[K[19Cembox>
+xe�^e��p[K[19Cxei�embox>
+xe�^e��pxei�[K[22Cembox>
+xe�^e��pxei�[K[23Cembox>
+xe�^e��pxei�[K[24Cembox>
+xe�^e��pxei�y�[K[25Cembox>
+xe�^e��pxei�ye�[K[26Cembox>
+xe�^e��pxei�ye��[K[27Cembox>
+xe�^e��pxei�ye�x�[K[28Cembox>
+xe�^e��pxei�ye�xp�[K[29Cembox>
+xe�^e��pxei�ye�xpi�[K[30Cembox>
+xe�^e��pxei�ye�xpid�[K[31Cembox>
+xe�^e��pxei�ye�xpid�[K[32Cembox>
+xe�^e��pxei�ye�xpid�x�[K[33C
+tish error: #-22
+embox>
+de�ei56r@@c6F6@@@iF@Axei56rxei56r#@@c6F6@ye
+tish error: #-22
+embox>�x�idne
+�x�idne: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>xe@embox>xe@[K[9Cembox>xe@[K[10Cembox>xe�@[K[11Cembox>xe��@[K[12Cembox>xe���@[K[13Cembox>xe����@[K[14Cembox>xe�����@[K[15Cembox>xe������@[K[16Cembox>xe�������@[K[17Cembox>xe��������@[K[18Cembox>xe���������@[K[19Cembox>xe����������@[K[20Cembox>xe�����������@[K[21Cembox>xe������������@[K[22Cembox>xe�������������@[K[23Cembox>xe��������������@[K[24Cembox>xe���������������@[K[25Cembox>xe����������������@[K[26Cembox>xe�����������������@[K[27Cembox>xe������������������@[K[28Cembox>xe�������������������@[K[29Cembox>xe�������������������p@[K[30Cembox>xe�������������������pi@[K[31Cembox>xe�������������������pid@[K[32Cembox>xe�������������������pidn@[K[33Cembox>xe�������������������pidne@[K[34C
+xe: Command not found
+tish error: #-2
+embox>
+xu@embox>
+xu@[K[11Cembox>
+xu@[K[12Cembox>
+xu�@[K[13Cembox>
+xu�^@[K[14Cembox>
+xu�^e@[K[15Cembox>
+xu�^e�@[K[16Cembox>
+xu�^e��@[K[17Cembox>
+xu�^e��o@[K[18Cembox>
+xu�^e��o�@[K[19Cembox>
+xu�^e��o�@[K[20Cembox>
+xu�^e��o��@[K[21Cembox>
+xu�^e��o��e@[K[22Cembox>
+xu�^e��o��ei@[K[23Cembox>
+xu�^e��o��ei�@[K[24Cembox>
+xu�^e��o��ei�@[K[23Cembox>
+xu�^e��o��ei�@[K[24Cembox>
+xu�^e��o��ei�@[K[25Cembox>
+xu�^e��o��ei�y�@[K[26Cembox>
+xu�^e��o��ei�y�@[K[27Cembox>
+xu�^e��o��ei�y �@[K[28Cembox>
+xu�^e��o��ei�y x�@[K[29Cembox>
+xu�^e��o��ei�y xp�@[K[30Cembox>
+xu�^e��o��ei�y xp�@[K[31Cembox>
+xu�^e��o��ei�y xp@�@[K[32Cembox>
+xu�^e��o��ei�y xp@�@[K[31Cembox>
+xu�^e��o��ei�y xp@�@[K[32Cembox>
+xu�^e��o��ei�y xp�@�@[K[33Cembox>
+xu�^e��o��ei�y xp�^@�@[K[34Cembox>
+xu�^e��o��ei�y xp�^e@�@[K[35Cembox>
+xu�^e��o��ei�y xp�^e�@�@[K[36Cembox>
+xu�^e��o��ei�y xp�^e��@�@[K[37Cembox>
+xu�^e��o��ei�y xp�^e��p@�@[K[38Cembox>
+xu�^e��o��ei�y xp�^e��p@�@[K[39Cembox>
+xu�^e��o��ei�y xp�^e��p�@[K[39Cembox>
+xu�^e��o��ei�y xp�^e��px�@[K[40Cembox>
+xu�^e��o��ei�y xp�^e��pxe�@[K[41Cembox>
+xu�^e��o��ei�y xp�^e��pxei�@[K[42Cembox>
+xu�^e��o��ei�y xp�^e��pxei��@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei��@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei��@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei���@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei�y��@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei�ye��@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei�ye���@[Kembox>
+xu�^e��o��ei�y xp�^e��pxei�ye�x��@[K
+tish error: #-22
+embox>pidne
+pidne: Command not found
+tish error: #-2
+embox>
+xe@embox>
+xe@[K[11Cembox>
+xe@[K[12Cembox>
+xe�@[K[13Cembox>
+xe�^@[K[14Cembox>
+xe�^e@[K[15Cembox>
+xe�^e�@[K[16Cembox>
+xe�^e��@[K[17Cembox>
+xe�^e��p@[K[18Cembox>
+xe�^e��p@[K[19Cembox>
+xe�^e��p[K[19Cxei�embox>
+xe�^e��pxei�[K[22Cembox>
+xe�^e��pxei�[K[23Cembox>
+xe�^e��pxei�[K[24Cembox>
+xe�^e��pxei�y�[K[25Cembox>
+xe�^e��pxei�y��[K[26Cembox>
+xe�^e��pxei�y�i�[K[27Cembox>
+xe�^e��pxei�y�in�[K[28Cembox>
+xe�^e��pxei�y�inp�[K[29Cembox>
+xe�^e��pxei�y�inpi�[K[30Cembox>
+xe�^e��pxei�y�inpid�[K[31Cembox>
+xe�^e��pxei�y�inpidn�[K[32Cembox>
+xe�^e��pxei�y�inpidne�[K[33C
+tish error: #-22
+embox>
+lsexport$��ces
+lsexport$��: Command not found
+tish error: #-2
+embox>
+x�^e��pxei�embox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33C
+tish error: #-22
+embox>
+xe@embox>
+xe@[?5h[?5lembox>[K[12Cembox>
+xe�^@embox>
+xe�^e@embox>
+xe�^e�@embox>
+xe�^e��@embox>
+xe�^e��p@embox>
+xe�^e��pe@embox>
+xe�^e��pex@embox>
+xe�^e��pexp@embox>
+xe�^e��pexpo@embox>
+xe�^e��pexpor@embox>
+xe�^e��pexport@embox>
+xe�^e��pexport�@embox>
+xe�^e��pexport�@embox>
+xe�^e��pexport��@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tish error: #-22
+embox>
+��embox>
+��embox>
+��embox>
+���embox>
+��]�embox>
+��]e�embox>
+��]e��embox>
+��]e���embox>
+��]e��p�embox>
+��]e��p�embox>
+��]e��pxei��^N��o�xei�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kxpidnembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tish error: #-22
+embox>xpqdne
+xpqdne: Command not found
+tish error: #-2
+embox>
+xe@ooooooooembox>[Kx
+xpqdnex: Command not found
+tish error: #-2
+embox>
+xe@x^e����ye�xpidne
+tish error: #-22
+embox>
+xeF@��pin�pxei�xvipidnels�xpidne
+tish error: #-22
+embox>
+xei./
+�i.���e: Command not found
+tish error: #-2
+embox>
+��e
+��e: Command not found
+tish error: #-2
+embox>
+xe@xei�y�
+tish error: #-22
+embox>
+xePxei�
+tish error: #-22
+embox>
+i
+tish error: #-22
+embox>
+��xei�������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,62 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l�s"�A�665cs6@@embox>l�s"�A�665cs6@@[K[21C��@@@@@@@@?;@o@5eembox>l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[6Cembox>@l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[7Cembox>@el�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[8Cembox>@exl�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[9Cembox>@expl�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[10Cembox>@expol�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[11Cembox>@exporl�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[12Cembox>@exportl�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[13Cembox>@export�l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[14Cembox>@export�@l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[15Cembox>@export�@@l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[16Cembox>@export�@@@l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[Kembox>@export�@@@@l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[18Cembox>@export�@@@@?l�s"�A�665cs6@@��@@@@@@@@?;@o@5e[K[19C
+@export�@@@@?l�s"�A�665cs6@@��@: Command not found
+tish error: #-2
+embox>�@@?@@@@@@@@@@@\
+�: Command not found
+tish error: #-2
+embox>
+l�s"�A�665cs6@@embox>
+l�s"�A�665cs6@@[K[22C��rt�@��@@?@@@@@@@@@@@\
+l�s"�A�665cs6@@��rt�@�: Command not found
+tish error: #-2
+embox>
+l�s"�A�665Os6@@@@@@@@@embox>
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@e
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@?
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? 
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? @
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? @p
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? @po
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? @por
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5eembox>@ex@@@@? @port
+l�s"�A�665Os6@@@@@@@@@��@?@@o@5e
+@ex@@@@?: Command not found
+tish error: #-2
+embox>���@@@@@\
+�: Command not found
+tish error: #-2
+embox>
+l�s"�A�665cs6@@pin        �~��@@@@@@@R@?@@o@5e��
+l�s"�A�665cs6@@pin: Command not found
+tish error: #-2
+embox> �port�@ls<?�exit@?@@@@@@@��@H@@@S@@\
+�port�@ls<?�exit: Command not found
+tish error: #-2
+embox>
+l�s"�A�665�s6@@embox>[K[22C��@@@@@@@@@?@@o@5eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

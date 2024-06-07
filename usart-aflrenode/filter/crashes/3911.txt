@@ -1,0 +1,168 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>?exW���������������>6TQe
+?exW���������������>6TQe: Command not found
+tish error: #-2
+embox>
+x]��i�x]��i�
+tish error: #-22
+embox>�ye�eeeeeeeeexporteeeeeeee�e
+embox>
+�tttttttttttttt�t�iee��
+�tttttttttttttt�t�iee��: Command not found
+tish error: #-2
+embox>
+_JJJ_cdJ_JJJ_JJJJ@@JJJ_aJB�eJ@@JJJ_J���@@
+_: Command not found
+tish error: #-2
+embox>�e��tR?@embox>�e��tR?@[K[6Cembox>�e��tR?@[K[7Cembox>�e��tR?@[K[8Cembox>@�e��tR?@[K[9Cembox>@�e��tR?@[K[10Cembox>@@�e��tR?@[K[11Cembox>@@@�e��tR?@[K[12Cembox>@@@@�e��tR?@[K[13Cembox>@@@@@�e��tR?@[K[14Cembox>@@@@@��e��tR?@[K[15Cembox>@@@@@���e��tR?@[K[16Cembox>@@@@@��\�e��tR?@[K[17Cembox>@@@@@��\��e��tR?@[Kembox>@@@@@��\�@�e��tR?@[Kembox>@@@@@��\�@?�e��tR?@[K[20Cembox>@@@@@��\�@?�e��tR?@[K[21Cembox>@@@@@��\�@?��e��tR?@[K[22Cembox>@@@@@��\�@?�e�e��tR?@[K[23C
+embox>
+x]��e�i
+�ye�eee�d� �embox>
+x]��e�i
+�ye�eee�d� 
+�ye�|ce�i
+�ye�
+tish error: #-22
+embox>expfee�d�%Teeyeeeeeeee�V
+expfee�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>[K[7Cembox>p[K[8Cembox>p][K[9Cembox>p]�[K[10Cembox>p]�[K[11Cembox>p]�i[K[12Cembox>p]�i[K[13Cembox>p]�i
+[K[14Cembox>p]�i
+[K[15Cembox>expfee�[K[14CeKedeeeeeee�������e
+expfee�eKedeeeeeee�������e: Command not found
+tish error: #-2
+embox>
+x]��i�
+�ye�eeeeeeee�e
+tish error: #-22
+embox>
+x]��i
+�^efeedeeG�e
+tish error: #-22
+embox>
+x]������eeeee���������eeeee�e
+tish error: #-22
+embox>
+�w�
+�w�: Command not found
+tish error: #-2
+embox>
+x]i
+���i
+�ye�eeelseee�e
+tish error: #-22
+embox>
+x]��i
+�ye�exeeeeee�e
+tish error: #-22
+embox>
+x]��i
+�ye�e�ee^lpgouo~ee�e
+tish error: #-22
+embox>
+�]eee�
+�ye�eeeee��h�e
+tish error: #-22
+embox>
+x]��{
+�ye�eeeeeeeeeeeeee�e
+tish error: #-22
+embox>
+l����t
+��t: Command not found
+tish error: #-2
+embox>
+�������������������������������e
+tish error: #-22
+embox>
+eZ�e
+tish error: #-22
+embox>
+x]��r
+@@@e?�� ex e�eeee�e
+tish error: #-22
+embox>
+eeeeeeeeeeeeeeyeeeeeeee  
+embox>
+embox>xxe
+embox>
+embox>xxei�e�ei
+xxei: Command not found
+tish error: #-2
+embox>ye��e �
+ye��e: Command not found
+tish error: #-2
+embox>
+�
+embox>x]��i
+�ye�eeeeeeee�e
+x]��i: Command not found
+tish error: #-2
+embox>
+x���i
+��ye�eeoeeeeB�e
+tish error: #-22
+embox>
+Uf{��
+�w��: Command not found
+tish error: #-2
+embox>
+x]��i[?5h[?5l��zd�eeeeee�e
+�w��eeeee�e: Command not found
+tish error: #-2
+embox>
+
+e: Command not found
+tish error: #-2
+embox>
+x]��ilogout
+�ye�eee�eeee�e
+tish error: #-22
+embox>
+w]iee
+�w��ee: Command not found
+tish error: #-2
+embox>
+�x]&�i
+�ye�����ȼ�����cdve
+tish error: #-22
+embox>
+x]6T@
+rt@<@@��i: Command not found
+tish error: #-2
+embox>
+eeeeeeee�e
+tish error: #-22
+embox>
+x]��Wd�ye�eeCeeeee�e
+tish error: #-22
+embox>
+x]��i
+�ye�ee�e
+tish error: #-22
+embox>
+]x]��i�ye�eeeeeeee�e
+tish error: #-22
+embox>
+x]��y
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

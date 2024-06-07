@@ -1,0 +1,161 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>BBBBBBBBBBBBBBBBBBBBBBBB
+embox>�BBembox>�B[K[8C�
+�B: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[10Cembox>
+[K[6Cembox>9
+[K[7Cembox>9
+[K[8Cembox>9�
+[K[9Cembox>9�
+[K[6Cembox>9�
+[K[7Cembox>9�
+[K[8Cembox>9�
+[K[9Cembox>9�
+[K[10Cembox>9�
+[K[6Cembox>99�
+[K[7Cembox>99�
+[K[8Cembox>9�9�
+[K[9C
+9: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C:�
+tish error: #-22
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>�embox>�[K[6Cembox>c�[K[7Cembox>cd�[K[8Cembox>cd��[K[9Cembox>cd��[K[10Cembox>cd�[K[10C9�embox>cd�9�[K[6C
+cd�9�: Command not found
+tish error: #-2
+embox>
+��exbv
+��exbv: Command not found
+tish error: #-2
+embox>
+dpiO
+dpiO: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+embox>[K[6CA���
+A: Command not found
+tish error: #-2
+embox>
+�tb �����
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�d
+[K[8Cembox>�de
+[K[9Cembox>�dex
+[K[10Cembox>�dexp
+[K[11Cembox>�dexpo
+[K[12Cembox>�dexpo~
+[K[13Cembox>�dexpo~t
+[K[14C
+�dexpo~t: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���}
+���}: Command not found
+tish error: #-2
+embox>
+d�
+tish error: #-22
+embox>
+�� �
+��: Command not found
+tish error: #-2
+embox>
+ xport
+tish error: #-22
+embox>
+ru
+��ru: Command not found
+tish error: #-2
+embox>
+bhRt
+��bhRt: Command not found
+tish error: #-2
+embox>
+epintnt
+��e: Command not found
+tish error: #-2
+embox>
+lxport
+embox>
+[?5h[?5l� yx�;y\exortort
+[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+exexexexpport
+��: Command not found
+tish error: #-2
+embox>
+���
+�����: Command not found
+tish error: #-2
+embox>
+A�export
+��A�export: Command not found
+tish error: #-2
+embox>
+r
+��: Command not found
+tish error: #-2
+embox>
+t
+��t: Command not found
+tish error: #-2
+embox>
+��exRoport
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

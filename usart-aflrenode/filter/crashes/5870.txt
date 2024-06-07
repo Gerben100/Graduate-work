@@ -1,0 +1,179 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6CEaEE
+EaEE: Command not found
+tish error: #-2
+embox>
+expoutE
+expoutE: Command not found
+tish error: #-2
+embox>ls 0 )w
+embox>
+pdnE
+pdnE: Command not found
+tish error: #-2
+embox> w
+embox>
+�u
+�u: Command not found
+tish error: #-2
+embox>
+��{l�\�w
+tish error: #-22
+embox>
+E 
+E: Command not found
+tish error: #-2
+embox>
+pk
+pk: Command not found
+tish error: #-2
+embox>
+EE
+EE: Command not found
+tish error: #-2
+embox>������w
+�����: Command not found
+tish error: #-2
+embox>�w
+embox>
+E����w
+E����: Command not found
+tish error: #-2
+embox>
+�`� w�`� w
+�`�: Command not found
+tish error: #-2
+embox>
+��yei�
+tish error: #-22
+embox>
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>[?5h[?5l
+�ww: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox> ��������������������w
+embox>
+Z
+Z: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+ll�lxYoUt
+l: Command not found
+tish error: #-2
+embox>
+dd1�<dx
+dd�<: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+�
+�
+: Command not found
+tish error: #-2
+embox>
+%�lxs
+%�lxs: Command not found
+tish error: #-2
+embox>[?5h[?5l
+embox>
+��d"w
+��: Command not found
+tish error: #-2
+embox>
+E��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>��w
+: Command not found
+tish error: #-2
+embox>
+
+��o
+tish error: #-22
+embox>
+l ��t
+l: Command not found
+tish error: #-2
+embox>
+)
+): Command not found
+tish error: #-2
+embox>w
+embox>
+E�[H[H[2J� w
+E��: Command not found
+tish error: #-2
+embox>
+Ew �
+Ew: Command not found
+tish error: #-2
+embox>
+w
+w: Command not found
+tish error: #-2
+embox>
+E/w
+E: Command not found
+tish error: #-2
+embox>
+E,exiE
+E,exiE: Command not found
+tish error: #-2
+embox>et� w
+et�: Command not found
+tish error: #-2
+embox>
+-
+-: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>w
+w: Command not found
+tish error: #-2
+embox>
+�E�������������pinU
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

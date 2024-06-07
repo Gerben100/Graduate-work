@@ -1,0 +1,191 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[8Cembox>[K[6C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�xQiembox>
+�xQi[K[13Ci
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>l
+[K[7Cembox>ll
+[K[8Cembox>llo
+[K[9Cembox>lloN
+[K[10Cembox>lloN�
+[K[11Cembox>lloN
+[K[10Cembox>lloN
+[K[11Cembox>lloN
+[K[12Cembox>lloNi
+[K[13Cembox>lloNio
+[K[14Cembox>lloNiok
+[K[15Cembox>lloNiok
+[K[6Cembox>lloNiok
+[K[7Cembox>lloNiok
+[K[17C
+embox>
+HgJy�do
+HgJy�: Command not found
+tish error: #-2
+embox>
+nov
+nov: Command not found
+tish error: #-2
+embox>
++gog��embox>
++gog�[K[12Cooout@�����g��embox>
++gog�ooout@�����g�[K[26Cooou@�
++gog�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>g
+[K[7Cembox>g�
+[K[8C
+g�: Command not found
+tish error: #-2
+embox>
++go���embox>
++go��[K[12Cg��embox>
++go��g�[K[17C
+embox>�t�g�
+�t�g�: Command not found
+tish error: #-2
+embox>
++s�
+embox>���embox>�t�g�[K[11C�s�g�md
+�t�g��s�g�md: Command not found
+tish error: #-2
+embox>
+ yx����l���lsembox>[K[21Coggout�g�
+yx���: Command not found
+tish error: #-2
+embox>
+logout+go���embox>
+logout+go����ߗ
+logout+go����ߗ: Command not found
+tish error: #-2
+embox>
+�Pyg�dembox>
+�Pyg�xi�embox>
+�Pyg�xi�embox>�
+�Pyg�xi�embox>�,
+�Pyg�xi�embox>�,r
+�Pyg�xi�embox>�,rz
+�Pyg�xi�embox>�,r
+�Pyg�xi�embox>�,
+�Pyg�xi�embox>�,
+�Pyg�xi�embox>�,�
+�Pyg�xi�
+�,: Command not found
+tish error: #-2
+embox>
++go���embox>[K�g��embox>[K_�ogod�
++go��: Command not found
+tish error: #-2
+embox>
++gZ����n��ogout�g�
++gZ��: Command not found
+tish error: #-2
+embox>
++go����g��gogout��
++go��: Command not found
+tish error: #-2
+embox>
++gW����out��
++gW��: Command not found
+tish error: #-2
+embox>
+)go+go���{�g��ogUut�g�
+)go+go���{: Command not found
+tish error: #-2
+embox>
++gU���hiNNNNNNNNNNNN[?5h[?5l@�p��t@@@@�
++gU��: Command not found
+tish error: #-2
+embox>@@@@@@
+embox>
++gho���@p��t@@@@�@@@@
+embox>d��~@�p��t@@@@�@@@@@@
+embox>?\P
+?\P: Command not found
+tish error: #-2
+embox>
+�exit�@o���exith 
+embox>N
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>N@NNN
+embox>0@@@@W�@@?\P
+0@@@@W�: Command not found
+tish error: #-2
+embox>
++go���hiNNNNNNNNNNNN@�p��t@@@@�@@
++go��: Command not found
+tish error: #-2
+embox>@@@@
+embox>
+in�
+tish error: #-22
+embox>
+cdo���hexportNNB@NN�hNN@�
++gZ��: Command not found
+tish error: #-2
+embox>p��t@@@@�expor�
+embox>@@@@@+@�@@@@@@�NNNNNEB\P
+embox>
++go���h��iNNNNNNNNNNNN@
++go��: Command not found
+tish error: #-2
+embox>p��t@@@@�@@@@&@
+embox>
++go���h iNNNNNNNNNNNN@�
++go��: Command not found
+tish error: #-2
+embox>p��t@@@@�@@@@@
+embox>
++go���h
++go��: Command not found
+tish error: #-2
+embox>p��t@@@@�@@@@@@
+embox>
++goNNNNNNN@�p��t@@@@�@@@@@@
+embox>@@�A@?\P
+@@�: Command not found
+tish error: #-2
+embox>
++go���hiNNNNNNNNNNNN@�
++go��: Command not found
+tish error: #-2
+embox>p��t@@@@�@@@cd@@@
+embox>
++go���h �
+embox>@�p���@@@@�@@@@@@
+embox>\P
+\P: Command not found
+tish error: #-2
+embox>
+Os��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+{N/
+{N/: Command not found
+tish error: #-2
+embox>
+�h�PPPP|
+�h�PPPP|: Command not found
+tish error: #-2
+embox>
+�c��xloo_eKdtxlogout�PPPPiPPPPPPPPPPPPPPP<PPPPPPP
+�c��xlo: Command not found
+tish error: #-2
+embox>PPP|
+PPP|: Command not found
+tish error: #-2
+embox>
+�����aembox>PPP|[K[10C[H[H[2Jembox>PPP|[K[10C ������lo�����aembox>
+�c��xlo[K[14C[H[H[2Jembox>
+�c��xlo[K[14C ������embox>
+�c��xlo ������[K[6Cembox>�
+�c��xlo ������[K[7Cembox>��
+�c��xlo ������[K[8Cembox>���
+�c��xlo ������[K[9Cembox>����
+�c��xlo ������[K[10Cembox>�����
+�c��xlo ������[K[11Cembox>������
+�c��xlo ������[K[12Cembox>�������
+�c��xlo ������[K[13Cembox>��������
+�c��xlo ������[K[14Cembox>���������
+�c��xlo ������[K[15Cembox>����������
+�c��xlo ������[K[16Cembox>�����������
+�c��xlo ������[K[17Cembox>������������
+�c��xlo ������[K[18Cembox>�������������
+�c��xlo ������[K[19C
+�������������: Command not found
+tish error: #-2
+embox>
+�c��xlo@_eKdtxlogout�PPPPiPPPPPPPPPPP�
+embox>PPPPPPPPPP
+PPPPPPPPPP: Command not found
+tish error: #-2
+embox>PPP|
+PPP|: Command not found
+tish error: #-2
+embox>
+�c��@[?5h[?5lexrtembox>
+�c��@exr[K[18Cloo_eKdtxlogruPPo_eKdembox>
+�c��@exrloo_eKdtxlogruPPo_eKxlogout�PPPP
+�c�: Command not found
+tish error: #-2
+embox>iP?PPCPPPPPPPPPPiP?PPCPPPPPPPPPPPPPPPPPPP|
+iP?PPCPPPPPPPPPPiP?PPCPPPPPPPPPPPPPPPPPPP|: Command not found
+tish error: #-2
+embox>
+�c��xloo_eKdtxlogout�DPPPiPPPPPPPPPPP��exitPPPP P
+�c��xlo: Command not found
+tish error: #-2
+embox>PPPPPPP|
+PPPPPPP|: Command not found
+tish error: #-2
+embox>
+�c��xlno_eKdtxlogou��PPPPiPP=PPPo_B
+POPPPPPPPPPPP: Command not found
+tish error: #-2
+embox>P@P|
+P@P|: Command not found
+tish error: #-2
+embox>
+loo_eKdtxlogout�PPPPiPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+lo: Command not found
+tish error: #-2
+embox>PPP|
+PPP|: Command not found
+tish error: #-2
+embox>
+�c��xloo_eKdtxlogoueeeeeeeeeeeeeeeeeeeeePPPexitP>
+�c��xlo: Command not found
+tish error: #-2
+embox>PQPPPo_eKdtxlogoueeeeeeeeeeeeeeeeeeeeePPPP>PPPPPP�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

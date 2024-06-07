@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�� embox>�� [K[10Cb��+^�
+��: Command not found
+tish error: #-2
+embox>
+���}�
+���}�: Command not found
+tish error: #-2
+embox>
+�st�xd^cde�px^ccpx^cde�px^cc
+�st�xd^cde�px^ccpx^cde�px^cc: Command not found
+tish error: #-2
+embox>
+��^embox>
+�st�xd^cde�px^ccpx^cde�px^cc[K[40C
+�st�xd^cde�px^ccpx^cde�px^cc: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C��$^^eexitsembox>
+����$^^eexits[K[6C
+����$^^eexits: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+&#^�
+tish error: #-22
+embox>
+�embox>
+�[K[8C�embox>
+�[K[9C@
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>i
+[K[7Cembox>i�
+[K[8Cembox>i��
+[K[9Cembox>i��@
+[K[10Cembox>i��@�
+[K[11Cembox>i��@�e
+[K[12Cembox>i��@�ex
+[K[13Cembox>i��@�exp
+[K[14Cembox>i��@�expo
+[K[15Cembox>i��@�expor
+[K[16Cembox>i��@�export
+[K[17Cembox>i��@�exporte
+[K[18Cembox>i��@�exportex
+[K[19Cembox>i��@�exportex
+[K[20C
+i��@�exportex: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+\\\\\\\\\\\\\\\}\\\\@\@@eYp@�@@@@`@@@@d@@@@\@:e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

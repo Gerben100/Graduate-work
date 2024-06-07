@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�e
+embox>
+ee
+ee: Command not found
+tish error: #-2
+embox>
+[?5h[?5lw$��e
+w$��e: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[8C
+tish error: #-22
+embox>
+embox>
+adduser.conf[K�embox>
+adduser.conf[K[19CN
+adduser.conf: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l i�
+i�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cexh@eei@expixi@expini
+exh: Command not found
+tish error: #-2
+embox>
+[?5h[?5lex[?5h[?5lex�h�tJJJJJJJJJJJt�[?5h[?5li
+exex�h�tJJJJJJJJJ: Command not found
+tish error: #-2
+embox>
+e`t�`t�rt[?5h[?5ll�rt[?5h[?5ll�#|[?5h[?5lM
+e`t�`t�rtl�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l�exi
+�exi: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l��exi
+��exi: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l� i
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l��exm
+��exm: Command not found
+tish error: #-2
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+���eai
+���eai: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�iV[?5h[?5lW��e
+�iV: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�[?5h[?5l[?5h[?5l�N��(xecd�6I56>6E@�e@<@@E@@@�6I5
+embox>
+: Command not found
+tish error: #-2
+embox>36a\@@exp@�@
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5leN�(xem[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+eN�: Command not found
+tish error: #-2
+embox>6a\@@exp@�@
+6a\@@exp@�@: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l�6I56>6E@�e@@@@3@@@�6I56axl]Y\
+�6I56>6E@: Command not found
+tish error: #-2
+embox>@exp@�@
+embox>
+eN�e?@@@3@@@�6I56a\@@I56>@E@��e?@@@3@@@�6I56a
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

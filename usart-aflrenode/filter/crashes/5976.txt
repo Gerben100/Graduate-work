@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>logoutxeiembox>logoutxei[K[16Cembox>logoutxei[K[17Cembox>logoutxei[K[18Cembox>logoutxei[K[18Cxeiembox>logoutxeixei[K[21Cembox>logoutxeixei[K[22Cembox>logoutxeixei�[K[23Cembox>logoutxeixei�y[K[24Cembox>logoutxeixei�yI[K[25Cembox>logoutxeixei�yI[K[26Cembox>logoutxeixei�yI�[K[27Cembox>logoutxeixei�yI�y[K[28Cembox>logoutxeixei�yI�yK[K[29Cembox>logoutxeixei�yI�y[K[28Cembox>logoutxeixei�yI�y[K[28Ce
+embox>
+�999i�#��yKe
+tish error: #-22
+embox>
+�xembox>
+�[K[9C��embox>
+���[K[6Cembox>@
+���[K[7Cembox>@@
+���[K[8Cembox>@@�
+���[K[9Cembox>@@�
+���[K[10Cembox>@@����[K[10Cembox>@@�e���[K[11C
+@@�: Command not found
+tish error: #-2
+embox>
+xeiembox>
+xei[K[6Cembox>
+xei[K[7Cembox>
+xei[K[8Cembox>\
+xei[K[9Cembox>\u
+xei[K[10Cembox>\u;
+xei[K[11Cembox>\u;
+xei[K[12Cembox>\u;Z
+xei[K[13Cembox>\u;
+xei[K[12Cembox>\u;c
+xei[K[13C
+embox>
+�o&yKiexexexportport�cdxportport�cd
+�o&yKiexexexportport�cdxportport�cd: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>�embox>�[K[6C
+embox>
+embox>
+embox>
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+xeiembox>
+xei[K[11Cembox>
+xei[K[12Cembox>
+xei�[K[13Cembox>
+xei�[K[14Cembox>
+xei�K[K[15Cembox>
+xei�K[K[16Cembox>
+xei�K[K[16Cembox>
+xei�K[K[15C
+tish error: #-22
+embox>
+�e�polog_�cde
+tish error: #-22
+embox>
+iembox>
+i[K[9Cembox>
+i[K[10Cembox>
+i�[K[11Cembox>
+i�y[K[12Cembox>
+i�y6[K[13Cembox>
+i�y6[K[14Cembox>
+i�y6[K[14Ce
+tish error: #-22
+embox>
+x�xaiembox>
+x�xai[K[13Cembox>
+x�xai[K[6C
+x�xai: Command not found
+tish error: #-2
+embox>cdya
+cdya: Command not found
+tish error: #-2
+embox>
+�miembox>
+�mi[K[13Cembox>
+�mi=[K[14Cembox>
+�mi=K[K[15Cembox>
+�mi=K[K[16Cembox>
+�mi=K[K[16Ce
+tish error: #-22
+embox>
+xeiembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[15Ce
+tish error: #-22
+embox>
+xei�Kcde
+tish error: #-22
+embox>
+�logout
+�logout: Command not found
+tish error: #-2
+embox>
+c���ls'e�cdOembox>
+c���ls'e�cdO
+c��: Command not found
+tish error: #-2
+embox>
+xejpine
+c�: Command not found
+tish error: #-2
+embox>
+xeieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+tish error: #-22
+embox>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

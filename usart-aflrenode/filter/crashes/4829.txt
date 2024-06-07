@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C�hl�[?5h[?5l�hl�xLxYt��y
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+TlT�ei���y
+tish error: #-22
+embox>
+iembox>
+i[K[6Cembox>y
+i[K[7Cembox>ys
+i[K[8Cembox>ysi[K[8Cembox>ys�i[K[9Cembox>ys�ei[K[10Cembox>ys�eii[K[11Cembox>ys�eiei[K[12Cembox>ys�eieii[K[13Cembox>ys�eieii[K[14Cembox>ys�eiei�i[K[15Cembox>ys�eiei��i[K[16Cembox>ys�eiei���i[K[17Cembox>ys�eiei���li[K[18Cembox>ys�eiei���li[K[19Cembox>ys�eiei���l�i[K[20Cembox>ys�eiei���l��i[K[21Cembox>ys�eiei���l���i[K[22Cembox>ys�eiei���l���li[K[23C
+ys�eiei: Command not found
+tish error: #-2
+embox>
+y
+tish error: #-22
+embox>
+�l���������������s�ei���y
+tish error: #-22
+embox>
+�tembox>
+�t[K[10Cembox>
+��t[K[11Cembox>
+��t[K[12Cembox>
+��t[K[11Cembox>
+��{t[K[12Cembox>
+��{t[K[13Cembox>
+��{t[K[12Cembox>
+��{�t[K[13Cembox>
+��{t[K[14Cembox>
+��{�t[K[15Cembox>
+��{�6t[K[16Cembox>
+��{�6Tt[K[17Cembox>
+��{�6TFt[K[18Cembox>
+��{�6TFt[K[19Cembox>
+��{�6TF�t[K[20C
+�: Command not found
+tish error: #-2
+embox>
+cd ty
+tish error: #-22
+embox>
+i
+tish error: #-22
+embox>
+embox>
+[K[14C��� l
+tish error: #-22
+embox>
+embox>
+[K[7Ci�ls��Hy���y
+tish error: #-22
+embox>
+�embox>
+�[K[6Cembox>@
+�[K[7C
+@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>/
+[K[7Cembox>/[K[7CXtlembox>/Xtl[K[10Cl��logo�t
+Unreconized command: /Xtll��logo�t
+embox>@~embox>@~[K[6Cembox>X@~[K[7Cembox>Xt@~[K[8Cembox>Xtc@~[K[9Cembox>Xtcd@~[K[10Cembox>Xtcdl@~[K[11Cembox>Xtcdl[K[11C[��logoXt
+Xtcdl[��logoXt: Command not found
+tish error: #-2
+embox>@i
+@i: Command not found
+tish error: #-2
+embox>
+Xtlog
+Xtlog: Command not found
+tish error: #-2
+embox>
+embox>[K
+embox>
+embox>[Kembox>[Kl�q�qq��tlo�ol�embox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>
+o��
+tish error: #-22
+embox>l���logfXt[?5h[?5l@
+embox>e~i
+e~i: Command not found
+tish error: #-2
+embox>
+oXt
+tish error: #-22
+embox>l��lo�
+embox>�~i
+�~i: Command not found
+tish error: #-2
+embox>
+Xt
+tish error: #-22
+embox>l��logogoXt�@
+embox>e�i
+e�i: Command not found
+tish error: #-2
+embox>
+cdcc�nk
+cdcc�nk: Command not found
+tish error: #-2
+embox>
+oXt
+tish error: #-22
+embox>l��lovoX����e~i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

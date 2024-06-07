@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e)�kexport �@
+e)�kexport: Command not found
+tish error: #-2
+embox>
+xeu 
+xeu: Command not found
+tish error: #-2
+embox>
+expor���
+expor���: Command not found
+tish error: #-2
+embox>
+xe�Kembox>
+xe�[K[10C�x��xpi�[?5h[?5l
+embox>exitn7v77i�7777piR77777777777777
+exitn7v77i�7777piR77777777777777: Command not found
+tish error: #-2
+embox>77d
+77: Command not found
+tish error: #-2
+embox>
+xey�&xeiembox>
+xey�&xei[Kembox>
+xey�&xei�[Kembox>
+xey�&xei��[Kembox>
+xey�&xei��y[Kembox>
+xey�&xei��ye[K[19Cembox>
+xey�&xei��ye�[K[20Cembox>
+xey�&xei��ye��[K[21Cembox>
+xey�&xei��ye���[K[22Cembox>
+xey�&xei��ye���i[Kembox>
+xey�&xei��ye���i[Kߎ�(xpi�u �
+xey�&xei��ye���i: Command not found
+tish error: #-2
+embox>
+��yig���yig�embox>[K[22Cembox>[K[21C@
+tish error: #-22
+embox>
+�e�embox>
+�e[K[9C���
+�e���: Command not found
+tish error: #-2
+embox>
+xepembox>
+�e�����
+�e����: Command not found
+tish error: #-2
+embox>
+xeyi�x�xpi�u �embox>[K[24Cpi�u 
+xeyi�x�xpi�u: Command not found
+tish error: #-2
+embox>
+�yiG�G�k
+�yiG�: Command not found
+tish error: #-2
+embox>
+exportxx��_�
+exportxx�: Command not found
+tish error: #-2
+embox>
+xeyi�(
+embox>
+xeyi߷�6653333333��@@@ @@@@@?@@@@@A@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

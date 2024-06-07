@@ -1,0 +1,68 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�p�6@t@@@@exp@�@@6@@?\PQ@e666666666666666666xp@
+�p�6@t@@@@exp@�@@6@@?\PQ@e666666666666666666xp@: Command not found
+tish error: #-2
+embox>@?@@Texi@@�@@T@@@@@@?�@6@@@\@@e
+embox>
+�p�6@t@@@@exp@�@@6@@?\PP@expd�@H?@@Texi@@�@@
+�p�6@t@@@@exp@�@@6@@?\PP@expd�: Command not found
+tish error: #-2
+embox>T@@@llgllllllllllll llembox>
+�p�6@t@@@@exp@�@@6@@?\PP@expd�@@@?�@6@@@\@@e
+�p�6@t@@@@exp@�@@6@@?\PP@expd�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@embox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@?@@Texi@@�@@T@@
+�p�6@t@@@@exp@�@@6@@?\PP@exp: Command not found
+tish error: #-2
+embox>@@@@?�@6@@@o@@e
+@@@@?�@6@@@o@@e: Command not found
+tish error: #-2
+embox>
+�p�6@t@@@@exp@�@@6@@?\PP@exp@�??B@Texi@@�@@T@@
+�p�6@t@@@@exp@�@@6@@?\PP@exp@: Command not found
+tish error: #-2
+embox>@@@@?�@6@@@\@@e
+@@@@?�@6@@@\@@e: Command not found
+tish error: #-2
+embox>
+�p�6@[@@n@,6@��������@Qexport
+@@@@?�@6@@@o@@e: Command not found
+tish error: #-2
+embox>
+�p�6!t@@T�+@3
+�p�6!t@@T�+@3: Command not found
+tish error: #-2
+embox>@ei@@@@@@�p@�@@6@@?\PP@exp@
+@@@@?�@6@@@\@@e@@@@: Command not found
+tish error: #-2
+embox>����:@@?�@6@@@i@@�@@T�@@\@@e
+���: Command not found
+tish error: #-2
+embox>
+�p��@�@@�@@b\�6@��.P@fxp@e��@�
+embox> ��@@6@@
+embox>?\�@@T@@@Q@@?�@6mxporte
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

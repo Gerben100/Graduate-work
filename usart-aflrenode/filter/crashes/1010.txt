@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e@@[@@$�@-@@@@@|@@
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�e
+�[K[8Cembox>�e�
+�[K[9Cembox>�e�7
+�[K[10Cembox>�e�76
+�[K[11Cembox>�e�765
+�[K[12Cembox>�e�7656
+�[K[13Cembox>�e�7656Z
+�[K[14Cembox>�e�7656Z@
+�[K[15Cembox>�e�7656Z@+
+�[K[16Cembox>�e�7656Z@+\
+�[K[17Cembox>�e�7656Z@+\/
+�[K[18Cembox>�e�7656Z@+\/@
+�[K[19Cembox>�e�7656Z@+\/@$
+�[K[20Cembox>�e�7656Z@+\/@$�
+�[K[21Cembox>�e�7656Z@+\/@$�@
+�[K[22Cembox>�e�7656Z@+\/@$�@@
+�[K[23Cembox>�e�7656Z@+\/@$�@@@
+�[K[24Cembox>�e�7656Z@+\/@$�@@@@
+�[K[25Cembox>�e�7656Z@+\/@$�@@@@\
+�[K[26Cembox>�e�7656Z@+\/@$�@@@@\@
+�[K[27Cembox>�e�7656Z@+\/@$�@@@@\@@
+�[K[28C
+�e�7656Z@+\/@$�@@@@\@@: Command not found
+tish error: #-2
+embox>
+xe�6656�@\@@$�@I@@@@\@@
+tish error: #-22
+embox>
+xm=6656e@@\@@$�@
+tish error: #-22
+embox>@@
+@@: Command not found
+tish error: #-2
+embox>
+5embox>[K[6C6e@@\@@e�
+embox>@$�logoutembox>@$�logout[K[6Cembox>�@$�logout[K[7Cembox>�H@$�logout[K[8Cembox>�H@$�logout[K[8Cembox>�H@@$�logout[K[9Cembox>�H@�@$�logout[K[10Cembox>�H@@$�logout[K[9Cembox>�H@@$�logout[K[10Cembox>�H@@$�logout[K[11Cembox>�H@$@$�logout[K[12Cembox>�H@$�@$�logout[K[13Cembox>�H@$�@$�logout[K[6Cembox>�H@$�@$�logout[K[7Cembox>@�H@$�@$�logout[K[8Cembox>@&�H@$�@$�logout[K[9Cembox>@&@�H@$�@$�logout[K[10Cembox>@&@�H@$�@$�logout[K[11Cembox>@&@��H@$�@$�logout[K[12Cembox>@&@��H@$�@$�logout[K[13Cembox>@&@��H@$�@$�logout[K[14Cembox>@&@�@�H@$�@$�logout[K[15Cembox>@&@�@e�H@$�@$�logout[K[16Cembox>@&@�@ex�H@$�@$�logout[K[17Cembox>@&@�@exp�H@$�@$�logout[K[18Cembox>@&@�@expo�H@$�@$�logout[K[19Cembox>@&@�@expor�H@$�@$�logout[K[20Cembox>@&@�@export�H@$�@$�logout[K[21C
+embox>
+-@d@
+tish error: #-22
+embox>
+�embox>
+[K[7Cembox>[K[6C
+embox>
+]�i
+]�i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>[K[7Cexpr 
+embox>
+embox>
+[K[8Cembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+]:�@
+]:�@: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C@
+@: Command not found
+tish error: #-2
+embox>
+@ltg�ut
+@ltg�ut: Command not found
+tish error: #-2
+embox>
+O��
+O��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+2
+2: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+y�
+y�: Command not found
+tish error: #-2
+embox>
+�
+@ltg�ut: Command not found
+tish error: #-2
+embox>
+9
+embox>
+�
+tish error: #-22
+embox>
+���x
+@ltg�utx: Command not found
+tish error: #-2
+embox>
+Xl��s
+tish error: #-22
+embox>
+bxl
+b: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+��in��
+��in��: Command not found
+tish error: #-2
+embox>
+������
+������: Command not found
+tish error: #-2
+embox>
+�e��[?5h[?5l������
+tish error: #-22
+embox>
+"dogout[?5h[?5lw�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

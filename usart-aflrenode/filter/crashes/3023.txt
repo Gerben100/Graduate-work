@@ -1,0 +1,71 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>vl�(���
+vl�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�oov���
+�oov���: Command not found
+tish error: #-2
+embox>
+(��g\(���
+(��g\(���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cltlt��
+ltlt��: Command not found
+tish error: #-2
+embox>
+�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6CN)N)embox>N)N)[K[6Cembox>eN)N)[K[7Cembox>exN)N)[K[8Cembox>expN)N)[K[9Cembox>expNN)N)[K[10Cembox>ltlt��[K[12Cembox>ltlt��[K[6Cembox>eltlt��[K[7Cembox>exltlt��[K[8Cembox>expltlt��[K[9C
+expltlt��: Command not found
+tish error: #-2
+embox>
+vgl�g��������z��������
+vgl�g��������z��������: Command not found
+tish error: #-2
+embox>
+�loloembox>
+vgl�g��������z��������embox>expltlt��[K[15C�
+expltlt��: Command not found
+tish error: #-2
+embox>
+vlog�oembox>expltlt��[K[15Cembox>
+vgl�g��������z��������embox>expltlt��[K[15Cembox>ltlt��[K[12Cembox>
+��[K[9C
+embox>
+(��g\(���[K[17Cembox>�oov���[K[13Cembox>vl�[K[9Cp�nembox>vl�p�n[K[6Cembox>vl�p�n[K[7Cembox>vl�p�n[K[8Cembox>vl�p�n[K[9Cembox>pvl�p�n[K[10Cembox>p�vl�p�n[K[11Cembox>p�nvl�p�n[K[12C
+embox>embox>expltlt��[K[15Cembox>
+vgl�g��������z��������
+vgl�g��������z��������: Command not found
+tish error: #-2
+embox>
+vlog�oembox>[K[33Cembox>expltlt��[K[15Cembox>[Kembox>expltlt��embox>[Kembox>
+��
+embox>[Kp�n
+embox>
+expltlt��: Command not found
+tish error: #-2
+embox>
+vlog�o�p�n
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

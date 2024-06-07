@@ -1,0 +1,92 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exembox>ex[K[6Cembox>ex[K[7Cembox>ex[K[8Cembox>pex[K[9Cembox>p@ex[K[10Cembox>p@�ex[K[11Cembox>p@�Xex[K[12Cembox>p@�X ex[K[13Cembox>p@�X sex[K[14Cembox>p@�X seex[K[15Cembox>p@�X se�ex[K[16Cembox>p@�X se�yex[K[17Cembox>p@�X se�ySex[K[18Cembox>p@�X se�ySSex[K[19Cembox>p@�X se�ySSRex[K[20Cembox>p@�X se�ySSRSex[K[21Cembox>p@�X se�ySSRSSex[K[22Cembox>p@�X se�ySSRSSSex[K[23Cembox>p@�X se�ySSRSSSSex[K[24Cembox>p@�X se�ySSRSSSSSex[K[25Cembox>p@�X se�ySSRSSSSSSex[K[26Cembox>p@�X se�ySSRSSSSSSex[K[27C
+embox>
+p�SSexit��@�embox>
+p�SSexit��@�[K[22Cembox>
+p�SSexit��@�[K[23Cembox>
+p�SSexit��@�S[K[24Cembox>
+p�SSexit��@�SS[K[25Cembox>
+p�SSexit��@�SS;[K[26Cembox>
+p�SSexit��@�SS;S[K[27Cembox>
+p�SSexit��@�SS;SS[K[28Cembox>
+p�SSexit��@�SS;SS[K[29C
+p�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+pi�X embox>
+pi�X[K[11C�nSp�SSSSSSSS1GSembox>
+pi�X�nSp�SSSSSSSS1G[K[27C�SSSSS
+pi�X�: Command not found
+tish error: #-2
+embox>
+wk�t
+wk�t: Command not found
+tish error: #-2
+embox>
+po�X embox>
+wk�t[K[11C�SSSSSS
+wk�t�: Command not found
+tish error: #-2
+embox>
+�XSembox>
+wk�t�[K[12C�QSSS SSS���FSembox>
+wk�t��QSSS SSS���F[K[28CSSSSS
+wk�t��: Command not found
+tish error: #-2
+embox>
+pi�X embox>
+wk�t��[K[13C��SSS
+wk�t����: Command not found
+tish error: #-2
+embox>
+pi�X embox>
+wk�t����[K[15C�SSSSS�cx�66F6>�@@@Qexport@<@@@@c66cd>6T@
+wk�t�����: Command not found
+tish error: #-2
+embox>�-@@@@@@@@?
+�-@@@@@@@@?: Command not found
+tish error: #-2
+embox>
+pi�X embox>�-@@@@@@@@?�SSSSSembox>[K[6Cdx�66Fexit@embox>dx�66Fexit@embox>pdx�66Fexit@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+pin@@@@Qexport@<@66cd>dx�66Fexit@: Command not found
+tish error: #-2
+embox>6T@embox>6T@�-@@@@@@@@?
+6T@�-@@@@@@@@?: Command not found
+tish error: #-2
+embox>
+pi�X embox>�-@@@@@@@@?���S�cx�66F6>dT@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+��@@@@@Qexpopinrt@<@: Command not found
+tish error: #-2
+embox>@@@@@@\@@@@embox>�-@@@@@@@@?tembox>[K�@c66cd>6T@embox>[K�-@@@@@@@@?
+�-@@@@@@@@?t: Command not found
+tish error: #-2
+embox>
+pi�� embox>�-@@@@@@@@?�SSSSS�cx�66F6>dT@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+��@@@@@Qexport@<@@@@@@�-@@@@@@@@?�: Command not found
+tish error: #-2
+embox>@@\@@@@rtembox>@@\@@@@rt�@c66cd>6T@embox>[K�-@@@@@@A@?
+@@\@@@@rt: Command not found
+tish error: #-2
+embox>
+pi�X x�@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

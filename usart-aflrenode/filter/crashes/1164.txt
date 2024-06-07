@@ -1,0 +1,676 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+lq0�
+embox>embox>tish[K[10C 0
+
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+{
+tish error: #-22
+embox>
+O
+O: Command not found
+tish error: #-2
+embox>
+lq Rn�
+lq: Command not found
+tish error: #-2
+embox>
+lqpqrpynn�
+lqpqrpynn�: Command not found
+tish error: #-2
+embox>
+lq�gn�
+lq�gn�: Command not found
+tish error: #-2
+embox>
+�qpRLl
+�qpRLl: Command not found
+tish error: #-2
+embox>
+lqURn�
+lqURn�: Command not found
+tish error: #-2
+embox>
+lq RR�
+lq: Command not found
+tish error: #-2
+embox>
+n�qrRn�
+n�qrRn�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Ca
+embox>
+llsoutembox>[K[6C������outembox>[K[6C�����
+����: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>tish[K[10C
+tish: failed to exec tish: Out of memory
+tish error: #-12
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+embox>[K[6C"k���
+(null): Command not found
+tish error: #-2
+embox>
+F�
+F�: Command not found
+tish error: #-2
+embox>
+��[H[H[2Jembox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+gembox>
+[K[7Cembox>
+[K[6C
+tish error: #-22
+embox>
+��
+tish error: #-22
+embox>
+embox>[K[6C�����
+�����: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8Ch�embox>
+�h[K[10C`��
+�h: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C
+embox>
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C"i���
+(null): Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C
+embox>
+�@embox>
+�[K[8Cz�{A��
+�z�{A��: Command not found
+tish error: #-2
+embox>
+i���
+i�: Command not found
+tish error: #-2
+embox>
+`x@}�`.
+`x@}�`.: Command not found
+tish error: #-2
+embox>
+x���
+x: Command not found
+tish error: #-2
+embox>
+embox>[K[6C"�
+(null): Command not found
+tish error: #-2
+embox>
+embox>[K[6C/.pembox>/.p[K[6Cembox>/.p[K[7C
+embox>
+�!i��
+�!i��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C�
+tish error: #-22
+embox>
+embox>[K[6C"exportd��b�[?5h[?5l
+(null): Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@��YinexporptoTt�_�
+@�: Command not found
+tish error: #-2
+embox>
+�@�
+tish error: #-22
+embox>
+@�embox>
+@[K[8Ce�i�i�
+@e: Command not found
+tish error: #-2
+embox>
+@�embox>
+@[K[8Ce�ei�|�embox>
+@e�ei�|[K[14Ce�ei�
+@e�ei�|e�ei�: Command not found
+tish error: #-2
+embox>
+@�embox>
+@[K[8C}export�
+@}export�: Command not found
+tish error: #-2
+embox>
+@�[H[H[2Jembox>
+@�[K[9Cembox>
+@[K[8Ciiza@�embox>
+@iiza@�[K[14Ci��i�
+@iiza@�i�: Command not found
+tish error: #-2
+embox>
+@�Hoe�
+@�Hoe�: Command not found
+tish error: #-2
+embox>
+��I
+��I: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+@oooooooooooooooooooooooooooooooologout�iexit�
+@oooooooooooooooooooooooooooooooologout�iexit�: Command not found
+tish error: #-2
+embox>
+�"lo@outH�embox>
+�"lo@outH[K[42Cembox>
+�"lo@outH[K[41Cembox>
+�"lo@outpH[K[42Cembox>
+�"lo@outpiH[K[43Cembox>
+�"lo@outpinH[K[44Cembox>
+�"lo@outpin�H[K[45Cembox>
+�"lo@outpin��H[K[46Cembox>
+�"lo@outpin��eH[K[47Cembox>
+�"lo@outpin��eiH[K[48Cembox>
+�"lo@outpin��ei�H[K[49Cembox>
+�"lo@outpin��ei�iHembox>
+�"lo@outpin��ei�i�H
+�"lo@outpin��ei�i�H: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>[K[6C@
+embox>�@��@
+embox>�@�@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+
+embox>@�@��@
+@�@��@: Command not found
+tish error: #-2
+embox>
+.������@
+.���: Command not found
+tish error: #-2
+embox>
+cdembox>[K[6C��[?5h[?5l@
+embox>}@
+}@: Command not found
+tish error: #-2
+embox>
+d�c%ls�r`
+d�c%ls�r`: Command not found
+tish error: #-2
+embox>
+ ��?
+embox>�@@
+�@@: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+�[K[8Cembox>�l
+�[K[9Cembox>�lo
+�[K[10Cembox>�log
+�[K[11Cembox>�logo
+�[K[12Cembox>�logog
+�[K[13Cembox>�logogo
+�[K[14Cembox>�logogou
+�[K[15Cembox>�logogou`
+�[K[16Cembox>
+�[K[6Cembox>[?5h[?5l
+�[K[7Cembox>[?5h[?5l�
+�[K[8Cembox>[?5h[?5l��
+�[K[9Cembox>[?5h[?5l���
+�[K[10Cembox>[?5h[?5l���
+�[K[11Cembox>[?5h[?5l���@
+�[K[12Cembox>[?5h[?5l���@�
+�[K[13Cembox>[?5h[?5l���@��
+�[K[14Cembox>[?5h[?5l���@��@
+�[K[15C
+embox>ou@[?5h[?5l���@��@
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�!���@99
+embox>�
+embox>��
+embox>�@99
+embox>�
+embox>��
+embox>���
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+���@exiq���@ex
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+embox>�?
+�?: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cl��membox>l��m[K[6Cembox>l��m[K[7Cembox>�l��m[K[8Cembox>�\l��m[K[9Cembox>�\�l��m[K[10Cembox>�\�ll��m[K[11Cembox>�\�ll��m[K[12Cembox>�\�l�l��m[K[13Cembox>�\�l��l��m[K[14Cembox>�\�l���l��m[K[15Cembox>�\�l���l��m[K[16Cembox>�\�l���l��m[K[17Cembox>�\�l����l��m[K[18Cembox>�\�l����\l��m[K[19C
+embox>
+Ogn@
+Ogn@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7CRe
+Re: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7CRRRRRRRRRRRR3RRRRRRR6RRRRRRRRRRu�g
+RRRRRRRRRRRR3RRRRRRR6RRRRRRRRRRu: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C��
+��: Command not found
+tish error: #-2
+embox>
+cp�
+cp�: Command not found
+tish error: #-2
+embox>
+lQgout
+tish error: #-22
+embox>
+6�porteG
+6�porteG: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�
+embox>�
+embox>
+K
+K: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7Che� 
+he: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�Qepin
+�Qepin: Command not found
+tish error: #-2
+embox>
+g
+g: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ls�
+�ls�: Command not found
+tish error: #-2
+embox>
+pin��in��embox>
+pin��in�[K[17C�embox>
+pin��in��[K[20Cembox>
+pin��in��[K[21Cembox>
+pin��in���[K[22Cembox>
+pin��in���v[K[23Cembox>
+pin��in���[K[22Cembox>
+pin��in��[K[21Cembox>
+pin��in���[K[22Cembox>
+pin��in���[K[23Cembox>
+pin��in���[K[24Cembox>
+pin��in���[K[25Cembox>
+pin��in���[K[24Cembox>
+pin��in���[K[25Cembox>
+pin��in����[K[26Cembox>
+pin��in����v[K[27Cembox>
+pin��in����[K[26Cembox>
+pin��in����l[K[27Cembox>
+pin��in����ls[K[28C
+pin: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�w#lo�outiembox>
+�w#lo�out[K[17C�cexi|��
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ex
+[K[8Cembox>exi
+[K[9Cembox>exit
+[K[10Cembox>exit
+[K[9Cembox>exit
+[K[8Cembox>exit
+[K[7Cembox>exit
+[K[6Cembox>exit
+[K[7Cembox>lexit
+[K[8Cembox>lsexit
+[K[9Cembox>lsexit
+[K[10C
+embox>
+embox>
+[K[7C��iembox>
+��i[K[12Cembox>
+��il[K[13Cembox>
+��ilo[K[14Cembox>
+��ilog[K[15Cembox>
+��ilogo[K[16Cembox>
+��ilogou[K[17Cembox>
+��ilogout[K[18Cembox>
+��ilogout[K[19Cembox>
+��ilogout�[K[20Cembox>
+��ilogout�v[K[21Cembox>
+��ilogout�ve[K[22Cembox>
+��ilogout�ve�[K[23Cembox>
+��ilogout�ve��[K[24C
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��weiembox>
+��wei[K[12Cembox>
+��wei[?5h[?5l[K[13Cembox>
+��wei[?5h[?5l[K[13C�weembox>
+��wei[?5h[?5l�w[K[16Cembox>
+��wei[?5h[?5l�w[K[16Cembox>
+��wei[?5h[?5l�w[K[17Cembox>
+��wei[?5h[?5l�w�[K[18Cembox>
+��wei[?5h[?5l�w��[K[19Cembox>
+��wei[?5h[?5l�w��e[K[20Cembox>
+��wei[?5h[?5l�w��e�[K[21Cembox>
+��wei[?5h[?5l�w��e��[K[22Cembox>
+��wei[?5h[?5l�w��e��[K[23Cembox>
+��wei[?5h[?5l�w��e���[K[24Cembox>
+��wei[?5h[?5l�w��e���e[K[25Cembox>
+��wei[?5h[?5l�w��e���e�[K[26Cembox>
+��wei[?5h[?5l�w��e���e��[K[27C
+��wei[?5h[?5l: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9Ceiembox>
+��ei[K[11Cembox>
+��eiX[K[12Cembox>
+��eiXe[K[13Cembox>
+��eiXe[K[14Cembox>
+��eiXe�[K[15Cembox>
+��eiXe�[K[16Cembox>
+��eiXe��[K[17C
+��eiXe: Command not found
+tish error: #-2
+embox>
+����e��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�weexitiembox>
+�weexiti[K[16Cembox>
+�weexitie[K[17Cembox>
+�weexitiei[K[18Cembox>
+�weexitiei[K[19Cembox>
+�weexitiei[K[18Cembox>
+�weexitiei[K[19Cembox>
+�weexitiei�[K[20Cembox>
+�weexitiei�v[K[21Cembox>
+�weexitiei�ve[K[22Cembox>
+�weexitiei�ve�[K[23Cembox>
+�weexitiei�ve��[K[24Cembox>
+�weexitiei�ve��[K[25Cembox>
+�weexitiei�ve���[K[26Cembox>
+�weexitiei�ve���v[K[27Cembox>
+�weexitiei�ve���ve[K[28Cembox>
+�weexitiei�ve���ve�[K[29Cembox>
+�weexitiei�ve���ve��[K[30C
+tish error: #-22
+embox>
+w��wls�d�wd@e�embox>[K[6C
+embox>
+�l_gut
+�l_gut: Command not found
+tish error: #-2
+embox>
+|��
+|��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C�i���vs��
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>O
+[K[9Cembox>Ot
+[K[10Cembox>Ot�
+[K[11C
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cexport@�
+export@�: Command not found
+tish error: #-2
+embox>
+�@��
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C@�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+exportembox>
+export[K[13Cembox>
+export[K[13C@��
+export@��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6C
+tish error: #-22
+embox>
+logout
+embox>
+pin�
+pin�: Command not found
+tish error: #-2
+embox>
+pipi����
+pipi����: Command not found
+tish error: #-2
+embox>
+exitembox>
+exit[K[11Cembox>
+pipi����[K[15C�$i@embox>
+pipi�����$i@[K[19Cembox>
+pin�[K[11C�$embox>
+pin��$[K[6Cembox>d
+pin��$[K[7Cembox>dg
+pin��$[K[8C
+dg: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ddn�
+tish error: #-22
+embox>
+Isembox>
+Is[K[6Cembox>
+Is[K[7Cembox>
+Is[K[8Cembox>
+Is[K[9Cembox>�
+Is[K[10Cembox>��
+Is[K[11Cembox>��
+Is[K[12Cembox>���
+Is[K[13Cembox>���
+Is[K[14Cembox>����
+Is[K[15Cembox>����I
+Is[K[16C
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�js�
+�js�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+,@�
+,@�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+logoutls�
+logoutls�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ 
+embox>
+Ks
+tish error: #-22
+embox>
+Re�xi�weS}}}}}}�}
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

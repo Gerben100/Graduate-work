@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>1�xembox>[K[6Cembox>[K[6C1�embox>[K[6Cembox>[K[6CexporX
+exporX: Command not found
+tish error: #-2
+embox>
+xxx����pembox>[K[6Cembox>[K[6Cembox>[K[6C���������������embox>[K[6Cembox>[K[6Cembox>[K[6Cepxportembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�V
+�V: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+xxx�dexpembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�V��
+�V��: Command not found
+tish error: #-2
+embox>
+xxx�dexp�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>r[K[7Cembox>r[K[6Cembox>�r[K[7Cembox>�er[K[8Cembox>�e�r[K[9Cembox>�e�ir[K[10Cembox>�e�itr[K[11Cembox>�e�it�r[K[12Cembox>r[K[6Cembox>r[K[7Cembox>�r[K[8Cembox>�Vr[K[9Cembox>�V�r[K[10Cembox>�V��r[K[11C
+�V��r: Command not found
+tish error: #-2
+embox>
+xh}embox>
+xh[K[10Cc��i�
+xhc��i�: Command not found
+tish error: #-2
+embox>
+@xx�dexpembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cxpcdembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6C'embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C.)��
+.)��: Command not found
+tish error: #-2
+embox>
+xxx�dexembox>.)��[K[11Cembox>
+xhc��i�[K[15Cembox>�V��r[K[12Cembox>�V��[K[10C�����exporf��x���pembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C 
+tish error: #-22
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6C�V��
+�V��: Command not found
+tish error: #-2
+embox>
+xxX�d xpembox>
+xxX�d [K[14Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>�[K[7Cembox>�V[K[8Cembox>�V�[K[9Cembox>�V��[K[10C
+�V��: Command not found
+tish error: #-2
+embox>
+l���Kx�tdeembox>[K[6Cembox>[K[6Cembox>[K[6Cexembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cxpembox>[K[6Cembox>[K[6Cembox>[K[6Cport�Vembox>[K[6Cembox>[K[6C
+: Command not found
+tish error: #-2
+embox>
+xxx�dexpembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K1embox>[Kembox>[Kembox>[Kxxxembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K�Vembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K�d
+�d: Command not found
+tish error: #-2
+embox>expembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C��
+��: Command not found
+tish error: #-2
+embox>
+yx�dep
+yx�dep: Command not found
+tish error: #-2
+embox>�Vxls�dep
+�Vxls�dep: Command not found
+tish error: #-2
+embox>�Vxls�ssss�ssss�extt�t���[?5h[?5l�V��
+�V��: Command not found
+tish error: #-2
+embox>
+Xx��ke8p5lb�������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

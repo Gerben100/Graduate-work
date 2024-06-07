@@ -1,0 +1,121 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+x� }
+x�: Command not found
+tish error: #-2
+embox>
+���������lo�ouP���#�������
+���: Command not found
+tish error: #-2
+embox>
+�
+embox>���>�a�����
+���>�a�����: Command not found
+tish error: #-2
+embox>
+����t�
+����t�: Command not found
+tish error: #-2
+embox>
+lgN�i�
+lgN�i�: Command not found
+tish error: #-2
+embox>
+@�piny
+@�piny: Command not found
+tish error: #-2
+embox>
+embox>
+@�piny[K[13C����{
+@�piny���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+@p�[H[H[2Jembox>
+@p�[K[11C@pp@?@?@
+@p�@pp@?@?@: Command not found
+tish error: #-2
+embox>
+����
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�����
+����: Command not found
+tish error: #-2
+embox>
+����[H[H[2J�
+�����: Command not found
+tish error: #-2
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+��
+embox>
+embox> �
+�: Command not found
+tish error: #-2
+embox>
+�����
+tish error: #-22
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+nl(
+embox>S,?C??�
+&��: Command not found
+tish error: #-2
+embox>
+988888
+988888: Command not found
+tish error: #-2
+embox>
+��exith
+����: Command not found
+tish error: #-2
+embox>
+cc
+tish error: #-22
+embox>
+�� 
+����: Command not found
+tish error: #-2
+embox>
+�������������e��
+�����: Command not found
+tish error: #-2
+embox>
+�88@8M8<888888888888[8
+: Command not found
+tish error: #-2
+embox>
+�export��pi����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

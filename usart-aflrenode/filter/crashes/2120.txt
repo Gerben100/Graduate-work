@@ -1,0 +1,144 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>y�eor\H��u�or\h��u�u
+y�eor\H��u�or\h��u�u: Command not found
+tish error: #-2
+embox>
+Vkkkkkkk�kkkk@k�Qembox>y�eor\H��u�or\h��u�u[K[26Cipinembox>y�eor\H��u�or\h��u�uipin[K[31Cembox>y�eor\H��u�or\h��u�uipiny[K[32Cembox>y�eor\H��u�or\h��u�uipinye[K[33Cembox>y�eor\H��u�or\h��u�uipinye�[K[34Cembox>y�eor\H��u�or\h��u�uipinye�y[K[35Cembox>y�eor\H��u�or\h��u�uipinye�ye[K[36C
+y�eor\H��u�or\h��u�u: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+�[K[8Cembox>
+��[K[9Cembox>
+��e[K[10Cembox>
+��ex[K[11Cembox>
+��exp[K[12Cembox>
+��exp[K[13Cembox>
+��exp[K[12Cembox>y�eor\H��u�or\h��u�u[K[26CV�expembox>y�eor\H��u�or\h��u�uV�exp[K[31Cembox>y�eor\H��u�or\h��u�uV�exp'[K[32Cembox>y�eor\H��u�or\h��u�uV�exp''[K[33Cembox>y�eor\H��u�or\h��u�uV�exp'''[K[34Cembox>y�eor\H��u�or\h��u�uV�exp''''[K[35Cembox>y�eor\H��u�or\h��u�uV�exp'''''[K[36Cembox>y�eor\H��u�or\h��u�uV�exp''''''[K[37Cembox>y�eor\H��u�or\h��u�uV�exp'''''''[K[38Cembox>y�eor\H��u�or\h��u�uV�exp''''''''[K[39Cembox>y�eor\H��u�or\h��u�uV�exp'''''''''[K[40Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''[K[41Cembox>y�eor\H��u�or\h��u�uV�exp'''''''''''[K[42Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''[K[43Cembox>y�eor\H��u�or\h��u�uV�exp'''''''''''''[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''[Kembox>y�eor\H��u�or\h��u�uV�exp'''''''''''''''[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�e[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�ex[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�exp[K[51Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�exp[K[52Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�exp[K[51Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expy[K[52Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd[K[53Cembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�y[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�ye[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�yee[Kembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�yeexembox>y�eor\H��u�or\h��u�uV�exp''''''''''''''''�expyd�yeexp
+embox>
+embox>VVembox>
+��exp[K[12C�k[?5h[?5l�embox>
+��exp�k[?5h[?5l�[K[17Cembox>
+��exp�k[?5h[?5l��[K[18Cembox>
+��exp�k[?5h[?5l�e�[K[19Cembox>
+��exp�k[?5h[?5l�ex�[K[20Cembox>
+��exp�k[?5h[?5l�exp�[K[21Cembox>
+��exp�k[?5h[?5l�exp�[K[22Cembox>
+��exp�k[?5h[?5l�exp�[K[21Cembox>
+��exp�k[?5h[?5l�expy�[K[22Cembox>
+��exp�k[?5h[?5l�expyd�[K[23Cembox>
+��exp�k[?5h[?5l�expyd��[K[24Cembox>
+��exp�k[?5h[?5l�expyd�y�[K[25Cembox>
+��exp�k[?5h[?5l�expyd�ye�[K[26C
+��exp: Command not found
+tish error: #-2
+embox>
+�xQiiembox>
+�xQii[K[14Cembox>
+�xQiiy[K[15Cembox>
+�xQiiyV[K[16Cembox>
+��exp[K[12C�]xportw�xQiiembox>
+��exp�]xportw�xQii[K[29Cembox>
+��exp�]xportw�xQiiy[K[30Cembox>
+��exp�]xportw�xQiiye[K[31Cembox>
+��exp�]xportw�xQiiye�[K[32Cembox>
+��exp�]xportw�xQiiye�y[K[33Cembox>
+��exp�]xportw�xQiiye�ye[K[34C
+��exp�]xport: Command not found
+tish error: #-2
+embox>
+Vembox>
+��exp�]xport[K[19C���
+��exp�]xport���: Command not found
+tish error: #-2
+embox>
+V\��������V\�������𪪨������Ǫ������Aembox>
+V\��������V\�������𪪨������Ǫ����������Ǫ���
+V\��������V\�������𪪨������Ǫ����������Ǫ���: Command not found
+tish error: #-2
+embox>
+9*9999999E99uembox>
+9*9999999E99uembox>
+9*9999999E99�u
+9*9999999E99�u: Command not found
+tish error: #-2
+embox>
+Vembox>[K[21C_
+9*9999999E99�u_: Command not found
+tish error: #-2
+embox>
+[d`�
+[d`�: Command not found
+tish error: #-2
+embox>
+0
+0: Command not found
+tish error: #-2
+embox>
+�(
+embox>�!
+�!: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+V�rқ
+V�rқ: Command not found
+tish error: #-2
+embox>
+V�
+V�: Command not found
+tish error: #-2
+embox>
+V�
+V�: Command not found
+tish error: #-2
+embox>
+r�֐�
+[d`��: Command not found
+tish error: #-2
+embox>
+x�$i�oGx
+x�$i�oGx: Command not found
+tish error: #-2
+embox>
+x�$$ix
+x�$$ix: Command not found
+tish error: #-2
+embox>
+x�
+�: Command not found
+tish error: #-2
+embox>
+x@x
+embox>
+oo@@
+oo@@: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+x�l�portt���������������sh}c o
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

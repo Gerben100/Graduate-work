@@ -1,0 +1,190 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�qnnn�
+embox>�embox>�[K[9C
+embox>
+�nX\n��'�embox>
+�nX\n��'�[K[19C
+tish error: #-22
+embox>
+�qnnV�
+embox>�embox>
+[K[7C�embox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�qnnn�embox>
+�[K[8Cembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�qnls�
+embox>�embox>�[K[9C
+embox>
+�5embox>
+�5[K[9C
+�5: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cnembox>
+n[K[6C
+n: Command not found
+tish error: #-2
+embox>embox>
+n[K[9C�
+
+n�: Command not found
+tish error: #-2
+embox>
+�qnnnn�
+embox>�embox>
+n�
+[K[11Cembox>
+n�
+[K[12C
+n�: Command not found
+tish error: #-2
+embox>
+�qnnn�
+embox><embox>
+n�
+[K[11C�embox>
+n�
+�[K[12C
+n�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+spsssssssssssssssssssssssss
+embox>�
+�: Command not found
+tish error: #-2
+embox>GGG
+GGG: Command not found
+tish error: #-2
+embox>
+�ccdx�66F6>6T@@\embox>
+�ccdx�66F6>6T@@\embox>
+�ccdx�66F6>6T@@\embox>
+�ccdx�66F6>6T@@\embox>i
+�ccdx�66F6>6T@@\embox>i
+�ccdx�66F6>6T@@\embox>i
+�ccdx�66F6>6T@@\embox>ie
+�ccdx�66F6>6T@@\embox>ieY
+�ccdx�66F6>6T@@\embox>ieY
+�ccdx�66F6>6T@@\embox>ieY
+�ccdx�66F6>6T@@\
+embox>
+�cx�64F6>6T@@\^embox>GGG[Kiembox>GGGi[Kembox>GGGie[Kembox>GGGieY[Kembox>GGGieY�[Kembox>GGGieY�[K
+GGG: Command not found
+tish error: #-2
+embox>
+embox>[K[6CcT@@�embox>GGG[K[9Ci�embox>GGGi�[K[11Cembox>GGGie�[K[12Cembox>GGGieY�[K[13Cembox>GGGieY�[K[14Cembox>GGGieYX�[K[15Cembox>GGGieYX��[K[16Cembox>GGGieYX���[K[17C
+GGG: Command not found
+tish error: #-2
+embox>
+embox>GGG[K[9Ciembox>GGGi[K[11Cembox>GGGie[K[12Cembox>GGGieY[K[13Cembox>GGGieY[K[14Cembox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�l�dout
+�l�dout: Command not found
+tish error: #-2
+embox>
+��ppppembox>
+�l�doutembox>�[K[7Ciexpors�ecdYembox>�iexpors�ecdYembox>�iexpors�ecdYpembox>�iexpors�ecdYppembox>�iexpors�ecdYpppembox>�iexpors�ecdYppppembox>�iexpors�ecdYpppppembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�: Command not found
+tish error: #-2
+embox>66F6>�T0.�����66F6>�T0.\embox>�[Kembox>[Ki.\iexpors�ecdY
+GGG: Command not found
+tish error: #-2
+embox>
+embox>
+
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c!
+�c!: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+�cx�66F6>\2i
+�cx�66F6>: Command not found
+tish error: #-2
+embox>
+�e
+ޥe: Command not found
+tish error: #-2
+embox>
+,l��>
+embox>�==
+�==: Command not found
+tish error: #-2
+embox>
+.l�&��-l�=�����-�=�TT=
+��: Command not found
+tish error: #-2
+embox>
+�=�==
+tish error: #-22
+embox>
+.l.l�=�=�=�==
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+ls6
+�ls6: Command not found
+tish error: #-2
+embox>
+===@�=====pin=[===@==.+�
+embox>
+.l�=�==
+tish error: #-22
+embox>
+�.l.l
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+logout��r�
+logout��r�: Command not found
+tish error: #-2
+embox>
+9[d@^[[[[[exTt[[l9[d[][[[@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

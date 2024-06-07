@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>T6�c{3�cdembox>T6�c{3�c[K[16Cteiembox>T6�c{3�ctei[K[18Cembox>T6�c{3�ctei[K[19Cembox>T6�c{3�cte�i[K[20Cembox>T6�c{3�cte��i[K[21C
+T6�c: Command not found
+tish error: #-2
+embox>
+l���������������pin��
+l���������������pin��: Command not found
+tish error: #-2
+embox>
+eB�cb{3���������������~��
+eB�cb: Command not found
+tish error: #-2
+embox>
+.
+.: Command not found
+tish error: #-2
+embox>
+�Z�ZA��
+�Z�ZA��: Command not found
+tish error: #-2
+embox>
+e��eh�embox>
+e��eh�[K[13Cexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx�����fVr
+e��eh�exxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx�����fVr: Command not found
+tish error: #-2
+embox>
+%c�NNNN��embox>[K[15Cex��e%@dN<��embox>[K[29Cex��eporpoor
+%c�NNNN�ex��e%@: Command not found
+tish error: #-2
+embox>
+eb
+eb: Command not found
+tish error: #-2
+embox>
+]xe�r
+]x�r: Command not found
+tish error: #-2
+embox>
+ N�x��etqr
+tish error: #-22
+embox>
+��t�oh�opo}exit
+�t: Command not found
+tish error: #-2
+embox>
+e@�c���ex��Oppr
+e@�c�: Command not found
+tish error: #-2
+embox>
+e��cN6cdlo�pUo�
+e��cN6cdlo�pUo�: Command not found
+tish error: #-2
+embox>
+@N��e
+embox>��@N��e
+embox>��"���Uls���Upor
+���Upor: Command not found
+tish error: #-2
+embox>
+e@�cNNNN�cdx��epor
+e@�cNNNN�: Command not found
+tish error: #-2
+embox>
+eBcd�\���Bd���Bd�
+eb: Command not found
+tish error: #-2
+embox>
+������������������eBd��f���Bd���������������eB
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

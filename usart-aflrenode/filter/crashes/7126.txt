@@ -1,0 +1,193 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��~�wi�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+�ttt}|x�w
+tish error: #-22
+embox>��[?5h[?5lx
+��[?5h[?5l: Command not found
+tish error: #-2
+embox>
+eo<����embox>
+eo<���[K[13CDembox>
+eo<���D[K[6Cembox> 
+eo<���D[K[7C
+eo<���D: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C��wicd�embox>
+��wicd[K[15Ci
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6C
+i1i
+i1i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C��w
+tish error: #-22
+embox>i�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C��v�i�x"i
+tish error: #-22
+embox>
+embox>
+[K[8C��w^�[?5h[?5l
+embox>xRi
+xRi: Command not found
+tish error: #-2
+embox>
+�#l����x1i1iwi�x1iw
+embox>��h�w���x1iwi�x1
+��h�w���x1iwi�x1: Command not found
+tish error: #-2
+embox>iw
+embox>�
+embox>��h�x
+embox>��h�w����x1iwi�x1iw
+embox>�
+�: Command not found
+tish error: #-2
+embox>�
+embox>��h-i
+��h-i: Command not found
+tish error: #-2
+embox>
+���wim[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+�ee�e{��w_�]�[?5h[?5li�w_�l�[?5h[?5li
+�ee: Command not found
+tish error: #-2
+embox>
+��wg�cdx1i
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lcU
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+exipintcd�
+embox>X1i}��"w1i
+X1i: Command not found
+tish error: #-2
+embox>
+  ���yw@]�i
+tish error: #-22
+embox>
+��~���ׂ[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+cd��wi�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+ ��wi�[?5h[?5l
+embox>�1i
+�1i: Command not found
+tish error: #-2
+embox>
+!�h�[?5h[?5l
+embox>�1lpinsi
+�1lpinsi: Command not found
+tish error: #-2
+embox>
+ ��wi�[?5h[?5l
+embox>x1i
+x1i: Command not found
+tish error: #-2
+embox>
+lnou[Lo-���t
+l: Command not found
+tish error: #-2
+embox>
+��exitout�
+��exitout�: Command not found
+tish error: #-2
+embox>
+lo pit[?5h[?5lx�xeA1i
+lo: Command not found
+tish error: #-2
+embox>
+������i�[?5h[?5l
+������i�: Command not found
+tish error: #-2
+embox>
+w�wwwwwwwww1i
+w�: Command not found
+tish error: #-2
+embox>
+�?1~
+�?1~: Command not found
+tish error: #-2
+embox>
+�#
+�: Command not found
+tish error: #-2
+embox>
+�j��gs���[?5h[?5l
+embox>x�
+x�: Command not found
+tish error: #-2
+embox>
+��wi�[?5h[?5l��wi�[?5h[?5l
+embox>x1i
+embox>
+[?5h[?5l
+embox>�lo�ou/�
+�: Command not found
+tish error: #-2
+embox>
+�wex�
+�wex�: Command not found
+tish error: #-2
+embox>
+�
+embox>x�j
+x�j: Command not found
+tish error: #-2
+embox>
+�ls�
+tish error: #-22
+embox>
+�
+1i�x: Command not found
+tish error: #-2
+embox>
+�_��wi����������������@cSxi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

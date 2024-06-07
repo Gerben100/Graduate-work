@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����$
+����$: Command not found
+tish error: #-2
+embox>
+����������lembox>����$[K[13Ca
+����$a: Command not found
+tish error: #-2
+embox>
+�x�cd��������embox>
+�x�cd��������[K[6Cembox>�
+�x�cd��������[K[7Cembox>��
+�x�cd��������[K[8Cembox>���
+�x�cd��������[K[9Cembox>����
+�x�cd��������[K[10Cembox>�����
+�x�cd��������[K[11C
+�����: Command not found
+tish error: #-2
+embox>
+xdiexpoxdiexportembox>
+xdiexpoxdiexport[K[27Cembox>
+xdiexpoxdiexport[K[28Cembox>
+xdiexpoxdiexporxt[K[29Cembox>
+xdiexpoxdiexporxdt[K[30Cembox>
+xdiexpoxdiexporxdit[K[31Cembox>
+xdiexpoxdiexporxdit[K[32Cembox>
+xdiexpoxdiexporxdit[K[33Cembox>
+xdiexpoxdiexporxdi�t[K[34Cembox>
+xdiexpoxdiexporxdi�yt[K[35Cembox>
+xdiexpoxdiexporxdi�yt[K[34Cembox>
+xdiexpoxdiexporxdi�yt[K[35Cembox>
+xdiexpoxdiexporxdi��yt[K[36Cembox>
+xdiexpoxdiexporxdi��yyt[K[37Cembox>
+xdiexpoxdiexporxdi��yryt[K[38Cembox>
+xdiexpoxdiexporxdi��yrtyt[K[39Cembox>
+xdiexpoxdiexporxdi��yrtyt[K[38Cembox>
+xdiexpoxdiexporxdi��yrtyt[K[39Cembox>
+xdiexpoxdiexporxdi��yrxtyt[K[40Cembox>
+xdiexpoxdiexporxdi��yrxdtyt[K[41Cembox>
+xdiexpoxdiexporxdi��yrxdityt[Kembox>
+xdiexpoxdiexporxdi��yrxdityt[Kembox>
+xdiexpoxdiexporxdi��yrxdityt[Kembox>
+xdiexpoxdiexporxdi��yrxdi�tyt[Kembox>
+xdiexpoxdiexporxdi��yrxdi�ytyt[Kembox>
+xdiexpoxdiexporxdi��yrxdi�ytyt[Kembox>
+xdiexpoxdiexporxdi��yrxdi�ytyt[Kembox>
+xdiexpoxdiexporxdi��yrxdi��ytyt[K
+tish error: #-22
+embox>y�
+y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>d
+[K[8Cembox>di
+[K[9Cembox>di
+[K[10Cembox>di
+[K[9Cembox>di
+[K[10Cembox>di�
+[K[11Cembox>di�y
+[K[12Cembox>di�ye
+[K[13Cembox>di�ye�
+[K[14Cembox>di�ye��
+[K[15Cembox>di�ye���
+[K[16C
+embox>
+
+embox>
+
+[K[6Cembox>y[K[7Cxdiembox>yxdi[K[12Cembox>yxdi[K[13Cembox>yxdix[K[14Cembox>yxdixd[K[15Cembox>yxdixdi[K[16Cembox>yxdixdi[K[17Cembox>yxdixdi[K[16Cembox>yxdixdi[K[17Cembox>yxdixdi�[K[18Cembox>yxdixdi�y[K[19Cembox>yxdixdi�ye[K[20Cembox>yxdixdi�ye�[K[21Cembox>yxdixdi�ye��[K[22C
+y: Command not found
+tish error: #-2
+embox>
+ xd��logou�embox>y[K[7Cxx�
+ �e��
+yxx�: Command not found
+tish error: #-2
+embox>
+�@xiembox>
+�@xi[K[11Cembox>
+�@xi[K[12Cembox>
+�@xi�[K[13C
+embox>
+embox>xpPpin��wdiembox>xpPpin��wdi[K[18Cembox>xpPpin��wdi[K[19Cembox>xpPpin��wdi�[K[20Cembox>xpPpin��wdi�y[K[21Cembox>xpPpin��wdi�ye[K[22Cembox>xpPpin��wdi�ye�[K[23Cembox>xpPpin��wdi�ye�d[K[24Cembox>xpPpin��wdi�ye�di[K[25Cembox>xpPpin��wdi�ye�di[K[26Cembox>xpPpin��wdi�ye�di�[K[27Cembox>xpPpin��wdi�ye�di�[K[28Cembox>xpPpin��wdi�ye�di�x[K[29Cembox>xpPpin��wdi�ye�di�xd[K[30Cembox>xpPpin��wdi�ye�di�xdi[K[31Cembox>xpPpin��wdi�ye�di�xdi[K[32Cembox>xpPpin��wdi�ye�di�xdi[K[31Cembox>xpPpin��wdi�ye�di�xdi[K[32Cembox>xpPpin��wdi�ye�di�xdi[K[33Cembox>xpPpin��wdi�ye�di�xdi[K[34Cembox>xpPpin��wdi�ye�di�xdi[K[34Cembox>xpPpin��wdi�ye�di�xdix[K[35Cembox>xpPpin��wdi�ye�di�xdixp[K[36Cembox>xpPpin��wdi�ye�di�xdixpP[K[37Cembox>xpPpin��wdi�ye�di�xdixpP[K[38Cembox>[K[6Cembox>[K[7C
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+�d
+tish error: #-22
+embox>
+exitdiembox>
+exitdi[K[13Cembox>
+exitdi�[K[14Cembox>
+exitdi�x[K[15Cembox>
+exitdi�xd[K[16Cembox>
+exitdi�xdi[K[17Cembox>
+exitdi�xdi[K[18Cembox>
+exitdi�xdiembox>
+exitdi�xdi�embox>
+exitdi�xdi��embox>
+exitdi�xdi��yembox>
+exitdi�xdi��yeembox>
+exitdi�xdi��yembox>
+exitdi�xdi��y�
+exitdi�xdi: Command not found
+tish error: #-2
+embox>
+@xdiembox>
+@xdi[K[12Cembox>
+@xdie[K[13Cembox>
+@xdiex[K[14Cembox>
+@xdiexi[K[15Cembox>
+@xdiexit[K[16Cembox>
+@xdiexit[K[17Cembox>
+@xdiexit[K[16Cembox>
+@xdiexit[K[17Cembox>
+@xdiexit�[K[18Cembox>
+@xdiexit�y[K[19Cembox>
+@xdiexit�ye[K[20Cembox>
+@xdiexit�ye�[K[21Cembox>
+@xdiexit�ye��
+tish error: #-22
+embox>
+����������������xdxembox>[K[27C�sembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35C
+tish error: #-22
+embox>
+������������������������������
+������������������������������: Command not found
+tish error: #-2
+embox>
+�656>�?@@0lsm
+loge@���NNBNNN�NNN6NfNNNN
+tish error: #-22
+embox>
+�65%>�@@embox>
+[Klsm
+loge@���NNBNNN�NN6NfNNNN
+lsm: Command not found
+tish error: #-2
+embox>
+�656>@@@embox>
+lsm
+loglsm
+cNNBNNN�N�NMN6NfNNNN
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

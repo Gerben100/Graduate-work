@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[6Cembox>��[K[7C
+embox>
+�lofoutf�itcd.��
+�lofoutf�itcd.��: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+i��|�pembox>
+i��|�p[K[12Cembox>
+i��|�p[K[13Cembox>
+i��|��p[K[14Cembox>
+i��|��yp[K[15Cembox>
+i��|��yip[K[16Cembox>
+i��|��yinp[K[17C
+i��|�: Command not found
+tish error: #-2
+embox>
+sssss
+embox>蟃
+蟃: Command not found
+tish error: #-2
+embox>
+�lo��embox>
+�lo�[K[13C
+�: Command not found
+tish error: #-2
+embox>
+�o
+�: Command not found
+tish error: #-2
+embox>
+#embox>
+�[K[9Cembox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>�
+�[K[10Cembox>�
+�[K[11Cembox>�p
+�[K[12C
+embox>
+embox>
+[K[6Cembox>�
+[K[7C
+�: Command not found
+tish error: #-2
+embox>
+op����embox>
+op���[K[12C
+op���: Command not found
+tish error: #-2
+embox>
+�l��
+�l�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K� 
+�: Command not found
+tish error: #-2
+embox>
+�exit���~
+tish error: #-22
+embox>
+�{{{{{{{{n
+tish error: #-22
+embox>
+�xsexport
+�: Command not found
+tish error: #-2
+embox>
+w�lo��
+�lo�: Command not found
+tish error: #-2
+embox>
+�?�in
+�?: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+������
+�: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+�V�
+�V�: Command not found
+tish error: #-2
+embox>
+so�s
+s: Command not found
+tish error: #-2
+embox>
+
+embox>
+Uss
+Us: Command not found
+tish error: #-2
+embox>
+orp
+orp: Command not found
+tish error: #-2
+embox>
+�
+embox>[?5h[?5l
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+lsw: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+ x�lex
+x�lex: Command not found
+tish error: #-2
+embox>
+�le�{{
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

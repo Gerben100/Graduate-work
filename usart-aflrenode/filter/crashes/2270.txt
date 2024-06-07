@@ -1,0 +1,179 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> 
+tish error: #-22
+embox>
+exio;
+exio;: Command not found
+tish error: #-2
+embox>
+exio�
+exio: Command not found
+tish error: #-2
+embox>
+e��embox>
+e��[K[6Cembox>�
+e��[K[7Cembox>�t
+e��[K[8Cembox>�tt
+e��[K[9Cembox>�tt�
+e��[K[10Cembox>�tt��
+e��[K[11Cembox>�tt���
+e��[K[12Cembox>�tt���-
+e��[K[13Cembox>�tt���-x
+e��[K[14Cembox>�tt���-xi
+e��[K[15Cembox>�tt���-xio
+e��[K[16Cembox>�tt���-xio�
+e��[K[17Cembox>�tt���-xio�
+e��[K[18Cembox>�tt���-xio�
+e��[K[19Cembox>�tt���-xio��
+e��[K[20Cembox>�tt���-xio��;
+e��[K[21C
+�tt���-xio�: Command not found
+tish error: #-2
+embox>
+�xioembox>
+�xi[K[10Cii}iiipiii�<
+�xiii}iii: Command not found
+tish error: #-2
+embox>
+�xembox>
+�x[K[6C
+�x: Command not found
+tish error: #-2
+embox>
+exioRt�;
+exioRt: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+�[K[6Cembox>��
+�[K[7Cembox>��
+�[K[8Cembox>��
+�[K[9Cembox>��
+�[K[10Cembox>��
+�[K[11Cembox>��
+�[K[12Cembox>���
+�[K[13C
+�: Command not found
+tish error: #-2
+embox>
+exio���������embox>
+exio�����������������1
+exio: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+M�;
+M�;: Command not found
+tish error: #-2
+embox>
+e1;1�;
+e: Command not found
+tish error: #-2
+embox>
+exio\ei
+p;l��: Command not found
+tish error: #-2
+embox>
+exio�;
+exio: Command not found
+tish error: #-2
+embox>
+�`F
+�`: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�nin[H[H[2Jnl�e��l[H[2Jn�pin��l
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+txiOE;
+eE;: Command not found
+tish error: #-2
+embox>
+exiZ �k�J
+exiZ: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+oo
+oo: Command not found
+tish error: #-2
+embox>
+d<export
+d<export: Command not found
+tish error: #-2
+embox>
+or�oex�;
+p;l��O�;: Command not found
+tish error: #-2
+embox>
+�x[o�;
+�x[o: Command not found
+tish error: #-2
+embox>
+�exio�;
+�exio: Command not found
+tish error: #-2
+embox>
+elsxio�;
+elsxio�;: Command not found
+tish error: #-2
+embox>
+ex�{�;
+ex�{: Command not found
+tish error: #-2
+embox>
+exie
+p��;
+exie: Command not found
+tish error: #-2
+embox>
+\logout
+\logout: Command not found
+tish error: #-2
+embox>
+exio���;too]o
+exio��: Command not found
+tish error: #-2
+embox>
+exio�c�T
+exio�c�T: Command not found
+tish error: #-2
+embox>
+exio�io;
+exio: Command not found
+tish error: #-2
+embox>
+kx��dsog�g���jei�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

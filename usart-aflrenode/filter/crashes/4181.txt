@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>plogout��
+plogout��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�p��
+�p��: Command not found
+tish error: #-2
+embox>
+�pembox>[K[6Cembox>
+�p��[K[11C�
+�p���: Command not found
+tish error: #-2
+embox>
+TexpTTembox>
+TexpTT[K[6Cembox>T
+TexpTT[K[7Cembox>To
+TexpTT[K[8Cembox>Tor
+TexpTT[K[9Cembox>TorT
+TexpTT[K[10Cembox>TorTT
+TexpTT[K[11Cembox>TorTTT
+TexpTT[K[12Cembox>TorTTTT
+TexpTT[K[13Cembox>TorTTTTT
+TexpTT[K[14Cembox>TorTTTTTT
+TexpTT[K[15Cembox>TorTTTTTTT
+TexpTT[K[16Cembox>TorTTTTTTTT
+TexpTT[K[17Cembox>TorTTTTTTTTT
+TexpTT[K[18Cembox>TorTTTTTTTTTT
+TexpTT[K[19Cembox>TorTTTTTTTTTTT
+TexpTT[K[20Cembox>TorTTTTTTTTTTTT
+TexpTT[K[21Cembox>TorTTTTTTTTTTTTT
+TexpTT[K[22Cembox>TorTTTTTTTTTTTTTT
+TexpTT[K[23Cembox>TorTTTTTTTTTTTTTTT
+TexpTT[K[24Cembox>TorTTTTTTTTTTTTTTTT
+TexpTT[K[25Cembox>TorTTTTTTTTTTTTTTTTT
+TexpTT[K[26Cembox>TorTTTTTTTTTTTTTTTTTT
+TexpTT[K[27Cembox>TorTTTTTTTTTTTTTTTTTTT
+TexpTT[K[28Cembox>TorTTTTTTTTTTTTTTTTTTTT
+TexpTT[K[29Cembox>TorTTTTTTTTTTTTTTTTTTTTt
+TexpTT[K[30C
+TorTTTTTTTTTTTTTTTTTTTTt: Command not found
+tish error: #-2
+embox>
+eE=embox>
+eE=[K[6Cembox>�
+eE=[K[7Cembox>�i
+eE=[K[8Cembox>�i�
+eE=[K[9Cembox>�i�p
+eE=[K[10Cembox>�i�po
+eE=[K[11Cembox>�i�pot
+eE=[K
+�i�pot: Command not found
+tish error: #-2
+embox>
+o�+�
+o�+�: Command not found
+tish error: #-2
+embox>
+�dr �e
+�dr: Command not found
+tish error: #-2
+embox>
+�popedy��embox>
+�popedy�[Kd
+�popedy�: Command not found
+tish error: #-2
+embox>
+coEwn�v
+coEw: Command not found
+tish error: #-2
+embox>
+�������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

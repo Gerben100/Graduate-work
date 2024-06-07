@@ -1,0 +1,141 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Z
+Z: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[11C�
+tish error: #-22
+embox>
+�L�embox>
+�L[K[9C
+embox>embox>tish[K[10C���
+tish���: Command not found
+tish error: #-2
+embox>
+��embox>tish���[K[13C
+tish���: Command not found
+tish error: #-2
+embox>
+%w
+%w: Command not found
+tish error: #-2
+embox>
+%{�
+%{�: Command not found
+tish error: #-2
+embox>
+�  Q�Q�
+tish error: #-22
+embox>
+|s
+|s: Command not found
+tish error: #-2
+embox>
+P��embox>
+|s[K[9C
+|s: Command not found
+tish error: #-2
+embox>
+�ocog
+�ocog: Command not found
+tish error: #-2
+embox>
+�M�embox>
+�ocog[K[12C�M�embox>
+|s[K[9C
+|s: Command not found
+tish error: #-2
+embox>
+lembox>
+|s[K[9Ce�embox>
+�ocog[K[12C
+�ocog: Command not found
+tish error: #-2
+embox>
+$�e�embox>[K[12C
+�ocog: Command not found
+tish error: #-2
+embox>
+.�
+.�: Command not found
+tish error: #-2
+embox>
+@@j�����΀�export���embox>
+@@j�����΀�export���embox>[Kembox>[Kembox>[Kembox>[K
+embox>embox>
+.�
+.�: Command not found
+tish error: #-2
+embox>
+����O`
+����O`: Command not found
+tish error: #-2
+embox>
+{J�e�[?5h[?5l
+{J�e�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+656>6z@[?5h[?5l
+656>6z@: Command not found
+tish error: #-2
+embox>
+���[?5h[?5l@s@D
+���[?5h[?5l@s@D: Command not found
+tish error: #-2
+embox>
+��e�
+Ze�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>pin
+pin: Command not found
+tish error: #-2
+embox>{Z
+{Z: Command not found
+tish error: #-2
+embox>
+������e��e�
+embox>
+embox>
+�
+tish error: #-22
+embox>
+Ƒ{���d
+Ƒ{��d: Command not found
+tish error: #-2
+embox>
+
+{J�e�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+@@@!d@
+{J�e�[?5h[?5l@: Command not found
+tish error: #-2
+embox>
+,MM���MMMMM�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

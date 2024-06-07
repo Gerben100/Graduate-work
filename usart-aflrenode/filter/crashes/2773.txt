@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e�it
+e�it: Command not found
+tish error: #-2
+embox>
+111911111111111111111111k[H[H[2Jembox>
+111911111111111111111111k[K[32Cmembox>[K[6C[H[H[2Jembox>[K[6C�yellXe�^�Mo
+�yellXe�^�M: Command not found
+tish error: #-2
+embox>
+p�peeG@e
+p�peeG@e: Command not found
+tish error: #-2
+embox>
+embox>[K[6C@
+@: Command not found
+tish error: #-2
+embox>
+
+embox>�m��o
+�: Command not found
+tish error: #-2
+embox>
+embox>�[K[7Cexit�expx�o
+�exit�expx�o: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+x[K[8Cmembox>[K[6C�yee@opo@��6embox>[K[6CF6>6t@embox>F6>6t@[K[6Cembox>�F6>6t@[K[7Cembox>��F6>6t@[K[8Cembox>��UF6>6t@[K[9Cembox>��UxF6>6t@[K[10Cembox>��UxpF6>6t@[Kembox>��UxpoF6>6t@[Kembox>��UxporF6>6t@[K[13Cembox>��UxportF6>6t@[K[14Cembox>��UxportF6>6t@[K[6Cembox>���UxportF6>6t@[K[7Cembox>�"��UxportF6>6t@[K[8Cembox>�"��UxportF6>6t@[Kembox>�"@��UxportF6>6t@[Kembox>�"@r��UxportF6>6t@[Kembox>�"@rt��UxportF6>6t@[Kembox>�"@rte��UxportF6>6t@embox>�"@rtex��UxportF6>6t@embox>�"@rtexi��UxportF6>6t@embox>�"@rtexit��UxportF6>6t@embox>�"@rtexit��UxportF6>6t@embox>��"@rtexit��UxportF6>6t@
+��": Command not found
+tish error: #-2
+embox>"@c6656>6T@
+(null): Command not found
+tish error: #-2
+embox>
+embox>"[K[7C[H[H[2Jembox>"[K[7Clembox>"l[K[6Cembox>X"l[K[7Cembox>X8"l[K[8Cembox>X88"l[K[9Cembox>X888"l[K[10Cembox>X8888"l[K[11Cembox>X88888"l[K[12Cembox>X888888"l[K[13Cembox>X8888888"l[K[14Cembox>X88888886"l[K[15Cembox>X888888868"l[K[16Cembox>X888888868�"l[K[17Cembox>X888888868�"l[K[18Cembox>X888888868�"l[K[19Cembox>X888888868�8"lembox>X888888868�8"lembox>X888888868�8"lembox>X888888868�8D"lembox>X888888868�8D8"lembox>X888888868�8D88"lembox>X888888868�8D888"lembox>X888888868�8D888"l
+X888888868�8D888: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jembox>
+x�lembox>
+x�lembox>X
+x�lembox>X�
+x�lembox>X�
+x�lembox>X�
+x�lembox>X�
+x�lembox>X�8
+x�lembox>X�88
+x�lembox>X�888
+x�lembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+x[H[H[2Jembox>
+xqqq
+�
+
+[H[H[2Jembox>
+xqqq
+�
+
+��
+��WFtembox>[Klo
+x: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jl�X88888]8888888
+x: Command not found
+tish error: #-2
+embox>
+�
+���: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jl�����8
+X8888888�: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jl
+X88exit888886888888888: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jex��x[H[2Jex��8888868888888888888688888888
+x: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jl88888868)888888
+���: Command not found
+tish error: #-2
+embox>
+x[H[H[2J��l[H[2J
+X7S888886�78888886exit888�: Command not found
+tish error: #-2
+embox>
+x[H[H[2Jl
+X888: Command not found
+tish error: #-2
+embox>
+[H[H[2J88
+tish error: #-22
+embox>
+x[H[H[2J$$ex�6656>>@@[?5h[?5l��N@@@@@@@@@@@@@\@>e
+$ex�6656>>@��N@@@@@@@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+x[H[H[2J$ex�6656@@�����N@@@@>6@@@@@@@@@@@@\@@
+@@@@@@@: Command not found
+tish error: #-2
+embox>exp@�@@@@'@@@@@@@@
+exp@�@@@@'@@@@@@@@: Command not found
+tish error: #-2
+embox>
+x[H[H[2J$ex�6656>6@@��N@@@@@@@@?�@@@@@@@@@B\@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

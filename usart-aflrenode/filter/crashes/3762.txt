@@ -1,0 +1,77 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>A�665l�rexpinit�@UdxeN�I5�c6665l�rexpinit�@U(xeN�I
+A�665l�rexpinit�@UdxeN�I5�c6665l�rexpinit�@U(xeN�I: Command not found
+tish error: #-2
+embox>5@�@@
+5@�@@: Command not found
+tish error: #-2
+embox>
+A�665ls6@@(xeN�I5d6@@embox>
+A�665ls6@@(xeN�I5d6@@[K[30C��@@@@@@@@@@@@@@@@?@@@@@
+A�665ls6@@: Command not found
+tish error: #-2
+embox>@@@@@@embox>@@@@@@[K[6Cembox>@@@@@@@[K[7Cembox>@@@@@@@@[K[8Cembox>@@e@@@@@@[K[9Cembox>@@ex@@@@@@[K[10Cembox>@@exp@@@@@@[K[11Cembox>@@exp(@@@@@@[K[12Cembox>@@exp(x@@@@@@[K[13Cembox>@@exp(xe@@@@@@[K[14Cembox>@@exp(xeN@@@@@@[K[15Cembox>@@exp(xeN�@@@@@@[K[16Cembox>@@exp(xeN�I@@@@@@[K[17Cembox>@@exp(xeN�I5@@@@@@[K[18Cembox>@@exp(xeN�I5@@@@@@[K[19Cembox>@@exp(xeN�I5d@@@@@@[K[20Cembox>@@exp(xeN�I5d6@@@@@@[K[21Cembox>@@exp(xeN�I5d6@@@@@@@[K[22Cembox>@@exp(xeN�I5d6@@@@@@@@[K[23Cembox>@@exp(xeN�I5d6@@@@@@@@[K[24Cembox>@@exp(xeN�I5d6@@@@@@@@[K[23Cembox>@@exp(xeN�I5d6@@�@@@@@@[K[24Cembox>@@exp(xeN�I5d6@@��@@@@@@[K[25Cembox>@@exp(xeN�I5d6@@��@@@@@@@[K[26Cembox>@@exp(xeN�I5d6@@��@@@@@@@@[K[27Cembox>@@exp(xeN�I5d6@@��@@@@@@@@@[K[28Cembox>@@exp(xeN�I5d6@@��@@@�@@@@@@[K[29Cembox>@@exp(xeN�I5d6@@��@@@�@@@@@@@[K[30Cembox>@@exp(xeN�I5d6@@��@@@�@@@@@@@@[K[31C
+@@exp(xeN�I5: Command not found
+tish error: #-2
+embox>
+A�5ls6@(xeN�IX@@@@@@?@@@@S5d6@@embox>
+A�5ls6@(xeN�IX@@@@@@?@@@@S5d6@@��@@-ls6@J(
+A�5ls6@: Command not found
+tish error: #-2
+embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>�xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@embox>�@xeN�/5@@@@@@@@I@@@@F?@@@@S@@@@@lslogout@
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+A�665ls6ls@@(embox>
+A�665ls6ls@@([K[6Cembox>e
+A�665ls6ls@@([K[7Cembox>e@
+A�665ls6ls@@([K[8Cembox>e@A
+A�665ls6ls@@(embox>e@A@
+A�665ls6ls@@(embox>e@A@�
+A�665ls6ls@@(embox>e@A@��
+A�665ls6ls@@(embox>e@A@���
+A�665ls6ls@@(embox>e@A@����
+A�665ls6ls@@(embox>e@A@�����
+A�665ls6ls@@(embox>e@A@������
+A�665ls6ls@@(embox>e@A@������x
+A�665ls6ls@@(embox>e@A@������xe
+A�665ls6ls@@(embox>e@A@������xe�
+A�665ls6ls@@(embox>e@A@������xe��
+A�665ls6ls@@(embox>e@A@������xe��@
+A�665ls6ls@@(embox>e@A@������xe��@@
+A�665ls6ls@@(embox>e@A@������xe��@@@
+A�665ls6ls@@(
+e@A@������xe��@@@: Command not found
+tish error: #-2
+embox>
+A�665ls6@@(xeN�I5exitd6cd@@embox>
+A�665ls6@@(xeN�I5exitd6cd@@��D@@@@@@@@@@@@@@@@
+A�665ls6@@: Command not found
+tish error: #-2
+embox>?@@pin@@P@@@@@@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+@@e8p\�@@?@@pin@@P@@@@@@: Command not found
+tish error: #-2
+embox>
+A�6�5ls6@@@@@@@@@@I@@@@@)?@@(xeN�I5d6@@��@@@@@
+A�6�5ls6@@: Command not found
+tish error: #-2
+embox>@@@@@I@@@@@)?@@@@@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

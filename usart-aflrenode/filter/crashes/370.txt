@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9Cembox>��
+[K[8Cembox>��
+[K[9Cembox>����[K[10C�
+�����: Command not found
+tish error: #-2
+embox>
+au
+au: Command not found
+tish error: #-2
+embox>
+l����exexport��embox>
+au[K[9Cembox>�����[K[11Cembox>����[K[10C
+����: Command not found
+tish error: #-2
+embox>
+pinl���������embox>
+pinl��������[K[19C��loglogou�embox>����[K[10Cembox>
+au[K[9Cembox>�����[K[11Cembox>����[K[10C
+����: Command not found
+tish error: #-2
+embox>
+�embox>����[K[10CVE%embox>
+au[K[9C
+au: Command not found
+tish error: #-2
+embox>
+lllllllllexitlllll`��llllllllll
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l������܀��embox>
+lllllllllexitlllllembox>
+au[K[9Cembox>����VE%[K[13Cembox>
+au[K[9C
+au: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+l����������embox>�[K[7Cembox>
+au[K[9Cembox>[K[25C
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l���cd����������
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+expL 
+expL: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>
+l�������������
+au: Command not found
+tish error: #-2
+embox>
+l1���ɴ����
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l�l��݀�
+embox>�������܀�
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l�)�
+expL: Command not found
+tish error: #-2
+embox>
+l������������
+au: Command not found
+tish error: #-2
+embox>
+g�����@�������H�
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+sm�����
+sm�����: Command not found
+tish error: #-2
+embox>
+��]iv�#
+expL: Command not found
+tish error: #-2
+embox>
+ls�����������
+embox>
+l������������
+embox>
+���������������[?5h[?5l
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l����������ܺ���
+�: Command not found
+tish error: #-2
+embox>
+l���������������
+embox>
+l����������@
+lllllllllexitlllll: Command not found
+tish error: #-2
+embox>
+l���
+l���: Command not found
+tish error: #-2
+embox>
+�����������cd���
+�: Command not found
+tish error: #-2
+embox>
+��������� 
+expL: Command not found
+tish error: #-2
+embox>
+l��������pinl��������pinlllllllllllllllllll���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

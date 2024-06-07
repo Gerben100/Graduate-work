@@ -1,0 +1,69 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>u[?5h[?5lxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½embox>uxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½[K[38Cï¿½embox>uxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½[K[6C
+uxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½}ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½øï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½embox>
+txï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½øï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½[K[40Cï¿½embox>
+txï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½øï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½[K[6C
+txï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½øï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lexportï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½embox>
+texportï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½[K[39Cï¿½embox>
+texportï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½[K[6C
+texportï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½exitï¿½lsï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ttoelogï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ttoelogï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lxï¿½ï¿½ï¿½ï¿½t[H[H[2Jembox>
+txï¿½ï¿½ï¿½ï¿½t[K[14Cï¿½iexportiiiiembox>
+txï¿½ï¿½ï¿½ï¿½tï¿½iexportiiiï¿½ï¿½Eiï¿½ï¿½embox>
+txï¿½ï¿½ï¿½ï¿½tï¿½iexportiiiï¿½ï¿½Eiï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½nxitï¿½ï¿½s
+txï¿½ï¿½ï¿½ï¿½tï¿½iexportiiiï¿½ï¿½Eiï¿½: Command not found
+tish error: #-2
+embox>ï¿½ï¿½embox>ï¿½[K[7Cï¿½ï¿½embox>ï¿½ï¿½ï¿½[K[6C
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+tish error: #-22
+embox>
+moï¿½[?5h[?5lï¿½ï¿½yei 
+tish error: #-22
+embox>
+Wï¿½Wï¿½ï¿½lï¿½ï¿½ls|ï¿½ï¿½
+tish error: #-22
+embox>
+tï¿½eikï¿½
+embox>ï¿½c
+embox>
+
+tish error: #-22
+embox>
+@ogoiï¿½
+tish error: #-22
+embox>
+lpi ï¿½xntï¿½x;ï¿½ï¿½iiÌ‚
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

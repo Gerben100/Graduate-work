@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@embox>@[K[6Cembox>@@[K[7Cembox>@@@[K[8Cembox>@@@@[K[9Cembox>@@@R@[K[10Cembox>@@@R^@[K[11Cembox>@@@R^�@[K[12Cembox>@@@R^�@[K[13Cembox>@@@R^�@[K[6Cembox>@@@R^�@[K[7Cembox>d@@@R^�@[K[8Cembox>d�@@@R^�@[K[9Cembox>d��@@@R^�@[K[10Cembox>d���@@@R^�@[K[11Cembox>d��Ŧ@@@R^�@[K[12Cembox>d��Ŧ@@R^�@[K[12Cembox>d��Ŧl@@R^�@[K[13Cembox>d��Ŧls@@R^�@[K[14Cembox>d��Ŧlsx@@R^�@[K[15Cembox>d��Ŧlsx�@@R^�@[K[16Cembox>d��Ŧlsx�g@@R^�@[K[17Cembox>d��Ŧlsx�go@@R^�@[K[18Cembox>d��Ŧlsx�gox@@R^�@[K[19Cembox>d��Ŧlsx�gox�@@R^�@[K[20C
+embox>
+d�dp?��embox>
+d�dp?��[K[14Cembox>
+d�dp?��[K[6C
+d�dp?��: Command not found
+tish error: #-2
+embox>
+@@embox>
+@@[K[6Cembox>@
+@@[K[7Cembox>@@
+@@[K[8Cembox>@@@
+@@[K[9Cembox>@@@
+@@[K[6Cembox>@@@@
+@@[K[7Cembox>@@@@@
+@@[K[8Cembox>@@i@@@
+@@[K[9Cembox>@@i�@@@
+@@[K[10Cembox>@@i�d@@@
+@@[K[11Cembox>@@i�d@@@@
+@@[K[12Cembox>@@i�d@@@@@
+@@[K[13Cembox>@@i�d@@@@@@
+@@[K[14Cembox>@@i�d@@@@@@@
+@@[K[15Cembox>@@i�d@@@@@@@
+@@[K[16Cembox>@@i�d@@@@d@@@
+@@[K[17Cembox>
+d�dp?��[K[14Cx�poxp@
+embox>�xembox>@@i�d@@@@[K[15C
+@@i�d@@@@: Command not found
+tish error: #-2
+embox>
+@F@@@exembox>
+@F@@@e[K[13Clogout�@@@c?exp@embox>
+@F@@@elogout�@@@c?exp@[K[29Cembox>
+@F@@@elogout�@@@c?exp@[K[30Cembox>
+@F@@@elogout�@@@c?exp�@[K[31Cembox>
+@F@@@elogout�@@@c?exp�@[K[32Cembox>
+@F@@@elogout�@@@c?exp�@@[K[33Cembox>
+@F@@@elogout�@@@c?exp�@@@[K[34Cembox>
+@F@@@elogout�@@@c?exp�@@@@[K[35Cembox>
+@F@@@elogout�@@@c?exp�@@@c@[K[36Cembox>
+@F@@@elogout�@@@c?exp�@@@c6@[K[37Cembox>
+@F@@@elogout�@@@c?exp�@@@c66@[K[38Cembox>
+@F@@@elogout�@@@c?exp�@@@c665@[K[39Cembox>
+@F@@@elogout�@@@c?exp�@@@c665p@[K[40Cembox>
+@F@@@elogout�@@@c?exp�@@@c665po@[K[41Cembox>
+@F@@@elogout�@@@c?exp�@@@c665pox@[K[42Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxp@[K[43Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxpe@[K[44Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxpeO@[K[45Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxpeO@@[K[46Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxpeO@u@[K[47Cembox>
+@F@@@elogout�@@@c?exp�@@@c665poxpeO@u�@[K[48C
+@F@@@elogout�@@@c?exp: Command not found
+tish error: #-2
+embox>
+d@@�@\@@expoxp@@exx@@@\@cd@@�@\@@expoxp@@exx�
+d@@�@\@@expoxp@@exx@@@\@cd@@�@\@@expoxp@@exx�: Command not found
+tish error: #-2
+embox>
+V@@@ embox>
+d@@�@\@@expoxp@@exx@@@\@cd@@�@\@@expoxp@@exx�  embox>
+@F@@@elogout�@@@c?exp d\@@d�p���embox>
+@F@@@elogout�@@@c?exp d\@@d�p���ex�  embox>@@i�d@@@@[K[15C d\@@d�p���
+@@i�d@@@@: Command not found
+tish error: #-2
+embox>�d\@@E�p���embox>�d\@@E�p��[K[16C�exz
+�d\@@E�p���exz: Command not found
+tish error: #-2
+embox>
+@@/@@@@@@@@ex@�@\poxp@@ex�
+@@/@@@@@@@@ex@�@\poxp@@ex�: Command not found
+tish error: #-2
+embox>
+@@@exporZ@`@@@@@�@\@@expaxp@@ex�
+@@@exporZ@`@@@@@�@\@@expaxp@@ex�: Command not found
+tish error: #-2
+embox>
+@@@@@@@@@@C@@@@@@@@@�@\@@e�poxp@@@@@�@\@@embox>[K[20Cx
+�d\@@E�p���exzx: Command not found
+tish error: #-2
+embox>
+@@embox>
+@@@@f@@@@�@\@@e�poxpB@ex�
+@@@@f@@@@�@\@@e�poxpB@ex�: Command not found
+tish error: #-2
+embox>
+A@@@A@@@@@�@\_@ex@@@@@�@\@@expoxp@@expoxp@@ex�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

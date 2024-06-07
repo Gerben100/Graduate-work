@@ -1,0 +1,172 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�e�
+�: Command not found
+tish error: #-2
+embox>
+�gembox>
+�g[K[6Cembox>x
+�g[K[7Cembox>xp
+�g[K[8Cembox>xpo
+�g[K[9Cembox>xpor
+�g[K[10Cembox>xpor 
+�g[K[11Cembox>xpor e
+�g[K[12Cembox>xpor e�g[K[12C
+xpor: Command not found
+tish error: #-2
+embox>
+�hembox>
+�h[K[6Cembox>x
+�h[K[7Cembox>xq
+�h[K[8Cembox>xq�
+�h[K[9Cembox>xq�r
+�h[K[10Cembox>xq�ri
+�h[K[11Cembox>xq�rie
+�h[K[12Cembox>xq�rie�h[K[12C
+xq�rie�: Command not found
+tish error: #-2
+embox>
+�iembox>
+�i[K[6Cembox>q
+�i[K[7Cembox>qp
+�i[K[8Cembox>qpo
+�i[K[9Cembox>qpo�
+�i[K[10Cembox>qpo�t
+�i[K[11Cembox>qpo�ti
+�i[K[12Cembox>qpo�tie
+�i[K[13Cembox>qpo�tie�i[K[13C
+qpo�tie�: Command not found
+tish error: #-2
+embox>
+������embox>
+������[K[13Cembox>
+������l[K[14Cembox>
+������lk[K[15Cembox>
+������lkf[K[16C
+������lkf: Command not found
+tish error: #-2
+embox>
+�i��embox>
+�i��[K[6Cembox>x
+�i��[K[7Cembox>x@
+�i��[K[8Cembox>x@
+�i��[K[6Cembox>x@
+�i��[K[7Cembox>tx@
+�i��[K[8Cembox>tix@
+�i��[K[9Cembox>ti x@
+�i��[K[10Cembox>ti @
+�i��[K[10Cembox>ti e@
+�i��[K[11Cembox>ti e�@
+�i��[K[12Cembox>ti e�@
+�i��[K[13Cembox>ti e�o@
+�i��[K[14Cembox>ti e�or@
+�i��[K[15Cembox>ti e�ort@
+�i��[K[16C
+embox>
+�iembox>
+�i[K[6Cembox>x
+�i[K[7Cembox>xp
+�i[K[8Cembox>xpo
+�i[K[9Cembox>xpo�
+�i[K[10Cembox>xpo��
+�i[K[11Cembox>xpo��i
+�i[K[12Cembox>xpo��ie
+�i[K[13Cembox>xpo��ie�i[K[13C
+xpo��ie�: Command not found
+tish error: #-2
+embox>
+embox>xpo��ie�[K[14C�tiaembox>xpo��ie��tia[K[6Cembox>�xpo��ie��tia[K[7Cembox>�ixpo��ie��tia[K[8Cembox>
+������lkf[K�tiaembox>
+������lkf�tia[K[6Cembox>�
+������lkf�tia[K[7Cembox>�i
+������lkf�tia[K[8Cembox>�ie
+������lkf�tia[K[9Cembox>�iee
+������lkf�tia[Kembox>�iee�
+������lkf�tia[K
+�iee�: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[6Cembox>x
+���[K[7Cembox>xp
+���[K[8Cembox>xpo
+���[K[9Cembox>xpor
+���[K[10Cembox>xport
+���[K[11Cembox>xportk
+���[K[12Cembox>xportke
+���[Kembox>xportke���[K[13C
+xportke���: Command not found
+tish error: #-2
+embox>
+e��A�%@?@@66��@�p�tr
+e�: Command not found
+tish error: #-2
+embox>
+cd
+embox>�m@00000pin090�0�0000��
+embox>8I888@exl\goutport<
+8I888@exl\goutport<: Command not found
+tish error: #-2
+embox>
+��embox>
+e�embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+��
+e: Command not found
+tish error: #-2
+embox>
+���ls
+els: Command not found
+tish error: #-2
+embox>
+�%
+�%: Command not found
+tish error: #-2
+embox>
+������
+������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�׀
+embox>
+r��cd
+r��cd: Command not found
+tish error: #-2
+embox>
+phri��
+e: Command not found
+tish error: #-2
+embox>
+���
+els�: Command not found
+tish error: #-2
+embox>
+
+�����������������������������������������������
+tish error: #-22
+embox>���������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,49 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C��@@@@@@O@@?@@@@@@@@@@@@\@@exp@�@@@@@�@
+�6656>6@@��@@@@@@O@@?@@@@@@@@@@@@\@@exp@�@@@@@�@: Command not found
+tish error: #-2
+embox>@@@?@@@@@@\@@expo
+@@@?@@@@@@\@@expo: Command not found
+tish error: #-2
+embox>
+�665��embox>
+�665��[K[13C�����@@@@@@@@@@@@@@@���@@e@?@��@@@@@@@
+�665�������@@@@@@@@@@@@@@@���: Command not found
+tish error: #-2
+embox>@@�@@@@"@@@\@@e@?@@@@@@@@@@@@@@@^po
+@@�@@@@"@@@\@@e@?@@@@@@@@@@@@@@@^po: Command not found
+tish error: #-2
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C��@@@@@@@@@?@@@@@@@@@@@@
+�6656>6@@��@@@@@@@@@?@@@@@@@@@@@@: Command not found
+tish error: #-2
+embox>\@bexp@�@@@@?@@pin@@@@@@@@@@\@@expo
+\@bexp@�@@@@?@@pin@@@@@@@@@@\@@expo: Command not found
+tish error: #-2
+embox>
+�6656O6@@embox>
+�6656O6@@��@@@@@@@@S?@@@embox>[K[30C��@@@@embox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51C
+�6656O6@@��@@@@@@@@S?@@��@@@@: Command not found
+tish error: #-2
+embox>@?@�@\@@expW@@@@@@,@@@@@@?@�@\@@exp@�@@@@?@@@@@@I@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

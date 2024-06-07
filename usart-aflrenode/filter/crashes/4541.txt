@@ -1,0 +1,76 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ï¿½xï¿½xexï¿½TTTETTTTSTTTexitTTTTTTTTTTTTT
+embox>
+ï¿½xï¿½xeï¿½xï¿½embox>
+ï¿½xï¿½xeï¿½xï¿½[K[16Cembox>
+ï¿½xï¿½xeï¿½xï¿½[K[17Cembox>
+ï¿½xï¿½xeï¿½xEï¿½[K[18Cembox>
+ï¿½xï¿½xeï¿½xETï¿½[K[19Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½[K[20Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½ï¿½[K[21Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½Tï¿½[K[22Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTï¿½[K[23Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTï¿½[K[24Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTï¿½[K[25Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTï¿½[K[26Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTï¿½[K[27Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTï¿½[K[28Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTï¿½[K[29Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTï¿½[K[30Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[31Cembox>
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[6Cembox>T
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[7Cembox>TT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[8Cembox>TTT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[9Cembox>TTTT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[10Cembox>TTTTT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[11Cembox>TTTTTT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[12Cembox>TTTTTTT
+ï¿½xï¿½xeï¿½xETTï¿½TTTTTTTTTTï¿½[K[13C
+TTTTTTT: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cï¿½JJJï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>TTTTTTT
+[K[14Cï¿½Fï¿½[?5h[?5lä““ï¿½iembox>ï¿½JJJï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[16Cï¿½weembox>TTTTTTT
+ï¿½F[K[16Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½embox>TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½[K[6Cembox>ï¿½TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½[K[7Cembox>ï¿½ï¿½TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½[K[8Cembox>ï¿½ï¿½ï¿½TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½[K[9Cembox>ï¿½ï¿½ï¿½ï¿½TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeï¿½[K[10C
+ï¿½ï¿½ï¿½ï¿½TTTTTTT: Command not found
+tish error: #-2
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½y
+ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cï¿½yeï¿½ï¿½ï¿½lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>ï¿½ï¿½ï¿½ï¿½ï¿½[K[11Cï¿½ï¿½ï¿½ï¿½ï¿½ô“““ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>ï¿½ï¿½ï¿½ï¿½TTTTTTT
+ï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½D\@@eeô“““
+ï¿½ï¿½ï¿½ï¿½TTTTTTT: Command not found
+tish error: #-2
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½y
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>[Kï¿½yexï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[13Cï¿½ï¿½ï¿½ï¿½ï¿½ô“““ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ô“““ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[13Cï¿½exï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[37Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+embox>ï¿½embox>[K[14Cï¿½ï¿½ï¿½wï¿½ô“““ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>[K[37Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½y
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��pi�n��_
+��pi�n: Command not found
+tish error: #-2
+embox>
+��pembox>��pi�n[K[12Cinembox>��pi�nin[K[16C
+��pi�n: Command not found
+tish error: #-2
+embox>
+�pembox>
+�p[K[9C
+embox>
+embox>
+embox>
+embox>cembox>c[K[8C
+embox>
+embox>n
+n: Command not found
+tish error: #-2
+embox>embox>[K[6C
+embox>_
+_: Command not found
+tish error: #-2
+embox>
+inAp
+inAp: Command not found
+tish error: #-2
+embox>
+�in�+
+embox>_
+_: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>embox>[K[6C
+embox>_
+_: Command not found
+tish error: #-2
+embox>
+��pi��pi����_
+�: Command not found
+tish error: #-2
+embox>
+�"ziz
+�"ziz: Command not found
+tish error: #-2
+embox>
+�embox>[K[6Cpinx���������lngout��������������
+pinx���: Command not found
+tish error: #-2
+embox>
+�p����embox>pinx���[K[13Cêembox>pinx���ê[K[6Cembox>�pinx���ê[K[7Cembox>��pinx���ê[K[8Cembox>���pinx���êembox>����pinx���êembox>����"pinx���êembox>����"�pinx���êembox>����"��pinx���êembox>����"���pinx���êembox>����"����pinx���êembox>����"�����pinx���êembox>����"����ÿpinx���ê
+����"����ÿpinx���: Command not found
+tish error: #-2
+embox>
+�piembox>
+�piembox>
+�piembox>
+�piembox>�
+�piembox>��
+�piembox>���
+�piembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+�pembox>
+��x�����embox>
+��x������������Qogqut��pin���������
+�: Command not found
+tish error: #-2
+embox>
+�pin��embox>[K�����������logout���������
+�: Command not found
+tish error: #-2
+embox>
+�pin�xxw�xxpd�xxxxxxxxx�xxx�������������
+�: Command not found
+tish error: #-2
+embox>
+����nx����gi�����logout��������������
+����nx����: Command not found
+tish error: #-2
+embox>
+�pinx����_�������logout���A�����������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

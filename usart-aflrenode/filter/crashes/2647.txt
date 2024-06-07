@@ -1,0 +1,141 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>8�8
+embox>�[?5h[?5lZ88e
+�Z88e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>X
+[K[7Cembox>X8
+[K[8Cembox>X88
+[K[9Cembox>X888
+[K[10Cembox>X8888
+[K[11Cembox>X88888
+[K[12Cembox>X888888
+[K[13Cembox>X8888888
+[K[14Cembox>X88888886
+[K[15Cembox>X888888868
+[K[16Cembox>X8888888688
+[K[17Cembox>X88888886888
+[K[18Cembox>X88888886888'
+[K[19Cembox>X88888886888'8
+[K[20Cembox>X88888886888'88
+[K[21Cembox>X88888886888'888
+[K[22Cembox>X88888886888'8888
+[K[23Cembox>X88888886888'8888
+[K[24Cembox>X88888886888'88888
+[K[25Cembox>X88888886888'888888
+[K[26Cembox>X88888886888'8888888
+[K[27Cembox>X88888886888'8888888e
+[K[28C
+X88888886888'8888: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>�
+l[K[7Cembox>��
+l[K[8Cembox>���
+l[K[9Cembox>����
+l[K[10Cembox>�����
+l[K[11Cembox>������
+l[K[12Cembox>�������
+l[K[13Cembox>��������
+l[K[14Cembox>���������
+l[K[15Cembox>���������
+l[K[16Cembox>����������
+l[K[17Cembox>�����������
+l[K[18Cembox>������������
+l[K[19Cembox>�������������
+l[K[20Cembox>��������������
+l[K[21Cembox>���������������
+l[K[22Cembox>����������������
+l[K[23Cembox>����������������
+l[K[24Cembox>����������������
+l[K[25Cembox>����������������
+l[K[26Cembox>X88888886888'8888[K[23C88@888688888888888e
+X88888886888'888888@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���n
+���n: Command not found
+tish error: #-2
+embox>
+�
+embox>X8888888888Qe
+X88888888: Command not found
+tish error: #-2
+embox>
+ltxitembox>
+ltxit[K[6Cembox>�
+ltxit[K[7Cembox>��
+ltxit[K[8Cembox>��l
+ltxit[K[9Cembox>��ls
+ltxit[K[10Cembox>��ls8
+ltxit[K[11Cembox>��ls88
+ltxit[K[12Cembox>��ls888
+ltxitembox>��ls8888
+ltxitembox>��ls88888
+ltxitembox>��ls888887
+ltxitembox>��ls888887�
+ltxitembox>��ls888887�@
+ltxitembox>��ls888887�@8
+ltxitembox>��ls888887�@88
+ltxitembox>��ls888887�@888
+ltxitembox>��ls888887�@8888
+ltxitembox>��ls888887�@88888
+ltxitembox>��ls888887�@888888
+ltxitembox>��ls888887�@8888888
+ltxitembox>��ls888887�@88888888
+ltxitembox>��ls888887�@888888888
+ltxitembox>��ls888887�@888888888
+ltxitembox>��ls888887�@8888888888
+ltxitembox>��ls888887�@8888888888e
+ltxit
+��ls888887�@8888888888e: Command not found
+tish error: #-2
+embox>
+88lembox>
+88l[K[10C@@
+88l@@: Command not found
+tish error: #-2
+embox>
+l�embox>
+l�embox>l
+l�embox>lo
+l�embox>lo(
+l�embox>lo(8
+l�embox>lo(87
+l�embox>lo(87
+l�embox>lo(87
+l�embox>!lo(87
+l�embox>!"lo(87
+l�embox>!"8lo(87
+l�embox>!"88lo(87
+l�embox>!"88elo(87
+l�
+!"88elo(87: Command not found
+tish error: #-2
+embox>
+dU8888888688888888888e
+d: Command not found
+tish error: #-2
+embox>
+l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

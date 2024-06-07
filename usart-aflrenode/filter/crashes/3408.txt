@@ -1,0 +1,117 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�g��embox>�g�[K[9Cogout�g�d56)6@@�embox>�g�ogout�g�d56)6@@[K[26C��@@@p@@@@@?I@@@@@@@@@
+�g�: Command not found
+tish error: #-2
+embox>@\`@exp@�@@@@?@@@
+@\`@exp@�@@@@?@@@: Command not found
+tish error: #-2
+embox>
+�g��embox>
+�g�[K[10Cogout�g�6656&6@@�embox>
+�g�ogout�g�6656&6@@[K[27C��@@@p@@@@@?@p@�@�@@?/@
+�g�: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C��g��embox>
+߁�g�[K[12Cogout�g�6656)6@@�embox>
+߁�g�ogout�g�6656)6@@[K[29C��@@@p@@@@@�@@@@@@@@@@
+߁�g�: Command not found
+tish error: #-2
+embox>@\`@exp@�@@@@?@@@
+@\`@exp@�@@@@?@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>g
+[K[7Cembox>g�
+[K[8Cembox>g��
+[K[9Cembox>g�
+[K[8Cembox>g�
+[K[9Cembox>g�o
+[K[10Cembox>g�og
+[K[11Cembox>g�ogo
+[K[12Cembox>g�ogou
+[K[13Cembox>g�ogout
+[K[14Cembox>g�ogout�
+[K[15Cembox>g�ogout�g
+[K[16Cembox>g�ogout�g�
+[K[17Cembox>g�ogout�g�6
+[K[18Cembox>g�ogout�g�66
+[K[19Cembox>g�ogout�g�665
+[K[20Cembox>g�ogout�g�6656
+[K[21Cembox>g�ogout�g�6656)
+[K[22Cembox>g�ogout�g�6656)6
+embox>g�ogout�g�6656)6@
+embox>g�ogout�g�6656)6@@
+embox>g�ogout�g�6656)6@@p
+embox>g�ogout�g�6656)6@@p@
+embox>g�ogout�g�6656)6@@p@�
+embox>g�ogout�g�6656)6@@p@�0
+embox>g�ogout�g�6656)6@@p@�0�
+embox>g�ogout�g�6656)6@@p@�0�
+embox>g�ogout�g�6656)6@@p@�0�8
+embox>g�ogout�g�6656)6@@p@�0�8@
+embox>g�ogout�g�6656)6@@p@�0�8@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@@
+embox>g�ogout�g�6656)6@@p@�0�8@@@@?@`@
+Y@@@@
+
+g�: Command not found
+tish error: #-2
+embox>`Bexp���@Eembox>`Bexp���@E[K[6Cembox>@`Bexp���@E[K[7Cembox>@@`Bexp���@E[K[8C
+@@`Bexp���@E: Command not found
+tish error: #-2
+embox>
+�@@@@?@@@
+�@@@@?@@@: Command not found
+tish error: #-2
+embox>
+�g��ogout�g�6656)6@@��A@@@p@@@@@?@@@�@@@@@
+�g�: Command not found
+tish error: #-2
+embox>@\`@exp@�@@@@?@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

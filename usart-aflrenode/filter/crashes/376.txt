@@ -1,0 +1,253 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�cN�js
+�cN�js: Command not found
+tish error: #-2
+embox>
+b܀����
+b܀����: Command not found
+tish error: #-2
+embox>
+������������i�������������
+������������i�������������: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox> 
+[K[7Cembox> 
+[K[6Cembox>- 
+[K[7C
+-: Command not found
+tish error: #-2
+embox>
+lppin
+l: Command not found
+tish error: #-2
+embox>
+lembox>
+[K[7Cgsut�
+tish error: #-22
+embox>
+lfsexp�rt
+lfsexp�rt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>@
+[K[7Cembox>@
+[K[9C
+@: Command not found
+tish error: #-2
+embox>
+l���l�ls
+l���l�ls: Command not found
+tish error: #-2
+embox>
+l��l���lcdoIs
+l��l���lcdoIs: Command not found
+tish error: #-2
+embox>
+l��exilogout
+l��exilogout: Command not found
+tish error: #-2
+embox>
+��hL�
+�: Command not found
+tish error: #-2
+embox>
+l��[H[H[2JMs
+l��: Command not found
+tish error: #-2
+embox>
+l���
+l���s: Command not found
+tish error: #-2
+embox>
+�ssl
+��lssl
+�ssl: Command not found
+tish error: #-2
+embox>
+h���s
+h���s: Command not found
+tish error: #-2
+embox>
+� 
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+t$d@L
+t$d@L: Command not found
+tish error: #-2
+embox>
+@i
+@i: Command not found
+tish error: #-2
+embox>
+�&@
+embox>
+ex
+ex: Command not found
+tish error: #-2
+embox>
+j�Cd���i
+tish error: #-22
+embox>
+��
+embox>x@i
+x@i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+logout
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+{���~�
+{��~�: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l���l
+�����l: Command not found
+tish error: #-2
+embox>
+�w��
+�: Command not found
+tish error: #-2
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+l
+embox>
+{
+{: Command not found
+tish error: #-2
+embox>
+cdm
+cdm: Command not found
+tish error: #-2
+embox>
+U�[?5h[?5l����
+U�����: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+l�[?5h[?5l�ccd��
+l��ccd��: Command not found
+tish error: #-2
+embox>
+>��������
+>�����: Command not found
+tish error: #-2
+embox>
+)�[?5h[?5l���
+)��: Command not found
+tish error: #-2
+embox>
+l���
+l��: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l�Z
+embox>
+embox>
+h ���prort
+�prort: Command not found
+tish error: #-2
+embox>
+l����[?5h[?5l
+l���: Command not found
+tish error: #-2
+embox>
+l�
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+
+embox>
+l�[?5h[?5l @�
+l�: Command not found
+tish error: #-2
+embox>
+�����exit
+����exit: Command not found
+tish error: #-2
+embox>
+ld���4
+ld���4: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+l܀1@_@= @ @@s�pin6@@@@6@@ex
+l܀1@_@=: Command not found
+tish error: #-2
+embox>
+l��6656@��@@@��@ @@@@@6@@ex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,160 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>0
+0: Command not found
+tish error: #-2
+embox>
+uembox>
+u[K[6Cembox>
+u[K[7Cembox>
+u[K[8Cembox>[K[6Clogout
+logout: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>o
+�[K[7Cembox>od
+�[K[8Cembox>od
+�[K[9Cembox>od
+�[K[10Cembox>od
+�[K[11Cembox>od^
+�[K[12Cembox>od^n
+�[K[13Cembox>od^n
+�[K[14Cembox>od^n^
+�[K[15Cembox>od^n^n
+�[K[16Cembox>od^n^ne
+�[K[17Cembox>od^n^nex
+�[K[18Cembox>od^n^nexp
+�[K[19Cembox>od^n^nexp@
+�[K[20Cembox>od^n^nexp@�
+�[K[21Cembox>od^n^nexp@�@
+�[K[22Cembox>od^n^nexp@�@�
+�[K[23Cembox>od^n^nexp@�@�v
+�[K[24Cembox>od^n^nexp@�@�vv
+�[K[25Cembox>od^n^nexp@�@�vv
+�[K[26Cembox>od^n^nexp@�@�vv
+�[K[27Cembox>od^n^nexp@�@�vv
+�[K[28Cembox>od^n^nexp@�@�vv
+�[K[29Cembox>od^n^nexp@�@�vv^
+�[K[30Cembox>od^n^nexp@�@�vv^�
+�[K[31Cembox>od^n^nexp@�@�vv^�o
+�[K[32Cembox>od^n^nexp@�@�vv^�o
+�[K[6Cembox>~od^n^nexp@�@�vv^�o
+�[K[7Cembox>~pod^n^nexp@�@�vv^�o
+�[K[8Cembox>logout[K[15C��vcd|nY�
+logout��vcd|nY�: Command not found
+tish error: #-2
+embox>�embox>[K[9C
+: Command not found
+tish error: #-2
+embox>
+�^�oembox>
+�^�o[K[6Cembox>~
+�^�o[K[7Cembox>~p
+�^�o[K[8Cembox>~pi
+�^�o[K[9Cembox>~pi^
+�^�o[K[10Cembox>~pi^�
+�^�o[K[11Cembox>~pi^�o
+�^�o[K[12Cembox>~pi^�o
+�^�o[K[6Cembox>~~pi^�o
+�^�o[K[7Cembox>~p~pi^�o
+�^�o[K[8Cembox>~pi~pi^�o
+�^�o[K[9Cembox>~pin~pi^�o
+�^�o[K[10Cembox>~pinY~pi^�o
+�^�o[K[11Cembox>~pinYv~pi^�o
+�^�o[K[12Cembox>~pinYv~pi^�o
+�^�o[K[13Cembox>~pinYv~�pi^�o
+�^�o[K[14Cembox>~pinYv~�^pi^�o
+�^�o[K[15Cembox>~pinYv~�^�pi^�o
+�^�o[K[16Cembox>~pinYv~�^�opi^�o
+�^�o[K[17Cembox>~pinYv~�^�opi^�o
+�^�o[K[6Cembox>~~pinYv~�^�opi^�o
+�^�o[K[7Cembox>~p~pinYv~�^�opi^�o
+�^�o[K[8Cembox>~pi~pinYv~�^�opi^�o
+�^�o[K[9Cembox>~pi^~pinYv~�^�opi^�o
+�^�o[K[10Cembox>~pi^�~pinYv~�^�opi^�o
+�^�o[K[11Cembox>~pi^�o~pinYv~�^�opi^�o
+�^�o[K[12Cembox>~pi^�o~pinYv~�^�opi^�o
+�^�o[K[6Cembox>~~pi^�o~pinYv~�^�opi^�o
+�^�o[K[7Cembox>~p~pi^�o~pinYv~�^�opi^�o
+�^�o[K[8Cembox>~pi~pi^�o~pinYv~�^�opi^�o
+�^�o[K[9Cembox>~pin~pi^�o~pinYv~�^�opi^�o
+�^�o[K[10Cembox>~pinY~pi^�o~pinYv~�^�opi^�o
+�^�o[K[11Cembox>~pinYv~pi^�o~pinYv~�^�opi^�o
+�^�o[K[12Cembox>~pinYv~pi^�o~pinYv~�^�opi^�o
+�^�o[K[13Cembox>~pinYv~pi^�o~pinYv~�^�opi^�o
+�^�o[K[14Cembox>~pinYv~cpi^�o~pinYv~�^�opi^�o
+�^�o[K[15Cembox>~pinYv~cdpi^�o~pinYv~�^�opi^�o
+�^�o[K[16Cembox>~pinYv~cdpi^�o~pinYv~�^�opi^�o
+�^�o[K[17Cembox>~pinYv~cdcpi^�o~pinYv~�^�opi^�o
+�^�o[K[18Cembox>~pinYv~cdcdpi^�o~pinYv~�^�opi^�o
+�^�o[K[19Cembox>~pinYv~cdcdlpi^�o~pinYv~�^�opi^�o
+�^�o[K[20Cembox>~pinYv~cdcdlnpi^�o~pinYv~�^�opi^�o
+�^�o[K[21Cembox>~pinYv~cdcdlnYpi^�o~pinYv~�^�opi^�o
+�^�o[K[22Cembox>~pinYv~cdcdlnYvpi^�o~pinYv~�^�opi^�o
+�^�o[K[23Cembox>~pinYv~cdcdlnYvpi^�o~pinYv~�^�opi^�o
+�^�o[K[24Cembox>~pinYv~cdcdlnYvpi^�o~pinYv~�^�opi^�o
+�^�o[K[25C
+~pinYv~cdcdlnYvpi^�o~pinYv~�^�opi^�o: Command not found
+tish error: #-2
+embox>cdlls
+cdlls: Command not found
+tish error: #-2
+embox>
+�@$
+�@$: Command not found
+tish error: #-2
+embox>
+�^�oembox>
+�^�o[K[6Cembox>~
+�^�o[K[7Cembox>~p
+�^�o[K[8Cembox>~pi
+�^�o[K[9Cembox>~pi^
+�^�o[K[10Cembox>~pi^�
+�^�oembox>~pi^�o
+�^�oembox>~pi^�o
+�^�oembox>~~pi^�o
+�^�oembox>~p~pi^�o
+�^�oembox>~pi~pi^�o
+�^�oembox>~pin~pi^�o
+�^�oembox>~pinY~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>~pinYv~pi^�o
+�^�oembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[20Cembox>[K[21Cembox>[K[22C
+~pinYv~: Command not found
+tish error: #-2
+embox>
+�^�o
+~pin: Command not found
+tish error: #-2
+embox>
+�^�o�pi^�o0~pbYv}Ci��wlqexit�mqp
+~pinbYv}Ci: Command not found
+tish error: #-2
+embox>
+�^�oYv�cdlnnYvcdl
+~pin: Command not found
+tish error: #-2
+embox>
+�^�o
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

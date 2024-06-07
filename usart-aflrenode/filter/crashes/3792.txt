@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e�l�Ya�
+e�l�Ya�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+eeeevaaZvv�`va�`vavda�`vbva
+eeeevaaZvv�`va�`vav: Command not found
+tish error: #-2
+embox>
+e@>
+e@>: Command not found
+tish error: #-2
+embox>
+e�aexport
+e�aexport: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+%��]
+%��]: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+expembox>
+�[K[8CroexzG�)Nut
+�: Command not found
+tish error: #-2
+embox>
+ex
+ex: Command not found
+tish error: #-2
+embox>a�iGd)�ut
+a�iGd)�ut: Command not found
+tish error: #-2
+embox>
+e��o
+e��o: Command not found
+tish error: #-2
+embox>
+gxYou)NGdxwpou)�Gd�t
+gxYou)NGdxwpou)�Gd�t: Command not found
+tish error: #-2
+embox>
+gKoexportioexporti�xg�oexp{rti��xg�oexp{rti
+exoexp{rti: Command not found
+tish error: #-2
+embox>�i"K
+�: Command not found
+tish error: #-2
+embox>
+expoex�G[H[H[2J)Nut
+expoex�G)Nut: Command not found
+tish error: #-2
+embox>
+eiGd)NuV
+eiGd)NuV: Command not found
+tish error: #-2
+embox>
+kppyxiGppppppppppppexit)Nut
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

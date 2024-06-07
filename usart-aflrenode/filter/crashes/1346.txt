@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+[K[8Cui�embox>
+ui�[K[10Cembox>
+ui�[K[11Cembox>
+ui��[K[12Cembox>
+ui�y�[K[13Cembox>
+ui�yu�[K[14Cembox>
+ui�yui�[K[15Cembox>
+ui�yui��[K[16Cembox>
+ui�yui�f�[K[17Cembox>
+ui�yui�f��[K[18Cembox>
+ui�yui�f���[K[19Cembox>
+ui�yui�f��c�[K[20Cembox>
+ui�yui�f��cx�[K[21Cembox>
+ui�yui�f��cx��[K[22Cembox>
+ui�yui�f��cx�6�[K[23Cembox>[K[6CF6����embox>F6����[K[6Cembox>�F6����[K[7Cembox>��F6����[K[8Cembox>��@F6����[K[9Cembox>��@@F6����[K[10Cembox>��@@@F6����[K[11Cembox>��@@@lF6����[K[12Cembox>��@@@lsF6����[K[13Cembox>��@@@ls�F6����[K[14Cembox>��@@@ls��F6����[K[15Cembox>��@@@ls��F6����[K[16Cembox>��@@@ls��F6����[K[17Cembox>��@@@ls��F6����[K[16Cembox>��@@@ls���F6����[K[17Cembox>��@@@ls���@F6����[K[18Cembox>��@@@ls���@cF6����[K[19Cembox>��@@@ls���@c6F6����[K[20Cembox>��@@@ls���@c66F6����[K[21Cembox>��@@@ls���@c665F6����[K[22Cembox>��@@@ls���@c6656F6����[K[23Cembox>��@@@ls���@c6656>F6����[K[24C
+��@@@ls��: Command not found
+tish error: #-2
+embox>6T�@@/@@@@jekport@<@@@@@@@@\@@@@@@?exp@ls��embox>6T�@@/@@@@jekport@<@@@@@@@@\@@@@@@?exp@ls��[K[50C�@c6
+6T�@@/@@@@jekport@<@@@@@@@@\@@@@@@?exp@ls��: Command not found
+tish error: #-2
+embox>6
+6: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cui�embox>
+ui�[K[10Cembox>
+ui�[K[11Cembox>
+ui��[K[12Cembox>
+ui�y�[K[13Cembox>
+ui�yu�[K[14Cembox>
+ui�yui�[K[15Cembox>
+ui�yui��[K[16Cembox>
+ui�yui�f�[K[17Cembox>6[K[7C��cx�6embox>[K[6CF6>6T@embox>F6>6T@[K[6Cembox>�F6>6T@[K[7Cembox>��F6>6T@[K[8Cembox>��@F6>6T@[K[9Cembox>��@@F6>6T@[K[10Cembox>��@@@F6>6T@[K[11Cembox>��@@@lF6>6T@[K[12Cembox>��@@@lsF6>6T@[K[13Cembox>��@@@ls�F6>6T@[K[14Cembox>��@@@ls��F6>6T@[K[15Cembox>��@@@ls��F6>6T@[K[16Cembox>��@@@ls��F6>6T@[K[17Cembox>��@@@ls��F6>6T@[K[16Cembox>��@@@ls���F6>6T@[K[17Cembox>��@@@ls���@F6>6T@[K[18Cembox>��@@@ls���@cF6>6T@[K[19Cembox>��@@@ls���@c6F6>6T@[K[20Cembox>��@@@ls���@c66F6>6T@[K[21Cembox>��@@@ls���@c665F6>6T@[K[22Cembox>��@@@ls���@c6656F6>6T@[K[23Cembox>��@@@ls���@c6656>F6>6T@[K[24C
+��@@@ls��: Command not found
+tish error: #-2
+embox>6T�@@/@@@@jekpoyyyyyyryyyyyyyyyyyyyyyyyyyyyyyy�@c6
+6T�@@/@@@@jekpoyyyyyyryyyyyyyyyyyyyyyyyyyyyyyy�@c6: Command not found
+tish error: #-2
+embox>6
+6: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cui�embox>
+ui�[K[10Cembox>
+ui�[K[11Cembox>
+ui��[K[12Cembox>
+ui�y�[K[13Cembox>
+ui�yu�[K[14Cembox>
+ui�yui�[K[15Cembox>
+ui�yui��[K[16Cembox>
+ui�yui�f�[Kembox>6[K[7C��cx�6embox>[K[56C(embox>��@@@ls��[K[15C6T@embox>��@@@ls��6T@[Kembox>��@@@ls��6T@[Kembox>���@@@ls��6T@[Kembox>�@��@@@ls��6T@[Kembox>�@@��@@@ls��6T@[Kembox>�@@6��@@@ls��6T@[Kembox>�@@6l��@@@ls��6T@[Kembox>�@@6ls��@@@ls��6T@[Kembox>[K[14Cembox>[K[15Cembox>[K[15Cembox>[K[16Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[6Cembox>[K[7C
+��@@6ls���?c66: Command not found
+tish error: #-2
+embox>@@@@?exp@ls��s@\>6R�@kport@<@@@@@@@@c6@
+@@@@?exp@ls��: Command not found
+tish error: #-2
+embox>
+�ui���c��6F6T@
+��@@@ls��: Command not found
+tish error: #-2
+embox>*T�@@/@@@Ajekport@<@@@@@@@@\@@@@@@?exp@ls�2�@c#
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

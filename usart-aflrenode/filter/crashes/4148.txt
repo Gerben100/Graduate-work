@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>fx�dxport
+f
+fx: Command not found
+tish error: #-2
+embox>
+ccSc�
+ccSc�: Command not found
+tish error: #-2
+embox>
+excd*
+ex: Command not found
+tish error: #-2
+embox>
+eembox>
+ex[K[9Cf
+exf: Command not found
+tish error: #-2
+embox>
+���������[?5h[?5lf��������j��[?5h[?5lf
+���������f��������j��f: Command not found
+tish error: #-2
+embox>
+embox>
+���������f��������j��fembox>[K[6C
+embox>
+���4
+��: Command not found
+tish error: #-2
+embox>
+d�embox>
+d�[K[9Cembox>
+d�[K[10Cembox>
+d�f[K[11C
+d�: Command not found
+tish error: #-2
+embox>
+exembox>
+ex[K[9Cembox>
+ex[K[10Cembox>
+ex[K[9Cembox>[K[6Cembox>
+d�[K[9C9�exportexWt
+d�9: Command not found
+tish error: #-2
+embox>
+exembox>
+ex[K[9C
+ex: Command not found
+tish error: #-2
+embox>hpembox>
+ex[K9�eembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20C
+ex9: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>[K[6C@V
+@: Command not found
+tish error: #-2
+embox>
+p�2���rtee{Wt
+@2: Command not found
+tish error: #-2
+embox>
+C����������������������x�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

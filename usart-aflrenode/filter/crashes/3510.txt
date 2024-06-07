@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>�tt�@tgottdttVttttttttttttttt�tt�@t�ttt
+�tt�: Command not found
+tish error: #-2
+embox>tttdttVtuttttttogoutembox>[K[6CVttembox>Vtt[K[6Cembox>Vtt[K[7Cembox>�Vtt[K[8Cembox>�tVtt[K[9Cembox>�ttVtt[K[10Cembox>�tttVtt[K[11Cembox>�ttttVtt[K[12Cembox>�tttttVtt[K[13Cembox>�ttttttVtt[K[14Cembox>�tttttttVtt[K[15Cembox>�ttttttttVtt[K[16Cembox>�tttttttttVtt[K[17Cembox>�tttttttttdVtt[K[18C
+embox>ttMttttttttttttttk�tt�@tgontd�
+ttMttttttttttttttk�tt�: Command not found
+tish error: #-2
+embox>
+
+embox>�tt�@dtdttVtttuttttttttttt�t�tt�@t
+�tt�: Command not found
+tish error: #-2
+embox>tttttdttembox>�tt�[K[10Ctt�@ttttttdttVtttttttto
+�tt�: Command not found
+tish error: #-2
+embox>goutembox>[K[6C�Vttembox>�Vtt[K[6Cembox>�Vtt[K[7Cembox>��Vtt[K[8Cembox>�t�Vtt[K[9Cembox>�t^�Vtt[K[10Cembox>�t^t�Vtt[K[11Cembox>�t^t��Vtt[K[12Cembox>�t^t�k�Vtt[K[13Cembox>�t^t�kk�Vtt[K[14Cembox>�t^t�kkk�Vtt[K[15Cembox>�t^t�kkkk�Vtt[K[16Cembox>�t^t�kkkkt�Vtt[K[17Cembox>�t^t�kkkktd�Vtt[K[18Cembox>�t^t�kkkktd��Vtt[K[19Cembox>�t^t�kkkktd�t�Vtt[K[20Cembox>�t^t�kkkktd�tM�Vtt[K[21Cembox>�t^t�kkkktd�tMt�Vtt[K[22Cembox>�t^t�kkkktd�tMtt�Vtt[K[23Cembox>�t^t�kkkktd�tMttt�Vtt[K[24Cembox>�t^t�kkkktd�tMtttt�Vtt[K[25Cembox>�t^t�kkkktd�tMttttt�Vtt[K[26Cembox>�t^t�kkkktd�tMtttttt�Vtt[K[27Cembox>�t^t�kkkktd�tMttttttt�Vtt[K[28Cembox>�t^t�kkkktd�tMtttttttt�Vtt[K[29Cembox>�t^t�kkkktd�tMttttttttt�Vtt[K[30Cembox>�t^t�kkkktd�tMtttttttttt�Vtt[K[31Cembox>�t^t�kkkktd�tMttttttttttt�Vtt[K[32Cembox>�t^t�kkkktd�tMtttttttttttt�Vtt[K[33Cembox>�t^t�kkkktd�tMttttttttttttt�Vtt[K[34Cembox>�t^t�kkkktd�tMtttttttttttttt�Vtt[K[35Cembox>�t^t�kkkktd�tMttttttttttttttt�Vtt[K[36Cembox>�t^t�kkkktd�tMttttttttttttttt��Vtt[K[37Cembox>�t^t�kkkktd�tMttttttttttttttt�t�Vtt[K[38Cembox>�t^t�kkkktd�tMttttttttttttttt�tt�Vtt[Kembox>�t^t�kkkktd�tMttttttttttttttt�tt��Vtt[Kembox>�t^t�kkkktd�tMttttttttttttttt�tt��Vtt[K
+embox>@tgontd�
+@tgontd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>rtt�@tgottdttVttttttttttt�ttt�tt�@ttt
+rtt�: Command not found
+tish error: #-2
+embox>tttdttVttembox>tttdttVtt[K[16C�tttttogou_embox>[K[6C�Vttembox>�Vtt[K[6Cembox>�Vtt[K[7Cembox>��Vtt[K[8Cembox>�t�Vtt[K[9Cembox>�tt�Vtt[K[10Cembox>�ttt�Vtt[K[11Cembox>�tttt�Vtt[K[12Cembox>�ttttt�Vtt[K[13Cembox>�tttttt�Vtt[K[14Cembox>�ttttttt�Vtt[K[15Cembox>�tttttttt�Vtt[K[16Cembox>�ttttttttt�Vtt[K[17Cembox>�tttttttttd�Vtt[K[18C
+embox>tt;�tttttttttttttt�tt�5tgontd�
+tt;�tttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>
+embox>,�ut�@tgottembox>,�ut�@tgot[KttVttttttttttttttt����tttembox>[K[6C
+embox>ttttttdttVttttttgoutembox>[K[6C�Vttembox>�Vtt[K[6Cembox>�Vtt[K[7Cembox>��Vtt[K[8Cembox>�t�Vtt[K[9Cembox>�tt�Vtt[K[10Cembox>�ttt�Vtt[K[11Cembox>�tttt�Vtt[Kembox>�ttttt�Vtt[Kembox>�tttttt�Vtt[Kembox>�ttttttt�Vtt[Kembox>�ttttttt�Vtt[Kembox>�ttttttt�Vtt[Kembox>�ttttttt�Vttembox>�tttttttd�Vttembox>�tttttttdd�Vttembox>�tttttttddt�Vtt
+�ttttttt: Command not found
+tish error: #-2
+embox>tMt��tt�@ttttttt�tt�@tgopinttVttttttttttttttt�
+tMt��tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�tc�@tgexportottd�@�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@�@@d@d����": Command not found
+tish error: #-2
+embox>�t�ttttdttV�ttttttttufttMtttlstytttttttt�tt�@tgo
+�t�ttttdttV: Command not found
+tish error: #-2
+embox>n�d�
+n�d�: Command not found
+tish error: #-2
+embox>
+
+embox>�tt�@tgoptdtlVttttttttttttttt�tt�@ttt
+�tt�: Command not found
+tish error: #-2
+embox>tttdttVttttttttogouth%Vtt
+embox>tttdttGttttttttttttttt�tt�@tgontd�
+tttdttGttttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+
+embox>�tt�@tgottdttVttttttttttttttt�tt�@ttt
+�tt�: Command not found
+tish error: #-2
+embox>tttdttVttttttttoghut�Vtt
+embox>ttMttttttttttttttt�tttttttoghut�Vttt�@
+�Vtt: Command not found
+tish error: #-2
+embox>tgontd�
+tgontd�: Command not found
+tish error: #-2
+embox>
+
+embox>�tt�@tgottdtg�ttttttttttttttt�tt�@t�tp�dttVttttttrKttttttttdttVttt
+�tt�: Command not found
+tish error: #-2
+embox>ttdttMtTttttttttttttt�tQ�@tgontd�
+ttdttMtTttttttttttttt�tQ�: Command not found
+tish error: #-2
+embox>
+
+embox>�St�@tgotdttVttogoutt�tt�@ttt
+t�tt�: Command not found
+tish error: #-2
+embox>tttdtcdtVtttdtcdtVtttttttttttttttttt�tttttttt
+tttdtcdtVtttdtcdtVtt: Command not found
+tish error: #-2
+embox>tdttMtttttntd�
+tdttMtttttntd�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+[H[H[2J
+embox>
+embox>
+
+embox>�
+embox>y
+y: Command not found
+tish error: #-2
+embox>
+i
+embox>��xet�ppppp�pppplogomtpcc�px
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

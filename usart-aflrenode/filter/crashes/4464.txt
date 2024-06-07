@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�j�ogoutx~�
+�j�ogout: Command not found
+tish error: #-2
+embox>
+Lex rt
+Lex: Command not found
+tish error: #-2
+embox>
+�jembox>
+Lex[K[10Cembox>�j�ogout[K[16Cembox>
+Lex[K[10Cembox>�j�ogout[K[16Clogoutembox>�j�ogoutlogou[K[21Cx~�
+�j�ogoutlogoux~�: Command not found
+tish error: #-2
+embox>
+�jembox>�j�ogoutlogoux~�[K[24Cembox>
+Lex[K[11Cembox>�j�ogoutlogout[K[22Cpogo�tx~�
+�j�ogoutlogoutpogo�t: Command not found
+tish error: #-2
+embox>
+�jembox>�j�ogoutlogoutpogo�tembox>�j�ogoutlogoux~�embox>
+Lex[K[11C�l�
+embox> port�
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�o
+�[K[8Cembox>�or
+�[K[9Cembox>�orZ
+�[K[10Cembox>�orZo
+�[K[11Cembox>�orZog
+�[K[12Cembox>�orZogo
+�embox>�orZogou
+�embox>�orZogout
+�embox>
+�j[K[9Cembox>
+�j[K[6Cembox>
+�j[K[7Cembox>~
+�j[K[8Cembox>~�
+�j[K[9Cembox>~�
+�j[K[10C
+embox>
+�jembox>
+�j[K[9Cembox>�j�ogoutlogoutpogo�tembox>�j�ogoutlogoux~�///|g/
+embox>
+Lex[K[11C[?5h[?5lz~�
+Lex[?5h[?5lz~�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�Qembox>
+�[Kembox>
+Lex[?5h[?5lz~�embox>
+�j[K�Qembox>[K[29Cembox>�j�ogoutlogoux~�///|g/
+embox>
+Lex[K[11C��uu�x~�u�embox>
+Lex��uu�x~�u�embox>
+Lex��uu�x~�u�embox>
+Lex��uu�x~�u�embox>
+Lex��uu�x~�u�embox>�
+Lex��uu�x~�u�embox>�x
+Lex��uu�x~�u�embox>�x~
+Lex��uu�x~�u�embox>�x~�
+Lex��uu�x~�u�embox>�x~��
+Lex��uu�x~�u�
+embox>
+�jd}r�embox>
+�[K[8Ccdeorxptjd}rdlr}rdl
+�: Command not found
+tish error: #-2
+embox>
+�]d}rdlr}r�l
+�]d}rdlr}r�l: Command not found
+tish error: #-2
+embox>
+�jddrdlr}rdl
+�jddrdlr}rdl: Command not found
+tish error: #-2
+embox>
+u�S��dl
+tish error: #-22
+embox>
+�r~rdz
+�r~rdz: Command not found
+tish error: #-2
+embox>
+lllllllllllllllJlllll
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

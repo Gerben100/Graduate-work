@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>go$porp�
+embox>
+go$pora�
+tish error: #-22
+embox>
+h$qor��o�export
+h$qor��o�export: Command not found
+tish error: #-2
+embox>
+|o�ort�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��
+[K[9Cembox>��
+[K[10Cembox>��
+[K[11Cembox>��~
+[K[12Cembox>��~�
+[K[13C
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>s
+[K[7Cembox>s�
+[K[8Cembox>s�
+[K[6Cembox>ss�
+[K[7Cembox>s�s�
+[K[8Cembox>s�s�
+[K[6Cembox>�s�s�
+[K[7Cembox>�ls�s�
+[K[8Cembox>�ls�s�
+[K[9C
+�l: Command not found
+tish error: #-2
+embox>
+goo$p@po
+tish error: #-22
+embox>
+�ga$porp�
+�ga$porp�: Command not found
+tish error: #-2
+embox>
+go$pt]p�
+tish error: #-22
+embox>
+uiuu
+ui: Command not found
+tish error: #-2
+embox>
+iiiiirpd
+tish error: #-22
+embox>
+-
+-: Command not found
+tish error: #-2
+embox>
+q�rz�pindd
+q�rz�pindd: Command not found
+tish error: #-2
+embox>
+gg$p�rp�
+tish error: #-22
+embox>
+gp�
+tish error: #-22
+embox>
+go$porsgo$porp�
+tish error: #-22
+embox>
+srn�
+tish error: #-22
+embox>
+pw
+pw: Command not found
+tish error: #-2
+embox>
+go$porexportp��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���������
+embox>����Y`
+����Y`: Command not found
+tish error: #-2
+embox>
+�@�@
+�@�@: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>e
+��[K[7Cembox>e�
+��[K[8Cembox>e�f
+��[K[9C
+e�f: Command not found
+tish error: #-2
+embox>
+@o
+@: Command not found
+tish error: #-2
+embox>
+7�m
+7�m: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C�dexit
+�dexit: Command not found
+tish error: #-2
+embox>
+�ff
+�ff: Command not found
+tish error: #-2
+embox>
+����embox>
+����[K[11C@f
+����@: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�embox>[K[6C
+: Command not found
+tish error: #-2
+embox>
+�/Gf
+�/G: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��@O
+��@: Command not found
+tish error: #-2
+embox>
+j�w�6M���?@��@@��[@@@tt@@ttt�tttttt
+�/G: Command not found
+tish error: #-2
+embox>tTtt@
+tTtt@: Command not found
+tish error: #-2
+embox>
+�����6M[H[H[2JZ@���������[H[2J����������������������tt
+�����6M: Command not found
+tish error: #-2
+embox>tttt@logout
+tttt@logout: Command not found
+tish error: #-2
+embox>
+����M��'@��[@ttt�uttttR�
+��@: Command not found
+tish error: #-2
+embox>6M�[H[H[2J@Z�ttttt@
+��@: Command not found
+tish error: #-2
+embox>
+�@���6M[H[H[2J@�tt@@ .@@@@@ttt�uttttttttu@
+��@: Command not found
+tish error: #-2
+embox>
+�@���6M[H[H[2J@�@�tttttt@
+�@��6M: Command not found
+tish error: #-2
+embox>
+�@�xH�6M[H[H[2J@@��[@@@tt@@ .@AJ@exit�uttttt
+��@: Command not found
+tish error: #-2
+embox>tt�t@
+tt�t@: Command not found
+tish error: #-2
+embox>
+�@���6M
+�@��6M: Command not found
+tish error: #-2
+embox>@pin��[@@@tt@@ .@@@@@ttt�utttttt
+@: Command not found
+tish error: #-2
+embox>tttt@
+tttt@: Command not found
+tish error: #-2
+embox>
+�@���6M��[@@@tt@@ .@@@@@
+@@: Command not found
+tish error: #-2
+embox>ttt�utttttttttt@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

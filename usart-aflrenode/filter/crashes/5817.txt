@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>) i�embox>) i�[K[6Cembox>) i�[K[7Cembox>) i�[K[6Cembox>�) i�[K[7Cembox>�) i�[K[8Cembox>�d) i�[K[9Cembox>�d!) i�[K[10Cembox>�d!) i�[K[11C
+�d!: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Clout�x@iaa(ls
+l: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��x@�ia(
+��x@�ia(: Command not found
+tish error: #-2
+embox>
+@i(
+@i(: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�x@
+�x@: Command not found
+tish error: #-2
+embox>
+ttt�ttYtetttttttYtetttttttt
+ttt�ttYtetttttttYtetttttttt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�xHtd(
+�xHtd(: Command not found
+tish error: #-2
+embox>
+log��t
+log��t: Command not found
+tish error: #-2
+embox>
+�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�x`ia
+�x`ia: Command not found
+tish error: #-2
+embox>
+�lwwx(
+�lwwx(: Command not found
+tish error: #-2
+embox>
+@iu(
+@iu(: Command not found
+tish error: #-2
+embox>
+�55555o@Sa(
+�55555o@Sa(: Command not found
+tish error: #-2
+embox>
+wx@i(
+wx@i(: Command not found
+tish error: #-2
+embox>
+�c@ua
+embox>
+�i
+�i: Command not found
+tish error: #-2
+embox>
+cci�ci�$p�
+cci�ci�$p�: Command not found
+tish error: #-2
+embox>
+�xYa�
+�xYa�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+��@t
+��@t: Command not found
+tish error: #-2
+embox>
+�@i����cd
+�@i����cd: Command not found
+tish error: #-2
+embox>
+i��logWut� 
+�: Command not found
+tish error: #-2
+embox>
+>S�S����"
+>S�S����": Command not found
+tish error: #-2
+embox>
+d��epiepin�n��
+d��epiepin�n��: Command not found
+tish error: #-2
+embox>
+�x ��܋���lsi���� 
+�x: Command not found
+tish error: #-2
+embox>
+�x@i�i������ ����� 
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

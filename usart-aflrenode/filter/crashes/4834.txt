@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exportlllQQQQQcQQQQQQQQQQQQQQQQQQQQQQQ9 #s #s
+exportlllQQQQQcQQQQQQQQQQQQQQQQQQQQQQQ9: Command not found
+tish error: #-2
+embox>
+94##��st&s
+94##��st: Command not found
+tish error: #-2
+embox>
+9�#�s
+9�#�s: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+9�#�embox>
+9�#�[K[6Cembox>�
+9�#�[K[7Cembox>��
+9�#�[K[8Cembox>��
+9�#�[K[9Cembox>��
+9�#�[K[6Cembox>賀
+9�#�[K[7Cembox>���
+9�#�[K[8Cembox>���
+9�#�[K[9Cembox>�b��
+9�#�[K[10Cembox>�bb��
+9�#�embox>�bb��
+9�#�embox>�bb��
+9�#�embox>�bbl��
+9�#�embox>�bblb��
+9�#�embox>�bblbb��
+9�#�embox>�bblbbb��
+9�#�embox>�bblbbbb��
+9�#�embox>�bblbbbbb��
+9�#�embox>�bblbbbbb|��
+9�#�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+9b#�6 bd�bb|
+9b#�6: Command not found
+tish error: #-2
+embox>
+9��6embox>
+9��6[K[6Cembox>
+9��6[K[7Cembox>l
+9��6[K[8Cembox>ls
+9��6[K[9Cembox>lsb
+9��6[K[10Cembox>lsbb
+9��6[Kembox>lsbbb
+9��6[Kembox>lsbbbb
+9��6[Kembox>lsbbbbb
+9��6[Kembox>lsbbbbb#
+9��6[Kembox>lsbbbbb#�
+9��6[Kembox>lsbbbbb#�6
+9��6[Kembox>lsbbbbb#�6
+9��6[Kembox>lsbbbbb#�6
+9��6[Kembox>lsbbbbb#�6
+9��6[Kembox>llsbbbbb#�6
+9��6[Kembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13C
+embox>
+9�#�6embox>
+9�#�6[K[6Cembox>
+9�#�6[K[7Cembox>
+9�#�6[K[8Cembox>�
+9�#�6[K[9Cembox>�b
+9�#�6[K[10Cembox>�bV
+9�#�6[Kembox>�bVb
+9�#�6[Kembox>�bVbb
+9�#�6[Kembox>�bVbbb
+9�#�6[Kembox>�bVbbbb
+9�#�6[Kembox>�bVbbbb|
+9�#�6[K
+embox>
+9�#�6#�6embox>
+9�#�6#�6[K[6Cembox>
+9�#�6#�6[K[7Cembox>
+9�#�6#�6[Kembox>
+9�#�6#�6[Kembox>b
+9�#�6#�6[Kembox>bb
+9�#�6#�6[Kembox>bb
+9�#�6#�6[Kembox>bb
+9�#�6#�6[Kembox>bb
+9�#�6#�6[Kembox>bb
+9�#�6#�6[Kembox>bbb
+9�#�6#�6[Kembox>bbbb
+9�#�6#�6[Kembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+embox>
+���embox>
+��[K[9C5�embox>
+��5�[K[6Cembox>�
+��5�[K[7Cembox>��
+��5�[K[8Cembox>���
+��5�[K[9Cembox>���
+��5�[K[10Cembox>���_
+��5�[K[11Cembox>���_b
+��5�[K[12Cembox>���_bb
+��5�[Kembox>���_bbb
+��5�[Kembox>���_bbbb
+��5�[Kembox>���_bbbbb
+��5�[Kembox>���_bbbbb|
+��5�[K
+���_bbbbb|: Command not found
+tish error: #-2
+embox>
+cdl�6[H[H[2J
+embox>
+��bb�Nbb|
+��bb�Nbb|: Command not found
+tish error: #-2
+embox>
+v
+v: Command not found
+tish error: #-2
+embox>
+9#�6bbb�por\r\h�ebbb�
+embox>
+9�#�6��b
+embox>
+9�s��
+embox>v�ls.�v�
+v�ls.�v: Command not found
+tish error: #-2
+embox>
+��d
+�: Command not found
+tish error: #-2
+embox>
+9logout�ls.�v
+9logout�l.�v: Command not found
+tish error: #-2
+embox>
+9�s�.9�s�.�v�v�ls.�v
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,174 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>expore@���wogQuembox>expore@���wogQu[K[26Cdt� 
+expore@�: Command not found
+tish error: #-2
+embox>
+ext�� 
+ext�: Command not found
+tish error: #-2
+embox>
+expo�e@�wogouembox>
+expo�e@�wogou[K[27C
+expo�e@�: Command not found
+tish error: #-2
+embox>
+ex��embox>
+ex�[K[13C�"pembox>
+expo�e@�[K[16Cre@�����ogoMinuembox>
+expo�e@�re@�����ogoMinu[K[35C
+expo�e@�re@�: Command not found
+tish error: #-2
+embox>dt�� 
+embox>
+expore@�wogouembox>
+expore@�wogou[Kdt��
+expore@�: Command not found
+tish error: #-2
+embox>
+expore@� dou�dt���
+expore@�: Command not found
+tish error: #-2
+embox>
+expore@wogouembox>
+expore@wogou[K[21CKt�d
+� 
+expore@: Command not found
+tish error: #-2
+embox>
+expore@���wogouembox>
+expore@���wogou[Kdt� 
+expore@�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+cd��n
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+}Zs
+}: Command not found
+tish error: #-2
+embox>
+@N�
+@N�: Command not found
+tish error: #-2
+embox>
+��s
+��: Command not found
+tish error: #-2
+embox>
+
+embox>
+��nW
+��nW: Command not found
+tish error: #-2
+embox>
+B
+B: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+<
+tish error: #-22
+embox>
+�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�`�\x
+�`�\x: Command not found
+tish error: #-2
+embox>
+�Jx
+�Jx: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+�
+@N�: Command not found
+tish error: #-2
+embox>
+�llso�u�pin�
+�llso�u�: Command not found
+tish error: #-2
+embox>
+�V�\
+@N�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+�\fxport
+�\fxport: Command not found
+tish error: #-2
+embox>
+�xxx�dexp0�V�
+�V�: Command not found
+tish error: #-2
+embox>
+�xxx�export7@5exxp�V�
+�V�: Command not found
+tish error: #-2
+embox>
+�xx�de
+�xx�de: Command not found
+tish error: #-2
+embox>�V�
+�V�: Command not found
+tish error: #-2
+embox>
+�fxx�d_xp9��V�
+�V�: Command not found
+tish error: #-2
+embox>
+�����������[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

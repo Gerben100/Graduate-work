@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ߓ]x�6�x
+ߓ]x�6�x: Command not found
+tish error: #-2
+embox>
+cd{n ��cembox>ߓ]x�6�x[K[15C
+ߓ]x�6�x: Command not found
+tish error: #-2
+embox>
+@i\����xembox>ߓ]x�6�x[K[15C
+ߓ]x�6�x: Command not found
+tish error: #-2
+embox>
+��ixeembox>ߓ]x�6�x[K[15C/�x
+ߓ]x�6�x/�x: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+dembox>
+d[K[9Cembox>
+d[K[9Cembox>
+[K[8C�embox>
+[K[8C//embox>ߓ]x�6�x/�x[K[18Cx�
+ߓ]x�6�x/�xx�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�x��x 
+�x��x: Command not found
+tish error: #-2
+embox>nembox>
+�x��x [K[13C/�cd
+�x��x: Command not found
+tish error: #-2
+embox>
+�xi
+�xi: Command not found
+tish error: #-2
+embox>
+�x��embox>
+�x�[K[10C�f
+��xcdembox>
+�xi[K[10C
+�xi: Command not found
+tish error: #-2
+embox>
+/exat
+/exat: Command not found
+tish error: #-2
+embox>
+�x�xeembox>
+/exat[K[12Cxeembox>
+�xi[K[10C/�xembox>
+�x��x /�cd[K[17C
+�x��x: Command not found
+tish error: #-2
+embox>
+�/�zembox>[K[17Cembox>
+/exatxe/xe
+/exatxe/xe: Command not found
+tish error: #-2
+embox>
+�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

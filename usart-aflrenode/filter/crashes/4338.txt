@@ -1,0 +1,134 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>leV�
+leV�: Command not found
+tish error: #-2
+embox>
+z��embox>
+z��[K[15C�
+z��: Command not found
+tish error: #-2
+embox>
+��d_�
+��d_�: Command not found
+tish error: #-2
+embox>
+edi�
+e: Command not found
+tish error: #-2
+embox>
+�eembox>
+�e[K[9Cembox>
+�e�[K[10Cembox>
+�e��[K[11Cembox>
+�e��`[K[12Cembox>
+�e��`t[K[13Cembox>
+�e��`tg[K[14Cembox>
+�e��`tge[K[15Cembox>
+�e��`tge[K[16Cembox>
+�e��`tge[K[15Cembox>
+�e��`tge�[K[16Cembox>
+�e��`tge��[K[17Cembox>
+�e��`tge��`[K[18Cembox>
+�e��`tge��`t[K[19Cembox>
+�e��`tge��`tg[K[20Cembox>
+�e��`tge��`tgo[K[21Cembox>
+�e��`tge��`tgo�[K[22Cembox>
+�e��`tge��`tgo�`[K[23Cembox>
+�e��`tge��`tgo�`t[K[24Cembox>
+�e��`tge��`tgo�`tg[K[25Cembox>
+�e��`tge��`tgo�`tgo[K[26C
+�e��`tge��`tgo�`tgo: Command not found
+tish error: #-2
+embox>
+l�Hq
+l�H: Command not found
+tish error: #-2
+embox>
+l����rtu�embox>
+l����rtu�[Kembox>
+l����rtul�[Kembox>
+l����rtul[�[Kembox>
+l����rtul[��[Kembox>
+l����rtul[��[K[19Cembox>
+l����rtul[�u�[K[20Cembox>
+l����rtul[�u��[K[21Cembox>
+l����rtul[�u��[K[20Cembox>
+l����rtul[�ul��[K[21Cembox>
+l����rtul[�ul[��[Kembox>
+l����rtul[�ul[���[Kembox>
+l����rtul[�ul[���[Kembox>
+l����rtul[�ul[���[Kembox>
+l����rtul[�ul[���embox>
+l����rtul[�ul[�d��embox>
+l����rtul[�ul[�dd��embox>
+l����rtul[�ul[�ddx��embox>
+l����rtul[�ul[�ddx���embox>
+l����rtul[�ul[�ddx�r��embox>
+l����rtul[�ul[�ddx�rt��embox>
+l����rtul[�ul[�ddx�rt��embox>
+l����rtul[�ul[�ddx�rtu��embox>
+l����rtul[�ul[�ddx�rtud��embox>
+l����rtul[�ul[�ddx�rtudd��embox>
+l����rtul[�ul[�ddx�rtuddx��embox>
+l����rtul[�ul[�ddx�rtuddx���embox>
+l����rtul[�ul[�ddx�rtuddx�r��embox>
+l����rtul[�ul[�ddx�rtuddx�rt��embox>
+l����rtul[�ul[�ddx�rtuddx�rtu��embox>
+l����rtul[�ul[�ddx�rtuddx�rtup��
+l����rtul[�: Command not found
+tish error: #-2
+embox>
+����dx��p
+����dx��p: Command not found
+tish error: #-2
+embox>
+]���dx}
+]���dx}: Command not found
+tish error: #-2
+embox>
+Y�p
+Y�p: Command not found
+tish error: #-2
+embox>
+
+embox>
+lut��@�@@@�@@@@?@@@@@@@@@@@@@@@@@2ee
+lut: Command not found
+tish error: #-2
+embox>
+dt@@@@@@@@@2@@@@@@ee
+d: Command not found
+tish error: #-2
+embox>
+lut@e@?@@(@�@@@@@@2@@@@@@@@Y@@@@Jee
+lut: Command not found
+tish error: #-2
+embox>
+lut@e@�@
+embox>
+lut@ee�it@@@<?@@@@@@2@@@@@@@@@@@@@2�e
+lut: Command not found
+tish error: #-2
+embox>
+lut@e@@@@@@@@@@@@@@@@@@@@?H@@@@@@@@@@@!@@@@@@@@
+lut: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@2e�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

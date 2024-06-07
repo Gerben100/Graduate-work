@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+dxHembox>
+dxH[K[6Cembox>�
+dxH[K[7Cembox>�,
+dxH[K[8Cembox>�,�
+dxH[K[9Cembox>�,�
+dxH[K[10Cembox>�,�
+dxH[K[11Cembox>�,�
+dxH[K[12Cembox>�,�
+dxH[K[6Cembox>߀,�
+dxH[K[7Cembox>�x�,�
+dxH[K[8Cembox>�x��,�
+dxH[K[9Cembox>�x��,�
+dxH[K[10Cembox>�x���,�
+dxH[K[11Cembox>�x����,�
+dxH[K[12Cembox>�x�����,�
+dxH[K[13Cembox>�x������,�
+dxH[K[14Cembox>�x������t,�
+dxH[K[15Cembox>�x������tt,�
+dxH[K[16Cembox>�x������tt�,�
+dxH[K[17Cembox>�x������tt�t,�
+dxH[K[18Cembox>�x������tt�tt,�
+dxH[K[19Cembox>�x������tt�ttt,�
+dxH[K[20Cembox>�x������tt�tttt,�
+dxH[K[21Cembox>�x������tt�tttt�,�
+dxH[K[22Cembox>�x������tt�tttt�t,�
+dxH[K[23Cembox>�x������tt�tttt�ts,�
+dxH[K[24Cembox>�x������tt�tttt�tst,�
+dxH[K[25Cembox>�x������tt�tttt�tst�,�
+dxH[K[26Cembox>�x������tt�tttt�tst��,�
+dxH[K[27Cembox>�x������tt�tttt�tst��,�
+dxH[K[28Cembox>�x������tt�tttt�tst��,�
+dxH[K[29Cembox>�x������tt�tttt�tst��e,�
+dxH[K[30Cembox>�x������tt�tttt�tst��ex,�
+dxH[K[31Cembox>�x������tt�tttt�tst��exi,�
+dxH[K[32Cembox>�x������tt�tttt�tst��exit,�
+dxH[K[33Cembox>�x������tt�tttt�tst��exit,�
+dxH[K[34Cembox>�x������tt�tttt�tst��exit�,�
+dxH[K[35Cembox>�x������tt�tttt�tst��exit��,�
+dxH[K[36Cembox>�x������tt�tttt�tst��exit���,�
+dxH[K[37Cembox>�x������tt�tttt�tst��exit����,�
+dxH[K[38Cembox>�x������tt�tttt�tst��exit����[K[38C�xt
+�x������tt�tttt�tst��: Command not found
+tish error: #-2
+embox>t|ttt_ttt�ttttt�� �����ttttttttt t�embox>�x������tt�tttt�tst��[K[27C�����tttttt_
+�x������tt�tttt�tst�������tttttt_: Command not found
+tish error: #-2
+embox>ttt��t
+ttt��t: Command not found
+tish error: #-2
+embox>
+embox>ttt��t[K[12CdxHembox>ttt��tdxH[K[6Cembox>�ttt��tdxH[K[7Cembox>�,ttt��tdxH[K[8Cembox>�,�ttt��tdxH[K[9Cembox>�,��ttt��tdxH[K[10Cembox>�,��ttt��tdxH[K[11Cembox>�,���ttt��tdxH[K[12Cembox>�,���ttt��tdxH[K[13Cembox>�,���ttt��tdxH[K[6Cembox>߀,���ttt��tdxH[K[7Cembox>�x�,���ttt��tdxH[K[8Cembox>�x��,���ttt��tdxH[K[9Cembox>�x��,���ttt��tdxH[K[10Cembox>�x���,���ttt��tdxH[K[11Cembox>�x����,���ttt��tdxH[K[12Cembox>�x�����,���ttt��tdxH[K[13Cembox>�x������,���ttt��tdxH[K[14Cembox>�x������t,���ttt��tdxH[K[15Cembox>�x������tt,���ttt��tdxH[K[16Cembox>�x������tt�,���ttt��tdxHembox>�x������tt�t,���ttt��tdxHembox>�x������tt�tt,���ttt��tdxHembox>�x������tt�ttt,���ttt��tdxHembox>�x������tt�ttt�,���ttt��tdxHembox>�x������tt�ttt�,���ttt��tdxHembox>�x������tt�ttt�,����ttt��tdxHembox>�x������tt�ttt�,�����ttt��tdxHembox>�x������tt�ttt�,������ttt��tdxHembox>�x������tt�ttt�,�������ttt��tdxHembox>�x������tt�ttt�,����t���ttt��tdxHembox>�x������tt�ttt�,����tt���ttt��tdxHembox>�x������tt�ttt�,����tt����ttt��tdxHembox>�x������tt�ttt�,����tt�t���ttt��tdxHembox>�x������tt�ttt�,����tt�t����ttt��tdxHembox>�x������tt�ttt�,����tt�t�t���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t����ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�t���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�tt���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�ttt���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�tttt���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�ttttt���ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�ttttt����ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�ttttt�����ttt��tdxHembox>�x������tt�ttt�,����tt�t�t�ttttt�� ���ttt��tdxH[K[41Cembox>�x������tt�ttt�,����tt�t�t�ttttt�� ����ttt��tdxH[Kembox>�x������tt�ttt�,����tt�t�t�ttttt�� �����ttt��tdxH[K
+�x������tt�ttt�,����tt�t�t�ttttt��: Command not found
+tish error: #-2
+embox>�embox>�[K[7C�xtt|ttt_ttt�ttttt�� �����t t� �����Yttttt_ttt�
+��xtt|ttt_ttt�ttttt��: Command not found
+tish error: #-2
+embox>tt
+tt: Command not found
+tish error: #-2
+embox>
+embox>tt[K[8CdxHembox>ttdxH[K[6Cembox>�ttdxH[K[7Cembox>�,ttdxH[K[8Cembox>�,�ttdxH[K[9Cembox>�,� ttdxH[K[10Cembox>�,� ttdxH[K[11Cembox>�,� �ttdxH[K[12Cembox>�,� �ttdxH[K[13Cembox>�,� �ttdxH[K[6Cembox>߀,� �ttdxH[K[7Cembox>�x�,� �ttdxH[K[8Cembox>�x��,� �ttdxH[K[9Cembox>�x��,� �ttdxH[K[10Cembox>�x���,� �ttdxH[K[11Cembox>�x����,� �ttdxH[K[12Cembox>�x�����,� �ttdxH[K[13Cembox>�x������,� �ttdxH[K[14Cembox>�x������t,� �ttdxH[Kembox>�x������tt,� �ttdxH[Kembox>�x������tt�,� �ttdxH[K[17Cembox>�x������tt�t,� �ttdxH[K[18Cembox>�x������tt�tt,� �ttdxH[K[19Cembox>�x������tt�ttt,� �ttdxH[K[20Cembox>�x������tt�tttt,� �ttdxHembox>�x������tt�tttt�,� �ttdxHembox>�x������tt�tttt��,� �ttdxHembox>�x������tt�tttt���,� �ttdxHembox>�x������tt�tttt���t,� �ttdxHembox>�x������tt�tttt���t�,� �ttdxHembox>�x������tt�tttt���t��,� �ttdxHembox>�x������tt�tttt���t���,� �ttdxHembox>�x������tt�tttt���t����,� �ttdxHembox>�x������tt�tttt���t�����,� �ttdxHembox>�x������tt�tttt���t������,� �ttdxHembox>�x������tt�tttt���t������,� �ttdxHembox>�x������tt�tttt���t������,� �ttdxHembox>�x������tt�tttt���t�������,� �ttdxHembox>�x������tt�tttt���t��������,� �ttdxHembox>�x������tt�tttt���t��������xtt|tt
+�x������tt�tttt���t�����: Command not found
+tish error: #-2
+embox>t_ttt�ttttt�� ������ttttttttt t� ������ttttt�_ttt�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

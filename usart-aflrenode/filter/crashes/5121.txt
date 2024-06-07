@@ -1,0 +1,128 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���������@�����������������w
+����: Command not found
+tish error: #-2
+embox>
+��Y��embox>
+��Y��[K[6Cembox>r
+��Y��[K[7Cembox>r�
+��Y��[K[8Cembox>r�N
+��Y��[K[9Cembox>r�Nx
+��Y��[K[10Cembox>r�Nxp
+��Y��[K[11Cembox>r�Nxp�
+��Y��[K[12Cembox>r�Nxp��
+��Y��[K[13Cembox>r�Nxp���
+��Y��[K[14Cembox>r�Nxp����
+��Y��[K[15Cembox>r�Nxp����w
+��Y��[K[16C
+r�Nxp����w: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+��
+embox>�eexit�
+�: Command not found
+tish error: #-2
+embox>
+@���
+tish error: #-22
+embox>
+����Y�exp���p����embox>
+����Y�exp���p����[K[6Cembox>r
+����Y�exp���p����[K[7Cembox>r�
+����Y�exp���p����[K[8Cembox>r�e
+����Y�exp���p����[K[9Cembox>r�e�
+����Y�exp���p����[K[10Cembox>r�e�
+����Y�exp���p����[K[11Cembox>r�e�
+����Y�exp���p����[K[12Cembox>r�e�
+����Y�exp���p����[K[13Cembox>r�e�
+����Y�exp���p����[K[14Cembox>r�e�
+����Y�exp���p����[K[13Cembox>r�e�
+����Y�exp���p����[K[6Cembox>rr�e�
+����Y�exp���p����[K[7Cembox>r�r�e�
+����Y�exp���p����[K[8Cembox>r��r�e�
+����Y�exp���p����[K[9Cembox>r��xr�e�
+����Y�exp���p����embox>r��xpr�e�
+����Y�exp���p����embox>r��xp�r�e�
+����Y�exp���p����embox>r��xp��r�e�
+����Y�exp���p����embox>r��xp���r�e�
+����Y�exp���p����embox>r��xp����r�e�
+����Y�exp���p����embox>r��xp�����r�e�
+����Y�exp���p����
+r��xp�����r�e�: Command not found
+tish error: #-2
+embox>
+���e~ndembox>
+���e~nd[K[6Cembox>�
+���e~nd[K[7Cembox>��
+���e~nd[K[8Cembox>��e
+���e~nd[K[9Cembox>��e�
+���e~nd[Kembox>��e��
+���e~nd[Kembox>��e��
+���e~nd[Kembox>��e��
+���e~nd[K
+��e��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�Y
+�[K[8Cembox>�Y�
+�[K[9Cembox>�Y��
+�[K[10Cembox>�Y��
+�[K[11Cembox>�Y��
+�[K[12Cembox>�Y��
+�[K[13Cembox>�Y��
+�[K[6Cembox>r�Y��
+�embox>r��Y��
+�embox>r���Y��
+�embox>r��x�Y��
+�embox>r��xp�Y��
+�embox>r��xpb�Y��
+�embox>r��xpb��Y��
+�embox>r��xpb���Y��
+�embox>r��xpb����Y��
+�embox>r��xpb���w�Y��
+�
+r��xpb���w�Y��: Command not found
+tish error: #-2
+embox>
+wwembox>
+wwwWwwwwwXG������explogouv�embox>[Kembox>[Kembox>[K
+wwwWwwwwwXG�����: Command not found
+tish error: #-2
+embox>
+A@
+A@: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+P��
+P��: Command not found
+tish error: #-2
+embox>
+��Y �
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,181 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lXgout
+lXgout: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�[K[7C_ee__�_ee
+�_: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�_
+[K[8Cembox>�_
+[K[9Cembox>�_
+[K[10Cembox>�_e
+[K[11Cembox>�_ee
+[K[12C
+�_: Command not found
+tish error: #-2
+embox>
+j
+j: Command not found
+tish error: #-2
+embox>
+�i
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K[8C'i
+�'i: Command not found
+tish error: #-2
+embox>
+�x%i
+�x%i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>[K[7C9
+��i
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>
+�x%i[K[11C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>Y[K[7C9�exportexWt�cd
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>"
+[K[8Cembox>"W
+[K[9Cembox>"Wx
+[K[10Cembox>"Wx
+[K[11Cembox>"Wx
+[K[12Cembox>"Wx
+[K[13Cembox>"Wx
+[K[14C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>[K[7C9lqembox>9lq[K[10Cembox>Y[K[7Ci
+Yi: Command not found
+tish error: #-2
+embox>
+�lsembox>
+�ls[Kembox>�
+�ls[Kembox>[K[8C
+�i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C'i
+(null): Command not found
+tish error: #-2
+embox>
+�9�o
+(null): Command not found
+tish error: #-2
+embox>
+i
+(null): Command not found
+tish error: #-2
+embox>
+9
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

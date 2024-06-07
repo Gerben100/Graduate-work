@@ -1,0 +1,61 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>d�[K[7Cembox>d�[K[8Cembox>d�[K[9Cembox>d�[K[10Cembox>dF�[K[11Cembox>dFy�[K[12Cembox>dFy�[K[13Cembox>dFy[K[13Cxembox>dFyx[K[15Cembox>dFyx[K[16Cembox>dFyx�[K[17Cembox>dFyx�[K[18Cembox>dFyx�@[K[19Cembox>dFyx�@@[K[20Cembox>dFyx�@@@[K[21Cembox>dFyx�@@@c[K[22Cembox>dFyx�@@@c?[K[23Cembox>dFyx�@@@c?e[K[24Cembox>dFyx�@@@c?ex[K[25Cembox>dFyx�@@@c?exp[K[26Cembox>dFyx�@@@c?exp@[K[27Cembox>dFyx�@@@c?exp@[K[26Cembox>dFyx�@@@c?exp@[K[27Cembox>dFyx�@@@c?exp�@[K[28Cembox>dFyx�@@@c?exp�@[K[29Cembox>dFyx�@@@c?exp�@@[K[30Cembox>dFyx�@@@c?exp�@@@[K[31Cembox>dFyx�@@@c?exp�@@@@[K[32Cembox>dFyx�@@@c?exp�@@@c@[K[33Cembox>dFyx�@@@c?exp�@@@c6@[K[34Cembox>dFyx�@@@c?exp�@@@c66@[K[35Cembox>dFyx�@@@c?exp�@@@c665@[K[36Cembox>dFyx�@@@c?exp�@@@c6656@[K[37Cembox>dFyx�@@@c?exp�@@@c6656>@[K[38Cembox>dFyx�@@@c?exp�@@@c6656>6@[K[39Cembox>dFyx�@@@c?exp�@@@c6656>6T@[K[40Cembox>dFyx�@@@c?exp�@@@c6656>6T�@[K[41Cembox>dFyx�@@@c?exp�@@@c6656>6T�6@[K[42Cembox>dFyx�@@@c?exp�@@@c6656>6T�66@[K[43Cembox>dFyx�@@@c?exp�@@@c6656>6T�66F@[K[44Cembox>dFyx�@@@c?exp�@@@c6656>6T�66F@[K[45Cembox>dFyx�@@@c?exp�@@@c6656>6T�66F>@[K[46Cembox>dFyx�@@@c?exp�@@@c6656>6T�66F>6@[K[47Cembox>dFyx�@@@c?exp�@@@c6656>6T�66F>6�@[K[48C
+d: Command not found
+tish error: #-2
+embox>�����@@@�@Qexpo6T@embox>�����@@@�@Qexpo6T@[K[6Cembox>������@@@�@Qexpo6T@[K[7Cembox>�������@@@�@Qexpo6T@[K[8Cembox>��@�����@@@�@Qexpo6T@[K[9Cembox>��@@�����@@@�@Qexpo6T@[K[10Cembox>��@@@�����@@@�@Qexpo6T@[K[11Cembox>��@@@e�����@@@�@Qexpo6T@[K[12Cembox>��@@@e������@@@�@Qexpo6T@[K[13Cembox>��@@@e�Q�����@@@�@Qexpo6T@[K[14Cembox>��@@@e�Qe�����@@@�@Qexpo6T@[K[15Cembox>��@@@e�Qex�����@@@�@Qexpo6T@[K[16Cembox>��@@@e�Qexp�����@@@�@Qexpo6T@[K[17Cembox>��@@@e�Qexpo�����@@@�@Qexpo6T@[K[18Cembox>��@@@e�Qexpor�����@@@�@Qexpo6T@[K[19Cembox>��@@@e�Qexport�����@@@�@Qexpo6T@[K[20Cembox>��@@@e�Qexport@�����@@@�@Qexpo6T@[K[21Cembox>��@@@e�Qexport@<�����@@@�@Qexpo6T@[K[22Cembox>��@@@e�Qexport@<@�����@@@�@Qexpo6T@[K[23Cembox>��@@@e�Qexport@<@@�����@@@�@Qexpo6T@[K[24Cembox>��@@@e�Qexport@<@@������@@@�@Qexpo6T@[K[25Cembox>��@@@e�Qexport@<@@�@�����@@@�@Qexpo6T@[K[26Cembox>��@@@e�Qexport@<@@�@@�����@@@�@Qexpo6T@[K[27Cembox>��@@@e�Qexport@<@@�@@@�����@@@�@Qexpo6T@[K[28Cembox>��@@@e�Qexport@<@@�@@@q�����@@@�@Qexpo6T@[K[29Cembox>��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[30Cembox>��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[6Cembox><��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[7Cembox><@��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[8Cembox><@@��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[9Cembox><@@@��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[10Cembox><@@@@��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@[K[11C
+<@@@@��@@@e�Qexport@<@@�@@@qt�����@@@�@Qexpo6T@: Command not found
+tish error: #-2
+embox>@@@@\@@@@
+@@@@\@@@@: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+d�[K[8Cembox>
+d�[K[9Cembox>
+d�[K[10Cembox>
+d�[K[11Cembox>
+dF�[K[12Cembox>
+dFy�[K[13Cembox>
+dFy�[K[14Cembox>
+dFy[K[14Cxembox>@@@@\@@@@[K[15Cembox>@@@@\@@@@[K[15Cembox>@@@@\@@@@[K[16Cembox>@@@@\@@@@�[K[17Cembox>@@@@\@@@@�[K[18Cembox>@@@@\@@@@�@[K[19Cembox>@@@@\@@@@�@@[K[20Cembox>@@@@\@@@@�@@@[K[21Cembox>@@@@\@@@@�@@@c[K[22Cembox>@@@@\@@@@�@@@c?[K[23Cembox>@@@@\@@@@�@@@c?e[K[24Cembox>@@@@\@@@@�@@@c?ex[K[25Cembox>@@@@\@@@@�@@@c?exp[K[26Cembox>@@@@\@@@@�@@@c?exp@[K[27Cembox>@@@@\@@@@�@@@c?exp@[K[26Cembox>@@@@\@@@@�@@@c?exp@[K[27Cembox>@@@@\@@@@�@@@c?exp�@[K[28Cembox>@@@@\@@@@�@@@c?exp�@[K[29Cembox>@@@@\@@@@�@@@c?exp�@@[K[30Cembox>@@@@\@@@@�@@@c?exp�@@@[K[31Cembox>@@@@\@@@@�@@@c?exp�@@@@[K[32Cembox>@@@@\@@@@�@@@c?exp�@@@�@[K[33Cembox>@@@@\@@@@�@@@c?exp�@@@��@[K[34Cembox>@@@@\@@@@�@@@c?exp�@@@���@[K[35Cembox>@@@@\@@@@�@@@c?exp�@@@���l@[K[36Cembox>@@@@\@@@@�@@@c?exp�@@@���l�@[K[37Cembox>@@@@\@@@@�@@@c?exp�@@@���l�>@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�6@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66F@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66F6@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66F6>@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66F6>6@embox>@@@@\@@@@�@@@c?exp�@@@���l�>6T�66F6>@
+@@@@\@@@@: Command not found
+tish error: #-2
+embox>�����@@@�@Qexpo6 @embox>�����@@@�@Qexpo6 @[K[6Cembox>������@@@�@Qexpo6 @[K[7Cembox>�������@@@�@Qexpo6 @[K[8Cembox>��/�����@@@�@Qexpo6 @[K[9Cembox>��/@�����@@@�@Qexpo6 @[K[10Cembox>��/@@�����@@@�@Qexpo6 @[K[11Cembox>��/@@@�����@@@�@Qexpo6 @[K[12Cembox>��/@@@@�����@@@�@Qexpo6 @[K[13Cembox>��/@@@@Q�����@@@�@Qexpo6 @[K[14Cembox>��/@@@@Qe�����@@@�@Qexpo6 @[K[15Cembox>��/@@@@Qex�����@@@�@Qexpo6 @[K[16Cembox>��/@@@@Qexp�����@@@�@Qexpo6 @[K[17Cembox>��/@@@@Qexpo�����@@@�@Qexpo6 @[K[18Cembox>��/@@@@Qexpor�����@@@�@Qexpo6 @[K[19Cembox>��/@@@@Qexport�����@@@�@Qexpo6 @[K[20Cembox>��/@@@@Qexport@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@������@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@@@�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@@@q�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox>��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox><��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox><@��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox><@@��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox><@@@��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @embox><@@@@��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6 @
+<@@@@��/@@@@Qexport@<@@�@@@qt�����@@@�@Qexpo6: Command not found
+tish error: #-2
+embox>@@@@\@@@@
+@@@@\@@@@: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+d�embox>
+d�embox>
+d�embox>
+d�embox>
+dF�embox>
+dFy�embox>
+dFy�embox>
+dFyxembox>@@@@\@@@@embox>@@@@\@@@@embox>@@@@\@@@@embox>@@@@\@@@@�embox>@@@@\@@@@�embox>@@@@\@@@@�@embox>@@@@\@@@@�@@embox>@@@@\@@@@�@@@embox>@@@@\@@@@�@@@cembox>@@@@\@@@@�@@@c?embox>@@@@\@@@@�@@@c?eembox>@@@@\@@@@�@@@c?exembox>@@@@\@@@@�@@@c?expembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@@@@\@@@@: Command not found
+tish error: #-2
+embox>�����@@@�@Qex@@�@@@qtembox>�����@@@�@Qex@@�@@@qtembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

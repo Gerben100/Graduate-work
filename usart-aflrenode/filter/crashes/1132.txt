@@ -1,0 +1,170 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�665V@exit��6rt_�������6r���embox>�665V@exit��6rt_�������6r���[K[6Cembox>�665V@exit��6rt_�������6r���[K[7Cembox>��665V@exit��6rt_�������6r���[K[8Cembox>�6�665V@exit��6rt_�������6r���[K[9Cembox>�6r�665V@exit��6rt_�������6r���[K[10Cembox>�6rt�665V@exit��6rt_�������6r���[K[11Cembox>�6rt_�665V@exit��6rt_�������6r���[K[12Cembox>�6rt_<�665V@exit��6rt_�������6r���[K[13Cembox>�6rt_<@�665V@exit��6rt_�������6r���[K[14Cembox>�6rt_<@@�665V@exit��6rt_�������6r���[K[15Cembox>�6rt_<@@@�665V@exit��6rt_�������6r���[K[16Cembox>�6rt_<@@@@�665V@exit��6rt_�������6r���[K[17Cembox>�6rt_<@@@@@�665V@exit��6rt_�������6r���[K[18Cembox>�6rt_<@@@@@@�665V@exit��6rt_�������6r���[K[19Cembox>�6rt_<@@@@@@@�665V@exit��6rt_�������6r���[K[20Cembox>�6rt_<@@@@@@@��665V@exit��6rt_�������6r���[K[21Cembox>�6rt_<@@@@@@@�t�665V@exit��6rt_�������6r���[Kembox>�6rt_<@@@@@@@�t_�665V@exit��6rt_�������6r���[K[23Cembox>�6rt_<@@@@@@@�t_<�665V@exit��6rt_�������6r���[K[24Cembox>�6rt_<@@@@@@@�t_<@�665V@exit��6rt_�������6r���[K[25Cembox>�6rt_<@@@@@@@�t_<@@�665V@exit��6rt_�������6r���[K[26C
+embox>@@@@@�\
+@@@@@�\: Command not found
+tish error: #-2
+embox>
+�6656>Y@@embox>
+�6656>Y@@[K[16C�@embox>
+�6656>Y@@�@[K[18C����@:@@@<?@E@�@@@@@@@?@@���@@@:@@
+�6656>Y@@�@����@:: Command not found
+tish error: #-2
+embox>@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\
+@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\: Command not found
+tish error: #-2
+embox>
+�6656>Y@@embox>
+�6656>Y@@[K[16C�@�embox>
+�6656>Y@@�@[K[18C���embox>@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\@@Dcx�embox>@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\@@Dcx���<@@@@@@@�\
+@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\@@Dcx���<@@@@@@@�\: Command not found
+tish error: #-2
+embox>
+�6656>Y@@embox>
+�6656>Y@@[K[16C�@embox>
+�6656>Y@@�@[K[18C����@:@@@<?@@@@@@@@@@@?@@���@@@:@@
+�6656>Y@@�@����@:: Command not found
+tish error: #-2
+embox>@@@?@@@@@@@:@@@@@?@@@@@@@@@@�c@@@@�cx�6rn@<@@@@@@@
+@@@?@@@@@@@:@@@@@?@@@@@@@@@@�c@@@@�cx�6rn@<@@@@@@@: Command not found
+tish error: #-2
+embox>�\
+�\: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>>
+�[K[9Cembox>>Y
+�[K[10Cembox>>YY
+�[K[11Cembox>>YYY
+�[K[12Cembox>>YYYY
+�[K[13Cembox>>YYYYY
+�[K[14Cembox>>YYYYYY
+�[Kembox>>YYYYYYY
+�[Kembox>>YYYYYYYX
+�[K[17Cembox>>YYYYYYYXY
+�[K[18Cembox>>YYYYYYYXYY
+�[K[19Cembox>>YYYYYYYXYYY
+�[K[20Cembox>>YYYYYYYXYYYl
+�[Kembox>>YYYYYYYXYYYlo
+�[Kembox>>YYYYYYYXYYYlog
+�[Kembox>>YYYYYYYXYYYlogo
+�[Kembox>>YYYYYYYXYYYlogou
+�embox>>YYYYYYYXYYYlogout
+�embox>>YYYYYYYXYYYlogoutY
+�embox>>YYYYYYYXYYYlogoutYY
+�embox>>YYYYYYYXYYYlogoutYYY
+�embox>>YYYYYYYXYYYlogoutYYYY
+�embox>>YYYYYYYXYYYlogoutYYYYY
+�embox>>YYYYYYYXYYYlogoutYYYYY7
+�embox>>YYYYYYYXYYYlogoutYYYYY7@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�c
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6r
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6rt
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6rt@
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6rt@�
+�embox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6rt@�@
+�[K[52Cembox>>YYYYYYYXYYYlogoutYYYYY7@$3@@@@@@c�cx�6rt@�@@
+�[K
+embox>@@@@[�\
+@@@@[�\: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>6
+[K[8Cembox>65
+[K[9Cembox>656
+[K[10Cembox>656�
+[K[11Cembox>656�5
+[K[12Cembox>656�55
+[K[13Cembox>656�555
+[K[14Cembox>656�5555
+[K[15Cembox>656�55555
+[K[16Cembox>656�555555
+[K[17Cembox>656�5555555
+[K[18Cembox>656�55555555
+embox>656�555555555
+embox>656�5555555555
+embox>656�55555555555
+embox>656�555555555555
+embox>656�5555555555555
+embox>656�55555555555555
+embox>656�555555555555555
+embox>656�5555555555555555
+embox>656�55555555555555555
+embox>656�555555555555555555
+embox>656�5555555555555555555
+embox>656�55555555555555555555
+embox>656�555555555555555555555
+embox>656�5555555555555555555555
+embox>656�5555555555555555555555J
+embox>656�5555555555555555555555J5
+embox>656�5555555555555555555555J55
+embox>656�5555555555555555555555J555
+embox>656�5555555555555555555555J5555
+embox>656�5555555555555555555555J55555
+embox>656�5555555555555555555555J555555
+embox>656�5555555555555555555555J555555&
+embox>656�5555555555555555555555J555555&�
+embox>656�5555555555555555555555J555555&�@
+embox>656�5555555555555555555555J555555&�@@
+embox>656�5555555555555555555555J555555&�@@@
+embox>656�5555555555555555555555J555555&�@@@:
+embox>656�5555555555555555555555J555555&�@@@:@
+embox>656�5555555555555555555555J555555&�@@@:@@
+embox>656�5555555555555555555555J555555&�@@@:@@@
+embox>656�5555555555555555555555J555555&�@@@:@@@O
+embox>656�5555555555555555555555J555555&�@@@:@@@O@
+embox>656�5555555555555555555555J555555&�@@@:@@@O@?
+embox>656�5555555555555555555555J555555&�@@@:@@@O@?@
+embox>656�5555555555555555555555J555555&�@@@:@@@O@?@@
+embox>656�5555555555555555555555J555555&�@@@:@@@O@?@@@
+
+embox>@@@@@@@�cx�6rt@<@@@@@@@�\
+@@@@@@@�cx�6rt@<@@@@@@@�\: Command not found
+tish error: #-2
+embox>
+�6656>Y@@embox>[K�@embox>[K����@:@@@<?@@@@@#@@@@@?@@���@6rt@<
+�6656>Y@@�@����@:: Command not found
+tish error: #-2
+embox>@@@@@@@�\
+@@@@@@@�\: Command not found
+tish error: #-2
+embox>
+�6656>Y@@�@����@:@@@@@@@@@@<?@2@@@@@@@@@�@@��
+�6656>Y@@�@����@:: Command not found
+tish error: #-2
+embox>�@@@:@@@@@?@@@@@@@@@@�cx�6rt@<@@@@@@@�\
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

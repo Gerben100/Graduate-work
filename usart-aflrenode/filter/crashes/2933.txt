@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���embox>��[K[8C�fu\v
+��: Command not found
+tish error: #-2
+embox>
+logout9
+logout9: Command not found
+tish error: #-2
+embox>
+�����d3
+�����: Command not found
+tish error: #-2
+embox>
+K����
+K: Command not found
+tish error: #-2
+embox>
+����fembox>
+K[K[8Civ
+Kiv: Command not found
+tish error: #-2
+embox>
+embox>[K[6C����cdfPPPembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+��ߖ
+��ߖ: Command not found
+tish error: #-2
+embox>
+logoutfuiv
+logoutfuiv: Command not found
+tish error: #-2
+embox>
+���cvivi�vcvn
+���cvivi�vcvn: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K�
+�: Command not found
+tish error: #-2
+embox>
+l�[?5h[?5lpif/gout%m
+embox>l
+l: Command not found
+tish error: #-2
+embox>
+l�%l
+embox>logo�tn
+logo�tn: Command not found
+tish error: #-2
+embox>
+l�%R
+embox>logout[?5h[?5lpin
+logoutpin: Command not found
+tish error: #-2
+embox>
+l�%W@l�g�pin
+l�%W@l�g: Command not found
+tish error: #-2
+embox>
+l�%l
+embox>loglexport�n
+logexport: Command not found
+tish error: #-2
+embox>
+l�%llog%l
+embox>logout[?5h[?5lpiout[?5h[?5lpin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

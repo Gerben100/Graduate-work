@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[^^o�ex��
+[^^o�ex��: Command not found
+tish error: #-2
+embox>
+�^i�Bx���ex�o
+�^i�Bx���ex�o: Command not found
+tish error: #-2
+embox>
+�eWembox>
+�eW[K[10Cembox>
+�eW[K[11Cembox>
+�eW�[K[12Cembox>
+�eW�y[K[13Cembox>
+�eW�ye[K[14Cembox>
+�eW�yed[K[15Cembox>
+�eW�yedo[K[16Cembox>
+�eW�yedoo[K[17Cembox>
+�eW�yedooo[K[18Cembox>
+�eW�yedooo[K[19Cembox>
+�eW�yedooo[K[20Cembox>
+�eW�yedoooe[K[21Cembox>
+�eW�yedoooe�[K[22C
+embox>�o
+�o: Command not found
+tish error: #-2
+embox>
+�^i�Bxeiembox>
+�^i�Bxei[K[15Cembox>
+�^i�Bxei�[K[16Cembox>
+�^i�Bxei��[K[17Cembox>
+�^i�Bxei��e[K[18Cembox>
+�^i�Bxei��e8[K[19Cembox>
+�^i�Bxei��e8�[K[20Cembox>
+�^i�Bxei��e8��[K[21C
+�^i�Bxei��e8��: Command not found
+tish error: #-2
+embox>
+�^BxTTTTTembox>
+�^i�Bxei��e8��[K[21CTTTTTTT��embox>
+�^i�Bxei��e8��TTTTTTT��embox>
+�^i�Bxei��e8��TTTTTTT��embox>
+�^i�Bxei��e8��TTTTTTT���embox>
+�^i�Bxei��e8��TTTTTTT���yembox>
+�^i�Bxei��e8��TTTTTTT���yeembox>
+�^i�Bxei��e8��TTTTTTT���ye�embox>
+�^i�Bxei��e8��TTTTTTT���ye�iembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxeembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxeiembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxeiembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxeiembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxeiembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�yembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�yeembox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye�embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye��embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye���embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye����embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye�����embox>
+�^i�Bxei��e8��TTTTTTT���ye�i�Bxei�ye�����/
+�^i�Bxei��e8��: Command not found
+tish error: #-2
+embox>
+{o���� ����els�{����� �����elsV
+{o����: Command not found
+tish error: #-2
+embox>
+�^i�Bxe�ye���x�V
+�^i�Bxe�ye���x�V: Command not found
+tish error: #-2
+embox>
+ls���oBx�3�eoou�o
+ls���oBx: Command not found
+tish error: #-2
+embox>
+�^�}Ciyi�:@x��yp�
+�^: Command not found
+tish error: #-2
+embox>
+�^}}�}}}}CNyniKe��������ypi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

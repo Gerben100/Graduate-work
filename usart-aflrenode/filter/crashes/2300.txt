@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>***:*******)*[?5h[?5l**************�K****���*�*lllt***
+embox>$*
+
+$*: Command not found
+tish error: #-2
+embox>
+?�?�
+?�: Command not found
+tish error: #-2
+embox>
+��wtpin���embox>
+?�[K[10C�embox>$*
+[K[9C
+$*: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+t6GSembox>
+t6GS[K[14Cembox>
+t6GS�[K[15Cembox>
+t6GS�[[K[16Cembox>
+t6GS�[�[K[17Cembox>
+t6GS�[��[K[18Cembox>
+t6GS�[��1[K[19C
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+>6T@embox>
+>6T@[K[6Cembox>�
+>6T@[K[7Cembox>��
+>6T@[K[8Cembox>��@
+>6T@[K[9Cembox>��@@
+>6T@[K[10Cembox>��@@@
+>6T@[K[11Cembox>��@@@@
+>6T@[K[12Cembox>��@@@@@
+>6T@[K[13Cembox>��@@@@@Q
+>6T@[K[14Cembox>��@@@@@QP
+>6T@[K[15Cembox>��@@@@@QPx
+>6T@[K[16Cembox>��@@@@@QPxp
+>6T@[K[17Cembox>��@@@@@QPxpo
+>6T@[K[18Cembox>��@@@@@QPxpor
+>6T@[K[19Cembox>��@@@@@QPxport
+>6T@[K[20Cembox>��@@@@@QPxport@
+>6T@[K[21Cembox>��@@@@@QPxport@<
+>6T@[K[22Cembox>��@@@@@QPxport@<@
+>6T@[K[23Cembox>��@@@@@QPxport@<@@
+>6T@[K[24Cembox>��@@@@@QPxport@<@@@
+>6T@[K[25Cembox>��@@@@@QPxport@<@@@@
+>6T@[K[26Cembox>��@@@@@QPxport@<@@@@@
+>6T@[K[27Cembox>��@@@@@QPxport@<@@@@@@
+>6T@[K[28Cembox>��@@@@@QPxport@<@@@@@@@
+>6T@[K[29Cembox>��@@@@@QPxport@<@@@@@@@@
+>6T@[K[30Cembox>��@@@@@QPxport@<@@@@@@@@
+>6T@[K[31Cembox>��@@@@@QPxport@<@@@@@@@@
+>6T@[K[32Cembox>��@@@@@QPxport@<@@@@@@@@
+>6T@[K[33Cembox>��@@@@@QPxport@<@@@@@@@@
+>6T@embox>��@@@@@QPxport@<@@@@@@@@
+>6T@
+��@@@@@QPxport@<@@@@@@@@: Command not found
+tish error: #-2
+embox>
+�a��embox>
+�a�[K[12C�
+�a: Command not found
+tish error: #-2
+embox>
+{7���d{7���d������F
+tish error: #-22
+embox>
+�F
+tish error: #-22
+embox>
+embox>
+[K[8C7���G����F
+tish error: #-22
+embox>
+{7F��GO���F
+tish error: #-22
+embox>
+embox>
+[K[7C{7��
+tish error: #-22
+embox>
+���1pin1����F
+tish error: #-22
+embox>
+ls�{7���.F1FFFIFCFFF�cdFFFFF1FFFFFembox>[K[6C
+ls: Command not found
+tish error: #-2
+embox>
+"�outn��Fembox>
+"�outn��F[Kembox>�
+"�outn��F[Kembox>��
+"�outn��F[K
+��: Command not found
+tish error: #-2
+embox>
+{����%���F
+tish error: #-22
+embox>
+pinexit.{7���G����F
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

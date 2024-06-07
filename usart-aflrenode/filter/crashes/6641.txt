@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+pordordembox>
+pordord[K[6Cembox>r
+pordord[K[7Cembox>r�
+pordord[K[8Cembox>r��
+pordord[K[9Cembox>r��s
+pordord[K[10C
+r��s: Command not found
+tish error: #-2
+embox>
+lp�|ex�����embox>
+lp�|ex�����[K[23Cembox>
+lp�|ex����s�[K[24C
+lp: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+exitembox>
+exi[K[10C��l}d�Q
+exi��l}d�Q: Command not found
+tish error: #-2
+embox>
+�Upgls
+�Upgls: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+aps
+aps: Command not found
+tish error: #-2
+embox>
+�itge��]tggoutembox>[K[6C�Vttembox>�Vtt[K[6Cembox>�Vtt[K[7Cembox>��Vtt[K[8Cembox>�t�Vtt[K[9Cembox>�tt�Vtt[K[10Cembox>�ttt�Vtt[K[11Cembox>�tttt�Vtt[K[12Cembox>�ttttt�Vtt[K[13Cembox>�tttttt�Vttembox>�ttttttt�Vttembox>�tttttttt�Vttembox>�ttttttttt�Vttembox>�tttttttttd�Vttembox>�tttttttttdt�Vttembox>�tttttttttdtt�Vttembox>�tttttttttdttM�Vttembox>�tttttttttdttMt�Vttembox>�tttttttttdttMtt�Vttembox>�tttttttttdttMttt�Vttembox>�tttttttttdttMtttt�Vttembox>�tttttttttdttMttttt�Vttembox>�tttttttttdttMtttttt�Vttembox>�tttttttttdttMttttttt�Vttembox>�tttttttttdttMtttttttt�Vttembox>�tttttttttdttMttttttttt�Vttembox>�tttttttttdttMtttttttttt�Vtt
+embox>ttttt�tt�@tgontd�e�portport�p
+ttttt�tt�: Command not found
+tish error: #-2
+embox>
+<lpgos
+<lpgos: Command not found
+tish error: #-2
+embox>
+embox>
+[K���s
+���s: Command not found
+tish error: #-2
+embox>
+�n
+�n: Command not found
+tish error: #-2
+embox>
+
+�n: Command not found
+tish error: #-2
+embox>
+g�s
+g�s: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+O�ls
+tish error: #-22
+embox>
+��B��
+embox>q
+q: Command not found
+tish error: #-2
+embox>
+e�ex�
+e: Command not found
+tish error: #-2
+embox>
+e�j�j�iFq
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

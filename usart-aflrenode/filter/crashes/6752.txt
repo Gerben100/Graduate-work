@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>�[K[7C��,
+�: Command not found
+tish error: #-2
+embox>
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUembox>�[K[7CdxE��"
+�dxE��": Command not found
+tish error: #-2
+embox>
+embox>�dxE��"[K[13Cembox>�dxE��[K[12C�d�ls{ogoembox>�dxE���d�ls{og[K[20C,embox>�[K[7C,
+�,: Command not found
+tish error: #-2
+embox>
+P
+P: Command not found
+tish error: #-2
+embox>
+embox>
+P[K[8Cd
+Pd: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+"dxE��������������������
+(null): Command not found
+tish error: #-2
+embox>
+embox>[K[31CddxE�~��������[?5h[?5l�����embox>[K[52Cembox>[K[53Cembox>[K[54Cembox>[K[55Cembox>[K[56Cembox>[K[57Cembox>[K[58Cembox>[K[59Cembox>[K[60Cembox>[K[61Cembox>[K[62Cembox>[K[63Cembox>[K[64Cembox>[K[65Cembox>[K[66Cembox>[K[67Cembox>[K[68C�����
+(null): Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>�[KdxE�~������������
+�dxE�~�����: Command not found
+tish error: #-2
+embox>
+dxE�~�����
+�dxE�~�����dxE�~�����: Command not found
+tish error: #-2
+embox>
+dxE�~��|||||||||||||||||||�������#���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

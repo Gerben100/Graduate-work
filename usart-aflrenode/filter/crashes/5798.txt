@@ -1,0 +1,70 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10Cembox>exit[K[10Cembox>logout[K[12C[?5h[?5lembox>[K[6Cembox>tish[K[10Cï¿½ï¿½[?5h[?5ld[?5h[?5l[?5h[?5l*ï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lcdï¿½[?5h[?5ld[?5h[?5l[?5h[?5l*ï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½}ï¿½[?5h[?5l[?5h[?5lcdï¿½[?5h[?5ld[?5h[?5l[?5h[?5l*÷”””ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½}ï¿½cdï¿½d*÷”””ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>
+group[Kexportctï¿½embox>
+groupexportct[K[20Cd[?5h[?5l[?5h[?5lHï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lcdï¿½[?5h[?5ld[?5h[?5l[?5h[?5l*ï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lï¿½embox>
+[K[7Ccï¿½ï¿½[?5h[?5ld[?5h[?5l!embox>
+cï¿½ï¿½d![K[6Cembox>*
+cï¿½ï¿½d![K[7Cembox>*ï¿½
+cï¿½ï¿½d![K[8Cembox>*ï¿½
+cï¿½ï¿½d![K[9C[?5h[?5l
+embox>ï¿½ï¿½tï¿½ï¿½ï¿½ï¿½ï¿½ï¿½embox>ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[18Cï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½cdï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+*******
+*******: Command not found
+tish error: #-2
+embox>*****ï¿½[?5h[?5l
+embox>ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l$[?5h[?5l[?5h[?5lc[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½d*ï¿½ê“”ï¿½$cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½lsï¿½ï¿½ï¿½
+gd: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>sï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

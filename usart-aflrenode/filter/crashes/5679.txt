@@ -1,0 +1,143 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pi
+pi: Command not found
+tish error: #-2
+embox>
+eQembox>pi[K[8C
+pi: Command not found
+tish error: #-2
+embox>
+�export�X
+�export�X: Command not found
+tish error: #-2
+embox>
+�dd
+�dd: Command not found
+tish error: #-2
+embox>
+RexitYYYYYYYYYYYYYYu�
+RexitYYYYYYYYYYYYYYu�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+�@t
+�@t: Command not found
+tish error: #-2
+embox>
+cdcdcdf
+cdcdcdf: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[6Cembox>p�
+[K[7Cembox>pi�
+[K[8Cembox>pin�
+[K[9Cembox>pin�
+[K[6C
+embox>embox>
+cdcdcdf[K[14C[H[H[2Jembox>
+cdcdcdf[K[16C�O
+cdcdcdf: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>N
+[K[7Cembox>Nt
+[K[8Cembox>Nt4
+[K[9C[?5h[?5lembox>Nt4
+
+[K[10Cembox>Nt4
+l
+[K[11Cembox>Nt4
+lw
+[K[12Cembox>Nt4
+lw
+[K[6Cembox>Nt4
+lw
+[K[7Cembox>
+cdcdcdf[K[14C
+cdcdcdf: Command not found
+tish error: #-2
+embox>
+tqs
+tqs: Command not found
+tish error: #-2
+embox>
+P,c P�
+P,c: Command not found
+tish error: #-2
+embox>
+`wt
+`wt: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+[?5h[?5lu
+[?5h[?5lu: Command not found
+tish error: #-2
+embox>
+tut
+tut: Command not found
+tish error: #-2
+embox>
+��e�Hgout�i
+�: Command not found
+tish error: #-2
+embox>
+lo�nz�[�i
+lo�z: Command not found
+tish error: #-2
+embox>
+�iitw�[?5h[?5ll#e�h�i
+tish error: #-22
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+i�i
+i�i: Command not found
+tish error: #-2
+embox>
+e�i�i
+embox>
+p�@�rx
+p�@: Command not found
+tish error: #-2
+embox>
+`�p_delogoutt��ii
+`wt�ii: Command not found
+tish error: #-2
+embox>
+[?5h[?5lzpini[?5h[?5l[?5h[?5l8�[?5h[?5l
+zpini8: Command not found
+tish error: #-2
+embox>
+l��~������������������RedZ�����������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,146 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��ex
+��: Command not found
+tish error: #-2
+embox>
+����Ex
+����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Zgembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+j���ހQv
+j���ހ: Command not found
+tish error: #-2
+embox>
+Z``````cd```````V`````````````cidembox>
+j���ހ[K[13C
+j���ހ: Command not found
+tish error: #-2
+embox>
+ZcZcidembox>
+j���ހ[K[13Cidembox>[K[6C
+embox>
+Z
+Z: Command not found
+tish error: #-2
+embox>
+Z`id,
+Z`id,: Command not found
+tish error: #-2
+embox>
+embox>
+Z`id,[K[12C�id�
+Z`id,: Command not found
+tish error: #-2
+embox>
+Zcci
+Zcci: Command not found
+tish error: #-2
+embox>
+Zcilexitsaembox>
+Zcci[K[12C
+Zcci: Command not found
+tish error: #-2
+embox>
+pin
+pin: Command not found
+tish error: #-2
+embox>
+dembox>
+pin[K[10C
+pin: Command not found
+tish error: #-2
+embox>
+@������������������������������
+@: Command not found
+tish error: #-2
+embox>l�
+embox>
+@��g�
+@��g�: Command not found
+tish error: #-2
+embox>
+��logout�n�e
+��logout�n�e: Command not found
+tish error: #-2
+embox>
+�k<@<<<embox>
+�k<@<<<embox>
+�k<@<<�<embox>
+�k<@<<��<embox>[Kembox>[K
+�k: Command not found
+tish error: #-2
+embox>
+�
+embox>��y�
+��y�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+Ч���xit��Ex^�3�
+Ч���xit�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��ȧ�y
+��ȧ: Command not found
+tish error: #-2
+embox>
+n�n�
+n�n�: Command not found
+tish error: #-2
+embox>
+��
+�wei��x�: Command not found
+tish error: #-2
+embox>
+@�ç�� *���*� ��~�y�
+@: Command not found
+tish error: #-2
+embox>
+�@
+�@: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�@
+�@: Command not found
+tish error: #-2
+embox>
+�
+embox>�6��66666���cd%666666@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

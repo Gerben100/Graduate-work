@@ -1,0 +1,172 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C�i�
+embox>
+cdexpor@cd
+cdexpor@cd: Command not found
+tish error: #-2
+embox>
+[
+embox>
+[
+[K[6Cembox>
+[
+[K[10C[
+embox>
+[
+[
+[K[6Cembox>x
+[
+[
+[K[7Cembox>xc
+[
+[
+[K[8Cembox>xcd
+[
+[
+[K[9Cembox>xcd
+[
+[
+[K[10Cembox>xcdx
+[
+[
+[K[11Cembox>xcdxc
+[
+[
+[K[12Cembox>xcdxcd
+[
+[
+[K[13Cembox>xcdxcd
+[
+[
+[K[14C
+xcd: Command not found
+tish error: #-2
+embox>
+ embox>
+ [K[6Cembox>
+ [K[7Cembox>
+ [K[8Cembox> 
+ [K[9Cembox> l
+ [K[10Cembox> l
+ [K[11Cembox> lp
+ [K[12Cembox> lpi
+ [K[13Cembox> lpi 
+ [K[14Cembox> lpi l
+ [K[15Cembox> lpi l
+ [K[16Cembox> lpi lp
+ [K[17Cembox> lpi lpi
+ [K[18Cembox> lpi lpin
+ [K[19Cembox> lpi lpinn
+ [K[20C
+embox>
+)embox>
+)[K[6Cembox>x
+)[K[7Cembox>xc
+)[K[8Cembox>xc
+)[K[7Cembox>x�c
+)[K[8Cembox>x�pc
+)[K[9Cembox>x�c
+)[K[8Cembox>x�
+)[K[8Cembox>x��
+)[K[9Cembox>x��x
+)[K[10Cembox>x��x
+
+)[K[11Cembox>x��x
+�
+)[K[12Cembox>x��x
+�x
+)[K[13Cembox>x��x
+�xc
+)[K[14Cembox>x��x
+�xc
+)[K[15Cembox>[K[6C
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>x
+[K[7Cembox>xp
+[K[8Cembox>xpi
+[K[9Cembox>xpiw
+[K[10Cembox>xpiwc
+[K[11Cembox>xpiwcc
+[K[12Cembox>xpiwccc
+[K[13Cembox>xpiwccc�
+[K[14Cembox>xpiwccc�c
+[K[15Cembox>xpiwccc�cc
+[K[16Cembox>xpiwccc�ccH
+[K[17Cembox>xpiwccc�ccHc
+[K[18Cembox>xpiwccc�ccHcc
+[K[19Cembox>xpiwccc�ccHccc
+[K[20Cembox>xpiwccc�ccHcccc
+[K[21Cembox>xpiwccc�ccHcccch
+[K[22Cembox>xpiwccc�ccHcccchc
+[K[23Cembox>xpiwccc�ccHcccchcc
+[K[24Cembox>xpiwccc�ccHcccchccI
+[K[25Cembox>xpiwccc�ccHcccchccIc
+[K[26Cembox>xpiwccc�ccHcccchccIc�
+[K[27Cembox>xpiwccc�ccHcccchccIc�c
+[K[28Cembox>xpiwccc�ccHcccchccIc�cc
+[K[29Cembox>xpiwccc�ccHcccchccIc�cce
+[K[30Cembox>xpiwccc�ccHcccchccIc�ccec
+[K[31Cembox>xpiwccc�ccHcccchccIc�ccecd
+[K[32Cembox>xpiwccc�ccHcccchccIc�ccecdt
+[K[33Cembox>xpiwccc�ccHcccchccIc�ccecdtc
+[K[34Cembox>xpiwccc�ccHcccchccIc�ccecdtcc
+[K[35Cembox>xpiwccc�ccHcccchccIc�ccecdtccc
+[K[36Cembox>xpiwccc�ccHcccchccIc�ccecdtcccT
+[K[37Cembox>xpiwccc�ccHcccchccIc�ccecdtcccTc
+[K[38Cembox>xpiwccc�ccHcccchccIc�ccecdtcccTcc
+[K[39Cembox>xpiwccc�ccHcccchccIc�ccecdtcccTccg
+[K[40Cembox>xpiwccc�ccHcccchccIc�ccecdtcccTccgc
+[K[41C
+xpiwccc�ccHcccchccIc�ccecdtcccTccgc: Command not found
+tish error: #-2
+embox>
+��w[?5h[?5l�*ck�
+��w�*ck�: Command not found
+tish error: #-2
+embox>
+x
+߈cd
+tish error: #-22
+embox>
+embox>[K[6C���u ᚑ�xx��
+���u: Command not found
+tish error: #-2
+embox>
+xembox>���u ᚑ�xx���xc�
+���u: Command not found
+tish error: #-2
+embox>
+pin�x
+�x
+�xx
+�xc�xx
+�xccd
+pin: Command not found
+tish error: #-2
+embox>
+embox>
+[K++++++++++++++++++++++++++++
+�xcd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

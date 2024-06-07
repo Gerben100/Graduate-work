@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ss
+embox>
+embox>[K[6Cdlalogout
+dlalogout: Command not found
+tish error: #-2
+embox>
+�dembox>
+�d[K[6Cembox>_
+�d[K[7C
+_: Command not found
+tish error: #-2
+embox>
+dms
+dms: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cl!
+l!: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cgggvlcvl_
+gggvlcvl_: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+@
+tish error: #-22
+embox>
+embox>[K[6C�dembox>�d[K[9C/�xembox>
+[K[7C�id+gO���embox>
+�id+gO��[K[15Ch�ei�
+�id+gO��: Command not found
+tish error: #-2
+embox>~i9999999999999999999999999NNNNNNNNNNN@@/
+embox>Jexport@<@@@5@@;@\<@@embox>Jexport@<@@@5@@;@\<@[K�@c66
+Jexport@<@@@5@@;@\<@�@c66: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��idembox>��id[Kembox>@��id[Kembox>@���id[Kembox>@�@��id[Kembox>@�@N��id[Kembox>@�@N[K[10C/�xembox>[K[31C�id+go���embox>[K[39Ch
+Jexport@<@@@5@@;@\<@�@c66�id+go��: Command not found
+tish error: #-2
+embox>iNNNNNNNNNNNN@NNNNNNNND
+embox>�@@/Jexporembox>[K[31C<@@@@@@;embox>
+�id+gO��[K[15C@embox>
+�id+gO��[K[17C�@c66
+�id+gO��: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��idembox>��id[K[12C/�xembox>
+�id+gO��[K[15C�id+go���embox>
+�id+gO���id+go��h
+�id+gO���id+go��: Command not found
+tish error: #-2
+embox>iNNNNNNNNNNNN@NNNNN9NND�@@/Jexport
+embox>@<@@@@@@;@\<@e�@c66
+@<@@@@@@;@\<@e�@c66: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�ietttttttxeembox>�ietttttttxe/�xembox>@<@@@@@@;@\<@e�@c66�id+go�[?5h[?5l
+@<@@@@@@;@\<@e�@c66�id+go�[?5h[?5l: Command not found
+tish error: #-2
+embox>h�iNJNNNLNNNNNNd@embox>@<@@@@@@;@\<@e�@c66embox>@<@@@@@@;@\<@e�@c66/�x
+@<@@@@@@;@\<@e�@c66: Command not found
+tish error: #-2
+embox>embox>@<@@@@@@;@\<@e�@c66�id+gcd/Jexpo}t@<@@@@@@pin;@\ @@embox>[K�@C66
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

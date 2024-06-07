@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Dl������������ߟ��Dl����������������DxeQ�Q
+Dl������������ߟ��Dl����������������DxeQ�Q: Command not found
+tish error: #-2
+embox>
+nembox>
+[K[7C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>"
+[K[7C
+(null): Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+embox>
+f[K[8Cembox>"
+[K[8Ce
+(null): Command not found
+tish error: #-2
+embox>
+embox>"
+e[K[9C]x`Q
+(null): Command not found
+tish error: #-2
+embox>
+@o�p<p
+@o�p<p: Command not found
+tish error: #-2
+embox>
+�,
+�,: Command not found
+tish error: #-2
+embox>
+exitn
+exitn: Command not found
+tish error: #-2
+embox>
+
+embox>
+q�qn
+q�qn: Command not found
+tish error: #-2
+embox>
+q�
+q�: Command not found
+tish error: #-2
+embox>
+blssr8d
+blssr8d: Command not found
+tish error: #-2
+embox>
+�:
+�:: Command not found
+tish error: #-2
+embox>
+R�
+tish error: #-22
+embox>
+I
+I: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+embox>
+���cd�orSiou
+���cd�rS: Command not found
+tish error: #-2
+embox>
+�q]qinY
+�q]qinY: Command not found
+tish error: #-2
+embox>
+q�
+�: Command not found
+tish error: #-2
+embox>
+qq��e�[?5h[?5l
+embox>
+embox>
+qqaqlogoutei
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

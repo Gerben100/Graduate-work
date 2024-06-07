@@ -1,0 +1,51 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>2��������d��loo�Bdzd��\���Blexporexiexit���B~embox>2��������d��loo�Bdzd��\���Blexporexiexit���B~[K[53C
+2��������d��loo�Bdzd��\: Command not found
+tish error: #-2
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+���[?5h[?5l%,�l���
+��: Command not found
+tish error: #-2
+embox>
+embox>
+��[K[9C��������embox>����[K[10Cembox>2��������d��loo�Bdzd��\[K[30Cl*� �d
+2��������d��loo�Bdzd��\l*�: Command not found
+tish error: #-2
+embox>
+embox>2��������d��loo�Bdzd��\l*� ���������embox>
+�����[K[12Cembox>����[K[10Cl*embox>����l[K[11CBdzd�����
+����lBdzd�����: Command not found
+tish error: #-2
+embox>
+embox>����lBdzd�����[K[20C�����looyyout�exit����embox>[K[43Cembox>
+�����l*embox>
+�����lBdzd��\embox>�������B�������
+����: Command not found
+tish error: #-2
+embox>
+������dl*�dBdzd��\B����
+����B����: Command not found
+tish error: #-2
+embox>
+���������l*-dzC��\���B�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

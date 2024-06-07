@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+�����
+�����: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C��y�
+tish error: #-22
+embox>
+X�embox>
+X[K[8C�y�yem
+X: Command not found
+tish error: #-2
+embox>
+ye�
+ye�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[6Cembox>��
+[K[7C
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>embox>[K[6Cembox>�[K[7Cembox>�[K[8Cembox>�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cxite�
+xite�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�,embox>
+�,[K[9Cembox>
+�,[K[10Cembox>
+��,[K[11Cembox>
+��x,[K[12Cembox>
+��x�,[K[13Cembox>
+��x��,[K[14C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�l�L
+�l�L: Command not found
+tish error: #-2
+embox>
+u��
+u��: Command not found
+tish error: #-2
+embox>
+embox>
+[Ki
+i: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+�iuuo
+�iuuo: Command not found
+tish error: #-2
+embox>
+��uti
+�: Command not found
+tish error: #-2
+embox>
+ou
+ou: Command not found
+tish error: #-2
+embox>
+lsoU[?5h[?5l
+i: Command not found
+tish error: #-2
+embox>
+�ttttttttlugout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

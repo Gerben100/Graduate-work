@@ -1,0 +1,151 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��BJ
+��BJ: Command not found
+tish error: #-2
+embox>
+�\embox>
+�\[K[6Cembox>�
+�\[K[7Cembox>��
+�\[K[8Cembox>��@
+�\[K[9Cembox>��BJ[K[10C
+��BJ: Command not found
+tish error: #-2
+embox>
+Yဏ�uembox>��BJ[K[10C*
+��BJ*: Command not found
+tish error: #-2
+embox>
+��W"J
+��W"J: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�@X�
+�@: Command not found
+tish error: #-2
+embox>
+��lzgocd�embox>
+��lzgocd�[K[6Cembox>@
+��lzgocd�[K[7Cembox>@
+��lzgocd�[K[8Cembox>@
+���lzgocd�[K[9Cembox>@
+����lzgocd�[K[10Cembox>@
+�����lzgocd�[K[11Cembox>@
+������lzgocd�[K[12Cembox>@
+�������lzgocd�[K[13Cembox>@
+����Ѻ��lzgocd�[K[14Cembox>@
+����Ѻz��lzgocd�[K[15Cembox>@
+����Ѻz��lzgocd�[K[16Cembox>@
+����Ѻz���lzgocd�[K[17Cembox>@
+����Ѻz����lzgocd�[K[18Cembox>@
+����Ѻz�����lzgocd�[K[19Cembox>@
+����Ѻz������lzgocd�[K[20Cembox>@
+����Ѻz�������lzgocd�[K[21Cembox>@
+����Ѻz�������lzgocd�[K[22Cembox>@
+����Ѻz�������lzgocd�[K[23Cembox>@
+����Ѻz�������lzgocd�[K[24Cembox>@
+����Ѻz������@�lzgocd�[K[25Cembox>@
+����Ѻz������@�lzgocd�[K[26Cembox>@
+����Ѻz������@lzgocd�[K[25Cembox>@
+����Ѻz������@�lzgocd�[K[26Cembox>@
+����Ѻz������@��lzgocd�[K[27Cembox>@
+����Ѻz������@���lzgocd�[K[28Cembox>@
+����Ѻz������@����lzgocd�[K[29Cembox>@
+����Ѻz������@�����lzgocd�[K[30Cembox>@
+����Ѻz������@�����zlzgocd�[K[31Cembox>@
+����Ѻz������@�����zlzgocd�[K[32Cembox>@
+����Ѻz������@�����zl�zgocd�[K[33Cembox>@
+����Ѻz������@�����zl��zgocd�[K[34Cembox>@
+����Ѻz������@�����zl���zgocd�[K[35Cembox>@
+����Ѻz������@�����zl���zgocd�[K[36Cembox>
+�@[K[9C
+�@: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cuorx
+uorx: Command not found
+tish error: #-2
+embox>
+4logout�����embox>
+uorx[K
+uorx: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>
+��embox>
+�[K�
+��: Command not found
+tish error: #-2
+embox>
+��embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+����
+���: Command not found
+tish error: #-2
+embox>
+333
+333: Command not found
+tish error: #-2
+embox>
+�����@�
+tish error: #-22
+embox>
+�
+embox>
+out��
+out: Command not found
+tish error: #-2
+embox>
+���#�@
+���#�@: Command not found
+tish error: #-2
+embox>
+@@@�@d�orgppe
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>tish[K[10C�lseloembox>tish�lsel[K[15Clo���
+tish�lsello���: Command not found
+tish error: #-2
+embox>
+�embox>tish�lsello���[K[20Cembox>tish�lsello���[K[20C�embox>tish�lsello���[K[20Coembox>tish�lsello���[K[23ClG�xiembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+pin[?5h[?5lembox>
+�[K[8Cembox>tish�lsello���[K[20C�lo �[?5h[?5loembox>tish�lsello����lo �[K[26Clo�x�embox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+group[Kembox>
+�[K[8Cembox>tish�lsello����lo[K[23Cembox>tish�lsello����lo[K[6Cembox>tish�lsello����lo[K[7Cembox>�tish�lsello����lo[K[8Cembox>�etish�lsello����lo[K[9Cembox>�eltish�lsello����lo[K[10Cembox>�elotish�lsello����lo[K[11Cembox>�eltish�lsello����lo[K[10Cembox>�elltish�lsello����lo[K[11Cembox>�elltish�lsello����lo[K[6Cembox>�elltish�lsello����lo[K[7Cembox>i�elltish�lsello����lo[K[8Cembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+group[K;embox>
+�[K[8Cxi�embox>[K[6C
+floembox>
+fl[K[9CU
+flU: Command not found
+tish error: #-2
+embox>
+lembox>
+flU[K[10Cembox>
+�xi�[K[12Cembox>
+flU[K[10C{8�B�rtoembox>
+flU{8�B�rt[K[17CR
+embox>�ls
+�ls: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>�ls[K[9Cembox>
+l[K[8Cembox>
+flU[K[10Cembox>
+�xi�[K[12Cembox>
+flU{8�B�rtR[K[18C���lo�xiembox>
+�xi�[K[12C
+�xi�: Command not found
+tish error: #-2
+embox>
+���embox>
+���[K[17C
+embox>pembox>passwd[K[12C7sttutttttttktt�t��
+passwd7sttutttttttktt�t��: Command not found
+tish error: #-2
+embox>embox>[K[6C
+embox>pembox>passwd7sttuttttt
+passwd7sttuttttt: Command not found
+tish error: #-2
+embox>
+���6�lsttttt
+tish error: #-22
+embox>
+���lembox>[Kt7s6embox>[K[12C
+embox>p[?5h[?5ltttttd�`Vtt�lsstttttttttdttVttttttttttttttt�embox>[K[50Ct
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����x�����������We��rteo�ldh+0cd�uWembox>[K[6C��x
+embox>dh+embox>dh+[K[8Cembox>dh�+[K[9Cembox>dh��+[K[10Cembox>dh��W+[K[11Cembox>dh��We+[K[12Cembox>dh��We�+[K[13Cembox>dh��We�+[K[14Cembox>dh��We��+[K[15Cembox>dh��We��/+[K[16Cembox>dh��We��/+[K[17C
+dh��We�: Command not found
+tish error: #-2
+embox>
+�y[?5h[?5l������������������embox>
+�y[?5h[?5l������������������[K[31Cembox>
+�y[?5h[?5l������������������[K[32Cembox>
+�y[?5h[?5l������������������[K[33Cembox>
+�y[?5h[?5l�����������������[K[33Cxdh+�Wembox>[K[6C��xdhembox>dh��We�[K[13C�
+dh��We�: Command not found
+tish error: #-2
+embox>W��[H[H[2Jembox>W��[K[11C
+W�: Command not found
+tish error: #-2
+embox>
+z�jxiin�t�
+z�jxiin�t�: Command not found
+tish error: #-2
+embox>
+��xz�exin�
+��xz�exin�: Command not found
+tish error: #-2
+embox>
+cV�
+cV�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+embox>embox>[K[9Cembox>
+cV�[K[10C
+cV�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+embox>pi���
+pi���: Command not found
+tish error: #-2
+embox>pi����@z�exit�Yn�
+pi����@z�exit�Yn�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c�����d�n
+�c�����d: Command not found
+tish error: #-2
+embox>
+zexit�rin�
+exit�rin�: Command not found
+tish error: #-2
+embox>
+
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+FyxpLrt3�c
+xp��: Command not found
+tish error: #-2
+embox>ort
+�": Command not found
+tish error: #-2
+embox>
+FyxpLrt3�c
+��: Command not found
+tish error: #-2
+embox>�@@@@@Q?exp.��Uxpo@��Uxport
+�": Command not found
+tish error: #-2
+embox>
+embox>
+FyxpLrt3�p@��Uxpo@��Uxport
+��@: Command not found
+tish error: #-2
+embox>b7qexport@<@@6656>6T@�@@@@@[H[H[2J
+embox>�p@��Uxpo@��Uxp
+�p@��Uxpo@��Uxp: Command not found
+tish error: #-2
+embox>ort
+�": Command not found
+tish error: #-2
+embox>
+FyxpL�t3�c
+��: Command not found
+tish error: #-2
+embox>�@@\@@Y?exp@��Uxpo@��Ux{ort
+embox>";c6656>6T@
+(null): Command not found
+tish error: #-2
+embox>
+embox>
+F�x0Lrt3�c
+embox>�Uxqort3�@c66g56>6T@
+�Uxqort3�@c66g56>6T@: Command not found
+tish error: #-2
+embox>
+Fexitrt3�c������������?exp������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

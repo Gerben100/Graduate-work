@@ -1,0 +1,144 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xx` �OVgogo�d�
+xx`: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cexportei�embox>exportei�[K[14Cembox>exportei�[K[15Cembox>exportei��[K[16Cembox>exportei�y�[K[17Cembox>exportei�y(�[K[18Cembox>exportei�y(��[K[19Cembox>exportei�y(�y�[K[20Cembox>exportei�y(�ye�[K[21Cembox>exportei�y(�ye��[K[22C
+exportei: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��ei��y(�yq�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6Cxei�embox>xei�[K[10Cembox>xei�[K[11Cembox>xei��[K[12Cembox>xei�y�[K[13Cembox>xei�y(�[K[14Cembox>xei�y(��[K[15Cembox>xei�y(�y�[K[16Cembox>xei�y(�y��[K[17C
+embox>ye�
+ye�: Command not found
+tish error: #-2
+embox>
+�
+�embox>
+�
+�[K[6Cembox>ye�[K[9Cxei�embox>ye�xei�[K[12Cembox>ye�xei�[K[13Cembox>ye�xei��[K[14Cembox>ye�xei�y�[K[15Cembox>ye�xei�y(�[K[16Cembox>ye�xei�y(�[K[6Cembox>ye�xei�y(�[K[7Cembox>ye�xei�y(�[K[8Cembox>ye�xei�y(�[K[9C
+embox>
+pinembox>
+pin[K[6Cembox>[K[6Cxembox>x[K[9Cembox>x��[K[10Cembox>x�À[K[11Cembox>x���[K[12C[H[H[2Jembox>x���[K[12Cembox>x���[K[13Cembox>x���[K[14Cembox>x��&�[K[15Cembox>x��&x�[K[16Cembox>x��&xe�[K[17Cembox>x��&xet�[K[18Cembox>x��&xet�[K[19Cembox>x��&xet�[K[18Cembox>x��&xet�[K[19Cembox>x��&xet��[K[20Cembox>x��&xet�y�[K[21Cembox>x��&xet�yH�[K[22Cembox>x��&xet�yH��[K[23Cembox>x��&xet�yH�y�[K[24Cembox>x��&xet�yH�ye�[K[25Cembox>x��&xet�yH�ye��[K[26C
+x�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cdxei�embox>dxei�[K[14Cembox>dxei�[K[15Cembox>dxei��[K[16Cembox>dxei�y�[K[17Cembox>dxei�y(�[K[18Cembox>dxei�y(��[K[19Cembox>dxei�y(�y�[K[20Cembox>dxei�y(�ye�[K[21Cembox>dxei�y(�ye��[K[22C
+embox>
+
+xi@d
+tish error: #-22
+embox>
+��y(�ye�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>ei
+[K[8Cembox>ei�
+[K[9Cembox>ei�
+[K[8Cembox>ei�
+[K[9Cembox>ei�
+[K[10Cembox>eix�
+[K[11Cembox>eix[K[11C�y(�ye�
+ei: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[7Cembox>x[K[8Cembox>xe[K[9Cembox>xei[K[10Cembox>xei�[K[11Cembox>xei�[K[10Cembox>xei�[K[11Cembox>xei��[K[12Cembox>xei�y�[K[13Cembox>xei�y(�[K[14Cembox>xei�y(��[K[15Cembox>xei�y(�y�embox>xei�y(�ye�embox>xei�y(�ye��
+embox>
+embox>
+[K[6Cembox>[K[6Cwdi�embox>wdi�[K[13Cembox>wdi�[K[14Cembox>wdi��[K[15Cembox>wdi�y�[K[16Cembox>wdi�y(�[K[17Cembox>wdi�y(��[K[18Cembox>wdi�y(�y�embox>wdi�y(�ye�embox>wdi�y(�ye��
+embox>
+embox>
+[K[6Cembox>[K[6C�e�
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>[K[6Cxei�embox>xei�[K[13Cembox>xei�[K[14Cembox>xei��[K[15Cembox>xei�y�[K[16Cembox>xei�y��[K[17Cembox>xei�y�[K[17Cembox>xei�y�(�[K[18Cembox>xei�y�(�[K[19Cembox>xei�y�(�y�[K[20Cembox>xei�y�(�ye�[K[21Cembox>xei�y�(�ye�[K[22C
+embox>
+embox>
+[K[6Cembox>[K[6Cxei�embox>xei�[K[11Cembox>xei�[K[12Cembox>xei��[K[13Cembox>xei�y�[K[14Cembox>xei�y(�[K[15Cembox>xei�y(��[K[16Cembox>xei�y(���[K[17Cembox>xei�y(����[K[18Cembox>xei�y(�����[K[19Cembox>xei�y(����e�[K[20Cembox>xei�y(����e��[K[21C
+embox>
+xei�embox>
+xei�[K[13Cembox>
+xei�[K[14Cembox>
+xei��[K[15Cembox>
+xei�y�[K[16Cembox>
+xei�y(�[K[17Cembox>
+xei�y(��[K[18Cembox>
+xei�y(�y�[K[19Cembox>
+xei�y(�ye�[K[20Cembox>
+xei�y(�ye��[K[21Cembox>
+xei�y(�ye��[K[6Cembox>[K[6Cxei�embox>xei�[K[13Cembox>xei�[K[14Cembox>xei��[K[15Cembox>xei�y�[K[16Cembox>xei�y(�[K[17Cembox>xei�y(��[K[18Cembox>xei�y(�y�[K[19Cembox>xei�y(�ye�[K[20Cembox>xei�y(�ye��[K[21C
+embox>
+embox>
+[K[10Cembox>
+[K[11Cembox>
+[K[12Cembox>
+[K[13Cembox>
+[K[12Cembox>
+[K[13Cembox>
+�[K[14Cembox>
+�[K[15Cembox>
+��[K[16Cembox>
+��y[K[17Cembox>
+��y([K[18Cembox>
+��y(�[K[19Cembox>
+��y(�y[K[20Cembox>
+��y(�ye[K[21Cembox>
+��y(�ye�
+tish error: #-22
+embox>
+embox>
+[Kembox>[K����������yyyyy�yyyyyyyzyyyembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+(�y�: Command not found
+tish error: #-2
+embox>
+�' e��embox>
+�' e��embox>
+�' e��embox>
+�' e���embox>
+�' e��y�embox>
+�' e���yembox>
+�' e���dyembox>
+�' e���dyyembox>
+�' e���dyey
+�: Command not found
+tish error: #-2
+embox>
+��y(�xe�
+��: Command not found
+tish error: #-2
+embox>
+e�bbbbbbbbbbbbbbbrbbbbbbbb���xei����piny>�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

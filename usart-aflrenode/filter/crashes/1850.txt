@@ -1,0 +1,67 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>p�7t+tt�embox>p�7t+tt�[K[14CttV�tttttdttV�ttembox>p�7t+tt�ttV�tttttdttV�tt[K[31Cembox>p�7t+tt�ttV�tttttdttV�tt[K[32Cembox>p�7t+tt�ttV�tttttdttV�ttt[K[33Cembox>p�7t+tt�ttV�tttttdttV�ttt�[K[34Cembox>p�7t+tt�ttV�tttttdttV�ttt�[K[35Cembox>p�7t+tt�ttV�tttttdttV�ttt�@[K[36Cembox>p�7t+tt�ttV�tttttdttV�ttt�@d[K[37C
+p�7t+tt�ttV�tttttdttV�tt: Command not found
+tish error: #-2
+embox>goutf�
+goutf�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p�7t+tttttdttV�ttQttdttV�ttembox>p�7t+tttttdttV�ttQttdttV�tt[K[34Cembox>p�7t+tttttdttV�ttQttdttV�tt[K[35Cembox>p�7t+tttttdttV�ttQttdttV�ttt[K[36Cembox>p�7t+tttttdttV�ttQttdttV�ttt�[K[37Cembox>p�7t+tttttdttV�ttQttdttV�ttt�[K[38Cembox>p�7t+tttttdttV�ttQttdttV�ttt�@[K[39Cembox>p�7t+tttttdttV�ttQttdttV�ttt�@d[K[40C
+p�7t+tttttdttV�ttQttdttV�tt: Command not found
+tish error: #-2
+embox>gou�f�
+gou�f�: Command not found
+tish error: #-2
+embox>
+_____________�i_ttttttdttV�ttttttttttttttttttd
+_____________�i_: Command not found
+tish error: #-2
+embox>goutf�
+goutf�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>l�7t+tttttdttV�tttttdttV
+l�7: Command not found
+tish error: #-2
+embox>�ttembox>�tt[Kembox>�ttembox>�tttembox>�ttt�embox>�ttt�embox>�ttt�@embox>�ttt�@dembox>�ttt�@dgembox>�ttt�@dgoembox>�ttt�@dgouembox>�ttt�@dgoutembox>�ttt�@dgoutfembox>�ttt�@dgoutf�
+�tt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>r�7�������embox>[K[6C�tt�@dgoutf�
+�tt: Command not found
+tish error: #-2
+embox>
+embox>
+[K
+embox>p�7t44444embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26C
+p�7t4444: Command not found
+tish error: #-2
+embox>
+
+embox>p�8t
+ttttttt~td�tV�tttttdttV�t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

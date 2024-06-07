@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Lembox>L[K[6Cembox>SL[K[7Cembox>S�L[K[8Cembox>S�dL[K[9Cembox>S�dL[K[10Cembox>S�d�L[K[11Cembox>S�d��L[K[12Cembox>S�d���L[K[13Cembox>S�d����L[K[14Cembox>S�d�����L[K[15Cembox>S�d�����L[K[16Cembox>S�d�����L[K[17Cembox>S�d�����L[K[16Cembox>S�d�����L[K[17Cembox>S�d������L[K[18Cembox>S�d�������L[K[19Cembox>S�d��������L[K[20Cembox>S�d���������L[K[21Cembox>S�d����������L[K[22Cembox>S�d�����������L[K[23Cembox>L[K[6Cembox>L[K[7Cembox>[K[7ClogUut�embox>logUut�[K[14Ci������xieembox>logUut�i������xi[K[23C$o
+logUut�i������xi$o: Command not found
+tish error: #-2
+embox>
+Bd���Stembox>
+Bd���S[K[14C ��$embox>
+Bd���S ��$[K[19C?!
+Bd���S: Command not found
+tish error: #-2
+embox>
+B��xit�t�embox>
+B��xit�t[K[17C�
+B��xit�: Command not found
+tish error: #-2
+embox>
+BS� �$P
+B: Command not found
+tish error: #-2
+embox>
+Nembox>
+B[K[8C�
+B: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Bt��embox>
+Bt��[K[11Cembox>
+Bt��n[K[12Cembox>
+Bt��n[K[13Cembox>
+Bt��n[K[12Cembox>
+Bt��n�[K[13Cembox>
+Bt��n�[K[13C 
+Bt��n�: Command not found
+tish error: #-2
+embox>
+� 
+tish error: #-22
+embox>
+BBt{xitt�
+BBt: Command not found
+tish error: #-2
+embox>
+ls��embox>
+ls�[K[10C�d
+ls��d: Command not found
+tish error: #-2
+embox>
+lsct
+lsct: Command not found
+tish error: #-2
+embox>
+!t���xi����@
+!t��: Command not found
+tish error: #-2
+embox>
+Bt�
+Bt�: Command not found
+tish error: #-2
+embox>
+Bs �
+Bs: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+�{3x
+�{3x: Command not found
+tish error: #-2
+embox>
+Z
+F��lV: Command not found
+tish error: #-2
+embox>
+B�����������pin����@V
+B: Command not found
+tish error: #-2
+embox>
+B��������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

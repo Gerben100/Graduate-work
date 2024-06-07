@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>l[K[7Cembox>l[K[6Cembox>ll[K[7C
+ll: Command not found
+tish error: #-2
+embox>
+erembox>
+er[K[6Cembox>p
+er[K[7Cembox>pi
+er[K[8Cembox>pin
+er[K[9Cembox>pin[
+er[K[10Cembox>pin[o
+er[K[11Cembox>pin[o
+er[K[12Cembox>pin[oer[K[12Cembox>pin[oxer[K[13Cembox>pin[oxder[K[14Cembox>pin[oxdher[K[15Cembox>pin[oxdh+er[K[16Cembox>pin[oxdh+er[K[15Cembox>pin[oxdh+er[K[16Cembox>pin[oxdh�+er[K[17Cembox>pin[oxdh�V+er[K[18Cembox>[K[6C�
+embox>
+e�embox>ll[K[8Cembox>ll[K[6Cembox>_ll[K[7Cembox>_oll[K[8Cembox>_oll[K[9Cembox>_ol[K[9Cembox>_owl[K[10Cembox>_owpl[K[11Cembox>_owpil[K[12Cembox>_owpinl[K[13Cembox>_owpinl[K[14Cembox>_owpin�l[K[15Cembox>_owpin��l[K[16Cembox>_owpin���l[K[17Cembox>_owpin����l[K[18Cembox>_owpin����l[K[19Cembox>_owpin����@l[K[20Cembox>_owpin����@�l[K[21Cembox>_owpin����@�@l[K[22Cembox>_owpin����@�@�l[K[23Cembox>_owpin����@�@��l[K[24Cembox>_owpin����@�@���l[K[25C
+_o: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[6Cembox>l
+e[K[7Cembox>ld
+e[K[8Cembox>ld
+e[K[9Cembox>ld
+e[K[6Cembox>lld
+e[K[7Cembox>lold
+e[K[8Cembox>lo�ld
+e[K[9Cembox>lo��ld
+e[K[10Cembox>lo��xld
+e[K[11Cembox>lo��xdld
+e[K[12Cembox>lo��xdhld
+e[K[13Cembox>lo��xdh+ld
+e[K[14Cembox>lo��xdh+#ld
+e[K[15Cembox>lo��xdh+#@ld
+e[K[16Cembox>lo��xdh+#@ld
+e[K[6Cembox>lo��xdh+#@ld
+e[K[7Cembox>lo��xdh+#@ld
+e[K[8Cembox>lo��xdh+#@ld
+e[K[9Cembox>�lo��xdh+#@ld
+e[K[10C
+embox>
+��@
+��@: Command not found
+tish error: #-2
+embox>
+ex�orte�\�\�
+ex�orte�\�\�: Command not found
+tish error: #-2
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+�����b
+�����b: Command not found
+tish error: #-2
+embox>
+erDY@
+er: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,155 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>b
+b: Command not found
+tish error: #-2
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+pppppppp���pppppppppppppppppembox>
+pppppppp���pppppppppppppppp[K[35Cp
+pppppppp: Command not found
+tish error: #-2
+embox>
+�I
+�I: Command not found
+tish error: #-2
+embox>
+mk�
+mk�: Command not found
+tish error: #-2
+embox>
+mke]qort
+mke]qort: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+mcembox>
+mc[K[6Cembox>mc[K[6Cembox>lmc[K[7Cembox>lmc[K[6Cembox>lmc[K[7Cembox>Ylmc[K[8C
+embox>
+m@ls|
+m: Command not found
+tish error: #-2
+embox>
+���m
+���m: Command not found
+tish error: #-2
+embox>
+|
+|: Command not found
+tish error: #-2
+embox>
+�spr
+�spr: Command not found
+tish error: #-2
+embox>
+j�������k������������������k��.HkkkkkkkkkkF
+�spr: Command not found
+tish error: #-2
+embox>
+�g����������������kd
+�sprd: Command not found
+tish error: #-2
+embox>
+��R�dl �s
+��: Command not found
+tish error: #-2
+embox>
+Rgoutk�
+�spr: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lsY
+ls: Command not found
+tish error: #-2
+embox>
+mk�����[?5h[?5lY
+mk�����Y: Command not found
+tish error: #-2
+embox>
+����SC
+����SC: Command not found
+tish error: #-2
+embox>
+�in
+: Command not found
+tish error: #-2
+embox>
+kl
+kl: Command not found
+tish error: #-2
+embox>
+mk 
+mk: Command not found
+tish error: #-2
+embox>
+mkmk�l�
+mkmk�l�: Command not found
+tish error: #-2
+embox>
+d�
+�spr: Command not found
+tish error: #-2
+embox>
+lspin���������������
+ls: Command not found
+tish error: #-2
+embox>
+xkl
+xkl: Command not found
+tish error: #-2
+embox>
+mklogoutl
+mklogoutl: Command not found
+tish error: #-2
+embox>
+mkl�����rogout�������� �c
+tish error: #-22
+embox>
+�l
+�l: Command not found
+tish error: #-2
+embox>
+vSB
+vS: Command not found
+tish error: #-2
+embox>
+m��Lyl
+m��Lyl: Command not found
+tish error: #-2
+embox>
+m��@@@@@?@@@@@6@�@@@�� @ex�@�@S@@?@@@EP@B@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

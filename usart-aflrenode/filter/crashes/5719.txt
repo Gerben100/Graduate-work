@@ -1,0 +1,199 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>"xe
+(null): Command not found
+tish error: #-2
+embox>
+exitinexembox>
+exitine[K[14C
+exitine: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>*
+[K[7Cembox>*x
+[K[8Cembox>*xp
+[K[9Cembox>*xpx
+[K[10Cembox>*xp
+[K[9Cembox>*xp
+[K[10C
+*xp: Command not found
+tish error: #-2
+embox>
+&Blogoutembox>
+&Blogout[K[14Cembox>
+&Blogout[K[15Cembox>
+&Blogouxt[K[16Cembox>
+&Blogoux�t[K[17Cembox>*xp[K[9C
+*xp: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>@
+[K[7Cembox>@
+[K[8Cembox>@b
+[K[9C
+@: Command not found
+tish error: #-2
+embox>
+obobembox>
+obo[K[10C
+obo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>B
+[K[7Cembox>Bx
+[K[8Cembox>Bxe
+[K[9Cembox>Bxe]
+[K[10Cembox>Bxe]�
+[K[11Cembox>Bxe]�
+[K[6C
+Bxe]�: Command not found
+tish error: #-2
+embox>
+x[?5h[?5l
+x[?5h[?5l: Command not found
+tish error: #-2
+embox>
+
+embox>���~i
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�[K[7C�
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>B
+[K[7Cembox>Bx
+[K[8Cembox>Bxe
+[K[9Cembox>Bxex
+[K[10Cembox>Bxex 
+[K[11Cembox>Bxex {
+[K[12Cembox>Bxex {e
+[K[13Cembox>Bxex {ee
+[K[14Cembox>Bxex {eee
+[K[15Cembox>Bxex {eee
+[K[16Cembox>Bxex {eee
+[K[17Cembox>Bxex {eee
+[K[16Cembox>Bxex {eee
+[K[17Cembox>Bxex {eeee
+[K[18Cembox>Bxex {eeeee
+[K[19Cembox>Bxex {eeeeee
+[K[20Cembox>Bxex {eeeeeee
+[K[21Cembox>Bxex {eeeeeeee
+embox>Bxex {eeeeeeeee
+embox>Bxex {eeeeeeeeee
+embox>Bxex {eeeeeeeeeee
+embox>Bxex {eeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeeee
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeeeeB
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeeeeBx
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeeeeBxe
+embox>Bxex {eeeeeeeeeeeeeeeeeeeeeeeBxex
+embox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50C
+Bxex: Command not found
+tish error: #-2
+embox>
+��cxpin
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>B
+embox>Be
+embox>Be�
+embox>Be�i
+embox>Be�iS
+embox>Be�iS
+
+Be�iS: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+Bxcd: Command not found
+tish error: #-2
+embox>
+dc`Bx epin
+Bxe: Command not found
+tish error: #-2
+embox>
+�we@
+embox>�xe
+�x: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�(pin
+(: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+>
+>: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

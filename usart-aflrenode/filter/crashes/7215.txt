@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�x�xlxeiei�
+embox>
+dx
+embox>in�xeMembox>in�xe[K[12Cie��
+in: Command not found
+tish error: #-2
+embox>
+xxeM}��lxei
+x: Command not found
+tish error: #-2
+embox>
+��exiexitMembox>
+��exiexit[K[16C�xlxeie
+��exiexit�x: Command not found
+tish error: #-2
+embox>
+�xeM]�xlzei�
+tish error: #-22
+embox>
+�xx�xxx�xlx Membox>
+�xx�xxx�xlx [K[20C�xx�xxx�xlxei{
+tish error: #-22
+embox>
+xy�e�embox>
+xy�e[K[12C��e
+x: Command not found
+tish error: #-2
+embox>
+=6@expembox>
+=6@ex[K[12C���@@
+=6@ex���@@: Command not found
+tish error: #-2
+embox>
+���lsembox>
+=6@ex���@@[K[17Cb��ls�embox>
+x[K[8Cv
+x: Command not found
+tish error: #-2
+embox>
+�xexit�d
+�xexit: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>x
+[K[7Cembox>x
+[K[8Cembox>x
+[K[6Cembox>xx
+[K[7Cembox>xex
+[K[8Cembox>xeex
+[K[9C
+xeex: Command not found
+tish error: #-2
+embox>
+embox>xeex[K[10Cembox>xee[K[9C�xlxeKe
+xee�x: Command not found
+tish error: #-2
+embox>
+�wdiembox>
+�wdi[K[11Cembox>
+�wdi[K[12Cembox>
+�wdix[K[13Cembox>
+�wdixd[K[14Cembox>
+�wdixd
+[K[15C
+�wdi: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�s�ooo
+�s�ooo: Command not found
+tish error: #-2
+embox>
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

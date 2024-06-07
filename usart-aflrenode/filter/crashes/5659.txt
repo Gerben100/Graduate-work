@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+�w
+�w: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[K[19Ch@�6
+adduser.confh@�6: Command not found
+tish error: #-2
+embox>
+%�embox>
+%�[K[6Cembox>
+%�[K[7Cembox>�
+%�[K[8Cembox>
+%�[K[7Cembox>�
+%�[K[8Cembox>��
+%�[K[9Cembox>���
+%�[K[10C
+embox>
+embox>
+adduser.confh@�6[K[23CP�embox>
+�[K[8C��embox>
+�w[K[9C@cd
+�w@cd: Command not found
+tish error: #-2
+embox>
+qtcdgout��jL
+qtcdgout��jL: Command not found
+tish error: #-2
+embox>
+���cd�k�����s
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+cddܺ�piiܺ�piO
+cddܺ�piiܺ�piO: Command not found
+tish error: #-2
+embox>
+V
+V: Command not found
+tish error: #-2
+embox>
+{
+{: Command not found
+tish error: #-2
+embox>
+ss
+ss: Command not found
+tish error: #-2
+embox>
+logou�
+logou�: Command not found
+tish error: #-2
+embox>
+5�
+5: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+9exiyBxxyj�ilu
+9exiyBx: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+cds
+cds: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+lllllllllle�xitll�65N>5@@d��
+embox>@@@@@exitls
+@@@@@exitls: Command not found
+tish error: #-2
+embox>
+T
+T: Command not found
+tish error: #-2
+embox>
+��s
+��s: Command not found
+tish error: #-2
+embox>
+^
+embox>hexport�
+hexport�: Command not found
+tish error: #-2
+embox>
+xils��ieffffffffffd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

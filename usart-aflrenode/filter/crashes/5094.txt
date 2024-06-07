@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>w�embox>tish[K[10Cembox>tis[K[9C
+tis: Command not found
+tish error: #-2
+embox>
+TrTTT�
+TrTTT�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+w$�J
+embox>
+: Command not found
+tish error: #-2
+embox>
+l}xexPt]i
+�\|]T]]2]\]z]]]�l
+l}xexPt]i: Command not found
+tish error: #-2
+embox>
+ll��iembox>
+ll��i[K[13C]\]��iz]]L
+ll��: Command not found
+tish error: #-2
+embox>
+lex]]]]]]�]]]]�yl��i
+xeembox>
+ll��[K[11C/�xembox>
+l}xexPt]i[K[16C�]]]]\]z]]]�yl
+l}xexPt]i�]]]]\]z]]]�yl: Command not found
+tish error: #-2
+embox>
+l�xl�x]]^]]}]]]@ ls]]]]�]C�����yl
+l�xl�x: Command not found
+tish error: #-2
+embox>
+lexNNNembox>
+lexNNN[K[13Cembox>
+lexNNN[K[12Cembox>
+lexNNN[K[11Cembox>
+lexNNN[K[10Cembox>
+lexNNN[K[9Cembox>
+lexNNN[K[10Cembox>
+lexNNN[K[9Cembox>
+lexNNN[K[8Cembox>
+lexNNN[K[7Cembox>
+lexNNN[K[6Cembox>
+lexNNN[K[7Cembox>]
+lexNNN[K[8Cembox>]]
+lexNNN[K[9Cembox>]]e
+lexNNN[K[10Cembox>]]ex
+lexNNN[K[11Cembox>]]ex
+lexNNN[K[12Cembox>]]ex
+lexNNN[K[13Cembox>]]ex]
+lexNNN[K[14Cembox>]]ex]]
+lexNNNembox>]]ex]]�
+lexNNNembox>]]ex]]�y
+lexNNNembox>]]ex]]�yl
+lexNNNembox>]]ex]]�yl�
+lexNNNembox>]]ex]]�yl��
+lexNNNembox>]]ex]]�yl��
+lexNNNembox>]]ex]]�yl��]
+lexNNNembox>]]ex]]�yl��]]
+lexNNNembox>]]ex]]�yl��]]�
+lexNNNembox>]]ex]]�yl��]]�y
+lexNNNembox>]]ex]]�yl��]]�yl
+lexNNN
+embox>
+ex]]]]]]]]@?]]]]�yl��i
+�\]]]]]]]\?z]]]�yl
+ex: Command not found
+tish error: #-2
+embox>
+lOx]]]@?U]]]�|l��iexport]]]]cdz]U]�yl
+lOx: Command not found
+tish error: #-2
+embox>
+lex]]]]]cd]]]@?]]]]�����
+�\]C]]]]]\�������������
+lex: Command not found
+tish error: #-2
+embox>�������������]z]]]�yl
+�������������]z]]]�yl: Command not found
+tish error: #-2
+embox>
+lex]]]]]]]]@?]]]]�yl��i
+�\]D]]
+]]\]z]]]�yl: Command not found
+tish error: #-2
+embox>
+l�x]]]]]M]]'?]][?5h[?5lN�yl��i
+�\]]]]]]]�
+]]�yl: Command not found
+tish error: #-2
+embox>
+lc�ꀄql
+lc�ꀄql: Command not found
+tish error: #-2
+embox>
+lex
+embox>
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

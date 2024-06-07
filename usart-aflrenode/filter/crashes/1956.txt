@@ -1,0 +1,118 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�[?5h[?5l�s�[?5h[?5l�sls
+�[?5h[?5l�s�[?5h[?5l�sls: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��e
+[K[9Cembox>��ed
+[K[10Cembox>��edT
+[K[11Cembox>��edTt
+[K[12Cembox>��edTti
+[K[13Cembox>��edTtiT
+[K[14Cembox>��edTtiTt
+[K[15Cembox>
+ls[K[9Cxyembox>
+lsxy[K[6Cembox>
+lsxy[K[7Cembox>�
+lsxy[K[8Cembox>��
+lsxy[K[9Cembox>��
+lsxy[K[10Cembox>���
+lsxy[K[11Cembox>���
+lsxy[K[12Cembox>����
+lsxy[K[13Cembox>����
+lsxy[K[14Cembox>����/
+lsxy[K[15C
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>���
+[K[9C
+���: Command not found
+tish error: #-2
+embox>ls/
+ls/: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��_
+[K[9Cembox>��_d
+[K[10Cembox>��_d/
+[K[11Cembox>��_d/e
+[K[12Cembox>��_d/ed
+[K[13Cembox>��_d/edi
+[K[14Cembox>��_d/edit
+[K[15Cembox>��_d/edit�
+[K[16Cembox>��_d/edit�x
+[K[17Cembox>��_d/edit�xi
+[K[18Cembox>��_d/edit�xi�
+[K[19Cembox>��_d/edit�xi�t
+[K[20Cembox>��_d/edit�xi�t�
+[K[21Cembox>��_d/edit�xi�t�y
+[K[22Cembox>��_d/edit�xi�t�yi
+[K[23Cembox>��_d/edit�xi�t�yi�
+[K[24Cembox>��_d/edit�xi�t�yi��
+[K[25Cembox>��_d/edit�xi�t�yi��
+[K[26Cembox>��_d/edit�xi�t�yi���
+[K[27Cembox>��_d/edit�xi�t�yi���
+[K[28Cembox>��_d/edit�xi�t�yi���i
+[K[29C
+��_d/edit�xi�t�yi���: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C���e�xeeei�Os���xi�/
+���e�: Command not found
+tish error: #-2
+embox>
+loembox>
+lo[K[6Cembox>
+lo[K[7Cembox>
+lo[K[8C
+embox>
+cc�eddxhxit�e���
+cc�eddxhxit�e�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>��
+embox>��e
+embox>��ed
+embox>��edi
+embox>��edit
+embox>��edit�
+embox>��edit�x
+embox>��edit�xi
+embox>��edit�xi�
+embox>��edit�xi��
+embox>��edit�xi��e
+embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

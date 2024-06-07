@@ -1,0 +1,270 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��xeiembox>��xei[K[12Cembox>��xei[K[13Cembox>��xei�[K[14Cembox>��xei�y[K[15Cembox>��xei�ye[K[16Cembox>��xei�ye�[K[17C
+��x: Command not found
+tish error: #-2
+embox>
+��xiembox>
+��xi[K[14Cembox>
+��xi[K[15Cembox>
+��xi�[K[16Cembox>
+��xi�y[K[17Cembox>
+��xi�ye[K[18Cembox>
+��xi�yee[K[19Cembox>
+��xi�yeei[K[20Cembox>
+��xi�yeei[K[21Cembox>
+��xi�yeei[K[20Cembox>
+��xi�yeei[K[21Cembox>
+��xi�yeei�[K[22Cembox>
+��xi�yeei�y[K[23Cembox>
+��xi�yeei�ye[K[24Cembox>
+��xi�yeei�ye�[K[25Cembox>
+��xi�yeei�ye�y[K[26Cembox>
+��xi�yeei�ye�ye[K[27Cembox>
+��xi�yeei�ye�ye�[K[28Cembox>
+��xi�yeei�ye�ye��[K[29Cembox>
+��xi�yeei�ye�ye��e[K[30Cembox>
+��xi�yeei�ye�ye��e�[K[31Cembox>
+��xi�yeei�ye�ye��e�[K[31Cembox>
+��xi�yeei�ye�ye��e�x[K[32Cembox>
+��xi�yeei�ye�ye��e�xe[K[33Cembox>
+��xi�yeei�ye�ye��e�xei[K[34Cembox>
+��xi�yeei�ye�ye��e�xei�[K[35Cembox>
+��xi�yeei�ye�ye��e�xei�[K[36C�jyeembox>
+��xi�yeei�ye�ye��e�xei��jye[K[39Cembox>
+��xi�yeei�ye�ye��e�xei��jye[K[40Cembox>
+��xi�yeei�ye�ye��e�xei��jy�e[K[41Cembox>
+��xi�yeei�ye�ye��e�xei��jy�ye[K[42Cembox>
+��xi�yeei�ye�ye��e�xei��jy�yee[K[43Cembox>
+��xi�yeei�ye�ye��e�xei��jy�ye�e[K[44C
+��x: Command not found
+tish error: #-2
+embox>
+��xd�embox>
+��xd�[K[14Cembox>
+��xd�[K[15Cembox>
+��xd��[K[16Cembox>
+��xd��y[K[17Cembox>
+��xd��ye[K[18Cembox>
+��xd��yee[K[19Cembox>
+��xd��yeei[K[20Cembox>
+��xd��yeei[K[21Cembox>
+��xd��yeei[K[20Cembox>
+��xd��yeei[K[21Cembox>
+��xd��yeei�[K[22Cembox>
+��xd��yeei�y[K[23Cembox>
+��xd��yeei�ye[K[24Cembox>
+��xd��yeei�ye�[K[25Cembox>
+��xd��yeei�ye��[K[26Cembox>
+��xd��yeei�ye��e[K[27Cembox>
+��xd��yeei�ye��e�[K[28Cembox>
+��xd��yeei�ye��e�[K[28Cembox>
+��xd��yeei�ye��e�x[K[29Cembox>
+��xd��yeei�ye��e�xe[K[30Cembox>
+��xd��yeei�ye��e�xei[K[31Cembox>
+��xd��yeei�ye��e�xei�[K[32Cembox>
+��xd��yeei�ye��e�xei��[K[33Cembox>
+��xd��yeei�ye��e�xei��[K[34Cembox>
+��xd��yeei�ye��e�xei���[K[35Cembox>
+��xd��yeei�ye��e�xei���y[K[36Cembox>
+��xd��yeei�ye��e�xei���yG[K[37Cembox>
+��xd��yeei�ye��e�xei���yGe[K[38Cembox>
+��xd��yeei�ye��e�xei���yGe�[K[39Cembox>
+��xd��yeei�ye��e�xei���yGe��[K[40Cembox>
+��xd��yeei�ye��e�xei���yGe���[K[41Cembox>
+��xd��yeei�ye��e�xei���yGe��[K[40Cembox>
+��xd��yeei�ye��e�xei���yGe���[K[41C
+��x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8Cembox>
+�[K[9Cembox>
+�y[K[10Cembox>
+�ye[K[11Cembox>
+�ye�[K[12Cembox>
+�ye�p[K[13Cembox>
+�ye�pe[K[14Cembox>
+�ye�pe�[K[15Cembox>
+�ye�pe�[K[15Csei��yeeiembox>
+�ye�pe�sei��yeei[K[25Cembox>
+�ye�pe�sei��yeei[K[26Cembox>
+�ye�pe�sei��yeei�[K[27Cembox>
+�ye�pe�sei��yeei�y[K[28Cembox>
+�ye�pe�sei��yeei�ye[K[29Cembox>
+�ye�pe�sei��yeei�ye�[K[30C
+tish error: #-22
+embox>
+��xiembox>
+��xi[K[14Cembox>
+��xi[K[15Cembox>
+��xi�[K[16Cembox>
+��xi�y[K[17Cembox>
+��xi�ye[K[18Cembox>
+��xi�yee[K[19Cembox>
+��xi�yeei[K[20Cembox>
+��xi�yeei[K[21Cembox>
+��xi�yeei[K[20Cembox>
+��xi�yeei[K[21Cembox>
+��xi�yeei�[K[22Cembox>
+��xi�yeei�y[K[23Cembox>
+��xi�yeei�ye[K[24Cembox>
+��xi�yeei�ye�[K[25Cembox>
+��xi�yeei�ye��[K[26Cembox>
+��xi�yeei�ye��e[K[27Cembox>
+��xi�yeei�ye��e�[K[28Cembox>
+��xi�yeei�ye��e�[K[28Cembox>
+��xi�yeei�ye��e�x[K[29Cembox>
+��xi�yeei�ye��e�xe[K[30Cembox>
+��xi�yeei�ye��e�xei[K[31Cembox>
+��xi�yeei�ye��e�xei�[K[32Cembox>
+��xi�yeei�ye��e�xei�[K[33C�yeeiembox>
+��xi�yeei�ye��e�xei��yeei[K[39Cembox>
+��xi�yeei�ye��e�xei��yeei[K[40Cembox>
+��xi�yeei�ye��e�xei��yeei�[K[41Cembox>
+��xi�yeei�ye��e�xei��yeei�y[K[42Cembox>
+��xi�yeei�ye��e�xei��yeei�ye[K[43Cembox>
+��xi�yeei�ye��e�xei��yeei�ye�[K
+��x: Command not found
+tish error: #-2
+embox>
+��xyegiembox>
+��xyegi[K[14Cembox>
+��xyegi[K[15Cembox>
+��xyegi�[K[16Cembox>
+��xyegi�[K[17Cembox>
+��xyegi�e[K[18Cembox>
+��xyegi�e�[K[19Cembox>
+��xyegi�e��[K[20Cembox>
+��xyegi�e���[K[21Cembox>
+��xyegi�e���x[K[22Cembox>
+��xyegi�e���xy[K[23Cembox>
+��xyegi�e���xye[K[24Cembox>
+��xyegi�e���xyeg[K[25Cembox>
+��xyegi�e���xyegi[K[26Cembox>
+��xyegi�e���xyegi[K[27Cembox>
+��xyegi�e���xyegi[K[26Cembox>
+��xyegi�e���xyegi[K[27Cembox>
+��xyegi�e���xyegi�[K[28Cembox>
+��xyegi�e���xyegi�[K[28Cembox>
+��xyegi�e���xyegi�[K[29Cembox>
+��xyegi�e���xyegi��[K[30C
+��xyegi: Command not found
+tish error: #-2
+embox>
+��x�i���yeeiembox>
+��x�i���yeei[K[22Cembox>
+��x�i���yeei[K[23Cembox>
+��x�i���yeei�[K[24Cembox>
+��x�i���yeei�y[K[25Cembox>
+��x�i���yeei�ye[K[26Cembox>
+��x�i���yeei�ye�[K[27Cembox>
+��x�i���yeei�ye��[K[28Cembox>
+��x�i���yeei�ye��e[K[29Cembox>
+��x�i���yeei�ye��e�[K[30Cembox>
+��x�i���yeei�ye��e�[K[30Cxei��yeeiembox>
+��x�i���yeei�ye��e�xei��yeei[K[40Cembox>
+��x�i���yeei�ye��e�xei��yeei[K[41Cembox>
+��x�i���yeei�ye��e�xei��yeei[K[42Cembox>
+��x�i���yeei�ye��e�xei��yeei[K[6Cembox>
+��x�i���yeei�ye��e�xei��yeei[K[7Cembox>
+��x�i���yeei�ye��e�xei��yeei[K[8C
+embox>
+��xiembox>
+��xi[K[13Cembox>
+��xi[K[14Cembox>
+��xi�[K[15Cembox>
+��xi�y[K[16Cembox>
+��xi�ye[K[17Cembox>
+��xi�ye�[K[18C
+��x: Command not found
+tish error: #-2
+embox>
+�������
+�������: Command not found
+tish error: #-2
+embox>
+^H^H
+^H^H: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pexit��xV�spQno�xV�pVr[?5h[?5lembox>
+�F��xV�spQno�xV�pVr[?5h[?5lembox>
+�F�port
+�F�port: Command not found
+tish error: #-2
+embox>embox>[K[14CPPVr[?5h[?5lembox>[KVexportP@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+VexportP@@: Command not found
+tish error: #-2
+embox>
+��xVd�r`ogvutP
+VexportP@@ogvutP: Command not found
+tish error: #-2
+embox>
+�xV��i������������
+VexportP@@��������: Command not found
+tish error: #-2
+embox>
+��Vxportd
+��Vxportd: Command not found
+tish error: #-2
+embox>
+��@or
+(null): Command not found
+tish error: #-2
+embox>
+��xVXportP
+��xVXportP: Command not found
+tish error: #-2
+embox>
+��xV �oro�P
+��xV: Command not found
+tish error: #-2
+embox>
+��x��@�P
+VexportP@@P: Command not found
+tish error: #-2
+embox>
+�c�����c�����yeei
+�c�����c����: Command not found
+tish error: #-2
+embox>
+ed 
+ed: Command not found
+tish error: #-2
+embox>
+�c�exxitit�
+�c�exxitit�: Command not found
+tish error: #-2
+embox>
+t@@\���
+�: Command not found
+tish error: #-2
+embox>
+������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

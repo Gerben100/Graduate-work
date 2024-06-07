@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>�[K[7C���ex�
+����ex: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+��cd��
+��cd��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��l
+[K[9Cembox>��ls
+[K[10Cembox>��lss
+[K[11Cembox>��ls
+[K[10Cembox>��l
+[K[9Cembox>��ll
+[K[10Cembox>��lls
+[K[11Cembox>��llss
+[K[12Cembox>��lls
+[K[11Cembox>��ll
+[K[10Cembox>��l
+[K[9Cembox>��
+[K[8Cembox>��s
+[K[9Cembox>��
+[K[8Cembox>�
+[K[7Cembox>
+[K[6Cembox>s
+[K[7Cembox>
+[K[6Cembox>o
+[K[7Cembox>or
+[K[8Cembox>or
+[K[6Cembox>~or
+[K[7Cembox>or
+[K[6C
+or: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+[K[7C��Ot�
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pin@@Tc�@@embox>
+�[K[8C�Tpgo��@ex
+embox>�embox>
+pin@@Tc�@@[K[17C/Tpgf�t
+pin@@Tc�@@/Tpgf�t: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+"
+(null): Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����(xemembox>
+����(xemembox>
+����(xe@membox>
+����(xe@@membox>
+����(xe@@@membox>
+����(xe@@@@membox>
+����(xe@@@@@membox>
+����(xe@@@@@@membox>
+����(xe@@@@@@Nmembox>
+����(xe@@@@@@N�membox>
+����(xe@@@@@@N�membox>
+����(xe@@@@@@N�Smembox>[K[27Cembox>
+����(xe@@@@@@N�Smembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[6C
+tish error: #-22
+embox>
+�S
+tish error: #-22
+embox>
+��^@sb
+tish error: #-22
+embox>
+``ppp�export���pxx
+�xx: Command not found
+tish error: #-2
+embox>
+Q
+Q: Command not found
+tish error: #-2
+embox>
+ �ke��pq���a�
+: Command not found
+tish error: #-2
+embox>
+icdae
+��ebae: Command not found
+tish error: #-2
+embox>
+icd�e��lae�apinseb[?5h[?5lc�
+tish error: #-22
+embox>
+�ae��ll�lllllllj�Gl�lll
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

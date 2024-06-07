@@ -1,0 +1,118 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>$��embox>$��[K[6Cembox>i$��[K[7Cembox>ii$��[K[8Cembox>iii$��[K[9Cembox>iiii$��[K[10Cembox>iiiii$��[K[11Cembox>iiiiii$��[K[12Cembox>iiiiiii$��[K[13Cembox>iiiiiiii$��[K[14Cembox>iiiiiiiii$��[K[15Cembox>iiiiiiiiii$��[K[16Cembox>iiiiiiiiiii$��[K[17Cembox>iiiiiiiiiiii$��[K[18Cembox>iiiiiiiiiiiii$��[K[19Cembox>iiiiiiiiiiiiii$��[K[20Cembox>iiiiiiiiiiiiiii$��[K[21Cembox>iiiiiiiiiiiiiiii$��[K[22Cembox>iiiiiiiiiiiiiiiii$��[K[23Cembox>iiiiiiiiiiiiiiiiii$��[K[24Cembox>iiiiiiiiiiiiiiiiiii$��[K[25Cembox>iiiiiiiiiiiiiiiiiiii$��[K[26Cembox>iiiiiiiiiiiiiiiiiiiii$��[K[27Cembox>iiiiiiiiiiiiiiiiiiiii�$��[K[28Cembox>iiiiiiiiiiiiiiiiiiiii��$��[K[29Cembox>iiiiiiiiiiiiiiiiiiiii���$��[K[30Cembox>iiiiiiiiiiiiiiiiiiiii����$��[K[31Cembox>iiiiiiiiiiiiiiiiiiiii�����$��[K[32Cembox>iiiiiiiiiiiiiiiiiiiii������$��[K[33Cembox>iiiiiiiiiiiiiiiiiiiii�������$��[K[34Cembox>iiiiiiiiiiiiiiiiiiiii��������$��[K[35Cembox>iiiiiiiiiiiiiiiiiiiii���������$��[K[36Cembox>iiiiiiiiiiiiiiiiiiiii����������$��[K[37Cembox>iiiiiiiiiiiiiiiiiiiii�����������$��[K[38Cembox>iiiiiiiiiiiiiiiiiiiii������������$��[K[39Cembox>iiiiiiiiiiiiiiiiiiiii�������������$��[K[40Cembox>iiiiiiiiiiiiiiiiiiiii��������������$��[K[41Cembox>iiiiiiiiiiiiiiiiiiiii���������������$��[K[42Cembox>iiiiiiiiiiiiiiiiiiiii����������������$��[K[43Cembox>iiiiiiiiiiiiiiiiiiiii�����������������$��[K[44Cembox>iiiiiiiiiiiiiiiiiiiii������������������$��[K[45Cembox>iiiiiiiiiiiiiiiiiiiii�������������������$��[K[46Cembox>iiiiiiiiiiiiiiiiiiiii��������������������$��[Kembox>iiiiiiiiiiiiiiiiiiiii���������������������$��[K[48Cembox>iiiiiiiiiiiiiiiiiiiii����������������������$��[K[49Cembox>iiiiiiiiiiiiiiiiiiiii�����������������������$��[K[50C
+iiiiiiiiiiiiiiiiiiiii�����������������������$��: Command not found
+tish error: #-2
+embox>��������t�
+��������: Command not found
+tish error: #-2
+embox>
+$��embox>��������[K[14C�embox>iiiiiiiiiiiiiiiiiiiii�����������������������$��[K[54C�����Kxp^ry@�i�cdembox>iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>eiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>expiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exp�iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exp�|iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exp�|tiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exp�|tiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cdembox>exp�|teiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�cembox>exp�|texiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�i�embox>exp�|texiiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�iembox>exp�|texi�iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�embox>exp�|texi�iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�embox>exp�|texi��iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@�embox>exp�|texi���iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ry@embox>exp�|texi����iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^ryembox>exp�|texi�����iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^rembox>exp�|texi������iiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxp^embox>exp�|texi������Fiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxpembox>exp�|texi������Fxiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kxembox>exp�|texi������Fxpiiiiiiiiiiiiiiiiiiiii�����������������������$�������Kembox>exp�|texi������Fxp^iiiiiiiiiiiiiiiiiiiii�����������������������$�������embox>exp�|texi������Fxp^riiiiiiiiiiiiiiiiiiiii�����������������������$������embox>exp�|texi������Fxp^ryiiiiiiiiiiiiiiiiiiiii�����������������������$�����embox>exp�|texi������Fxp^ry@iiiiiiiiiiiiiiiiiiiii�����������������������$����
+exp�|texi�: Command not found
+tish error: #-2
+embox>�i�cdembox>�i�cd[K[6Cembox>e�i�cd[K[7Cembox>ex�i�cd[K[8Cembox>exp�i�cd[K[9Cembox>exp��i�cd[K[10Cembox>exp�|�i�cd[K[11Cembox>exp�|t�i�cd[K[12Cembox>exp�|t�i�cd[K[13Cembox>exp�|te�i�cd[K[14Cembox>exp�|tex�i�cd[K[15Cembox>exp�|texi�i�cd[K[16Cembox>exp�|texi��i�cd[K[17Cembox>exp�|texi��i�cd[K[18Cembox>exp�|texi��i�cd[K[17Cembox>exp�|texi�l�i�cd[K[18Cembox>exp�|texi�l�i�cd[K[19Cembox>exp�|texi�lY�i�cd[K[20Cembox>exp�|texi�lY��i�cd[K[21Cembox>exp�|texi�lY��i�cd[K[22Cembox>exp�|texi�lY�i�i�cd[K[23C
+exp�|texi�lY�: Command not found
+tish error: #-2
+embox>
+$��@embox>exp�|texi�lY�[K[21Cembox>exp�|texi�lY[K[20Cl�embox>exp�|texi�[K[17C
+exp�|texi�: Command not found
+tish error: #-2
+embox>
+N# N����embox>
+N# N���[K[14Cd� �embox>exp�|texi�[K
+exp�|texi�: Command not found
+tish error: #-2
+embox>
+$�dembox>
+$�d[K[11Cembox>
+$�d[K[12C
+$�d: Command not found
+tish error: #-2
+embox>
+��@@@@? f@�����embox>
+��@@@@? f@����W
+��@@@@?: Command not found
+tish error: #-2
+embox>
+$��embox>
+$�[K[9Cl��embox>
+��@@@@? [K[16C
+��@@@@?: Command not found
+tish error: #-2
+embox>
+$��6ldembox>
+��@@@@? [K[16C
+��@@@@?: Command not found
+tish error: #-2
+embox>
+ljjjcjqw
+ljjjcjqw: Command not found
+tish error: #-2
+embox>
+$��embox>
+$��[Kembox>
+$��[Kembox>
+$��[K
+embox>
+??
+??: Command not found
+tish error: #-2
+embox>
+$cdf"
+$cdf: Command not found
+tish error: #-2
+embox>
+$ h
+$cdf: Command not found
+tish error: #-2
+embox>
+�g���
+����: Command not found
+tish error: #-2
+embox>
+�$��w�cd�+
+�$���cd: Command not found
+tish error: #-2
+embox>
+�$ �$�w'� #
+$cdf#: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�$�$�w� #
+
+$cdf#: Command not found
+tish error: #-2
+embox>
+�$�
+embox>pin�%%%%%%%%%%%%%%%%%%%�
+embox>
+�$�$$�$�$$�$
+����: Command not found
+tish error: #-2
+embox>
+$�w�exit�
+??�: Command not found
+tish error: #-2
+embox>
+�$�$�w� #xem
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

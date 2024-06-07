@@ -1,0 +1,145 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+����d������������������������������@ @@
+�: Command not found
+tish error: #-2
+embox>
+x��xQidX@�embox>
+x��xQidX@[K[20C��@@�@@@@@?@@�@D@@D@@@@@
+x��: Command not found
+tish error: #-2
+embox>
+�x�embox>
+�x�[K[6Cembox>p
+�x�[K[7Cembox>pi
+�x�[K[8Cembox>p
+�x�[K[7Cembox>p
+�x�[K[8Cembox>p
+�x�[K[9Cembox>p
+�x�[K[10Cembox>pi
+�x�[K[11Cembox>pi�
+�x�[K[12Cembox>pi�
+�x�[K[13Cembox>pi�d
+�x�[K[14Cembox>pi�d
+�x�[K[15Cembox>pi�dX
+�x�[K[16Cembox>pi�dX1
+�x�[K[17Cembox>pi�dX1
+�x�[K[18Cembox>pi�dX1
+�x�[K[17Cembox>pi�dX1�
+�x�[K[18Cembox>pi�dX1��
+�x�[K[19Cembox>pi�dX1��@
+�x�[K[20Cembox>pi�dX1��@@
+�x�[K[21Cembox>pi�dX1��@@@
+�x�[K[22Cembox>pi�dX1��@@@H
+�x�[K[23Cembox>pi�dX1��@@@H@
+�x�[K[24Cembox>pi�dX1��@@@H@@
+�x�[K[25Cembox>pi�dX1��@@@H@@?
+�x�[K[26Cembox>pi�dX1��@@@H@@?@
+�x�[K[27Cembox>pi�dX1��@@@H@@?@@
+�x�[K[28Cembox>pi�dX1��@@@H@@?@@@
+�x�[K[29Cembox>pi�dX1��@@@H@@?@@@@
+�x�[K[30Cembox>pi�dX1��@@@H@@?@@@@@
+�x�[K[31Cembox>pi�dX1��@@@H@@?@@@@@@
+�x�[K[32Cembox>pi�dX1��@@@H@@?@@@@@@@
+�x�[K[33Cembox>pi�dX1��@@@H@@?@@@@@@@@
+�x�[K[34Cembox>pi�dX1��@@@H@@?@@@@@@@@@
+�x�[K[35C
+p: Command not found
+tish error: #-2
+embox>
+�pembox>p[K[7C@@@�
+p@@@�: Command not found
+tish error: #-2
+embox>
+���@
+�: Command not found
+tish error: #-2
+embox>
+@@?@@@@@
+@@?@@@@@: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[9Cn[?5h[?5lx��embox>
+�nx��[K[13Cembox>
+�nx��Q[K[14Cembox>
+�nx��Q�[K[15Cembox>
+�nx��Q��[K[16Cembox>
+�nx��Q��@[Kembox>
+�nx��Q��@@[Kembox>
+�nx��Q��@@@[K[19Cembox>
+�nx��Q��@@@X[K[20Cembox>
+�nx��Q��@@@X@[K[21Cembox>
+�nx��Q��@@@X@[K[22Cembox>
+�nx��Q��@@@X@[K[21Cembox>
+�nx��Q��@@@X@�[K[22Cembox>
+�nx��Q��@@@X@��[Kembox>
+�nx��Q��@@@X@��@[Kembox>
+�nx��Q��@@@X@��@@[Kembox>
+�nx��Q��@@@X@��@@@[Kembox>
+�nx��Q��@@@X@��@@@@embox>
+�nx��Q��@@@X@��@@@@@embox>
+�nx��Q��@@@X@��@@@@@@embox>
+�nx��Q��@@@X@��@@@@@@@embox>
+�nx��Q��@@@X@��@@@@@@@@embox>
+�nx��Q��@@@X@��@@@@@@@@?embox>
+�nx��Q��@@@X@��@@@@@@@@?@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@@@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@@@$embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@@@$@embox>
+�nx��Q��@@@X@��@@@@@@@@?@@@@@@$@@
+�: Command not found
+tish error: #-2
+embox>
+%pinx��embox>
+%pinx��[K[15C
+embox>d%embox>d%[K[8C
+embox>d%
+embox>d%embox>d%[K[8C
+embox>d�
+d�: Command not found
+tish error: #-2
+embox>
+�x��
+embox>embox>[K[6C`d%
+`d%: Command not found
+tish error: #-2
+embox>
+�pi�����������d%
+embox>d�����������%embox>[K[19C
+embox>�����������������
+�����������������: Command not found
+tish error: #-2
+embox>�����������������nx��
+embox>�%
+embox>��
+embox>d�����������%
+embox>����
+����: Command not found
+tish error: #-2
+embox>�������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

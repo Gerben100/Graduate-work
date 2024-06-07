@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�@@@P@�@@@�lg������� ls���@@���������� �����
+�@@@P@�@@@�lg���: Command not found
+tish error: #-2
+embox>�e|port��d@@?w
+�e|port��d@@?w: Command not found
+tish error: #-2
+embox>
+A�tembox>
+A�t[K[6Cembox>�
+A�t[K[7Cembox>�
+
+A�t[K[8Cembox>�
+@
+A�t[K[9Cembox>�
+@@
+A�t[K[10Cembox>�
+@@@
+A�t[K[11Cembox>�
+@@@?
+A�t[K[12Cembox>�
+@@@?A�t[K[12Cembox>�
+@@@?A�t[K[13Cembox>�
+@@@?@A�t[K[14Cembox>�
+@@@?@zA�t[K[15Cembox>�
+@@@?@zA�t[K[16Cembox>�
+@@@?@zA�t[K[17Cembox>�
+@@@?@ztA�t[K[18Cembox>�
+@@@?@ztA�t[K[6Cembox>��
+@@@?@ztA�t[K[7Cembox>�
+@@@?@ztA�t[K[6Cembox>�
+@@@?@ztA�t[K[7Cembox>�
+@@@?@ztA�t[K[8Cembox>�
+@@@?@ztA�t[K[9Cembox>�
+@@@?@ztA�t[K[10Cembox>�
+@@@?@ztA�t[K[9C
+embox>
+H@W���_ls��d���d@@?embox>
+H@W���_ls��d���d@@[K[25C
+H@W���_ls��d���d@@: Command not found
+tish error: #-2
+embox>
+A�6�5ls6@@embox>
+A�6�5ls6@@[K[17C��@@@P@@@@@?@@@@@���embox>
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>d
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>d@
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>d@@
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>d@@?
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|poembox>d@@
+A�6�5ls6@@��@@@P@@@@@?@@@@@����e|po
+embox>
+embox>[K[6C��@@@P@@@@@?@@@embox>��@@@P@@@@@?@@[K[20C�?�@@@P@@@@@?@@@�embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@@embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@@embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@@embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@@_embox>��@@@P@@@@@?@@�?�@@@P@@@@@?@@@�?@@_�embox>
+H@W���_ls��d���d@@[K
+embox>�
+�: Command not found
+tish error: #-2
+embox>?@@@@@�
+embox>��e|port�@d@?embox>��e|port�@d@[K[19C
+��e|port�@d@: Command not found
+tish error: #-2
+embox>
+(�6�5ls�embox>
+(�6�5ls[K��@@@P@@@@@?Pembox>[K[27C@@@9�exit�
+embox>�e|port� e&@
+�e|port�: Command not found
+tish error: #-2
+embox>El
+El: Command not found
+tish error: #-2
+embox>
+A�6�5ls4��;@@P@]@@@?@P@@6?����e|port��d@@?
+A�6�5ls4: Command not found
+tish error: #-2
+embox>
+A�@A��@A�@@@@@��@@@@@
+��e|port�@d@: Command not found
+tish error: #-2
+embox>
+
+El: Command not found
+tish error: #-2
+embox>
+A�B�5lN@P@@@@D@@s6@@@@@��e|por@��N@P@@@@D@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

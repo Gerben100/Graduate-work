@@ -1,0 +1,47 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eexXembox>eex[K[9C�embox>eex[K[9C exXembox>eex ex[K[12C�embox>eex ex[K[12C y_embox>eex ex y_[K[6Cembox>[K[6Ci�embox>i�[K[6Cembox>ii�[K[7Cembox>i�[K[6Cembox>�i�[K[7Cembox>��i�[K[8Cembox>��@i�[K[9Cembox>��@@i�[K[10Cembox>��@@Oi�[K[11Cembox>��@@Oxi�[K[12Cembox>��@@Oxpi�[K[13Cembox>��@@Oxp�i�[K[14Cembox>��@@Oxp�ri�[K[15Cembox>��@@Oxp�rti�[K[16Cembox>��@@Oxp�rti�[K[17Cembox>��@@Oxp�rt@i�[K[18Cembox>��@@Oxp�rt@@i�[K[19Cembox>��@@Oxp�rt@@@i�[K[20Cembox>��@@Oxp�rt@@@@i�[K[21Cembox>��@@Oxp�rt@@@@ii�[K[22Cembox>��@@Oxp�rt@@@@iii�[K[23Cembox>��@@Oxp�rt@@@@iiii�[K[24Cembox>��@@Oxp�rt@@@@iiiOi�[K[25Cembox>��@@Oxp�rt@@@@iiiOxi�[K[26Cembox>��@@Oxp�rt@@@@iiiOxpi�[K[27Cembox>��@@Oxp�rt@@@@iiiOxp�i�[K[28Cembox>��@@Oxp�rt@@@@iiiOxp�ri�[K[29Cembox>��@@Oxp�rt@@@@iiiOxp�rti�[K[30Cembox>��@@Oxp�rt@@@@iiiOxp�rti�[K[31C
+��@@Oxp�rt@@@@iiiOxp�rti�: Command not found
+tish error: #-2
+embox>@@@p�rtiiiiiKd�iiie�p�
+@@@p�rtiiiiiKd�iiie�p�: Command not found
+tish error: #-2
+embox>
+eexa/`embox>@@@p�rtiiiiiKd�iiie�p�[K[29C
+@@@p�rtiiiiiKd�iiie�p�: Command not found
+tish error: #-2
+embox>in`
+in`: Command not found
+tish error: #-2
+embox>pin�p�embox>in`[K[10Cembox>[K[6Ccdeorxembox>cdeor[K[11C�
+cdeor�: Command not found
+tish error: #-2
+embox> y@embox>[K[6Ci�embox>i�[K[6Cembox>ei�[K[7Cembox>exi�[K[8Cembox>expi�[K[9Cembox>exp�i�[K[10Cembox>exp�ri�[K[11Cembox>exp�rti�[K[12Cembox>exp�rti�[K[13C
+exp�rti�: Command not found
+tish error: #-2
+embox>iiiiiKd�iiiexp�
+iiiiiKd�iiiexp�: Command not found
+tish error: #-2
+embox>
+eexXembox>
+eex[K�
+eex�: Command not found
+tish error: #-2
+embox> y@�embox>[K[6Ci�embox>i�embox>li�embox>loi�embox>logi�embox>logoi�embox>logo�i�embox>logo�ti�embox>logo�tei�embox>logo�texi�embox>logo�texpi�embox>logo�texp�i�embox>logo�texp�ri�embox>logo�texp�rti�embox>logo�texp�rti�embox>logo�texp�rtii�embox>logo�texp�rtiii�embox>logo�texp�rtiiai�embox>logo�texp�rtiiaii�embox>logo�texp�rtiiaiki�embox>logo�texp�rtiiaikKi�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

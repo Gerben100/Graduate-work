@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>]embox>][K[8Ci
+]: Command not found
+tish error: #-2
+embox>�px�iembox>�px�i[K[11Cembox>�px�i[K[12C�o�xed%�n�ilsniembox>�px�i�o�xed%�n�ilsni[K[28C�`�x�i�`�x�
+�px�i: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[9Cit�pxi'embox>
+]it�pxi'[K[18C�n�xex�n�ilsniembox>
+]it�pxi'�n�xex�n�ilsni[K[34C�`�x�i�`�x�
+]: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[9Cit�pxxex�ls�cdnembox>
+][K[8C�iL�x�Re�`�xembox>
+]�iL�x�Re�`�x[K[21C��n�[Vni�
+]�iL�x�Re�`�x��: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[9Cit�px�iembox>
+]it�px�i[K[16Cembox>
+]it�px�i[K[17C��n�xex�n�ilsniembox>
+]it�px�i��n�xex�n�ilsniembox>
+]it�px�i��n�xex�n�ilsni��n�xFx�
+]: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[9Cit�pxembox>
+]it�px[K[6Cembox>
+]it�px[K[7Cembox>x
+]it�px[K[8Cembox>x
+]it�px[K[9Cembox>x�
+]it�px[K[10Cembox>x�n
+]it�px[K[11Cembox>x�n�
+]it�px[K[12Cembox>x�n�i
+]it�px[K[13Cembox>x�n�il
+]it�px[K[14Cembox>x�n�ils
+]it�px[Kembox>x�n�ilsn
+]it�px[Kembox>x�n�ilsni
+]it�px[Kembox>x�n�ilsni]it�px[Kembox>x�n�ilsni[K[17Ci�`�x�
+embox>
+]embox>
+][K[9C�t�px�iembox>
+]�t�px�i[K[16Cembox>
+]�t�px�i[K[17C�n�xex�n�ilsniembox>
+]�t�px�i�n�xex�n�ilsni�`�x�i�`�p�
+]: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[10Cirexembox>
+]irex[K[6Cembox>n
+]irex[K[7Cembox>n�
+]irex[K[8Cembox>n�i
+]irex[K[9Cembox>n�il
+]irex[K[10Cembox>n�ils
+]irex[K[11Cembox>n�ils�
+]irex[K[12Cembox>n�ils�i
+]irex[K[13Cembox>n�ils�i]irex[K[13Cembox>n�ils�i[K[13C�`�x�G�`�x�
+n�ils�i�`�x�G�`�x�: Command not found
+tish error: #-2
+embox>
+]embox>
+][K[8C6�n�xex�n�ilsnembox>
+]6�n�xex�n�ilsnit�px�iembox>[K[31Cembox>[K[32C�n�xex�n��?ilsniembox>[K[50C
+]6�n�xex�n�ilsn: Command not found
+tish error: #-2
+embox>�`�X�i�`�x�
+�`�X�i�`�x�: Command not found
+tish error: #-2
+embox>
+]embox>
+]it�embox>[Kit�px�ilsniembox>[K�`�x�i
+]: Command not found
+tish error: #-2
+embox>
+e%eVe�e
+e%eVe�e: Command not found
+tish error: #-2
+embox>
+dӶl�
+d: Command not found
+tish error: #-2
+embox>
+]��E��%
+]��E��%: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+]���
+]���: Command not found
+tish error: #-2
+embox>
+cd�l�
+cd�l�: Command not found
+tish error: #-2
+embox>
+]cd�V�
+]cdV�: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+]yd�.................!.....ls...�l�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

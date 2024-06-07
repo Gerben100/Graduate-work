@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cd@embox>cd@[K[9Cembox>cd@[K[10Cembox>cd@?[K[11Cembox>cd@?t[K[12Cembox>cd@?tu[K[13Cembox>cd@?tu�[K[14Cembox>cd@?tu�x[K[15Cembox>cd@?tu�xt[K[16Cembox>cd@?tu�xtt[K[17Cembox>cd@?tu�xt[K[16Cembox>cd@?tu�xt�[K[17Cembox>cd@?tu�xt�o[K[18Cembox>cd@?tu�xt�ot[K[19Cembox>cd@?tu�xt�oti[K[20Cembox>cd@?tu�xt�otii[K[21Cembox>cd@?tu�xt�otiit[K[22Cembox>cd@?tu�xt�otiitt[K[23Cembox>cd@?tu�xt�otiit[K[22Cembox>cd@?tu�xt�otiit�[K[23Cembox>cd@?tu�xt�otiit�o[K[24Cembox>cd@?tu�xt�otiit�og[K[25C
+cd@?tu�xt�otiit�og: Command not found
+tish error: #-2
+embox>
+?embox>
+?[K[6C
+?: Command not found
+tish error: #-2
+embox>
+?ti-exp?ti-expoo
+?ti-exp?ti-expoo: Command not found
+tish error: #-2
+embox>
+?ztembox>
+?z[K[9CO��
+?zO��: Command not found
+tish error: #-2
+embox>
+NNNN-Nembox>
+NNNN-N[K[12Cembox>
+NNNN-N[K[11Cembox>
+NNNN-N[K[10Cembox>
+NNNN-N[K[9Cembox>
+NNNN-N[K[8Cembox>
+NNNN-N[K[9Cembox>
+NNNN-N[K[8Cembox>
+NNNN-N[K[7Cembox>
+NNNN-N[K[6C
+N: Command not found
+tish error: #-2
+embox>
+'�cduxexitzga
+(null): Command not found
+tish error: #-2
+embox>
+#�
+embox>lom�embox>
+'�cduxexitzga[K[20Cembox>
+'�cduxexitzga[K[20Cogutembox>
+'�cduxexitzgaogu[K[23Ctu�
+(null): Command not found
+tish error: #-2
+embox>
+o{
+o{: Command not found
+tish error: #-2
+embox>
+?tuo�x�ogoutitembox>[K[20Clo�g
+?tuo�x�ogoutilo�g: Command not found
+tish error: #-2
+embox>
+ylog
+?tuo�x�ogoutilo�gylog: Command not found
+tish error: #-2
+embox>
+?tu�xlogfutitlog
+?tu�xlogfutilog: Command not found
+tish error: #-2
+embox>
+?�mxiti�
+?�mxiti�: Command not found
+tish error: #-2
+embox>
+I�������
+I�������: Command not found
+tish error: #-2
+embox>
+j�������
+j�������: Command not found
+tish error: #-2
+embox>
+� 
+embox>ie��t��
+?tu�xlogfutilog: Command not found
+tish error: #-2
+embox>
+"[?5h[?5l
+tish error: #-22
+embox>
+SSSSSSSSSSSSlsSSSSSSSSSFSSpin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

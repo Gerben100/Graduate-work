@@ -1,0 +1,329 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+���embox>
+��[K[13C�x�����tt�tttt�tst����������embox>
+���x�����tt�tttt�tst����������[K[42C�xtt|ttt_t
+embox>tt�tst��������embox>tt�tst�������[K[20Cembox>tt�tst�������[K[20C�xtt�tTtt
+tt�tst��������xtt�tTtt: Command not found
+tish error: #-2
+embox>
+�����ttt��ttt t� �
+��?-------------x�embox>
+�����ttt��ttt t� �
+��?-------------x�[K[54Ct
+tish error: #-22
+embox>tt�tt�tu�������tttt�ttt t� ����embox>tt�tt�tu�������tttt�ttt t� ����[K[39Cembox>tt�tt�tu�������tttt�ttt t� ����t[K[40Cembox>tt�tt�tu�������tttt�ttt t� ����tt[K[41Cembox>tt�tt�tu�������tttt�ttt t� ����ttt[K[42Cembox>tt�tt�tu�������tttt�ttt t� ����tttt[K[43Cembox>tt�tt�tu�������tttt�ttt t� ����ttttt[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_t[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_tt[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_ttX[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_ttX�[Kembox>tt�tt�tu�������tttt�ttt t� ����tttttt_ttX�t[K[51Cembox>tt�tt�tu�������tttt�ttt t� ����tttttt_ttX�t[Kt
+tt�tt�tu�������tttt�: Command not found
+tish error: #-2
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+
+���embox>
+
+���[K[6Cembox>�
+
+���[K[7Cembox>�x
+
+���[K[8Cembox>�x�
+
+���[K[9Cembox>�x�
+
+���[K[10Cembox>�x�
+�
+���embox>�x�
+��
+���embox>�x�
+���
+���embox>�x�
+����
+���embox>�x�
+����t
+���embox>�x�
+����tt
+���embox>�x�
+����tt�
+���embox>�x�
+����tt�t
+���embox>�x�
+����tt�tt
+���embox>�x�
+����tt�ttt
+���embox>�x�
+����tt�tttt
+���embox>�x�
+����tt�tttt�
+���embox>�x�
+����tt�tttt�t
+���embox>�x�
+����tt�tttt�ts
+���embox>�x�
+����tt�tttt�tst
+���embox>�x�
+����tt�tttt�tst
+���embox>�x�
+����tt�tttt�tst
+���embox>�x�
+����tt�tttt�tst�
+���embox>�x�
+����tt�tttt�tst��
+���embox>�x�
+����tt�tttt�tst���
+���embox>�x�
+����tt�tttt�tst����
+���embox>�x�
+����tt�tttt�tst�����
+���embox>�x�
+����tt�tttt�tst������
+���embox>�x�
+����tt�tttt�tst�������
+���embox>�x�
+����tt�tttt�tst��������
+���embox>�x�
+����tt�tttt�tst���������xtt|ttt_t
+�x�: Command not found
+tish error: #-2
+embox>tt�ttttt�� ������ttttttttt � ������ttttttdttt�tttt
+tt�ttttt��: Command not found
+tish error: #-2
+embox>
+embox>
+
+���embox>
+
+���[K[6Cembox>|
+
+���[K[7Cembox>|t
+
+���[K[8Cembox>|tc
+
+���[K[9Cembox>|tcd
+
+���embox>|tcd_
+
+���embox>|tcd_t
+
+���embox>|tcd_tt
+
+���embox>|tcd_ttt
+
+���embox>|tcd_ttt�
+
+���embox>|tcd_ttt�t
+
+���embox>|tcd_ttt�tt
+
+���embox>|tcd_ttt�ttt
+
+���embox>|tcd_ttt�tttt
+
+���embox>|tcd_ttt�ttttt
+
+���embox>|tcd_ttt�ttttt�
+
+���embox>|tcd_ttt�ttttt��
+
+���embox>|tcd_ttt�ttttt�� 
+
+���embox>|tcd_ttt�ttttt�� �
+
+���embox>|tcd_ttt�ttttt�� ��
+
+���embox>|tcd_ttt�ttttt�� ��
+
+���embox>|tcd_ttt�ttttt�� ��
+
+���embox>|tcd_ttt�ttttt�� ��
+
+���embox>|tcd_ttt�ttttt�� ��
+
+���embox>|tcd_ttt�ttttt�� ���
+
+���embox>|tcd_ttt�ttttt�� ����
+
+���embox>|tcd_ttt�ttttt�� �����
+
+���embox>|tcd_ttt�ttttt�� ������
+
+���embox>|tcd_ttt�ttttt�� �������
+
+���embox>|tcd_ttt�ttttt�� ��������
+
+���embox>|tcd_ttt�ttttt�� ���������
+
+���embox>|tcd_ttt�ttttt�� ����������
+
+���embox>|tcd_ttt�ttttt�� �����������
+
+���embox>|tcd_ttt�ttttt�� ������������
+
+���embox>|tcd_ttt�ttttt�� �������������
+
+���embox>|tcd_ttt�ttttt�� ��������������
+
+���embox>|tcd_ttt�ttttt�� ���������������
+
+���embox>|tcd_ttt�ttttt�� ����������������
+
+���embox>|tcd_ttt�ttttt�� �����������������
+
+���embox>|tcd_ttt�ttttt�� ������������������
+
+���embox>|tcd_ttt�ttttt�� �������������������
+
+���
+|tcd_ttt�ttttt��: Command not found
+tish error: #-2
+embox>����������tt�tttt
+����������tt�tttt: Command not found
+tish error: #-2
+embox>
+
+���embox>
+
+���[K[6Cembox>�
+
+���[K[7Cembox>�x
+
+���[K[8Cembox>�x�
+
+���[K[9Cembox>�x�
+
+���[K[10Cembox>�x�
+�
+���[K[11Cembox>�x�
+��
+���[K[12Cembox>�x�
+���
+���[K[13Cembox>�x�
+����
+���[K[14Cembox>�x�
+����t
+���embox>�x�
+����tt
+���embox>�x�
+����tt�
+���embox>�x�
+����tt�t
+���embox>�x�
+����tt�tt
+���embox>�x�
+����tt�ttt
+���embox>�x�
+����tt�tttt
+���embox>�x�
+����tt�tttt�
+���embox>�x�
+����tt�tttt�t
+���embox>�x�
+����tt�tttt�ts
+���embox>�x�
+����tt�tttt�ts_
+���embox>�x�
+����tt�tttt�ts_t
+���embox>�x�
+����tt�tttt�ts_tt
+���embox>�x�
+����tt�tttt�ts_ttt
+���embox>�x�
+����tt�tttt�ts_ttt�
+���embox>�x�
+����tt�tttt�ts_ttt�t
+���embox>�x�
+����tt�tttt�ts_ttt�tt
+���embox>�x�
+����tt�tttt�ts_ttt�ttt
+���embox>�x�
+����tt�tttt�ts_ttt�tttt
+���embox>�x�
+����tt�tttt�ts_ttt�tttt�
+���embox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46C
+�x�: Command not found
+tish error: #-2
+embox>ttgttt t� ������tttttt_ttt�tttt
+ttgttt: Command not found
+tish error: #-2
+embox>
+
+���embox>
+
+���[K[6Cembox>�
+
+���[K[7Cembox>�x
+
+���[K[8Cembox>�x�
+
+���[K[9Cembox>�x�
+
+���[K[10Cembox>�x�
+�
+���[K[11Cembox>�x�
+��
+���[K[12Cembox>�x�
+���
+���[K[13Cembox>�x�
+����
+���[K[14Cembox>�x�
+����t
+���embox>�x�
+����tt
+���embox>�x�
+����tt�
+���embox>�x�
+����tt�t
+���embox>�x�
+����tt�tt
+���embox>�x�
+����tt�ttt
+���embox>�x�
+����tt�tttt
+���embox>�x�
+����tt�tttt�
+���embox>�x�
+����tt�tttt�t
+���embox>�x�
+����tt�tttt�ts
+���embox>�x�
+����tt�tttt�tst
+���embox>�x�
+����tt�tttt�tst�
+���embox>�x�
+����tt�tttt�tst��
+���embox>�x�
+����tt�tttt�tst���
+���embox>�x�
+����tt�tttt�tst����
+���embox>�x�
+����tt�tttt�tst����
+���embox>�x�
+����tt�tttt�tst����d
+���embox>�x�
+����tt�tttt�tst����d�
+���embox>�x�
+����tt�tttt�tst����d��
+���embox>�x�
+����tt�tttt�tst����d���
+���embox>[K[35Cembox>�x�
+����tt�tttt�tst����d�����xtt|ttt_t
+�x�: Command not found
+tish error: #-2
+embox>t��ttttt�� ������ttttttttt t� ������tttttt_ttt�ttt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

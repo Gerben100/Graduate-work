@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ulogou�tembox>�ulogou�t[K[15Cembox>�ulogou��t[K[16Cembox>�ulogou���t[K[17Cembox>�ulogou���{t[K[18Cembox>�ulogou���{�t[K[19C
+�ulogou���{�t: Command not found
+tish error: #-2
+embox>
+�e�ogoutembox>
+�e�ogout[K[14Cembox>
+�e�ogou�t[K[15Cembox>
+�e�ogou�t[K[16Cembox>
+�e�ogou��t[K[17Cembox>
+�e�ogou���t[K[18Cembox>
+�e�ogou���{t[K[19Cembox>
+�e�ogou���{�t[K[20C
+�e�ogou���{�t: Command not found
+tish error: #-2
+embox>
+�ehogouQembox>
+�ehogouQ[K[14Cembox>
+�ehogou{Q[K[15Cembox>
+�ehogou{�Q[K[16C
+�ehogou{�Q: Command not found
+tish error: #-2
+embox>
+�elogou�el���embox>
+�elogou�el���[K[20Cembox>
+�elogou�el���[K[21Cembox>
+�elogou�el���[K[22Cembox>
+�elogou�el�����[K[23Cembox>
+�elogou�el�����[K[24Cembox>
+�elogou�el�����{�[K[25Cembox>
+�elogou�el�����{v�[K[26C
+�elogou�el�����{v�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>[K[8C�embox>
+�elogou�el�����{v�[Kdfembox>
+�elogou�el�����{v�dembox>
+�elogou�el�����{v�embox>
+�elogou�el�����{v�[Kembox>
+�ehogou{�Q[Kembox>
+�ehogou{�Q[K�embox>
+�e�ogou���{�tfembox>
+�e�ogou���{�tembox>
+�e�ogou���{�tembox>
+�e�ogou���{�embox>�ulogou���{�tfembox>�ulogou���{�t@�?@?embox>�ulogou���{�t@�?@
+�ulogou���{�t@�?@: Command not found
+tish error: #-2
+embox>
+��~embox>[Kembox>[K
+�ulogou���{�t@�?: Command not found
+tish error: #-2
+embox>
+���x�
+�: Command not found
+tish error: #-2
+embox>
+ 
+embox>
+embox>
+embox>
+AAA��x /AAA��x /�����������f�5{���������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

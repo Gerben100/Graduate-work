@@ -1,0 +1,188 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lembox>l[K[6Cembox>Xl[K[7Cembox>l[K[6Cembox>8l[K[7Cembox>88l[K[8Cembox>888l[K[9Cembox>8888l[K[10Cembox>88888l[K[11Cembox>888888l[K[12Cembox>8888886l[K[13Cembox>88888868l[K[14Cembox>888888688l[K[15Cembox>8888886888l[K[16Cembox>88888868888l[K[17Cembox>888888688888l[K[18Cembox>8888886888888l[K[19Cembox>88888868888888l[K[20Cembox>888888688888888l[K[21Cembox>888888688888888l[K[22Cembox>8888886888888888l[K[23Cembox>88888868888888888l[K[24Cembox>888888688888888888l[K[25Cembox>888888688888888888el[K[26C
+888888688888888: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>X
+l[K[7Cembox>X8
+l[K[8Cembox>X8
+l[K[9Cembox>X8
+l[K[10Cembox>X8
+l[K[11Cembox>X8�
+l[K[12Cembox>X8�8
+l[K[13Cembox>X8�88
+l[K[14Cembox>X8�886
+l[K[15Cembox>X8�8868
+l[K[16Cembox>X8�88688
+l[K[17Cembox>X8�886888
+l[K[18Cembox>X8�8868888
+l[K[19Cembox>X8�88688888
+l[K[20Cembox>X8�88688888e
+l[K[21C
+X8: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>X
+l[K[7Cembox>X8
+l[K[8Cembox>X88
+l[K[9Cembox>X888
+l[K[10Cembox>X8888
+l[K[11Cembox>X8888,
+l[K[12Cembox>X8888,F
+l[K[13Cembox>X8888,F8
+l[K[14Cembox>X8888,F8-
+l[K[15Cembox>X8888,F8-8
+l[K[16Cembox>X8888,F8-88
+l[K[17Cembox>X8888,F8-888
+l[K[18Cembox>X8888,F8-8888
+l[K[19Cembox>X8888,F8-88888
+l[K[20Cembox>X8888,F8-888888
+l[K[21Cembox>X8888,F8-8888888
+l[K[22Cembox>X8888,F8-88888888
+l[K[23Cembox>X8888,F8-88888888
+l[K[24Cembox>X8888,F8-888888888
+l[K[25Cembox>X8888,F8-8888888884
+l[K[26Cembox>X8888,F8-88888888848
+l[K[27Cembox>X8888,F8-88888888848e
+l[K[28C
+X8888,F8-88888888: Command not found
+tish error: #-2
+embox>
+888868888888888e
+8888688888888: Command not found
+tish error: #-2
+embox>
+[d
+[d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�y
+[K[8C
+�y: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>X
+l[K[7Cembox>X8
+l[K[8Cembox>X88
+l[K[9Cembox>X88)
+l[K[10Cembox>X88)8
+l[K[11Cembox>X88)88
+l[K[12Cembox>X88)888
+l[K[13Cembox>X88)8889
+l[K[14Cembox>X88)88896
+l[K[15Cembox>X88)888968
+l[K[16Cembox>X88)8889688
+l[K[17Cembox>X88)88896888
+lembox>X88)88896888%
+lembox>X88)88896888%0
+lembox>X88)88896888%08
+lembox>X88)88896888%086
+lembox>X88)88896888%0868
+lembox>X88)88896888%08688
+lembox>X88)88896888%086888
+lembox>X88)88896888%0868888
+lembox>X88)88896888%08688888
+lembox>X88)88896888%086888888
+lembox>X88)88896888%0868888888
+lembox>X88)88896888%08688888888
+lembox>X88)88896888%08688888888
+lembox>X88)88896888%086888888888
+lembox>X88)88896888%086888888888
+lembox>X88)88896888%086888888888/
+lembox>X88)88896888%086888888888/8
+lembox>X88)88896888%086888888888/88
+lembox>X88)88896888%086888888888/88e
+l
+X88)88896888%08688888888: Command not found
+tish error: #-2
+embox>
+lembox>
+lembox>X
+lembox>X8
+lembox>X88
+lembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+X8888888688888888: Command not found
+tish error: #-2
+embox>
+lembox>
+lembox>X
+lembox>X8
+lembox>X88
+lembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+X8888888688X808888868e: Command not found
+tish error: #-2
+embox>
+membox>
+membox>X
+membox>X8
+membox>X88
+membox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K888888[e
+X88)88896888%08688888888: Command not found
+tish error: #-2
+embox>
+�n�88888Sembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+Dembox>
+Dembox>X
+Dembox>X8
+Dembox>X88
+Dembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+X88>8888e: Command not found
+tish error: #-2
+embox>
+�exeS
+�ex: Command not found
+tish error: #-2
+embox>
+l
+X8888888688�88888: Command not found
+tish error: #-2
+embox>
+e�W8888888688888888888l
+e�W8888888688888888: Command not found
+tish error: #-2
+embox>
+~
+X8888�8868988�: Command not found
+tish error: #-2
+embox>
+l 88888886888ogouexporttd�.e
+l: Command not found
+tish error: #-2
+embox>
+eBpor88888F8t88{8eBport88;868[c8{8d
+eBpor88888F8t88: Command not found
+tish error: #-2
+embox>
+l�
+l88888888888888888888888: Command not found
+tish error: #-2
+embox>
+l
+X88888886888�88&8: Command not found
+tish error: #-2
+embox>
+llogout�X8888888688888888#880e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

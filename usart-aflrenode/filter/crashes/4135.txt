@@ -1,0 +1,224 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>c�6pind@@@�
+embox>�@ees@��@@@"@embox>�@ees@��@@@"@[K[6Cembox>@�@ees@��@@@"@[K[7Cembox>@@�@ees@��@@@"@[K[8Cembox>@@o�@ees@��@@@"@[K[9Cembox>@@o<�@ees@��@@@"@[K[10Cembox>@@o<@�@ees@��@@@"@[K[11Cembox>@@o<@e�@ees@��@@@"@[K[12Cembox>@@o<@e�@ees@��@@@"@[K[13Cembox>@@o<@e�@ees@��@@@"@[K[6Cembox>@@@o<@e�@ees@��@@@"@[K[7Cembox>@�@@o<@e�@ees@��@@@"@[K[8C
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�embox>@@@@?�[K[11Cembox>@@@@?�[K[12Cembox>@@@@?�[K[13Cembox>@@@@?C�[K[14Cembox>@@@@?CC�[K[15Cembox>@@@@?CC@�[K[16Cembox>@@@@?CC@@�[K[17Cembox>@@@@?CC@@@�[K[18Cembox>@@@@?CC@@@@�[K[19Cembox>@@@@?CC@@@@@�[K[20Cembox>@@@@?CC@@@@@@�[K[21Cembox>@@@@?CC@@@@@@��[K[22C
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@ees@��@@@"@embox>�@ees@��@@@"@[K[6Cembox>@�@ees@��@@@"@[K[7Cembox>@@�@ees@��@@@"@[K[8Cembox>@@o�@ees@��@@@"@[K[9Cembox>@@o<�@ees@��@@@"@[K[10Cembox>@@o<@�@ees@��@@@"@[K[11Cembox>@@o<@e�@ees@��@@@"@[K[12Cembox>@@o<@e�@ees@��@@@"@[K[13Cembox>@@o<@e�@ees@��@@@"@[K[6Cembox>@@@o<@e�@ees@��@@@"@[K[7Cembox>@�@@o<@e�@ees@��@@@"@[K[8C
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�embox>@@@@?�[K[11Cembox>@@@@?�[K[12Cembox>@@@@?�[K[13Cembox>@@@@?C�[K[14Cembox>@@@@?CC�[K[15Cembox>@@@@?CC@�[K[16Cembox>@@@@?CC@@�[K[17Cembox>@@@@?CC@@@�[K[18Cembox>@@@@?CC@@@@�[K[19Cembox>@@@@?CC@@@@@�[K[20Cembox>@@@@?CC@@@@@@�[K[21Cembox>@@@@?CC@@@@@@d�[K[22C
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@ees@��@@@"@embox>�@ees@��@@@"@[K[6Cembox>@�@ees@��@@@"@[K[7Cembox>@@�@ees@��@@@"@[K[8Cembox>@@o�@ees@��@@@"@[K[9Cembox>@@o<�@ees@��@@@"@[K[10Cembox>@@o<@�@ees@��@@@"@[K[11Cembox>@@o<@e�@ees@��@@@"@[K[12Cembox>@@o<@e�@ees@��@@@"@[K[13Cembox>@@o<@e�@ees@��@@@"@[K[6Cembox>@@@o<@e�@ees@��@@@"@[K[7Cembox>@�@@o<@e�@ees@��@@@"@[K[8C
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�embox>@@@@?�[K[11Cembox>@@@@?�[K[12Cembox>@@@@?�[K[13Cembox>@@@@?C�[K[14Cembox>@@@@?CC�[K[15Cembox>@@@@?CC@�[K[16Cembox>@@@@?CC@@�[K[17Cembox>@@@@?CC@@@�[K[18Cembox>@@@@?CC@@@@�[K[19Cembox>@@@@?CC@@@@@�[K[20Cembox>@@@@?CC@@@@@@�[K[21Cembox>@@@@?CC@@@@@@d�[K[22Cembox>@@@@?CC@@@@@@d@�[K[23Cembox>@@@@?CC@@@@@@d@@�[K[24Cembox>@@@@?CC@@@@@@d@@@�[K[25Cembox>@@@@?CC@@@@@@d@@@��[K[26Cembox>@@@@?CC@@@@@@d@@@�e�[K[27Cembox>@@@@?CC@@@@@@d@@@�es�[K[28C
+@@@@?: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@ees@��@@@"@embox>�@ees@��@@@"@[K[6Cembox>@�@ees@��@@@"@[K[7Cembox>@@�@ees@��@@@"@[K[8Cembox>@@o�@ees@��@@@"@[K[9Cembox>@@o<�@ees@��@@@"@[K[10Cembox>@@o<@�@ees@��@@@"@[K[11Cembox>@@o<@e�@ees@��@@@"@[K[12Cembox>@@o<@e�@ees@��@@@"@embox>@@o<@e�@ees@��@@@"@embox>@@@o<@e�@ees@��@@@"@embox>@�@@o<@e�@ees@��@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�embox>@@@@?�[K[11Cembox>@@@@?�[K[12Cembox>@@@@?�[K[13Cembox>@@@@?C�[K[14Cembox>@@@@?CC�[K[15Cembox>@@@@?CC@�[K[16Cembox>@@@@?CC@@�[Kembox>@@@@?CC@@@�[Kembox>@@@@?CC@@@@�[K[19Cembox>@@@@?CC@@@@@�[K[20Cembox>@@@@?CC@@@@@@�[K[21Cembox>@@@@?CC@@@@@@d�[K[22Cembox>@@@@?CC@@@@@@d@�[Kembox>@@@@?CC@@@@@@d@@�[Kembox>@@@@?CC@@@@@@d@@@�[Kembox>@@@@?CC@@@@@@d@@@��[K
+embox>�@e
+�@e: Command not found
+tish error: #-2
+embox>
+c�6pexport//////////@@@@?�embox>
+c�6pexport//////////@@@@?�embox>
+c�6pexport//////////@@@@?�embox>
+c�6pexport//////////@@@@?�embox>
+c�6pexport//////////@@@@?C�embox>
+c�6pexport//////////@@@@?CC�embox>
+c�6pexport//////////@@@@?CC@�embox>
+c�6pexport//////////@@@@?CC@�embox>
+c�6pexport//////////@@@@?CC@�embox>
+c�6pexport//////////@@@@?CC@��embox>
+c�6pexport//////////@@@@?CC@���embox>
+c�6pexport//////////@@@@?CC@��@�embox>
+c�6pexport//////////@@@@?CC@��@o�embox>
+c�6pexport//////////@@@@?CC@��@o<�embox>
+c�6pexport//////////@@@@?CC@��@o<J�embox>
+c�6pexport//////////@@@@?CC@��@o<Je�embox>
+c�6pexport//////////@@@@?CC@��@o<Je�embox>
+c�6pexport//////////@@@@?CC@��@o<Je/�embox>
+c�6pexport//////////@@@@?CC@��@o<Je//�embox>
+c�6pexport//////////@@@@?CC@��@o<Je///�embox>
+c�6pexport//////////@@@@?CC@��@o<Je////�embox>
+c�6pexport//////////@@@@?CC@��@o<Je/////�embox>
+c�6pexport//////////@@@@?CC@��@o<Je//////�embox>
+c�6pexport//////////@@@@?CC@��@o<Je///////�
+c�6pexport//////////@@@@?: Command not found
+tish error: #-2
+embox>/embox>/[Kembox>@/embox>@�/embox>@�@/embox>@�@@/embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@�@@@@?: Command not found
+tish error: #-2
+embox>
+j�6tinU@@@�
+embox>�@e"@
+@@o�: Command not found
+tish error: #-2
+embox>@
+@@o: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@eesP@e��@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�
+embox>es
+@@o�: Command not found
+tish error: #-2
+embox>
+c�6pinu�@@�
+embox>�@ee�@
+@�@@@@: Command not found
+tish error: #-2
+embox>?�
+embox>Cees
+embox>
+c�6[ind@@@��@@@"�
+@�@@@@?: Command not found
+tish error: #-2
+embox>@@@d@@@�
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pies@export��@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>exit�@ees@���@@@"@
+@@o<@eexit�@ees@: Command not found
+tish error: #-2
+embox>
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@ees@���@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?���CC@@@@@@d@@@�
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�Mee
+embox>
+��`: Command not found
+tish error: #-2
+embox>@@@Q[xpi
+embox>@@@
+@@o: Command not found
+tish error: #-2
+embox><@ee�
+<@ee�: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@ees@��@@@"@��
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pinlogoutd@@��DDDDDDDD@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@@@?�
+embox>�@�es
+�@�es: Command not found
+tish error: #-2
+embox>
+c�6pUnd@@@�
+embox>�ees@�1@�[H[H[2J�
+embox>@d@@@�
+embox>�BCC@@@@V@@@@?�
+�BCC@@@@V@@@@?: Command not found
+tish error: #-2
+embox>
+c�6pZnd@nnnnnnnnnannnnnnnnnnnnn@@
+embox>�@�es@ 
+@�@@@@?: Command not found
+tish error: #-2
+embox>��@@@"@@@@�@ L@C@@@@@@d@@@�
+embox>�@ee
+�@ee: Command not found
+tish error: #-2
+embox>s
+s: Command not found
+tish error: #-2
+embox>
+c�6pind@@@�
+embox>�@e
+embox>�@e
+@�@@@�@e: Command not found
+tish error: #-2
+embox>@?�es:C@@@@@@d@@@�@e
+@?�es: Command not found
+tish error: #-2
+embox>
+c�6pind
+@�@@o4@e: Command not found
+tish error: #-2
+embox>@@@@?�@����@@'"@
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6pmnd@@@�
+embox>�@ees@��@@@"@
+@�@@o<@e: Command not found
+tish error: #-2
+embox>@@B@?�
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�o<@e
+embox>�@ees
+�@ees: Command not found
+tish error: #-2
+embox>
+c�6��
+CC@@@@�@ees@&&&&&&&&&&&&&&&&&&&&&&&&es
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

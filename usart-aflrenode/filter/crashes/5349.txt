@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>22��it
+embox>
+22���embox>
+22���[K[15C�
+embox>
+embox>
+22����FBembox>
+22����F[K[19C2�embox>
+22����F2[K[22C���embox>
+22����F2��[K[28C22����F
+tish error: #-22
+embox>Bembox>[K[6Cembox>[K[9C
+embox>
+2embox>
+2[K[10Cembox>
+2[K[11Cembox>
+2�[K[12Cembox>
+2��[K[13Cembox>
+2��[K[14C�F(embox>
+2���F[K[18Cembox>
+2���F[K[19C
+tish error: #-22
+embox>
+2embox>
+[K[8C��
+embox>��FBembox>��F[K[10Cls2���
+embox>��FBembox>��F[K[10Clsembox>��Fls[K[14C
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7CV$�22�embox>
+V$�22[K[14CFRembox>
+V$�22F[K[15Cembox>
+V$�22F[K[16C
+V$�: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+22� �cd�FBembox>
+22� �cd�F[K[20Cembox>
+22� �cd�F[K[21C
+tish error: #-22
+embox>
+22
+embox>��embox>
+[K[7C�FBembox>
+�F[K[9Cembox>
+�F[K[10C
+�F: Command not found
+tish error: #-2
+embox>
+22����FBembox>
+22����F[K[19Cembox>
+22����F[K[20C
+tish error: #-22
+embox>
+2embox>
+2[K[9C�������FBembox>
+2�������F[K[20C�embox>
+2�������F�[K[21C
+tish error: #-22
+embox>
+22����FBembox>
+22����F[Kembox>
+22����F[K[20C
+tish error: #-22
+embox>
+22���665@@@@�@@@D'@@@]@@@@@@@@@@@|d@@@@@@@@�@@
+tish error: #-22
+embox>@����D'@
+embox>�%@@@@@@@@@@@@vdembox>�%@@@@@@@@@@@@vd[K[6Cembox>@�%@@@@@@@@@@@@vd[K[7Cembox>@@�%@@@@@@@@@@@@vd[Kembox>@@@�%@@@@@@@@@@@@vd[Kembox>@@@@�%@@@@@@@@@@@@vd[Kembox>@@@@@�%@@@@@@@@@@@@vd[Kembox>@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?��%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@@@@@�%@@@@@@@@@@@@vdembox>@@@@@@@@@@J@@?�@@@@@@@8�%@@@@@@@@@@@@vd
+@@@@@@@@@@J@@?: Command not found
+tish error: #-2
+embox>@@n@@@exoort@
+@@n@@@exoort@: Command not found
+tish error: #-2
+embox>
+�22���665lmg@@@@|d@@@@@@@@�@@@����D'@@@@@@@"@
+�2: Command not found
+tish error: #-2
+embox>@@@@cdembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

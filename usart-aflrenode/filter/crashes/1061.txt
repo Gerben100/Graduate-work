@@ -1,0 +1,92 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+ds.|cd
+ds.|cd: Command not found
+tish error: #-2
+embox>
+|�we��w_embox>
+ds.|cd[K[13C�x
+ds.|cd�: Command not found
+tish error: #-2
+embox>
+N
+N: Command not found
+tish error: #-2
+embox>
+�ls{embox>
+�ls{[K[12Cembox>
+�ls{[K[12Cembox>
+�ls{[K[12C'embox>
+�ls{[K[12C�{J
+�ls{�{J: Command not found
+tish error: #-2
+embox>
+d�i�embox>
+d�i�[K[10Cembox>
+d�iy�[K[11Cembox>
+d�iye�[K[12Cembox>
+d�iye��[K[13C
+d�iye��: Command not found
+tish error: #-2
+embox>
+d 
+d: Command not found
+tish error: #-2
+embox>
+t�uvQ=ie�uembox>
+d [K[9CxQ0
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+dls�ex exi7
+dls�ex: Command not found
+tish error: #-2
+embox>
+G
+G: Command not found
+tish error: #-2
+embox>
+d����� ��e0
+d�����: Command not found
+tish error: #-2
+embox>
+d��pin�����xxembox>
+d��pin�����xx�qx�
+embox>����pin�����xx�~�t
+����pin�����xx�~�t: Command not found
+tish error: #-2
+embox>
+dxembox>
+Gex exi0
+Gex: Command not found
+tish error: #-2
+embox>
+dembox>
+[K��ex exit
+��ex: Command not found
+tish error: #-2
+embox>
+,��x expiti6
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,133 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��������������������������������������������������
+��������������������������������������������������: Command not found
+tish error: #-2
+embox>��������������������������������������������������
+��������������������������������������������������: Command not found
+tish error: #-2
+embox>�������������
+�������������: Command not found
+tish error: #-2
+embox>
+xdy
+embox>�V�embox>�V�[K[10Cembox>�V�[K[11Cembox>�V��[K[12Cembox>�V��V[K[13Cembox>�V��V�[K[14Cembox>�V��V�[K[15Cembox>�V��V��[K[16Cembox>�V��V��e[K[17Cembox>�V��V��ee[K[18Cembox>�V��V��eed[K[19Cembox>�V��V��ee[K[18Cembox>�V��V��ee�[K[19Cembox>�V��V��ee�[K[6C
+embox>
+xdh+embox>
+xdh+[K[11Cembox>
+xdh+[K[12Cembox>
+xdh�+[K[13Cembox>
+xdh�V+[K[14Cembox>[K[6C��Ge�e
+�: Command not found
+tish error: #-2
+embox>
+xdh+embox>
+xdh+[K[12C�Vembox>
+xdh+�V[K[6Cembox>
+xdh+�V[K[7Cembox>
+xdh+�V[K[8Cembox>�
+xdh+�V[K[9Cembox>�
+xdh+�V[K[10Cembox>�
+xdh+�V[K[18C��e
+embox>
+���embox>
+��[K[9Ch+embox>
+��h+[K[10Cembox>
+��h+[K[11Cembox>
+��h�+[K[12Cembox>
+��h�V+[K[13Cembox>[K[6C�cdy��e
+embox>
+xdh+embox>
+xdh+[K[11Cembox>
+xdh+[K[12Cembox>
+xdh�+[K[13Cembox>
+xdh�V+[K[14Cembox>
+xdh�Vd+[K[15Cembox>
+xdh�Vdh+[K[16Cembox>
+xdh�Vdh++[K[17Cembox>
+xdh�Vdh++[K[16Cembox>
+xdh�Vdh++[K[17Cembox>
+xdh�Vdh�++[K[18Cembox>
+xdh�Vdh�V++[K[19Cembox>
+xdh�Vdh�V�++[K[20Cembox>
+xdh�Vdh�V��++[K[21Cembox>
+xdh�Vdh�V��X++[K[22C
+tish error: #-22
+embox>
+@e
+@e: Command not found
+tish error: #-2
+embox>
+��h+ey��e
+tish error: #-22
+embox>
+xdh+embox>
+xdh+[K[11Cembox>
+xdho+[K[12Cembox>
+xdho�+[K[13Cembox>
+xdho�V+[K[14Cembox>[K[6C�Mey��e
+embox>
+xdh+embox>
+xdh+[K[11Cembox>
+xdh+[K[12Cembox>
+xdh�+[K[13Cembox>
+xdh�V+[K[14Cembox>[K[6Cewp�rte
+embox>
+�
+embox>�d{�d@�
+embox>Ry�x
+Ry: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+xdexitrembox>[K[6Cembox>[K[6C�e�
+embox>+
+embox>
+ccwc����e
+cc: Command not found
+tish error: #-2
+embox>
+ey�zxd|+
+tish error: #-22
+embox>
+xdh+�eey���S
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+xdj+�eey��e
+embox>
+xgh+�eels�e
+embox>
+xdh+�ey�e
+embox>
+xdh+�ey��V�ey��e
+embox>
+   9�e�e
+tish error: #-22
+embox>
+xSh+�'�ee^��g
+�'�ee^��g: Command not found
+tish error: #-2
+embox>
+e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[H[H[2Jembox>[K[6Clogu�logoutu�
+log: Command not found
+tish error: #-2
+embox>
+�$o�exitembox>
+�$o�exit[K[18C���
+�: Command not found
+tish error: #-2
+embox>
+��5o�e����e
+��5: Command not found
+tish error: #-2
+embox>
+
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox> 
+[K[7Cembox> 
+[K[8Cembox> o
+[K[9Cembox> o�
+[K[10Cembox> o�e
+[K[11Cembox> o�ex
+[K[12Cembox> o�exi
+[K[13Cembox> o�exi|
+[K[14Cembox> o�exi|
+[K[15Cembox> o�exi| 
+[K[16Cembox> o�exi| �
+[K[17Cembox> o�exi| ��
+[K[18Cembox> o�exi| ��
+[K[19Cembox> o�exi| ���
+[K[20Cembox> o�exi| ���e
+[K[21C
+tish error: #-22
+embox>
+�t�tembox>
+�t�t[K[15C���e
+�: Command not found
+tish error: #-2
+embox>
+� o�exctembox>
+� o�exct[K[18C���e
+�: Command not found
+tish error: #-2
+embox>
+~embox>
+~[K[6Cembox>
+~[K[7Cembox>~
+~[K[8Cembox>~i
+~[K[9Cembox>~i�
+~[K[10Cembox>~i�e
+~[K[11Cembox>~i�ei
+~[K[12Cembox>~i�ei�
+~[K[13Cembox>~i�ei�e
+~[K[14Cembox>~i�ei�ei
+~[K[15Cembox>~i�ei�ei�
+~[K[16Cembox>~i�ei�ei�e
+~[K[17C
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+� embox>
+�[K[10Co�exit����e
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�e
+[K[9Cembox>�
+[K[8Cembox>�i
+[K[9Cembox>�it
+[K[10Cembox>�it
+[K[11Cembox>�itx
+[K[12Cembox>�itx�
+[K[13Cembox>�itx��
+[K[14C
+embox>�������
+embox>yembox>[K[6Cembox>[K[6C���}�������������� ��
+���}��������������: Command not found
+tish error: #-2
+embox>
+�_embox>
+����ye
+embox>embox>���}�������������� ��iK���embox>[K����ye
+embox>embox>���}�������������� ��iK����eiKe���embox>[K�i
+���}��������������: Command not found
+tish error: #-2
+embox>�eiKe�����x�)
+�eiKe�����x�): Command not found
+tish error: #-2
+embox>
+�}CiyeiKe����ycdpipi
+�}CiyeiKe��: Command not found
+tish error: #-2
+embox>
+����}Bi��e��logoutgoui
+�: Command not found
+tish error: #-2
+embox>
+embox>[Ky}ey}eylseiKe�k�embox>[Kk�embox>[K�ypBY
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

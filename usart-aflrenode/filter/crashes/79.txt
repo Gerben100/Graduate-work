@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/kernel/task/multi/multi.c:351
+[8Cin function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>LlX
+embox>
+dx�
+dx�: Command not found
+tish error: #-2
+embox>
+Ms
+tish error: #-22
+embox>
+lsls
+lsls: Command not found
+tish error: #-2
+embox>
+embox>[K[6C@
+embox>
+�embox>
+[K[9C
+tish error: #-22
+embox>
+cdp�
+cdp�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>
+�[K[10Cembox>
+�[K[11Cembox>l
+�[K[12Cembox>ll
+�[K[13Cembox>lls
+�[K[14C
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��embox>
+�[K[8Cs
+�s: Command not found
+tish error: #-2
+embox>
+  
+tish error: #-22
+embox>
+K
+K: Command not found
+tish error: #-2
+embox>
+t8
+tish error: #-22
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

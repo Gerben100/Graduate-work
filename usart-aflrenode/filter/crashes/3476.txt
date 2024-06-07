@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> I�������������������������hembox> I�������������������������h[K[6Cembox> I�������������������������h[K[7C
+embox>
+UUZv{
+UUZv{: Command not found
+tish error: #-2
+embox>
+ ~gggRgembox>
+ ~gggRg[K[6Cembox>
+ ~gggRg[K[7Cembox>g
+ ~gggRg[K[8Cembox>gg
+ ~gggRg[K[9Cembox>ggi
+ ~gggRg[K[10Cembox>ggin
+ ~gggRg[K[11Cembox>ggin
+ ~gggRg[K[12Cembox>ggin�
+ ~gggRg[K[13Cembox>ggin��
+ ~gggRg[K[14Cembox>ggin��h
+ ~gggRg[K[15Cembox>ggin��h
+ ~gggRg[K[16Cembox>ggin��h
+ ~gggRg[K[17C
+embox>
+rtn��embox>
+rtn��[K[22C� �
+embox>h�e��yei�expo 
+embox>
+ 
+tish error: #-22
+embox>x��
+embox>�hdexportdembox>�hdexportd[K[21C 
+embox>
+ 
+tish error: #-22
+embox>x��u�hdex0ortdembox>x��u�hdex0ortd[K[33C�
+x��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�h�dexp�r|Xembox>
+�h�dexp�r|X[K[21Cembox>
+�h�dexp�r|X[K[6C
+tish error: #-22
+embox>
+embox>
+ 
+tish error: #-22
+embox>x����hfexportdembox>x����hfexportd[K[33Cembox>x����hfexportd[K[6Cembox>x����hfexportd[K[7C
+embox>
+����������������dembox>
+����������������d[K[24Cdembox>
+����������������dd[K[6Cembox>
+����������������dd[K[7C
+embox>
+ 
+tish error: #-22
+embox>d$�li 
+d$�li: Command not found
+tish error: #-2
+embox>d$�li
+d$�li: Command not found
+tish error: #-2
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+��i
+�: Command not found
+tish error: #-2
+embox>
+�l%�embox>[K[12Cembox>[K[12Cdi
+�l%�di: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>[x%di
+[x%di: Command not found
+tish error: #-2
+embox>
+llllUll
+llllUll: Command not found
+tish error: #-2
+embox>
+pn�
+embox>
+�logout
+�logout: Command not found
+tish error: #-2
+embox>
+���������
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ <
+<: Command not found
+tish error: #-2
+embox>
+dZ
+dZ: Command not found
+tish error: #-2
+embox>
+�xi��a6p���xiv���xi@a��������w
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

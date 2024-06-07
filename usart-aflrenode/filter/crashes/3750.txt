@@ -1,0 +1,78 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>{{{{{{or|
+{{{{{{or|: Command not found
+tish error: #-2
+embox>
+{{embox>{{{{{{or|[K[15C{embox>{{{{{{or|[K[16C
+{{{{{{or|: Command not found
+tish error: #-2
+embox>
+{{{{{cd{{|{{{
+{{{{{cd{{|{{{: Command not found
+tish error: #-2
+embox>
+{{{{{{{|{{
+{{{{{{{|{{: Command not found
+tish error: #-2
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+{{{��{|{embox>
+{{{��{|[K[16C{
+{{{�: Command not found
+tish error: #-2
+embox>
+)exit�too]��|@oo
+)exit: Command not found
+tish error: #-2
+embox>
+�pin{pinembox>
+�pin{pi[K[14C�@{{{e
+�pin{pi�@{{{e: Command not found
+tish error: #-2
+embox>
+{{{{{{{{{{{{�{|{{{
+{{{{{{{{{{{{�{|{{{: Command not found
+tish error: #-2
+embox>
+{{{�{embox>
+{{{�{embox>{
+{{{�{embox>{�
+{{{�{embox>{��
+{{{�{embox>{���
+{{{�{embox>{����
+{{{�{embox>{�����
+{{{�{embox>{������
+{{{�{embox>{������{{{�{
+{������{{{�{: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�tt�@tgottdtttttt
+�tt�: Command not found
+tish error: #-2
+embox>tuttt�tt�logoutembox>[K�Vtt@�tttttttttdttMembox>[Kembox>[Kembox>[Kembox>[Ktttt
+tttt: Command not found
+tish error: #-2
+embox>ttttttttttt�t��@tgontd�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

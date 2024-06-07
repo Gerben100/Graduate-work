@@ -1,0 +1,98 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��w
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+ l2ilembox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+d
+tish error: #-22
+embox>
+�6���֌��k��w��expo\@@ex@?@@@@exit@@@A@llembox>
+�6���֌��k��w��expo\@@ex@?@@@@exit@@@A@ll[K�l
+�6���֌��k��w��expo\@@ex@?@@@@exit: Command not found
+tish error: #-2
+embox>s�embox>s�[K[6Cembox>@s�[K[7Cembox>@Ts�[K[8Cembox>@T@s�[K[9Cembox>@T@@s�[K[10C
+@T@@s�: Command not found
+tish error: #-2
+embox>
+�6��|֌�����w��expo\�embox>
+�6��|֌�����w��expo\@@@@@@ex�
+embox>@@@@@@T@@
+embox>
+�6���embox>
+�6��[K[12C�ex@^��^@@Iexii8embox>
+�6���ex@^��^@@Iexii8embox>@
+�6���ex@^��^@@Iexii8embox>@T
+�6���ex@^��^@@Iexii8embox>@T"
+�6���ex@^��^@@Iexii8embox>@T"?
+�6���ex@^��^@@Iexii8
+@T"?: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>6
+[K[7Cembox>6�
+[K[8Cembox>6��
+[K[9Cembox>6���
+[K[10Cembox>6����
+[K[11Cembox>6����ٌ
+[K[12Cembox>6����ٌ�
+[K[13Cembox>6����ٌ��
+[K[14Cembox>6����ٌ���
+[K[15Cembox>6����ٌ����
+[Kembox>6����ٌ�����
+[Kembox>6����ٌ������
+[K[18Cembox>6����ٌ������d
+[K[19Cembox>6����ٌ������dx
+[K[20Cembox>6����ٌ������dxe
+[K[21Cembox>6����ٌ������dxej
+[Kembox>6����ٌ������dxej�
+[Kembox>6����ٌ������dxej�l
+[Kembox>6����ٌ������dxej�lo
+[Kembox>6����ٌ������dxej�lo|
+embox>@T"?
+[K[11CutBx�@@�t3@@@@A@embox>@T"?
+utBx�@@�t3@@@@A@embox>@@T"?
+utBx�@@�t3@@@@A@embox>@T@T"?
+utBx�@@�t3@@@@A@
+@T@T"?: Command not found
+tish error: #-2
+embox>@@
+@@: Command not found
+tish error: #-2
+embox>
+�6���embox>@@[Ki�����Kxpor�@@exit�@@@@$embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10C
+@T@?@@i�����Kxpor�@@exit: Command not found
+tish error: #-2
+embox>
+�6���֌�����w��expo\@@ex@?@@@@exit@@�����w��e
+tish error: #-22
+embox>xpo\@@exA@@embox>xpo\@@exA@@embox>@xpo\@@exA@@embox>@xpo\@@exA@@embox>@xpo\@@exA@@embox>@@xpo\@@exA@@
+@@: Command not found
+tish error: #-2
+embox>
+)�6��exit�@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,113 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>vvv
+vvv: Command not found
+tish error: #-2
+embox>
+�dembox>
+�[K[9Clsr
+�: Command not found
+tish error: #-2
+embox>
+���
+�: Command not found
+tish error: #-2
+embox>
+cdlsembox>
+cdls[K[11Cexportlsr
+cdlsexportlsr: Command not found
+tish error: #-2
+embox>
+lsembox>
+l[K[8Clls
+llls: Command not found
+tish error: #-2
+embox>
+embox>[K[6C:h�
+:h�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+\xSn�
+embox>r
+r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[10Cembox>
+s[K[11Cembox>
+sr[K[12C
+tish error: #-22
+embox>
+t[?5h[?5lembox>
+t[K[6Cembox>�
+t[K[7Cembox>�[?5h[?5l
+t[K[8Cembox>�[?5h[?5lw
+t[K[9Cembox>�[?5h[?5lwx
+t[K[10Cembox>�[?5h[?5lwxF
+t[K[11Cembox>�[?5h[?5lwxF�
+t[K[12Cembox>�[?5h[?5lwxF��
+t[K[13Cembox>�[?5h[?5lwxF���
+t[K[14Cembox>�[?5h[?5lwxF����
+t[K[15C[?5h[?5lembox>�[?5h[?5lwxF����
+t[K[6Cembox>��[?5h[?5lwxF����
+t[K[7Cembox>�[?5h[?5l�[?5h[?5lwxF����
+t[K[8Cembox>�[?5h[?5lw�[?5h[?5lwxF����
+tembox>�[?5h[?5lwx�[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF��[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF���[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF����[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����p�[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pi�[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin�[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin��[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin���[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin����[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin�����[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin�������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin��������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin���������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin����������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin�����������[?5h[?5lwxF����
+tembox>�[?5h[?5lwxF�����pin������������[?5h[?5lwxF����
+t
+�[?5h[?5lwxF�����pin������������[?5h[?5lwxF����: Command not found
+tish error: #-2
+embox>�Do����������������Dosr
+�D: Command not found
+tish error: #-2
+embox>
+��embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�export
+�export: Command not found
+tish error: #-2
+embox>
+ssssssssssssssssssssssssssssssssssssssssssssssss
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

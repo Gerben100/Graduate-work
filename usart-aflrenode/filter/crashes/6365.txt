@@ -1,0 +1,133 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>r8888;88888e88X�t88888888r
+r8888;88888e88X�t88888888r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>r
+[K[7Cembox>r8
+[K[8Cembox>r88
+[K[9Cembox>r888
+[K[10Cembox>r8888
+[K[11Cembox>r8888:
+[K[12Cembox>r8888:8
+[K[13Cembox>r8888:8r
+[K[14C
+r8888:8r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>r
+[K[7Cembox>r8
+[K[8Cembox>r88
+[K[9Cembox>r888
+[K[10Cembox>r8888
+[K[11Cembox>r88888
+[K[12Cembox>r88888:
+[K[13Cembox>r88888:8
+[K[14Cembox>r88888:88
+[K[15Cembox>r88888:888
+[K[16Cembox>r88888:888r
+[K[17C
+r88888:888r: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>r
+[K[7Cembox>r8
+[K[8Cembox>r88
+[K[9Cembox>r888
+[K[10Cembox>r8888
+[K[11Cembox>r88888
+[K[12Cembox>r888888
+[K[13Cembox>r8888888
+[K[14Cembox>r8888888e
+[K[15Cembox>r8888888eX
+[K[16Cembox>r8888888eXi
+[K[17Cembox>r8888888eXit
+[K[18Cembox>r8888888eXit8
+[K[19Cembox>r8888888eXit88
+[K[20Cembox>r8888888eXit888
+[K[21Cembox>r8888888eXit8888
+[K[22Cembox>r8888888eXit88888
+[K[23Cembox>r8888888eXit888888
+[K[24Cembox>r8888888eXit8888888
+[Kembox>r8888888eXit88888888
+[Kembox>r8888888eXit888888888
+[Kembox>r8888888eXit8888888888
+[Kembox>r8888888eXit8888888888r
+[K
+r8888888eXit8888888888r: Command not found
+tish error: #-2
+embox>
+�hssss[H[H[2Jembox>
+�hssss[K[14Crssss8�h�
+�hssss: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>r
+[K[7Cembox>r8
+[K[8Cembox>r8e
+[K[9Cembox>r8ex
+[K[10Cembox>r8exi
+[K[11Cembox>r8exit
+[K[12Cembox>r8exit8
+[K[13Cembox>r8exit88
+[K[14Cembox>r8exit888
+[K[15Cembox>r8exit8888
+[K[16Cembox>r8exit88888
+[K[17Cembox>r8exit88888y
+[K[18Cembox>r8exit88888y8
+embox>r8exit88888y88
+embox>r8exit88888y888
+embox>r8exit88888y8888
+embox>r8exit88888y88888
+embox>r8exit88888y888888
+embox>r8exit88888y8888888
+embox>r8exit88888y88888888
+embox>r8exit88888y888888888
+embox>r8exit88888y8888888888
+embox>r8exit88888y8888888888r
+
+r8exit88888y8888888888r: Command not found
+tish error: #-2
+embox>
+Cl
+Cl: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+Cl 
+Cl: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�@@@@@@;@@?@@@�@@@@@@@@\@@ex�@�@@@@?@@@@@@@@@@@@\@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

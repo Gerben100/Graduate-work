@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ls(xeN�IAd6@@embox>ls(xeN�IAd6@@[K[21C��@@@@@@@@@@@@@@P@@?@@@@@@@@@@@embox>ls(xeN�IAd6@@��@@@@@@@@@@@@@@P@@?@@@@@@@@@@@[K[6C
+ls: Command not found
+tish error: #-2
+embox>@@exp@�@@embox>@@exp@�@@[K[6Cembox>@@exp@�@@[K[7Cembox>@@exp@�@@[K[8Cembox>@@@exp@�@@[K[9Cembox>@@@@exp@�@@[K[10Cembox>@@@@@exp@�@@[K[11Cembox>@@@T@@exp@�@@[K[12C
+embox>
+dkin
+dkin: Command not found
+tish error: #-2
+embox>
+ls(xQN�I5d6@@embox>
+ls(xQN�I5d6@@[K[22C�@@@@@@@@xembox>
+ls(xQN�I5d6@@�@@@@@@@@[K[31C�@@@@@@@@xp@�@@@@@@T
+ls: Command not found
+tish error: #-2
+embox>
+l�������������������@@NT
+l�������������������@@NT: Command not found
+tish error: #-2
+embox>
+l6H@embox>
+l6H@[K[11C��@@@@@@@@@@@@embox>
+l�������������������@@NT@@@?x@@@@@@@@@?xp@�@@U@@@@embox>
+l�������������������@@NT@@@?x@@@@@@@@@?xp@�@@U@@@@[K
+l�������������������@@NT@@@?x@@@@@@@@@?xp@�@@: Command not found
+tish error: #-2
+embox>@@exp@�@@embox>@@exp@�@@[K[6Cembox>@@exp@�@@[K[6Cembox>@@exp@�@@[K[7Cembox>@@@exp@�@@[K[8Cembox>@@@@exp@�@@[K[9Cembox>@@@@@exp@�@@[K[10Cembox>@@@T@@exp@�@@[K[11C
+embox>
+l{3�embox>
+l{3[K[14C{3�embox>
+l{3{3[K[17C
+embox>embox>[K[6Cembox>�[K[7Cembox>��[K[8Cembox>��@[K[9Cembox>��@ [K[10Cembox>��@ @[K[11Cembox>��@ @[K[12Cembox>��@ @@[K[13Cembox>��@ @@Q[K[14Cembox>��@ @@Q[[K[15Cembox>��@ @@Q[x[K[16Cembox>��@ @@Q[x~[K[17Cembox>��@ @@Q[x~�[K[18Cembox>��@ @@Q[x~�[K[19Cembox>��@ @@Q[x~�[K[20Cembox>��@ @@Q[x~�[K[19Cembox>��@ @@Q[x~�[K[20Cembox>��@ @@Q[x~��[K[21Cembox>��@ @@Q[x~��@[Kembox>��@ @@Q[x~��@@[Kembox>��@ @@Q[x~��@@@[Kembox>��@ @@Q[x~��@@@@[Kembox>��@ @@Q[x~��@@@@@embox>��@ @@Q[x~��@@@@@Aembox>��@ @@Q[x~��@@@@@AWembox>��@ @@Q[x~��@@@@@AWlembox>��@ @@Q[x~��@@@@@AWloembox>��@ @@Q[x~��@@@@@AWlogembox>��@ @@Q[x~��@@@@@AWlogoembox>��@ @@Q[x~��@@@@@AWlogouembox>��@ @@Q[x~��@@@@@AWlogoutembox>��@ @@Q[x~��@@@@@AWlogoutn
+��@: Command not found
+tish error: #-2
+embox>?@@@@@@/@@
+?@@@@@@/@@: Command not found
+tish error: #-2
+embox>
+ly[?5h[?5l�embox>
+ly[?5h[?5l�[K[6Cembox>�
+ly[?5h[?5l�[K[7Cembox>�6
+ly[?5h[?5l�[Kembox>�66
+ly[?5h[?5l�[Kembox>�66h
+ly[?5h[?5l�[Kembox>�66h6
+ly[?5h[?5l�[Kembox>�66h6>
+ly[?5h[?5l�[K[12Cembox>�66h6>6
+ly[?5h[?5l�[K[13Cembox>�66h6>6�
+ly[?5h[?5l�[K[14C
+embox>embox>[K[6Cembox>�[K[7Cembox>��[K[8Cembox>��@[K[9Cembox>��@ [K[10Cembox>��@ @[K[11Cembox>��@ @@[K[12Cembox>��@ @@@[K[13Cembox>��@ @@@Q[K[14Cembox>��@ @@@Q[[Kembox>��@ @@@Q[x[Kembox>��@ @@@Q[[Kembox>��@ @@@Q[�[Kembox>��@ @@@Q[�[Kembox>��@ @@@Q[�[Kembox>��@ @@@Q[�[Kembox>��@ @@@Q[�[K[18Cembox>��@ @@@Q[�[K[17Cembox>��@ @@@Q[�@[K[18Cembox>��@ @@@Q[�@@[K[19Cembox>��@ @@@Q[�@@@[K[20Cembox>��@ @@@Q[�@@@@[Kembox>��@ @@@Q[�@@@@@[Kembox>��@ @@@Q[�@@@@@A[Kembox>��@ @@@Q[�@@@@@AW[Kembox>��@ @@@Q[�@@@@@AWlembox>��@ @@@Q[�@@@@@AWl%embox>��@ @@@Q[�@@@@@AWl%dembox>��@ @@@Q[�@@@@@AWl%dembox>��@ @@@Q[�@@@@@AWl%dembox>��@ @@@Q[�@@@@@AWl%dembox>��@ @@@Q[�@@@@@AWl%do
+��@: Command not found
+tish error: #-2
+embox>go�tn?@@@@@@/@@
+go�tn?@@@@@@/@@: Command not found
+tish error: #-2
+embox>
+ly[?5h[?5l�embox>
+ly[?5h[?5l�embox>�
+ly[?5h[?5l�embox>�>
+ly[?5h[?5l�embox>�>6
+ly[?5h[?5l�embox>�>6F
+ly[?5h[?5l�embox>�>6Fo
+ly[?5h[?5l�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�>6Fogoutt?@2@@/@6[?5h[?5l�@@@: Command not found
+tish error: #-2
+embox>�tnembox>[Klogou������embox>[Ktn?@@a@@@/@@
+go�tn?@@@@@@/@@: Command not found
+tish error: #-2
+embox>
+ly[?5h[?5l����@@@5@CWlogouto?@e[wembox>[K���@@@5@CWlogouto
+l: Command not found
+tish error: #-2
+embox>?@@@@@@/@@
+?@@@@@@/@@: Command not found
+tish error: #-2
+embox>
+ly[?5h[?5l�
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ucd
+ucd: Command not found
+tish error: #-2
+embox>
+embox>ucd[K[9C
+ucd: Command not found
+tish error: #-2
+embox>
+���xwއ~embox>ucd[K[9C�muembox>ucd�m[K[12Cembox>ucd�[K[11C$embox>ucd�$[K[12Cembox>ucd�$[K[12Cex
+ucd: Command not found
+tish error: #-2
+embox>
+embox>ucd[K[9C�zzlow�ou<
+ucd�zzlow: Command not found
+tish error: #-2
+embox>
+embox>ucd�zzlow[K[17C�Yembox>ucd�zzlow�Y[K[6Cembox>lucd�zzlow�Y[K[7Cembox>loucd�zzlow�Y[K[8Cembox>logucd�zzlow�Y[K[9Cembox>logoucd�zzlow�Y[K[10Cembox>logooucd�zzlow�Y[K[11Cembox>logoooucd�zzlow�Y[K[12Cembox>logooooucd�zzlow�Y[K[13Cembox>logoooooucd�zzlow�Y[K[14Cembox>logooooooucd�zzlow�Y[K[15Cembox>logooooooiucd�zzlow�Y[K[16Cembox>logooooooioucd�zzlow�Y[K[17Cembox>logooooooio�ucd�zzlow�Y[K[18Cembox>logooooooiou�cd�zzlow�Y[K[19Cembox>logooooooiou�pcd�zzlow�Y[K[20Cembox>logooooooiou�pocd�zzlow�Y[K[21Cembox>logooooooiou�poocd�zzlow�Y[K[22Cembox>logooooooiou�pooocd�zzlow�Y[K[23Cembox>logooooooiou�poooocd�zzlow�Y[K[24Cembox>logooooooiou�pooooocd�zzlow�Y[K[25Cembox>logooooooiou�poooooocd�zzlow�Y[K[26Cembox>logooooooiou�pooooooocd�zzlow�Y[K[27Cembox>logooooooiou�poooooooocd�zzlow�Y[K[28Cembox>logooooooiou�pooooooooocd�zzlow�Y[K[29Cembox>logooooooiou�poooooooooocd�zzlow�Y[K[30Cembox>logooooooiou�pooooooooooocd�zzlow�Y[K[31Cembox>logooooooiou�poooooooooooocd�zzlow�Y[K[32Cembox>logooooooiou�pooooooooooooocd�zzlow�Y[K[33Cembox>logooooooiou�poooooooooooooocd�zzlow�Y[K[34Cembox>logooooooiou�pooooooooooooooocd�zzlow�Y[K[35Cembox>logooooooiou�poooooooooooooooocd�zzlow�Y[K[36Cembox>logooooooiou�pooooooooooooooooocd�zzlow�Y[K[37Cembox>logooooooiou�poooooooooooooooooocd�zzlow�Y[K[38Cembox>logooooooiou�pooooooooooooooooooocd�zzlow�Y[K[39Cembox>logooooooiou�poooooooooooooooooooocd�zzlow�Y[K[40Cembox>logooooooiou�pooooooooooooooooooooocd�zzlow�Y[K[41Cembox>logooooooiou�poooooooooooooooooooooocd�zzlow�Y[K[42Cembox>logooooooiou�pooooooooooooooooooooooocd�zzlow�Y[Kembox>logooooooiou�poooooooooooooooooooooooocd�zzlow�Y[Kembox>logooooooiou�pooooooooooooooooooooooooocd�zzlow�Y[Kembox>logooooooiou�poooooooooooooooooooooooooocd�zzlow�Y[Kembox>logooooooiou�pooooooooooooooooooooooooooOcd�zzlow�Yembox>logooooooiou�pooooooooooooooooooooooooooOcd�zzlow�Yembox>logooooooiou�pooooooooooooooooooooooooooO�cd�zzlow�Yembox>logooooooiou�pooooooooooooooooooooooooooO�ocd�zzlow�Yembox>logooooooiou�pooooooooooooooooooooooooooO�oucd�zzlow�Y
+logooooooiou�pooooooooooooooooooooooooooO: Command not found
+tish error: #-2
+embox>
+embox>
+�embox>logooooooiou�pooooooooooooooooooooooooooO[K�zdov���tM
+logooooooiou�pooooooooooooooooooooooooooO�zdov���: Command not found
+tish error: #-2
+embox>
+$@��
+embox>
+embox>
+��zlowembox>[K[55C�oZM
+logooooooiou�pooooooooooooooooooooooooooO�zdov���: Command not found
+tish error: #-2
+embox>
+embox>[K[55C�z@logoutwembox>logooooooiou�pooooooooooooooooooooooooooO�ouM
+logooooooiou�pooooooooooooooooooooooooooO: Command not found
+tish error: #-2
+embox>
+embox>[K[55Ccd3zlowembox>[K[47C�QuM
+logooooooiou�pooooooooooooooooooooooooooO: Command not found
+tish error: #-2
+embox>
+W�embox>logooooooiou�pooooooooooooooooooooooooooO�zdov���cd3hi�embox>logooooooiou�pooooooooooooooooooooooooooO!p�g
+logooooooiou�pooooooooooooooooooooooooooO!p�g: Command not found
+tish error: #-2
+embox>
+WG�embox>[K[60Cpi����������������embox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[79Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>logooooooiou�pooooooooooooooooooooooooooO[K[47Cp�g
+logooooooiou�pooooooooooooooooooooooooooOp�g: Command not found
+tish error: #-2
+embox>
+�pi�embox>[K[50C!p�g
+logooooooiou�pooooooooooooooooooooooooooOp�g!p�g: Command not found
+tish error: #-2
+embox>
+������embox>[K[50C�!embox>�[K[7Cg
+�: Command not found
+tish error: #-2
+embox>
+export��embox>
+export�[K[17C�qx7ln}���W��eembox>�[K[7Cpi���$!w�g
+�pi��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l@��
+@��: Command not found
+tish error: #-2
+embox>
+W�pi�!�g
+@���g: Command not found
+tish error: #-2
+embox>
+W�!p�g
+@��!p�g: Command not found
+tish error: #-2
+embox>
+W�p��pg
+@���gp��: Command not found
+tish error: #-2
+embox>
+W�p�g
+W: Command not found
+tish error: #-2
+embox>
+W�pi�!!_�g
+@��!_�g: Command not found
+tish error: #-2
+embox>
+W�pi�export!p�g
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

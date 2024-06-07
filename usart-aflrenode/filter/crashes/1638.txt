@@ -1,0 +1,83 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��eembox>
+��e[K[10Cembox>
+��e[K[10Ceembox>
+��ee[K[11Cembox>
+��ee[K[11C�rpembox>
+��ee�r[K[14C[?5h[?5lembox>
+[K[7Cx�rpembox>
+x�r[K[11C[?5h[?5lembox>�[K[7Cx1
+�x1: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+��x u�o`ou,$g�[?5h[?5l�#
+��x: Command not found
+tish error: #-2
+embox>
+d#�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+embox>
+��g��vogout#u,,o�[?5h[?5lembox>
+��g��vogout#u,,o�[?5h[?5lembox>�
+��g��vogout#u,,o�[?5h[?5lembox>�#
+��g��vogout#u,,o�[?5h[?5l
+�#: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+��xx ndo�e�o ```x�obt�rtg�[?5h[?5l�<
+��xx: Command not found
+tish error: #-2
+embox>
+��#
+��#: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�[H[H[2Jg�[?5h[?5l�'
+�g�[?5h[?5l�': Command not found
+tish error: #-2
+embox>
+��e��e�o`ou,.g�[?5h[?5l�#
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

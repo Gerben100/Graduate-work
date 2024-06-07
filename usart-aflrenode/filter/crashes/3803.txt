@@ -1,0 +1,162 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+���embox>�[K[7C{embox>�{[K[6Cembox>a�{[K[7Cembox>at�{[K[8Cembox>at@�{[K[9Cembox>at@��{[K[10Cembox>at@��{[K[11Cembox>at@�c�{[K[12Cembox>at@�cd�{[K[13Cembox>at@�cda�{[K[14Cembox>at@�cda�{[K[15Cembox>at@�cda��{[K[16Cembox>at@�cda���{[K[17C
+at@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>e
+[K[7Cembox>e
+[K[8Cembox>e�
+[K[9Cembox>e�
+[K[10Cembox>e�
+[K[11Cembox>e�t
+[K[12Cembox>e�t�
+[K[13Cembox>e�t��
+[K[14Cembox>e�t��
+[K[15C
+embox>���t���
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+P(embox>
+P([K[9Cembox>
+P�([K[10Cembox>
+P��([K[11Cembox>
+P���([K[12Cembox>
+P���([K[11Cembox>
+P���([K[12Cembox>
+P����([K[13Cembox>
+P�����([K[14Cembox>
+P������([K[15Cembox>
+P������([K[16Cembox>
+P�����i�([K[17Cembox>
+P�����it�([K[18Cembox>
+P�����it��([K[19Cembox>
+P�����it��([K[20C
+P: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+��[K[8Cembox>
+���[K[9Cembox>
+����[K[10Cembox>
+�����[K[11Cembox>
+������[K[12Cembox>
+�������[K[13Cembox>
+��������[K[14Cembox>
+��������[K[15C
+��������: Command not found
+tish error: #-2
+embox>
+�(�(embox>
+�(�([K[12Cembox>
+�(��([K[13Cembox>
+�(��([K[14C[?5h[?5lembox>
+�(���([K[15Cembox>
+�(����([K[16Cembox>
+�(����([K[17C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K[8C"
+�": Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>�
+[K[7C
+�: Command not found
+tish error: #-2
+embox>
+(exportembox>
+(export[K[15Cembox>
+(expor�t[K[16Cembox>
+(expor��t[K[17Cembox>
+(expor�� t[K[18Cembox>
+(expor�� �tembox>
+(expor�� �tembox>
+(expor�� �tembox>
+(expor�� ��tembox>
+(expor�� ���tembox>
+(expor�� ���t
+tish error: #-22
+embox>
+�expo�t����
+�: Command not found
+tish error: #-2
+embox>
+�(embox>
+�([Kembox>
+��([Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23C
+�: Command not found
+tish error: #-2
+embox>
+�((������embox>
+�[K�����
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>
+�[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+�&embox>
+�&[Kembox>
+��&[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[6Cembox>[K[7Cembox>[K[8C
+�: Command not found
+tish error: #-2
+embox>
+(embox>
+(embox>
+�(embox>
+��(embox>
+���(embox>
+����(embox>
+���� (embox>
+���� �(embox>
+���� ��(embox>
+���� ���(embox>
+���� ���@(
+����: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��eexport�hcd�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

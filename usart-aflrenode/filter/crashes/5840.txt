@@ -1,0 +1,390 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�m��e�expt�G5embox>�m��e�expt�G5[K[24Cembox>�m��e�expt�G5[K[25Cembox>�m��e�expt�G5[[K[26Cembox>�m��e�expt�G5[p[K[27Cembox>�m��e�expt�G5[pt[K[28Cembox>�m��e�expt�G5[pt6[K[29Cembox>�m��e�expt�G5[pt6I[K[30Cembox>�m��e�expt�G5[pt6I5[K[31Cembox>�m��e�expt�G5[pt6I56[K[32Cembox>�m��e�expt�G5[pt6I56@[K[33Cembox>�m��e�expt�G5[pt6I56@S[K[34Cembox>�m��e�expt�G5[pt6I56@Sx[K[35Cembox>�m��e�expt�G5[pt6I56@S[K[34Cembox>�m��e�expt�G5[pt6I56@S�[K[35Cembox>�m��e�expt�G5[pt6I56@S��[K[36Cembox>�m��e�expt�G5[pt6I56@S���[K[37Cembox>�m��e�expt�G5[pt6I56@S���5[K[38Cembox>�m��e�expt�G5[pt6I56@S���5'[K[39Cembox>�m��e�expt�G5[pt6I56@S���5'>[K[40Cembox>�m��e�expt�G5[pt6I56@S���5'>1[K[41Cembox>�m��e�expt�G5[pt6I56@S���5'>1@[K[42Cembox>�m��e�expt�G5[pt6I56@S���5'>1@�[K[43Cembox>�m��e�expt�G5[pt6I56@S���5'>1@�@[K[44C
+�m��e: Command not found
+tish error: #-2
+embox>
+m�exit�embox>
+m�exit�[K[6Cembox>e
+m�exit�[K[7Cembox>e�
+m�exit�[K[8Cembox>eہ
+m�exit�[K[9Cembox>eہ�
+m�exit�[K[10Cembox>eہ�e
+m�exit�[K[11Cembox>eہ�ex
+m�exit�[K[12Cembox>eہ�exp
+m�exit�[K[13Cembox>eہ�expt
+m�exit�[K[14Cembox>eہ�expt6
+m�exit�[K[15Cembox>eہ�expt6d
+m�exit�[K[16Cembox>eہ�expt6d5
+m�exit�[K[17Cembox>eہ�expt6d5
+m�exit�[K[18Cembox>eہ�expt6d5
+m�exit�[K[19Cembox>eہ�expt6d5
+m�exit�[K[20Cembox>eہ�expt6d5
+m�exit�[K[19Cembox>eہ�expt6d5
+m�exit�[K[20Cembox>eہ�expt6d5[
+m�exit�[K[21Cembox>eہ�expt6d5[b
+m�exit�[K[22Cembox>eہ�expt6d5[bt
+m�exit�[K[23Cembox>eہ�expt6d5[bt6
+m�exit�[K[24Cembox>eہ�expt6d5[bt6I
+m�exit�[K[25Cembox>eہ�expt6d5[bt6I5
+m�exit�[K[26Cembox>eہ�expt6d5[bt6I56
+m�exit�[K[27Cembox>eہ�expt6d5[bt6I56@
+m�exit�[K[28Cembox>eہ�expt6d5[bt6I56@S
+m�exit�[K[29Cembox>eہ�expt6d5[bt6I56@Sx
+m�exit�[K[30Cembox>eہ�expt6d5[bt6I56@Sxp
+m�exit�[K[31Cembox>eہ�expt6d5[bt6I56@Sxpt
+m�exit�[K[32Cembox>eہ�expt6d5[bt6I56@Sxpte
+m�exit�[K[33Cembox>eہ�expt6d5[bt6I56@Sxptex
+m�exit�[K[34Cembox>eہ�expt6d5[bt6I56@Sxptexi
+m�exit�[K[35Cembox>eہ�expt6d5[bt6I56@Sxptexit
+m�exit�[K[36Cembox>eہ�expt6d5[bt6I56@Sxptexit6
+m�exit�[K[37Cembox>eہ�expt6d5[bt6I56@Sxptexit6@
+m�exit�[K[38Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5
+m�exit�[K[39Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5'
+m�exit�[K[40Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5'>
+m�exit�[K[41Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5'>1
+m�exit�[K[42Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5'>1@
+m�exit�[K[43Cembox>eہ�expt6d5[bt6I56@Sxptexit6@5'>1@@
+m�exit�[K[44C
+eہ�expt6d5: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+embox>@[K[7Cmx�embox>@mx�[K[6Cembox>@mx�[K[7Cembox>N@mx�[K[8Cembox>N�@mx�[K[9Cembox>N��@mx�[K[10Cembox>N��e@mx�[K[11Cembox>N��ex@mx�[K[12Cembox>N��exp@mx�[K[13Cembox>N��expt@mx�[K[14Cembox>N��expt6@mx�[K[15Cembox>N��expt6G@mx�[K[16Cembox>N��expt6G5@mx�[K[17Cembox>N��expt6G5@mx�[K[18Cembox>N��expt6G5@mx�[K[19Cembox>N��expt6G5�@mx�[K[20Cembox>N��expt6G5�@mx�[K[6Cembox>N��expt6G5�@mx�[K[7Cembox>[N��expt6G5�@mx�[K[8Cembox>[pN��expt6G5�@mx�[K[9Cembox>[ptN��expt6G5�@mx�[K[10Cembox>[pt�N��expt6G5�@mx�[K[11C
+embox>56(Sx
+embox>�exit@@@
+�exit@@@: Command not found
+tish error: #-2
+embox>
+embox>�exit@@@[K[14Ccd��eN��expt6G5embox>�exit@@@cd��eN��expt6G5[K[32Cembox>�exit@@@cd��eN��expt6G5[K[33Cembox>�exit@@@cd��eN��expt6G5[[K[34Cembox>�exit@@@cd��eN��expt6G5[p[K[35Cembox>�exit@@@cd��eN��expt6G5[pt[K[36Cembox>�exit@@@cd��eN��expt6G5[pt6[K[37Cembox>�exit@@@cd��eN��expt6G5[pt6I[K[38Cembox>�exit@@@cd��eN��expt6G5[pt6I5[K[39Cembox>�exit@@@cd��eN��expt6G5[pt6I56[K[40Cembox>�exit@@@cd��eN��expt6G5[pt6I56@[K[41Cembox>�exit@@@cd��eN��expt6G5[pt6I56@S[K[42Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sx[K[43Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxp[K[44Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxpt[K[45Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxpte[K[46Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptex[K[47Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexp[K[48Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexpo[K[49Cembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexporembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexportembox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexport@embox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexport@@embox>�exit@@@cd��eN��expt6G5[pt6I56@Sxptexport@@@[K[54C
+�exit@@@cd��: Command not found
+tish error: #-2
+embox>
+embox>�exit@@@cd��[K[18C,��lN��A++expt6G5[pt6I5)@Sxpt6)5'>1@@@
+�exit@@@cd��: Command not found
+tish error: #-2
+embox>
+embox>�exit@@@cd��[K[18C6I56@Txpt6)5'>I52@jxpt6)5'>"@@@
+�exit@@@cd��6I56@Txpt6)5'>I52@jxpt6)5'>"@@@: Command not found
+tish error: #-2
+embox>
+embox>�exit@@@cd��[K[18C�je�|@�embox>�exit@@@[K[14C�je�|@�ex|t�[?5h[?5leNort6@�|@@�rt6@Sxp1@t@
+�exit@@@�je�|@�: Command not found
+tish error: #-2
+embox>
+�
+embox>ls
+embox>
+embox>�exit@@@�je�|@�m��[plsI56@Sxpt6)5'>1@@@
+�exit@@@�je�|@�m��[plsI56@Sxpt6)5'>1@@@: Command not found
+tish error: #-2
+embox>
+embox>�exit@@@�je�|@�pin�eNembox>�exit@@@�je�|@�pin�eNembox>��exit@@@�je�|@�pin�eNembox>�a�exit@@@�je�|@�pin�eNembox>�ax�exit@@@�je�|@�pin�eNembox>�axp�exit@@@�je�|@�pin�eNembox>�axpt�exit@@@�je�|@�pin�eNembox>�axpt6�exit@@@�je�|@�pin�eNembox>�axpt6G�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5�exit@@@�je�|@�pin�eNembox>�axpt6G5[�exit@@@�je�|@�pin�eNembox>�axpt6G5[p�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I5�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@S�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sx�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxp�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6)�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6)5�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6)5'�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6)5'>�exit@@@�je�|@�pin�eNembox>�axpt6G5[pt6I56@Sxpt6)5'>1�exit@@@�je�|@�pin�eNembox>[K[36Cembox>[K[37Cembox>[K[36C
+�axpt6G5: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>�
+��[K[8Cembox>�
+��[K[9Cembox>��
+��[K[10Cembox>���
+��[K[11Cembox>����
+��[K[12Cembox>�����
+��[K[13Cembox>�����
+��[K[14Cembox>�����
+��[K[6Cembox>������
+��[K[7Cembox>������
+��[K[8Cembox>�>�����
+��[K[9Cembox>�>������
+��[K[10Cembox>�>������
+��[K[11Cembox>�>������
+��[K[10Cembox>�>������
+��embox>�>�������
+��embox>�>��������
+��embox>�>��������
+��
+�: Command not found
+tish error: #-2
+embox>
+embox>�[Ki.�
+�i: Command not found
+tish error: #-2
+embox>
+embox>�ii�embox>[K[6C
+embox>
+��oembox>
+��jembox>
+��j
+��: Command not found
+tish error: #-2
+embox>
+��
+embox>
+mw�
+embox>�
+embox>
+i���
+embox>
+i��Out-
+i��Out-: Command not found
+tish error: #-2
+embox>
+i ���
+i: Command not found
+tish error: #-2
+embox>
+j
+j: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+h�����
+��m��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+eiitid
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+i
+h���i: Command not found
+tish error: #-2
+embox>
+w
+h���: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��i[H[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J[H[2J/[H[2J
+h���: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�+��
+embox>
+p�
+p�: Command not found
+tish error: #-2
+embox>
+e^itdl[gout
+h���e^it: Command not found
+tish error: #-2
+embox>
+"���
+h�����: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+y�
+h���y�: Command not found
+tish error: #-2
+embox>
+>a
+>a: Command not found
+tish error: #-2
+embox>
+~��
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+W: Command not found
+tish error: #-2
+embox>
+D
+h���D: Command not found
+tish error: #-2
+embox>
+W�d
+h���W�d: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+l
+tish error: #-22
+embox>
+
+embox>
+�%
+�%: Command not found
+tish error: #-2
+embox>
+�ei�l
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+}}
+}}: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+
+
+@
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+s
+h���: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���m�����
+���m�����: Command not found
+tish error: #-2
+embox>
+"i�
+"i�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+MM
+MM: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+l
+embox>
+M
+M: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+lllllll
+lllllll: Command not found
+tish error: #-2
+embox>
+ttt����{���tttd��ttt�t�
+h����{���: Command not found
+tish error: #-2
+embox>
+
+
+tish error: #-22
+embox>
+�
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+i�[?5h[?5l
+i�: Command not found
+tish error: #-2
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+0)000000(000�00�0000000
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

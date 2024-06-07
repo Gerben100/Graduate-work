@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l222222222222222222��222sCr�xCi�z�ye[?5h[?5lix�
+l222222222222222222��222sCr: Command not found
+tish error: #-2
+embox>xl��jlt�embox>xl��jlt�[K[13Cembox>xl��jlty�[K[14Cembox>xl��jltye�[K[15Cembox>xl��jltye��[K[16C
+xl��jltye��: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[10Cembox>
+�y�[K[11Cembox>
+�ye�[K[12Cembox>
+�yey�[K[13Cembox>
+�yeye�[K[14Cembox>
+�yeye��[K[15C
+�: Command not found
+tish error: #-2
+embox>
+lsCr�xlxls�xLi�jls�embox>
+lsCr�xlxls�xLi�jls�[K[30Cembox>
+lsCr�xlxls�xLi�jlsy�[K[31Cembox>
+lsCr�xlxls�xLi�jlsye�[K[32Cembox>
+lsCr�xlxls�xLi�jlsye��[K[33C
+lsCr: Command not found
+tish error: #-2
+embox>
+�sCjl��embox>
+�sCjl��[K[13Cembox>
+�sCjl�y�[K[14Cembox>
+�sCjl�ye�[K[15Cembox>
+�sCjl�ye��[K[16C
+�sCjl�ye��: Command not found
+tish error: #-2
+embox>
+g�H
+g�: Command not found
+tish error: #-2
+embox>
+lsjls�embox>
+lsjls�[K[12Cembox>
+lsjlsy�[K[13Cembox>
+lsjlsye�[K[14Cembox>
+lsjlsyeS�[K[15Cembox>
+lsjlsyeSi�[K[16Cembox>
+lsjlsyeSi��[K[17Cembox>
+lsjlsyeSi�z�[K[18Cembox>
+lsjlsyeSi�z��embox>
+g�[K[9Cye[?5h[?5lix�xl��Cr�x?ogout�
+g�yei: Command not found
+tish error: #-2
+embox>
+lsCr�xLi�z�embox>[K[12Cye[?5h[?5lix�xl��jls�embox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32C
+g�yeiyei: Command not found
+tish error: #-2
+embox>
+lsCr�xLdembox>[K[15Cqe�2�
+g�yeiyeiqe�2�: Command not found
+tish error: #-2
+embox>
+lsCq��xLi�Z�embox>[Kye[?5h[?5lix�xl��jls�embox>[Kembox>[Kembox>[Kembox>[K
+g�yeiyeiqe�2�yei: Command not found
+tish error: #-2
+embox>
+lsCr�xKi�z�embox>[Kye[?5h[?5lix�dl��jls�embox>[Kembox>[Kembox>[Kembox>[K
+g�yeiyeiqe�2�yei: Command not found
+tish error: #-2
+embox>
+lsCr�xLi�z�embox>[Kye[?5h[?5lix�xl��jls�embox>[Kembox>[Kembox>[Kembox>[K
+g�yeiyeiqe�2�yei: Command not found
+tish error: #-2
+embox>
+lsC��xLi�z�embox>[Kye[?5h[?5lix�xl��jl��embox>[Kembox>[Kembox>[Kembox>[K
+g�yeiyeiqe�2�yei: Command not found
+tish error: #-2
+embox>
+��c[H[H[2Jembox>
+��c
+�lembox>[Kut
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

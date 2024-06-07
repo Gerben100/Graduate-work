@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>3��'
+3��': Command not found
+tish error: #-2
+embox>
+�lae��
+�lae��: Command not found
+tish error: #-2
+embox>
+3�.
+3�.: Command not found
+tish error: #-2
+embox>
+3��e�l/
+3��e�l/: Command not found
+tish error: #-2
+embox>
+3�NNNN/Nembox>
+3�NNNN/N[K[16Cembox>
+3�NNNN/N[K[17Cembox>
+3�NNNN/N[K[18Cembox>
+3�NNNN/�N[K[19Cembox>
+3�NNNN/�NN[K[20Cembox>
+3�NNNN/�N�N[K[21Cembox>
+3�NNNN/�N�@N[K[22Cembox>
+3�NNNN/�N�@N[K[23Cembox>
+3�NNNN/�N�@N[K[22Cembox>
+3�NNNN/�N�@tN[K[23Cembox>
+3�NNNN/�N�@ttN[K[24Cembox>
+3�NNNN/�N�@tt�N[K[25Cembox>
+3�NNNN/�N�@tt��N[K[26Cembox>
+3�NNNN/�N�@tt��6N[K[27Cembox>
+3�NNNN/�N�@tt��6tN[K[28Cembox>
+3�NNNN/�N�@tt��6N[K[27Cembox>
+3�NNNN/�N�@tt��6lN[K[28Cembox>
+3�NNNN/�N�@tt��6lNN[K[29Cembox>
+3�NNNN/�N�@tt��6lNNN[K[30Cembox>
+3�NNNN/�N�@tt��6lNNNN[K[31Cembox>
+3�NNNN/�N�@tt��6lNNNNN[K[32Cembox>
+3�NNNN/�N�@tt��6lNNNN�N[K[33Cembox>
+3�NNNN/�N�@tt��6lNNNN�@N[K[34Cembox>
+3�NNNN/�N�@tt��6lNNNN�@N[K[35Cembox>
+3�NNNN/�N�@tt��6lNNNN�@N[K[34Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tN[K[35Cembox>
+3�NNNN/�N�@tt��6lNNNN�@ttN[K[36Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt�N[K[37Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��N[K[38Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6N[K[39Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6tN[K[40Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6N[K[39Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6lN[K[40Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6l�N[K[41Cembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6l�mN[Kembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6l�mNN[Kembox>
+3�NNNN/�N�@tt��6lNNNN�@tt��6l�mNtN[K
+3�: Command not found
+tish error: #-2
+embox>
+3�embox>
+3[K[8Cgogo@t��xt___________�_____mot
+3gogo@t��xt___________�_____mot: Command not found
+tish error: #-2
+embox>
+3�tembox>
+3�[K[9Clo�tt
+3�lo�tt: Command not found
+tish error: #-2
+embox>
+3�t��x�}lomot
+3�t��x�}lomot: Command not found
+tish error: #-2
+embox>
+m
+: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+3�
+3�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�
+tish error: #-22
+embox>
+3�l�i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

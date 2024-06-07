@@ -1,0 +1,117 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+#�eopiYoulo�Go��
+#�eopiYoulo�Go��: Command not found
+tish error: #-2
+embox>
+#0�uv
+#0�uv: Command not found
+tish error: #-2
+embox>
+embox>
+#0�uv[K[12C embox>
+#0�uv [K[6C
+#0�uv: Command not found
+tish error: #-2
+embox>
+#+
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+embox>[K[6CG#o�t
+G#o�t: Command not found
+tish error: #-2
+embox>
+#�A�665embox>
+#�A�665[K[6Cembox>6
+#�A�665[K[7Cembox>6@
+#�A�665[K[8Cembox>6@@
+#�A�665[K[9Cembox>6@@
+#�A�665[K[10Cembox>6@@
+#�A�665[K[9Cembox>6@@�
+#�A�665[K[10Cembox>6@@��
+#�A�665[K[11Cembox>6@@��@
+#�A�665[K[12Cembox>6@@��@@
+#�A�665[K[13Cembox>6@@��@@@
+#�A�665[K[14Cembox>6@@��@@@"
+#�A�665[K[15Cembox>6@@��@@@"@
+#�A�665[K[16Cembox>6@@��@@@"@@
+#�A�665[K[17Cembox>6@@��@@@"@
+@#�A�665[K[18Cembox>6@@��@@@"@
+@�#�A�665[K[19Cembox>6@@��@@@"@
+@�?#�A�665[K[20Cembox>6@@��@@@"@
+@�??#�A�665[K[21Cembox>6@@��@@@"@
+@�?#?�A�665[K[22Cembox>6@@��@@@"@
+@�?#?�A�665[K[23Cembox>6@@��@@@"@
+@�?#�?A�665[K[24Cembox>6@@��@@@"@
+@�?#�?A�665[K[25Cembox>6@@��@@@"@
+@�?#�?�A�665[K[26Cembox>6@@��@@@"@
+@�?#�?A��665[K[27Cembox>6@@��@@@"@
+@�?#�?A��665[K[28Cembox>6@@��@@@"@
+@�?#�?A�6�65[K[29Cembox>6@@��@@@"@
+@�?#�?A�66�5[K[30Cembox>6@@��@@@"@
+@�?#�?A�665�[K[31C
+6@@��@@@"@: Command not found
+tish error: #-2
+embox>@@=@
+embox>
+#
+#: Command not found
+tish error: #-2
+embox>
+"embox>[K[6C7@@embox>7@@[K[10C@o@@@�D@?�?ls@?@
+7@: Command not found
+tish error: #-2
+embox>
+#�og�@?@
+#�og�@?@: Command not found
+tish error: #-2
+embox>
+C,665ls6@?@6ls6@@?ls6@@^�@c@@?�?embox>[K[43C���
+C,665ls6@?@: Command not found
+tish error: #-2
+embox>
+#logoutdcdA�s6@@�����@@
+#logoutdcdA�: Command not found
+tish error: #-2
+embox>@@@$
+embox>�o@@@H@@?�
+?@�o@@@H@@?�: Command not found
+tish error: #-2
+embox>
+#�@@�@@���@@@@@@@@@?@H@@?�@@?@��@@@@@@
+#�@@@@��@@@@@@@@@?@H@@?�: Command not found
+tish error: #-2
+embox>@@@?@H@@?�@@?@
+@@@?@H@@?�: Command not found
+tish error: #-2
+embox>
+#�A�665ls6@@@@@@@@?@@o>
+embox>�@?�@@?
+�@?�: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+#�@@@;@@@@@?@@o@@@H@@?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

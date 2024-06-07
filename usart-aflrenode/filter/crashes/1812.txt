@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�9
+�9: Command not found
+tish error: #-2
+embox>
+^�e$
+^�: Command not found
+tish error: #-2
+embox>
+�oxp}@exit
+�oxp: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+`ogd
+`ogd: Command not found
+tish error: #-2
+embox>
+ao7dembox>
+ao7d[K[11Cembox>
+ao7ds[K[12C
+ao7ds: Command not found
+tish error: #-2
+embox>
+`�exit
+`�exit: Command not found
+tish error: #-2
+embox>
+�ogd�Fogdwqs
+�ogd: Command not found
+tish error: #-2
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+sowl`
+so: Command not found
+tish error: #-2
+embox>
+]]gdwls
+]]gdwls: Command not found
+tish error: #-2
+embox>
+mlogout
+mlogout: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+`ot�e��els
+`ot�e��els: Command not found
+tish error: #-2
+embox>
+`ogdrcdls
+`ogdrcdls: Command not found
+tish error: #-2
+embox>
+l"pin
+pin: Command not found
+tish error: #-2
+embox>
+�
+`ot�e��els: Command not found
+tish error: #-2
+embox>
+dcd
+dcd: Command not found
+tish error: #-2
+embox>
+nnw
+nnw: Command not found
+tish error: #-2
+embox>
+`ogd�:mo56656>��
+embox>@@@@@v��@??@@@�765N>5@@d��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

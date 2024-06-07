@@ -1,0 +1,264 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�c�cd�embox>�c�cd[K[12Cembox>�c�cd[K[13Cembox>�c�cd[K[14Cembox>�c�cdc[K[15Cembox>�c�cdc;[K[16Cembox>�c�cdc;d[K[17Cembox>�c�cdc;dd[K[18Cembox>�c�cdc;ddx[K[19Cembox>�c�cdc;ddx[K[20Cembox>�c�cdc;ddx[K[21Cembox>�c�cdc;ddx[K[20Cembox>�c�cdc;ddx[K[21Cembox>�c�cdc;ddxc[K[22Cembox>�c�cdc;ddxc�[K[23C
+�c�cdc;ddx: Command not found
+tish error: #-2
+embox>
+P
+P: Command not found
+tish error: #-2
+embox>
+i?^�Vembox>
+i?^�[K[12Cembox>
+i?^�[K[6Cembox>�
+i?^�[K[7Cembox>�s
+i?^�[K[8Cembox>�s
+i?^�[K[9Cembox>�si?^�[K[9Cembox>�s�i?^�[K[10Cembox>�s��i?^�[K[11Cembox>�s���i?^�[K[12Cembox>�s���8i?^�[K[13Cembox>�s���8li?^�[K[14Cembox>�s���8loi?^�[K[15C
+�s: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+iembox>
+[K[9C^�V�sw�8lo
+tish error: #-22
+embox>
+�embox>
+�[K[10C
+�: Command not found
+tish error: #-2
+embox>
+i��embox>[K[6Cqqqqqqqqqqqqqqqqqqembox>[K[6Cqqqqqqqqqqqqqqqfqqqqqqq
+embox>qqqqqqqqqqqqqqqqqqqqfqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqfqqqqqqqq: Command not found
+tish error: #-2
+embox>
+i��embox>[K[6Cxdh�embox>xdh�[K[10Cembox>xdh�[K[11Cembox>xdh��[K[12Cembox>xdh�W�[K[13Cembox>[K[6C������������������������embox>[K[6Cxdembox>x[K[8Ch
+embox>+embox>+[K[6C
++: Command not found
+tish error: #-2
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+����/K�embox>
+����/K[K[17CJ+�embox>[K[6Cxdembox>x[K[8Ch+embox>xh+[K[9C
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+i��embox>[K[6Cxdh+embox>xdh+[K[10Cembox>xdh+[K[11Cembox>xdh�+[K[12Cembox>xdh�W+[K[13Cembox>[K[6C��xdh+embox>��xdh+[K[14Cembox>��xdh+[K[15Cembox>��xdh�+[K[16Cembox>��xdh�W+[K[17Cembox>��xdh�+[K[16Cembox>��xdh��+[K[17Cembox>��xdh��+[K[18Cembox>��xdh���+[K[19Cembox>��xdh���/+[K[20Cembox>��xdh���/+[K[21Cembox>��xdh���/[K[21Cxdembox>��xdh���/x[K[22Chembox>��xdh���/x[K[22C�embox>[K[6Cxdembox>x[K[8Ch
+embox>�Wembox>[K[6C��xdh+embox>��xdh+[K[14Cembox>��xdh+[K[15Cembox>��xdh�+[K[16Cembox>��xdh�W+[K[17Cembox>��xdh�+[K[16Cembox>��xdh��+[K[17Cembox>��xdh��+[K[18Cembox>��xdh���+[K[19Cembox>��xdh���/+[K[20Cembox>��xdh���/+[K[21Cembox>��xdh���/[K[21Cxdembox>��xdh���/x[K[22Ch++embox>��xdh���/xh++
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+i��embox>[K[6Cxdh+embox>xdh+[K[10Cembox>xdh+[K[11Cembox>xdh�+[K[12Cembox>xdh�W+[K[13Cembox>[K[6C��xdh+embox>��xdh+[K[14Cembox>��xdh+[K[15Cembox>��xdh�+[K[16Cembox>��xdh�W+[K[17Cembox>��xdh�W�+[K[18Cembox>��xdh�W��+[K[19Cembox>��xdh�W��+[K[20Cembox>��xdh�W���+[K[21Cembox>��xdh�W���/+[K[22Cembox>��xdh�W���/+embox>��xdh�W���/[K[23Coxph+�embox>[K[6Cxdembox>x[K[8Ch
+embox>+embox>+[K[6Cembox>+[K[7Cembox>�+[K[8Cembox>��+[K[9Cembox>�+[K[8Cembox>�+[K[9C
+�: Command not found
+tish error: #-2
+embox>
+i��embox>[KWembox>[K��/xdxdhx�Wembox>[K��xdh+embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[21Cxdembox>[K[22C
+embox>h+�embox>[Kxdembox>x[Kh+embox>xh+[Kembox>xhx+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[14C�dh+embox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[24Cxdembox>[K[25Ch+�embox>[Kxdembox>x[Kh+embox>xh+[Kembox>xhx+[Kembox>[K[11C
+embox>hx�Wembox>[K��xdh+embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[21Cxdembox>[K[22C
+embox>�Wembox>[K��xdh+embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[17Cembox>[K[18C
+embox>�/xdembox>�/x[K
+�/: Command not found
+tish error: #-2
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+i��xdh+x
+embox>dh+
+h��@: Command not found
+tish error: #-2
+embox>
+xdexporth+
+embox>
+embox>�"$
+�": Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+����wdh+��xdh+xdh+�x h
+embox>+
++: Command not found
+tish error: #-2
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+#$$$#$$$$$.�$$&�
+tish error: #-22
+embox>
+i��xp
+embox>
+i��xdh+��xd+�x�h+
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+i��xdh+��xdh+
+embox>�@�
+�@: Command not found
+tish error: #-2
+embox>
+i���W��/xdh+�xdh+xdh+��xdh+
+embox>pin�W��/xdh+�xdh+
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+i����xdh+x{h+�
+embox>+[H[H[2J�dh+xdh[H[2J
+embox>W��xdh+��dh+
+embox>
+embox>
+cd�
+cd�: Command not found
+tish error: #-2
+embox>
+i 
+i: Command not found
+tish error: #-2
+embox>
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�i_
+embox>x�i_
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�?@�
+tish error: #-22
+embox>
+5�
+5�: Command not found
+tish error: #-2
+embox>
+��x
+��x: Command not found
+tish error: #-2
+embox>
+�����[?5h[?5li�
+�����[?5h[?5li�: Command not found
+tish error: #-2
+embox>
+��ols
+: Command not found
+tish error: #-2
+embox>
+�d�k �
+ort��y
+tish error: #-22
+embox>
+�rdlpin
+h��@lpin: Command not found
+tish error: #-2
+embox>
+;�
+tish error: #-22
+embox>
+f��
+embox>
+�i[H[H[2J�
+tish error: #-22
+embox>
+�ill�
+�ll�: Command not found
+tish error: #-2
+embox>
+ 
+h��@: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+[H[H[2Jb
+h��@: Command not found
+tish error: #-2
+embox>
+is��
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+�/: Command not found
+tish error: #-2
+embox>
+�����
+����: Command not found
+tish error: #-2
+embox>
+�h�ts
+tish error: #-22
+embox>
+;@p�
+;@p�: Command not found
+tish error: #-2
+embox>
+�p
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>i�@T
+i�@T: Command not found
+tish error: #-2
+embox>
+iL��s
+tish error: #-22
+embox>
+i%
+h��@: Command not found
+tish error: #-2
+embox>
+j�
+embox>
+embox>
+AW
+tish error: #-22
+embox>
+Gbbbpin�dbbbbls
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

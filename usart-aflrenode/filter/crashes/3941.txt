@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ppppppppexportpppppppppppppppppppppppppppppppOpR
+embox> appppppppppppppTpppembox>[K[6C�+
+�+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C^lembox>^l[K[6Cembox>^l[K[7Cembox>�^l[K[8Cembox>��^l[K[9Cembox>���^l[K[10Cembox>���^l[K[11Cembox>���^l[K[12Cembox>���^l[K[13Cembox>����^l[K[14Cembox>����^l[K[15Cembox>���肶^l[K[16Cembox>���肶^l[K[17Cembox>���肶^l[K[18Cembox>���肶^l[K[19Cembox>���肶^l[K[20Cembox>���肶e^l[K[21Cembox>���肶ex^l[K[22Cembox>���肶ex)^l[K[23Cembox>���肶ex)t^l[K[24Cembox>���肶ex)t^l[K[25Cembox>���肶ex)t^l[K[26Cembox>���肶ex)t^l[K[27Cembox>���肶ex)t�^l[K[28C
+embox>
+$�embox>
+$[K[8C�embox>
+$[K[8C
+$: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�xx8xxxx�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C^�+embox>^�+[K[9C
+^�+: Command not found
+tish error: #-2
+embox>
+[?5h[?5lxlogout[?5h[?5l[?5h[?5l
+[?5h[?5lxlogout[?5h[?5l[?5h[?5l: Command not found
+tish error: #-2
+embox>
+d��embox>
+d��[K[6C
+d: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xi
+xi: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+iembox>
+[K[7C
+tish error: #-22
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>x%iembox>[K[6C
+embox>x%i�
+x%i: Command not found
+tish error: #-2
+embox>
+�ExX�embox>[Kut�r�qembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>x%i[K
+x%i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�xdle
+�xdle: Command not found
+tish error: #-2
+embox>
+{{{{ix
+{{{{ix: Command not found
+tish error: #-2
+embox>
+n
+embox>pL
+pL: Command not found
+tish error: #-2
+embox>
+
+embox>x%i�66tpio
+embox>�o�56>6@5 
+embox>p@\@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

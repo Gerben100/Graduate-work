@@ -1,0 +1,313 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>^embox>^[K[8Cembox>^[K[9Cembox>^o[K[10Cembox>^ol[K[11Cembox>^olo[K[12Cembox>^oloJ[K[13Cembox>^oloJ@[K[14Cembox>^oloJ@@[K[15Cembox>^oloJ@@@[K[16Cembox>^oloJ@@@@[K[17Cembox>^oloJ@@@@�[K[18Cembox>^oloJ@@@@�S[K[19Cembox>^oloJ@@@@�Sb[K[20Cembox>^oloJ@@@@�Sbt[K[21Cembox>^oloJ@@@@�Sbtl[K[22Cembox>^oloJ@@@@�Sbtlt[K[23C
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>p
+[K[8Cembox>p�
+[K[9C
+embox>
+embox>nJ��ab{l
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>^
+[K[8Cembox>^
+[K[9Cembox>^
+[K[6Cembox>^
+[K[7Cembox>tish[K[10CZ�Sbtlo
+tishZ�Sbtlo: Command not found
+tish error: #-2
+embox>
+ oZexit[?5h[?5l�embox>
+ oZexit�[K[14Cembox>
+ oZexit��[K[15Cembox>
+ oZexit�t�[K[16Cembox>
+ oZexit�t[?5h[?5l�[K[17Cembox>
+ oZexit�t[?5h[?5l�[K[18Cembox>
+ oZexit�t[?5h[?5lx�[K[19Cembox>
+ oZexit�t[?5h[?5lx�[K[20Cembox>
+ oZexit�t[?5h[?5lx[K[20C[?5h[?5l�embox>
+ oZexit�t[?5h[?5lx�[K[20Cembox>
+ oZexit�t[?5h[?5lx��[K[21Cembox>
+ oZexit�t[?5h[?5lx�t�[K[22Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l�[K[23Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l�[K[24Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��[K[25Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l���[K[26Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l���[K[27Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�[K[28Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/��[K[29Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�x�[K[30Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�x�[K[31Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�x�[K[30Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�x�[K[31Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�x�[K[30Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�xl�[K[31Cembox>
+ oZexit�t[?5h[?5lx�t[?5h[?5l��/�xl�[K[32C
+oZexit�t[?5h[?5lx: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>^
+[K[8Cembox>^
+[K[9Cembox>^
+[K[6Cembox>^
+[K[7Cembox>p^
+[K[8Cembox>pi^
+[K[9Cembox>pin^
+[K[10Cembox>pin�^
+[K[11Cembox>pin��^
+[K[12Cembox>pin���^
+[K[13Cembox>pin����^
+[K[14Cembox>pin�����^
+[K[15Cembox>pin�����S^
+[K[16Cembox>pin�����Sb^
+[K[17Cembox>pin�����Sbt^
+[K[18Cembox>pin�����Sbtl^
+[K[19Cembox>pin�����Sbtlo^
+[K[20C
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�^
+[K[8Cembox>�^
+[K[9Cembox>�^e
+[K[10Cembox>�^e
+[K[6Cembox>��^e
+[K[7Cembox>�p�^e
+[K[8Cembox>�po�^e
+[K[9Cembox>�por�^e
+[K[10Cembox>�port�^e
+[K[11Cembox>�porte�^e
+[K[12Cembox>�portex�^e
+[K[13Cembox>�portexp�^e
+[K[14Cembox>�portexpo�^e
+[K[15Cembox>�portexpor�^e
+[K[16Cembox>�portexport�^e
+[K[17Cembox>�portexport�^e
+[K[18Cembox>�portexport�^e
+[K[19Cembox>�portexport��^e
+[K[20Cembox>�portexport���^e
+[K[21C
+�portexport: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>
+�[K[8Cembox>
+�[K[9Cembox>
+�[K[8Cembox>x
+�[K[9Cembox>xe
+�[K[10Cembox>xex
+�[K[11Cembox>xexp
+�[K[12Cembox>xexpo
+�[K[13Cembox>xexpor
+�[K[14Cembox>xexport
+�[K[15Cembox>xexport�
+�[K[16Cembox>xexport�l
+�[K[17Cembox>xexport�lo
+�[K[18Cembox>xexport�lo�
+�[K[19Cembox>xexport�lo�l
+�[K[20Cembox>xexport�lo�lo
+�[K[21C
+embox>
+"l���l��
+(null): Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>^
+[K[8Cembox>^q
+[K[9Cembox>^q�
+[K[10Cembox>^q�^
+[K[11Cembox>^q�^e
+[K[12Cembox>^q�^e�
+[K[13Cembox>^q�^e�B
+[K[14Cembox>^q�^e�Bd
+[K[15Cembox>^q�^e�Bd
+[K[16Cembox>
+"l���l��[K[15Cx��ye�`pembox>
+"l���l��x��ye�`[K[26Cdnembox>
+"l���l��x��ye�`dn[K[27Cembox>
+"l���l��x��ye�`dn[K[28Cembox>
+"l���l��x��ye�`dln[K[29Cembox>
+"l���l��x��ye�`dlon[K[30Cembox>
+"l���l��x��ye�`dloJn[K[31Cembox>
+"l���l��x��ye�`dloJ�n[K[32Cembox>
+"l���l��x��ye�`dloJ�Sn[K[33Cembox>
+"l���l��x��ye�`dloJ�S�n[K[34Cembox>
+"l���l��x��ye�`dloJ�S�tn[K[35Cembox>
+"l���l��x��ye�`dloJ�S�tln[K[36Cembox>
+"l���l��x��ye�`dloJ�S�tlon[K[37C
+(null): Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>^
+[K[8Cembox>^
+[K[9Cembox>^
+[K[6Cembox>^
+[K[7Cembox>^
+[K[8Cembox>^
+[K[9Cembox>l^
+[K[10Cembox>lo^
+[K[11Cembox>loJ^
+[K[12Cembox>loJ�^
+[K[13Cembox>loJ�S^
+[K[14Cembox>loJ�Sb^
+[K[15Cembox>loJ�Sbt^
+[K[16Cembox>loJ�Sbtl^
+[K[17Cembox>loJ�Sbtlt^
+[K[18Cembox>loJ�Sbtltl^
+[K[19Cembox>loJ�Sbtltlo^
+[K[20C
+embox>
+
+tish error: #-22
+embox>
+cdembox>
+cd[K[6Cembox>
+cd[K[7Cembox>^
+cd[K[8Cembox>^
+cd[K[9Cembox>^�
+cd[K[10Cembox>^��
+cd[K[11Cembox>^��
+cd[K[12Cembox>^��
+cd[K[13Cembox>^��
+cd[K[12Cembox>^��
+cd[K[13Cembox>^��l
+cd[Kembox>^��lo
+cd[Kembox>^��loJ
+cd[K[16Cembox>^��loJ�
+cd[K[17Cembox>^��loJ��
+cd[K[18Cembox>^��loJ��
+cd[K[19Cembox>^��loJ���
+cd[Kembox>^��loJ��� 
+cd[Kembox>^��loJ��� l
+cd[Kembox>^��loJ��� ls
+cd[Kembox>^��loJ��� ls
+cdembox>^��loJ��� lsb
+cdembox>^��loJ��� lsbt
+cdembox>
+[K[7Co
+o: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>^
+[K[8Cembox>^�
+[K[9Cembox>^��
+[K[10Cembox>^���
+[K[11Cembox>^����
+[K[12Cembox>^����
+[K[13Cembox>^����
+[K[6Cembox>^����
+[K[7Cembox>^����
+[K[8Cembox>^����
+[K[9Cembox>^����
+[K[6Cembox>�^����
+[K[7Cembox>�^����
+[K[8Cembox>�^����
+embox>��^����
+embox>���^����
+embox>���^����
+embox>���^����
+embox>���^����
+embox>���^����
+embox>����^����
+embox>����^����
+embox>����^����
+embox>�����^����
+embox>������^����
+embox>���S���^����
+embox>���Sb���^����
+embox>���Sbt���^����
+embox>���Sbtl���^����
+embox>���Sbtlo���^����
+
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�^
+[K[8Cembox>�^
+[K[9Cembox>�^
+[K[6Cembox>�^
+[K[7Cembox>�^
+[K[8Cembox>�^
+[K[9Cembox>�^
+[K[8Cembox>�^
+[K[9Cembox>l�^
+[K[10Cembox>lo�^
+[K[11Cembox>loJ�^
+[K[12Cembox>loJ��^
+[K[13Cembox>loJ�S�^
+[K[14Cembox>loJ�Sb�^
+[K[15Cembox>�[K[7Clo
+�lo: Command not found
+tish error: #-2
+embox>
+ ^embox>
+ ^[Kembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>�lo[Ko
+�loo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+embox>�
+embox>�^
+embox>�^
+embox>�^
+embox>�^c
+embox>�^cd
+embox>�^cd�
+embox>�^cd�J
+embox>�^cd�J�
+embox>�^cd�J�s
+embox>�^cd�J�sb
+embox>�^cd�J�sbt
+embox>�^cd�J�sbtl
+
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+embox>loJ�Sbtlo
+embox>
+
+embox>
+
+embox>@�o�o
+@: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,176 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>/
+embox>�
+embox>4"
+embox> embox>[K[6Cembox>[K[8C�embox>[K[8C
+embox>
+/
+embox>
+embox>
+embox>4!
+embox> embox>[K[6C�|
+�|: Command not found
+tish error: #-2
+embox>
+/Y
+/Y: Command not found
+tish error: #-2
+embox>
+��Iembox>
+��[K[9C�embox>
+��[K[9C�embox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+[?5h[?5lontembox>
+[?5h[?5lon[K[11C
+tish error: #-22
+embox>
+��embox>
+�[K[8C5exit pin
+embox>
+�5exit [K[15Cembox>[K[6C���
+�: Command not found
+tish error: #-2
+embox>
+embox>
+��5(embox>
+��5([K[12Cembox>
+��5�([K[13Cembox>
+��5�([K[14Cembox>
+��5�([K[13Cembox>
+��5�([K[14Cembox>
+��5�([K[6Cembox>
+��5�([K[7Cembox>
+��5�([K[8Cembox>
+� �5�([K[9Cembox>
+� �5�([K[10Cembox>
+� �5�([K[11Cembox>
+� �5�([K[12Cembox>
+� � 5�([K[13Cembox>
+� � 5�([K[14Cembox>
+� � 5�([K[15Cembox>
+� � 5�X([K[16Cembox>
+� � 5�X�([K[17Cembox>
+� � 5�X�([K[18Cembox>
+� � 5�X�([K[19Cembox>
+� � 5�X�(p[K[20Cembox>
+� � 5�X�(pi[K[21Cembox>
+� � 5�X�(pin[K[22Cembox>
+� � 5�X�(pin[K[23Ccinembox>
+� � [K[13C�embox>
+� � �[K[14Cembox>
+� � �[K[15C!embox>
+� � �![K[6Cembox>
+� � �![K[17Cembox>
+� � �![K[16C
+�: Command not found
+tish error: #-2
+embox>[H[H[2Jembox>[K[6Ccin�embox>cin�[K[12Cembox>cin�[K[13Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+��5(embox>
+��5([K[12Cembox>
+��5�([K[13Cembox>
+��5�([K[14C pindembox>
+��5�( [K[15C&dembox>
+��5�( [K[15C6@@embox>
+��5�( 6@@[K��@@@@@@@
+�: Command not found
+tish error: #-2
+embox>@@?@@@@@@@@c@@@\@���
+@@?@@@@@@@@c@@@\@�: Command not found
+tish error: #-2
+embox>
+��(embox>
+��(embox>
+���(embox>
+���(��(embox>
+���(��(embox>
+���(���(embox>
+���(���(5
+�: Command not found
+tish error: #-2
+embox>
+��5(embox>[Kembox>[Kembox>[Kl  p�inembox>
+��embox>[K���
+��: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+��5(� ������
+�: Command not found
+tish error: #-2
+embox>
+��5(
+�: Command not found
+tish error: #-2
+embox> pin���
+�: Command not found
+tish error: #-2
+embox>
+��5( 4pin��[H[H[2J�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+��� pin��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+��O(yxexportin���pin
+��pin: Command not found
+tish error: #-2
+embox>lsls��!���
+lsls��!�: Command not found
+tish error: #-2
+embox>
+��in����
+�: Command not found
+tish error: #-2
+embox>
+��5( pin[?5h[?5l����
+��: Command not found
+tish error: #-2
+embox>
+embox>
+�ri�[?5h[?5l6�T@
+��: Command not found
+tish error: #-2
+embox>Q?exp@��UxpPrt
+�": Command not found
+tish error: #-2
+embox>
+�ri�[?5h[?5l
+embox>�c
+exit�: Command not found
+tish error: #-2
+embox>Q?exp@��UxpPrt
+�": Command not found
+tish error: #-2
+embox>
+�ri�[?5h[?5l
+embox>�c
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

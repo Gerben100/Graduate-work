@@ -1,0 +1,43 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[8Cembox>[K[9Cembox>�[K[10Cembox>�e[K[11Cembox>�ee[K[12Cembox>�eex[K[13Cembox>�eex[K[6Cembox>o�eex[K[7Cembox>o��eex[K[8Cembox>o��eex[K[7Cembox>o��eex[K[8Cembox>o��eex[K[9Cembox>o��eex[K[16C�[?5h[?5l� W�[?5h[?5l�k�embox>o��eex�[?5h[?5l� W�[?5h[?5l�k�[K[28Cembox>o��eex�[?5h[?5l� W�[?5h[?5l�k�[K[29Cembox>o��eex�[?5h[?5l� [K[21C
+o�: Command not found
+tish error: #-2
+embox>exit
+�embox>exit
+�[K[13Cembox>exit
+�[K[14Cembox>exit
+�[K[15Cembox>exit
+��[K[16Cembox>exit
+��e[K[17Cembox>exit
+��ee[K[18Cembox>exit
+��eex[K[19Cembox>exit
+��eex[K[6Cembox>oexit
+��eex[K[7Cembox>o�exit
+��eex[K[8Cembox>o�exit
+��eex[K[7Cembox>o�exit
+��eex[K[8Cembox>o�exit
+��eex[K[9Cembox>o�exit
+��eex[K[22C�[?5h[?5l�embox>o�[K[8C W[?5h[?5l�
+o�: Command not found
+tish error: #-2
+embox>k�embox>k�[K[7Cembox>k�[K[8Cembox>[K[6Cexit
+��s
+exit: exit code should be numerical value
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

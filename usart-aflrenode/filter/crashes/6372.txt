@@ -1,0 +1,103 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�p����
+�p����: Command not found
+tish error: #-2
+embox>
+
+embox>pils
+pils: Command not found
+tish error: #-2
+embox>
+Dl�ܜ�cx�exportV@���@@@@@Qexportexport@@@@\@@@@@@
+Dl�ܜ�cx�exportV@�: Command not found
+tish error: #-2
+embox>?exp@��embox>?exp@��[K[14C�@c66u6>6T@embox>?exp@���@c66u6>6T@[K�@@@@@@@@@/@@
+?exp@��: Command not found
+tish error: #-2
+embox>
+Dl��embox>
+Dl��[K[11C�m@@cd@@@@@@=5@@
+Dl���m@@cd@@@@@@=5@@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�cx�66F6>65@���@pin�@@`Qexp�rt@<VI@@@@@@\@@@
+Dl�ܛ�cx�66F6>65@�: Command not found
+tish error: #-2
+embox>@@@?exp@��embox>[K�@c66r6>6T@embox>[K�@@@@@@@@@/@@
+@@@?exp@��: Command not found
+tish error: #-2
+embox>
+Dl6P
+Dl6P: Command not found
+tish error: #-2
+embox>
+Dl��d�cx�&6F6>6T@���@@@@@Qexport@<@@@@@\@@@@@@?@�
+Dl��d�cx�&6F6>6T@�: Command not found
+tish error: #-2
+embox>66u>6T@�@@@@@`@@ @@
+66u>6T@�@@@@@`@@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�cx@6F6>6T@���  @@@Qexpoit@@@@@@@@\@@@/@@
+Dl�ܛ�cx@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�cx�66F6>6T@���@@@@@Qrt@<H@@@@@@@\@@@@@@
+Dl�ܛ�cx�66F6>6T@�: Command not found
+tish error: #-2
+embox>?exp@���@c66u6>6T@�@@@@@@@@@/@@
+?exp@��: Command not found
+tish error: #-2
+embox>
+Dl?ܛ�c��66F6>6_@���@@@@@Qexport@<@^��~@@@@Qe@@/
+Dl?ܛ�c��66F6>6_@�: Command not found
+tish error: #-2
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�fq�66F6>6T@���@@@@@Qexpo�t@<@@@@@@@\@@@@
+Dl�ܛ�fq�66F6>6T@�: Command not found
+tish error: #-2
+embox>?exp@���@c6@@/@@
+?exp@��: Command not found
+tish error: #-2
+embox>
+@@@@@/@@
+@@@@@/@@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�cx�66F@@@@@@?exp@���@c66�6>6T@�@@@@@@@
+Dl�ܛ�cx�66F@@@@@@?exp@��: Command not found
+tish error: #-2
+embox>@@/@@
+@@/@@: Command not found
+tish error: #-2
+embox>
+Dl�ܛ�cx�66F6>6T@���@@@@@Qexport@<@@@@@@@@\@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

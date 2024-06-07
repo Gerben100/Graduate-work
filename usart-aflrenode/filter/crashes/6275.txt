@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+[?5h[?5lx[?5h[?5lx
+[?5h[?5lx[?5h[?5lx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+� �
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�g!tembox>
+[?5h[?5l�g![K[12Cembox>
+[?5h[?5l�g![K[6Cembox>c
+[?5h[?5l�g![K[7Cembox>cd
+[?5h[?5l�g![K[8Cembox>cdg
+[?5h[?5l�g![K[9Cembox>cdgo
+[?5h[?5l�g![K[10Cembox>cdgou
+[?5h[?5l�g![K[11Cembox>cdgou
+[?5h[?5l�g![K[12Cembox>cdgouN
+[?5h[?5l�g![K[13Cembox>cdgouNx
+[?5h[?5l�g![K[14Cembox>cdgouNxX
+[?5h[?5l�g![K[15Cembox>cdgouNxX
+[?5h[?5l�g![K[14Cembox>cdgouNxlX
+[?5h[?5l�g![K[15Cembox>cdgouNxl\X
+[?5h[?5l�g![K[16Cembox>cdgouNxl\NX
+[?5h[?5l�g![K[17Cembox>cdgouNxl\NzX
+[?5h[?5l�g![K[18Cembox>cdgouNxl\NziX
+[?5h[?5l�g![K[19Cembox>cdgouNxl\NziiX
+[?5h[?5l�g![K[20C
+cdgou: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+embox>�xi#embox>cdgou[K[11Ciexiti
+cdgou: Command not found
+tish error: #-2
+embox>
+[?5h[?5lembox>cdgou[K[11Cembox>
+[?5h[?5l[K[8CWQembox>
+[?5h[?5lW[K[10C
+[?5h[?5lW: Command not found
+tish error: #-2
+embox>Njjjjjjjjjjjjjjjjjjj000�itembox>Njjjjjjjjjjjjjjjjjjj000�i
+Njjjjjjjjjjjjjjjjjjj000�i: Command not found
+tish error: #-2
+embox>N�
+N: Command not found
+tish error: #-2
+embox>
+[?5h[?5l����embox>N[K[7Cg=xii
+N: Command not found
+tish error: #-2
+embox>
+�embox>N[K[7Cg!tembox>Ng!embox>Ng!embox>ZNg!embox>ZdNg!embox>ZdgNg!embox>ZdgoNg!embox>ZdgouNg!embox>ZdgouNg!embox>ZdgouNNg!embox>ZdgouNxNg!embox>ZdgouNxaNg!embox>ZdgouNxaNg!embox>ZdgouNxlaNg!embox>ZdgouNxlgaNg!embox>ZdgouNxlg�aNg!embox>ZdgouNxlg�waNg!embox>ZdgouNxlg�w�aNg!embox>ZdgouNxlg�w�iaNg!
+Zdgou: Command not found
+tish error: #-2
+embox>
+[?5h[?5lg!t
+cdgou: Command not found
+tish error: #-2
+embox>
+
+cdgou: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�g!t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

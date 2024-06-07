@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+embox>
+[K[7CPi�
+Pi: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+Pi[K[9Cm
+Pim: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�����embox>
+�����[K[20C�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+�[K[8Ci&�embox>
+[K[7C
+tish error: #-22
+embox>
+embox>
+[K[7Ci
+embox>x~~~~xitqqqqqqembox>x~~~~xitqqqqqq[K[21Cembox>x~~~~xitqqqqqq[K[22Cembox>x~~~~xitqqqqqqq[K[23Cembox>x~~~~xitqqqqqqq�[K[24Cembox>x~~~~xitqqqqqqq�6[K[25Cembox>x~~~~xitqqqqqqq�6u[K[26Cembox>x~~~~xitqqqqqqq�6ul[K[27Cembox>x~~~~xitqqqqqqq�6ul�[K[28Cembox>x~~~~xitqqqqqqq�6ul��[K[29Cembox>x~~~~xitqqqqqqq�6ul���[K[30Cembox>x~~~~xitqqqqqqq�6ul����[K[31Cembox>x~~~~xitqqqqqqq�6ul�����[K[32Cembox>x~~~~xitqqqqqqq�6ul������[K[33Cembox>x~~~~xitqqqqqqq�6ul�������[K[34Cembox>x~~~~xitqqqqqqq�6ul��������[K[35Cembox>x~~~~xitqqqqqqq�6ul���������[K[36Cembox>x~~~~xitqqqqqqq�6ul����������[K[37Cembox>x~~~~xitqqqqqqq�6ul����������[K[38Cembox>
+[K[8C�cdembox>
+�cd[K[6Cembox>
+�cd[K[7Cembox>
+�cd[K[8Cembox>�
+�cd[K[9Cembox>��
+�cd[K[10Cembox>���
+�cd[K[11Cembox>����
+�cd[K[12C
+embox>�cd���������pq�
+�cd���������pq�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>�
+�[K[8Cembox>�~
+�[K[9Cembox>�cd���������pq�[K[21CxYlqqembox>�cd���������pq�xYlqq[Kembox>�cd���������pq�xYlqqembox>�cd���������pq�xYlqqembox>�cd���������pq�xYlqqembox>�cd���������pq�xYlqq
+: Command not found
+tish error: #-2
+embox>
+exitembox>
+exi[K[10C�o
+exi�o: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+embox>
+[Kembox>
+[Kiexportxit�6Ylqq�embox>
+[K[7C
+tish error: #-22
+embox>
+L~
+embox>L~xilPq
+LxilPq: Command not found
+tish error: #-2
+embox>
+i
+embox>x~~~jxit�6Ylk �
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

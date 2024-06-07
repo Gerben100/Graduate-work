@@ -1,0 +1,58 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�cc���pin6A@�embox>�cc���pin6A@[K[18C��@@@@@@x56:6@@embox>�cc���pin6A@��@@@@@@x56:6@@[K[35C��@@@@@@@@@?@@@
+�cc���pin6A@��@@@@@@: Command not found
+tish error: #-2
+embox>@)@@@@�@\?@eembox>@)@@@@�@\?@e[K[18Cembox>@)@@@@�@\?@e[K[19Cembox>@)@@@@�@\?@�e[K[20Cembox>@)@@@@�@\?@�e[K[21Cembox>@)@@@@�@\?@�e[K[6Cembox>x@)@@@@�@\?@�e[K[7Cembox>xe@)@@@@�@\?@�e[K[8Cembox>xep@)@@@@�@\?@�e[K[9Cembox>xepz@)@@@@�@\?@�e[K[10Cembox>xepz@)@@@@�@\?@�e[K[9Cembox>xep@)@@@@�@\?@�e[K[9Cembox>xep@)@@@@�@\?@�e[K[10Cembox>xep)@@@@�@\?@�e[K[10Cembox>xep)@@@@�@\?@�e[K[11Cembox>xep)k@@@@�@\?@�e[K[12Cembox>xep)kz@@@@�@\?@�e[K[13Cembox>xep)kz�@@@@�@\?@�e[K[14Cembox>xep)kz�p@@@@�@\?@�e[K[15Cembox>xep)kz�pJ@@@@�@\?@�e[K[16Cembox>xep)kz�pJn@@@@�@\?@�e[K[17Cembox>xep)kz�pJnx@@@@�@\?@�e[K[18Cembox>xep)kz�pJnx@@@@�@\?@�e[K[19Cembox>xep)kz�pJnx@@@@�@\?@�e[K[20Cembox>xep)kz�pJnx@@@@�@\?@�e[K[21Cembox>xep)kz�pJnx @@@@�@\?@�e[K[22Cembox>xep)kz�pJnx i@@@@�@\?@�e[K[23Cembox>xep)kz�pJnx i�@@@@�@\?@�e[K[24Cembox>xep)kz�pJnx i�@@@@�@\?@�e[K[25C
+xep: Command not found
+tish error: #-2
+embox>
+c�M6R6>lz�pinx i�ixxox��embox>
+c�M6R6>lz�pinx i�ixxox�[K[35Cxxxx|������embox>
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>�
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>��
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>���
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>����
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>�����
+c�M6R6>lz�pinx i�ixxox�xxxx|������[Kembox>������
+c�M6R6>lz�pinx i�ixxox�xxxx|������[K[12Cembox>�������
+c�M6R6>lz�pinx i�ixxox�xxxx|������[K[13C
+�������: Command not found
+tish error: #-2
+embox>�xptr
+�xptr: Command not found
+tish error: #-2
+embox>
+i��
+i��: Command not found
+tish error: #-2
+embox>
+�cc�V6R3>6c�M6R�>6@@�embox>
+�cc�V6R3>6c�M6R�>6@@[K�#��embox>
+i��[K[10CP@@@embox>�xptr[K[11Cxembox>�xptrx[K[12Cembox>�xptrx[K[13Cembox>�xptr�x[K[14Cembox>�xptr�x[K[15Cembox>�xptr�x[K[6Cembox>x�xptr�x[K[7Cembox>xe�xptr�x[K[8Cembox>xep�xptr�x[K[9Cembox>xepz�xptr�x[K[10Cembox>xepz�xptr�x[K[9Cembox>xep�xptr�x[K[9Cembox>xepn�xptr�x[K[10Cembox>xepnx�xptr�x[K[11C
+xepnx�xptr: Command not found
+tish error: #-2
+embox> i�
+embox>
+�cce�M6R6>6@@�embox>xepnx�xptr[K[16C@ @@embox>xepnx�xptr@ @@[K[19Cembox>xepnx�xptr@ @@[K[20Cembox>xepnx�xptr@ @�@[K[21Cembox>xepnx�xptr@ @�@[K[22Cembox>xepnx�xptr@ @�@[K[6Cembox>xxepnx�xptr@ @�@embox>xexepnx�xptr@ @�@embox>xe�xepnx�xptr@ @�@embox>xe�zxepnx�xptr@ @�@embox>xe�zxepnx�xptr@ @�@
+embox>�kz����������
+�kz����������: Command not found
+tish error: #-2
+embox>��������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

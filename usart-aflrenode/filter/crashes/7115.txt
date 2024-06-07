@@ -1,0 +1,21 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d�embox>d�[K[6Cembox>d�[K[7Cembox>id�[K[8Cembox>iid�[K[9Cembox>iiid�[K[10Cembox>iiiid�[K[11Cembox>iiiiid�[K[12Cembox>iiiiiid�[K[13Cembox>iiiiiiid�[K[14Cembox>iiiiiiiid�[K[15Cembox>iiiiiiii�d�[K[16Cembox>iiiiiiii��[K[16Cembox>iiiiiiii�x�[K[17Cembox>iiiiiiii�xl�[K[18Cembox>iiiiiiii�xlo�[K[19Cembox>iiiiiiii�xlog�[K[20Cembox>iiiiiiii�xlogo�[K[21Cembox>iiiiiiii�xlogou�[K[22Cembox>iiiiiiii�xlogout�[K[23Cembox>iiiiiiii�xlogouti�[K[24Cembox>iiiiiiii�xlogoutii�[K[25Cembox>iiiiiiii�xlogoutiii�[K[26Cembox>iiiiiiii�xlogoutiiii�[K[27Cembox>iiiiiiii�xlogoutiiii)�[K[28Cembox>iiiiiiii�xlogoutiiii)�[K[29Cembox>iiiiiiii�xlogoutiiii)�[K[30Cembox>iiiiiiii�xlogoutiiii)�[K[6Cembox>iiiiiiii�xlogoutiiii)�[K[7Cembox>iiiiiiiii�xlogoutiiii)�[K[8Cembox>iiiiiiiiii�xlogoutiiii)�[K[9Cembox>iiiiiiiiiii�xlogoutiiii)�[K[10Cembox>iiiiiiiiiiii�xlogoutiiii)�[K[11Cembox>iiiiiiiiiiiii�xlogoutiiii)�[K[12Cembox>iiiiikiiiiiiii�xlogoutiiii)�[K[13Cembox>iiiiikgiiiiiiii�xlogoutiiii)�[K[14Cembox>iiiiikgoiiiiiiii�xlogoutiiii)�[K[15Cembox>iiiiikgouiiiiiiii�xlogoutiiii)�[K[16Cembox>iiiiikgoutiiiiiiii�xlogoutiiii)�[K[17Cembox>iiiiikgoutiiiiiiiii�xlogoutiiii)�[K[18Cembox>iiiiikgoutiiiiiiiiii�xlogoutiiii)�[K[19Cembox>iiiiikgoutiiiiiiiiiii�xlogoutiiii)�[K[20Cembox>iiiiikgoutiiiiiiiiiiii�xlogoutiiii)�[K[21Cembox>iiiiikgoutiiii)iiiiiiii�xlogoutiiii)�[K[22Cembox>iiiiikgoutiiii)iiiiiiii�xlogoutiiii)�[K[23Cembox>iiiiikgoutiiii)1iiiiiiii�xlogoutiiii)�[Kembox>iiiiikgoutiiii)1iiiiiiii�xlogoutiiii)�[K[25C
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

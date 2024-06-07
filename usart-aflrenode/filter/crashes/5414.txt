@@ -1,0 +1,79 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>tt��})i 
+embox>�njKembox>�njK[K[6Cembox>�njK[K[7Cembox>��njK[K[8Cembox>�o�njK[K[9Cembox>�og�njK[K[10Cembox>�og[�njK[K[11C[H[H[2Jembox>�og[�njK[K[11Cembox>�og[l�njK[K[12Cembox>�og[lo�njK[K[13Cembox>�og[log�njK[K[14Cembox>�og[logo�njK[K[15Cembox>�og[logou�njK[K[16Cembox>�og[logout�njK[K[17Cembox>�og[logoutnjK[K[17Cembox>�og[logoutinjK[K[18Cembox>�og[logouti[K[18C[Ztiembox>�og[logouti[Zti[K[22C
+embox>
+t(��}C| !��S!�loR[iiembox>
+t(��}C| !��S!�loR[ii[K[30C[Ztiembox>
+t(��}C| !��S!�loR[ii[Zti[K[34C
+t(: Command not found
+tish error: #-2
+embox>
+w@�@porembox>
+w@�@por[K[6Cembox>}
+w@�@por[K[7Cembox>}}
+w@�@por[K[8Cembox>}}�
+w@�@por[K[9Cembox>}}�e
+w@�@por[K[10Cembox>}}�e@
+w@�@por[K[11Cembox>}}�e@@
+w@�@por[K[12Cembox>}}�e@@@
+w@�@por[K[13Cembox>}}�e@@@@
+w@�@por[K[14Cembox>}}�e@@@@@
+w@�@por[K[15Cembox>}}�e@@@@@@
+w@�@por[K[16Cembox>}}�e@@@@@@@
+w@�@por[K[17Cembox>}}�e@@@@@@@@
+w@�@por[K[18Cembox>}}�e@@@@@@@@l
+w@�@por[K[19Cembox>}}�e@@@@@@@@lw@�@por[K[19Cembox>}}�e@@@@@@@@lw@�@por[K[20Cembox>}}�e@@@@@@@@l}w@�@por[K[21Cembox>}}�e@@@@@@@@l}}w@�@por[K[22Cembox>}}�e@@@@@@@@l}}}w@�@por[K[23Cembox>}}�e@@@@@@@@l}}}}w@�@por[K[24Cembox>}}�e@@@@@@@@l}}}}}w@�@por[K[25Cembox>}}�e@@@@@@@@l}}}}}}w@�@por[K[26Cembox>}}�e@@@@@@@@l}}}}}}}w@�@por[K[27Cembox>}}�e@@@@@@@@l}}}}}}}}w@�@por[K[28Cembox>}}�e@@@@@@@@l}}}}}}}}}w@�@por[K[29Cembox>}}�e@@@@@@@@l}}}}}}}}}}w@�@por[K[30Cembox>}}�e@@@@@@@@l}}}}}}}}}}}w@�@por[K[31Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}w@�@por[K[32Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}w@�@por[K[33Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}w@�@por[K[34Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}}w@�@por[K[35Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}}}w@�@por[K[36Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}}}}w@�@por[K[37Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}}}}}w@�@por[K[38Cembox>}}�e@@@@@@@@l}}}}}}}}}}}}}}}}}}[K[38C
+}}�e@@@@@@@@l: Command not found
+tish error: #-2
+embox>
+tembox>}}�e@@@@@@@@l[K[19Ccd�Io�c�����iembox>}}�e@@@@@@@@lcd�Io�c�����i[K[33Ci[Zt�embox>}}�e@@@@@@@@lcd�Io�c�����ii[Zt�[K[38C
+}}�e@@@@@@@@lcd�Io�c�����ii[Zt�: Command not found
+tish error: #-2
+embox>
+tCiembox>
+tCi[K[6C
+tCi: Command not found
+tish error: #-2
+embox>
+tembox>
+tCi[K[10C��@Ci 
+embox>�njembox>�nj[K[6Cembox>S�nj[K[7Cembox>S!�nj[K[8Cembox>S!��nj[K[9Cembox>S!�l�nj[K[10Cembox>S!�lo�nj[K[11Cembox>S!�log�nj[K[12Cembox>S!�log[�nj[K[13Cembox>S!�log[�nj[K[14Cembox>S!�log[nj[K[14Cembox>S!�log[inj[K[15Cembox>S!�log[i[K[15C[Ztiembox>S!�log[i[Zti[K
+S!�log[: Command not found
+tish error: #-2
+embox>
+tembox>S!�log[[K[13C��}Ci 
+embox>��}Ci 
+embox>�njKS!�embox>
+t[K[8C��log[iembox>
+t��log[i[K[16C[ZtnjKS!�embox>S!�log[[K[13C�
+S!�log[: Command not found
+tish error: #-2
+embox>�log[iembox>[K[13C[Ztiembox>[K[17C
+�log[: Command not found
+tish error: #-2
+embox>
+tembox>
+t
+t: Command not found
+tish error: #-2
+embox>
+tKS!�log[!�li[embox>
+t��KS!�log[!�log[iembox>[K[Ztiembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

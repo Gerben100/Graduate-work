@@ -1,0 +1,75 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>z��l��pin�������embox>z��l��pin������[K[21Ce���cdcd�
+z��l��pin������e���cdcd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�e
+[K[8Cembox>�ex
+[K[9Cembox>�exi
+[K[10Cembox>�exit
+[K[11Cembox>�exit�
+[K[12Cembox>�exit�
+[K[13Cembox>�exit䌣
+[K[14C
+�exit䌣: Command not found
+tish error: #-2
+embox>
+Tdeyi
+Tdeyi: Command not found
+tish error: #-2
+embox>
+%%��%%%%%%%%% %exitembox>
+%%��%%%%%%%%% %exit[K[31C%%embox>
+%%��%%%%%%%%% %exit%%[K[32Cembox>
+%%��%%%%%%%%% %exit%%%[K[33Cembox>
+%%��%%%%%%%%% %exit%%%%[K[34Cembox>
+%%��%%%%%%%%% %exit%%%%%[K[35C
+%%�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+tz�eembox>
+tz�[K[10C��eeen�e�������������������������een�
+tz���: Command not found
+tish error: #-2
+embox>
+z�
+z�: Command not found
+tish error: #-2
+embox>
+�ex t�in��
+�ex: Command not found
+tish error: #-2
+embox>
+zeXitin�[n�
+zeXitin�[n�: Command not found
+tish error: #-2
+embox>
+z�@it�in�
+z�: Command not found
+tish error: #-2
+embox>
+��Jxis�min�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

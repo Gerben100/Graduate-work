@@ -1,0 +1,262 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�C
+�C: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+�C
+�: Command not found
+tish error: #-2
+embox>
+�d
+�: Command not found
+tish error: #-2
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+C
+C: Command not found
+tish error: #-2
+embox>
+f~porextembox>
+C[K[8Cd
+Cd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>
+[K[6C
+tish error: #-22
+embox>
+�p$
+�p$: Command not found
+tish error: #-2
+embox>
+KC
+KC: Command not found
+tish error: #-2
+embox>
+�C
+�C: Command not found
+tish error: #-2
+embox>
+@
+embox>�
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+@
+embox>
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>embox>[K
+embox>
+embox>
+@
+embox>��embox>�[Kp e
+embox>embox>
+�C[K
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+
+embox>
+embox>
+@
+embox>�embox>[K������export��
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>embox>[K
+embox>
+embox>
+embox>
+embox>embox>[K
+embox>
+embox>
+embox>
+embox>��
+embox>��embox>
+�C[K
+�C: Command not found
+tish error: #-2
+embox>
+�@
+embox>��embox>�[K� e
+embox>embox>
+�C[K
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+@
+embox>��embox>�[K�V eembox>��V e[Kembox>[K[11Cembox>
+�C[K
+embox>
+embox>@
+embox>��embox>�[K[7C�V eembox>��V eembox>��V �eembox>��V �e
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+�_��
+�_��: Command not found
+tish error: #-2
+embox>
+@
+embox>�� e
+embox> ��
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+
+embox>��cd/e
+embox>
+embox>
+embox>�
+embox>
+embox>
+@
+
+
+
+logout
+
+
+
+
+
+
+
+
+
+
+�
+
+
+
+
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+
+
+
+
+
+
+
+
+
+tish error: #-22
+embox>
+embox>
+embox>
+embox>
+embox>�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+@
+embox>�
+embox>
+embox>
+embox>
+embox>hhhhhhhhhhhohhhhhhuhhhhhhhuhhhhRhhhh�
+embox>
+embox>
+embox>
+embox>&�
+embox>
+embox>
+embox>
+in
+tish error: #-22
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+�iQexit�t
+tish error: #-22
+embox>
+^i��p
+tish error: #-22
+embox>
+@ ��
+tish error: #-22
+embox>
+Z��nnnnonnnnnnnnnnnnnnnnnnnnnnnnnn�p
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

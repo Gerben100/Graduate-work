@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p
+p: Command not found
+tish error: #-2
+embox>
+@�6656>6embox>p[K[7Cembox>p[K[6Cembox>p[K[7Cembox>�p[K[8Cembox>�@p[K[9Cembox>�@@p[K[10Cembox>�@@@p[K[11Cembox>�@@@@p[K[12Cembox>�@@@@@p[K[13Cembox>�@@@@@@p[K[14Cembox>�@@@@@@@p[K[15Cembox>�@@@@@@@@p[K[16Cembox>�@@@@@@@@@p[K[17Cembox>�@@@@@@@@@�p[K[18Cembox>�@@@@@@@@@�Jp[K[19Cembox>�@@@@@@@@@�J@p[K[20Cembox>�@@@@@@@@@�J@@p[K[21Cembox>�@@@@@@@@@�J@@@p[K[22Cembox>�@@@@@@@@@�J@@@@p[K[23Cembox>�@@@@@@@@@�J@@@@@p[K[24Cembox>�@@@@@@@@@�J@@@@@Np[K[25Cembox>�@@@@@@@@@�J@@@@@N@p[K[26Cembox>�@@@@@@@@@�J@@@@@N@@p[K[27Cembox>�@@@@@@@@@�J@@@@@N@@Xp[K[28Cembox>�@@@@@@@@@�J@@@@@N@@X@p[K[29Cembox>�@@@@@@@@@�J@@@@@N@@X@@p[K[30Cembox>�@@@@@@@@@�J@@@@@N@@X@@\p[K[31Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@p[K[32Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@p[K[33Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@ep[K[34Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp[K[35Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@expp[K[36Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@p[K[37Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�p[K[38Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@p[K[39Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@p[K[40Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@@p[K[41Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@@6p[K[42Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@@6?p[K[43Cembox>�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@@6?@p[K[44C
+�@@@@@@@@@�J@@@@@N@@X@@\@@exp@�@@@6?@p: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@\@Pexp
+@@@@@@@@@@@\@Pexp: Command not found
+tish error: #-2
+embox>
+@�6656>6embox>@@@@@@@@@@@\@Pexp[K[23C��@@@@@@@@@?@@j@@@@@@@@@@@@\@@exp
+@@@@@@@@@@@\@Pexp: Command not found
+tish error: #-2
+embox>
+e�xW@J�lzembox>
+e�xW@J�l[K[16C�p
+e�xW@J: Command not found
+tish error: #-2
+embox>
+lssembox>
+ls[K[9C���embox>
+ls���[K[6C
+ls���: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[6Cembox>��
+[K[7Cembox>�d�
+[K[8Cembox>�d��
+[K[9Cembox>�d��
+[K[6C
+�d��: Command not found
+tish error: #-2
+embox>
+tl�
+tl�: Command not found
+tish error: #-2
+embox>
+@Tcd�l�eap
+@Tcd�l�: Command not found
+tish error: #-2
+embox>
+e^i�exk
+e^i�: Command not found
+tish error: #-2
+embox>
+@���xp
+@: Command not found
+tish error: #-2
+embox>
+
+d
+d: Command not found
+tish error: #-2
+embox>
+@[Ѐ�Ѐ�
+@[Ѐ�: Command not found
+tish error: #-2
+embox>
+w�o�exp
+w�: Command not found
+tish error: #-2
+embox>
+T��lcdp
+@T��l: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+@��������expopinrt[?5h[?5l:56r@@c6D�@@@�?@xp@56
+tl�56: Command not found
+tish error: #-2
+embox>r@:c666@ZZZZZZZZZZZZZZZZ@@�?@@@@icd�ex�t@@Vc�65
+r: Command not found
+tish error: #-2
+embox>exitQelogout@
+exitQelogout@: Command not found
+tish error: #-2
+embox>
+@������expopinr[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

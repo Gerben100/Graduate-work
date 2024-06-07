@@ -1,0 +1,176 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[8Cl`gout�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c�exportc
+�c�exportc: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6C
+tish error: #-22
+embox>
+embox>[K[6C����
+��: Command not found
+tish error: #-2
+embox>
+0�1
+0�1: Command not found
+tish error: #-2
+embox>
+��
+embox>embox>[K[6C
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+embox>[Kls���
+ls���: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+x���
+x���: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+aa
+x���: Command not found
+tish error: #-2
+embox>
+���47
+���4: Command not found
+tish error: #-2
+embox>
+xO
+
+xO: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c
+U�c: Command not found
+tish error: #-2
+embox>
+�ux
+�ux: Command not found
+tish error: #-2
+embox>
+y�l@
+tish error: #-22
+embox>
+����Z
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+?logoutlogout�cd�
+logo�cd: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+Z_4�x
+Z_4: Command not found
+tish error: #-2
+embox>
+xi44x
+4: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+Vhi3�
+Vhi3�: Command not found
+tish error: #-2
+embox>
+exmt;
+exmt;: Command not found
+tish error: #-2
+embox>
+exmt�x
+exmt�x: Command not found
+tish error: #-2
+embox>
+NxxMxM
+NxxMxM: Command not found
+tish error: #-2
+embox>
+�;
+�: Command not found
+tish error: #-2
+embox>
+xJtߘm�
+xJtߘm�: Command not found
+tish error: #-2
+embox>
+enmt�x;
+enmt�x;: Command not found
+tish error: #-2
+embox>
+exrt�xM
+exrt�xM: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+eY\;logout
+x;logout: Command not found
+tish error: #-2
+embox>
+yx�66�666666666666%6666�O6x;
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

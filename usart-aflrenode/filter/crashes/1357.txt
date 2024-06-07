@@ -1,0 +1,252 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>tembox>tish[K[10Cembox>t[K[7C� eR�
+t�: Command not found
+tish error: #-2
+embox>
+t�@eR�
+t�@eR�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+t[?5h[?5l eR�
+t: Command not found
+tish error: #-2
+embox>
+� eR
+�: Command not found
+tish error: #-2
+embox>
+tGGGGTGGGGGGgG�
+tGGGGTGGGGGGgG�: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+t
+�eR�
+t: Command not found
+tish error: #-2
+embox>
+embox>
+t
+[K[9Cembox>
+t[K[8C e eR�
+t: Command not found
+tish error: #-2
+embox>
+t
+eR�: Command not found
+tish error: #-2
+embox>
+���� el�
+����: Command not found
+tish error: #-2
+embox>
+ eR�R�
+eR�R�: Command not found
+tish error: #-2
+embox>
+t� eR�
+eR�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l eR�
+t: Command not found
+tish error: #-2
+embox>
+t��lxe!!
+t��: Command not found
+tish error: #-2
+embox>
+qqlogoutqq
+qqlogoutqq: Command not found
+tish error: #-2
+embox>
+eieeeeeeeeeee�eeeeeeeeeeeeeqqq�qqqqq
+e: Command not found
+tish error: #-2
+embox>{xpin
+{: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+embox>[?5h[?5l
+embox>:qq��@q�
+:q: Command not found
+tish error: #-2
+embox>
+t[?5h[?5llxe!!qqbqqqqq
+tl: Command not found
+tish error: #-2
+embox>
+t[?5h[?5llxe!!
+tl: Command not found
+tish error: #-2
+embox>
+q@q
+eR�: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lrqq
+trqq: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�����������x~!!
+t�����������x~!: Command not found
+tish error: #-2
+embox>
+t[?5h[?5lq.xe!![?5h[?5lxe!!
+tq.xe!exit: Command not found
+tish error: #-2
+embox>
+t��qqqqqq�q�[?5h[?5l
+embox>�qqq�x�[?5h[?5lq
+eR�: Command not found
+tish error: #-2
+embox>
+t���
+t���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��
+embox>
+A�
+A: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ls~�
+ls~�: Command not found
+tish error: #-2
+embox>
+t�C
+t�C: Command not found
+tish error: #-2
+embox>
+ut[?5h[?5l�
+ut[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+t���
+t���: Command not found
+tish error: #-2
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+t{
+t: Command not found
+tish error: #-2
+embox>
+lsxxei�dn
+lsxxei�d: Command not found
+tish error: #-2
+embox>
+ixei��in
+ixei��in: Command not found
+tish error: #-2
+embox>
+xi�pilip
+xi�pilip: Command not found
+tish error: #-2
+embox>
+x@exit
+x@exit: Command not found
+tish error: #-2
+embox>
+Xxeipin
+Xxeipin: Command not found
+tish error: #-2
+embox>
+ �gZ```````g``d
+eR�: Command not found
+tish error: #-2
+embox>
+in
+i: Command not found
+tish error: #-2
+embox>
+xxl��out�
+xxl��out�: Command not found
+tish error: #-2
+embox>
+xieY�pin
+xieY�pin: Command not found
+tish error: #-2
+embox>
+xxei�phO
+xxei�phO: Command not found
+tish error: #-2
+embox>
+�xXc
+9: Command not found
+tish error: #-2
+embox>
+N
+N: Command not found
+tish error: #-2
+embox>
+tAexpor�@@@@?B@@@@����e0@@@���������e|@rt�@@
+tAexpor�@@@@?B@@@@: Command not found
+tish error: #-2
+embox>?
+?: Command not found
+tish error: #-2
+embox>
+t!�6������������*�����������@?@ pr�e@@?
+t!�6���: Command not found
+tish error: #-2
+embox>
+tQ�6�5ls6@@��@@@?@@@@@?����e|port��d@@?
+tQ�6�5ls6@@��@@@?@@@@@?�: Command not found
+tish error: #-2
+embox>
+tA�6�5ls6@���@@@@@B@?����e|0ort��d@P@@@@@?@@@B@
+tA�6�5ls6@: Command not found
+tish error: #-2
+embox>?�:::::::::::::::::::::���e|0ort��d@@?
+?�:::::::::::::::::::::: Command not found
+tish error: #-2
+embox>
+tA�6�5ls6@@��@PBP@@@@@?@@@@@?��e|port��d@@?
+eR�: Command not found
+tish error: #-2
+embox>
+tA�6�5�s6@@��@@BP@pin@?@@@@@?����e|por4��d@@?
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

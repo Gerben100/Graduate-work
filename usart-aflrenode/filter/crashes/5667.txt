@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+���: Command not found
+tish error: #-2
+embox>
+embox>���[K[9Cembox>���[K[6Cembox>���[K[7Cembox>/���[K[8Cembox>/���[K[9Cembox>/e���[K[10Cembox>/ex���[K[11Cembox>/exp���[K[12C
+embox>
+embox>[K[6C
+embox>
+embox>
+: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+lsl�w|�xxx8y�
+lsl: Command not found
+tish error: #-2
+embox>
+lslxembox>
+lsl[K[10Cdxxx8y�
+lsldxxx8y�: Command not found
+tish error: #-2
+embox>
+lslxembox>
+lsldxxx8y�[K[17Cd�w|�y�
+lsldxxx8y�d�w|�y�: Command not found
+tish error: #-2
+embox>
+lslxembox>
+lsldxxx8y�d�w|�y�[Kd�w|�xxx8
+lsldxxx8y�d�w|�y�d�w|�xxx8: Command not found
+tish error: #-2
+embox>
+lslxembox>[K[33Cew|�xxx8y�
+lsldxxx8y�d�w|�y�d�w|�xxx8ew|�xxx8y�: Command not found
+tish error: #-2
+embox>
+lslxembox>[K[33Cd�w|��y�
+lsldxxx8y�d�w|�y�d�w|�xxx8d�w|�: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>l
+l[K[7Cembox>l
+l[K[8Cembox>lx
+l[K[9Cembox>[K[33Cd�w|�xxx8y�
+lsldxxx8y�d�w|�y�d�w|�xxx8d�w|�xxx8y�: Command not found
+tish error: #-2
+embox>
+d embox>
+d [K[10C�t�x�8y�xxx�xxxx�xx��
+d: Command not found
+tish error: #-2
+embox>
+ld�w|�x�w|�xx{8y�
+ld�w|�x�w|�xx{8y�: Command not found
+tish error: #-2
+embox>
+lhltxx8y�
+lhltxx8y�: Command not found
+tish error: #-2
+embox>
+lslxD�^}�xxx8y�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

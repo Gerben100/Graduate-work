@@ -1,0 +1,115 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exp@�@@e<l������#l�����
+exp@�@@e: Command not found
+tish error: #-2
+embox>
+e��p@z@@e�\@@@\@@���ls
+e��: Command not found
+tish error: #-2
+embox>
+exp@\������66 6>embox>
+exp@\������66 6[K[22CaJembox>
+exp@\������66 6aJ[K[24C��@@@@@@@embox>
+e��[K[10Cexit�expRrtembox>
+e��exit�expRr[K[21Cxp@�@
+e��exit: Command not found
+tish error: #-2
+embox>@@ =@@@[@@@@@G@@\@@@@�����������@Ku<������por
+@@: Command not found
+tish error: #-2
+embox>t�����
+t�����: Command not found
+tish error: #-2
+embox>
+exp@\@@eembox>t�����[K[12Cil
+t�����: Command not found
+tish error: #-2
+embox>
+expexport@\@@e<embox>[K[6Cillgembox>illg[K[9Cembox>illg[K[10Cembox>illlg[K[11Cembox>illllg[K[12Cembox>illlllg[K[13Cembox>illllllg[K[14Cembox>illlllllg[K[15C
+ill: Command not found
+tish error: #-2
+embox>
+zxp@\@@e<embox>[K[6Cillglll�lll
+illglll�lll: Command not found
+tish error: #-2
+embox>
+hxe��e���llllll
+hxe�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+e������j���exitembox>[K[6Cembox>[K[7Cembox>[K[8C
+ye: Command not found
+tish error: #-2
+embox>
+embox>
+exv@\@@e&embox>[K[6Cilxllllll
+il: Command not found
+tish error: #-2
+embox>
+exp@\@�lllexitl
+exp@\@: Command not found
+tish error: #-2
+embox>
+exp@\@@e<illhlllllll
+illhlllllll: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+llselsel
+llselsel: Command not found
+tish error: #-2
+embox>
+xx@\�@eZpin��lglV
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e
+ig��: Command not found
+tish error: #-2
+embox>
+e����i�
+e����i�: Command not found
+tish error: #-2
+embox>
+ @
+embox>
+pynit��p
+pynit�: Command not found
+tish error: #-2
+embox>
+e���
+e���: Command not found
+tish error: #-2
+embox>
+h��pVn
+h��pVn: Command not found
+tish error: #-2
+embox>
+loggoggout�out�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

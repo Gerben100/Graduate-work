@@ -1,0 +1,136 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>h�xxexitxxxx8xxxxxxxxxxxxh�
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>e
+[K[8Cembox>ex
+[K[9Cembox>exx
+[K[10Cembox>exxx
+[K[11Cembox>exxxx
+[K[12Cembox>exxxxx
+[K[13Cembox>exxxxxx
+[K[14Cembox>exxxxxx�
+[K[15Cembox>exxxxxx�8
+[K[16Cembox>exxxxxx�8x
+[K[17Cembox>exxxxxx�8xx
+[K[18Cembox>exxxxxx�8xxc
+[K[19Cembox>exxxxxx�8xxcd
+[K[20Cembox>exxxxxx�8xxcd�
+[K[21Cembox>exxxxxx�8xxcd��
+[K[22Cembox>exxxxxx�8xxcd���
+[K[23Cembox>exxxxxx�8xxcd����
+[K[24Cembox>exxxxxx�8xxcd�����
+[K[25Cembox>exxxxxx�8xxcd�����:
+[K[26Cembox>exxxxxx�8xxcd�����::
+[K[27Cembox>exxxxxx�8xxcd�����:::
+[K[28Cembox>exxxxxx�8xxcd�����::::
+[K[29Cembox>exxxxxx�8xxcd�����:::::
+[K[30Cembox>exxxxxx�8xxcd�����::::::
+[K[31Cembox>exxxxxx�8xxcd�����:::::::
+[K[32Cembox>exxxxxx�8xxcd�����::::::::
+[K[33Cembox>exxxxxx�8xxcd�����:::::::::
+[K[34Cembox>exxxxxx�8xxcd�����::::::::::
+[K[35Cembox>exxxxxx�8xxcd�����::::::::::H
+[K[36Cembox>exxxxxx�8xxcd�����::::::::::H/
+[K[37Cembox>exxxxxx�8xxcd�����::::::::::H/u
+[K[38Cembox>exxxxxx�8xxcd�����::::::::::H/ui
+[K[39Cembox>exxxxxx�8xxcd�����::::::::::H/uix
+[K[40Cembox>exxxxxx�8xxcd�����::::::::::H/uixx
+[K[41Cembox>exxxxxx�8xxcd�����::::::::::H/uixx
+[K[42Cembox>exxxxxx�8xxcd�����::::::::::H/uixx�
+[K[43Cembox>exxxxxx�8xxcd�����::::::::::H/uixx�x
+[K[44Cembox>exxxxxx�8xxcd�����::::::::::H/uixx�xx
+[K[45Cembox>exxxxxx�8xxcd�����::::::::::H/uixx�xxh
+[K[46Cembox>exxxxxx�8xxcd�����::::::::::H/uixx�xxh�
+[Kembox>exxxxxx�8xxcd�����::::::::::H/uixx�xxh�U
+[K[48C
+embox>
+�embox>
+[K[7C
+tish error: #-22
+embox>
+cX�66F6>6T@@\@@@?@@?exp@
+cX�66F6>6T@@\@@@?@@?exp@: Command not found
+tish error: #-2
+embox>
+h�xxegputYxx8xxxembox>
+h�xxegputYxx8xxx[K[23Cembox>
+h�xxegputYxx8xx[K[23Cembox>
+h�xxegputYxx8xx[K[23Cembox>
+h�xxegputYxx8xx[K[23CtwixVbxitxx�logputY
+tish error: #-22
+embox>
+h�xxexitxxxx8xx��xxixitxxxx8xx�xxxxxx�xxx��embox>
+h�xxexitxxxx8xx��xxixitxxxx8xx�xxxxxx�xxx�[K[50C��
+tish error: #-22
+embox>Y
+Y: Command not found
+tish error: #-2
+embox>
+h�xxxxxx�[H[H[2Jembox>
+h�xxxxxx�[K[17Ch�Y
+tish error: #-22
+embox>
+�embox>
+[K[7Cembox>
+[K[7Cembox>
+�[K[8Cembox>
+�i[K[9Cembox>
+�it[K[10Cembox>
+�its[K[11Cembox>
+�its[K[12C�xxx8�Y
+�its: Command not found
+tish error: #-2
+embox>
+hxexxxxxxxx��Y
+tish error: #-22
+embox>
+h�xxexuwxxxx8����xxxhx�x��kY
+tish error: #-22
+embox>
+h�xxe�embox>
+h�xxe[K[13C\xyxx8xxh�Y
+tish error: #-22
+embox>
+h�xx��ܻ�Nxixxhxiog���embox>
+h�xx��ܻ�Nxixxhxiog��x�xxxaxxxxxxxxyx�Y
+tish error: #-22
+embox>
+@�xoexitx piUx�8xx�xxxxxxzxxh�Y
+tish error: #-22
+embox>
+�g�xxexitxxxx8xxxxxxxxxxxh�Y
+�g�xxexitxxxx8xxxxxxxxxxxh�Y: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>�g
+��[K[8Cembox>�gY
+��[K[9C
+�gY: Command not found
+tish error: #-2
+embox>
+_xx8x{xxlsxxxxxxxembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28C������������Yembox>[K[41Cxit�embox>[K[44Cxx8xxxx
+_xx8x{xxlsxxxxxx: Command not found
+tish error: #-2
+embox>xxxxxxx8xxxxxxxxxxxxhlogout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[?5h[?5llsx%i
+embox>
+[?5h[?5l'
+embox>�%embox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+elsxlogolsuti@embox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+exit
+tish error: #-22
+embox>
+�'
+embox>x%�
+x%�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l'�x%ils
+tish error: #-22
+embox>
+[?5h[?5l�
+embox>xembox>
+[K[7Cx
+x: Command not found
+tish error: #-2
+embox>
+pPrt�xi
+pPrt�xi: Command not found
+tish error: #-2
+embox>
+[?5h[?5l*'
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+�x)i
+tish error: #-22
+embox>
+embox>
+[K[8Cembox>
+[K[7C
+embox>x�l����logout���������embox>x�l����logout���������embox>x�l����logout���������embox>x�l����logout���������embox>x�l����logout���������l���_R��������������
+x�l����logout���������l���_R��������������: Command not found
+tish error: #-2
+embox>�����embox>����[K[10Coembox>����o[K[11Cembox>����o[K[11Cembox>����o[K[11C
+embox>����o
+[K[12C
+����o: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>xk�embox>xk�[K+embox>xk�+[Kembox>xk�+[K
+xk�+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cembox>
+[K[7Cl�������
+embox>�������embox>�������embox>�������embox>�������embox>�������l���_���
+embox>�����������������logoutsembox>[K
+�����������������logouts: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+[K
+embox>xpw�embox>xpwembox>xpembox>x[Kembox>[Kortembox>orembox>o[Kembox>[Kortembox>orembox>o[Kembox>[K�������logou�sembox>[Kembox>[Kembox>[K
+embox>[K
+�������logou�s: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+[K�xlembox>
+�xlembox>
+�xl+embox>
+�xl+embox>
+�xl+
+�xl+: Command not found
+tish error: #-2
+embox>
+l���_����������������l��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

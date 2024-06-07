@@ -1,0 +1,45 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d���66G@@\@@
+d���66G@@\@@: Command not found
+tish error: #-2
+embox>
+embox>d���66G@@\@@[K[18Cd���66 6>embox>d���66G@@\@@d���66 6[K[26CaJ��@@@@@@@exit�exportembox>d���66G@@\@@d���66 6aJ��@@@@@@@exit�expor[K[52Cxp@�@@@ =@@
+d���66G@@\@@d���66: Command not found
+tish error: #-2
+embox>@[@@@@@G@@\@@@@@@D@@\&@
+@[@@@@@G@@\@@@@@@D@@\&@: Command not found
+tish error: #-2
+embox>
+embox>@[@@@@@G@@\@@@@@@D@@\&@[K[29Cd���cd 6>embox>@[@@@@@G@@\@@@@@@D@@\&@d���cd 6aJembox>@[@@@@@G@@\@@@@@@D@@\&@d���cd 6aJ��@@@@@@@exit!fxportembox>@[@@@@@G@@\@@@@@@D@@\&@d���cd 6aJ��@@@@@@@exit!fxporxp@�@@@ =@@
+@[@@@@@G@@\@@@@@@D@@\&@d���cd: Command not found
+tish error: #-2
+embox>@[@@@@@G@@\@@@���embox>@[@@@@@G@@\@@@��[K[22C@@\@@
+@[@@@@@G@@\@@@��@@\@@: Command not found
+tish error: #-2
+embox>
+embox>@[@@@@@G@@\@@@��@@\@@d���66 6>embox>@[@@@@@G@@\@@@��@@\@@d���66 6aJembox>@[@@@@@G@@\@@@��@@\@@d���66 6aJ��@@@<@@@embox>[K[29Cit�exportembox>[K[38Cxp@�@@@ =@@
+@[@@@@@G@@\@@@@@@D@@\&@it: Command not found
+tish error: #-2
+embox>@[@@@@@G@@\@@@@@@G@@\@@
+@[@@@@@G@@\@@@@@@G@@\@@: Command not found
+tish error: #-2
+embox>
+�6656>6z@���@@?B@���������������������������@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

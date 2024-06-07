@@ -1,0 +1,74 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�l���lgg
+�l: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�[K[6C
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6Cembox>�[K[7Cembox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+j
+tish error: #-22
+embox>
+�lo44444444444444444444444embox>
+�lo4444444444444444444444[K[32C*@@embox>
+�lo4444444444444444444444*@[K[34C�embox>
+[K[7C(xeN��(xe-embox>
+(xeN��(xe-[K[16Cembox>
+(xeN��(xe�-[Kembox>
+(xeN��(xe�@-[Kembox>
+(xeN��(xe�@Z-[K[19Cembox>
+(xeN��(xe�@Zc-[K[20Cembox>
+(xeN��(xe�@Zc\-[K[21Cembox>
+(xeN��(xe�@Zc\A-[K[22C
+(xeN��(xe�@Zc\A-: Command not found
+tish error: #-2
+embox>@embox>
+(xeN��(xe�@Zc\A-[K[23Cp@�embox>
+[K[7C
+tish error: #-22
+embox>
+Њxet�embox>
+[K[7C(xpqneN�ogout`
+(xpqneN�ogout`: Command not found
+tish error: #-2
+embox>=@@oute�(xe�@?(xe-�embox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29C
+=@@oute�(xe�@?(xe-�6I6�: Command not found
+tish error: #-2
+embox>>=@@@,out`
+>=@@: Command not found
+tish error: #-2
+embox>loc\@@(xe-�
+>=@@: Command not found
+tish error: #-2
+embox>
+�logout`
+�logout`: Command not found
+tish error: #-2
+embox>logoutexit�(xeN��(xe-�@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

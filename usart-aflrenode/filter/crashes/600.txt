@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>$�66F6>HT@embox>$�66F6>HT@[K[6Cembox>�$�66F6>HT@[K[7Cembox>��$�66F6>HT@[K[8Cembox>��@$�66F6>HT@[K[9Cembox>��@@$�66F6>HT@[K[10Cembox>��@@@$�66F6>HT@[K[11Cembox>��@@@d$�66F6>HT@[K[12Cembox>��@@@d@$�66F6>HT@[K[13Cembox>��@@@d@�$�66F6>HT@[K[14Cembox>��@@@d@�e$�66F6>HT@[K[15Cembox>��@@@d@�ex$�66F6>HT@[K[16Cembox>��@@@d@�exp$�66F6>HT@[K[17Cembox>��@@@d@�expo$�66F6>HT@[K[18Cembox>��@@@d@�expor$�66F6>HT@[K[19Cembox>��@@@d@�export$�66F6>HT@[K[20Cembox>��@@@d@�export@$�66F6>HT@[K[21Cembox>��@@@d@�export@<$�66F6>HT@[K[22Cembox>��@@@d@�export@<�$�66F6>HT@[K[23Cembox>��@@@d@�export@<�@$�66F6>HT@[K[24Cembox>��@@@d@�export@<�@@$�66F6>HT@[K[25Cembox>��@@@d@�export@<�@@�$�66F6>HT@[K[26Cembox>��@@@d@�export@<�@@��$�66F6>HT@[K[27Cembox>��@@@d@�export@<�@@���$�66F6>HT@[K[28Cembox>��@@@d@�export@<�@@���$�66F6>HT@[K[6Cembox>���@@@d@�export@<�@@���$�66F6>HT@[K[7Cembox>����@@@d@�export@<�@@���$�66F6>HT@[K[8Cembox>�����@@@d@�export@<�@@���$�66F6>HT@[K[9Cembox>������@@@d@�export@<�@@���$�66F6>HT@[K[10Cembox>�������@@@d@�export@<�@@���$�66F6>HT@[K[11Cembox>��������@@@d@�export@<�@@���$�66F6>HT@[K[12Cembox>������@��@@@d@�export@<�@@���$�66F6>HT@[K[13Cembox>������@@��@@@d@�export@<�@@���$�66F6>HT@[K[14Cembox>������@@@��@@@d@�export@<�@@���$�66F6>HT@[K[15Cembox>������@@@@��@@@d@�export@<�@@���$�66F6>HT@[K[16Cembox>������@@@@@��@@@d@�export@<�@@���$�66F6>HT@[K[17Cembox>������@@@@@\��@@@d@�export@<�@@���$�66F6>HT@[Kembox>������@@@@@\@��@@@d@�export@<�@@���$�66F6>HT@[K[19Cembox>������@@@@@\@@��@@@d@�export@<�@@���$�66F6>HT@[K[20Cembox>������@@@@@\@@@��@@@d@�export@<�@@���$�66F6>HT@[K[21C
+������@@@@@\@@@��@@@d@�export@<�@@���$�66F6>HT@: Command not found
+tish error: #-2
+embox>@@\? embox>@@\? [K[6Cembox>@@\? [K[7Cembox>@@\? [K[8Cembox>�@@\? [K[9Cembox>�@@\? [K[10Cembox>�@@\? [K[11Cembox>�@@\? [K[10Cembox>��@@\? [K[11Cembox>��@@@\? [K[12Cembox>��@�@@\? [K[13Cembox>��@�e@@\? [K[14Cembox>��@�ex@@\? [K[15Cembox>��@�exp@@\? [K[16Cembox>��@�expo@@\? [K[17Cembox>��@�expor@@\? [K[18Cembox>��@�expor6@@\? [K[19Cembox>��@�expor6T@@\? [K[20Cembox>��@�expor6T@@@\? [K[21Cembox>��@�expor6T@@@\? [K[22Cembox>��@�expor6T@@@\? [K[21Cembox>��@�expor6T@�@@\? [K[22Cembox>��@�expor6T@�@@\? [K[23Cembox>��@�expor6T@�@@@\? [K[24Cembox>��@�expor6T@�@@@@\? [K[25Cembox>��@�expor6T@�@@@@@\? [K[26Cembox>��@�expor6T@�@@@@@@\? [K[27Cembox>��@�expor6T@�@@@@@@@\? [K[28Cembox>��@�expor6T@�@@@@@@@@\? [K[29Cembox>��@�expor6T@�@@@@@@@@@\? [K[30Cembox>��@�expor6T@�@@@@@@@@@@\? [K[31Cembox>��@�expor6T@�@@@@@@@@@@@\? [K[32Cembox>��@�expor6T@�@@@@@@@@@?@@\? [K[33Cembox>��@�expor6T@�@@@@@@@@@?@@\? [K[34Cembox>��@�expor6T@�@@@@@@@@@?@@@\? [K[35Cembox>��@�expor6T@�@@@@@@@@@?@@@@\? [K[36Cembox>��@�expor6T@�@@@@@@@@@?@@@@@\? [K[37Cembox>��@�expor6T@�@@@@@@@@@?@@@@@@\? [K[38Cembox>��@�expor6T@�@@@@@@@@@?@@@@@@@\? [Kembox>��@�expor6T@�@@@@@@@@@?@@@@@/@@\? [Kembox>��@�expor6T@�@@@@@@@@@?@@@@@/@@@\? [Kembox>��@�expor6T@�@@@@@@@@@?@@@@@/@@@@\? [K
+embox>
+dJ�@<@@Y���embox>
+dJ�@<@@Y���[K[6Cembox>�
+dJ�@<@@Y���[K[7Cembox>��
+dJ�@<@@Y���[K[8Cembox>���
+dJ�@<@@Y���[K[9Cembox>����
+dJ�@<@@Y���[K[10Cembox>�����
+dJ�@<@@Y���[K[11Cembox>�����@
+dJ�@<@@Y���[K[12Cembox>�����@@
+dJ�@<@@Y���[K[13Cembox>�����@@@
+dJ�@<@@Y���[K[14Cembox>�����@@@@
+dJ�@<@@Y���[K[15Cembox>�����@@@@+
+dJ�@<@@Y���[K[16C
+embox>�@@@@@?�@~6656pin@embox>�@@@@@?�@~6656pin@[K[24C�@@@
+�@@@@@?�@~6656pin@�@@@: Command not found
+tish error: #-2
+embox>@@D@@@?@@@@@embox>�@@@@@?�@~6656pin@�@@@[K[29C@@
+�@@@@@?�@~6656pin@�@@@@@: Command not found
+tish error: #-2
+embox>
+$�R���cx�66F6>6T@embox>
+$�R���cx�66F6>6T@embox>�
+$�R���cx�66F6>6T@embox>��
+$�R���cx�66F6>6T@embox>��@
+$�R���cx�66F6>6T@embox>��@@
+$�R���cx�66F6>6T@embox>��@@@
+$�R���cx�66F6>6T@embox>��@@@d
+$�R���cx�66F6>6T@embox>��@@@d@
+$�R���cx�66F6>6T@embox>��@@@d@@
+$�R���cx�66F6>6T@embox>��@@@d@@@
+$�R���cx�66F6>6T@embox>��@@@d@@@?
+$�R���cx�66F6>6T@embox>��@@@d@@@? 
+$�R���cx�66F6>6T@embox>��@@@d@@@? x
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@�
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@��
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@��
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@��
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@��
+$�R���cx�66F6>6T@embox>��@@@d@@@? xp@���
+$�R���cx�66F6>6T@embox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35C
+��@@@d@@@?: Command not found
+tish error: #-2
+embox>56>6T@embox>56>6T@[K[12C�@@@@@@@@@/@@
+56>6T@�@@@@@@@@@/@@: Command not found
+tish error: #-2
+embox>
+$�R���x�66F6>6T@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35C
+��@@@d@�expprt@<�@@��>6T@�@@: Command not found
+tish error: #-2
+embox>@@@@@@~6656��������@p@�embox>[K[29C�@@?@@@embox>[K[6Cembox>[K[7Cembox>[K[8C
+embox>
+$�R���cx�66F6>6T@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37C
+��@@@d@�export@<�@@���������: Command not found
+tish error: #-2
+embox>@@@\@@N@@@? xp@��embox>[K[24C�@~6656>6T@embox>[K[35C�@@@@@@@@@?@@@@
+@@@\@@N@@@?: Command not found
+tish error: #-2
+embox>@/@@
+@/@@: Command not found
+tish error: #-2
+embox>
+$�R���cx�66F6>6T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

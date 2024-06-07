@@ -1,0 +1,122 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>���Z�we��weiembox>���Z�we��wei[K[19Cembox>���Z�we��wei[K[20Cembox>���Z�we��wei�[K[21Cembox>���Z�we��wei�v[K[22Cembox>���Z�we��wei�ve[K[23Cembox>���Z�we��wei�ve�[K[24Cembox>���Z�we��wei�ve��[K[25Cembox>���Z�we��wei�ve��n[K[26Cembox>���Z�we��wei�ve��nr[K[27Cembox>���Z�we��wei�ve��nrj[K[28Cembox>���Z�we��wei�ve��nrj[K[29Cembox>���Z�we��wei�ve��nrj[K[30Cembox>���Z�we��wei�ve��nrjd[K[31Cembox>���Z�we��wei�ve��nrjd�[K[32Cembox>���Z�we��wei�ve��nrjd��[K[33C
+���Z�we�: Command not found
+tish error: #-2
+embox>
+%J�embox>
+%J�[K[11Cembox>
+%Jo�[K[12Cembox>
+%Jor�[K[13Cembox>
+%Jorj�[K[14Cembox>
+%Jorj�[K[15Cembox>
+%Jorj�[K[16Cembox>
+%Jorj�[K[17Cembox>
+%Jorj��[K[18Cembox>
+%Jorj���[K[19C
+%J: Command not found
+tish error: #-2
+embox>
+embox>[K[6C߀export�sdefpor�s�d
+embox>
+%G�[H[H[2Jembox>
+%G�[K[10C���pin|o�embox>
+%G����pin|o�[K[19Cembox>
+%G����pin|o�o[K[20Cembox>
+%G����pin|o�or[K[21Cembox>
+%J[K[9C�embox>
+%J�[K[14Cembox>
+%Jo�[K[15Cembox>
+%Jor�[K[16Cembox>
+%Jo�[K[15Cembox>
+%Jo�[K[16Cembox>
+%Jo��[K[17Cembox>
+%Jo���[K[18Cembox>
+%Jo����[K[19Cembox>
+%Jo�����[K[20C
+%J: Command not found
+tish error: #-2
+embox>
+����embox>
+���[K[13Cl�|o�embox>
+���l�|o[K[17Cembox>
+���l�|o[K[16Cembox>
+���l�|oo[K[17Cembox>
+���l�|oro[K[18Cembox>
+%J[K[9C�embox>
+%J[K[14C����embox>
+%J���[K[20Cl�|o�embox>
+%J���l�|o�[K[25Cembox>
+%J���l�|o�o[K[26Cembox>
+%J���l�|o�or[K[27Cembox>���Z�we�[K[14Corj�
+���Z�we�: Command not found
+tish error: #-2
+embox>����
+����: Command not found
+tish error: #-2
+embox>
+8rrrS
+8rrrS: Command not found
+tish error: #-2
+embox>
+gouu
+gouu: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+%%��
+%: Command not found
+tish error: #-2
+embox>
+yyoow
+yyoow: Command not found
+tish error: #-2
+embox>
+%��ogou��ogou
+%��ogou��ogou: Command not found
+tish error: #-2
+embox>
+c�
+�cdembox>[Kuuembox>
+yyoow
+yyoow: Command not found
+tish error: #-2
+embox>
+%u
+%u: Command not found
+tish error: #-2
+embox>
+%�~g
+u: Command not found
+tish error: #-2
+embox>
+exportu
+exportu: Command not found
+tish error: #-2
+embox>
+8�o�ou
+8�o�ou: Command not found
+tish error: #-2
+embox>
+%%�o�ou���ou
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

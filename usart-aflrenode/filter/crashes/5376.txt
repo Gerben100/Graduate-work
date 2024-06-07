@@ -1,0 +1,230 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>J�%i
+J: Command not found
+tish error: #-2
+embox>
+(a(�(a(embox>
+(a(�(a([K[6Cembox>
+
+(a(�(a([K[7Cembox>
+%
+(a(�(a([K[8Cembox>
+%i
+(a(�(a([K[9Cembox>
+%i�
+(a(�(a([K[10Cembox>
+%i�
+(a(�(a([K[11Cembox>
+%i�
+(a(�(a([K[12Cembox>
+%i�
+(a(�(a([K[13Cembox>
+%i�
+(a(�(a([K[14Cembox>
+%i�t
+(a(�(a([K[15Cembox>
+%i�t�
+(a(�(a([K[16Cembox>
+%i�t�%
+(a(�(a([K[17Cembox>
+%i�t�%i
+(a(�(a([K[18Cembox>
+%i�t�%i�
+(a(�(a([K[19Cembox>
+%i�t�%i�
+(a(�(a([K[20Cembox>
+%i�t�%i�
+(a(�(a([K[21Cembox>
+%i�t�%i�
+(a(�(a([K[22Cembox>
+%i�t�%i�
+(a(�(a([K[23Cembox>
+%i�t�%i�t
+(a(�(a([K[24Cembox>
+%i�t�%i�t%
+(a(�(a([K[25Cembox>
+%i�t�%i�t%i
+(a(�(a([K[26Cembox>
+%i�t�%i�t%i�
+(a(�(a([K[27Cembox>
+%i�t�%i�t%i�
+(a(�(a([K[28Cembox>
+%i�t�%i�t%i�
+(a(�(a([K[29Cembox>
+%i�t�%i�t%i�
+(a(�(a([K[30Cembox>
+%i�t�%i�t%i�
+(a(�(a([K[31Cembox>
+%i�t�%i�t%i�t
+(a(�(a([K[32Cembox>
+%i�t�%i�t%i�t�
+(a(�(a([K[33Cembox>
+%i�t�%i�t%i�t�%
+(a(�(a([K[34Cembox>
+%i�t�%i�t%i�t�%i
+(a(�(a([K[35Cembox>
+%i�t�%i�t%i�t�%
+(a(�(a([K[34Cembox>
+%i�t�%i�t%i�t�%�
+(a(�(a([K[35Cembox>
+%i�t�%i�t%i�t�%�
+(a(�(a([K[36Cembox>
+%i�t�%i�t%i�t�%�
+(a(�(a([K[37Cembox>
+%i�t�%i�t%i�t�%�
+(a(�(a([K[38Cembox>
+%i�t�%i�t%i�t�%�t
+(a(�(a([K[39C
+%i�: Command not found
+tish error: #-2
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+(i�9i�[?5h[?5l
+(i�9i�: Command not found
+tish error: #-2
+embox>
+(
+embox>��i�[?5h[?5l
+��i�: Command not found
+tish error: #-2
+embox>
+]�
+]�: Command not found
+tish error: #-2
+embox>
+logot(�[?5h[?5l%ii�[?5h[?5l
+logot(�%ii�: Command not found
+tish error: #-2
+embox>
+��%i[?5h[?5ld
+tish error: #-22
+embox>
+embox>
+[K[7Cembox>
+[K[11C
+: Command not found
+tish error: #-2
+embox>
+t
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+(
+embox>�embox>[K[6Cpin
+pin: Command not found
+tish error: #-2
+embox>
+
+embox>�%[?5h[?5l�i
+�%�i: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+(J�i�
+(J: Command not found
+tish error: #-2
+embox>
+([?5h[?5l
+(: Command not found
+tish error: #-2
+embox>
+(����[?5h[?5l
+(����: Command not found
+tish error: #-2
+embox>
+�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+xport[?5h[?5l[?5h[?5l
+xport: Command not found
+tish error: #-2
+embox>
+( �JI�
+(: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+(�i�[?5h[?5l
+(�i�: Command not found
+tish error: #-2
+embox>
+(
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+(
+embox>
+embox>
+�
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l%o�(
+�%o�(: Command not found
+tish error: #-2
+embox>
+ ((�
+((�: Command not found
+tish error: #-2
+embox>
+(---
+(---: Command not found
+tish error: #-2
+embox>
+(
+embox>�%exit%%%%%%%%%%%%%%%%%%%%%%%i�[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

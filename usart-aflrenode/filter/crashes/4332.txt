@@ -1,0 +1,180 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>����orlnexport���
+����orlnexport��: Command not found
+tish error: #-2
+embox>
+ qembox>
+ q[K[6Cembox>F
+ q[K[7Cembox>F�
+ q[K[8Cembox>F��
+ q[K[9Cembox>F���
+ q[K[10Cembox>F����
+ q[K[11Cembox>F���
+ q[K[10Cembox>F���
+ q[K[15C^�t�^�embox>F���
+ q^�t�^�[K[26C^�t� 
+F���: Command not found
+tish error: #-2
+embox>
+� qembox>
+� q[K[6Cembox>{
+� q[K[7Cembox>
+� q[K[6Cembox>� q[K[6C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�l�cembox>
+�l�[K[14C�xt
+�l: Command not found
+tish error: #-2
+embox>
+� qembox>
+� q[K[6Cembox>c
+� q[K[7Cembox>
+� q[K[6Cembox>e
+� q[K[7Cembox>ex
+� q[K[8Cembox>exi
+� q[K[9Cembox>exit
+� q[K[10Cembox>exit�
+� q[K[11Cembox>exit��
+� q[K[12Cembox>exit��q
+� q[K[13Cembox>exit��qp
+� q[K[14Cembox>exit��qpp
+� q[K[15Cembox>exit��qppp
+� q[K[16Cembox>exit��qpppm
+� q[K[17Cembox>exit��qpppm
+� q[K[22C^zpxt�
+exit��qpppm: Command not found
+tish error: #-2
+embox>
+XxtJ0�%�embox>exit��qpppm
+� [K[20C��qpembox>exit��qpppm
+� ��qp[Kembox>exit��qpppm
+� ��qp[Kembox>exit��qpppm
+� ��qp[Kembox>exit��qpppm
+� ��qppembox>exit��qpppm
+� ��qppembox>exit��qpppm
+� ��qppembox>xexit��qpppm
+� ��qppembox>xtexit��qpppm
+� ��qppembox>xtJexit��qpppm
+� ��qppembox>xtJdexit��qpppm
+� ��qppembox>xtJdexit��qpppm
+� ��qppembox>xtJdexit��qpppm
+� ��qppembox>xtJdxexit��qpppm
+� ��qppembox>xtJdxtexit��qpppm
+� ��qppembox>xtJdxtexit��qpppm
+� ��qppembox>xtJdxtexit��qpppm
+� ��qppembox>
+�l[K[10C��qpembox>
+�l��qp[K[14Cembox>
+�l��qp[K[15Cembox>
+�l��qp[K[16Cembox>
+�l��qpp[K[17Cembox>
+�l��qpp[K[6Cembox>
+�l��qpp[K[7Cembox>x
+�l��qpp[K[8Cembox>xt
+�l��qpp[K[9Cembox>xtJ
+�l��qpp[K[10Cembox>xtJJ
+�l��qpp[K[11C
+embox>pl
+pl: Command not found
+tish error: #-2
+embox>
+kl|
+kl|: Command not found
+tish error: #-2
+embox>
+pg���1/�xembox>
+kl|[K[11C
+kl|: Command not found
+tish error: #-2
+embox>
+F 
+tish error: #-22
+embox>
+embox>
+[K[7C��ex�xei��(xem�%�
+tish error: #-22
+embox>
+^tt�t����t� � qqlq
+^tt�t����t�: Command not found
+tish error: #-2
+embox>
+��xit�xi **w
+��xit�xi: Command not found
+tish error: #-2
+embox>
+n
+n: Command not found
+tish error: #-2
+embox>
+@!"ls
+@!"ls: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+� ql� qqqqqqqqqqqqqqqls
+�: Command not found
+tish error: #-2
+embox>
+�������l�ls
+��: Command not found
+tish error: #-2
+embox>
+[?5h[?5lqls
+q: Command not found
+tish error: #-2
+embox>
+)e
+�)e: Command not found
+tish error: #-2
+embox>
+�@2@@@exiU@@@l@@exp
+@!"ls: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�xeq�
+�: Command not found
+tish error: #-2
+embox>
+lonut
+lnut: Command not found
+tish error: #-2
+embox>
+� �
+embox>
+��@[?5h[?5l
+��@: Command not found
+tish error: #-2
+embox>
+
+embox>
+x�lsd1idsd�d1ix�d88|ex�t888�ox�sxd88H�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

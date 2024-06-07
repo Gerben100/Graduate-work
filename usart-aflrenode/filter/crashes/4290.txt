@@ -1,0 +1,157 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�n
+�n: Command not found
+tish error: #-2
+embox>
+�d��
+tish error: #-22
+embox>
+��#$bYYembox>
+��#$bYY[K[6C
+��#: Command not found
+tish error: #-2
+embox>
+lllllM+
+lllllM+: Command not found
+tish error: #-2
+embox>
+"c��
+(null): Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C{{{{{{
+{{{{{{: Command not found
+tish error: #-2
+embox>
+�����embox>
+�����[K[6Cembox>�
+�����[K[7Cembox>�
+�����[K[8Cembox>�6
+�����[K[9Cembox>�6x
+�����[K[10C
+�: Command not found
+tish error: #-2
+embox>
+��embox>�[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+@�@Bembox>
+@�@B[K[6Cembox>@
+@�@B[K[7Cembox>@?
+@�@B[K[8Cembox>@?@
+@�@B[K[9Cembox>@?@@
+@�@B[K[10Cembox>@?@@@
+@�@B[K[11Cembox>@?@@@@
+@�@B[K[12Cembox>@?@@@@B
+@�@B[Kembox>@?@@@@B
+@�@B[K[6Cembox>@@?@@@@B
+@�@B[Kembox>@?@?@@@@B
+@�@B[K[8Cembox>@?@@?@@@@B
+@�@B[K[9Cembox>@?@#@?@@@@B
+@�@B[K[10Cembox>@?@#@?@@@@B
+@�@B[K[11Cembox>@?@#d@?@@@@B
+@�@B[K
+@?@#: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��$d�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K��s
+��s: Command not found
+tish error: #-2
+embox>
+�e@@@go
+�e@@@go: Command not found
+tish error: #-2
+embox>
+�� �� 
+��: Command not found
+tish error: #-2
+embox>
+NF
+NF: Command not found
+tish error: #-2
+embox>
+
+embox>
+�#�lr�
+�#�: Command not found
+tish error: #-2
+embox>
+&�#�o�
+&�#�: Command not found
+tish error: #-2
+embox>
+�pin[H[H[2J}�
+pin}�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+cdA�
+cdA�: Command not found
+tish error: #-2
+embox>
+��������
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+��: Command not found
+tish error: #-2
+embox>
+8
+�} sem
+8: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�lsW�
+�: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+�3e��
+��: Command not found
+tish error: #-2
+embox>
+�loppq{pppl�pppxpNpppSpp���E�cx�6�=6@6T@
+��@@@@@: Command not found
+tish error: #-2
+embox>Qexport@�������������56>6�@cdhr�Qdl�@@?@@�M>6T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

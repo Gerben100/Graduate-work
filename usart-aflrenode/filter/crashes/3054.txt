@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttttttt�tt�@tgoutd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttttttt�tt�@tgoutd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVtttttttttttttt�@tgoutd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttttttttttt�@tgoutd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttttttttttt�tt�utd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttttttttttt�tt�@tgo
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttdttVt�tttttt�lstt]tttttttdttVttttttrtttttttt�tt�@tgoutembox>asswd7sttttttdttVt�tttttt�lstt]tttttttdttVttttttrtttttttt�tt�@tgoutdembox>sswd7sttttttdttVt�tttttt�lstt]tttttttdttVttttttrtttttttt�tt�@tgoutd�
+passwd7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7slembox>[K[6CttttttdttVt�tttttt�lstt]tttttttdttVttttttttttttttt�tt�@tgoutd�
+ttttttdttVt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>exittttt$$$$$$t�tttttst]tt
+exittttt$$$$$$t�: Command not found
+tish error: #-2
+embox>tttttdttVttttttttttttttt�tt�@tgoutd�
+tttttdttVttttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p���embox>p��[K[9C1sttttztd�tt�tttdttVtltt
+p��1s: Command not found
+tish error: #-2
+embox>ttddytt�ttu�tt�@tgoutd�
+ttddytt�ttu�tt�: Command not found
+tish error: #-2
+embox>
+
+embox>p[?5h[?5l7sttttttdttVt�tttttt�lstt]tttttttdttVttttutttttttttt�tt@tgoutd�
+p7sttttttdttVt�: Command not found
+tish error: #-2
+embox>
+
+embox>t]tttttttdtVttttttttinttttttttVttttttt
+embox>tttttttt�tt�@l��@expoxf��x���tgoutd�
+exittttt$$$$$$t�@: Command not found
+tish error: #-2
+embox>
+p[?5h[?5l7stttttttittt�tt������ou�dut
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

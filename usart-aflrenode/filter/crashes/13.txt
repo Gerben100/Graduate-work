@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+[8Cat /home/gerben/embox/src/init/start_script.c:67
+[8Cin function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+lcembox>
+l[K[8C
+l: Command not found
+tish error: #-2
+embox>
+embox>
+l[K[8Cl&l�o�
+ll&l�o�: Command not found
+tish error: #-2
+embox>
+embox>
+ll&l�o�[K[14Cl&l�o�
+ll&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>
+ll&l�o�l&l�o�[K[20Cl&l�o�
+ll&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>
+ll&l�o�l&l�o�l&l�o�[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[K[32Cl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+embox>[Kl&l�o�
+ll&l�o�l&l�o�l&l�o�l&l�o�l&l�o�l&l�o�: Command not found
+tish error: #-2
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+ s
+tish error: #-22
+embox>
+llllllOllllllllTl��llllllllllls
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,146 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�emembox>[K[6C�@@@c?exp@embox>�@@@c?exp@[K[16Cembox>�@@@c?expc@[K[17Cembox>�@@@c?expcd@[K[18Cembox>�@@@c?expcd@[K[19Cembox>�@@@c?expcd�@[K[20Cembox>�@@@c?expcd�@[K[21Cembox>�@@@c?expcd�e@[K[22Cembox>�@@@c?expcd�ex@[K[23Cembox>�@@@c?expcd�exi@[K[24Cembox>�@@@c?expcd�exit@[K[25Cembox>�@@@c?expcd�exit@@[K[26Cembox>�@@@c?expcd�exit@@@[K[27Cembox>�@@@c?expcd�exit@@;@[K[28Cembox>�@@@c?expcd�exit@@;c@[K[29Cembox>�@@@c?expcd�exit@@;c�@[K[30Cembox>�@@@c?expcd�exit@@;c�6@[K[31Cembox>�@@@c?expcd�exit@@;c�65@[K[32Cembox>�@@@c?expcd�exit@@;c�656@[K[33Cembox>�@@@c?expcd�exit@@;c�656>@[K[34Cembox>�@@@c?expcd�exit@@;c�656>%@[K[35Cembox>�@@@c?expcd�exit@@;c�656>%T@[K[36Cembox>�@@@c?expcd�exit@@;c�656>%TQ@[K[37Cembox>�@@@c?expcd�exit@@;c�656>%TQe@[K[38Cembox>�@@@c?expcd�exit@@;c�656>%TQel@[K[39Cembox>�@@@c?expcd�exit@@;c�656>%TQelo@[K[40Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@[K[41Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@@[K[42Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@�@[K[43Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@�@@[K[44Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@�@@@[K[45Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@�@@@@[K[46C
+embox>out@�@embox>out@�[K[12C <@@@@�@�embox>out@� <@@@@�@�[K[25C 
+embox>
+�emembox>[K[6C�@@@c?exp@embox>�@@@c?exp@[K[16Cembox>�@@@c?expc@[K[17Cembox>�@@@c?expcd@[K[18Cembox>�@@@c?expcd@[K[19Cembox>�@@@c?expcd�@[K[20Cembox>�@@@c?expcd�@[K[21Cembox>�@@@c?expcd�e@[K[22Cembox>�@@@c?expcd�ex@[K[23Cembox>�@@@c?expcd�exi@[K[24Cembox>�@@@c?expcd�exit@[K[25Cembox>�@@@c?expcd�exit@@[K[26Cembox>�@@@c?expcd�exit@@@[K[27Cembox>�@@@c?expcd�exit@@;@[K[28Cembox>�@@@c?expcd�exit@@;c@[K[29Cembox>�@@@c?expcd�exit@@;c�@[K[30Cembox>�@@@c?expcd�exit@@;c�6@[K[31Cembox>�@@@c?expcd�exit@@;c�65@[K[32Cembox>�@@@c?expcd�exit@@;c�656@[K[33Cembox>�@@@c?expcd�exit@@;c�656>@[K[34Cembox>�@@@c?expcd�exit@@;c�656>%@[K[35Cembox>�@@@c?expcd�exit@@;c�656>%T@[K[36Cembox>�@@@c?expcd�exit@@;c�656>%TQ@[K[37Cembox>�@@@c?expcd�exit@@;c�656>%TQe@[K[38Cembox>�@@@c?expcd�exit@@;c�656>%TQel@[K[39Cembox>�@@@c?expcd�exit@@;c�656>%TQelo@[K[40Cembox>�@@@c?expcd�exit@@;c�656>%TQelog@[K[41Cembox>�@@@c?expcd�exit@@;c�656>%TQelogo@[K[42Cembox>�@@@c?expcd�exit@@;c�656>%TQelogou@[K[43Cembox>�@@@c?expcd�exit@@;c�656>%TQelogout@[K[44Cembox>�@@@c?expcd�exit@@;c�656>%TQelogout@@[K[45Cembox>�@@@c?expcd�exit@@;c�656>%TQelogout@@@[K[46C
+embox>@@@�@embox>@@@�[K[12C <@@@@�@export@C@Qelogout@@@&ls@embox>@@@� <@@@@�@export@C@Qelogout@@@&ls[K[48C
+embox> 
+embox>
+
+tish error: #-22
+embox>
+v�
+v�: Command not found
+tish error: #-2
+embox>
+^
+^: Command not found
+tish error: #-2
+embox>
+vembox>
+^[K[8Cembox>
+^[K[6Cembox>�
+^[K[7C
+�: Command not found
+tish error: #-2
+embox>
+v
+v: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+������vembox>
+�[K[8Cembox>
+�[K[6Cembox>
+�[K[7C
+embox>
+
+tish error: #-22
+embox>
+�
+embox>�
+embox>
+fd��
+fd��: Command not found
+tish error: #-2
+embox>
+v��@
+v��@: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cembox>[K[6C
+embox>
+d�
+embox>�xxxx
+�xxxx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�xembox>�xxxxxxxx|xxxxx
+�xxxxxxxx|xxxxx: Command not found
+tish error: #-2
+embox>
+U�oembox>
+U�oembox>c
+U�oembox>[Kembox>cdU�oembox>cd�oembox>cdoembox>cdoembox>cdxoembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+�x
+�x: Command not found
+tish error: #-2
+embox>
+�xlRgoutxxxx|xxxxx
+�xxxxx|xxxxx: Command not found
+tish error: #-2
+embox>
+�
+embox>�x
+�x: Command not found
+tish error: #-2
+embox>
+�<xxx|xxxxx
+�<xxx|xxxxx: Command not found
+tish error: #-2
+embox>
+�
+embox>�xxxx�|xxxx
+�xxxx�|xxxx: Command not found
+tish error: #-2
+embox>
+x
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�xxx|x|xxx�x
+�xxx|x|xxx�x: Command not found
+tish error: #-2
+embox>
+�dcd
+�dcd: Command not found
+tish error: #-2
+embox>
+(WrtXxi��o�
+(WrtXx�o�: Command not found
+tish error: #-2
+embox>
+�WrtXxi�xeo�
+�WrtXxixeo�: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�W�����
+�W���: Command not found
+tish error: #-2
+embox>
+�Wrtxit��������������������������� ���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

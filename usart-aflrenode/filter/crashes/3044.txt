@@ -1,0 +1,181 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cembox>c[K[6C
+c: Command not found
+tish error: #-2
+embox>
+lmï¿½out
+lmï¿½out: Command not found
+tish error: #-2
+embox>
+l t
+l: Command not found
+tish error: #-2
+embox>
+lmt
+lmt: Command not found
+tish error: #-2
+embox>
+ï¿½
+tish error: #-22
+embox>
+ï¿½ï¿½ï¿½ï¿½
+embox>ï¿½{ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½l~w
+embox>
+exportmï¿½j'
+exportmï¿½j': Command not found
+tish error: #-2
+embox>
+ï¿½gt
+ï¿½: Command not found
+tish error: #-2
+embox>
+lpinï¿½embox>
+lpinï¿½[K[6Cembox>u
+lpinï¿½[K[7Cembox>ut
+lpinï¿½[K[8C
+ut: Command not found
+tish error: #-2
+embox>
+9itembox>
+9it[K[6Cembox>y
+9it[K[7Cembox>ye
+9it[K[8Cembox>yec
+9it[K[9Cembox>yecu
+9it[K[10Cembox>yecuJ
+9it[K[11Cembox>ut
+lpinï¿½[K[14Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ut: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½uJembox>ut
+lpinï¿½[K[14Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ut: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½embox>
+9itï¿½ï¿½ï¿½[K[6Cembox>y
+9itï¿½ï¿½ï¿½[K[7Cembox>ye
+9itï¿½ï¿½ï¿½[K[8Cembox>yec
+9itï¿½ï¿½ï¿½[K[9Cembox>yecï¿½
+9itï¿½ï¿½ï¿½[K[10Cembox>yecï¿½ï¿½
+9itï¿½ï¿½ï¿½[K[11Cembox>yecï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½[K[12Cembox>yecï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½embox>yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9itï¿½ï¿½ï¿½
+yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½embox>
+9itï¿½ï¿½ï¿½embox>y
+9itï¿½ï¿½ï¿½embox>ye
+9itï¿½ï¿½ï¿½embox>yec
+9itï¿½ï¿½ï¿½embox>yecu
+9itï¿½ï¿½ï¿½embox>yecuJ
+9itï¿½ï¿½ï¿½embox>[Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½embox>
+9itï¿½ï¿½ï¿½embox>y
+9itï¿½ï¿½ï¿½embox>ye
+9itï¿½ï¿½ï¿½embox>yec
+9itï¿½ï¿½ï¿½embox>yecu
+9itï¿½ï¿½ï¿½embox>yecuJ
+9itï¿½ï¿½ï¿½embox>[Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½embox>
+9itï¿½ï¿½ï¿½embox>y
+9itï¿½ï¿½ï¿½embox>ye
+9itï¿½ï¿½ï¿½embox>yec
+9itï¿½ï¿½ï¿½embox>yecu
+9itï¿½ï¿½ï¿½embox>yecuJ
+9itï¿½ï¿½ï¿½embox>[Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½embox>
+9itï¿½ï¿½ï¿½embox>y
+9itï¿½ï¿½ï¿½embox>ye
+9itï¿½ï¿½ï¿½embox>yec
+9itï¿½ï¿½ï¿½embox>yecu
+9itï¿½ï¿½ï¿½embox>yecuJ
+9itï¿½ï¿½ï¿½embox>[Kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+yecï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+9embox>
+9embox>y
+9embox>ye
+9embox>yex
+9embox>[Kembox>[K
+embox>ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9iô££€ï¿½yecuJï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+9i46ï¿½ï¿½ï¿½ï¿½ï¿½
+@ï¿½ï¿½ï¿½ï¿½ï¿½pï¿½ecu: Command not found
+tish error: #-2
+embox>
+9idï¿½ï¿½ï¿½ayecSJï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+9ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ritï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½bÉ£ï¿½ï¿½ï¿½
+9ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½
+embox>
+9itï¿½ï¿½ï¿½
+yecu: Command not found
+tish error: #-2
+embox>
+9itï¿½ï¿½ï¿½yeï¿½
+embox>
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

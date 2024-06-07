@@ -1,0 +1,59 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[7Cembox>���[K[8C
+���: Command not found
+tish error: #-2
+embox>
+embox>���[K[9C�eembox>
+[K[7C�
+embox>
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>o
+[K[10Cembox>og
+[K[11Cembox>ogo
+[K[12Cembox>ogou
+[K[13Cembox>ogou�
+[K[14C
+embox>
+lsembox>
+[K[7C���b 
+���b: Command not found
+tish error: #-2
+embox>
+*e��
+tish error: #-22
+embox>
+
+embox>�cx�66F6>6T@embox>�cx�66F6>6T@[K[6Cembox>��cx�66F6>6T@[K[7Cembox>���cx�66F6>6T@[K[8Cembox>��@�cx�66F6>6T@[K[9Cembox>��@@�cx�66F6>6T@[K[10Cembox>��@@@�cx�66F6>6T@[K[11Cembox>��@@@Q�cx�66F6>6T@[K[12Cembox>��@@@Q@�cx�66F6>6T@[K[13Cembox>��@@@Q@Q�cx�66F6>6T@[K[14Cembox>��@@@Q@Q@�cx�66F6>6T@[K[15Cembox>��@@@Q@Q@@�cx�66F6>6T@[K[16Cembox>��@@@Q@Q@@@�cx�66F6>6T@[K[17Cembox>��@@@Q@Q@@@@�cx�66F6>6T@[K[18Cembox>��@@@Q@Q@@@@?�cx�66F6>6T@[K[19Cembox>��@@@Q@Q@@@@?@�cx�66F6>6T@[K[20Cembox>��@@@Q@Q@@@@?@@�cx�66F6>6T@[K[21Cembox>��@@@Q@Q@@@@?@@@�cx�66F6>6T@[K[22Cembox>��@@@Q@Q@@@@?@@@@�cx�66F6>6T@[K[23Cembox>��@@@Q@Q@@@@?@@@@@�cx�66F6>6T@[K[24Cembox>��@@@Q@Q@@@@?@@@@@@�cx�66F6>6T@[K[25Cembox>��@@@Q@Q@@@@?@@@@@@/�cx�66F6>6T@[K[26Cembox>��@@@Q@Q@@@@?@@@@@@/@�cx�66F6>6T@[K[27Cembox>��@@@Q@Q@@@@?@@@@@@/@e�cx�66F6>6T@[K[28Cembox>��@@@Q@Q@@@@?@@@@@@/@ex�cx�66F6>6T@[K[29Cembox>��@@@Q@Q@@@@?@@@@@@/@exp�cx�66F6>6T@[K[30Cembox>��@@@Q@Q@@@@?@@@@@@/@expo�cx�66F6>6T@[K[31Cembox>��@@@Q@Q@@@@?@@@@@@/@expor�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@<�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@<@�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@<@@�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@<@@@�cx�66F6>6T@[Kembox>��@@@Q@Q@@@@?@@@@@@/@export@<@@@@�cx�66F6>6T@[K[39Cembox>��@@@Q@Q@@@@?@@@@@@/@export@<@@@@@�cx�66F6>6T@[K[40C
+��@@@Q@Q@@@@?@@@@@@/@export@<@@@@@�cx�66F6>6T@: Command not found
+tish error: #-2
+embox>cd@;@\@@@@@@?exp@pin��@c6B56>6T@embox>cd@;@\@@@@@@?exp@pin��@c6B56>6T@�@@@@@@@@@?@@@
+cd@;@\@@@@@@?exp@pin: Command not found
+tish error: #-2
+embox>@@@/@@@]c
+@@@/@@@]c: Command not found
+tish error: #-2
+embox>
+
+embox>�c��66F6�6T@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

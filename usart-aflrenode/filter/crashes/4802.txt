@@ -1,0 +1,111 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ï¿½Æ­ï¿½Æ­%pim"""%pim"""
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­%yï¿½""""
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­%yï¿½"""": Command not found
+tish error: #-2
+embox>
+Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­ï¿½ y
+Rï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½zxport"""
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½*ï¿½Aï¿½embox>
+ï¿½*ï¿½A[K[11Cxï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ls"
+ï¿½*ï¿½Axï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ls": Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½": Command not found
+tish error: #-2
+embox>
+?ï¿½Yï¿½õ€¯­ï¿½sï¿½
+?ï¿½Yï¿½õ€¯­: Command not found
+tish error: #-2
+embox>
+ï¿½Zogï¿½Zogï¿½ï¿½""ï¿½ï¿½"""a
+ï¿½Zogï¿½Zogï¿½ï¿½""ï¿½ï¿½"""a: Command not found
+tish error: #-2
+embox>
+
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½%yï¿½ï¿½"""
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½"ï¿½%yï¿½ï¿½""": Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½
+tish error: #-22
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­xcï¿½
+embox>ï¿½@ees@ï¿½ï¿½@@ [H[H[2J@
+ï¿½@ees@: Command not found
+tish error: #-2
+embox>ls@@o<@!ï¿½ï¿½ï¿½e
+@ï¿½@@@@@: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­xcï¿½
+embox>ï¿½@ees@ï¿½ï¿½
+ï¿½@ees@: Command not found
+tish error: #-2
+embox>@@@eex
+@@@eex: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½zï¿½ï¿½ï¿½Æ­xcï¿½ï¿½CC@6pind@@@ï¿½
+embox>ï¿½@ees@ï¿½ï¿½@
+ï¿½@ees@: Command not found
+tish error: #-2
+embox>@@ï¿½@
+@ï¿½@@@@: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½@@ï¿½@
+D@@@?: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Rxcï¿½
+embox>ï¿½@bes@ï¿½
+ï¿½@bes@: Command not found
+tish error: #-2
+embox>CC@@@@@
+CC@@@@@: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ­xcï¿½
+embox>ï¿½@ees@ï¿½ï¿½@
+ï¿½@ees@: Command not found
+tish error: #-2
+embox>@@ï¿½@d
+@ï¿½@@@@?: Command not found
+tish error: #-2
+embox>
+qdï¿½ï¿½ï¿½ï¿½BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBï¿½
+ï¿½l@@ï¿½@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

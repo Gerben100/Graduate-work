@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>logoucdp�logout�embox>tish[K[10Cl��embox>tishl��[K[6Cembox>tishl��[K[7C
+embox>
+�logWut�embox>
+adduser.conf[K[19Cl��embox>
+adduser.confl��[K[6Cembox>p
+adduser.confl��[K[7C
+p: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+p�logouembox>
+p�logo[K[14C�[?5h[?5ll��embox>
+p�logo�l��[K[6Cembox>
+p�logo�l��[K[7C
+embox>
+��.ex��.exp�rt�
+embox>
+embox>xig���embox>xig���[K[6Cembox>pxig���[K[7Cembox>poxig���[K[8Cembox>porxig���[K[9Cembox>portxig���[K[10Cembox>port�xig���[K[11C
+embox>
+embox>xig���embox>xig���[K[6Cembox>xig���[K[7C
+x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C�ldembox>x[K[8C�embox>x�[K[6Cembox>x�[K[7C
+embox>
+embox>
+[K[6Cembox>[K[6Celogo_tx�go{t�
+elogo_tx�go{t�: Command not found
+tish error: #-2
+embox>
+�p�lo
+tish error: #-22
+embox>
+�b���
+�b���: Command not found
+tish error: #-2
+embox>
+p�lembox>
+p�l[K[6Cembox>
+p�l[K[7C
+embox>
+����log��t�[?5h[?5ll[?5h[?5lembox>
+����log��t�l[?5h[?5l[K[6Cembox>�
+����log��t�l[?5h[?5l[K[7Cembox>��
+����log��t�l[?5h[?5l[K[8Cembox>��
+����log��t�l[?5h[?5l[K[9C
+��: Command not found
+tish error: #-2
+embox>
+�
+embox>pi@
+embox>��wdembox>��w[K[13Ci�[?5h[?5l
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+cdembox>
+cd[K[6Cembox>
+cd[K[7Cembox>cd[K[7Cembox>cd[K[8Cembox>c[K[8Cembox>c[K[9Cembox>c[K[9Cembox>c[K[9Cembox>c[K[9Cwiembox>cwi[K[12C��!�embox>x[K[7C[?5h[?5l
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+Ԋ�embox>
+Ԋ�embox>
+Ԋ��wi�[?5h[?5l
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+��
+embox>xembox>xembox>xembox>xi�
+xi�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+embox>�wi!�wi�[?5h[?5l
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+l�-out#w+�dwib�
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+x
+embox>e
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+����������������ls������������������������������
+tish error: #-22
+embox>���������������c�wi�%�����������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

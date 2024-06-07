@@ -1,0 +1,57 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>0d�����s�l,�,��embox>0d�����s�l,�,��[K[27Cembox>0d�����s�l,�,��[K[26Cembox>0d�����s�l,�,��[K[25Cembox>0d�����s�l,�,��[K[24Cembox>0d�����s�l,�,N��[K[25Cembox>0d�����s�l,�,NN��[K[26Cembox>0d�����s�l,�,NNN��[K[27Cembox>0d�����s�l,�,NNN��[K[28Cembox>0d�����s�l,�,NNN��[K[29Cembox>0d�����s�l,�,NNN��[K[30C
+embox>���,��
+�: Command not found
+tish error: #-2
+embox>lembox>�[K[8C�l,
+跷l,: Command not found
+tish error: #-2
+embox>ogN
+embox>
+Bd��\embox>跷l,[K[11C��l����embox>跷l,��l����[K[20Cembox>跷l,��l����[K[19Cembox>跷l,��l����[K[18Cembox>跷l,��l����[K[17Cembox>跷l,��l����[K[18Cembox>跷l,��l��l��[K[19Cembox>跷l,��l��li��[K[20Cembox>跷l,��l��lig��[K[21Cembox>跷l,��l��ligo��[K[22Cembox>跷l,��l��ligot��[K[23Cembox>跷l,��l��ligott��[K[24Cembox>跷l,��l��ligott��[K[23Cembox>跷l,��l��ligot�t��[K[24Cembox>跷l,��l��ligot�t��[K[6Cembox>N跷l,��l��ligot�t��[K[7Cembox>NN跷l,��l��ligot�t��[K[8Cembox>NNN跷l,��l��ligot�t��[K[9Cembox>NNNN跷l,��l��ligot�t��[K[10Cembox>NNNNN跷l,��l��ligot�t��[K[11Cembox>NNNNNN跷l,��l��ligot�t��[K[12Cembox>NNNNNNN跷l,��l��ligot�t��[K[13Cembox>NNNNNNNN跷l,��l��ligot�t��[K[14Cembox>NNNNNNNNN跷l,��l��ligot�t��[K[15Cembox>NNNNNNNNNN跷l,��l��ligot�t��[K[16C
+NNNNNNNNNN跷l,: Command not found
+tish error: #-2
+embox>
+Bd��\embox>NNNNNNNNNN跷l,[K[21C��lembox>跷l,[K[11C��b�embox>跷l,��b�[K[16Cembox>跷l,��b�[K[15Cembox>跷l,��b�[K[14Cembox>跷l,��b�[K[13Cembox>跷l,��b�[K[12Cembox>跷l,�l�b�[K[13Cembox>跷l,�lo�b�[K[14Cembox>跷l,�log�b�[K[15Cembox>跷l,�logo�b�[K[16Cembox>跷l,�logot�b�[K[17Cembox>跷l,�logott�b�[K[18Cembox>跷l,�logott�b�[K[17Cembox>跷l,�logot�t�b�[K[18Cembox>跷l,�logot�t�b�[K[6Cembox>N跷l,�logot�t�b�[K[7Cembox>NN跷l,�logot�t�b�[K[8Cembox>NNN跷l,�logot�t�b�[K[9Cembox>NNNN跷l,�logot�t�b�[K[10Cembox>NNNNN跷l,�logot�t�b�[K[11Cembox>NNNNNN跷l,�logot�t�b�[K[12Cembox>NNNNNNN跷l,�logot�t�b�[K[13Cembox>NNNNNNNN跷l,�logot�t�b�[K[14Cembox>NNNNNNNNN跷l,�logot�t�b�[K[15C
+NNNNNNNNN跷l,�logot�t�: Command not found
+tish error: #-2
+embox>
+Bembox>NNNNNNNNN跷l,�logot�t�[K[29C�\embox>NNNNNNNNNN跷l,[K[21C��l
+embox>embox>
+B[K[8Cembox>NNNNNNNNN跷l,�logot�t��\[K[31C��^�embox>NNNNNNNNN跷l,�logot�t��\��^�embox>NNNNNNNNN跷l,�logot�t��\��^��embox>NNNNNNNNN跷l,�logot�t��\��^��embox>lNNNNNNNNN跷l,�logot�t��\��^��embox>l^NNNNNNNNN跷l,�logot�t��\��^��embox>l^gNNNNNNNNN跷l,�logot�t��\��^��embox>l^goNNNNNNNNN跷l,�logot�t��\��^��embox>l^gotNNNNNNNNN跷l,�logot�t��\��^��embox>l^gottNNNNNNNNN跷l,�logot�t��\��^��embox>l^gottNNNNNNNNN跷l,�logot�t��\��^��embox>l^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>l^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>Nl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNdl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNdNl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNdNNl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNdNNPl^got�tNNNNNNNNN跷l,�logot�t��\��^��embox>NNQNNdNNPNl^got�tNNNNNNNNN跷l,�logot�t��\��^��[K[16C
+NNQNNdNNPNl^got�tNNNNNNNNN跷l,�logot�t��\��: Command not found
+tish error: #-2
+embox>
+Bd���embox>
+B[K[8C��@NNNclembox>
+B��@NNNc[K[16C�NNNbembox>
+Bd���[K[12C@@@NNNcdembox>
+Bd���@@@NNNc[K[19C�NNNb
+Bd���@@@NNNc�NNNb: Command not found
+tish error: #-2
+embox>
+Bd��\embox>
+Bd���@@@NNNc�NNNb[K[24C��lembox>
+B[K[8Cembox>NNNNNNNNN跷l,�logot�t��\embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,����embox>NNNNNNNNNN跷l,�l���embox>NNNNNNNNNN跷l,�lo���embox>NNNNNNNNNN跷l,�log���embox>NNNNNNNNNN跷l,�logo���embox>NNNNNNNNNN跷l,�logot���embox>NNNNNNNNNN跷l,�logott���embox>NNNNNNNNNN跷l,�logott���embox>NNNNNNNNNN跷l,�logot�t���embox>NNNNNNNNNN跷l,�logot�t���embox>�NNNNNNNNNN跷l,�logot�t���embox>��NNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNNNNNN跷l,�logot�t���embox>���NNNNNNNNNNNNNNNNN跷l,�logot�t���
+���NNNNNNNNNNNNNNNNN跷l,�logot�t�: Command not found
+tish error: #-2
+embox>
+���embox>[K���NNNNNN
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

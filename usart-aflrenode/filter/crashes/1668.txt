@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e�it�exit;exit�����������eeeeeeeeeeeeeeeeeeeeeeeee
+e�it�exit;exit�����������eeeeeeeeeeeeeeeeeeeeeeeee: Command not found
+tish error: #-2
+embox>
+qxitYYYYYYYYYYYYYY�exit;��it�esit;iit;it�xye;�
+qxitYYYYYYYYYYYYYY�exit;��it�esit;iit;it�xye;�: Command not found
+tish error: #-2
+embox>�@;it;;[H[H[2Jembox>�@;it;;[K[14C;
+�@;it;;;: Command not found
+tish error: #-2
+embox>
+exit�eit�x;<[H[H[2Jembox>
+exit�eit�x;<[K[19C;y�it;it�xye;;xit;ew�t�ex;�;[H[H[2Jembox>
+exit�eit�x;<;y�it;it�xye;;xit;ew�t�ex;�;;
+exit�eit�x;<;y�it;it�xye;;xit;ew�t�ex;�;;: Command not found
+tish error: #-2
+embox>
+e�ls````=```@```logout```````;
+e�ls````=```: Command not found
+tish error: #-2
+embox>
+exit�e9embox>
+exit�e9[K[14Cembox>
+exit�e9;[K[15Cembox>
+exit�e9;e[K[16Cembox>
+exit�e9;ex[K[17Cembox>
+exit�e9;exi[K[18Cembox>
+exit�e9;exit[K[19Cembox>
+e�ls````=```[K[19Cexit;ot�xye;;it�lsxyee^port
+e�ls````=```exit;ot�xye;;it�lsxyee^port: Command not found
+tish error: #-2
+embox>
+ej>��embox>
+ej>��[K[14C��
+ej>: Command not found
+tish error: #-2
+embox>
+ext�exit;e�6656>6@@embox>[K[27C��@@@@@@@@@?@@@@@@@@@@@@\K@J
+ex: Command not found
+tish error: #-2
+embox>x�embox>x[K[7C�d?@@@@@@@@
+x�d?@@@@@@@@: Command not found
+tish error: #-2
+embox>
+exit�exit;g�6656>6@@��@@@@@@@@@?@@@@@@@@@@@@\@@J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>iembox>i[K[6Cembox>pi[K[7Cembox>p�i[K[8Cembox>p߀i[K[9Cembox>p߀�i[K[10Cembox>p߀�ii[K[11Cembox>p߀�iei[K[12Cembox>p߀�ie[K[12Ce
+p߀�iee: Command not found
+tish error: #-2
+embox>
+poxxxxxxxxxxxxxxxxxxxxee
+poxxxxxxxxxxxxxxxxxxxxee: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Ci�embox>
+i�[K[6Cembox>x
+i�[K[7Cembox>xp
+i�[K[8Cembox>xpo
+i�[K[9Cembox>xpor
+i�[K[10Cembox>xport
+i�[K[11Cembox>xporti
+i�[K[12Cembox>xporti|
+i�[K[13Cembox>xporti|i�[K[13C
+xporti|: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>@�I6embox>@�I6[K[6Cembox>@�I6[K[7Cembox>@�I6[K[8Cembox>@@�I6[K[9Cembox>@@@�I6[K[10Cembox>@@t@�I6[K[11Cembox>@@tt@�I6[K[12Cembox>@@ttt@�I6[K[13Cembox>@@tttt@�I6[K[14Cembox>@@ttttt@�I6[K[15Cembox>@@ttttte@�I6[K[16Cembox>@@tttttex@�I6[K[17Cembox>@@tttttexi@�I6[K[18Cembox>@@tttttexit@�I6[K[19Cembox>@@tttttexit@@�I6[K[20Cembox>@@tttttexit@ @�I6[K[21Cembox>@@tttttexit@ w@�I6[K[22Cembox>@@tttttexit@ wt@�I6[K[23Cembox>@@tttttexit@ wtt@�I6[K[24Cembox>@@tttttexit@ wttQ@�I6[K[25Cembox>@@tttttexit@ wttQt@�I6[K[26Cembox>@@tttttexit@ wttQt@@�I6[K[27Cembox>@@tttttexit@ wttQt@t@�I6[K[28Cembox>@@tttttexit@ wttQt@tt@�I6[K[29Cembox>@@tttttexit@ wttQt@ttt@�I6[K[30Cembox>@@tttttexit@ wttQt@tttt@�I6[K[31Cembox>@@tttttexit@ wttQt@ttttt@�I6[K[32Cembox>@@tttttexit@ wttQt@ttttte@�I6[K[33Cembox>@@tttttexit@ wttQt@tttttex@�I6[K[34Cembox>@@tttttexit@ wttQt@tttttexi@�I6[K[35Cembox>@@tttttexit@ wttQt@tttttexit@�I6[K[36Cembox>@@tttttexit@ wttQt@tttttexit@@�I6[K[37Cembox>@@tttttexit@ wttQt@tttttexit@ @�I6[K[38Cembox>@@tttttexit@ wttQt@tttttexit@ @@�I6[K[39Cembox>@@tttttexit@ wttQt@tttttexit@ @@@�I6[K[40Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@�I6[K[41Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@@�I6[K[42Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@t@�I6[K[43Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@tt@�I6[K[44Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@ttt@�I6[K[45Cembox>@@tttttexit@ wttQt@tttttexit@ @@@@ttt�@�I6
+embox>uW?
+uW?: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>c�66embox>c�66[K[6Cembox>c�66[K[7Cembox>c�66[K[8Cembox>@c�66[K[9Cembox>@@c�66[K[10Cembox>uW?[K[9C��[@@ @�@@ttt�uttt�ttttt~twt�wtttQ
+uW?: Command not found
+tish error: #-2
+embox>@W?
+@W?: Command not found
+tish error: #-2
+embox>
+llj�ll�lll�Wooooooooooooooooooooooooooooole�por4
+llj�ll�lll�Wooooooooooooooooooooooooooooole�por4: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>c�66embox>c�66[K[6Cembox>c�66[K[7Cembox>c�66[K[8Cembox>@c�66[K[9Cembox>@@c�66[K[10Cembox>@W?[K[9C�[@@ 6@@@ttt�wtembox>uW?[K[9Cembox>xporti|[K[13Cembox>
+poxxxxxxxxxxxxxxxxxxxxee
+embox>p߀�iee[K[13C��t
+embox>�ttst�wt
+�ttst�wt: Command not found
+tish error: #-2
+embox>tembox>t[K[6Cembox>t[K[7Cembox>@t[K[8Cembox>@Wt[K[9Cembox>@W?t[K[10Cembox>@W?et[K[11Cembox>@W?ewt[K[12Cembox>@W?ewit[K[13Cembox>@W?ewiSt[K[14C
+embox>
+embox>
+[K[7C@@�WW?
+@@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>c�66embox>c�66[K[6Cembox>c�66[K[7Cembox>c�66[K[8Cembox>@c�66[K[9Cembox>@@c�66[K[10Cembox>
+@@�[K[10C��[@@ @@@@ttQ@W?
+@@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>c�66embox>c�66[K[6Cembox>c�66[K[7Cembox>c�66[K[8Cembox>@c�66[K[9Cembox>@@c�66[K[10Cembox>
+@@�[K[10C��[@@ls @@66@@embox>�ttst�wt[K[14C��[@@@ttt�u�up
+�ttst�wt: Command not found
+tish error: #-2
+embox>tttttt�ttt�wtttQ?W?
+tttttt�ttt�wtttQ?W?: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cdi
+embox>c�66embox>c�66embox>c�66embox>c�66embox>@c�66embox>@@c�66embox>[K����� @@@@twt�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[KttQ
+�ttst�wtttQ: Command not found
+tish error: #-2
+embox>@W?
+@W?: Command not found
+tish error: #-2
+embox>
+�i�
+embox>c�7
+����: Command not found
+tish error: #-2
+embox>
+di
+embox>c�66�[@@ @t�wt�tQ
+t�wt�tQ: Command not found
+tish error: #-2
+embox>@W?
+@W?: Command not found
+tish error: #-2
+embox>
+di
+embox>Z�66��[@+ @@@@ttt�uttttttttttt�t�wtt�Q
+�ttst�wtttQ: Command not found
+tish error: #-2
+embox>@W?
+@W?: Command not found
+tish error: #-2
+embox>
+d@@@ttt�utttttttkttt�t�@@ttt�utttttttkttt�t��tttQ
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

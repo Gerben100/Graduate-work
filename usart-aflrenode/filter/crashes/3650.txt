@@ -1,0 +1,196 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>@ydpp�m�ydo�p�m�
+embox>
+
+embox>�
+embox>
+embox>
+�embox>
+[K[7C��
+: Command not found
+tish error: #-2
+embox>
+@�ydpp�m
+tish error: #-22
+embox>
+\@
+\@: Command not found
+tish error: #-2
+embox>
+�@�x��@���pxm�
+�@�x��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@dp�yembox>
+�[K[8Cp�m�
+�p�m�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�4�logoutdp �
+�4: Command not found
+tish error: #-2
+embox>
+��cd 
+��cd: Command not found
+tish error: #-2
+embox>
+embox>
+�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+embox>
+embox>
+
+embox>
+�embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+���
+tish error: #-22
+embox>
+ݍ
+ݍ: Command not found
+tish error: #-2
+embox>
+��S
+��S: Command not found
+tish error: #-2
+embox>
+�cd
+�cd: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+@ L
+tish error: #-22
+embox>
+����A�������������������cd�������s
+tish error: #-22
+embox>
+
+embox>�itL
+�itL: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�@9999
+�@: Command not found
+tish error: #-2
+embox>
+rL
+tish error: #-22
+embox>
+���8[?5h[?5l�logout�pr
+tish error: #-22
+embox>
+
+embox>
+embox>
+�GLLrL
+�GLLrL: Command not found
+tish error: #-2
+embox>
+����L
+����L: Command not found
+tish error: #-2
+embox>
+sp�
+sp: Command not found
+tish error: #-2
+embox>
+�����expor
+�����expor: Command not found
+tish error: #-2
+embox>
+@��[?5h[?5l
+embox>
+@��tw���=S/5 
+embox>
+@��<<!x�atwi<<2=S/< 
+embox>
+@��29<i<S/< <<<ls"
+<<: Command not found
+tish error: #-2
+embox>
+@��
+embox>
+@�<s"
+tish error: #-22
+embox>
+lout�t�
+lout�t�: Command not found
+tish error: #-2
+embox>
+@�twi<<2=S/< 
+embox>
+@�<<<l<�x�itpin<[-=S/< pih�
+<<s": Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+������<��exit�ݢ
+<��exit: Command not found
+tish error: #-2
+embox>
+@��twi<<2=S/<���<<<ls"
+<(<: Command not found
+tish error: #-2
+embox>
+@��@d
+tish error: #-22
+embox>
+�[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+@υi�
+embox>logout
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

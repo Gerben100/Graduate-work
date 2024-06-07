@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>��[K[7Cembox>���[K[8Cembox>����[K[9Cembox>�����[K[10Cembox>������[K[11Cembox>�������[K[12Cembox>��������[K[13Cembox>���������[K[14Cembox>��������N�[K[15Cembox>��������N�[K[16Cembox>��������N岲[K[17Cembox>[K[6C
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>����embox>[K[6C��embox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>}
+[K[7Cembox>}�
+[K[8Cembox>}��
+[K[9Cembox>}��^
+[K[10Cembox>}��^
+[K[9Cembox>}��{^
+[K[10Cembox>}��{�^
+[K[11Cembox>}��{�t^
+[K[12Cembox>}��{�t^
+[K[15C
+}��{�t^: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>t
+[K[7Cembox>tg
+[K[8Cembox>tgx
+[K[9Cembox>tgxo
+[K[10Cembox>tgxot
+[K[11Cembox>tgxot
+[K[12Cembox>tgxot[K[12C�t"
+embox>pinyhembox>pinyh[K[6Cembox>epinyh[K[7Cembox>expinyh[K[8Cembox>exipinyh[K[9Cembox>exitpinyh[K[10Cembox>exit9pinyh[K[11Cembox>exit9pinyh[K[12Cembox>exit9�pinyh[K[13Cembox>exit9�pinyh[K[14C
+exit9�: Command not found
+tish error: #-2
+embox>
+����t�ei
+����t�ei: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox> 
+[K[7Cembox> �
+[K[8Cembox> �
+[K[9Cembox> �
+[K[10Cembox> ��
+[K[11Cembox> ��r
+[K[12Cembox> ��r
+[K[13Cembox> ��r
+[K[14Cembox> ��r�
+[K[15Cembox> ��r�
+[K[16Cembox> ��r�
+[K[6C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>s
+[K[8Cembox>sl
+[K[9Cembox>sl
+[K[10Cembox>sl
+[K[6Cembox>[K[6C
+
+tish error: #-22
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7C
+embox>logout yejlt�og/�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

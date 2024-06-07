@@ -1,0 +1,83 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�k������������������������JJ_JJJ�J@J]JJ@JJ[
+�k����: Command not found
+tish error: #-2
+embox>lsJ
+lsJ: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cd
+embox>
+_JJm�"JJJJ
+_: Command not found
+tish error: #-2
+embox>
+_exprtJJJ_JJJJ@@JJJ_JJJJJ
+_: Command not found
+tish error: #-2
+embox>
+_JJJ_JJJJ@@JJ�_JJJJembox>
+_JJJ_JJJJ@@JJ�_JJJJ[K[6C
+_: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Clogou��@@@@@@@?@exp@�@@@@?@@_JJJ_JJJJ@@JJJ_
+logou��@@@@@@@?@exp@�@@@@?@@_: Command not found
+tish error: #-2
+embox>�J
+embox>
+���c�y
+���: Command not found
+tish error: #-2
+embox>
+JJJJJ@@JJJ@@JJJ_JJJJJ
+JJJJ: Command not found
+tish error: #-2
+embox>
+DJJJJ
+D: Command not found
+tish error: #-2
+embox>
+_�PJ_JJJgJ
+_: Command not found
+tish error: #-2
+embox>
+ ~embox>
+_[K[8C�
+_�: Command not found
+tish error: #-2
+embox>
+T�xembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+�xxx�dexpembox>[K[6Cembox>[K[6Cembox>[K[6C5embox>[K[6Cembox>[K[6CPembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>
+_�[K[9COx�
+_�Ox: Command not found
+tish error: #-2
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+�xport$?��
+embox>��x�
+embox>
+�xxx�dexp@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

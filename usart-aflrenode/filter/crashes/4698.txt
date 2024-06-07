@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>�[K[7Cembox>t�[K[8Cembox>�[K[7C
+embox>
+ttttt~t�ttembox>
+ttttt~t�tt[K[17C2pittttttt~t�ttembox>
+ttttt~t�tt2pittttttt~t�tt[K[34Ctrt
+ttttt~t�tt: Command not found
+tish error: #-2
+embox>
+ttttt~t�ttembox>
+ttttt~t�tt[K[17C/ttttttVttembox>
+ttttt~t�tt/ttttttVtt[K[28C2embox>
+ttttt~t�tt[K[17C2�ort
+ttttt~t�tt2�ort: Command not found
+tish error: #-2
+embox>
+tttgt~t�ttembox>
+tttgt~t�tt[K[17C2tettttVttembox>
+tttgt~t�tt2tettttVtt[K[28C2embox>
+ttttt~t�tt2�ort[K[22Cembox>
+ttttt~t�tt[K[17C�ort
+ttttt~t�tt�ort: Command not found
+tish error: #-2
+embox>
+te�ittt[H[H[2Jembox>
+te�ittt[K[14C2tuembox>
+te�ittt2tu[K[18C���tembox>
+te�ittt2tu���t[K[22CL embox>
+ttttt~t�tt�ort[K[21C�embox>
+ttttt~t�tt2�ort[K[22C
+ttttt~t�tt2�ort: Command not found
+tish error: #-2
+embox>
+tt(ttV�tembox>
+tt(ttV�t[K[15C2embox>
+ttttt~t�tt2�ort[K[22Cembox>
+ttttt~t�tt�ort�[K[22C�o�tembox>
+ttttt~t�tt�ort��o�t[K[26C2embox>
+ttttt~t�tt2�ort[K[22Cembox>
+ttttt~t�tt[K[17C�om�
+ttttt~t�tt�om�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Ctembox>
+ttttt~t�tt�om�embox>
+ttttt~t�tt2�ort�����������vtembox>
+ttttt~t�tt2�ort�����������v2,t2tttttsVttembox>
+ttttt~t�tt2�ort�����������v2,t2tttttsVtt2embox>
+ttttt~t�tt�ort��o�tembox>
+ttttt~t�tt2�ort[K��������ttembox>
+ttttt~t�tt2�ort��������ttexi
+ttttt~t�tt2�ort��������ttexi: Command not found
+tish error: #-2
+embox>t������������������
+t������������������: Command not found
+tish error: #-2
+embox>
+ett��Ycd��tru
+ett: Command not found
+tish error: #-2
+embox>
+t;Zdtq�~VlsjLd
+jL: Command not found
+tish error: #-2
+embox>
+ttt�oTt
+ttt�oTt: Command not found
+tish error: #-2
+embox>
+ttlst~t�22tort
+export: Command not found
+tish error: #-2
+embox>
+tt�Rt�Rttt]��t�22tttQ..t2�ort
+t������������������: Command not found
+tish error: #-2
+embox>
+ttttt~�tt2ttttttt2�Wrt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

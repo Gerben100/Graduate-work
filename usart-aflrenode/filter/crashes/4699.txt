@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>t
+t: Command not found
+tish error: #-2
+embox>
+ttttembox>
+tttt[K[11Ctï¿½ttembox>
+tttttï¿½tt[K[16C2ttï¿½ttt~2ttttttVt[?5h[?5l
+tttt: Command not found
+tish error: #-2
+embox>
+ttpWyWï¿½t~tï¿½tdcdembox>
+ttpWyWï¿½t~tï¿½tdcd[K[22C2ttttttVtembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[6Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[7Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[8Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[9Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[10Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[11Cembox>
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[12Cembox>y
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[13Cembox>y
+ttpWyWï¿½t~tï¿½tdcd2ttttttVt[K[14C
+embox>
+ttï¿½vhï¿½[?5h[?5l
+embox>ï¿½1logoutittt~t tttVï¿½tembox>ï¿½1logoutittt~t tttVï¿½t[K[27Cï¿½y[?5h[?5l
+ï¿½1logoutittt~t: Command not found
+tish error: #-2
+embox>
+ttttxit tiiiiiitembox>
+ttttxit tiiiiiit[K[23C2ï¿½ï¿½y[?5h[?5l
+ttttxit: Command not found
+tish error: #-2
+embox>
+tttR[?5h[?5l
+ttt: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½ttembox>
+ttttt~tï¿½tt[K[17C2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVttembox>ï¿½
+ttttt~tï¿½tt2ttttttVttembox>
+ttttt~tï¿½tt2ttttttVtt
+embox>
+ttttttttt~ï¿½ï¿½tdbï¿½ttttt~tï¿½ttembox>
+ttttttttt~ï¿½ï¿½tdbï¿½ttttt~tï¿½tt2tttõ‚‚‚ï¿½tï¿½tï¿½ttï¿½
+ttttttttt~ï¿½ï¿½tdbï¿½ttttt~tï¿½tt: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+ttt
+ttt: Command not found
+tish error: #-2
+embox>
+tï¿½ï¿½ht~tembox>
+tï¿½ï¿½ht~t[K[6Cembox>t
+tï¿½ï¿½ht~t[K[7Cembox>tï¿½
+tï¿½ï¿½ht~t[K[8Cembox>tï¿½ï¿½
+tï¿½ï¿½ht~t[K[9Cembox>tï¿½ï¿½ï¿½
+tï¿½ï¿½ht~t[K[10Cembox>tï¿½ï¿½ï¿½ï¿½
+tï¿½ï¿½ht~t[K[11Cembox>tï¿½ï¿½ï¿½ï¿½ï¿½
+tï¿½ï¿½ht~t[K[12C
+tï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+embox>ï¿½ï¿½ï¿½embox>ï¿½ï¿½[K[8Cï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½ï¿½ï¿½tttt~tï¿½outï¿½ï¿½ï¿½d
+ttttt~: Command not found
+tish error: #-2
+embox>
+ttttt~lï¿½tt2ï¿½
+ttttt~lï¿½tt: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tT2tï¿½ï¿½ï¿½ï¿½ï¿½
+ttttt~tï¿½tT: Command not found
+tish error: #-2
+embox>
+tiï¿½tt~2lsï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½tttï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

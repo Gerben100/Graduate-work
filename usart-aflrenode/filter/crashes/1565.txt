@@ -1,0 +1,49 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+logoutembox>
+logou[K[12C��@xxxxxxxembox>
+logou��@xxxxxx[K[21Cxvxxxxxxxxxxxxxxxxxx@@@xp@�@@@@?
+logou��@xxxxxxxvxxxxxxxxxxxxxxxxxx@@@xp@�@@@@?: Command not found
+tish error: #-2
+embox>@@@ @@?@B
+@@@: Command not found
+tish error: #-2
+embox>
+logou[E6656>6@@@@@D8@@88@@?7@@@@pin@@@\@@mxp@@@@�
+logou[E6656>6@@: Command not found
+tish error: #-2
+embox>pin@@@\@@exp@�@@@@?@@@@@@@
+pin@@@\@@exp@�@@@@?@@@@@@@: Command not found
+tish error: #-2
+embox>
+logoutExpo�embox>[K[6C656>6@@embox>656>6@@[K[13C��@@@@@A88@@?7@@@@pin@@@@@@ex
+656>6@@��@@@@@A88@@?7@@@@pin@@@@@@ex: Command not found
+tish error: #-2
+embox>0@�@@@@?@@@@@@@\@
+0@�@@@@?@@@@@@@\@: Command not found
+tish error: #-2
+embox>
+logoutEx�oxp�@@??@@@@@@@@
+logoutEx�oxp: Command not found
+tish error: #-2
+embox>
+lTgo�tExpo�665N>6\@t
+�@@@@�@@?7embox>[K@@@pin@@@\@@exx@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

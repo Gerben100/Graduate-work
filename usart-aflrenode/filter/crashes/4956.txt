@@ -1,0 +1,193 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+������ embox>
+������ [K[6Cembox>c
+������ [K[7Cembox>cj
+������ [K[8C
+cj: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>p
+[K[8Cembox>p�
+[K[9Cembox>p��
+[K[10Cembox>p��
+[K[11Cembox>p��o
+[K[12Cembox>p��or
+[K[13Cembox>p��ort
+[K[14Cembox>p��ort
+[K[15Cembox>p��ort
+[K[16Cembox>p��ort
+[K[17Cembox>p��ort
+[K[18Cembox>p��ort
+[K[19Cembox>p��orto
+[K[20Cembox>p��ortor
+[K[21Cembox>p��ortort
+[K[22Cembox>p��ortort�
+[K[23Cembox>p��ortort��
+[K[24Cembox>p��ortort��
+[K[25Cembox>p��ortort��
+[K[26Cembox>p��ortort��
+[K[27Cembox>p��ortort��o
+[K[28Cembox>p��ortort��or
+[K[29Cembox>p��ortort��ort
+[K[30Cembox>p��ortort��ort
+[K[31Cembox>p��ortort��ort
+[K[32Cembox>p��ortort��ort
+[K[33Cembox>p��ortort��ort
+[K[34Cembox>p��ortort��ort
+[K[35Cembox>p��ortort��orto
+[K[36Cembox>p��ortort��ortor
+[K[37Cembox>p��ortort��ortor
+[K[6Cembox>�p��ortort��ortor
+[K[7Cembox>�p��ortort��ortor
+[K[8Cembox>�p��ortort��ortor
+[K[9Cembox>�p��ortort��ortor
+[K[9Cembox>�p��ortort��ortor
+[K[10Cembox>� p��ortort��ortor
+[K[11C
+�: Command not found
+tish error: #-2
+embox>
+�� embox>
+�� [K[6Cembox>@
+�� [K[7Cembox>@
+�� [K[8C
+@: Command not found
+tish error: #-2
+embox>
+������!embox>
+������![K[6Cembox>
+������![K[7Cembox>
+������![K[8C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����embox>
+����[K[6Cembox>
+����[K[7Cembox>
+����[K[8C
+embox>
+��embox>
+��[K[6Cembox>
+��[K[7Cembox>
+��[K[8Cembox>
+��[K[9Cembox>�
+��[K[10Cembox>�
+��[K[11C
+embox>
+loogou���embox>
+loogou���[K[6C
+loogou�: Command not found
+tish error: #-2
+embox>
+�zyezye�
+embox> embox> [K[6Cembox> [K[7Cembox>  [K[8Cembox>  [K[9Cembox>  [K[10C
+embox>
+�ye*�
+�ye: Command not found
+tish error: #-2
+embox>
+��ye��/
+��ye��: Command not found
+tish error: #-2
+embox>
+�c
+�c: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+d
+embox>Ixpr^
+Ixpr^: Command not found
+tish error: #-2
+embox>
+��c
+��c: Command not found
+tish error: #-2
+embox>
+��?[?5h[?5l
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���e�x��
+���e�x��: Command not found
+tish error: #-2
+embox>
+!�����
+!���: Command not found
+tish error: #-2
+embox>
+���x
+���: Command not found
+tish error: #-2
+embox>
+p�dC�
+p�dC�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~56@
+~: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+@�
+@�: Command not found
+tish error: #-2
+embox>
+�
+��: Command not found
+tish error: #-2
+embox>
+�"��
+���: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�l�
+�: Command not found
+tish error: #-2
+embox>
+�--
+�--: Command not found
+tish error: #-2
+embox>
+a������vma���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

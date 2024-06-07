@@ -1,0 +1,133 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> 
+tish error: #-22
+embox>
+��rembox> [K[7Ccd�i!�iembox> cd�i!�i[K[15Cembox> cd�i!�i[K[16Cembox> cd�i!�i[K[16C
+embox>�m~yembox>�m~y[K[10Cembox>�m~y[K[11Cembox>�m~y�[K[12Cembox>�m~y��[K[13Cembox>�m~y��r[K[14Cembox>
+��[K[9Cc��miembox>
+��c��mi[K[14Cembox>
+��c��mi[K[15Cembox>
+��c��mi[K[15C
+embox>�i�
+�: Command not found
+tish error: #-2
+embox>eyembox>ey[K[8Cembox>ey[K[9Cembox>ey�[K[10Cembox>ey�d[K[11Cembox>ey�d�[K[12Cembox>ey�d�[K[12Cembox>ey�d�[K[13Cembox>ey�di�[K[14Cembox>ey�di�[K[15Cembox>ey�dir�[K[16Cembox>�[K[7Cc��;
+�c��;: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�w� 
+�w�: Command not found
+tish error: #-2
+embox>
+x�embox>
+x�[K[9C
+embox>
+embox>
+�embox>
+[K[7C�Ⱥembox>
+��[K[10C�
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>�� 
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>
+embox>
+embox>
+[K[7Cembox>
+�[K[8C����
+����: Command not found
+tish error: #-2
+embox>
+embox>
+[K��;
+��;: Command not found
+tish error: #-2
+embox>
+Bxexpo�tuembox>
+Bxexpo�tuembox>�
+Bxexpo�tu
+embox>x�;
+x�;: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+{��lofort
+{��lofort: Command not found
+tish error: #-2
+embox>
+�;
+�: Command not found
+tish error: #-2
+embox>
+�v~�
+embox>
+
+embox> 
+embox>
+�6expozt@EH@@
+�@pinx�;: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
++
+embox>x�;
+x�;: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+%x^�@�
+xls���MVi
+%x^: Command not found
+tish error: #-2
+embox>
+�x�pi
+�x�: Command not found
+tish error: #-2
+embox>
+��h�
+��h�: Command not found
+tish error: #-2
+embox>
+@
+embox>xxpi�d
+embox>��pi
+��: Command not found
+tish error: #-2
+embox>
+����������������i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

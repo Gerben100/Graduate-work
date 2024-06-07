@@ -1,0 +1,109 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��[?5h[?5l�o`ouN��(xemembox>���o`ouN��(xem[K[20Cembox>���o`ouN��(xe�m[K[21Cembox>���o`ouN��(xe�6m[K[22Cembox>���o`ouN��(xe�6Sm[K[23Cembox>���o`ouN��(xe�6S5m[K[24Cembox>���o`ouN��(xe�6S56m[K[25Cembox>���o`ouN��(xe�6S56>m[K[26Cembox>���o`ouN��(xe�6S56>�m[K[27Cembox>���o`ouN��(xe�6S56>��m[K[28Cembox>���o`ouN��(xe�6S56>���m[K[29Cembox>���o`ouN��(xe�6S56>����m[K[30Cembox>���o`ouN��(xe�6S56>����wm[K[31Cembox>���o`ouN��(xe�6S56>����w�m[K[32Cembox>���o`ouN��(xe�6S56>����w��m[K[33Cembox>���o`ouN��(xe�6S56>����w��@m[K[34Cembox>���o`ouN��(xe�6S56>����w��@@m[K[35Cembox>���o`ouN��(xe�6S56>����w��@@@m[K[36Cembox>���o`ouN��(xe�6S56>����w��@@@Im[K[37Cembox>���o`ouN��(xe�6S56>����w��@@@I5m[K[38Cembox>���o`ouN��(xe�6S56>����w��@@@I56m[K[39Cembox>���o`ouN��(xe�6S56>����w��@@@I56Qm[K[40Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6m[K[41Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@m[K[42Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@m[K[43Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@m[K[44Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@m[K[43Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@lm[K[44Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@lom[K[45Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@logm[K[46Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@logom[K[47Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@logoum[K[48Cembox>���o`ouN��(xe�6S56>����w��@@@I56Q6@@logou�m[K[49C
+��: Command not found
+tish error: #-2
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+��[?5h[?5lembox>�@[K[8C�w�
+embox>�
+embox>�embox>[K[7C
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>(
+embox>xeN��(xemembox>xeN��(xem[K[14Cembox>xeN��(xe�m[K[15Cembox>xeN��(xe�6m[K[16Cembox>xeN��(xe�6Im[K[17Cembox>xeN��(xe�6I5m[K[18Cembox>xeN��(xe�6I56m[K[19Cembox>xeN��(xe�6I56>m[K[20Cembox>xeN��(xe�6I56>�m[K[21Cembox>xeN��(xe�6I56>��m[K[22Cembox>xeN��(xe�6I56>���m[K[23Cembox>xeN��(xe�6I56>����m[K[24Cembox>xeN��(xe�6I56>���m[K[23Cembox>xeN��(xe�6I56>����m[K[24C
+xeN��(xe�6I56>����m: Command not found
+tish error: #-2
+embox>�@@@I56
+embox>6Q6�@6@@embox>6Q6�@6@@[K[16Clogou��@
+embox>
+��[?5h[?5lembox>xeN��(xe�6I56>����m[K[25C�w�
+embox>
+embox>[?5h[?5l
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>(xeN��(xemembox>(xeN��(xem[K[16Cembox>(xeN��(xe�m[K[17Cembox>(xeN��(xe�6m[K[18Cembox>(xeN��(xe�6m[K[19Cembox>(xeN��(xe�6m[K[18Cembox>(xeN��(xe�6m[K[19Cembox>(xeN��(xe�6m[K[20Cembox>(xeN��(xe�6�m[K[21Cembox>(xeN��(xe�6��m[K[22Cembox>(xeN��(xe�6���m[K[23Cembox>(xeN��(xe�6����m[K[24Cembox>(xeN��(xe�6���m[K[23Cembox>(xeN��(xe�6����m[K[24Cembox>(xeN��(xe�6�����m[K[25C
+embox>@@@I56Q6C@embox>@@@I56Q6C@[K[16Clogou��{
+@@@I56Q6C@logou��{: Command not found
+tish error: #-2
+embox>
+��[?5h[?5l��������embox>@@@I56Q6C@logou��{[Kƈ�
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>(xeN��(xemembox>(xeN��(xem[K[16Cembox>(xeN��(xe�m[K[17Cembox>(xeN��(xe�6m[K[18Cembox>(xeN��(xe�6Imembox>(xeN��(xe�6I5membox>(xeN��(xe�6I56m
+embox>>����embox>>���[K[10Cy"i6Q6@@embox>>���y"i6Q6@@[K[19Clogou��@
+>���: Command not found
+tish error: #-2
+embox>
+�����u��@����embox>
+�����u��@���[K[22C�[?5h[?5lembox>>���[K[10C�w�
+embox>
+embox>embox>[Kembox>[K
+embox>
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>[H[H[2Jembox>embox>[K@I
+embox>
+@@@T@@@@@@?�@@6@@@\@@�@
+@@@T@@@@@@?�@@6@@@\@@�@: Command not found
+tish error: #-2
+embox>
+(�embox>
+(��xg*T@embox>
+(��xg*T@lopou��@
+tish error: #-22
+embox>
+��[?5h[?5l�w�
+embox>
+embox>texitt�
+embox>
+embox>@
+embox>
+embox>
+embox>�ttexitttttt��tt56Q0@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

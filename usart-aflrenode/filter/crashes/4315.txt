@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>#p
+embox>
+�#!#p
+�: Command not found
+tish error: #-2
+embox>
+3��@@@A@@@@2@@@@@>@@?@@1@A@@@�@?@@@exit@@@@e
+tish error: #-22
+embox>
+Z�6653333xp@�@@@A?@@@@@@@@@@@@\@@e
+tish error: #-22
+embox>
+embox>
+[K[7C3�]@@@@@B@@@???????????\@@exp@�@@@@?@@@@@@aA@@@@
+tish error: #-22
+embox>\�@�
+\�@�: Command not found
+tish error: #-2
+embox>
+Z�665333333��@@@@@@@@@?@exp@�Apin@@\@@@@@@@@@@@
+tish error: #-22
+embox>?@@F@@@@@@@@@\@@e
+?@@F@@@@@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+Z�6653333333��@@@@@@@@@?@@@@@@A@@@L@\@@exp@�@@@@
+tish error: #-22
+embox>?@@@@@@@@�\@@e
+?@@@@@@@@: Command not found
+tish error: #-2
+embox>
+Z�66533&3333��5@@@@@@@?@@@@@@A@@@Re
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�6
+[K[9Cembox>�66
+[K[10Cembox>�66%
+[K[11Cembox>�66%3
+[K[12Cembox>�66%33
+[K[13Cembox>�66%333
+[K[14Cembox>�66%3333
+[K[15Cembox>�66%33333
+[K[16Cembox>�66%333333
+[K[17Cembox>�66%3333333
+[K[18Cembox>�66%3333333�
+[K[19Cembox>�66%3333333��
+[K[20Cembox>�66%3333333��@
+[K[21Cembox>�66%3333333��@@
+embox>�66%3333333��@@@
+embox>�66%3333333��@@@@
+embox>�66%3333333��@@@@@
+embox>�66%3333333��@@@@@@
+embox>�66%3333333��@@@@@@@
+embox>�66%3333333��@@@@@@@@
+embox>�66%3333333��@@@@@@@@@
+embox>�66%3333333��@@@@@@@@@?
+embox>�66%3333333��@@@@@@@@@?@
+embox>�66%3333333��@@@@@@@@@?@@
+embox>�66%3333333��@@@@@@@@@?@@@
+embox>�66%3333333��@@@@@@@@@?@@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@@@
+embox>�66%3333333��@@@@@@@@@?@@@@@@A@@@
+embox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52C
+embox>@@@@@@@\@@e
+@@@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+Z�6653333333��@@@@@@@@@?@@@@@@A@@
+tish error: #-22
+embox>
+Z[� �c��embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21C
+embox>
+Z�66@@@@@:@Gexk@�@@@@?@@@@@@@@@@@@\@\@Gexp@�A@@@
+tish error: #-22
+embox>?@@@@@@@@@@@@\d@e
+?@@@@@@@@@@@@\d@e: Command not found
+tish error: #-2
+embox>
+Z�66533333���@@@(@@@@@?�@@@@@A��������������ܲ��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,629 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6Cembox>[K[6Cembox>ï¿½[K[7Cembox>ï¿½[K[8Cembox>ï¿½ï¿½[K[9Cembox>ï¿½ï¿½ï¿½[K[10Cembox>ï¿½ï¿½ï¿½[K[11Cembox>ï¿½ï¿½ï¿½ï¿½[K[12Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½[K[13Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[14Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[15Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[16Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[17Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[18Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½y[K[19Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½[K[20Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½[K[21Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½[K[22Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[K[23Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5l[K[24Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½[K[25Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½d[K[26Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½d@[K[27Cembox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½d@k[K[28C
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½d@k: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>d
+[K[7Cembox>d@
+[K[8Cembox>d@k
+[K[9Cembox>d@kï¿½
+[K[10Cembox>d@kï¿½
+[K[11Cembox>d@kï¿½ï¿½
+[K[12Cembox>d@kï¿½ï¿½ï¿½
+[K[13Cembox>d@kï¿½ï¿½ï¿½ï¿½
+[K[14Cembox>d@kï¿½ï¿½ï¿½ï¿½d
+[K[15Cembox>d@kï¿½ï¿½ï¿½ï¿½d
+[K[16Cembox>d@kï¿½ï¿½ï¿½ï¿½d
+[K[17Cembox>d@kï¿½ï¿½ï¿½ï¿½d
+[K[18Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½
+[K[19Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½
+[K[20Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½
+[K[21Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½
+[K[22Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½
+[K[23Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[24Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[25Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[26Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[27Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[28Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5l
+[K[29Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½
+[K[30Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½
+[K[31Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½
+[K[32Cembox>d@kï¿½ï¿½ï¿½ï¿½dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½ï¿½
+[K[33C
+d@kï¿½ï¿½ï¿½ï¿½d: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½ï¿½ï¿½
+tish error: #-22
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>d
+[K[7Cembox>dj
+[K[8Cembox>djk
+[K[9Cembox>dj
+k[K[10Cembox>dj
+kï¿½[K[11Cembox>dj
+kï¿½ï¿½[K[12Cembox>dj
+kï¿½ï¿½ï¿½[K[13Cembox>dj
+kï¿½ï¿½ï¿½ï¿½[K[14Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½[K[15Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[16Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[17Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[18Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[19Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[20Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[21Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[22Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[23Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[24Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[25Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[26Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[27Cembox>dj
+kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[K[28C
+dj: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>d
+[K[7Cembox>d@
+[K[8Cembox>d@k
+[K[9Cembox>d@kï¿½
+[K[10Cembox>d@kï¿½ï¿½
+[K[11Cembox>d@kï¿½ï¿½ï¿½
+[K[12Cembox>d@kï¿½ï¿½ï¿½ï¿½
+[K[13Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½
+[K[14Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[15Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[16Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[17Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[18Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[19Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[20Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[21Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[22Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+[K[23Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5l
+[K[24Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½
+[K[25Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½
+[K[26Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½ï¿½
+[K[27Cembox>d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½ï¿½ï¿½
+[K[28C
+d@kï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ttï¿½ï¿½ï¿½ï¿½ { embox>
+ttï¿½ï¿½ï¿½ï¿½ { [Kembox>
+ttï¿½ï¿½ï¿½ï¿½ { [Kembox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ [Kembox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ [Kembox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ï¿½ [Kembox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ï¿½ï¿½ embox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ï¿½ï¿½ï¿½ embox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ï¿½ï¿½ï¿½@ embox>
+ttï¿½ï¿½ï¿½ï¿½ {ï¿½ï¿½ï¿½ï¿½ï¿½@ embox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46C
+ttï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>
+[Kï¿½ï¿½ï¿½e
+ï¿½ï¿½ï¿½e: Command not found
+tish error: #-2
+embox>
+xitu
+xitu: Command not found
+tish error: #-2
+embox>
+&y"ï¿½de
+&y"ï¿½d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+nnnnnne
+nnnnnne: Command not found
+tish error: #-2
+embox>
+
+embox>
+|yHï¿½
+xitu|yHï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½dï¿½Exï¿½xï¿½ï¿½cdd8
+tish error: #-22
+embox>
+ï¿½y
+ï¿½y: Command not found
+tish error: #-2
+embox>
+ï¿½
+Wï¿½: Command not found
+tish error: #-2
+embox>
+[H[H[2Jdye
+xitudye: Command not found
+tish error: #-2
+embox>
+ï¿½UT
+ï¿½: Command not found
+tish error: #-2
+embox>
+dloï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+tish error: #-22
+embox>
+hi
+i: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+lsi
+lsi: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+rt
+rt: Command not found
+tish error: #-2
+embox>
+
+d@: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+embox>
+ï¿½lï¿½dï¿½ï¿½ï¿½ï¿½lllllllllllllllll@
+ï¿½lï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½ï¿½ï¿½hï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½oui
+xituo: Command not found
+tish error: #-2
+embox>
+
+xitu: Command not found
+tish error: #-2
+embox>
+D@@ï¿½ï¿½out
+embox>
+L ß€
+embox>ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½dï¿½
+embox>L@ï¿½ï¿½
+Lï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½@
+ï¿½ï¿½@: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5lï¿½
+xitu[?5h[?5lï¿½: Command not found
+tish error: #-2
+embox>
+
+d@: Command not found
+tish error: #-2
+embox>
+ï¿½
+tish error: #-22
+embox>
+ï¿½s@ï¿½ï¿½s@ï¿½L ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+xitu: Command not found
+tish error: #-2
+embox>
+
+embox>ï¿½ï¿½cd[?5h[?5lï¿½ï¿½
+ï¿½ï¿½cd: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+dVï¿½xRï¿½j: Command not found
+tish error: #-2
+embox>
+ï¿½xeï¿½j
+d@: Command not found
+tish error: #-2
+embox>
+eï¿½j
+tish error: #-22
+embox>
+ï¿½ï¿½jd
+tish error: #-22
+embox>
+ï¿½cdxeï¿½j
+d@: Command not found
+tish error: #-2
+embox>
+
+@@: Command not found
+tish error: #-2
+embox>
+{ï¿½ï¿½
+{ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+?iii
+?iii: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½xeï¿½j
+W@: Command not found
+tish error: #-2
+embox>
+
+d@ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½c\\eï¿½j
+ï¿½linsmï¿½: Command not found
+tish error: #-2
+embox>
+flsi{[?5h[?5l
+embox> ï¿½wiï¿½E
+xitu: Command not found
+tish error: #-2
+embox>
+llogout
+llogout: Command not found
+tish error: #-2
+embox>
+ï¿½D
+xitu: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½fMDxpo ï¿½e
+xitu: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½Zï¿½ff
+ï¿½ï¿½ï¿½e: Command not found
+tish error: #-2
+embox>
+!
+ï¿½fï¿½D: Command not found
+tish error: #-2
+embox>
+ï¿½Dfï¿½dD
+xitud: Command not found
+tish error: #-2
+embox>
+b!!
+b!!: Command not found
+tish error: #-2
+embox>
+A
+A: Command not found
+tish error: #-2
+embox>
+[?5h[?5lecttï¿½
+xituecttï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½bv
+tish error: #-22
+embox>
+888exloï¿½i
+e8L8778: Command not found
+tish error: #-2
+embox>
+888!8888 888
+888!8888: Command not found
+tish error: #-2
+embox>
+88
+88: Command not found
+tish error: #-2
+embox>
+88I888888888
+88I888888888: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+%%%%%%%%%%J88
+embox>
+ï¿½6656>6z@
+xitu6656>6z@: Command not found
+tish error: #-2
+embox>
+888ï¿½ï¿½ï¿½ï¿½ï¿½8888I8888I
+888ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+885888Jï¿½888
+885888Jï¿½888: Command not found
+tish error: #-2
+embox>
+88K88logouï¿½8
+88K88logouï¿½8: Command not found
+tish error: #-2
+embox>
+988888ï¿½ï¿½88ï¿½ï¿½ï¿½ï¿½ï¿½'8ï¿½
+ï¿½ï¿½ï¿½e8888ï¿½ï¿½88ï¿½ï¿½ï¿½ï¿½ï¿½'8ï¿½: Command not found
+tish error: #-2
+embox>
+
+d: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+Li
+xportieL: Command not found
+tish error: #-2
+embox>
+,L  lï¿½Llï¿½
+,L: Command not found
+tish error: #-2
+embox>
+@d@
+L: Command not found
+tish error: #-2
+embox>
+dsï¿½
+ds: Command not found
+tish error: #-2
+embox>
+ï¿½ip#H
+tish error: #-22
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+uï¿½
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5lï¿½ï¿½@
+tish error: #-22
+embox>
+v
+ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+@ï¿½ï¿½ï¿½ï¿½ï¿½lRdousï¿½ï¿½Ö¿ï¿½
+xitu98ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½ï¿½Ö¿ï¿½ï¿½
+embox>
+
+b?: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½
+ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+d
+d@: Command not found
+tish error: #-2
+embox>
+
+ï¿½ö¿¯¿Þ¿ï¿½ï¿½d@: Command not found
+tish error: #-2
+embox>
+
+d@: Command not found
+tish error: #-2
+embox>
+
+d@: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+d@ï¿½ï¿½ï¿½ï¿½ï¿½is
+Ô´Ô´: Command not found
+tish error: #-2
+embox>
+2ï¿½ï¿½"2ï¿½ï¿½ï¿½rtrt
+tish error: #-22
+embox>
+++
+++: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½2xNorzï¿½2xNorz
+ï¿½2xNorzï¿½2xNorz: Command not found
+tish error: #-2
+embox>
+oï¿½t
+oï¿½t: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½logoutï¿½
+ï¿½logout: Command not found
+tish error: #-2
+embox>
+dplSss
+d: Command not found
+tish error: #-2
+embox>
+)expoï¿½t
+tish error: #-22
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+ttttt~tï¿½tt2ttttttVtt2ï¿½ort
+ï¿½ï¿½ï¿½eï¿½ort: Command not found
+tish error: #-2
+embox>
+vï¿½ï¿½,,,.,,
+,,.,,: Command not found
+tish error: #-2
+embox>,@
+,: Command not found
+tish error: #-2
+embox>
+@e
+embox>
+2erQpï¿½2xiï¿½ï¿½orQpï¿½2t
+2erQpï¿½2xiï¿½ï¿½orQpï¿½2t: Command not found
+tish error: #-2
+embox>
+ï¿½expor
+ï¿½expor: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½t
+ï¿½ï¿½t: Command not found
+tish error: #-2
+embox>
+ï¿½2exï¿½ï¿½smï¿½port
+ï¿½2exï¿½ï¿½sm: Command not found
+tish error: #-2
+embox>
+ eï¿½ï¿½ï¿½t
+tish error: #-22
+embox>
+dddddddddddddddd2edport
+tish error: #-22
+embox>
+2exportport
+2exportport: Command not found
+tish error: #-2
+embox>
+2xï¿½dï¿½ï¿½port
+tish error: #-22
+embox>
+2{rt
+tish error: #-22
+embox>
+
+ï¿½ï¿½[?5h[?5lï¿½@@ex6T@@@@@Qfxtortï¿½2ex
+ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+exit2export
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

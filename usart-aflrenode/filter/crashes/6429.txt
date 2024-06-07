@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>��EEEYnXn
+��EEEYnXn: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+export
+export: Command not found
+tish error: #-2
+embox>
+f�Eoembox>
+export[K[13Cb
+exportb: Command not found
+tish error: #-2
+embox>
+f�=oembox>
+exportb[K[14Cd
+exportbd: Command not found
+tish error: #-2
+embox>
+{�Eembox>
+exportbd[K[15C\
+exportbd\: Command not found
+tish error: #-2
+embox>
+����Edd
+����E: Command not found
+tish error: #-2
+embox>
+f�Eccc
+f�Eccc: Command not found
+tish error: #-2
+embox>
+f�iembox>
+f�i[K[11Cembox>
+f�i[K[12Cembox>
+f�i�[K[13Cembox>
+f�i�y[K[14Cembox>
+f�i�ye[K[15Cembox>
+f�i�yee[K[16Cembox>
+f�i�yeei[K[17Cembox>
+f�i�yeei[K[18Cembox>
+f�i�yeei[K[17Cembox>
+f�i�yeeiembox>
+f�i�yeei�embox>
+f�i�yeei�yembox>
+f�i�yeei�yeembox>
+f�i�yeei�ye�embox>
+f�i�yeei�ye��embox>
+f�i�yeei�ye��eembox>
+f�i�yeei�ye��e�embox>
+f�i�yeei�ye��e�embox>
+f�i�yeei�ye��e�xembox>
+f�i�yeei�ye��e�xeembox>
+f�i�yeei�ye��e�xeiembox>
+f�i�yeei�ye��e�xeiembox>
+f�i�yeei�ye��e�xeiembox>
+f�i�yeei�ye��e�xeiembox>
+f�i�yeei�ye��e�xei�embox>
+f�i�yeei�ye��e�xei�yembox>
+f�i�yeei�ye��e�xei�yeembox>
+f�i�yeei�ye��e�xei�yeeembox>
+f�i�yeei�ye��e�xei�yeeiembox>
+f�i�yeei�ye��e�xei�yeeiembox>
+f�i�yeei�ye��e�xei�yeeiembox>
+f�i�yeei�ye��e�xei�yeeiembox>
+f�i�yeei�ye��e�xei�yeei�embox>
+f�i�yeei�ye��e�xei�yeei�yembox>
+f�i�yeei�ye��e�xei�yeei�yeembox>
+f�i�yeei�ye��e�xei�yeei�ye�embox>
+f�i�yeei�ye��e�xei�yeei�ye��embox>
+f�i�yeei�ye��e�xei�yeei�ye��eembox>
+f�i�yeei�ye��e�xei�yeei�ye��e�embox>
+f�i�yeei�ye��e�xei�yeei�ye��e�cembox>
+f�i�yeei�ye��e�xei�yeei�ye��e�coembox>
+f�Eccc[K[13Cc
+f�Ecccc: Command not found
+tish error: #-2
+embox>
+��embox>
+f�Ecccc[K[14C���������������������
+f�Ecccc���������������������: Command not found
+tish error: #-2
+embox>
+ [H[H[2Jembox>
+ [K[11Cc
+tish error: #-22
+embox>
+f[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5lembox>
+ [KG
+G: Command not found
+tish error: #-2
+embox>
+embox>
+ GnU@rt
+GnU@rt: Command not found
+tish error: #-2
+embox>
+cdd
+GnU@rtcdd: Command not found
+tish error: #-2
+embox>
+�Xu
+�Xu: Command not found
+tish error: #-2
+embox>
+��oc
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

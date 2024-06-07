@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�o~ogo
+�o~ogo: Command not found
+tish error: #-2
+embox>
+~
+~: Command not found
+tish error: #-2
+embox>
+embox>[K[6CRembox>[K[6C#gn
+#gn: Command not found
+tish error: #-2
+embox>
+ ?��U@@D@��
+?: Command not found
+tish error: #-2
+embox>
+~�
+pilsn�x ��
+~�: Command not found
+tish error: #-2
+embox>
+~���6�!ddRcembox>
+~���6�!ddR[K[17C~
+~���6�!ddR~: Command not found
+tish error: #-2
+embox>
+pilWe�/svpcpAembox>[K[22Cembox>[K[21C
+pilWe�/svpcpA: Command not found
+tish error: #-2
+embox>
+(xeN��(xzNNN`NNNNNmembox>[Kembox>[K
+tish error: #-22
+embox>
+~(cWN��(~(cWN��xel�@
+~: Command not found
+tish error: #-2
+embox>
+~(xeey
+~: Command not found
+tish error: #-2
+embox>
+~(xB��(xem
+~: Command not found
+tish error: #-2
+embox>
+~(xeNxe(��>
+~: Command not found
+tish error: #-2
+embox>
+��eN�
+��eN�: Command not found
+tish error: #-2
+embox>
+~(xeN�����em
+~: Command not found
+tish error: #-2
+embox>
+em
+e�m: Command not found
+tish error: #-2
+embox>
+~(xxWm
+��eN�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+~(xeN�[?5h[?5l(xem
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,136 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>m
+embox>
+��logoutm�"
+��: Command not found
+tish error: #-2
+embox>
+�i<�<�cd
+�i<�<�cd: Command not found
+tish error: #-2
+embox>
+��
+embox>
+embox>
+�������"
+�������": Command not found
+tish error: #-2
+embox>
+@l�
+tish error: #-22
+embox>
+x%
+embox>7
+7: Command not found
+tish error: #-2
+embox>
+d���
+d: Command not found
+tish error: #-2
+embox>
+^
+^: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l[[[[[[[[[[[[[[[[[[[[[[embox>
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5l
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6�
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6��
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6��
+
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6��
+�
+�[[[[[[[[[[[[[[[[[[[[[[embox>[?5h[?5ly6��
+�
+�[[[[[[[[[[[[[[[[[[[[[[
+[?5h[?5ly6��: Command not found
+tish error: #-2
+embox>
+ŀ
+ŀ: Command not found
+tish error: #-2
+embox>
+P�
+P: Command not found
+tish error: #-2
+embox>
+X
+X: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+4
+embox>��
+3�
+��: Command not found
+tish error: #-2
+embox>
+�i[?5h[?5l4
+4: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@�����logol�twi���iog����i$�t
+<<X: Command not found
+tish error: #-2
+embox>wi<<2=S/< @
+embox>
+ tw�<<2=S/< S/d<<<
+u"�<: Command not found
+tish error: #-2
+embox>
+ �� �<<x�itYi<<2=S/< 
+embox>
+ ������
+<<<: Command not found
+tish error: #-2
+embox><
+<: Command not found
+tish error: #-2
+embox>
+����������������exit��x<<
+x: Command not found
+tish error: #-2
+embox>
+ Rsp<<2=S/<==}==��=============
+<<: Command not found
+tish error: #-2
+embox>===�i
+===: Command not found
+tish error: #-2
+embox>
+ ����<�<cd���iexportlsexut<2>t<2>S/��<<<cd���i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

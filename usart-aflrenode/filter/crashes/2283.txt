@@ -1,0 +1,230 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>*eiembox>*ei[K[10Cembox>*ei�[K[11Cembox>*ei��[K[12Cembox>*ei���[K[13Cembox>*ei����[K[14Cembox>*ei�����[K[15Cembox>*ei������[K[16Cembox>*ei�������[K[17Cembox>*ei�������t[K[18Cembox>*ei�������tt[K[19Cembox>*ei�������ttt[K[20Cembox>*ei�������tttt[K[21Cembox>*ei�������ttttt[K[22Cembox>*ei�������tttttt[K[23Cembox>*ei�������ttttttt[K[24Cembox>*ei�������tttttttt[K[25Cembox>*ei�������ttttttttt[K[26Cembox>*ei�������tttttttttt[K[27Cembox>*ei�������ttttttttttt[K[28Cembox>*ei�������ttttttttttt�[K[29Cembox>*ei�������ttttttttttt�t[K[30Cembox>*ei�������ttttttttttt�tt[K[31Cembox>*ei�������ttttttttttt�ttt[K[32Cembox>*ei�������ttttttttttt�tttt[K[33Cembox>*ei�������ttttttttttt�ttttt[K[34Cembox>*ei�������ttttttttttt�tttttt[K[35Cembox>*ei�������ttttttttttt�ttttttt[K[36Cembox>*ei�������ttttttttttt�tttttttt[K[37Cembox>*ei�������ttttttttttt�ttttttttt[K[38Cembox>*ei�������ttttttttttt�tttttttttt[K[39Cembox>*ei�������ttttttttttt�ttttttttttd[K[40Cembox>*ei�������ttttttttttt�ttttttttttd[K[41Cembox>*ei�������ttttttttttt�ttttttttttd [K[42Cembox>*ei�������ttttttttttt�ttttttttttd �[K[43Cembox>*ei�������ttttttttttt�ttttttttttd ��[K[44Cembox>*ei�������ttttttttttt�ttttttttttd ���[K[45Cembox>*ei�������ttttttttttt�ttttttttttd ����[K[46Cembox>*ei�������ttttttttttt�ttttttttttd �����[K[47Cembox>*ei�������ttttttttttt�ttttttttttd ������[K[48Cembox>*ei�������ttttttttttt�ttttttttttd �������[K[49Cembox>*ei�������ttttttttttt�ttttttttttd ��������[Kembox>*ei�������ttttttttttt�ttttttttttd ���������[K[51Cembox>*ei�������ttttttttttt�ttttttttttd ����������[K[52Cembox>*ei�������ttttttttttt�ttttttttttd �����������[K[53C
+embox>���embox>���[K[9C�xlog
+����xlog: Command not found
+tish error: #-2
+embox>
+*eiembox>
+*ei[K[11Cembox>
+*ei�[K[12Cembox>
+*ei��[K[13Cembox>
+*ei���[K[14Cembox>
+*ei����[K[15Cembox>
+*ei�����[K[16Cembox>
+*ei������[K[17Cembox>
+*ei�������[K[18Cembox>
+*ei�������t[K[19Cembox>
+*ei�������tt[K[20Cembox>
+*ei�������ttt[K[21Cembox>
+*ei�������ttt][K[22Cembox>
+*ei�������ttt]t[K[23Cembox>
+*ei�������ttt]tt[K[24Cembox>
+*ei�������ttt]ttt[K[25Cembox>
+*ei�������ttt]tttt[K[26Cembox>
+*ei�������ttt]ttttt[K[27Cembox>
+*ei�������ttt]tttttt[K[28Cembox>
+*ei�������ttt]ttttttt[K[29Cembox>
+*ei�������ttt]tttttttt[K[30Cembox>
+*ei�������ttt]ttttttttt[K[31Cembox>
+*ei�������ttt]tttttttttt[K[32Cembox>
+*ei�������ttt]ttttttttttt[K[33Cembox>
+*ei�������ttt]tttttttttttt[K[34Cembox>
+*ei�������ttt]ttttttttttttt[K[35Cembox>
+*ei�������ttt]tttttttttttttt[K[36Cembox>
+*ei�������ttt]ttttttttttttttt[K[37C
+embox>�ttt�� ���������
+�ttt��: Command not found
+tish error: #-2
+embox>�������embox>�������[K[13C�xlog
+��������xlog: Command not found
+tish error: #-2
+embox>
+*eiembox>
+*ei[K[11Cembox>
+*ei�[K[12Cembox>
+*ei��[K[13Cembox>
+*ei���[K[14Cembox>
+*ei����[K[15Cembox>
+*ei�����[K[16Cembox>
+*ei�����l[K[17Cembox>
+*ei�����l�[K[18Cembox>
+*ei�����l��[K[19Cembox>
+*ei�����l���[K[20Cembox>
+*ei�����l����[K[21Cembox>
+*ei�����l�����[K[22Cembox>
+*ei�����l������[K[23Cembox>
+*ei�����l�������[K[24Cembox>
+*ei�����l��������[K[25Cembox>
+*ei�����l���������[K[26Cembox>
+*ei�����l����������[K[27Cembox>
+*ei�����l�����������[K[28Cembox>
+*ei�����l�����������[K[28Co
+tish error: #-22
+embox>
+Leiembox>
+Lei[K[11Cembox>
+Lei�[K[12Cembox>
+Lei��[K[13Cembox>
+Lei���[K[14Cembox>
+Lei����[K[15Cembox>
+Lei�����[K[16Cembox>
+Lei������[K[17Cembox>
+Lei�������[K[18Cembox>
+Lei�������t[K[19Cembox>
+Lei�������tY[K[20Cembox>
+Lei�������tYt[K[21Cembox>
+Lei�������tYtt[K[22Cembox>
+Lei�������tYttt[K[23Cembox>
+Lei�������tYtttt[K[24Cembox>
+Lei�������tYttttt[K[25Cembox>
+Lei�������tYttttt�[K[26Cembox>
+Lei�������tYttttt[K[25Cembox>
+Lei�������tYtttttt[K[26Cembox>
+Lei�������tYttttttt[K[27Cembox>
+Lei�������tYtttttttt[K[28Cembox>
+Lei�������tYttttttttt[K[29Cembox>
+Lei�������tYtttttttttt[K[30Cembox>
+Lei�������tYttttttttttt[K[31Cembox>
+Lei�������tYtttttttttttt[K[32Cembox>
+Lei�������tYttttttttttttt[K[33Cembox>
+Lei�������tYtttttttttttttl[K[34Cembox>
+Lei�������tYtttttttttttttlo[K[35Cembox>
+Lei�������tYtttttttttttttlog[K[36C
+tish error: #-22
+embox>
+*e-embox>
+*e-[K[11Cembox>
+*e-�[K[12Cembox>
+*e-��[K[13Cembox>
+*e-���[K[14Cembox>
+*e-����[K[15Cembox>
+*e-�����[K[16Cembox>
+*e-������[K[17Cembox>
+*e-�������[K[18Cembox>
+*e-�������t[K[19Cembox>
+*e-�������tt[K[20Cembox>
+*e-�������ttt[K[21Cembox>
+*e-�������tttl[K[22Cembox>
+*e-�������tttl�[K[23Cembox>
+*e-�������tttl�f[K[24Cembox>
+*e-�������tttl�fo[K[25Cembox>
+*e-�������tttl�fou[K[26Cembox>
+*e-�������tttl�fout[K[27Cembox>
+*e-�������tttl�foutt[K[28Cembox>
+*e-�������tttl�fouttt[K[29Cembox>
+*e-�������tttl�foutttt[K[30Cembox>
+*e-�������tttl�fouttttt[K[31Cembox>
+*e-�������tttl�foutttttt[K[32Cembox>
+*e-�������tttl�fouttttttt[K[33Cembox>
+*e-�������tttl�fouttttttt�[K[34Cembox>
+*e-�������tttl�fouttttttt�t[K[35Cembox>
+*e-�������tttl�fouttttttt�tu[K[36Cembox>
+*e-�������tttl�fouttttttt�tut[K[37Cembox>
+*e-�������tttl�fouttttttt�tut�[K[38Cembox>
+*e-�������tttl�fouttttttt�tut��[K[39Cembox>
+*e-�������tttl�fouttttttt�tut��t[K[40Cembox>
+*e-�������tttl�fouttttttt�tut��t�[K[41Cembox>
+*e-�������tttl�fouttttttt�tut��t[K[40Cembox>
+*e-�������tttl�fouttttttt�tut��t[K[41Cembox>
+*e-�������tttl�fouttttttt�tut��t�[K[42Cembox>
+*e-�������tttl�fouttttttt�tut��t��[K[43Cembox>
+*e-�������tttl�fouttttttt�tut��t���[K[44Cembox>
+*e-�������tttl�fouttttttt�tut��t����[K[45Cembox>
+*e-�������tttl�fouttttttt�tut��t�����[K[46Cembox>
+*e-�������tttl�fouttttttt�tut��t������[K[47Cembox>
+*e-�������tttl�fouttttttt�tut��t�������[K[48Cembox>
+*e-�������tttl�fouttttttt�tut��t��������[K[49Cembox>
+*e-�������tttl�fouttttttt�tut��t���������embox>
+*e-�������tttl�fouttttttt�tut��t����������embox>
+*e-�������tttl�fouttttttt�tut��t�����������
+tish error: #-22
+embox>embox>tish[K[10Cembox>tish[K[10C�xlof
+tish�xlof: Command not found
+tish error: #-2
+embox>
+*eiembox>
+*ei[K[11Cembox>
+*ei�[K[12Cembox>
+*ei��[K[13Cembox>
+*ei���[K[14Cembox>
+*ei����[K[15Cembox>
+*ei�����[K[16Cembox>
+*ei������[K[17Cembox>
+*ei�������[K[18Cembox>
+*ei�������t[K[19Cembox>
+*ei�������tt[K[20Cembox>
+*ei�������tt[K[21Cembox>
+*ei�������tt[K[22Cembox>
+*ei�������ttt[K[23Cembox>
+*ei�������tttt[K[24Cembox>
+*ei�������ttttt[K[25Cembox>
+*ei�������tttttt[K[26Cembox>
+*ei�������tttttt�[K[27Cembox>
+*ei�������tttttt��[K[28Cembox>
+*ei�������tttttt�� [K[29Cembox>
+*ei�������tttttt�� �[K[30Cembox>
+*ei�������tttttt�� ��[K[31Cembox>
+*ei�������tttttt�� ���[K[32Cembox>
+*ei�������tttttt�� ����[K[33Cembox>
+*ei�������tttttt�� �����[K[34Cembox>
+*ei�������tttttt�� �����[K[35Cembox>
+*ei�������tttttt�� ������[K[36Cembox>
+*ei�������tttttt�� �������[K[37Cembox>
+*ei�������tttttt�� �������[K[38Cembox>
+*ei�������tttttt�� ��������embox>
+*ei�������tttttt�� ��������[K[39C�y�����pin���embox>
+*ei�������tttttt�� ���������y�����pin���
+tish error: #-22
+embox>�xlog
+�xlog: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+*#e6embox>
+d[K[8Cembox>�xlog[K[11C._
+�xlog: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+0
+0: Command not found
+tish error: #-2
+embox>
+*#/
+*#/: Command not found
+tish error: #-2
+embox>
+*
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�>#
+*#/>#: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

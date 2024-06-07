@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>tembox>tish[K[10C%dembox>tish%d[K[6Cembox>?tish%d[K[7Cembox>?�tish%d[K[8C
+embox>���
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>lt[?5h[?5llembox>ltl[K[6Cembox>�ltl[K[7Cembox>�ltl[K[8Cembox>�ltl[K[6Cembox>?�ltl[K[7Cembox>?��ltl[K[8C
+embox>���
+embox>
+t[?5h[?5l[?5h[?5lembox>
+t[K[6Cembox>?
+t[K[7Cembox>?�
+t[K[8C
+embox>���
+embox>
+t[?5h[?5l&embox>
+t[K[8Cexport���
+t: Command not found
+tish error: #-2
+embox>
+t�embox>
+t�[K[6Cembox>2
+t�[K[7Cembox>26
+t�[K[8Cembox>26�
+t�[K[9Cembox>26�p
+t�[K[10Cembox>26�pi
+t�[K[11Cembox>26�pin
+t�[K[12Cembox>26�pin?
+t�[K[13Cembox>26�pin?�
+t�[K[14C
+embox>}��tembox>tish[K[10Cembox>}��t[K[13C��l�
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>���������������������������^
+���������������������������^: Command not found
+tish error: #-2
+embox>
+����d�d
+����d: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l[?5h[?5lcd��������������v�embox>
+tcd��������������v[K[25C�embox>
+tcd��������������v[K[25C�{����������q�|^
+tcd��������������v�{��: Command not found
+tish error: #-2
+embox>
+Z[?5h[?5l����������q�|^
+Z����������q�|^: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�����yt���oq�q�|^
+t�����yt���oq�q�|^: Command not found
+tish error: #-2
+embox>
+d��������������embox>
+d�������������[K[21C����������embox>[K[25C�|^
+t�����yt���oq�q�|^�|^: Command not found
+tish error: #-2
+embox>
+tembox>
+t[K[8Cexport��bq�|^
+texport��bq�|^: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l�������������������������������@���������
+t�������������������������������@��������: Command not found
+tish error: #-2
+embox>����q�|^
+����q�|^: Command not found
+tish error: #-2
+embox>
+t[?5h[?5l����������������������g�|^
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

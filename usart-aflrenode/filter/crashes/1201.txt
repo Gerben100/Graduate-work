@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�x~�
+�: Command not found
+tish error: #-2
+embox>
+�cd
+tish error: #-22
+embox>
+�Rt
+tish error: #-22
+embox>
+embox>[K[6C�embox>�[K[8C��@@@@@@@@@?A@o@5embox>���@@@@@@@@@?A@o@5[K[6Cembox>����@@@@@@@@@?A@o@5[K[7Cembox>���@@@@@@@@@?A@o@5[K[6Cembox>����@@@@@@@@@?A@o@5[K[7Cembox>�t���@@@@@@@@@?A@o@5[K[8Cembox>�tc���@@@@@@@@@?A@o@5[K[9Cembox>�tct���@@@@@@@@@?A@o@5[K[10Cembox>�tctc���@@@@@@@@@?A@o@5[K[11Cembox>�tctcd���@@@@@@@@@?A@o@5[K[12C
+�tctcd�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+Rtc��d
+Rtc: Command not found
+tish error: #-2
+embox>
+tc��
+embox>lolopinuqRembox>lolopinuq[K[15C`
+lolopinuq: Command not found
+tish error: #-2
+embox>
+d"
+d": Command not found
+tish error: #-2
+embox>
+��RԬd
+tish error: #-22
+embox>
+5"d
+5"d: Command not found
+tish error: #-2
+embox>
+�=��
+�=��: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+elogoutxits
+elogoutxits: Command not found
+tish error: #-2
+embox>
+ embox>
+ embox>
+ embox>
+ embox>�
+ embox>�d
+ 
+embox>
+�Rt@@@@@vexit�exportembox>[Kxplscd
+tish error: #-22
+embox>
+B
+tish error: #-22
+embox>
+(
+embox>����
+embox>R�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

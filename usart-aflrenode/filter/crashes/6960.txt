@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lytexport
+ly: Command not found
+tish error: #-2
+embox>
+llembox>ly[K[8Ctut
+lytut: Command not found
+tish error: #-2
+embox>
+lembox>lytut[K[11C�t
+lytut�: Command not found
+tish error: #-2
+embox>
+�iuembox>
+�iu[K[11Cit��embox>
+�iuit��[K[18Cembox>
+�iuit��[K[19C�n�xex�n�ilsniembox>
+�iuit���n�xex�n�ilsni[K[35C�`�x�i�d`�
+�iu: Command not found
+tish error: #-2
+embox>
+��uembox>
+��u[K[11Cit�px�iembox>
+��uit�px�i[K[18Cembox>
+��uit�px�i[K[19C�n�xex�n�Slsniembox>
+��uit�px�i�n�xex�n�Slsni[K[35C�`�x�i�`�
+��u: Command not found
+tish error: #-2
+embox>
+��ucd 
+��u: Command not found
+tish error: #-2
+embox>
+��uembox>
+��u[K[11Cig�px�iembox>
+��uig�px�i[K[18C��`�x�i�`�
+��u: Command not found
+tish error: #-2
+embox>
+��uembox>
+��u[K[11Cit�px�iembox>
+��uit�px�i[K[18C
+�n�xex�n�iliiiiiiiiiiiiiiiiiiiii
+��u: Command not found
+tish error: #-2
+embox>iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii: Command not found
+tish error: #-2
+embox>sniembox>sni[K[9C�embox>iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiix�i�`�
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��uPipin��iembox>
+��uPipin��i[K[19Cembox>
+��uPipin��i[K[20C�embox>
+��uPipin��i�[K[6Cembox>
+��uPipin��i�embox>x
+��uPipin��i�embox>x
+��uPipin��i�embox>x�
+��uPipin��i�embox>x�
+��uPipin��i�embox>x�
+��uPipin��i�
+embox>�pinexport�embox>�pinexport�[K[17C�`�x�i�i
+�pinexport��`�x�i�i: Command not found
+tish error: #-2
+embox>
+embox>
+��uembox>
+��u[K[11Citi�`�
+��u: Command not found
+tish error: #-2
+embox>
+��uit�px�i���!�n��{x�n�ilsni��`�x�i�`�
+��u: Command not found
+tish error: #-2
+embox>
+��uit�px�i��u�itNpx�i��u�it�px�i
+embox>�n�xexi��i��px�i�n�xexii��u�
+embox>itNpx�i��u�it�px�i�n�xexi��i��px�i
+itNpx�i: Command not found
+tish error: #-2
+embox>�n�xexi��i�`���i�`�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

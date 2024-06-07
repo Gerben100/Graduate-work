@@ -1,0 +1,112 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>cY
+cY: Command not found
+tish error: #-2
+embox>
+e�}
+e�}: Command not found
+tish error: #-2
+embox>
+=5
+=5: Command not found
+tish error: #-2
+embox>
+Q@!}
+Q@!}: Command not found
+tish error: #-2
+embox>
+0��[K
+0��: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�@e
+�@: Command not found
+tish error: #-2
+embox>
+e@@h
+e@@: Command not found
+tish error: #-2
+embox>
+e�F
+e�: Command not found
+tish error: #-2
+embox>
+@lll��exit���
+@lll��exit: Command not found
+tish error: #-2
+embox>
+I�
+I�: Command not found
+tish error: #-2
+embox>
+I
+I: Command not found
+tish error: #-2
+embox>
+lvж�Ю��@n
+lvж: Command not found
+tish error: #-2
+embox>
+xpoW�
+xpoW�: Command not found
+tish error: #-2
+embox>
+eh
+eh: Command not found
+tish error: #-2
+embox>
+l��n
+l��n: Command not found
+tish error: #-2
+embox>
+(
+(: Command not found
+tish error: #-2
+embox>
+e@e�
+e@: Command not found
+tish error: #-2
+embox>
+hhhhhh
+lvж: Command not found
+tish error: #-2
+embox>
+���pu
+lvж���pu: Command not found
+tish error: #-2
+embox>
+ee
+ee: Command not found
+tish error: #-2
+embox>
+e�iexi�s
+e�iexi�: Command not found
+tish error: #-2
+embox>
+r;~oaaH
+r;~oaa�H: Command not found
+tish error: #-2
+embox>
+e�i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

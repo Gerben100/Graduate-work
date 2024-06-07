@@ -1,0 +1,66 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��������������embox>[K[6C�embox>[K[6C
+embox>�Bdo
+�Bdo: Command not found
+tish error: #-2
+embox>
+������[H[H[2Jembox>
+������[K[13Cembox>�Bdo[K[10C�������embox>�Bdo�������[K[17C
+embox>�BRo
+�BRo: Command not found
+tish error: #-2
+embox>
+logout��embox>
+logout�[K[14C
+embox>�[Ro�esssssssssssssss}ssssssssxit�����
+�[Ro�esssssssssssssss: Command not found
+tish error: #-2
+embox>�����embox>�����[K[11C[Ro
+�����[Ro: Command not found
+tish error: #-2
+embox>
+R
+R: Command not found
+tish error: #-2
+embox>
+������[H[H[2Jembox>
+������[K[13Cembox>
+R[K[8C���넏��[H[H[2Jembox>
+R���넏��[K[16Cembox>�����[Ro[K[14C����������embox>�����[Ro����������
+embox>�BRo
+�BRo: Command not found
+tish error: #-2
+embox>
+������[H[H[2Jembox>[K[13Cembox>�BRo[K��embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[11C
+embox>�BRo
+�BRo: Command not found
+tish error: #-2
+embox>
+�����R6
+�����R6: Command not found
+tish error: #-2
+embox>
+������[H[H[2J��
+embox>�BRo
+�BRo: Command not found
+tish error: #-2
+embox>
+������[H[H[2J�pin�B�[?5h[?5l���d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

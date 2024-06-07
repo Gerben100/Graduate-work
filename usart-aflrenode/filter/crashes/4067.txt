@@ -1,0 +1,90 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�dd�
+�dd�: Command not found
+tish error: #-2
+embox>
+��d�
+��d�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�Ax�6�������Ą�����p�rt@<@@@@H@@@\@@@@embox>
+��[K[11C�66%6a
+���66%6a: Command not found
+tish error: #-2
+embox>@embox>@[K[7C�@@@@
+@�@@@@: Command not found
+tish error: #-2
+embox>
+�cx�6TF���@@@@@Yexport@<@@@@@@�@@@embox>@�@@@@[K[13C�6656@
+@�@@@@�6656@: Command not found
+tish error: #-2
+embox>@�z�@@@@
+@�z�@@@@: Command not found
+tish error: #-2
+embox>
+�cx�WTF�cMccccc(BcccBBBBBBB";Bcccccembox>
+�cx�WTF�cMccccc(BcccBBBBBBB";Bcccc�@@@@
+�cx�WTF: Command not found
+tish error: #-2
+embox>
+�cxlogout�6TF����@embox>
+�cxlogout�6TF����@embox>
+�cxlogout�6TF����@embox>@
+�cxlogout�6TF����@embox>@@
+�cxlogout�6TF����@embox>@@�
+�cxlogout�6TF����@embox>@@��
+�cxlogout�6TF����@embox>@@��x
+�cxlogout�6TF����@embox>@@��xp
+�cxlogout�6TF����@embox>@@��xpo
+�cxlogout�6TF����@embox>@@��xpor
+�cxlogout�6TF����@embox>@@��xport
+�cxlogout�6TF����@embox>@@��xport@
+�cxlogout�6TF����@embox>@@��xport@<
+�cxlogout�6TF����@embox>@@��xport@<_
+�cxlogout�6TF����@embox>@@��xport@<_@
+�cxlogout�6TF����@embox>@@��xport@<_@@
+�cxlogout�6TF����@embox>@@��xport@<_@@@
+�cxlogout�6TF����@embox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>
+�cx�WTF[K[16Cd666@@embox>
+�cx�WTFd666@@[K[23C�@@@@
+�cx�WTFd666@@�@@@@: Command not found
+tish error: #-2
+embox>
+�@@@xport@<@@]@@@@\@@@@embox>[K�6656@@embox>[K�embox>[K@@@@
+�cx�WTFd666@@�@@@@�6656@@@@@@: Command not found
+tish error: #-2
+embox>
+�cz�6TF���@@@@@Yexport@<@@@@@@@@\@@@@embox>[K�6656@
+�cx�WTFd666@@�@@@@�6656@: Command not found
+tish error: #-2
+embox>@embox>@[K[7C�@@@@
+@�@@@@: Command not found
+tish error: #-2
+embox>
+�cx�k�2TF�����@@@@@@embox>[K\@@@�66�embox>[K@@embox>[K�@@@@
+@�@@@@\@@@: Command not found
+tish error: #-2
+embox>
+�cx�6@@�M@@@@Yexport@<@@@@@@@@@@�@�6656T
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

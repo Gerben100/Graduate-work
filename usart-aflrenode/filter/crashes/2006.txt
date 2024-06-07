@@ -1,0 +1,149 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C
+embox>
+H@@
+H@@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>i
+[K[7Cembox>ic
+[K[8Cembox>icd
+[K[9Cembox>icd
+[K[10Cembox>icd[K[10Ci
+icd: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9C
+: Command not found
+tish error: #-2
+embox>
+iexport
+iexport: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C��%i
+��%i: Command not found
+tish error: #-2
+embox>
+logout�p�
+logout�p�: Command not found
+tish error: #-2
+embox>
+
+embox>��I�
+��I�: Command not found
+tish error: #-2
+embox>
+%embox>
+%[K[6Cembox>
+%[K[7Cembox>p
+%[K[8Cembox>pp
+%[K[9Cembox>ppx
+%[K[10Cembox>ppx?
+%[K[11Cembox>ppx?i
+%[K[12C
+embox>
+2x�embox>
+2x[K[10C��,i
+2x: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>��
+[K[8Cembox>��i
+[K[9Cembox>��ix
+[K[10Cembox>��ix%
+[K[11C
+��ix%: Command not found
+tish error: #-2
+embox>
+embox>
+pinembox>
+pin[Kembox>
+piin[Kembox>
+pin[Kembox>
+pi�n[Kembox>[K[11Cembox>[K[12Cembox>[K[11Cembox>
+pi�n[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[12Ci
+��ix%: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>i
+embox>[K[6C,x%i
+,x%i: Command not found
+tish error: #-2
+embox>
+�@�@
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��j
+embox>
+embox>
+embox>
+�e
+embox>
+embox>
+embox>
+
+embox>@exiK�j
+embox>
+embox>texi[
+embox>
+�j
+embox>�
+embox>
+�j�
+�j: Command not found
+tish error: #-2
+embox>
+nNhp
+nNhp: Command not found
+tish error: #-2
+embox>
+��c
+embox>
+�j
+embox>
+embox>
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+�j
+embox>�)
+embox>
+>���������pin��������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

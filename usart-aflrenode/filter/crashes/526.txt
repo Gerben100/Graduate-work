@@ -1,0 +1,185 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>\e]
+�e�
+
+embox>
+\M�m[H[H[2Jembox>
+\M�m[K[12Cx�m��x�Ya
+tish error: #-22
+embox>
+�ss\t�pinembox>
+�ss\t�pin[K[6Cembox>
+�ss\t�pin[K[7Cembox>
+�ss\t�pin[K[8Cembox>�
+�ss\t�pin[K[9Cembox>��
+�ss\t�pin[K[10Cembox>��
+�ss\t�pin[K[11C
+embox>
+�embox>
+�[K[9Clocout�
+tish error: #-22
+embox>
+@embox>
+@[K[6Cembox>�
+@[K[7Cembox>�
+@[K[8Cembox>�n
+@[K[9Cembox>�ng
+@[K[10Cembox>�ngo
+@[K[11Cembox>�ngou
+@[K[12Cembox>�ngout
+@[K[13Cembox>�ngout�
+@[K[14Cembox>�ngout�
+@[K[15C
+�: Command not found
+tish error: #-2
+embox>
+\l\eembox>
+\l\e[K[12Cl�
+tish error: #-22
+embox>
+e
+tish error: #-22
+embox>
+@��e
+@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+\eembox>
+\e[K[10Cpo�out�
+tish error: #-22
+embox>
+\eembox>
+\e[K[10C~���embox>
+\e~��[K[13Ct�
+tish error: #-22
+embox>
+\eembox>
+\e[K[9Chbko_t��Rembox>
+\ehbko_t��R[K[19CRembox>
+\ehbko_t��RR[K[20Clo�
+\ehbko_t: Command not found
+tish error: #-2
+embox>
+ls
+embox>������\
+������: Command not found
+tish error: #-2
+embox>
+g���embox>
+g��[K[10Ck
+yoq
+g��k: Command not found
+tish error: #-2
+embox>
+logembox>
+log[K[6Cembox>u
+log[K[7Cembox>ut
+log[K[8C
+ut: Command not found
+tish error: #-2
+embox>
+�-�
+�: Command not found
+tish error: #-2
+embox>
+��#M$Mss[?5h[?5l���export�s[?5h[?5l��
+��#M: Command not found
+tish error: #-2
+embox>
+embox>[K[6C���
+���: Command not found
+tish error: #-2
+embox>
+$
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+$�
+tish error: #-22
+embox>
+��itD��
+�: Command not found
+tish error: #-2
+embox>
+
+embox>x
+embox>
+
+embox>
+embox>
+A��
+A: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�#
+embox>�
+w�: Command not found
+tish error: #-2
+embox>
+�l�l
+�l�: Command not found
+tish error: #-2
+embox>
+�l��
+�l��: Command not found
+tish error: #-2
+embox>
+c�m����
+c�m����: Command not found
+tish error: #-2
+embox>
+@lE��ll�m
+��: Command not found
+tish error: #-2
+embox>
+Qexjt
+Qexjt: Command not found
+tish error: #-2
+embox>
+S
+S: Command not found
+tish error: #-2
+embox>
+Ml�l
+Ml�l: Command not found
+tish error: #-2
+embox>
+s���
+s���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+dKdX�dlx�dNs�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

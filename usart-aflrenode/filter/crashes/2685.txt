@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�ls``````````
+�ls``````````: Command not found
+tish error: #-2
+embox>
+�ls````=�����ls````=������embox>
+�ls````=�����ls````=�����[K[32Cslogout`portiiiiembox>
+�ls````=�����ls````=�����slogout`portiii[K��Eil�
+�ls````=�����ls````=�����slogout`portiii��Eil�: Command not found
+tish error: #-2
+embox>gout``````````h`
+gout``````````h`: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[8Cembox>�
+[K[9Cembox>��
+[K[10Cembox>��6
+[K[11Cembox>��66
+[K[12Cembox>��66
+[K[13Cembox>��66
+[K[14Cembox>��66
+[K[15Cembox>��66d
+[K[16Cembox>��66d
+[K[6Cembox>6��66d
+[K[7Cembox>66��66d
+[K[8Cembox>666��66d
+embox>6666��66d
+embox>66666��66d
+embox>666666��66d
+embox>666666L��66d
+embox>666666L*��66d
+embox>666666L*6��66d
+embox>666666L*66��66d
+embox>666666L*666��66d
+embox>666666L*6666��66d
+embox>666666L*66666��66d
+embox>666666L*666666��66d
+embox>666666L*6666666��66d
+embox>666666L*66666666��66d
+embox>666666L*666666666��66d
+embox>666666L*6666666666��66d
+embox>666666L*66666666666��66d
+embox>666666L*66666666666`��66d
+
+666666L*66666666666`: Command not found
+tish error: #-2
+embox>
+l````
+l````: Command not found
+tish error: #-2
+embox>
+�ls````=```@`p`logout``D`````�```
+�ls````=```: Command not found
+tish error: #-2
+embox>
+l�"�
+tish error: #-22
+embox>
+d
+���d: Command not found
+tish error: #-2
+embox>
+��@
+��@: Command not found
+tish error: #-2
+embox>
+ml��l�
+ml��l�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+lSinl��l�
+lSinl��l�: Command not found
+tish error: #-2
+embox>
+l((X(((((((((�()(((((((((((((((�((((((��l�
+�: Command not found
+tish error: #-2
+embox>
+ ll��
+�: Command not found
+tish error: #-2
+embox>
+ll��l��l�
+ll��l��: Command not found
+tish error: #-2
+embox>
+l|9999
+�ls````=```: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+�zog�xic@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

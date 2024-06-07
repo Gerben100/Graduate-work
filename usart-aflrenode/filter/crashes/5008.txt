@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pi1���embox>pi1���[K[6C
+pi1���: Command not found
+tish error: #-2
+embox>
+1��111�
+1��111: Command not found
+tish error: #-2
+embox>
+�piq
+�: Command not found
+tish error: #-2
+embox>
+1��embox>
+�[K[8Cembox>
+�[K[6Cembox>w
+�[K[7Cembox>wx
+�[K[8Cembox>wxp
+�[K[9Cembox>wxpo
+�[K[10Cembox>wxpor
+�[K[11Cembox>wxpor�
+�[K[12Cembox>
+1��111[K[14Cembox>
+1��111[K[6Cembox>e
+1��111[K[7Cembox>ex
+1��111[K[8Cembox>exp
+1��111[K[9Cembox>expo
+1��111[K[10Cembox>expor
+1��111[K[11Cembox>exporu
+1��111[K[12Cembox>exporu
+1��111[K[13Cembox>exporu�
+1��111[K[14C
+exporu: Command not found
+tish error: #-2
+embox>
+cJembox>
+c[K[8Cpdembox>
+cpd[K[10Cembox>
+cp�d[K[11Cembox>
+cp�d[K[12Cembox>
+cp��d[K[13C
+cp: Command not found
+tish error: #-2
+embox>
+1@2embox>
+1@2[K[10C�
+1@2�: Command not found
+tish error: #-2
+embox>
+1���
+1���: Command not found
+tish error: #-2
+embox>
+1��1������embox>
+1���[K[11C
+1���: Command not found
+tish error: #-2
+embox>
+1����exit��y�����embox>
+1���[K[11C
+1���: Command not found
+tish error: #-2
+embox>
+C���������embox>
+1���[K[11C
+1���: Command not found
+tish error: #-2
+embox>
+1���
+1���: Command not found
+tish error: #-2
+embox>
+��������d�������������1���port���embox>
+1���[K[11C
+1���: Command not found
+tish error: #-2
+embox>
+cd�11������embox>
+1���[K[11C
+1���: Command not found
+tish error: #-2
+embox>
+1��11���exit
+1��11���exit: Command not found
+tish error: #-2
+embox>
+�w
+embox>11��embox>11��[K�elsort������d�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>
+1��11���exit
+1��11���exit: Command not found
+tish error: #-2
+embox>
+4[?5h[?5l�embox>
+4[K[8C�2e�vte��
+4�2: Command not found
+tish error: #-2
+embox>
+1��1goutembox>
+4�2embox>
+1��11���exit[?5h[?5l��:������embox>
+1���
+1���: Command not found
+tish error: #-2
+embox>
+������logout�[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

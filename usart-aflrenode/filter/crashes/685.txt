@@ -1,0 +1,117 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+logexport [H[H[2Jembox>
+logexport [K[18C�O
+logexport: Command not found
+tish error: #-2
+embox>
+Ulog `�S
+Ulog: Command not found
+tish error: #-2
+embox>
+embox>
+Ulog[K[11C
+Ulog: Command not found
+tish error: #-2
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+log�log�Z
+log�log�Z: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+gog�Z
+gog�Z: Command not found
+tish error: #-2
+embox>
+ld��ex�tembox>
+ld��ex�t[K[6C
+ld�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7C
+embox>
+embox>
+[K[6Cembox>Z
+[K[7Cembox>ZZ
+[K[8C
+ZZ: Command not found
+tish error: #-2
+embox>
+�lo�Z
+�lo�Z: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+embox>[K[6Clog�og�ZZ
+log�og�ZZ: Command not found
+tish error: #-2
+embox>
+Z
+Z: Command not found
+tish error: #-2
+embox>
+@Z
+tish error: #-22
+embox>
+�[H[H[2J
+tish error: #-22
+embox>
+.ogout,
+.ogout,: Command not found
+tish error: #-2
+embox>
+C�x�je,
+C�x�je,: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+$d��je,
+$d��je,: Command not found
+tish error: #-2
+embox>
+#d
+#d: Command not found
+tish error: #-2
+embox>
+#d#dpls+
+embox>
+##
+##: Command not found
+tish error: #-2
+embox>
+#dVVVVexportV-
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,148 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�d�x�@��x��
+embox>
+4
+embox>�x
+�: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C
+tish error: #-22
+embox>
+\embox>
+\[K[6Cembox>
+\[K[7Cembox>
+\[K[8Cembox>
+\[K[9Cembox>
+\[K[8Cembox>
+\[K[9C
+embox>
+[H[H[2Jembox>
+[K[7C������
+������: Command not found
+tish error: #-2
+embox>
+ls����
+ls����: Command not found
+tish error: #-2
+embox>
+H
+H: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+�:embox>
+�:[K[6Cembox>�
+�:[K[7C
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+fSf
+fSf: Command not found
+tish error: #-2
+embox>
+iiembox>
+fSf�i
+fSf: Command not found
+tish error: #-2
+embox>
+jx`
+jx`: Command not found
+tish error: #-2
+embox>
+l��i
+l��i: Command not found
+tish error: #-2
+embox>
+PЗr
+PЗr: Command not found
+tish error: #-2
+embox>
+le��
+le��: Command not found
+tish error: #-2
+embox>
+�e�
+tish error: #-22
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+�ye�
+tish error: #-22
+embox>
+��{��{
+��{��{: Command not found
+tish error: #-2
+embox>
+�ye�
+tish error: #-22
+embox>
+e��yey
+tish error: #-22
+embox>
+c@
+tish error: #-22
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+hy��xport
+tish error: #-22
+embox>
+����
+tish error: #-22
+embox>
+@v�
+@: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+embox>
+embox> 
+tish error: #-22
+embox>
+��
+Vpccޏ�cdpppvpA
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+
+embox>�ls�embox>��[K[8C#
+��#: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�Q�Rembox>�Q�R[K[6Cembox>�Q�R[K[7Cembox>�Q�R[K[8Cembox>H�Q�R[K[9Cembox>Hd�Q�R[K[10Cembox>Hd�Q�R[K[11C
+embox>
+embox>
+[K[7C
+embox>�Q�nembox>�Q�n[K[6Cembox>�Q�n[K[7Cembox>p�Q�n[K[8Cembox>p�Q�n[K[9Cembox>pQ�n[K[9Cembox>pQ�n[K[10Cembox>pQ�n[K[11C
+embox>
+
+tish error: #-22
+embox>
+lsembox>
+ls[K[9C
+embox>�Q�fembox>�Q�f[K[6Cembox>�Q�f[K[7Cembox>�Q�f[K[8Cembox>l�Q�f[K[9Cembox>ls�Q�f[K[10Cembox>ls�Q�f[K[11C
+embox>
+embox>
+[K[7C
+embox>�Q�n6
+�Q�n6: Command not found
+tish error: #-2
+embox>
+3���%-
+3: Command not found
+tish error: #-2
+embox>
+xpoZZ
+xpo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�embox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8Cembox>
+�[K[8C@embox>
+�@[K[9Cembox>
+�@[K[9Cembox>
+�@[K[9Cembox>
+�@[K[9Cembox>
+�@[K[9Cembox>
+�@[K[9C�embox>
+�@�[K[10Cembox>
+�@�[K[10Cembox>
+�@�[K[10Cembox>
+�@�[K[10Cembox>
+�@�[K[10Cembox>
+�@�[K[10Cembox>
+�@�[K[10C
+embox>embox>[K[6CA
+embox>
+embox>
+[K[7C
+embox>A�gsM
+A�gsM: Command not found
+tish error: #-2
+embox>
+A�e��g
+A�e��g: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>ZL�c
+ZL�c: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�embox>[K[7C
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[Kembox>�[Kembox>�[Kembox>�[Kembox>�[K
+embox>�Ee
+�Ee: Command not found
+tish error: #-2
+embox>
+�A�e�M
+�A�e�M: Command not found
+tish error: #-2
+embox>
+A�ee
+A�ee: Command not found
+tish error: #-2
+embox>
+
+embox>A�Lep
+A�Lep: Command not found
+tish error: #-2
+embox>
+ot������������pin�c�[H[H[2JrM}
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

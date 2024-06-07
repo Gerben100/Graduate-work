@@ -1,0 +1,227 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[6Cembox>��[K[7Cembox>�[K[6Cembox>d�[K[7Cembox>dd�[K[8Cembox>dd.�[K[9Cembox>dd.�[K[10Cembox>dd.�[K[9Cembox>dd.��[K[10Cembox>dd.���[K[11Cembox>dd.����[K[12Cembox>dd.����[K[14Cembox>dd.����[K[6Cembox>�dd.����[K[7Cembox>dd.����[K[6Cembox>ddd.����[K[7Cembox>dddd.����[K[8Cembox>dd.dd.����[K[9Cembox>dd.dd.����[K[10Cembox>dd.dd.����[K[9Cembox>dd.�dd.����[K[10Cembox>dd.��dd.����[K[11Cembox>dd.���dd.����[K[12Cembox>dd.��dd.����[K[11Cembox>dd.���dd.����[K[12Cembox>dd.��dd.����[K[11Cembox>dd.���dd.����[K[12Cembox>dd.����dd.����[K[13Cembox>dd.����dd.����[K[14Cembox>dd.����ddd.����[K[15C
+dd.����d: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>
+��[K[6Cembox>c
+��[K[7Cembox>cd
+��[K[8Cembox>cd.
+��[K[9Cembox>cd.
+��[K[10Cembox>cd.
+��[K[9Cembox>cd.�
+��[K[10Cembox>cd.��
+��[K[11Cembox>cd.���
+��[K[12Cembox>cd.���
+��[K[13Cembox>cd.���
+��[K[14Cembox>cd.����
+��[K[15Cembox>dd.����d[K[15C
+dd.����d: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>
+�[K[6Cembox>c
+�[K[7Cembox>cc
+�[K[8Cembox>ccd
+�[K[9Cembox>ccd
+�[K[10Cembox>ccd�
+�[K[11Cembox>ccd��
+�[K[12Cembox>ccd���
+�[K[13Cembox>ccd����
+�[K[14Cembox>ccd�����
+�[K[15Cembox>ccd������
+�[K[16Cembox>ccd�����
+�[K[15Cembox>ccd�����c
+�[K[16Cembox>ccd�����cd
+�[K[17Cembox>ccd�����cd.
+�[K[18Cembox>ccd�����cd.
+�[K[19Cembox>ccd�����cd.
+�[K[18Cembox>ccd�����cd.�
+�[K[19Cembox>ccd�����cd.��
+�[K[20Cembox>ccd�����cd.���
+�[K[21Cembox>ccd�����cd.���H
+�[K[22Cembox>ccd�����cd.���HH
+�[K[23Cembox>ccd�����cd.���HHH
+�[K[24Cembox>ccd�����cd.���HHHH
+�[K[25Cembox>ccd�����cd.���HHHHH
+�[K[26Cembox>ccd�����cd.���HHHHHH
+�[K[27Cembox>ccd�����cd.���HHHHHH>
+�[K[28Cembox>ccd�����cd.���HHHHHH>H
+�[K[29Cembox>ccd�����cd.���HHHHHH>HH
+�[K[30Cembox>ccd�����cd.���HHHHHH>HHH
+�[K[31Cembox>ccd�����cd.���HHHHHH>HHHH
+�[K[32Cembox>ccd�����cd.���HHHHHH>HHHHH
+�[K[33Cembox>ccd�����cd.���HHHHHH>HHHHH�
+�[K[34Cembox>ccd�����cd.���HHHHHH>HHHHH�
+�[K[35Cembox>ccd�����cd.���HHHHHH>HHHHH�
+�[K[36Cembox>ccd�����cd.���HHHHHH>HHHHH��
+�[K[37Cembox>ccd�����cd.���HHHHHH>HHHHH��
+�[K[38Cembox>ccd�����cd.���HHHHHH>HHHHH���
+�[K[39Cembox>ccd�����cd.���HHHHHH>HHHHH���p
+�[K[40Cembox>ccd�����cd.���HHHHHH>HHHHH���pi
+�[K[41Cembox>ccd�����cd.���HHHHHH>HHHHH���pin
+�[K[42Cembox>ccd�����cd.���HHHHHH>HHHHH���pin
+�[K[43Cembox>ccd�����cd.���HHHHHH>HHHHH���pind
+�[K[44Cembox>ccd�����cd.���HHHHHH>HHHHH���pindT
+�[K[45Cembox>ccd�����cd.���HHHHHH>HHHHH���pindTx
+�[K[46Cembox>ccd�����cd.���HHHHHH>HHHHH���pindTxp
+�[K[47C
+ccd: Command not found
+tish error: #-2
+embox>orHHHH��pint
+orHHHH�: Command not found
+tish error: #-2
+embox>
+ppin
+ppin: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8Ccd.embox>
+�cd.[K[11Cembox>
+�cd.�[K[12Cembox>
+�cd.��[K[13Cembox>
+�cd.���[K[14Cembox>
+�cd.���[K[15Cembox>
+�cd.���[K[16Cembox>
+�cd.����[K[17Cembox>
+�cd.����[K[18Cembox>
+�cd.����d[K[19C
+�cd.���: Command not found
+tish error: #-2
+embox>
+�embox>
+�cd.���[K[14C��`oicd�embox>
+ppin[K[11C��pin�
+ppin��: Command not found
+tish error: #-2
+embox>
+go����Rlogout�d
+go����Rlogout�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�
+�[K[6Cembox>��
+�[K[7Cembox>���
+�[K[8Cembox>���
+�[K[9Cembox>���
+�[K[10Cembox>����
+�[K[11Cembox>�����
+�[K[12Cembox>����
+�[K[12Cembox>����d
+�[K[13Cembox>����d.
+�[K[14Cembox>����d.@
+�[K[15Cembox>����d.@
+�[K[14Cembox>����d.@
+�[Kembox>����d.d@
+�[K
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>
+�[K[6Cembox>�
+�[K[7Cembox>�o
+�[K[8Cembox>�o[?5h[?5l
+�[K[9Cembox>�o[?5h[?5l�
+�[K[10Cembox>�o[?5h[?5l
+�[K[9Cembox>�o[?5h[?5lc
+�[K[10Cembox>�o[?5h[?5lcd
+�[K[11Cembox>�o[?5h[?5lcd�
+�[K[12Cembox>�o[?5h[?5lcd�
+�[K[13Cembox>�o[?5h[?5lcd�
+�[K[12Cembox>�o[?5h[?5lcd��
+�[K[13Cembox>�o[?5h[?5lcd��
+�[K[14Cembox>�o[?5h[?5lcd��d
+�[K[15C
+�o[?5h[?5lcd��d: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Ccd.[H[H[2Jembox>
+cd.[K[13Cembox>
+cd.[K[12Cembox>
+cd�.[K[13Cembox>
+cd��.[K[14Cembox>
+cd���.[K[15Cembox>
+cd���.[K[16Cembox>
+cd���.[K[15Cembox>
+cd���.[K[16Cembox>
+cd����.[K[17Cembox>
+cd���.[K[16Cembox>
+cd����.[K[17Cembox>
+cd����.[K[18Cembox>
+cd����.[K[19C[H[H[2Jembox>
+cd����.[K[19Cembox>
+cd����.[K[18Cembox>
+cd�����.[K[19Cembox>
+cd������.[K[20Cembox>
+cd������.[K[21Cembox>
+cd������l.embox>
+cd������ls.embox>
+cd������ls.embox>
+cd������lsd.
+tish error: #-22
+embox>
+h
+h: Command not found
+tish error: #-2
+embox>
+tttembox>[K[6C$$$$$$$$$$$$$$$�u�logoutouttttembox>[K[6C
+embox>�u �ogoZt
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�inpi[H[H[2J
+�in: Command not found
+tish error: #-2
+embox>��d
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�: Command not found
+tish error: #-2
+embox>
+�
+���: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�d
+�: Command not found
+tish error: #-2
+embox>
+�ccd!�����
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

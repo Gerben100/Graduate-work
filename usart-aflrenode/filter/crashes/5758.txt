@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> A�665ls@@@@@��?@@o#��@�embox>[K[6C@@9@@@-��embox>@@9@@@-�[K[14C @@@@@@�
+@@9@@@-�: Command not found
+tish error: #-2
+embox>@Ue
+@Ue: Command not found
+tish error: #-2
+embox>
+ A�665ls6@@embox>
+ A�665ls6@@[K[18C�@@@�@@�@@A@@��?@@o pi@@@@@��������
+A�665ls6@@�@@@�@@�@@A@@��?@@o: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@@@@e
+@@@@@@@@@@@@@@e: Command not found
+tish error: #-2
+embox>
+ A�665ls;@@embox>
+ A�665ls;@@[K�@@@@@@@@@@?@@@@@@�@@�@@@@@��?@@o@ 
+A�665ls;@@�@@@@@@@@@@?@@@@@@�@@�@@@@@��?@@o@: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>@[K[7Cembox>@�[K[8Cembox>@�@[K[9Cembox>@�@@[K[10Cembox>@�@@@[K[11Cembox>@�@@@@[K[12Cembox>@�@@@@-[K[13Cembox>@�@@@@-�[K[14Cembox>@�@@@@-�[K[15Cembox>@�@@@@-�[K[14Cembox>@�@@@@-�[K[15Cembox>@�@@@@-�X[Kembox>@�@@@@-�X@[Kembox>@�@@@@-�X@?[K[18Cembox>@�@@@@-�X@?@[K[19Cembox>@�@@@@-�X@?@@[K[20Cembox>@�@@@@-�X@?@@[K[6Cembox>@�@@@@-�X@?@@[K[7Cembox>@@�@@@@-�X@?@@[Kembox>@@@�@@@@-�X@?@@[Kembox>@@@@�@@@@-�X@?@@[Kembox>@@@@@�@@@@-�X@?@@[Kembox>@@@@@�@@@@-�X@?@@embox>@@@@d@�@@@@-�X@?@@embox>@@@@d@@�@@@@-�X@?@@embox>@@@@d@\@�@@@@-�X@?@@embox>@@@@d@\@@�@@@@-�X@?@@embox>@@@@d@\@'@�@@@@-�X@?@@embox>@@@@d@\@'e@�@@@@-�X@?@@embox>@@@@d@\@'ee@�@@@@-�X@?@@
+embox>
+ A�665l_6@@65exitl
+embox>�@@embox>�@@[K[9C?oe@@d@�embox>@@@@@@@@@@@@@@e[K[21Cembox>@@@@@@@@@@@@@@e[K[6Cembox>@@@@@@@@@@@@@@e[Kembox>@@@@@@@@@@@@@@e[Kembox>@@@@@@@@@@@@@@e[Kembox>@@@@@@@@@@@@@@@e[Kembox>@@@@@@@@@@@@@@@@eembox>@@@@@@@@@@@@@@@@@eembox>@@@@@@@@@@@@@@@@@@eembox>@@@@@@@@@@@@@@@@@@@eembox>@@@@@\@@@@@@@@@@@@@@eembox>@@@@@\@@@@@@@@@@@@@@@eembox>@@@@@\@?@@@@@@@@@@@@@@eembox>@@@@@\@?o@@@@@@@@@@@@@@e
+embox>e
+e: Command not found
+tish error: #-2
+embox>
+ A�665ls6@@�@@�@@@*@@@@@@@embox>
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?o
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?ol
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olp
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpi
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+@
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@@@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@@�@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@@@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@embox>@�@@-@?olpin�
+@ 
+ A�665ls6@@�@@�@@@*@@@@@@@
+@�@@-@?olpin�: Command not found
+tish error: #-2
+embox>�embox>�[K[7CX@?D@embox>�X@?D@embox>�X@?D@embox>@�X@?D@embox>@@�X@?D@embox>@@@�X@?D@embox>@@@A�X@?D@embox>@@@A@�X@?D@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+embox>
+ A�665ls6@@lsembox>[K��pincd@@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>eport��ls���
+embox>������d�embox>������d�[K[13Cembox>������d(�[K[14Cembox>������d(�[K[13Cembox>������d�(�[K[14Cembox>������d��(�[K[15Cembox>������d���(�[K[16Cembox>������d���(�[K[6Cembox>�������d���(�[K[7Cembox>��������d���(�[K[8Cembox>���������d���(�[K[9Cembox>����������d���(�[K[10Cembox>�����������d���(�[K[11Cembox>�����������d���(�[K[12Cembox>������������d���(�[K[13C
+������������d���(�: Command not found
+tish error: #-2
+embox>
+l��loppuembox>
+l��loppu[K[15C��iiiiippl�pcpxpN�`pppp����upp
+embox>�pc�
+�pc�: Command not found
+tish error: #-2
+embox>pxVtc�pxpNppppv�
+embox>����[?5h[?5l����������������pNppppv�
+embox>
+embox>����[?5h[?5l����������������xiiiiiiil��loppupp��iii
+��������������������xiiiiiiil��loppupp�: Command not found
+tish error: #-2
+embox>l�iiiiiiiiiNiiiixiiiiiiiembox>��������������������xiiiiiiil��loppupp�iiiiii
+��������������������xiiiiiiil��loppupp�: Command not found
+tish error: #-2
+embox>
+l�xpN`pppxxp����uembox>��������������������xiiiiiiil��loppupp�p�x�pc��xptc�pxpNpppp_�@�i
+��������������������xiiiiiiil��loppupp�p�x�pc�: Command not found
+tish error: #-2
+embox>
+l��loppupp��iiiiippl�pcpxpN�`pppp���uppexport
+l��loppupp�: Command not found
+tish error: #-2
+embox>pxptc�pxpNppppv�
+embox>����[?5h[?5l����������������xiiiiiii
+��������������������xiiiiiii: Command not found
+tish error: #-2
+embox>embox>��������������������xiiiiiiiiiNiiiixiiiSiiiembox>
+l��loppupp�[Kiiiiii
+l��loppupp�: Command not found
+tish error: #-2
+embox>
+lembox>
+l[Kembox>
+l[Kembox>l
+l[Kembox>lo
+l[Kembox>lop
+lembox>lopp
+lembox>loppi
+lembox>loppii
+lembox>loppiiN
+lembox>loppiiNi
+lembox>loppiiNii
+lembox>loppiiNiii
+lembox>[K[18Cembox>loppiiNiiiilembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>
+l��loppupp�iiiiii
+l��loppupp�: Command not found
+tish error: #-2
+embox>
+l��loppupp��iiwiippl�pcpxpV�`pppp����uppembox>[K[48C
+embox>�pc�
+�pc�: Command not found
+tish error: #-2
+embox>pxptc�pxp@pp[sv�
+embox>����[?5h[?5l����������������xiiiiiii
+��������������������xiiiiiii: Command not found
+tish error: #-2
+embox>iiiNiikixiiiiiiiembox>�pc�[Kiiiiii
+�pc�: Command not found
+tish error: #-2
+embox>
+l��loppupp��iiiiippl�pcp�pN�`tppp����upp
+embox>�pc�
+�pc�: Command not found
+tish error: #-2
+embox>pxptc�pxpNppppv�
+embox>����[?5h[?5l�������� ���S��xiiiipNp
+������������: Command not found
+tish error: #-2
+embox>pppv�����[?5h[?5l�iiiiiiiiiii
+������������: Command not found
+tish error: #-2
+embox>
+l��loppupp��iiiiippl�pcpxpN�`pppp����upp
+embox>�pc�
+�pc�: Command not found
+tish error: #-2
+embox>pxptc�pxWNppppv�
+embox>����[?5h[?5l����������������xiiiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

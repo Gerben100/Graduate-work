@@ -1,0 +1,119 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�m��]embox>�m��][K[6Cembox>]�m��][K[7Cembox>]]�m��][K[8Cembox>]]]�m��][K[9Cembox>]]]M�m��][K[10Cembox>]]]M@�m��][K[11Cembox>]]]M@?�m��][K[12Cembox>]]]M@?]�m��][K[13Cembox>]]]M@?]]�m��][K[14Cembox>]]]M@?]]]�m��][K[15Cembox>]]]M@?]]]]�m��][K[16Cembox>]]]M@?]]]]��m��][K[17Cembox>]]]M@?]]]]�y�m��][K[18Cembox>]]]M@?]]]]�yl�m��][K[19Cembox>]]]M@?]]]]�yl��m��][K[20Cembox>]]]M@?]]]]�yl���m��][K[21Cembox>]]]M@?]]]]�yl���m��][K[22Cembox>]]]M@?]]]]�yl��i�m��][K[23Cembox>]]]M@?]]]]�yl��i�m��][K[24Cembox>]]]M@?]]]]�yl��i
+�m��][K[25Cembox>]]]M@?]]]]�yl��i
+��m��][K[26Cembox>]]]M@?]]]]�yl��i
+�\�m��][K[27Cembox>]]]M@?]]]]�yl��i
+�\]�m��][K[28Cembox>]]]M@?]]]]�yl��i
+�\]]�m��][K[29Cembox>]]]M@?]]]]�yl��i
+�\]]]�m��][K[30Cembox>]]]M@?]]]]�yl��i
+�\]]]]�m��][K[31Cembox>]]]M@?]]]]�yl��i
+�\]]]]]�m��][K[32Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M�m��][K[33Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@�m��][K[34Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?�m��][K[35Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]�m��][K[36Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]�m��][K[37Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]�m��][K[38Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�m��][K[39Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]��m��][K[40Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�y�m��][K[41Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl�m��][K[42Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl��m��][K[43Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl���m��][Kembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl���m��][K[45Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl��i�m��][K[46Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl��i�m��][K[47Cembox>]]]M@?]]]]�yl��i
+�\]]]]]M@?]]]]�yl��i
+�m��][K[48C
+]]]M@?]]]]�yl��: Command not found
+tish error: #-2
+embox>�\]]]m]]]\]zU]]�yl�
+�\]]]m]]]\]zU]]�yl�: Command not found
+tish error: #-2
+embox>
+m]]]]]]]]@?]]]]�yl��i
+�']]]]]]]\]z]]]�yl�
+tish error: #-22
+embox>
+]]\]z]]]�yl�
+]]\]z]]]�yl�: Command not found
+tish error: #-2
+embox>
+m]]]]]]]]]]�yl��cdi
+�\]]]]]]]j]�embox>
+m]]]]]]]]]]�yl��cdi
+�\]]]]]]]j]���yl�
+tish error: #-22
+embox>
+m]]]]]]]]@?]yl�embox>
+[K[7Ci(�\]]]
+tish error: #-22
+embox>]]�yl�
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+b�M
+b�M: Command not found
+tish error: #-2
+embox>
+exit��~embox>[K[15Cembox>[K[14C
+exit��~: Command not found
+tish error: #-2
+embox>
+a
+a: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+[H[H[2J���u
+tish error: #-22
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+�
+embox>�
+embox>
+�
+embox>
+
+embox>����dd�
+embox>����dd�[?5h[?5l
+����dd��(�{: Command not found
+tish error: #-2
+embox>
+�
+embox>��[?5h[?5l��[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+
+embox>�r[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+������� ���������������������[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

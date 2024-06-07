@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ogo 7ogo 
+ogo: Command not found
+tish error: #-2
+embox>
+:embox>
+:[K[6Cembox>
+:[K[7Cembox>
+:[K[8Cembox>
+:[K[9Cembox>"
+:[K[10C
+embox>
+embox>[K[6C
+embox>x�����y
+x�����y: Command not found
+tish error: #-2
+embox>
+
+
+tish error: #-22
+embox>
+embox>[K[6C
+embox>v�����y
+v�����y: Command not found
+tish error: #-2
+embox>
+�embox>v�����y[K[13C��
+v�����y��: Command not found
+tish error: #-2
+embox>
+'embox>
+'[K[6Cembox>
+'[K[7Cembox>�
+'[K[8Cembox>�
+'[K[9Cembox>�z
+'[K[10Cembox>�z�
+'[K[11C[H[H[2Jembox>�z�
+'[K[11Cembox>�z�y
+'[K[12C
+embox>
+embox>[K[6C��yTl��ۋ��m
+��yTl��ۋ��m: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C�@�z
+��@: Command not found
+tish error: #-2
+embox>
+
+embox>xexrt�ly
+xexrt�ly: Command not found
+tish error: #-2
+embox>
+�xembox>xexrt�ly[K[14C�yuuembox>xexrt�ly�yuu[K[6Cembox>�xexrt�ly�yuu[K[7Cembox>�Wxexrt�ly�yuu[K[8Cembox>�Woxexrt�ly�yuu[K[9Cembox>�Wogxexrt�ly�yuu[K[10Cembox>�Wog�xexrt�ly�yuu
+�Wog�xexrt�ly: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>��exit����y
+��exit����y: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�[H[H[2Jcddpp�
+tish error: #-22
+embox>
+
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,220 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>
+l� embox>
+l� [K[10Cembox>
+l� �[K[11Cembox>
+l� �b[K[12Cembox>
+l� �b�[K[13Cembox>
+l� �b�[K[6Cembox>o
+l� �b�[K[7Cembox>o�
+l� �b�[K[8Cembox>o�^
+l� �b�[K[9Cembox>o�^M
+l� �b�[K[10Cembox>o�^M�
+l� �b�[K[11Cembox>o�^Mы
+l� �b�[K[12Cembox>o�^MыJ
+l� �b�[K[13Cembox>o�^MыJ�
+l� �b�[K[14Cembox>o�^MыJ�
+l� �b�[K[15Cembox>o�^MыJ�
+l� �b�[K[16Cembox>o�^MыJ�
+l� �b�[K[17Cembox>o�^MыJ�p
+l� �b�[K[18C
+o�^MыJ�: Command not found
+tish error: #-2
+embox>
+lo�embox>
+lo�[K[10Cembox>
+lo�^[K[11Cembox>
+lo�^M[K[12Cembox>
+lo�^M�[K[13Cembox>
+lo�^M�i[K[14Cembox>
+lo�^M�iI[K[15Cembox>
+lo�^M�iId[K[16Cembox>
+lo�^M�iId�[K[17Cembox>
+lo�^M�iId�b[K[18Cembox>
+lo�^M�iId�b�[K[19Cembox>
+lo�^M�iId�b�[K[6Cembox>�
+lo�^M�iId�b�[K[7Cembox>�
+lo�^M�iId�b�[K[6Cembox>�
+lo�^M�iId�b�[K[7Cembox>��
+lo�^M�iId�b�[K[8Cembox>��
+lo�^M�iId�b�[K[9Cembox>�p�
+lo�^M�iId�b�[K[10C
+embox>
+l�{{RpRp
+l�{{RpRp: Command not found
+tish error: #-2
+embox>
+lo�embox>[K[6C^@ыJ�b�embox>^@ыJ�b�[K[6Cembox>�^@ыJ�b�[K[7Cembox>� ^@ыJ�b�[K[8Cembox>� ^@ыJ�b�[K[9Cembox>� ^@ыJ�b�[K[10Cembox>� ^@ыJ�b�[K[11Cembox>� p^@ыJ�b�[K[12C
+�: Command not found
+tish error: #-2
+embox>
+�export
+�export: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[7Cembox>
+�l[K[8Cembox>
+�l[K[6Cembox>�
+�l[K[7Cembox>� 
+�l[K[8Cembox>� M
+�l[K[9Cembox>� M�
+�l[K[10Cembox>� Mы
+�l[K[11Cembox>� MыJ
+�l[K[12Cembox>� MыJ�
+�l[K[13Cembox>� MыJ�
+�l[K[14Cembox>� MыJ�o
+�l[K[15Cembox>� MыJ�o�
+�l[K[16Cembox>� MыJ�o�
+�l[K[17Cembox>� MыJ�o�
+�l[K[16Cembox>� MыJ�o�^
+�l[K[17Cembox>� MыJ�o�^
+�l[K[18Cembox>� MыJ�o�^
+�l[K[19Cembox>� MыJ�o�^
+�l[K[20Cembox>� MыJ�o�^p
+�l[K[21C
+�: Command not found
+tish error: #-2
+embox>
+,embox>
+[K[7C�embox>
+�[K[8Cembox>
+�^[K[9Cembox>
+�^M[K[10Cembox>
+�^M�[K[11Cembox>
+�^Mы[K[12Cembox>
+�^MыJ[K[13Cembox>
+�^MыJe[K[14Cembox>
+�^MыJex[K[15Cembox>
+�^MыJexp[K[16Cembox>
+�^MыJexpo[K[17Cembox>
+�^MыJexpor[K[18Cembox>
+�^MыJexport[K[19Cembox>
+�^MыJexport [K[20Cembox>
+�^MыJexport [K[6Cembox>
+�^MыJexport [K[7Cembox>
+�^MыJexport [K[8Cembox>p
+�^MыJexport [K[9C
+embox>
+lo��^MЋJ�A�embox>
+lo��^MЋJ�A�[K[6Cembox>�
+lo��^MЋJ�A�[K[7Cembox>� 
+lo��^MЋJ�A�[K[8Cembox>� 
+lo��^MЋJ�A�[K[9Cembox>� 
+lo��^MЋJ�A�[K[10Cembox>� 
+lo��^MЋJ�A�[K[11Cembox>� p
+lo��^MЋJ�A�[K[12C
+�: Command not found
+tish error: #-2
+embox>
+lopembox>
+lop[K[10Cembox>
+lop^[K[11Cembox>
+lop^d[K[12Cembox>
+lop^d [K[13Cembox>
+lop^d [K[14Cembox>
+lop^d J[K[15Cembox>
+lop^d J�[K[16Cembox>
+lop^d J�[K[17Cembox>
+lop^d J�b[K[18Cembox>
+lop^d J�b^[K[19Cembox>
+lop^d J�b^[K[20Cembox>
+lop^d J�b^[K[21Cembox>
+lop^d J�b^[K[22Cembox>
+lop^d J�b^J[K[23Cembox>
+lop^d J�b^J�[K[24Cembox>
+lop^d J�b^J�[K[25Cembox>
+lop^d J�b^J�b[K[26Cembox>
+lop^d J�b^J�b�[K[27Cembox>
+lop^d J�b^J�b�[K[6Cembox>
+lop^d J�b^J�b�[K[7Cembox>
+lop^d J�b^J�b�[K[8Cembox>
+lop^d J�b^J�b�[K[9Cembox>
+lop^d J�b^J�b�[K[10Cembox>
+lop^d J�b^J�b�[K[11Cembox>�
+lop^d J�b^J�b�[K[12C
+embox>
+lxoembox>
+lx[K[9C�ooembox>
+lx�o[K[11C�oooooooPooooPoooooooooooooooooPoooooov
+lx�o�oooooooPooooPoooooo: Command not found
+tish error: #-2
+embox>
+lo�embox>
+lo�[K[10Cembox>
+lo�^[K[11Cembox>
+lo�^M[K[12Cembox>
+lo�^M�[K[13Cembox>
+lo�^Mы[K[14Cembox>
+lo�^Mыe[K[15Cembox>
+lo�^Mыe�[K[16Cembox>
+lo�^Mыe�[K[17Cembox>
+lo�^Mыe�b[K[18Cembox>
+lo�^Mыe�b�embox>
+lo�^Mыe�b�embox>�
+lo�^Mыe�b�embox>� 
+lo�^Mыe�b�embox>� 
+lo�^Mыe�b�embox>� 
+lo�^Mыe�b�embox>� �
+lo�^Mыe�b�embox>� �p
+lo�^Mыe�b�
+�: Command not found
+tish error: #-2
+embox>
+lo�embox>
+lo�[K[10Cembox>
+lo�^[K[11Cembox>
+lo�^M[K[12Cembox>
+lo�^M�[K[13Cembox>
+lo�^Mы[K[14Cembox>
+lo�^MыJ[K[15Cembox>
+lo�^MыJ [K[16Cembox>
+lo�^MыJ �[K[17Cembox>
+lo�^MыJ �b[K[18Cembox>
+lo�^MыJ �b�[K[19Cembox>
+lo�^MыJ �b�[K[6Cembox>�
+lo�^MыJ �b�[K[7Cembox>�+
+lo�^MыJ �b�[K[8Cembox>�+
+lo�^MыJ �b�[K[9Cembox>�+
+lo�^MыJ �b�embox>�+
+lo�^MыJ �b�embox>�+p
+lo�^MыJ �b�
+�+: Command not found
+tish error: #-2
+embox>
+�rr
+�r: Command not found
+tish error: #-2
+embox>
+V 
+V: Command not found
+tish error: #-2
+embox>
+�v 
+�v: Command not found
+tish error: #-2
+embox>
+llqexpJrt
+llqexpJrt: Command not found
+tish error: #-2
+embox>
+sm�inn�{�inn�{pg
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

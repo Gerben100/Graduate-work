@@ -1,0 +1,95 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i
+i: Command not found
+tish error: #-2
+embox>
+dxp@�@��@@@@@@�@@
+dxp@�@��: Command not found
+tish error: #-2
+embox>
+d��
+tish error: #-22
+embox>
+ing�(~eN�I5dd��
+ing: Command not found
+tish error: #-2
+embox>
+iexport�
+iexport�: Command not found
+tish error: #-2
+embox>
+ingxiembox>
+ingxi[K[6Cembox>�
+ingxi[K[7Cembox>�]
+ingxi[K[8Cembox>�]�
+ingxi[K[9Cembox>�]�
+ingxi[K[10Cembox>
+iexport�[K[15C��embox>[K[6Cembox>[K[6Celogoutw
+elogoutw: Command not found
+tish error: #-2
+embox>
+ih@embox>
+ih[K[11Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6C/embox>[K[6Cembox>[K[6Celogoutw
+elogoutw: Command not found
+tish error: #-2
+embox>
+ing�embox>
+ing[K[11Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Celtgoutw
+eltgoutw: Command not found
+tish error: #-2
+embox>
+ing�embox>
+ing[K[11C�embox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Celogoutw
+elogoutw: Command not found
+tish error: #-2
+embox>
+lsin��embox>
+lsin�[K[13Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6C�embox>[K[6Cembox>[K[6C���] goutw
+���]: Command not found
+tish error: #-2
+embox>
+ing
+ing: Command not found
+tish error: #-2
+embox>
+log�#embox>[Kembox>[Kembox>[Kembox>[K$
+$: Command not found
+tish error: #-2
+embox>�embox>[K[6Cembox>[K[6Cembox>embox>embox>eembox>exembox>exiembox>exitembox>exittembox>exitti
+embox>
+�embox>
+[K[7Cg�embox>
+gembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Celpinogout@`w
+elpinogout@: Command not found
+tish error: #-2
+embox>
+ing�� ��oShw
+tish error: #-22
+embox>
+ing����logout���logoutw
+ing�: Command not found
+tish error: #-2
+embox>
+i]g�)�elogoutw
+elogoutw: Command not found
+tish error: #-2
+embox>
+hng��ilogouUexportw
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

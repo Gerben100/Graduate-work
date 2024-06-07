@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C�cembox>�c[K[6Cembox>�c[K[7Cembox>6�c[K[8Cembox>6e�c[K[9Cembox>6e@�c[K[10Cembox>6e@�c[K[11Cembox>6e@��c[K[12Cembox>6e@���c[K[13Cembox>6e@���c[K[14Cembox>6e@��@�c[K[15Cembox>6e@��@W�c[K[16Cembox>6e@��@W@�c[K[17Cembox>6e@��@W@W�c[K[18Cembox>6e@��@W@W@�c[K[19Cembox>6e@��@W@W@A�c[K[20Cembox>6e@��@W@W@A@�c[K[21Cembox>6e@��@W@W@A@q�c[K[22Cembox>6e@��@W@W@A@qR�c[K[23Cembox>6e@��@W@W@A@qRe�c[K[24Cembox>6e@��@W@W@A@qRex�c[K[25Cembox>6e@��@W@W@A@qRex@�c[K[26Cembox>6e@��@W@W@A@qRex@x�c[K[27Cembox>6e@��@W@W@A@qRex@x@�c[K[28Cembox>6e@��@W@W@A@qRex@x@A�c[K[29Cembox>6e@��@W@W@A@qRex@x@A@�c[K[30Cembox>6e@��@W@W@A@qRex@x@A@q�c[K[31Cembox>6e@��@W@W@A@qRex@x@A@q?�c[K[32Cembox>6e@��@W@W@A@qRex@x@A@q?p�c[K[33Cembox>6e@��@W@W@A@qRex@x@A@q?p@�c[K[34Cembox>6e@��@W@W@A@qRex@x@A@q?p@��c[K[35Cembox>6e@��@W@W@A@qRex@x@A@q?p@���c[K[36Cembox>6e@��@W@W@A@qRex@x@A@q?p@��U�c[K[37Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux�c[K[38Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6�c[K[39Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6�c[K[40Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6�c[K[39Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6o�c[K[40Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6or�c[K[41Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6orf�c[K[42Cembox>6e@��@W@W@A@qRex@x@A@q?p@��Ux6orf�c[K[6Cembox>�6e@��@W@W@A@qRex@x@A@q?p@��Ux6orf�c[K[7Cembox>�@6e@��@W@W@A@qRex@x@A@q?p@��Ux6orf�c[K[8C
+�@: Command not found
+tish error: #-2
+embox>
+embox>�@[K[8Cembox>�@[K[8C�c@A@q?exp@��Ux2embox>�@�c@A@q?exp@��Ux2[K[24Corfembox>�@�c@A@q?exp@��Ux2orf[K[6Cembox>��@�c@A@q?exp@��Ux2orf[K[7Cembox>�@�@�c@A@q?exp@��Ux2orf[K[8C
+�@�@�c@A@q?exp@��Ux2orf: Command not found
+tish error: #-2
+embox>
+embox>�@�@�c@A@q?exp@��Ux2orf[K[29Cembox>�@�@�c@A@q?exp@��Ux2orf[K[29C�cexitembox>�@�@�c@A@q?exp@��Ux2orf�cexit[K[6Cembox>�@�@�c@A@q?exp@��Ux2orf�cexit[K[7Cembox>��@�@�c@A@q?exp@��Ux2orf�cexit[K[8Cembox>���@�@�c@A@q?exp@��Ux2orf�cexit[K[9Cembox>���@�@�c@A@q?exp@��Ux2orf�cexit[K[10Cembox>��@�@�@�c@A@q?exp@��Ux2orf�cexit[K[11Cembox>��@W�@�@�c@A@q?exp@��Ux2orf�cexit[K[12Cembox>��@W@�@�@�c@A@q?exp@��Ux2orf�cexit[K[13Cembox>��@W@A�@�@�c@A@q?exp@��Ux2orf�cexit[K[14Cembox>��@W@A@�@�@�c@A@q?exp@��Ux2orf�cexit[K[15Cembox>��@W@A@q�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?e�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@A�@�@�c@A@q?exp@��Ux2orf�cexit[K[23Cembox>��@W@A@q?ex@W@A@�@�@�c@A@q?exp@��Ux2orf�cexit[K[24Cembox>��@W@A@q?ex@W@A@q�@�@�c@A@q?exp@��Ux2orf�cexit[K[25Cembox>��@W@A@q?ex@W@A@q��@�@�c@A@q?exp@��Ux2orf�cexit[K[26Cembox>��@W@A@q?ex@W@A@q�e�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@A@q�e@�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@A@q�e@q�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@A@q�e@q?�@�@�c@A@q?exp@��Ux2orf�cexit[Kembox>��@W@A@q?ex@W@A@q�e@q?e�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?ex�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@���@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��U�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#o�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#or�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#orf�@�@�c@A@q?exp@��Ux2orf�cexitembox>��@W@A@q?ex@W@A@q�e@q?exp@��Ux#orf�@�@�c@A@q?exp@��Ux2orf�cexitembox>���@W@A@q?ex@W@A@q�e@q?exp@��Ux#orf�@�@�c@A@q?exp@��Ux2orf�cexit
+�: Command not found
+tish error: #-2
+embox>@
+@: Command not found
+tish error: #-2
+embox>
+embox>@[K[7Cembox>@[K[7C�cembox>@�c[K[6Cembox>@�c[K[7Cembox>6@�c[K[8Cembox>6e@�c[K[9Cembox>6e@@�c[K[10Cembox>6e@@�c[K[11Cembox>6e@ @�c[K[12Cembox>6e@ @�c[K[13Cembox>6e@ [K[13C�t�@q?ex�Uxexit6embox>6e@ �t�@q?ex�Uxexit6[K[31Corfembox>6e@ �t�@q?ex�Uxexit6orf[K[6Cembox>�6e@ �t�@q?ex�Uxexit6orf[K[7Cembox>�@6e@ �t�@q?ex�Uxexit6orf[K[8C
+�@: Command not found
+tish error: #-2
+embox>
+embox>�@[K[8Cembox>�@[K[8C�cembox>�@�c[K[6Cembox>�@�c[K[7Cembox>6�@�c[K[8Cembox>6e�@�c[K[9Cembox>6e@�@�c[K[10Cembox>6e@�@�c[K[11Cembox>6e@��@�c[K[12Cembox>6e@���@�c[K[13Cembox>6e@���@�c[K[14Cembox>6e@��@�@�c[K[15Cembox>6e@��@W�@�c[K[16Cembox>6e@��@W@�@�c[K[17Cembox>6e@��@W@A�@�c[K[18Cembox>6e@��@W@A@�@�c[K[19Cembox>6e@��@W@A@q�@�c[K[20Cembox>6e@��@W@A@q?�@�c[K[21Cembox>6e@��@W@A@q?e�@�c[K[22Cembox>6e@��@W@A@q?ex�@�c[K[23Cembox>6e@��@W@A@q?exp�@�c[K[24Cembox>6e@��@W@A@q?expi�@�c[K[25Cembox>6e@��@W@A@q?expin�@�c[K[26Cembox>6e@��@W@A@q?expinA�@�c[K[27Cembox>6e@��@W@A@q?expinA@�@�c[K[28Cembox>6e@��@W@A@q?expinA@q�@�c[K[29Cembox>6e@��@W@A@q?expinA@q?�@�c[K[30Cembox>6e@��@W@A@q?expinA@q?e�@�c[K[31Cembox>6e@��@W@A@q?expinA@q?ex�@�c[K[32Cembox>6e@��@W@A@q?expinA@q?exp�@�c[K[33Cembox>6e@��@W@A@q?expinA@q?exp@�@�c[K[34Cembox>6e@��@W@A@q?expinA@q?exp@��@�c[K[35Cembox>6e@��@W@A@q?expinA@q?exp@���@�cembox>6e@��@W@A@q?expinA@q?exp@��d�@�cembox>6e@��@W@A@q?expinA@q?exp@��d�@�cembox>6e@��@W@A@q?expinA@q?exp@��d�@�cembox>6e@��@W@A@q?expinA@q?exp@��d�@�cembox>6e@��@W@A@q?expinA@q?exp@��d�@�cembox>6e@��@W@A@q?expinA@q?exp@��do�@�cembox>6e@��@W@A@q?expinA@q?exp@��dor�@�cembox>6e@��@W@A@q?expinA@q?exp@��dorf�@�cembox>6e@��@W@A@q?expinA@q?exp@��dorf�@�cembox>�6e@��@W@A@q?expinA@q?exp@��dorf�@�cembox>�@6e@��@W@A@q?expinA@q?exp@��dorf�@�c
+�@: Command not found
+tish error: #-2
+embox>
+embox>�@[K[8Cd�cembox>�@d�c[K[6Cembox>�@d�c[K[7Cembox>6�@d�c[K[8Cembox>6e�@d�c[K[9Cembox>6e@�@d�c[K[10Cembox>6e@�@d�c[K[11Cembox>6e@��@d�c[K[12Cembox>6e@���@d�c[K[13Cembox>6e@���@d�c[K[14Cembox>6e@��@�@d�c[K[15Cembox>6e@��@W�@d�c[K[16Cembox>6e@��@W@�@d�c[K[17Cembox>6e@��@W@A�@d�c[K[18Cembox>6e@��@W@A@�@d�c[K[19Cembox>6e@��@W@A@q�@d�c[K[20Cembox>6e@��@W@A@q?�@d�c[K[21Cembox>6e@��@W@A@q?e�@d�c[K[22Cembox>6e@��@W@A@q?ex�@d�c[K[23Cembox>6e@��@W@A@q?ex@�@d�c[K[24Cembox>6e@��@W@A@q?ex@W�@d�c[K[25Cembox>6e@��@W@A@q?ex@W@�@d�c[K[26Cembox>6e@��@W@A@q?ex@W@A�@d�c[K[27Cembox>6e@��@W@A@q?ex@W@A@�@d�c[K[28Cembox>6e@��@W@A@q?ex@W@A@q�@d�c[K[29Cembox>6e@��@W@A@q?ex@W@A@q?�@d�c[K[30Cembox>6e@��@W@A@q?ex@W@A@q?e�@d�c[K[31Cembox>6e@��@W@A@q?ex@W@A@q?ex�@d�c[K[32Cembox>6e@��@W@A@q?ex@W@A@q?exp�@d�c[K[33Cembox>6e@��@W@A@q?ex@W@A@q?exp@�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@��@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@��@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�V�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6o�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6or�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6orf�@d�cembox>6e@��@W@A@q?ex@W@A@q?exp@�Vx6orf�@d�cembox>�6e@��@W@A@q?ex@W@A@q?exp@�Vx6orf�@d�cembox>�@6e@��@W@A@q?ex@W@A@q?exp@�Vx6orf�@d�c
+�@: Command not found
+tish error: #-2
+embox>
+ci.embox>
+ci[K[11C@6embox>
+ci@6[K[14Co�embox>[K[6C�@
+�@: Command not found
+tish error: #-2
+embox>
+embox>�@[K[8Cembox>�@[K[8C�c]]]]]]]]]]]]]� e@��@W@A@q?ex@W@A@q?exo@��U
+�@�c]]]]]]]]]]]]]�: Command not found
+tish error: #-2
+embox>x6embox>x6[K[8CoXfembox>x6oXf[K[10Cembox>f[K[6Cembox>@f[K[7C
+@f: Command not found
+tish error: #-2
+embox>
+embox>@f[K[8C_�cembox>@f_�c[K[6Cembox>@f_�c[K[7Cembox>6@f_�c[K[8Cembox>6e@f_�c[K[9Cembox>6e@@f_�c[K[10Cembox>6e@@f_�c[K[11Cembox>6e@�@f_�c[K[12Cembox>6e@��@f_�c[K[13Cembox>6e@��@f_�c[K[14Cembox>6e@��@@f_�c[K[15Cembox>6e@��@W@f_�c[K[16Cembox>6e@��@W@@f_�c[K[17Cembox>6e@��@W@A@f_�cembox>6e@��@W@A@@f_�cembox>6e@��@W@A@q@f_�cembox>6e@��@W@A@q?@f_�cembox>6e@��@W@A@q?e@f_�cembox>6e@��@W@A@q?ex@f_�cembox>6e@��@W@A@q?ex@@f_�cembox>6e@��@W@A@q?ex@W@f_�cembox>6e@��@W@A@q?ex@W@@f_�cembox>6e@��@W@A@q?ex@W@A@f_�cembox>6e@��@W@A@q?ex@W@A@@f_�cembox>6e@��@W@A@q?ex@W@A@q@f_�cembox>6e@��@W@A@q?ex@W@A@q?@f_�cembox>6e@��@W@A@q?ex@W@A@q@f_�cembox>6e@��@W@A@q?ex@W@A@qo@f_�cembox>6e@��@W@A@q?ex@W@A@qog@f_�cembox>6e@��@W@A@q?ex@W@A@qogu@f_�cembox>6e@��@W@A@q?ex@W@A@qogu@f_�cembox>6e@��@W@A@q?ex@W@A@qogu@f_�c
+embox>�jjjexit�@W@A
+�jjjexit�@W@A: Command not found
+tish error: #-2
+embox>@q?ex@W@A�je\fjjogue@�@q?�@
+@q?ex@W@A�je\fjogue@: Command not found
+tish error: #-2
+embox>
+xexitreexp@{t�77
+xexitreexp@{t�77: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+lse���
+lse��: Command not found
+tish error: #-2
+embox>
+�Y�Ⱦdd
+�Y�Ⱦdd: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+c���cd�v�v
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

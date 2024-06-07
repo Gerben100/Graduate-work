@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>(�eN�I5d6@@embox>(�eN�I5d6@@[K[19C��@@@@@@@PH@�cdembox>(�eN�I5d6@@��@@@@@@@PH@�c[K[35C@@@@@@@@@?-@@@@embox>(�eN�I5d6@@��@@@@@@@PH@�c@@@@@@@@@?-@@@@[K[6Cembox>@(�eN�I5d6@@��@@@@@@@PH@�c@@@@@@@@@?-@@@@[K
+@: Command not found
+tish error: #-2
+embox>@embox>@[K[6Cembox>p@[K[7Cembox>p@@[K[8Cembox>p@@[K[9Cembox>p@P@[K[10Cembox>p@PH@[K[11Cembox>p@PH@@[K[12Cembox>p@PH@@[K[13Cembox>p@PH@@@[K[14Cembox>p@PH@@@@[K[15Cembox>p@PH@@@�@[K[16Cembox>p@PH@@@�@@[K[17Cembox>p@PH@@@�@@@[K[18Cembox>p@PH@@@�@@ @[K[19Cembox>p@PH@@@�@@ ?@[K[20Cembox>p@PH@@@�@@ ?@@[K[21Cembox>p@PH@@@�@@ ?@@@[K[22Cembox>p@PH@@@�@@ ?@@@@[K[23C
+p@PH@: Command not found
+tish error: #-2
+embox>
+(xeN�I5d6@@embox>
+(xeN�I5d6@@[K[20C��@@@@@@@@@@@@@D@@@?@@@@@=@@K@@@embox>
+(xeN�I5d6@@��@@@@@@@@@@@@@D@@@?@@@@@=@@K@@@[K[6Cembox>@
+(xeN�I5d6@@��@@@@@@@@@@@@@D@@@?@@@@@=@@K@@@[K[7Cembox>@@
+(xeN�I5d6@@��@@@@@@@@@@@@@D@@@?@@@@@=@@K@@@[K[8C
+@@: Command not found
+tish error: #-2
+embox>exp@�@@@@?@����@@
+exp@�@@@@?@����@@: Command not found
+tish error: #-2
+embox>
+(xeN�I5d6@@embox>
+(xeN�I5d6@@[K[20C��@@@@@@@@@@@@@@@@@?@@@@@@@@@@5embox>
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@?@@@@@@@@@@5embox>@
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@?@@@@@@@@@@5embox>@@
+(xeN�I5d6@@��@@@@@@@@@@@@@@@@@?@@@@@@@@@@5
+@@: Command not found
+tish error: #-2
+embox>exp@�@@@@?@@@P@@@
+exp@�@@@@?@@@P@@@: Command not found
+tish error: #-2
+embox>
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@e
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_A
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAAAA
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAAAAx
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAAAAxp
+(x@@@@@@@@@@@@@?@@@4@@@@@@@embox>@@eAAAAAAA_AAAAAxp@
+(x@@@@@@@@@@@@@?@@@4@@@@@@@[K[25Cembox>@@eAAAAAAA_AAAAAxp@�
+(x@@@@@@@@@@@@@?@@@4@@@@@@@[K
+@@eAAAAAAA_AAAAAxp@�: Command not found
+tish error: #-2
+embox>@`@@?N@@@@@@
+@`@@?N@@@@@@: Command not found
+tish error: #-2
+embox>
+Z@embox>
+Z@embox>
+Z@embox>Z
+Z@embox>ZF
+Z@embox>ZF
+Z@embox>@ZF
+Z@embox>@@ZF
+Z@embox>@@eZF
+Z@embox>@@exZF
+Z@embox>@@expZF
+Z@embox>@@exp@ZF
+Z@embox>@@exp@�ZF
+Z@embox>@@exp@�@ZF
+Z@embox>@@exp@�@@ZF
+Z@embox>@@exp@�@@LZF
+Z@embox>@@exp@�@@L@ZF
+Z@embox>@@exp@�@@L@?ZF
+Z@embox>@@exp@�@@L@?@ZF
+Z@embox>@@exp@�@@L@?@@ZF
+Z@embox>[K
+@@exp@�@@L@?@@@: Command not found
+tish error: #-2
+embox>
+(xeN�I5d6@@�@@@@@@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@@exp@�@@@@?@@@@@@@: Command not found
+tish error: #-2
+embox>
+(xdN�export[?5h[?5lepinxit@@@
+tish error: #-22
+embox>
+(xeN�I5A6@@embox>[K
+embox>�@@@@@@@@@@@@@@@@@?@@@@@@@@@@@embox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

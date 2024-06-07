@@ -1,0 +1,143 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>n��y
+n��y: Command not found
+tish error: #-2
+embox>
+����������embox>
+���������[K[19C�����
+tish error: #-22
+embox>
+��y�embox>
+��y[K[10C
+��y: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+n��xi��i
+n��xi��i: Command not found
+tish error: #-2
+embox>
+n��
+n��: Command not found
+tish error: #-2
+embox>
+nembox>
+n[K[7Cembox>
+�n[K[8Cembox>
+�n[K[7Cembox>
+��n[K[8C
+��n: Command not found
+tish error: #-2
+embox>
+Q�(foou�
+Q�(: Command not found
+tish error: #-2
+embox>
+n
+ԡy
+n: Command not found
+tish error: #-2
+embox>
+t�
+t�: Command not found
+tish error: #-2
+embox>
+n�[���inZembox>
+n�[���in�/�Ɠ/�����logout
+n�[���in�/�Ɠ/�����logout: Command not found
+tish error: #-2
+embox>
+n��s/���sg���
+n��s/��: Command not found
+tish error: #-2
+embox>
+Vxl@ttpN]ss�tL
+Vxl@: Command not found
+tish error: #-2
+embox>
+d�
+@�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+r��l/н����r��l/н����
+r��l/н����r��l/н����: Command not found
+tish error: #-2
+embox>
+���l/�������
+���l/�������: Command not found
+tish error: #-2
+embox>
+Ǌ ����LL឵��
+Ǌ: Command not found
+tish error: #-2
+embox>
+n��l�����
+n��l�����: Command not found
+tish error: #-2
+embox>
+xpNppcc�pxpNppppvƴppl�ppppinpp
+loppqppppl�ppp: Command not found
+tish error: #-2
+embox>pppp�ls
+embox>�pccƴ����
+�pccƴ����: Command not found
+tish error: #-2
+embox>
+~
+~: Command not found
+tish error: #-2
+embox>
+n��ncd�n��n��(9
+n��ncd�n��n��(9: Command not found
+tish error: #-2
+embox>
+n��
+embox>[?5h[?5l7tttttttsstttt�tt�@tgo
+7tttttttsstttt�tt�: Command not found
+tish error: #-2
+embox>
+n��
+embox>p[?5h[?5l7sgo
+p7sgo: Command not found
+tish error: #-2
+embox>
+nV```````````pin``bt��t�@tgo
+Vxl@: Command not found
+tish error: #-2
+embox>
+n��{s"tgo
+n: Command not found
+tish error: #-2
+embox>
+n��
+embox>p[?5h[?5l7sttttttdttVtt�lste
+p7sttttttdttVtt�lste: Command not found
+tish error: #-2
+embox>xitttttdttVttttttttQtttttt�tt�@tgo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

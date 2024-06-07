@@ -1,0 +1,164 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>q�@o
+q�@: Command not found
+tish error: #-2
+embox>
+�@
+�@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>f
+[K[7Cembox>f�
+[K[8Cembox>f�C
+[K[9Cembox>f�C
+[K[10Cembox>f�Cs
+[K[11C
+f�C: Command not found
+tish error: #-2
+embox>
+.embox>
+[K[7C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>q
+[K[7Cembox>q�
+[K[8Cembox>q�?
+[K[9Cembox>q�?
+[K[10Cembox>q�?s
+[K[11C
+q�?: Command not found
+tish error: #-2
+embox>
+exp�rtembox>
+exp�rt[K[6Cembox>q
+exp�rt[K[7Cembox>q�
+exp�rt[K[8Cembox>q�@
+exp�rt[K[9Cembox>q�@
+exp�rt[K[8Cembox>q�o@
+exp�rt[K[9C
+q�o@: Command not found
+tish error: #-2
+embox>
+s@s
+tish error: #-22
+embox>
+embox>[K[6Cp�@s
+p�@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>q
+[K[7Cembox>q
+[K[8Cembox>q[?5h[?5l
+[K[9Cembox>q[?5h[?5lA
+[K[10Cembox>q[?5h[?5lA
+[K[11C
+q: Command not found
+tish error: #-2
+embox>
+ou�,embox>
+ou�[K[10Cqqqp�embox>
+ou�qqqp�[K[6Cembox>R
+ou�qqqp�[K[7Cembox>Rq
+ou�qqqp�[K[8Cembox>Rqp
+ou�qqqp�[K[9Cembox>Rqp�
+ou�qqqp�[K[10Cembox>Rqp�
+ou�qqqp�[K[6Cembox>RRqp�
+ou�qqqp�[K[7Cembox>RGRqp�
+ou�qqqp�[K[8C
+RGRqp�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+embox>�
+embox>��
+embox>���
+embox>���5
+embox>���5
+embox>����5
+embox>�����5
+embox>������5
+embox>�������5
+
+����: Command not found
+tish error: #-2
+embox>
+�R�Rs
+�R�R: Command not found
+tish error: #-2
+embox>
+elsdixport
+elsdixport: Command not found
+tish error: #-2
+embox>
+e�}}}}}}|}�������expont}}
+e: Command not found
+tish error: #-2
+embox>}}}}}}}}}xc�����������
+}}}}}}}}}: Command not found
+tish error: #-2
+embox>
+ex����
+ex����: Command not found
+tish error: #-2
+embox>
+excdcdecdex�����
+ex: Command not found
+tish error: #-2
+embox>
+excdecdew�excdecdew����pin���pin
+ex: Command not found
+tish error: #-2
+embox>
+embox>
+excdcdecdlogoutex�����
+ex: Command not found
+tish error: #-2
+embox>
+ex�cd�ex�����c)Qcd[H[H[2J
+ex�cd�: Command not found
+tish error: #-2
+embox>
+excd�clex�����
+ex: Command not found
+tish error: #-2
+embox>
+
+�R�R: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+e�Ycdex�������eex�����v�
+embox>
+excdecPex����
+ex: Command not found
+tish error: #-2
+embox>
+exxxxxxx@xxxxxxxxzxxxx
+ex: Command not found
+tish error: #-2
+embox>
+egTUTSTTxTTTGO�t���l�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

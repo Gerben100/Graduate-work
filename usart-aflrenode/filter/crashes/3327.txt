@@ -1,0 +1,74 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>h��erpuuu��yxportIs�e
+h��erpuuu��yxportIs�e: Command not found
+tish error: #-2
+embox>
+969embox>
+96[K[9CinJ999999[?5h[?5l
+96inJ999999: Command not found
+tish error: #-2
+embox>
+ho���tuud�port%
+ho: Command not found
+tish error: #-2
+embox>
+�ueseusuul�xp
+tish error: #-22
+embox>
+houembox>
+hou[K[6Cembox>x
+hou[K[7Cembox>xp
+hou[K[8Cembox>xpu
+hou[K[9Cembox>xpuu
+hou[K[10Cembox>xpuuu
+hou[K[11Cembox>xpuuuu
+hou[K[12Cembox>xpuuuu
+hou[K[13Cembox>xpuuuul
+hou[K[14Cembox>xpuuuuls
+hou[K[15Cembox>xpuuuulsp
+hou[K[16Cembox>xpuuuulspi
+hou[K[17Cembox>xpuuuulspin
+hou[K[18Cembox>xpuuuulspinhou[K[18Cembox>xpuuuulspin�hou[K[19Cembox>xpuuuulspin�ehou[K[20C
+xpuuuu: Command not found
+tish error: #-2
+embox>
+hou�xp�uuuls��R����
+hou�xp�uuu: Command not found
+tish error: #-2
+embox>
+houexhouexppu�uuzs�e
+houexhouexppu�uu: Command not found
+tish error: #-2
+embox>
+houeud�e
+houeud: Command not found
+tish error: #-2
+embox>
+h
+embox>�c�
+�c�: Command not found
+tish error: #-2
+embox>
+exportuu�s�e
+exportuu�: Command not found
+tish error: #-2
+embox>
+houexp}uuuuuuuuu�c@�66F6>6T@������@@�c@xport@<@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

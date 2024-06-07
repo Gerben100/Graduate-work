@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>egtnktembox>egtnkt[K[11Cembox>egtnk t[K[12Cembox>egtnk it[K[13C
+egtnk: Command not found
+tish error: #-2
+embox>
+ߡe� i
+ߡe: Command not found
+tish error: #-2
+embox>
+�pee eeeseeeeeeepor�embox>
+�pee eeeseeeeeeepor�[K[27C
+embox>x i
+x: Command not found
+tish error: #-2
+embox>
+^E
+^E: Command not found
+tish error: #-2
+embox>
+�e
+�: Command not found
+tish error: #-2
+embox>
+�peeee�����eeeexpor�embox>
+�peeee�����eeeexpor�[K[27Cx i
+�peeee�����eeeexpor�x: Command not found
+tish error: #-2
+embox>
+�peeee�ee��embox>
+�peeee�ee�[K[17C�ee�portembox>
+�peeee�ee��ee�port
+embox>x i
+x: Command not found
+tish error: #-2
+embox>
+�{eeeeeeeeeembox>x i[K[9C"?�
+embox>embox>[K[6Creedexportembox>reedexport[K[16C
+embox>xexport i
+xexport: Command not found
+tish error: #-2
+embox>
+�e�e
+�e�e: Command not found
+tish error: #-2
+embox>
+�xd��eetttttttttttttttttttttttttttttttttttttttt
+�xd��: Command not found
+tish error: #-2
+embox>ttttttttttttttttteeeesxp�rtx i
+x: Command not found
+tish error: #-2
+embox>
+�peeyeeecdeeeeexport
+embox>x i
+x: Command not found
+tish error: #-2
+embox>
+
+65T@: Command not found
+tish error: #-2
+embox>
+���66�e�cx�66F�>ls�6@�QT@@�@@�@65T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

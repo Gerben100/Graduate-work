@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�pin��6x {
+�pin��6x: Command not found
+tish error: #-2
+embox>
+�Pembox>
+�[K[8Ckat
+�kat: Command not found
+tish error: #-2
+embox>
+pit@i�embox>
+pit@i�[K[6Cembox>�
+pit@i�[K[7Cembox>�@
+pit@i�[K[8Cembox>�@>
+pit@i�[K[9Cembox>�@>�
+pit@i�[K[10Cembox>�@>��
+pit@i�[K[11Cembox>�@>��x
+pit@i�[K[12Cembox>�@>��xo
+pit@i�[K[13Cembox>�@>��xo_
+pit@i�[K[14Cembox>�@>��xo_ 
+pit@i�[K[15Cembox>�@>��xo_ {
+pit@i�[K[16Cembox>�@>��xo_ {@
+pit@i�[K[17Cembox>�@>��xo_ {@@
+pit@i�[K[18Cembox>�@>��xo_ {@@@
+pit@i�[K[19Cembox>�@>��xo_ {@@@e
+pit@i�[K[20Cembox>�@>��xo_ {@@@ex
+pit@i�[K[21Cembox>�@>��xo_ {@@@exp
+pit@i�[K[22Cembox>�@>��xo_ {@@@expo
+pit@i�[K[23Cembox>�@>��xo_ {@@@expor
+pit@i�[K[24Cembox>�@>��xo_ {@@@export
+pit@i�[K[25Cembox>�@>��xo_ {@@@exporty
+pit@i�[K[26Cembox>�@>��xo_ {@@@exporty 
+pit@i�[K[27Cembox>�@>��xo_ {@@@exporty  
+pit@i�[K[28Cembox>�@>��xo_ {@@@exporty  {
+pit@i�[K[29C
+�@>��xo_: Command not found
+tish error: #-2
+embox>
+�pin��" {i�pin��6 {i�embox>
+�pin��" {i�pin��6 {i�[K[6Cembox>�
+�pin��" {i�pin��6 {i�[K[7Cembox>�@
+�pin��" {i�pin��6 {i�[K[8Cembox>�@L
+�pin��" {i�pin��6 {i�[K[9Cembox>�@L@
+�pin��" {i�pin��6 {i�[K[10Cembox>�@L@@
+�pin��" {i�pin��6 {i�[K[11Cembox>�@L@@@
+�pin��" {i�pin��6 {i�[K[12Cembox>�@L@@@@
+�pin��" {i�pin��6 {i�[K[13Cembox>�@L@@@@@
+�pin��" {i�pin��6 {i�[K[14Cembox>�@L@@@@@@
+�pin��" {i�pin��6 {i�[K[15Cembox>�@L@@@@@@@
+�pin��" {i�pin��6 {i�[K[16Cembox>�@L@@@@@@@>
+�pin��" {i�pin��6 {i�[K[17Cembox>�@L@@@@@@@>�
+�pin��" {i�pin��6 {i�[K[18Cembox>�@L@@@@@@@>��
+�pin��" {i�pin��6 {i�[K[19Cembox>�@L@@@@@@@>��x
+�pin��" {i�pin��6 {i�[K[20Cembox>�@L@@@@@@@>��x 
+�pin��" {i�pin��6 {i�[K[21Cembox>�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[22Cembox>�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[6Cembox>��@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[7Cembox>�@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[8Cembox>�@L�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[9Cembox>�@L@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[10Cembox>�@L@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[11Cembox>�@L@@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[12Cembox>�@L@@@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[13Cembox>�@L@@@@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[14Cembox>�@L@@@@@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[15Cembox>�@L@@@@@@@�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[16Cembox>�@L@@@@@@@>�@L@@@@@@@>��x {
+�pin��" {i�pin��6 {i�[K[17C
+�@L@@@@@@@>�@L@@@@@@@>��x: Command not found
+tish error: #-2
+embox>��x {
+��x: Command not found
+tish error: #-2
+embox>
+�p^l������������������������������W�����������
+�p: Command not found
+tish error: #-2
+embox>�embox>[K����������embox>
+�p[Kc����� ��������������������embox>[K[38C�����
+�pc�����: Command not found
+tish error: #-2
+embox>��embox>�[K�����i�����embox>[K[17C�embox>[K[17Cls����ls
+������i����ls����ls: Command not found
+tish error: #-2
+embox>
+�p^l�����������������embox>[K�������������������embox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+�p: Command not found
+tish error: #-2
+embox>��������������������embox>
+�pc����� ��������������lo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

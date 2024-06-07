@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>d��Xeembox>d��Xe[K[17C
+d��Xe: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xeeeiOsOs�
+embox>
+embox>[K[6C
+embox>&xe
+embox>xe
+embox>
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xxeeeiuiu
+embox>
+embox>[K[6C
+embox>embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12C
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�c
+[K[9Cembox>�cd
+[K[10Cembox>�cd�
+[K[11Cembox>�cd�
+[K[12Cembox>�cd� 
+[K[13C
+�cd�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xeeei��
+embox>
+embox>[K[6C��
+embox>xe@"cdd��[?5h[?5l���� �
+xe@": Command not found
+tish error: #-2
+embox>
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xelsexeeea��Os�
+embox>
+xej��logout.
+xej��logout.: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>xEeei�OsOs�
+embox>�pin
+�pin: Command not found
+tish error: #-2
+embox>
+t�embox>
+t�eexieeexit��xporembox>[K[6C
+embox>�
+embox>z
+z: Command not found
+tish error: #-2
+embox>
+embox>[K
+embox>��
+embox>i�logoute
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,156 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�i!embox>�i![K[10Cembox>�i![K[11Cembox>�i�![K[12Cembox>�i�y![K[13Cembox>�i�ye![K[14Cembox>�i�ye�![K[15Cembox>�i�ye�![K[14Cembox>�i�ye!�![K[15Cembox>�i�ye!�![K[14Cembox>�i�ye!�![K[15Cembox>�i�ye�!�![K[16Cembox>�i�ye�!�![K[17C
+embox>
+embox>
+[K[7Ciembox>
+i[K[9Cembox>
+i"[K[10Cembox>
+i"�[K[11Cembox>
+i"�[K[12Cembox>
+i"�[K[13Cembox>
+i"�@[K[14Cembox>
+i"�@�[K[15C
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��yX6embox>
+��yX6[K[14C��embox>
+��yX6��[K[16CK�ٵembox>
+�[K[8C����embox>
+����[K[11C��dl
+������dl: Command not found
+tish error: #-2
+embox>
+�yj6embox>
+�yj6[K[14C��embox>
+�yj6��[K[16CK�ٵembox>
+������dl[K[15C��embox>
+������dl�[K[18C��dl
+������dl: Command not found
+tish error: #-2
+embox>
+��yX<��dexportl
+��yX<��dexportl: Command not found
+tish error: #-2
+embox>
+�yX6embox>
+�yX6[K[14C��embox>
+�yX6��[K[16CK�ٵembox>
+��yX<��dexportl[K[22C��embox>
+��yX<��dexportl�[K[25C��dl
+��yX<��dexportl: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�K%yogdu��dldl
+�: Command not found
+tish error: #-2
+embox>
+
+��embox>
+
+��[K[11C�~embox>
+
+���~[K[13C��embox>
+
+���~��[K[15C��embox>
+
+���~���[K[18C��dl
+tish error: #-22
+embox>
+ayX6embox>
+ayX6[K[14C��embox>
+ayX6��[K[16CK�ĵembox>
+
+[K[8C�l
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C��embox>
+��[K[10CK���yX6embox>
+��K���yX6[K[20C��embox>
+��K���yX6��[K[22CK�ٵembox>
+
+�[K[10C��embox>
+
+��[K[13C��dl
+�: Command not found
+tish error: #-2
+embox>
+�yX6embox>
+�yX6[K[14C��embox>
+�yX6��[K��ٵ��embox>
+�yX6����ٵ�[K��dl
+tish error: #-22
+embox>
+�y��dl
+tish error: #-22
+embox>
+
+embox>l
+l: Command not found
+tish error: #-2
+embox>
+��X6K�embox>
+��X6K�[K[6Cembox>
+��X6K�[K[7Cembox>
+��X6K�[K[8Cembox>�
+��X6K�[K[9Cembox>��
+��X6K�[K[10Cembox>���
+��X6K�[K[11Cembox>��
+��X6K�[K[10Cembox>���
+��X6K�[K[11Cembox>����
+��X6K�embox>�����
+��X6K�embox>�����d
+��X6K�embox>�����d�
+��X6K�
+embox>
+��x�x�x�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�ge�fttttttttttttttttttx
+�ge: Command not found
+tish error: #-2
+embox>�fetembox>�ge[Kembox>[Kembox>[Kembox>[K
+embox>�fetembox>[K[6Cembox>[K[6Cembox>[K[6Ctembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C+embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>
+�x�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�fetembox>[K[6C!embox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�T'
+�T': Command not found
+tish error: #-2
+embox>
+~dl��
+tish error: #-22
+embox>
+�x�x�fet)�T'
+embox>
+expor��et
+embox>�bet��
+embox>�llT
+embox>
+eport
+tish error: #-22
+embox>
+ee�po���po��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,189 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>[H[H[2Jembox>[K[6C[H[2Jembox>[K[6C�embox>[K[6CG.embox>G.[K[8Cembox>G.�[K[9Cembox>G.��[K[10C
+embox>��embox>�[K[9CG.embox>�G.[K[11Cembox>�G.�[K[12Cembox>�G.��[K[13Cembox>�G.���[K[14Cembox>�G.����[K[15Cembox>�G.�����[K[16Cembox>�G.������[K[17Cembox>�G.������[K[18Cembox>�G.������d[K[19C
+embox>
+embox>
+[K[6C[H[H[2Jembox>
+[K[6Cembox>�
+[K[7Cembox>
+[K[6Cembox>G
+[K[7Cembox>Ge
+[K[8Cembox>Gex
+[K[9Cembox>Gexp
+[K[10Cembox>Gexpo
+[K[11Cembox>Gexpor
+[K[12Cembox>Gexport
+[K[13Cembox>Gexport�
+[K[14Cembox>Gexport�
+[K[15Cembox>Gexport�l
+[K[16Cembox>Gexport�ls
+[K[17Cembox>Gexport�ls
+[K[18Cembox>Gexport�ls�
+[K[19Cembox>Gexport�ls�
+[K[20Cembox>Gexport�ls��
+[K[21Cembox>Gexport�ls�
+[K[20Cembox>Gexport�ls�G
+[K[21Cembox>Gexport�ls�G
+[K[22Cembox>Gexport�ls�G
+.[K[23Cembox>Gexport�ls�G
+.[K[24Cembox>Gexport�ls�G
+.[K[23Cembox>Gexport�ls�G
+.�[K[24Cembox>Gexport�ls�G
+.��[K[25Cembox>Gexport�ls�G
+.���[K[26Cembox>Gexport�ls�G
+.����[K[27Cembox>Gexport�ls�G
+.�����[K[28Cembox>Gexport�ls�G
+.������[K[29Cembox>Gexport�ls�G
+.������[K[30Cembox>Gexport�ls�G
+.������d[K[31C
+Gexport�: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7CUUUUUUUUUUVUUUUUUUUUUUUembox>Gexport�[K[14CUUUUUUd
+Gexport�: Command not found
+tish error: #-2
+embox>
+X����������.embox>
+X����������.[K[19Cembox>
+X����������.�[K[20Cembox>
+X����������.��[K[21Cembox>
+X����������.���[K[22Cembox>
+X����������.���d[K[23Cembox>
+X����������.���dQ[K[24Cembox>
+X����������.���dQ�[K[25Cembox>
+X����������.���dQ�[K[26Cembox>
+X����������.���dQ�d[K[27Cembox>
+X����������.���dQ�de[K[28Cembox>
+X����������.���dQ�dem[K[29Cembox>
+X����������.���dQ�demi[K[30Cembox>
+X����������.���dQ�demit[K[31Cembox>
+X����������.���dQ�demitG[K[32Cembox>
+X����������.���dQ�demitG[K[33C�������������pX������
+X����������.���dQ�demitG: Command not found
+tish error: #-2
+embox>����.embox>����.[K[11Cembox>����.�[K[12Cembox>����.��[K[13Cembox>����.���[K[14Cembox>����.���d[K[15Cembox>����.���d@[K[16Cembox>����.���d@�[K[17Cembox>����.���d@�[K[18Cembox>����.���d@�d[K[19Cembox>����.���d@�de[K[20Cembox>����.���d@�dem[K[21Cembox>����.���d@�demi[K[22Cembox>����.���d@�demit[K[23C
+����.���d@�demit: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cembox>
+[K[6C[H[H[2Jembox>
+[K[6Cembox>�
+[K[7Cembox>
+[K[6Cembox>G
+[K[7Cembox>G
+[K[8C.embox>G
+.[K[9Cembox>G
+.�[K[10Cembox>G
+.��[K[11Cembox>G
+.���[K[12Cembox>G
+.���[K[13Cembox>G
+.���[K[14Cembox>G
+.����[K[15Cembox>G
+.����[K[16Cembox>G
+.�����[K[17Cembox>G
+.����[K[16Cembox>G
+.����O[K[17Cembox>G
+.����O[K[18C.������d
+G: Command not found
+tish error: #-2
+embox>
+����xeixecd��������������embox>
+����xeixecd�����������������������������
+����xeixecd�����������������������������: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7Cembox>
+[K[6C[H[H[2Jembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>.
+[K[10Cembox>.l
+[K[11Cembox>.ls
+[K[12Cembox>.ls�
+[K[13Cembox>.ls��
+[K[14Cembox>.ls���
+[K[15Cembox>.ls���
+[K[16Cembox>.ls���
+[K[17Cembox>.ls����
+[K[18Cembox>.ls����
+[K[19Cembox>.ls�����
+[K[20Cembox>.ls����
+[K[19Cembox>.ls����G
+[K[20Cembox>.ls����G
+[K[21C.embox>.ls����G
+.[K[22Cembox>.ls����G
+.�[Kembox>.ls����G
+.��[Kembox>.ls����G
+.���[Kembox>.ls����G
+.����[Kembox>.ls����G
+.�����embox>.ls����G
+.������embox>.ls����G
+.������embox>.ls����G
+.������d
+embox>
+�embox>
+�[K[7C
+embox>���embox>G
+.���[K[12C��࿿7
+embox>����,�
+����,�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[9Cembox>��
+[K[10Cembox>��3
+[K[11Cembox>����,�[K[13Cembox>���[K[9Cd�embox>G
+.���[K[12Cembox>����.���d@�demitd
+����.���d@�demitd: Command not found
+tish error: #-2
+embox>
+@@@pin@@
+@@@pin@@: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[7C[H[H[2Jembox>
+[K[7C
+tish error: #-22
+embox>
+[H[H[2Jembox>
+[K[7C�i�
+�i�: Command not found
+tish error: #-2
+embox>
+[H[H[2J�
+�: Command not found
+tish error: #-2
+embox>
+�w�i
+�w�i: Command not found
+tish error: #-2
+embox>
+6666Hm6�6 x[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

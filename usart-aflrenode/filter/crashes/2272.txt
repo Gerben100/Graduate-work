@@ -1,0 +1,65 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ei{�=eeeeeee�cx�66F)>6T@embox>ei{�=eeeeeee�cx�66F)>6T@[K[6Cembox>�ei{�=eeeeeee�cx�66F)>6T@[K[7Cembox>��ei{�=eeeeeee�cx�66F)>6T@[K[8Cembox>��bei{�=eeeeeee�cx�66F)>6T@[K[9Cembox>��b@ei{�=eeeeeee�cx�66F)>6T@[K[10Cembox>��b@@ei{�=eeeeeee�cx�66F)>6T@[K[11Cembox>��b@@@ei{�=eeeeeee�cx�66F)>6T@[K[12Cembox>��b@@@@ei{�=eeeeeee�cx�66F)>6T@[K[13Cembox>��b@@@@Qei{�=eeeeeee�cx�66F)>6T@[K[14Cembox>��b@@@@Qeei{�=eeeeeee�cx�66F)>6T@[K[15Cembox>��b@@@@Qexei{�=eeeeeee�cx�66F)>6T@[K[16Cembox>��b@@@@Qexpei{�=eeeeeee�cx�66F)>6T@[K[17Cembox>��b@@@@Qexpoei{�=eeeeeee�cx�66F)>6T@[K[18Cembox>��b@@@@Qexpo�ei{�=eeeeeee�cx�66F)>6T@[K[19Cembox>��b@@@@Qexpo�ei{�=eeeeeee�cx�66F)>6T@[K[20Cembox>��b@@@@Qexpo�ei{�=eeeeeee�cx�66F)>6T@[K[21Cembox>��b@@@@Qexpo�ei{�=eeeeeee�cx�66F)>6T@[K[20Cembox>��b@@@@Qexpo��ei{�=eeeeeee�cx�66F)>6T@[K[21Cembox>��b@@@@Qexpo��@ei{�=eeeeeee�cx�66F)>6T@[K[22Cembox>��b@@@@Qexpo��@cei{�=eeeeeee�cx�66F)>6T@[K[23Cembox>��b@@@@Qexpo��@c6ei{�=eeeeeee�cx�66F)>6T@[K[24Cembox>��b@@@@Qexpo��@c66ei{�=eeeeeee�cx�66F)>6T@[K[25Cembox>��b@@@@Qexpo��@c665ei{�=eeeeeee�cx�66F)>6T@[Kembox>��b@@@@Qexpo��@c665ei{�=eeeeeee�cx�66F)>6T@[K[27C
+��b@@@@Qexpo�: Command not found
+tish error: #-2
+embox>>6T@�@@@@@@@@@?@
+>6T@: Command not found
+tish error: #-2
+embox>
+ei��b@@@@QOxoiembox>
+ei��b@@@@QOxoi[K[23C�@Q6658>6TH@@@@@@@@?�
+ei��b@@@@QOxoi: Command not found
+tish error: #-2
+embox>
+ei?�=eeee%ee�cx�66F)>6T@embox>
+ei?�=eeee%ee�cx�66F)>6T@[Kembox>�
+ei?�=eeee%ee�cx�66F)>6T@[Kembox>��
+ei?�=eeee%ee�cx�66F)>6T@[Kembox>��b
+ei?�=eeee%ee�cx�66F)>6T@[Kembox>��b@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>6
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>6T
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>���b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>����b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@���b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@�e��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@�ex��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@�exp��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@�expo��b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@embox>��b@@@@�expo���b@>6T@
+ei?�=eeee%ee�cx�66F)>6T@
+��b@@@@�expo���b@>6T@: Command not found
+tish error: #-2
+embox>embox>[K[7C�@c665�@@@@@@@]@�@
+embox>
+ex����it[H[H[2Jembox>
+ex����it[K[15Ceee�cz�66F)>�Teir�=eeee
+ex����iteee�cz�66F)>�Teir�=eeee: Command not found
+tish error: #-2
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

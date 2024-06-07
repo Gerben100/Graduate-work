@@ -1,0 +1,123 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C��d
+�: Command not found
+tish error: #-2
+embox>
+ �embox>
+ [K[10Cp��������0 �~��cd^�
+tish error: #-22
+embox>
+ oembox>
+ o[K[6Cembox>
+ o[K[7Cembox>�
+ o[K[8C
+embox>
+  eembox>
+  e[K[6Cembox>i
+  e[K[7C
+i: Command not found
+tish error: #-2
+embox>
+��@���@���u
+��@���@��: Command not found
+tish error: #-2
+embox>
+z
+tish error: #-22
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�7embox>
+��[K[9C_�
+��: Command not found
+tish error: #-2
+embox>
+3���
+tish error: #-22
+embox>
+ export�^�
+tish error: #-22
+embox>
+embox>
+[K[7C�o�
+�o�: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[9C���
+tish error: #-22
+embox>
+ dembox>
+ [K[10Cembox>
+ [K[9C�
+tish error: #-22
+embox>
+ [?5h[?5lyxe��embox>
+ [?5h[?5lyxe��[K[6Cembox>
+ [?5h[?5lyxe��[K[7Cembox>�
+ [?5h[?5lyxe��[K[8Cembox>��
+ [?5h[?5lyxe��[K[9Cembox>���
+ [?5h[?5lyxe��[K[10Cembox>����
+ [?5h[?5lyxe��embox>����V
+ [?5h[?5lyxe��embox>����V�
+ [?5h[?5lyxe��embox>����V��
+ [?5h[?5lyxe��embox>����V���
+ [?5h[?5lyxe��embox>����V���x
+ [?5h[?5lyxe��embox>����V���xe
+ [?5h[?5lyxe��embox>����V���xe�
+ [?5h[?5lyxe��embox>����V���xe��
+ [?5h[?5lyxe��embox>����V���xe��[K[19C�����[?5h[?5lyxe��������@����
+embox>���xe���d�embox>���xe���d[K[16Cxxxxxxxxxxxxxxx����
+���xe���: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>
+[Kembox>
+[Kembox>[?5h[?5l
+[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49Cembox>[K[50Cembox>[K[51Cembox>[K[52Cembox>[K[53Cembox>[K[54Cembox>[K[55C
+embox>��������[?5h[?5l������
+��������[?5h[?5l������: Command not found
+tish error: #-2
+embox>
+ [?5h[?5lwlogout��n}K���������exit���������������
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�L� �� �������
+�L: Command not found
+tish error: #-2
+embox>
+ �
+tish error: #-22
+embox>
+�[?5h[?5lwxe�������������������������
+tish error: #-22
+embox>
+ ���������������������e����
+tish error: #-22
+embox>
+ei|77777exit777d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

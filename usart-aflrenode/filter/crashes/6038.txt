@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[6C
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�I�eN�I5d6^@exp@�I5d6^@exp@�@@[?5h[?5lxiembox>�[K[7CHp�n
+�Hp�n: Command not found
+tish error: #-2
+embox>embox>�Hp�n[K[11Cembox>�H[K[8Cembox>�H[K[6Cembox>�H[K[7Cembox>�H[K[8Cembox>��H[K[9Cembox>���H[K[10Cembox>���H[K[11Cembox>��@�H[K[12Cembox>��@@�H[K[13Cembox>tish[K[10Cembox>��@@�H[K[13Cembox>��@@x�H[K[14Cembox>��@@xi�H[K[15Cembox>��@@xip�H[K[16Cembox>��@@xip��H[K[17Cembox>��@@xip�n�H[K[18Cembox>��@@xip�n�H[K[19Cembox>��@@xip�n�H[K[18Cembox>��@@xip�n�H[K[19Cembox>��@@xip�n�H[K[20Cembox>��@@xip�n�H[K[19Cembox>��@@xip�n��H[K[20Cembox>��@@xip�n���H[K[21Cembox>��@@xip�n���H[K[22C
+embox>embox>�Hp�n[K[11Cembox>[K[6Ct9l
+t9l: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�(shN�S��@@ embox>
+���(shN�S��@@[K[22Ct[?5h[?5l@
+��N�I��(xe��l
+���(shN�S��: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�(xeN�I5d6@@embox>
+���(xeN�I5d6@@[K[22C�embox>
+���(xeN�I5d6@@�[K[6Cembox>�
+���(xeN�I5d6@@�[K[7Cembox>�
+���(xeN�I5d6@@�[K[8Cembox>�[K[8C
+embox>pembox>passwd[K[12C7s[H[H[2Jembox>passwd7s[K[14Ctttttt
+passwd7s: Command not found
+tish error: #-2
+embox>�ls[?5h[?5llembox>�ls[K[9Ci���tt
+�ls: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[10C
+embox>p(embox>p[K[7C�embox>p�[K[9C
+embox>p(cd7
+p(cd7: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�(UeNcdd6l[H[H[2Jembox>
+���(UeNcdd6l[K[21C[H[H[2Jembox>
+���(UeNcdd6l[K[22Ctt
+���(UeNcd: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C�(����I5ls@@embox>
+���(����I5ls@@[K[22C�embox>
+���(����I5ls@@�embox>
+���(����I5ls@@�embox>
+���(����I5ls@@�embox>[K[8C
+embox>p7s[H[H[2Jembox>passwd7s[K[14Ctttttt
+passwd7s: Command not found
+tish error: #-2
+embox>�ls[?5h[?5llt
+�lslt: Command not found
+tish error: #-2
+embox>
+��embox>
+���(ls[?5h[?5lUt
+���(lsUt: Command not found
+tish error: #-2
+embox>
+���xeN�I������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

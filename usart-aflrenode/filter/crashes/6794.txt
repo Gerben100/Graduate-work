@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>T@embox>T@[K[6C
+T@: Command not found
+tish error: #-2
+embox>
+oS�>
+oS�>: Command not found
+tish error: #-2
+embox>
+\embox>
+\[K[6Cembox>T
+\[K[7Cembox>T\[K[7Cembox>TT\[K[8C
+TT\: Command not found
+tish error: #-2
+embox>
+T
+T: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cembox>[K[6Cilsn
+ilsn: Command not found
+tish error: #-2
+embox>
+TlogoutlogoutTC
+TlogoutlogoutTC: Command not found
+tish error: #-2
+embox>
+e����l{
+e��: Command not found
+tish error: #-2
+embox>o��
+ѫ�������exUort�����99���embox>o��
+ѫ�������exUort�����99��piembox>o��
+ѫ�������exUort�����99��p^
+o: Command not found
+tish error: #-2
+embox>@������i�ui�u
+embox>
+K�@������y�������embox>
+K�@������y������piembox>
+K�@������y������ppiembox>
+K�@������y������ppiembox>�
+K�@������y������ppiembox>�e
+K�@������y������ppiembox>�e�
+K�@������y������ppiembox>�e��
+K�@������y������ppiembox>�e��
+K�@������y������ppiembox>�e��
+K�@������y������ppiembox>�e��
+K�@������y������ppiembox>�e��
+K�@������y������ppiembox>�e���
+K�@������y������ppiembox>�e����
+K�@������y������ppiembox>�e����l
+K�@������y������ppiembox>�e����l�
+K�@������y������ppiembox>�e����l�
+K�@������y������ppiembox>�e����l�
+K�@������y������ppiembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28C
+�e��: Command not found
+tish error: #-2
+embox>�y�������embox>�y������[K[14Cpiembox>�y������p[K[15Cpitexi�uxi�u
+�y������ppitexi�uxi�u: Command not found
+tish error: #-2
+embox>
+Tembox>
+T[Kembox>�
+T[Kembox>�e
+T[Kembox>�e�
+T[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47Cembox>[K[48Cembox>[K[49C
+�e��: Command not found
+tish error: #-2
+embox>
+T�������pipitexi�u
+�e��: Command not found
+tish error: #-2
+embox>
+T������nipitexi�u
+�e��: Command not found
+tish error: #-2
+embox>
+TSxi�u
+TSxi�u: Command not found
+tish error: #-2
+embox>
+T������pipitexi�uipitexi�u
+�e�o: Command not found
+tish error: #-2
+embox>
+T�������texi�u
+TSxi�u: Command not found
+tish error: #-2
+embox>
+]
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

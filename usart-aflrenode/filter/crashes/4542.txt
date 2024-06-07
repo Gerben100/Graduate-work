@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>dx�x�feetembox>[K[6C�embox>[K[6Cembox>[K[6C
+embox>(embox>[K[6CeII@ci���l�go`td�TE
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+dx�x�wetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�fepintembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�������������������
+�������������������: Command not found
+tish error: #-2
+embox>���embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�U&�
+�U&�: Command not found
+tish error: #-2
+embox>
+dx�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�fetembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6C�embox>[K[6C��embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cdembox>[K[6C�T'
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+dx�xlsFtembox>[K[6Cembox>[K[6C�embox>x[K[7CWtembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�T'
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+dx�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�fe�embox>[K[6C5embox>[K[6C'
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�T
+embox>embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+dx�x�fetembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>�fetembox>[K[6Cembox>[K[6Cembox>[K[6C
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�T'
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+detembox>[Kembox>[K�
+embox>�fetembox>[Kembox>[Kembox>[K
+embox>embox>[Kembox>[Kembox>[Kx�x(fetembox>[Kembox>[K�
+embox>�fetembox>[Kembox>[K
+embox>embox>[Kembox>[Kembox>[K�dembox>�[K
+embox>
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+dx�x�fetembox>[Kembox>[Kembox>[Kembox>�[Kembox>�f[Kembox>[K[10Cembox>[K[11Cembox>[Kembox>[Kembox>[Kembox>[K
+embox>embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K�T'
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+�@d�����#��*lx����c{�
+embox>�[?5h[?5l�ld��������d�
+embox>�[?5h[?5l�ld
+�[?5h[?5l�ld: Command not found
+tish error: #-2
+embox>��������d#���ld�����#embox>[K��ld���������ex
+��������d: Command not found
+tish error: #-2
+embox>
+�xxxxxxxx�ogoulogouttxxx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

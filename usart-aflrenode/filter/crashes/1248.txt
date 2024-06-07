@@ -1,0 +1,161 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>-embox>-[K[6Cembox>-[K[7Cembox>�-[K[8C
+embox>
+-FFFFembox>
+-FFFF[K[14C
+tish error: #-22
+embox>
+�embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+�]�embox>
+�[K[8C����embox>
+�����[K[15Cembox>
+���ܚ�[K[16Cembox>
+���ܚg�[K[17Cembox>
+���ܚgi�[K[18Cembox>
+���ܚgi��[K[19Cembox>
+���ܚgi���[K[20Cembox>
+���ܚgi�Ȝ�[K[21Cembox>
+[K[7C�gi�Ȝembox>
+�gi��[K[13CȜ�gi�Ȝembox>
+�gi��Ȝ�gi��[K[21C��embox>
+�gi��Ȝ�gi���[K[22Cembox>
+�gi��Ȝ�gi���[K[24CgY
+tish error: #-22
+embox>
+�����embox>
+[K[7C
+tish error: #-22
+embox>
+expin�eex�embox>[K[6Cembox>
+[K[7C
+tish error: #-22
+embox>
+�
+embox>�embox>
+[K[7C
+tish error: #-22
+embox>
+ �eembox>
+ �[K[9C<�� �pj�embox>
+[K[7C
+tish error: #-22
+embox>
+�ei�����>
+tish error: #-22
+embox>
+0�p
+0�p: Command not found
+tish error: #-2
+embox>
+pei�����embox>
+0�p[K[10C
+0�p: Command not found
+tish error: #-2
+embox>
+�_i�����embox>
+�_i�����[K[16C
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>-
+[K[7Cembox>-�
+[K[8Cembox>-��
+[K[9Cembox>-���
+[K[10Cembox>-����
+[K[11Cembox>-�����
+[K[12Cembox>-�����c
+[K[13Cembox>-�����cd
+[K[14Cembox>
+[K[7C
+tish error: #-22
+embox>
+�@��embox>
+[K[7C
+tish error: #-22
+embox>
+�ei[H[H[2Jembox>
+�ei[K[11Cembox>
+[K[7Cpieitembox>
+pieit[K[15C
+pie: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6C�embox>�[K[8Cembox>�[K[8Cembox>�[K[8Cpieit
+�: Command not found
+tish error: #-2
+embox>o
+embox>
+�elsi[H[H[2Jembox>
+�elsi[K[13Cembox>�[K[7CpiMeitembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16Cembox>�piMeit[K[16C embox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cembox>�piMeit [K[17Cpieit
+�piMe: Command not found
+tish error: #-2
+embox>o
+embox>
+�ei[H[H[2Jembox>
+�ei[K[11Cembox>�piMe[K[11Cpieitembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cembox>�piMepieit[K[19Cpi[itV
+�piMepie: Command not found
+tish error: #-2
+embox>o
+embox>
+�ei[H[H[2Jembox>
+�ei[Kembox>[K[14Cpieitembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cembox>[K[22Cpie�ei
+�piMepiepie: Command not found
+tish error: #-2
+embox>[H[H[2Jembox>[K[6Co
+o: Command not found
+tish error: #-2
+embox>
+�eiieiieit�logoutpieit
+tish error: #-22
+embox>o
+embox>
+�eipZ�n
+�e: Command not found
+tish error: #-2
+embox>
+�ei[H[H[2Jpi���ieito������eit
+pi���ie: Command not found
+tish error: #-2
+embox>pieito
+pie: Command not found
+tish error: #-2
+embox>
+�ei[H[H[2Jpieit+pieit
+opie: Command not found
+tish error: #-2
+embox>o
+embox>
+�eit�i[H[H[2JpiMit
+embox>
+embox>pieito
+pie: Command not found
+tish error: #-2
+embox>
+�ei[H[H[2Jpieit���������������p�eit
+�eipie: Command not found
+tish error: #-2
+embox>o
+embox>
+8��
+lsl3�������exit��s
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

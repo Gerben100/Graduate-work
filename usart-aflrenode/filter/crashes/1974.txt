@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> �s�}embox> �s�}[K[6Cembox> �s�}[K[7C
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+embox>[K[6CporYlssgxportlss
+porYlssgxportlss: Command not found
+tish error: #-2
+embox>
+exnorselembox>
+exnorsel[K[6Cembox>p
+exnorsel[K[7Cembox>pO
+exnorsel[K[8Cembox>pOu
+exnorsel[K[9Cembox>pOut
+exnorsel[K[10Cembox>pOutt
+exnorsel[K[11Cembox>pOuttl
+exnorsel[K[12Cembox>pOuttls
+exnorsel[K[13Cembox>pOuttlss
+exnorsel[K[14C
+pOuttlss: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>[K[6COOO@����������������[?5h[?5l5�ortWj
+embox>
+�xpolSooZOoooooooooooooooooosxss
+�xpolSooZOoooooooooooooooooosxss: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>"
+[K[7Cembox>"e
+[K[8Cembox>"e�
+[K[9Cembox>"e��
+[K[10Cembox>"e��X
+[K[11C
+(null): Command not found
+tish error: #-2
+embox>
+ssembox>
+ss[K[6Cembox>s
+ss[K[7Cembox>ss
+ss[K[8Cembox>sss
+ss[K[9Cembox>ssss
+ss[K[10Cembox>sssss
+ss[K[11Cembox>ssssss
+ss[K[12C
+ssssss: Command not found
+tish error: #-2
+embox>
+Zz��z�zzor[tlexports
+Zz�: Command not found
+tish error: #-2
+embox>
+exss
+exss: Command not found
+tish error: #-2
+embox>
+ex�Utlss
+ex: Command not found
+tish error: #-2
+embox>
+e���xpoX�l
+embox>cd
+cd: Command not found
+tish error: #-2
+embox>
+R����r�R����r���r����r���
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

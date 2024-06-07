@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�g��embox>�g�[K[9Cogout�g��embox>�g�ogout�g�[K[18Cogdt�
+�g�: Command not found
+tish error: #-2
+embox>
+�out剓�out�
+�out剓: Command not found
+tish error: #-2
+embox>
+�nb��embox>
+�nb�[K[11Cout�g
+embox>ogout�g
+embox>�ogo�ou~
+%~t~
+�ogo�ou~: Command not found
+tish error: #-2
+embox>
+��ut�
+��ut�: Command not found
+tish error: #-2
+embox>
+�䁁|��embox>
+�䁁|�[K[13Cogouogout�g��embox>
+�䁁|�ogouogout�g�[K[26Cembox>
+�䁁|�ogouogout�g�[K[6Cembox>g
+�䁁|�ogouogout�g�[K[7Cembox>gt
+�䁁|�ogouogout�g�[K[8Cembox>gt�
+�䁁|�ogouogout�g�[K[9Cembox>gt�g
+�䁁|�ogouogout�g�[K[10Cembox>gt�g�
+�䁁|�ogouogout�g�[K[11Cembox>gt�g��
+�䁁|�ogouogout�g�[K[12Cembox>gt�g�
+�䁁|�ogouogout�g�[K[11Cembox>gt�g�
+�䁁|�ogouogout�g�[K[12Cembox>gt�g�o
+�䁁|�ogouogout�g�[K[13Cembox>gt�g�og
+�䁁|�ogouogout�g�[K[14Cembox>gt�g�ogo
+�䁁|�ogouogout�g�[K[15Cembox>gt�g�ogou
+�䁁|�ogouogout�g�[K[16Cembox>gt�g�ogout
+�䁁|�ogouogout�g�[K[17Cembox>gt�g�ogout�
+�䁁|�ogouogout�g�[K[18C
+gt�g�: Command not found
+tish error: #-2
+embox>
+�g��embox>
+�g�[K[10C~gou��embox>
+�g�~gou�[K[16Cogout�t�g��embox>
+�g�~gou�ogout�t�g�[K[27Cogout�
+�g�: Command not found
+tish error: #-2
+embox>
+�
+embox>[K[6C�
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+���@�@@
+���@�: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>[K[6C
+embox>
+}}
+}}: Command not found
+tish error: #-2
+embox>
+��N
+tish error: #-22
+embox>
+#d������
+#d������: Command not found
+tish error: #-2
+embox>
+pin��
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�[H[H[2J�
+tish error: #-22
+embox>
+�����
+tish error: #-22
+embox>
+xxxp@��
+embox>
+xxx�dex@��
+embox>
+xxx�dexp��
+embox>
+xxx�dexp@��
+embox>
+xxx�dexp@��
+embox>
+xxx�dexp@��
+embox>
+xxx�dexp@��
+�: Command not found
+tish error: #-2
+embox>
+xxx�dexp@
+embox>
+[H[H[2Jxx���ex/�0���j�R0��
+j: Command not found
+tish error: #-2
+embox>
+6xxx�dexp�;��
+embox>�xxx�xx�xxx�dexpxxxxx��
+xxxxx: Command not found
+tish error: #-2
+embox>
+exp�ortx@��
+embox>
+xxx�dexp@��
+embox>
+4xxx�bexp@3���
+�: Command not found
+tish error: #-2
+embox>
+�xx�dexp@��
+embox>
+ xx[�d@��
+@: Command not found
+tish error: #-2
+embox>
+�@������xx\�dexp@��@������
+@: Command not found
+tish error: #-2
+embox>������e�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

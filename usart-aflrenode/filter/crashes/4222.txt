@@ -1,0 +1,66 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ï¿½ ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+qï¿½ï¿½Ü‹ï¿½p
+qï¿½ï¿½Ü‹ï¿½p: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½ï¿½[H[H[2Jembox>
+ï¿½ï¿½ï¿½[K[10Cï¿½ï¿½ï¿½[?5h[?5lqï¿½[?5h[?5lqï¿½
+ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[?5h[?5lqï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½[?5h[?5lqï¿½ï¿½ï¿½ï¿½p
+ï¿½ï¿½[?5h[?5lqï¿½ï¿½ï¿½ï¿½p: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½[?5h[?5lqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½÷³³³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+ï¿½ï¿½[?5h[?5lqï¿½ï¿½ï¿½ï¿½ï¿½ï¿½÷³³³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+@@?ï¿½@@?@@
+@@?ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+[?5h[?5lï¿½[?5h[?5lï¿½wembox>
+ï¿½[?5h[?5lï¿½w[K[10Cembox>
+ï¿½[?5h[?5lï¿½ï¿½w[K[11C
+ï¿½[?5h[?5lï¿½ï¿½w: Command not found
+tish error: #-2
+embox>p
+p: Command not found
+tish error: #-2
+embox>
+ï¿½logoï¿½ï¿½ï¿½ï¿½iutï¿½[?5h[?5lqï¿½p
+ï¿½logoï¿½ï¿½ï¿½iutï¿½[?5h[?5lqï¿½p: Command not found
+tish error: #-2
+embox>
+logï¿½ut6xportHexp@ï¿½@@@@?@@@@@@@@@@ï¿½ye@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

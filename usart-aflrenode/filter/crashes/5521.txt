@@ -1,0 +1,202 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>2�embox>2[K[7C������[s;�embox>2������[s;�[K[6Cembox>2������[s;�[K[7Cembox>2������[s;�[K[8Cembox>2������[s;�[K[9Cembox>�2������[s;�[K[10Cembox>��2������[s;�[K[11Cembox>��:2������[s;�[K[12Cembox>��:t2������[s;�[K[13Cembox>��:t2������[s;�[K[14Cembox>��:tb2������[s;�[K[15Cembox>��:tbs2������[s;�[K[16Cembox>��:tbs2������[s;�[K[17Cembox>��:tbs2t������[s;�[K[18Cembox>��:tbs2tt������[s;�[K[19Cembox>��:tbs2ttt������[s;�[K[20Cembox>��:tbs2tttt������[s;�[K[21Cembox>��:tbs2tttt7������[s;�[K[22Cembox>��:tbs2tttt7t������[s;�[K[23Cembox>��:tbs2tttt7tt������[s;�[K[24Cembox>��:tbs2tttt7ttt������[s;�[K[25Cembox>��:tbs2tttt7ttt7������[s;�[K[26Cembox>��:tbs2tttt7ttt7t������[s;�[K[27Cembox>��:tbs2tttt7ttt7t�������[s;�[K[28Cembox>��:tbs2tttt7ttt7t��������[s;�[K[29Cembox>��:tbs2tttt7ttt7t���������[s;�[K[30Cembox>��:tbs2tttt7ttt7t����������[s;�[K[31Cembox>��:tbs2tttt7ttt7t����t������[s;�[K[32C
+embox>tt
+tt: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[8C���l�llllLllj�ll���:pinorttlm�ttt���embox>
+���l�llllLllj�ll���:pinorttlm�ttt��[K[45C�
+���l�llllLllj�ll�: Command not found
+tish error: #-2
+embox>�tt
+�tt: Command not found
+tish error: #-2
+embox>
+2��:tls�ttt7t���embox>
+2��:tls�ttt7t��[K[25C�����
+embox>[s;���:t
+[s;�: Command not found
+tish error: #-2
+embox>lstttt7t����embox>[s;�[K[10Cttt���:tls�ttt7t����ttt
+[s;�ttt�: Command not found
+tish error: #-2
+embox>
+2�embox>
+2[K[8C���ls������@ls�embox>
+2���ls������@ls[K[24C�mls:@@�tl�ttth7t����
+2���ls������: Command not found
+tish error: #-2
+embox>embox>
+2���ls������[K[20Cttt���:tls�ttt7t����ttt
+2���ls������ttt�: Command not found
+tish error: #-2
+embox>
+2�embox>
+2[K[8C�����
+embox>[slembox>
+2���ls������ttt�tt\����տttt7t����tt
+2���ls������ttt�tt\����տttt7t����tt: Command not found
+tish error: #-2
+embox>տ>7t
+տ>7: Command not found
+tish error: #-2
+embox>
+:tls����ks�s;�d���ls�t7t���
+embox>[s
+[s: Command not found
+tish error: #-2
+embox>tt7t�����tt
+tt7t�����tt: Command not found
+tish error: #-2
+embox>
+2�$��[?5h[?5l
+embox>[tlt�ttt7}��embox>[tlt�ttt7}��tts
+[tlt�ttt7}��tts: Command not found
+tish error: #-2
+embox>
+2�embox>
+2�����
+embox>[s;�8��:tlstttt7t����embox>[K
+tt7t�����tt: Command not found
+tish error: #-2
+embox>ttt���:t��lst
+ttt�: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:tlstttt7t����
+ttt�: Command not found
+tish error: #-2
+embox>ttt���:tls�ttt7t����ttt
+ttt�: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:tlNNINNNNNNNNNNNNNN
+[s;�: Command not found
+tish error: #-2
+embox>NNNstttt7t����ttt
+embox>tt
+tt: Command not found
+tish error: #-2
+embox>
+2������s;�#��:tl222222222222ex
+2����: Command not found
+tish error: #-2
+embox>port�ttt���:tls�ttt7t����ntt
+[s;�ttt�: Command not found
+tish error: #-2
+embox>
+2�����
+embox>t��:tl�ttt7������tt
+t: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;����tlstttt7t����
+[s;�: Command not found
+tish error: #-2
+embox>t�tlogout���:t�ks�t�t7t����ttt
+[s;�t�tlogout�: Command not found
+tish error: #-2
+embox>
+2�����port
+embox>[s;�:��tlstttt7t����
+[s;�: Command not found
+tish error: #-2
+embox>ttt����:tls�tttWt����ttt
+ttt��: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:tlstttt7t����tt
+[s;�: Command not found
+tish error: #-2
+embox>ttt���:tls�tt^7t����ttt
+[s;�ttt�: Command not found
+tish error: #-2
+embox>
+2�����s;�T@7 �:tlstttt7cdt��
+2����s;�T@7: Command not found
+tish error: #-2
+embox>������:tls�t7t����ttt
+��: Command not found
+tish error: #-2
+embox>
+logouti����������������
+embox>[s;�s��:t��
+[s;�s��:t��: Command not found
+tish error: #-2
+embox>tttt7t����ttt���:tls�ttt7t����ttt
+[s;�ttt�: Command not found
+tish error: #-2
+embox>
+2����export�
+embox>[s;���:ti
+��: Command not found
+tish error: #-2
+embox>�ttt7t����ttt
+�ttt7t����ttt: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:tls���7t�����
+[s;�: Command not found
+tish error: #-2
+embox>�
+embox>[s;��ttt7t����ttt
+[s;��ttt7t����ttt: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:t�kstttt7�����
+embox>[s;
+[s;: Command not found
+tish error: #-2
+embox>���2T�ktls�tttt�tls�ttt7t�
+[s;�ttt�: Command not found
+tish error: #-2
+embox>���ttt
+���ttt: Command not found
+tish error: #-2
+embox>
+2�po����
+embox>[s;����:tls�t�t7t�
+[s;�: Command not found
+tish error: #-2
+embox>���ttt
+���ttt: Command not found
+tish error: #-2
+embox>
+2������
+embox>[s;���:tls
+[s;�: Command not found
+tish error: #-2
+embox>ttt���:tls�ttt7t����ttt
+ttt�: Command not found
+tish error: #-2
+embox>
+2����s;�cdyei���l7���s;�cdyei���l7����ttt
+2: Command not found
+tish error: #-2
+embox>
+2�����ls�ttt��===============�ttcd����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

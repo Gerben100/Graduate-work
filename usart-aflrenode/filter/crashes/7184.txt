@@ -1,0 +1,139 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>///��Ţ�������������������������������������������
+Unreconized command: ///��Ţ�������������������������������������������
+embox>�����������������������������������������ls������
+�����������������������������������������ls������: Command not found
+tish error: #-2
+embox>��������������������������������///
+��������������������������������///: Command not found
+tish error: #-2
+embox>
+logout�
+tish error: #-22
+embox>
+~~~~~�~~~�6Y�
+~~~~~�~~~�6Y�: Command not found
+tish error: #-2
+embox>
+/0dz�[?5h[?5l
+/0d: Command not found
+tish error: #-2
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+//�[?5h[?5l///�[?5h[?5l
+//�///�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+//�/�/�/�
+//�/�/�/�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+/�i��x`:
+i��x`:: Command not found
+tish error: #-2
+embox>
+n��d1
+n: Command not found
+tish error: #-2
+embox>
+/-�wi��wx1
+/: Command not found
+tish error: #-2
+embox>
+/�wi�tpin�xexpoy1
+/: Command not found
+tish error: #-2
+embox>
+�wwi�#�x
+�wwi�#�x: Command not found
+tish error: #-2
+embox>
+/1
+/: Command not found
+tish error: #-2
+embox>
+/�
+��
+embox>���w��
+���w��: Command not found
+tish error: #-2
+embox>
+/export���i/�wi��wx��wx1
+/: Command not found
+tish error: #-2
+embox>
+x�pi1n��1���1
+tish error: #-22
+embox>
+/
+/: Command not found
+tish error: #-2
+embox>
+/�wi��w
+/: Command not found
+tish error: #-2
+embox>
+��a
+��a: Command not found
+tish error: #-2
+embox>
+\
+\: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�o�I
+�o�I: Command not found
+tish error: #-2
+embox>
+/iw
+/iw: Command not found
+tish error: #-2
+embox>
+/�ci
+/: Command not found
+tish error: #-2
+embox>
+�xci
+�xc: Command not found
+tish error: #-2
+embox>
+xcilogoutxci
+tish error: #-22
+embox>
+/1xci
+/1xc: Command not found
+tish error: #-2
+embox>
+��������������������������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

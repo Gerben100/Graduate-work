@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p:lexit
+embox>�embox>�[K[6Cembox>�[K[7Cembox>�[K[8Cembox>��[K[9Cembox>�l�[K[10Cembox>�ls�[K[11Cembox>�ls��[K[12Cembox>�ls���[K[13Cembox>�ls����[K[14Cembox>�ls�����[K[15Cembox>�ls������[K[16Cembox>�ls�������[K[17Cembox>�ls��������[K[18Cembox>�ls���������[K[19Cembox>�ls��������ܔ[K[20Cembox>�ls���������ܔ[K[21Cembox>�ls����������۔[K[22Cembox>�ls�����������ܔ[K[23C
+: Command not found
+tish error: #-2
+embox>
+�itembox>[K[7C�蜰�����)��蜰�����������
+�蜰�����): Command not found
+tish error: #-2
+embox>
+��:lexi�embox>
+��:lexi�[K[18Cembox>
+��:lexi�[K[19Cembox>
+��:lexi��[K[20Cembox>
+��:lexi��y[K[21Cembox>
+��:lexi��y�[K[22Cembox>
+��:lexi��y��[K[23Cembox>
+��:lexi��y��k[K[24Cembox>
+��:lexi��y��k�[K[25Cembox>
+��:lexi��y��k�[K[26C�����embox>
+��:lexi��y��k������[K[31Cembox>
+��:lexi��y��k������[K[31C�wi�[?5h[?5l x1i�[?5h[?5l���x��
+��: Command not found
+tish error: #-2
+embox>
+�:le�����������xiuembox>
+��[K[9C�embox>�蜰�����)[K[17C�蜰�����������
+�蜰�����)�蜰�����������: Command not found
+tish error: #-2
+embox>
+��i�e��u��embox>
+��i�e��u�[K[23C
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���:
+���:: Command not found
+tish error: #-2
+embox>
+�embox>
+���:[K[11C�weembox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��
+embox>
+embox>
+embox>
+ep�ryt
+ep�ryt: Command not found
+tish error: #-2
+embox>
+A�
+A�: Command not found
+tish error: #-2
+embox>
+�?[?5h[?5l�
+�: Command not found
+tish error: #-2
+embox>
+:��
+:��: Command not found
+tish error: #-2
+embox>
+p}ppppexprt��lsqe�
+tish error: #-22
+embox>
+pinll>�sfgo��ut
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

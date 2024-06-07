@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l`inembox>l`i[K[9C@ogAttttt�tttldoutogoutt@�ttttttttttt�ttt
+l`i: Command not found
+tish error: #-2
+embox>ytt6@@exportexlort@pin@6@embox>ytt6@@exportexlort@pin@6[K[31Cp@@�A
+ytt6@@export: Command not found
+tish error: #-2
+embox>
+````inembox>
+````i[K[12C@dlogoutAd@e5|Q6@@export@@6@embox>
+````i@dlogoutAd@e5|Q6@@export@@6[K[43Cinembox>
+````i@dlogoutAd@e5|Q6@@export@@6i[K[44C@dAd
+````i: Command not found
+tish error: #-2
+embox>@e5|Q6@@export@@6@embox>@e5|Q6@@export@@6[K[24C�@@�A
+@e5|Q6@@: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C
+tish error: #-22
+embox>
+``inembox>
+``i[K[10C@d�Ad@e5|Q6@@export6@6@embox>
+``i@d�Ad@e5|Q6@@export6@6[K[35C�@@�A
+``i: Command not found
+tish error: #-2
+embox>
+[?5h[?5li@6@embox>
+i@6[K[12C�@@�eembox>
+i@6�@@�e[Kembox>
+i@6�@@�e[Kembox>
+i@6�@@�Qe[K[19Cembox>
+i@6�@@�Q6e[K[20Cembox>
+i@6�@@�Q6Ye[K[21Cembox>
+i@6�@@�Q6Y@e[K[22Cembox>
+i@6�@@�Q6Y@e[Kembox>
+i@6�@@�Q6Y@@e[Kembox>
+i@6�@@�Q6Y@@de[Kembox>
+i@6�@@�Q6Y@@dre[Kembox>
+i@6�@@�Q6Y@@drxeembox>
+i@6�@@�Q6Y@@drx]eembox>
+i@6�@@�Q6Y@@drx]teembox>
+i@6�@@�Q6Y@@drx]tueembox>
+i@6�@@�Q6Y@@drx]teembox>
+i@6�@@�Q6Y@@drx]teembox>
+i@6�@@�Q6Y@@drx]teeembox>
+i@6�@@�Q6Y@@drx]teoeembox>
+i@6�@@�Q6Y@@drx]teoeembox>
+i@6�@@�Q6Y@@drx]teoAeembox>
+i@6�@@�Q6Y@@drx]teoAeembox>
+i@6�@@�Q6Y@@drx]teoAoeembox>
+i@6�@@�Q6Y@@drx]teoAoreembox>
+i@6�@@�Q6Y@@drx]teoAorAe
+i@: Command not found
+tish error: #-2
+embox>
+d`inembox>
+d`i[K[10C@dAV@�A
+d`i: Command not found
+tish error: #-2
+embox>
+``inembox>
+``i[K[10Cnembox>
+``i[K[10C@d@e5|Q6@@export@@6@embox>
+``i@d@e5|Q6@@export@@6�@@
+``i: Command not found
+tish error: #-2
+embox>
+�A
+�A: Command not found
+tish error: #-2
+embox>
+``inembox>
+``i@dAd@e5|Q6@@e_port@@6Dembox>[K�@@�A
+``i: Command not found
+tish error: #-2
+embox>
+>`in~
+embox>
+``�nA
+``�nA: Command not found
+tish error: #-2
+embox>
+``tn@dAe5|Q6@�@@�A
+``t: Command not found
+tish error: #-2
+embox>
+``in@dAdpin@e@|Q5@�xport@dV"�@555555555555
+``i: Command not found
+tish error: #-2
+embox>555555555555�55,55555555555555:555555555555555555
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

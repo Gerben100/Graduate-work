@@ -1,0 +1,65 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�x�
+embox>�embox>[K[6Crogot�nogotembox>rogot�nogo[K[16C�oEo�6X5ls6@@embox>rogot�nogo�oEo�6X5ls6@@[K[29C��@@@@@@@@@?@
+rogot�nogo�oEo�6X5ls6@@��@@@@@@@@@?@: Command not found
+tish error: #-2
+embox>@oA@eembox>@oA@e[K[6Cembox>@@oA@e[K[7Cembox>@�@oA@e[K[8Cembox>@�@@oA@e[K[9Cembox>@�@@@oA@e[K[10Cembox>@�@@@@oA@e[K[11Cembox>@�@@@@@oA@e[K[12C
+@�@@@@@oA@e: Command not found
+tish error: #-2
+embox>
+�x�itembox>
+�x�i[K[14Cembox>
+�x�[K[13C�ogot�nogotembox>
+�x��ogot�nogo[K[23CloEo�6665ls>@@rogot�nogotembox>
+�x��ogot�nogoloEo�6665ls>@@rogot�nogo[Kl
+�x�: Command not found
+tish error: #-2
+embox>oEo�665ls6@@embox>oEo�665ls6@@[K[18C��6@@@@@@@@?@@�@@eembox>oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[6Cembox>@oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[7Cembox>@�oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[8Cembox>@�@oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[9Cembox>@�@@oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[10Cembox>@�@@@oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[11Cembox>@�@@@@oEo�665ls6@@��6@@@@@@@@?@@�@@e[K[12C
+@�@@@@oEo�665ls6@@��6@@@@@@@@?@@�@@e: Command not found
+tish error: #-2
+embox>
+�x�itembox>
+�x�i[K[14Cembox>
+�x�[K[13Crogbt�n�gotembox>
+�x�rogbt�n�goloEo�655ls6@@embox>
+�x�rogbt�n�goloEo�655ls6@@��@xx@@k@@ex
+�x�: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>@[K[7Cembox>@�[K[8Cembox>@�@[K[9Cembox>@�@l[K[10Cembox>@�@ls[K[11Cembox>@�@ls@[K[12Cembox>@�@ls@@[K[13Cembox>@�@ls@@@[K[14C
+@�@ls@@@: Command not found
+tish error: #-2
+embox>
+�x�Eo�665ls6@@embox>[K[21C��@@@@@@@@@?@@o@@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12C
+@�@@@@: Command not found
+tish error: #-2
+embox>
+�x�[H[H[2Jembox>
+�x�[Kitembox>[K[13Cembox>[K[12Crogot�nogotembox>[K[22CloEo�665ls6@@embox>[K[35Cembox>[Kx%i�embox>x%i�[K��@@@@@
+x%i���@@@@@: Command not found
+tish error: #-2
+embox>@@�?@@o@@eembox>@@�?@@o@@eembox>@@@�?@@o@@eembox>@�@@�?@@o@@eembox>@�@@@�?@@o@@eembox>@�@@@@�?@@o@@eembox>@�@@@@@�?@@o@@eembox>@�@@@@@@�?@@o@@e
+@�@@@@@@�: Command not found
+tish error: #-2
+embox>
+�x������������������itsog@@itexilst@@@
+�x�: Command not found
+tish error: #-2
+embox>@@@@\@@@@o@Te
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

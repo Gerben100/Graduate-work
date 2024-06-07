@@ -1,0 +1,215 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+@
+tish error: #-22
+embox>
+
+
+tish error: #-22
+embox>
+� 
+
+�: Command not found
+tish error: #-2
+embox>
+lls
+lls: Command not found
+tish error: #-2
+embox>
+
+
+tish error: #-22
+embox>
+L�
+
+L�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+
+[K[8C
+embox>
+m�embox>
+m�[K[6Cembox>p
+m�[K[7Cembox>pi
+m�[K[8Cembox>pin
+m�[K[9Cembox>pin
+m�[K[6Cembox>pin
+m�[K[7C
+embox>
+����embox>
+L�
+[K[10Cm����� ������
+L�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+L�
+
+L�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+�P
+�P: Command not found
+tish error: #-2
+embox>
+I b
+I: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�
+
+
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+LL
+: Command not found
+tish error: #-2
+embox>
+�qq
+�qq: Command not found
+tish error: #-2
+embox>
+c�
+�P�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�y�A��iA�yui��>c
+�y�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�@
+�: Command not found
+tish error: #-2
+embox>
+ag
+ag: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+''
+: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+embox>
+exi� 
+exi�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+#,l um�
+#,l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ll
+ll: Command not found
+tish error: #-2
+embox>
+@�
+@�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+(d
+�d: Command not found
+tish error: #-2
+embox>
+Q���t�go
+Q��: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+����������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

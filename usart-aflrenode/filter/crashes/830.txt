@@ -1,0 +1,81 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>ejjjjbjJjjjjjembox>ejjjjbjJjjjj[K[18Cjjjjjjjjembox>ejjjjbjJjjjjjjjjjjj[K[25Ce�por
+ejjjjbjJjjjjjjjjjjje�por: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cejejjjj�jbjjj^jjjjkj��j�j@embox>
+ejejjjj�jbjjj^jjjjkj��j�j@[K[33Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@[K[34Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@[K[35Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@o[K[36Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj[K[37Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj[K[38Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�[K[39Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�[K[40Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�e[K[41Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�e�[K[42Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�e�p[K[43Cembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�e�p�[Kembox>
+ejejjjj�jbjjj^jjjjkj��j�j@oj�e�p�r[K
+ejejjjj�jbjjj^jjjjkj��j�j@: Command not found
+tish error: #-2
+embox>
+jj�
+embox>jjjjjjjjj
+embox>ejjjjjj
+ejjjjjj: Command not found
+tish error: #-2
+embox>
+
+embox>ejjjjbjjjjjjjjjjjjjjmjembox>ejjjjbjjjjjjjjjjjjjjm[K[27Ce�pbjjjjjjjjjjjjjjmor
+ejjjjbjjjjjjjjjjjjjjme�pbjjjjjjjjjjjjjjmor: Command not found
+tish error: #-2
+embox>
+export�
+export�: Command not found
+tish error: #-2
+embox>
+
+embox>��it�embox>��it[K[10C�
+��it�: Command not found
+tish error: #-2
+embox>
+dembox>
+d[K[7Cembox>d[K[6Cembox>�d[K[7Cembox>�yd[K[8Cembox>�ydd[K[9Cembox>�yded[K[10Cembox>�yde�d[K[11Cembox>�yde��d[K[12Cembox>�yde���d[K[13Cembox>�yde���[K[13Cembox>�yde���[K[12Cembox>�yde��[K[11Cembox>�yde���[K[12Cembox>�yde��[K[12Cexi
+�yde��exi: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+i�
+i�: Command not found
+tish error: #-2
+embox>
+
+embox>Uicp��
+Uicp��: Command not found
+tish error: #-2
+embox>
+���������������������������������̀
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

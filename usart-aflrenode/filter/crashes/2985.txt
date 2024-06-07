@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e�xi�we=}}}}}}embox>e�xi�we=}}}}}}[K[20C}}embox>e�xi�we=}}}}}}}}[K[22Cembox>e�xi�we=}}}}}}}}[K[22C
+e�xi�we=}}}}}}}}: Command not found
+tish error: #-2
+embox>
+$}܂
+$}܂: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cvembox>
+v[K[8C
+v: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C}}R@�xi�weembox>
+v[K[8C=[}}}}embox>
+v=[}}}}[K[14Cembox>
+v=[}}}}[K[14C
+v=[}}}}: Command not found
+tish error: #-2
+embox>
+eeeeeeeeeeeeeeeee}}}embox>
+eeeeeeeeeeeeeeeee}}}[K[28Ceeeeeeeeeee}}}embox>
+eeeeeeeeeeeeeeeee}}}eeeeeeeeeee}}}[K[42Cembox>
+eeeeeeeeeeeeeeeee}}}eeeeeeeeeee}}}[K[42C
+tish error: #-22
+embox>
+www�wwwembox>
+www�www[K[14C}}^wwwwwembox>
+www�www}}^wwwww[K[24C}}^embox>
+www�www}}^wwwww}}^[K[6Cembox>
+www�www}}^wwwww}}^[K[7Cembox>
+www�www}}^wwwww}}^[K[8Cembox>
+www�www}}^wwwww}}^[K[9Cembox>
+www�www}}^wwwww}}^[K[8Cembox>
+www�www}}^wwwww}}^[K[9Cembox>l
+www�www}}^wwwww}}^[K[10Cembox>lo
+www�www}}^wwwww}}^[K[11Cembox>loe
+www�www}}^wwwww}}^[K[12Cembox>
+[K[7Cembox>
+[K[10Cembox>
+[K[11Cembox>
+l[K[12Cembox>
+lo[K[13Cembox>
+lou[K[14Cembox>
+v=[}}}}[K[14C=embox>
+v=[}}}}[K[14Ce}�
+v=[}}}}e}�: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cx}}}}}embox>
+x}}}}}[K[13C
+
+x}}}}}: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C}}}}}}embox>
+}}}}}}[K[13Cembox>
+}}}}}}[K[13C
+}}}}}}: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K}}Re�xi[H[H[2Jembox>[K[14C�weembox>
+[K�}}}}embox>[K[14Cembox>[K[14C
+: Command not found
+tish error: #-2
+embox>
+embox>
+[K}}Re�xiembox>[K�wEembox>
+[K=}}}} embox>[K[14Cembox>[K[14C
+=}}}}: Command not found
+tish error: #-2
+embox>
+�������6656>6@���embox>[K[6Cxdh/��Wembox>[K[6C��x{h+�Wembox>��x{h+���.
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

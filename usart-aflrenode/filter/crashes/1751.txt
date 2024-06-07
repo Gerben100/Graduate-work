@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>b
+b: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8C
+tish error: #-22
+embox>
+�%
+�%: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+c�embox>
+c[K[8C��x
+c��x: Command not found
+tish error: #-2
+embox>
+cg�o
+cg�o: Command not found
+tish error: #-2
+embox>
+ccd��od��o
+ccd��: Command not found
+tish error: #-2
+embox>
+NNexportNNlogout_NNNNNmNN��gN
+NNexportNNlogout_NNNNNmNN��gN: Command not found
+tish error: #-2
+embox>
+�e��embox>
+�e��[K[13Cembox>
+�e��[K[14Cembox>
+�e���[K[15Cembox>
+�e���y[K[16Cembox>
+�e���y�[K
+�: Command not found
+tish error: #-2
+embox>
+cd����d���������oggo
+cd����d���������: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Ypembox>
+Yo
+Yo: Command not found
+tish error: #-2
+embox>
+lexit{\z
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+d1�oogoV
+oV: Command not found
+tish error: #-2
+embox>
+�d�
+�d�: Command not found
+tish error: #-2
+embox>
+cd!
+embox>pso
+pso: Command not found
+tish error: #-2
+embox>
+
+embox>
+cdae�clogout56>6xtwCHeg6xx��
+e: Command not found
+tish error: #-2
+embox>
+[daeexitxei������������x|-^egee
+[daeexitxei���: Command not found
+tish error: #-2
+embox>
+cdae���lsec���6A56>6xxx-eeg�xxx-eepingvve
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

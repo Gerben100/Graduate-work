@@ -1,0 +1,118 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+������embox>
+������[K[6C
+�: Command not found
+tish error: #-2
+embox>
+=�tembox>
+=�t[K[10Cembox>
+=�t[K[11Cembox>
+=�t[K[12Cembox>
+=�t [K[13Cembox>
+=�t L[K[14Cembox>
+=�t L�[K[15Cembox>
+=�t L�l[K[16Cembox>
+=�t L�ll[K[17Cembox>
+=�t L�lll[K[18Cembox>
+=�t L�lllL[K[19Cembox>
+=�t L�lllLl[K[20Cembox>
+=�t L�lllLln[K[21C[?5h[?5lembox>
+=�t L�lllLln�[K[22Cembox>
+=�t L�lllLln�[K[23Cembox>
+=�t L�lllLln�d[K[24Cembox>
+=�t L�lllLln�d�[K[25Cembox>
+=�t L�lllLln�d�![K[26C
+=�t: Command not found
+tish error: #-2
+embox>
+m
+m: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>$
+�[K[8C
+$: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+embox>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz��embox>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz��[K[6Cembox>
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz��[K[7C
+embox>
+u�iZ�
+u�iZ�: Command not found
+tish error: #-2
+embox>
+�@@@@@@+@@�@\@@`xp@@exitd[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+��ex�t��
+��ex�t: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�embox>
+[K[7C
+tish error: #-22
+embox>
+�@@@@@@+@@�@\@@embox>
+�@@@@@@+@@�@\@@`p@@exlogout%cd[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8C
+embox>
+�@@@^@@+@@�@\@@embox>
+�@@@^@@+@@�@\@@xp@@`x%cd[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+�pin[?5h[?5l
+�pin: Command not found
+tish error: #-2
+embox>
+�@@@@@@+cd@@�[?5h[?5l
+�: Command not found
+tish error: #-2
+embox>
+ls�embox>
+ls�embox>
+�cd[?5h[?5l
+�cd: Command not found
+tish error: #-2
+embox>
+�piiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii�iiii
+�: Command not found
+tish error: #-2
+embox>iiiiiiiiiii@@�piiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,85 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>/embox>/[K[6Cembox>/[K[7Cembox>/[K[6Cembox>/[K[7Cembox>/[K[8Cembox>�/[K[9Cembox>�/[K[10Cembox>�/[K[9Cembox>�/[K[10Cembox>�{/[K[11Cembox>�{/[K[12C
+embox>
+�exiembox>
+�ex[K[11Cepinxpor�i ���    �
+�: Command not found
+tish error: #-2
+embox>
+�
+eexport��/�
+�: Command not found
+tish error: #-2
+embox>
+�eiembox>
+�e[K[11C�xi��xembox>
+�e�xi��[K[17Cxembox>
+�e�xi��[K[17C�
+�: Command not found
+tish error: #-2
+embox>
+�exQembox>
+�ex[K[11C�xi��/�
+�: Command not found
+tish error: #-2
+embox>
+��
+embox>��
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�exy��xipin
+embox>/�
+embox>
+��m����mi������m���embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+��U����U���m�������m����
+�: Command not found
+tish error: #-2
+embox>
+�m�embox>
+�[K[8C
+�: Command not found
+tish error: #-2
+embox>
+���d
+tish error: #-22
+embox>
+��m����m���
+�: Command not found
+tish error: #-2
+embox>
+��m���m����m�����m���
+�: Command not found
+tish error: #-2
+embox>
+� 
+�: Command not found
+tish error: #-2
+embox>
+��m���
+�: Command not found
+tish error: #-2
+embox>
+treorex�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

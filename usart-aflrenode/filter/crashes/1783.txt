@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��p
+�: Command not found
+tish error: #-2
+embox>
+e��������cd〃p
+e��������cd〃p: Command not found
+tish error: #-2
+embox>
+d�
+d: Command not found
+tish error: #-2
+embox>
+p������������������������������d�p
+p������������������������������d�p: Command not found
+tish error: #-2
+embox>
+dd�p
+dd�p: Command not found
+tish error: #-2
+embox>
+��wpd�p
+�: Command not found
+tish error: #-2
+embox>
+�
+embox>t�
+t�: Command not found
+tish error: #-2
+embox>
+dembox>
+d[K embox>
+d[Kdembox>
+dd[K embox>
+dd[Kx{toT
+ddx{toT: Command not found
+tish error: #-2
+embox>
+x�embox>
+x�embox>
+x�embox>�
+x�embox>�
+
+x�embox>�
+o
+x�embox>�
+o>
+x�
+embox>
+K
+tish error: #-22
+embox>
+��ppin
+��ppin: Command not found
+tish error: #-2
+embox>
+d x
+embox>�oT
+�oT: Command not found
+tish error: #-2
+embox>
+Bls xitoT
+BlsxitoT: Command not found
+tish error: #-2
+embox>
+��[?5h[?5lo5�
+tish error: #-22
+embox>
+Fi �T
+Fi: Command not found
+tish error: #-2
+embox>
+d5�itlT
+tish error: #-22
+embox>
+aUe
+aUe: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�Be�itCexitxe�pin
+embox>o�Bxe�
+embox>orte�tul[
+��ppin: Command not found
+tish error: #-2
+embox>
+�rrrrrr dBgeor xBTe
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

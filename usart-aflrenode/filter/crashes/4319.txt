@@ -1,0 +1,71 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>u`
+u`: Command not found
+tish error: #-2
+embox>
+�o
+�o: Command not found
+tish error: #-2
+embox>
+��ly��utex<p
+��ly��utex<p: Command not found
+tish error: #-2
+embox>
+p�pppplogomYpcc�p
+p�pppplogomYpcc�p: Command not found
+tish error: #-2
+embox>
+��iembox>
+��i[K[12C/�xembox>
+p�pppplogomYpcc�p[K[24C�i/�xembox>
+��ly��utex<p[K[19C�i
+��ly��utex<p�i: Command not found
+tish error: #-2
+embox>
+�logouembox>[K[6C��idqqqqqqqqqqqqembox>��idqqqqqqqqqqqq[K/�x��Z
+�: Command not found
+tish error: #-2
+embox>
+�lCgouembox>[K[6C��xe�iembox>��xe�i[K[6Cembox>��xe�i[K[7Cembox>��xe�i[K[8Cembox>��xe�i[K[9Cembox>b��xe�i[K[10Cembox>bz��xe�i[K[11Cembox>bzc��xe�i[K[12Cembox>bzcs��xe�iembox>bzcs/��xe�iembox>bzcs/���xe�iembox>bzcs/�x��xe�iembox>�[K[7Cembox>�[K[7C�
+��: Command not found
+tish error: #-2
+embox>
+��log�cdu@idembox>
+��log�cdu@id[K[23C/�xembox>��[K[8C�
+���: Command not found
+tish error: #-2
+embox>
+�lofou���idembox>[K[20C/�xembox>���[K�i
+����i: Command not found
+tish error: #-2
+embox>
+�Upinh
+�Upinh: Command not found
+tish error: #-2
+embox>
+�llgou
+�llgou: Command not found
+tish error: #-2
+embox>�id�1ou��id�i
+�llgou�i: Command not found
+tish error: #-2
+embox>
+�logou���hd/�wportx�i
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

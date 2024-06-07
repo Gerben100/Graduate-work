@@ -1,0 +1,108 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�w)�[?5h[?5l#
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�v�)�[?5h[?5l
+embox>
+embox>
+x ����Ť�����������ŝ��%KC%K�KKKK����_�ut
+x: Command not found
+tish error: #-2
+embox>
+embox>
+x ����Ť���������[K[24C�g��embox>
+x ����Ť���������g�[K[27Cembox>
+x ����Ť���������g�[K[6Cembox>g
+x ����Ť���������g�[K[7Cembox>go
+x ����Ť���������g�[K[8Cembox>gou
+x ����Ť���������g�[K[9Cembox>gout
+x ����Ť���������g�[K[10Cembox>gout�
+x ����Ť���������g�[K[11Cembox>gout�g
+x ����Ť���������g�[K[12Cembox>gout�g�
+x ����Ť���������g�[K[13Cembox>gout�g��
+x ����Ť���������g�[K[14Cembox>gout�g�
+x ����Ť���������g�[K[13Cembox>gout�g�
+x ����Ť���������g�[K[14Cembox>gout�g�o
+x ����Ť���������g�[K[15Cembox>gout�g�og
+x ����Ť���������g�[K[16Cembox>gout�g�og|
+x ����Ť���������g�[K[17Cembox>gout�g�og|8
+x ����Ť���������g�[K[18Cembox>gout�g�og|8�
+x ����Ť���������g�[K[19Cembox>gout�g�og|8�
+x ����Ť���������g�[K[6Cembox>jgout�g�og|8�
+x ����Ť���������g�[K[7C
+jgout�g�: Command not found
+tish error: #-2
+embox>
+� }
+�: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Cembox>
+x[K[8C%KKKKK0�� ��[�ut
+x%KKKKK0: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Cembox>
+x[K[8C=KKKKKKembox>
+x=KKKKKK[K[15C� �KKKxembox>
+x=KKKKKK� �KKKx[K[22Cembox>
+x=KKKKKK� �KKKx[K[22C=KKKKKKembox>
+x=KKKKKK� �KKKx=KKKKKK[K[29C� �KKKK[�ut
+x=KKKKKK�: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Cembox>
+x[K[8C%KKK��[}ut
+x%KKK��[}ut: Command not found
+tish error: #-2
+embox>
+xembox>
+x[K[8Cembox>
+x[K[8C%KKKTKKembox>
+x%KKKTKK[K[15Cq ��[�ut
+x%KKKTKKq: Command not found
+tish error: #-2
+embox>
+`embox>
+`[K[8Cembox>
+`[K[8C%KKKKKKembox>
+`%KKKKKK[K� ��[�u
+`%KKKKKK�: Command not found
+tish error: #-2
+embox>
+x%KKKKKK� ��[�St
+x%KKKKKK�: Command not found
+tish error: #-2
+embox>
+�%KKKKKK� ���[�ut
+�%KKKKKK�: Command not found
+tish error: #-2
+embox>
+xlogot
+xlogot: Command not found
+tish error: #-2
+embox>
+����3�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,214 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>(
+embox>���[?5h[?5l
+���: Command not found
+tish error: #-2
+embox>
+0
+embox>�%ii[?5h[?5l
+�%ii: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+embox>�@
+�@: Command not found
+tish error: #-2
+embox>
+(
+�������������W�������[?5h[?5l
+(: Command not found
+tish error: #-2
+embox>
+<��
+<: Command not found
+tish error: #-2
+embox>
+(utttttVtembox>
+(utttttVt[K[6Cembox>e
+(utttttVt[K[7Cembox>ex
+(utttttVt[K[8Cembox>exp
+(utttttVt[Kembox>expo
+(utttttVt[K[10Cembox>expor
+(utttttVt[K[11Cembox>export
+(utttttVt[K[12Cembox>export
+(utttttVt[K[13C
+export: Command not found
+tish error: #-2
+embox>
+([?5h[?5l�%[?5h[?5l�
+([?5h[?5l�%[?5h[?5l�: Command not found
+tish error: #-2
+embox>
+(
+embox>�$Y�[?5h[?5l
+�$Y�: Command not found
+tish error: #-2
+embox>
+�
+embox>i�[?5h[?5l
+i�: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+�
+embox>�%export[?5h[?5l
+�%export: Command not found
+tish error: #-2
+embox>
+(
+embox>��i�[?5h[?5l
+��i�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+(��Hi`[?5h[?5l
+(��Hi`: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+@��
+@: Command not found
+tish error: #-2
+embox>
+
+embox>�#i�[?5h[?5l[?5h[?5l
+�#i�: Command not found
+tish error: #-2
+embox>
+~
+~: Command not found
+tish error: #-2
+embox>
+
+embox>�%i��
+�%i��: Command not found
+tish error: #-2
+embox>
+(�
+embox>&
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+(
+embox>�%i��
+�%i��: Command not found
+tish error: #-2
+embox>
+lls
+lls: Command not found
+tish error: #-2
+embox>
+(
+(: Command not found
+tish error: #-2
+embox>
+,
+embox>[?5h[?5l@O�[?5h[?5l
+@O�: Command not found
+tish error: #-2
+embox>
+(
+embox>�%i�(
+embox>�%i��
+�%i��: Command not found
+tish error: #-2
+embox>
+(�
+(�: Command not found
+tish error: #-2
+embox>
+�g�i�
+: Command not found
+tish error: #-2
+embox>
+hogo�t(?�%S�[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

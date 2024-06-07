@@ -1,0 +1,131 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+?�!?�embox>�[K[7C������
+����: Command not found
+tish error: #-2
+embox>
+?embox>
+?[K[6Cembox>
+?[K[7Cembox>
+?[K[6Cembox>
+?[K[7C
+: Command not found
+tish error: #-2
+embox>
+?eapexp
+?eapexp: Command not found
+tish error: #-2
+embox>
+?�????
+?�????: Command not found
+tish error: #-2
+embox>
+?��>�
+?�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+;;;?��embox>
+;;;?��[K[6Cembox>?
+;;;?��[K[7C
+?: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�q
+[K[8C
+�q: Command not found
+tish error: #-2
+embox>
+$��embox>
+$��[K[6Cembox>6
+$��[K[7Cembox>6�
+$��[K[8C
+6�: Command not found
+tish error: #-2
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>
+
+embox>�I�8embox>�I�8embox>?�I�8embox>?��I�8embox>?��I�8embox>?�n�I�8embox>?�nn�I�8embox>?�nnn�I�8embox>?�nnnn�I�8embox>?�nnnnn�I�8embox>?�nnnnnn�I�8embox>?�nnnnnnn�I�8embox>?�nnnnnnnn�I�8embox>?�nnnnnnnnn�I�8embox>?�nnnnnnnnnn�I�8embox>?�nnnnnnnnnnn�I�8embox>?�nnnnnnnnnnn�I�8embox>?�nnnnnnnnnnn�I�8embox>?�nnnnnnnnnnnn�I�8embox>?�nnnnnnnnnnnne�I�8embox>[Kembox>[Kembox>[K
+?�nnnnnnnnnnnnexit�I�8: Command not found
+tish error: #-2
+embox>
+��embox>
+?���?
+?���: Command not found
+tish error: #-2
+embox>
+4[?5h[?5l
++zpipi: Command not found
+tish error: #-2
+embox>
+?�?�
+?�: Command not found
+tish error: #-2
+embox>
+SS�������
+SS�������: Command not found
+tish error: #-2
+embox>
+?
+?: Command not found
+tish error: #-2
+embox>
+sxo��
+sxo�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+@?@?
+tish error: #-22
+embox>
+�hdexport�dexpo�t���
++zpipi: Command not found
+tish error: #-2
+embox>
+
+?�: Command not found
+tish error: #-2
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>
+?�
+embox>
+@@*��������������������������?@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

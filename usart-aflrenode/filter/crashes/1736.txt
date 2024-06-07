@@ -1,0 +1,124 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lT[?5h[?5l�exit�
+lT�exit�: Command not found
+tish error: #-2
+embox>
+o])otoo]ooooooooooooooomooooooooooooooembox>
+o])otoo]ooooooooooooooomoooooooooooooo[K[6Cembox>o
+o])otoo]ooooooooooooooomoooooooooooooo[K[7Cembox>o�
+o])otoo]ooooooooooooooomoooooooooooooo[K[8Cembox>o�O
+o])otoo]ooooooooooooooomoooooooooooooo[K[9Cembox>o�Ox
+o])otoo]ooooooooooooooomoooooooooooooo[K[10Cembox>o�Oxi
+o])otoo]ooooooooooooooomoooooooooooooo[K[11Cembox>o�Oxit
+o])otoo]ooooooooooooooomoooooooooooooo[K[12Cembox>o�Oxit
+o])otoo]ooooooooooooooomoooooooooooooo[K[13Cembox>o�Oxito
+o])otoo]ooooooooooooooomoooooooooooooo[K[14Cembox>o�Oxito�
+o])otoo]ooooooooooooooomoooooooooooooo[K[15Cembox>o�Oxito�o
+o])otoo]ooooooooooooooomoooooooooooooo[K
+o�Oxit: Command not found
+tish error: #-2
+embox> embox> adduser.conf[K[19C�o embox> adduser.conf�o adduser.conf
+adduser.conf�o: Command not found
+tish error: #-2
+embox>
+o])o�exi]ooooooooooooooomooooooooooooooembox>
+o])o�exi]ooooooooooooooomoooooooooooooo[K[6Cembox>o
+o])o�exi]ooooooooooooooomoooooooooooooo[K[7Cembox>o�
+o])o�exi]ooooooooooooooomoooooooooooooo[K[8Cembox>o�O
+o])o�exi]ooooooooooooooomoooooooooooooo[K[9Cembox>o�Ox
+o])o�exi]ooooooooooooooomoooooooooooooo[K[10Cembox>o�Oxi
+o])o�exi]ooooooooooooooomoooooooooooooo[K[11Cembox>o�Oxit
+o])o�exi]ooooooooooooooomoooooooooooooo[K[12Cembox>o�Oxit
+o])o�exi]ooooooooooooooomoooooooooooooo[K[13Cembox>o�Oxito
+o])o�exi]ooooooooooooooomoooooooooooooo[K[14Cembox>o�Oxito�
+o])o�exi]ooooooooooooooomoooooooooooooo[K[15Cembox>o�Oxito�o
+o])o�exi]ooooooooooooooomoooooooooooooo[K
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoooooooooooooomooooooooooooooembox>
+o])o�exitoooooooooooooomooooooooooooooembox>o
+o])o�exitoooooooooooooomooooooooooooooembox>o�
+o])o�exitoooooooooooooomooooooooooooooembox>o�O
+o])o�exitoooooooooooooomooooooooooooooembox>o�Ox
+o])o�exitoooooooooooooomooooooooooooooembox>o�Oxi
+o])o�exitoooooooooooooomooooooooooooooembox>o�Oxit
+o])o�exitoooooooooooooomooooooooooooooembox>o�Oxit
+o])o�exitoooooooooooooomooooooooooooooembox>o�Oxito
+o])o�exitoooooooooooooomooooooooooooooembox>o�Oxito�
+o])o�exitoooooooooooooomoooooooooooooo[K[15Cembox>o�Oxito�o
+o])o�exitoooooooooooooomoooooooooooooo[K
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooomooooooooooooooembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooomooooooooooooooembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooomoooooooooooooo
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]oooooooooooooooooooooooooo
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooooooomoooooooooo
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooooooomoooooooooo
+o�Oxit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooooooomoooooooooooo�Oxito�o
+o])o�exit: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooooooomoooooooooooooo
+it: Command not found
+tish error: #-2
+embox> [?5h[?5l�o [?5h[?5l
+tish error: #-22
+embox>
+o])o�exitoo]ooooooooooooooomoooooooooooooo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

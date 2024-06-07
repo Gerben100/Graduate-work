@@ -1,0 +1,150 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+���xixe/��
+�: Command not found
+tish error: #-2
+embox>
+�exQot�
+�exQot�: Command not found
+tish error: #-2
+embox>
+$
+$: Command not found
+tish error: #-2
+embox>
+ds�
+ds�: Command not found
+tish error: #-2
+embox>
+embox>
+ds�[K[10Cqq�
+ds�: Command not found
+tish error: #-2
+embox>
+�!
+�!: Command not found
+tish error: #-2
+embox>
+embox>
+�![K[9C
+�!: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+,
+embox>x�,,,,,,,
+x�: Command not found
+tish error: #-2
+embox>
+�������m�
+��: Command not found
+tish error: #-2
+embox>
+�_�_�embox>
+�_�_�[K[6Cembox>
+�_�_�[K[7Cembox>
+�_�_�[K[8Cembox>
+�_�_�[K[9Cembox>�
+�_�_�[K[10Cembox>�e
+�_�_�embox>�ex
+�_�_�embox>�exi
+�_�_�embox>�exi
+�_�_�embox>�exi
+�_�_�embox>
+��[K[9C�~m�
+��~m�: Command not found
+tish error: #-2
+embox>
+�`�bm�
+�`�bm�: Command not found
+tish error: #-2
+embox>
+�`embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[10Cembox>[K[13Cembox>
+��~m�embox>
+��embox>x�embox>
+�[Kembox>
+�!embox>
+ds�embox>
+$[H[H[2Jembox>
+$embox>[K[14C
+�exQot�: Command not found
+tish error: #-2
+embox>
+�`�&�@e�exembox>
+�exQot�p�m�
+�exQot�p�m�: Command not found
+tish error: #-2
+embox>
+�`'�cd�exiembox>
+�`'�cd�exembox>
+�`'�cd�exembox>�
+�`'�cd�exembox>�
+�`'�cd�exembox>�
+�`'�cd�exembox>
+�exQot�p�p�
+�exQot�p�p�: Command not found
+tish error: #-2
+embox>
+�'#�embox>
+�'#�embox>
+�'#�exi
+�'#: Command not found
+tish error: #-2
+embox>
+�'pii�
+�: Command not found
+tish error: #-2
+embox>
+�`���pinep�m�ii�p�m
+�'#p�m: Command not found
+tish error: #-2
+embox>
+�`'��exi��p���
+�p�m�p: Command not found
+tish error: #-2
+embox>
+�k�����������������������e�it�xi;����
+embox>`�ki�
+`�ki�: Command not found
+tish error: #-2
+embox>
+�m��mm�
+�m�: Command not found
+tish error: #-2
+embox>
+�`���exi�p�m�
+�p�m�p�m�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�`'��ep�mxi�p�m�
+�'#p�m�: Command not found
+tish error: #-2
+embox>
+�p�d�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

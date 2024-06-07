@@ -1,0 +1,76 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+tt�7sintdttVttt@ttt�l
+tt�7sintdttVtt: Command not found
+tish error: #-2
+embox>stttttttt�At�ttttttttttt�embox>
+tt�7sintdttVtt[K[21Ct�V@tgoutd
+tt�7sintdttVttt�V@tgoutd: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C
+embox>pembox>passwd[K[12C7stttttembox>passwd7sttttt[K[6Cembox>passwd7sttttt[K[7Cembox>tpasswd7sttttt[K[8Cembox>ttpasswd7sttttt[K[9Cembox>ttVpasswd7sttttt[K[10Cembox>ttVtpasswd7sttttt[K[11Cembox>ttVttpasswd7sttttt[K[12Cembox>ttVttpasswd7sttttt[K[13Cembox>ttVttpasswd7sttttt[K[14Cembox>ttVttpasswd7sttttt[K[15Cembox>ttVttpasswd7sttttt[K[16Cembox>ttVtttpasswd7sttttt[K[17Cembox>ttVtttpasswd7sttttt[K[18Cembox>ttVttt@passwd7sttttt[K[19Cembox>ttVttt@tpasswd7sttttt[K[20Cembox>ttVttt@ttpasswd7sttttt[K[21Cembox>ttVttt@tttpasswd7sttttt[K[22Cembox>ttVttt@ttt�passwd7sttttt[K[23Cembox>ttVttt@ttt�lpasswd7sttttt[K[24Cembox>ttVttt@ttt�lspasswd7sttttt[K[25C
+embox>tttt_ttttdttVttttttttttttttt�tt�@tgoutd
+tttt_ttttdttVttttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C�o[?5h[?5l7sttttttdttV�tt@ttt�ls
+��o7sttttttdttV�t: Command not found
+tish error: #-2
+embox>6lttttttttttdttVtttttttttttttt��tt�@tgoutd
+6lttttttttttdttVtttttttttttttt��tt�: Command not found
+tish error: #-2
+embox>
+��
+embox>p[?5h[?5l7st@ttt�lstttttttttdtt
+p7s: Command not found
+tish error: #-2
+embox>Vttttttttttttttt�tt�@tgoutd
+Vttttttttttttttt�tt�: Command not found
+tish error: #-2
+embox>
+��cddco��
+��cddco: Command not found
+tish error: #-2
+embox>
+�y
+�y: Command not found
+tish error: #-2
+embox>
+lo��t
+lo��: Command not found
+tish error: #-2
+embox>
+��c
+��c: Command not found
+tish error: #-2
+embox>
+hogout
+hogout: Command not found
+tish error: #-2
+embox>
+��cd�
+��cd�: Command not found
+tish error: #-2
+embox>
+�d��������������cd���x�����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

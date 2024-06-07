@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>t�embox>t[K[7C
+t: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C
+tish error: #-22
+embox>
+�t�embox>
+�t[K[9C
+�t: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+e�t�s�embox>
+e�t�s[K[13C
+e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+embox>
+embox>
+[K[12Cembox>
+e[K[13Cembox>
+eY[K[14Cembox>
+eY[K[15Cembox>
+eY[K[14C
+tish error: #-22
+embox>
+�embox>
+�[K[8Cembox>
+y�[K[9Cembox>
+ye�[K[10Cembox>
+yex�[K[11Cembox>
+yex�[K[12Cembox>
+yexx�[K[13Cembox>
+yexxx�[K[14Cembox>
+yexxxp�[K[15C
+tish error: #-22
+embox>
+ exp�lsl3��������e
+exp�lsl3: Command not found
+tish error: #-2
+embox>
+ expolsl3�u�����e
+expolsl3�u����: Command not found
+tish error: #-2
+embox>
+ eUpolssssssssss��3�u�embox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36C
+eUpolssssssssss��3�u�: Command not found
+tish error: #-2
+embox>
+ex�rls��embox>[K[16Cembox>[K[15Cembox>[K[14Cembox>[K[13Ce
+ex�rle: Command not found
+tish error: #-2
+embox>
+ expCexpo<�ho<�h
+tish error: #-22
+embox>
+ expolclpolsl3�u����e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

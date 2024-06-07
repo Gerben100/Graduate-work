@@ -1,0 +1,125 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+embox>
+embox>
+embox>�exp_rt$embox>�exp_rt$[K[15Cembox>�exp_rt$[K[15Cembox>�exp_rt$[K[15C�embox>�exp_rt$[K[15Cp_rtw�xQiiembox>�exp_rt$p_rtw�xQii[K[30Cembox>�exp_rt$p_rtw�xQiiy[K[31Cembox>�exp_rt$p_rtw�xQiiye[K[32Cembox>�exp_rt$p_rtw�xQiiye[K[33Cembox>�exp_rt$p_rtw�xQiiye�[K[34Cembox>�exp_rt$p_rtw�xQiiye�[K[35Cembox>�exp_rt$p_rtw�xQiiye��[K[36Cembox>�exp_rt$p_rtw�xQiiye��Q[K[37Cembox>�exp_rt$p_rtw�xQiiye��Qi[K[38Cembox>�exp_rt$p_rtw�xQiiye��Qi[K[39Cembox>�exp_rt$p_rtw�xQiiye��Qii[K[40Cembox>�exp_rt$p_rtw�xQiiye��Qii[K[41Cembox>�exp_rt$p_rtw�xQiiye��Qii[K[40Cembox>�exp_rt$p_rtw�xQiiye��Qiiy[K[41C
+�exp_rt: Command not found
+tish error: #-2
+embox>e�
+e�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>�exeeepineeeeeeeeeEeeeeeee
+�exeeepineeeeeeeeeEeeeeeee: Command not found
+tish error: #-2
+embox>
+
+embox>w�
+w�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+[K[7Cw��Qrtw�xQiiembox>
+w��Qrtw�xQii[K[25Cembox>
+w��Qrtw�xQiid[K[26Cembox>
+w��Qrtw�xQiide[K[27Cembox>
+w��Qrtw�xQiide�[K[28C
+w�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox> exporembox> expo[K[11C����xQiiembox> expo����xQii[K[22Cembox> expo����xQiiy[K[23Cembox> expo����xQiiye[K[24Cembox> expo����xQiiye�[K[25C
+expo����: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>�exposOw
+embox>�x1i
+embox>
+embox>
+embox>�pppcc�pxpNppppvpexporO
+�pppcc�pxpNppppvp: Command not found
+tish error: #-2
+embox>w�x1iiembox>w�x1ii[K[15Cembox>w�x1iiy[K[16Cembox>w�x1iiye[K[17Cembox>w�x1iiye[K[18Cembox>w�x1iiyeiembox>w�x1iiyeiembox>w�x1iiyeiembox>yw�x1iiyeiembox>yew�x1iiyeiembox>ye�w�x1iiyei
+ye�w�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>�ex��rt�iiiiiiiiimiiiiiii�*xQiiembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46C
+�ex��rt: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>{
+embox>�e�porloexportgouttw��exportw�xQiiembox>[K[48Cembox>[K[49C
+�e�porloexportgoutt: Command not found
+tish error: #-2
+embox>e�
+e�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>F�xtQyhi~�exp~�e�porexp{r~w�ex
+e��ei�x: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>��x�cd�dlsX!i�i�
+��x�cd�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>
+embox>�exportw�xQii
+�export: Command not found
+tish error: #-2
+embox>
+
+embox>�expostortu�xQi�hw�i�i
+e�u�: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>
+embox>�6656>6@@��@@@@@@@@��@@@@@@@@@@@f@@exp@�@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

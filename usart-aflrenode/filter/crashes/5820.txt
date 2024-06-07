@@ -1,0 +1,57 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ttttttt�tt�@tgo
+ttttttt�tt�: Command not found
+tish error: #-2
+embox>
+V�Z}embox>
+V�Z}[K[11C
+embox>�tt�@tgotttt�ttttttttt�tt�@tlo�u�embox>�tt�@tgotttt�ttttttttt�tt�@tlo�u�[K[6Cembox>�tt�@tgotttt�ttttttttt�tt�@tlo�u�[K[7C
+embox>�tatt�ttttFttFtt��tttt@tttht�_�tt�@tgo
+�tatt�ttttFttFtt��tttt: Command not found
+tish error: #-2
+embox>
+V�o}embox>
+V�o}[K[11C
+embox>�ttVttttttttttdtttembox>�ttVttttttttttdttt[K[6Cembox>t�ttVttttttttttdttt[K[7Cembox>tt�ttVttttttttttdttt[K[8Cembox>ttt�ttVttttttttttdttt[K[9Cembox>tttt�ttVttttttttttdttt[K[10Cembox>tttt��ttVttttttttttdttt[K[11Cembox>tttt�t�ttVttttttttttdttt[K[12Cembox>tttt�tt�ttVttttttttttdttt[K[13Cembox>tttt�tt�ttVttttttttttdttt[K[14Cembox>tttt�tt�ttVttttttttttdttt[K[15Cembox>tttt�tt�ttVttttttttttdttt[K[16Cembox>tttt�tt�ttVttttttttttdttt[K[15Cembox>tttt�ttt�ttVttttttttttdttt[K[16Cembox>tttt�tttt�ttVttttttttttdttt[K[17Cembox>tttt�ttttt�ttVttttttttttdttt[K[18Cembox>tttt�tttttt�ttVttttttttttdttt[K[19Cembox>tttt�ttttttt�ttVttttttttttdttt[K[20C
+tttt�tt: Command not found
+tish error: #-2
+embox>ttttttembox>tttttt[K[6Cembox>tttttt[K[7Cembox>�tttttt[K[8Cembox>�ttttttt[K[9Cembox>�tttttttt[K[10Cembox>�ttttttttt[K[11Cembox>�tttttttttt[K[12Cembox>�ttttttttttt[K[13Cembox>�tttttttttttt[K[14Cembox>tttttt[K[6Cembox>Vtttttt[K[7Cembox>Vttttttt[K[8Cembox>Vtttttttt[K[9Cembox>Vttltttttt[K[10Cembox>Vttlgtttttt[K[11Cembox>Vttlgotttttt[K[12Cembox>Vttlgoutttttt[K[13Cembox>Vttlgougtttttt[K[14Cembox>Vttlgougotttttt[K[15Cembox>Vttlgougoutttttt[K[16Cembox>Vttlgougouttttttt[K[17Cembox>Vttlgougoutttttttt[K[18Cembox>Vttlgougouttttttttt[K[19Cembox>Vttlgougoutttttttttt[K[20Cembox>Vttlgougouttttdtttttt[K[21Cembox>Vttlgougouttttdttttttt[K[22Cembox>VttlgougouttttdtVtttttt[K[23Cembox>VttlgougouttttdtVttttttt[K[24Cembox>VttlgougouttttdtVtttttttt[K[25Cembox>VttlgougouttttdtVttttttttt[K[26Cembox>VttlgougouttttdtVtttttttttt[K[27Cembox>VttlgougouttttdtVttttttttttt[K[28Cembox>VttlgougouttttdtVtttttttttttt[K[29Cembox>VttlgougouttttdtVttttttttttttt[K[30C
+VttlgougouttttdtVttttttt: Command not found
+tish error: #-2
+embox>t�tttMttttt�ttttembox>VttlgougouttttdtVttttttttttt�t�@tgo
+VttlgougouttttdtVttttttttttt: Command not found
+tish error: #-2
+embox>
+V�o}ddddddddddddddAddddddW
+V�o}ddddddddddddddAddddddW: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��!�����embox>
+��!����
+��!: Command not found
+tish error: #-2
+embox>
+V�lsoqembox>[Klqqqq
+[?5h[?5l�
+[H[H[2Jembox>[Kdpin��W
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

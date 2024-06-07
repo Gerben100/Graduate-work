@@ -1,0 +1,92 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+�6�embox>
+cd[K[9Ccdeo@�embox>�[K[7Ccdeor
+�: Command not found
+tish error: #-2
+embox>
+��embox>�[K[7C�c�cVeor
+�: Command not found
+tish error: #-2
+embox>
+��6���#7��embox>�[K[7Ccdeor
+�: Command not found
+tish error: #-2
+embox>
+��6�embox>�[K[7CNNNN3NNNNNNor
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[11Cweo�
+��: Command not found
+tish error: #-2
+embox>
+��6�embox>
+��[K[9Ccdeor
+��: Command not found
+tish error: #-2
+embox>
+d�r
+d�r: Command not found
+tish error: #-2
+embox>
+��6�embox>
+d�r[K[10Ccddo�
+d�r: Command not found
+tish error: #-2
+embox>
+*����
+*: Command not found
+tish error: #-2
+embox>
+�W������������������dWkr
+�W������������������dWkr: Command not found
+tish error: #-2
+embox>
+��6�embox>
+��6[K[10C@@@logout@H\[H[H[2Jembox>
+��6@@@logout@H\[K�6256e@@\
+��6@@@logout@H\�6256e@@\: Command not found
+tish error: #-2
+embox>
+��6�embox>
+��6��6�embox>
+��6��6�@logout@;\@�665
+��6��6: Command not found
+tish error: #-2
+embox>
+�kgou���@@@54e�6K54e7@
+�kgou��: Command not found
+tish error: #-2
+embox>
+��6�\@�665e@@]
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

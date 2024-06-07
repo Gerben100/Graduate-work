@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�*8888888��lsdembox>[K[6Ctt`t
+tt`t: Command not found
+tish error: #-2
+embox>ttdttVttttttttt
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>
+embox>tgoutd��
+tgoutd��: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$�
+embox>��(xe-embox>��(xe-[K[11Cembox>��(xe�-[K[12Cembox>��(xe�6-[K[13Cembox>��(xe�6I-[K[14Cembox>��(xe�6I5-[K[15Cembox>��(xe�6I56-[K[16Cembox>��(xe�6I56>-[K[17Cembox>��(xe�6I56>=-[K[18Cembox>��(xe�6I56>=@-[K[19Cembox>��(xe�6I56>=@@-[K[20Cembox>��(xe�6I56>=@@-[K[21Cembox>��(xe�6I56>=@@[K[21Cembox>��(xe�6I56>=@@[K[21C�@@@embox>[K[6Cl���
+embox>��
+��: Command not found
+tish error: #-2
+embox>(xe-ttttttdtembox>��[K[8CVttttttttttgttt�ttt�@tgoutd��
+��Vttttttttttgttt�ttt�: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$dttVt
+embox>$embox>[K[6Cl�embox>l[K[7C��lstttttdttttttttttttttttt�@tgoutd��
+l: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$$embox>[K[6Cl��l�embox>[K[6CstttttdttVtttttttttttttttttt�@tgoutd��
+stttttdttVtttttttttttttttttt�: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7ttttt�7$l��lst�7tdttVtttttttttttttttttt�@tgoutd��
+�p7ttttt�7$l��lst�7tdttVtttttttttttttttttt�: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$$embox>[K[6Cl�7@ttt[?5h[?5ld�ttgou�d��
+l�7: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$embox>
+�p7$[K[11Cembox>[K[6Cl��lsembox>[K[6CttttttdttVtttttttttttttttttt�@tgoutd��
+ttttttdttVtttttttttttttttttt�: Command not found
+tish error: #-2
+embox>
+�p
+�p: Command not found
+tish error: #-2
+embox>embox>[K[6Cttt�ttttt�
+embox>��embox>��[K[6Cembox>t��[K[7Cembox>tt��[K[8Cembox>ttt��[K[9Cembox>ttt{��[K[10Cembox>ttt{t��[K[11Cembox>ttt{tt��[K[12Cembox>ttt{ttt��[K[13Cembox>ttt{tttt��[K[14Cembox>ttt{ttttt��[K[15Cembox>ttt{tttttt��[K[16Cembox>ttt{ttttttt��[K[17Cembox>ttt{tttttttt��[K[18Cembox>ttt{ttttttttt��[K[19Cembox>ttt{tttttttttt��[K[20Cembox>ttt{tttttttttt���embox>ttt{tttttttttt���embox>ttt{tttttttttt�@��embox>ttt{tttttttttt�@t��
+ttt{tttttttttt�: Command not found
+tish error: #-2
+embox>gfutd��
+gfutd��: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$$l��ls���ttttttdttVttttttttltttt�ttt�@tgoutd�
+ltttt�ttt�: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�p[?5h[?5l7$$l��lsttttttdtty�ttttttttttttttttt�@tgoutd��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

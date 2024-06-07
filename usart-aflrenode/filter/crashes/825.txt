@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�\~ƀ�embox>�\~ƀ[K[11C�
+�\~ƀ�: Command not found
+tish error: #-2
+embox>
+�_@`@``T````````````=====================`����VV
+tish error: #-22
+embox>VVVVVVembox>VVVVV[K[11CVV�et
+VVVVV: Command not found
+tish error: #-2
+embox>
+��)Eepembox>
+��)Ee[K[13Cort\�eyptpt
+��)E: Command not found
+tish error: #-2
+embox>
+�exp[H[H[2Jembox>
+�exp[K[11Co�t�embox>
+�expo�t[K[14Censx��ex�krt\���t
+�expo�tensx��ex�krt\: Command not found
+tish error: #-2
+embox>
+�pi
+�pi: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8Cex��exxort\~��et
+tish error: #-22
+embox>
+��embox>
+�[K[8C���e?xt
+����e?x: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cex��Cxpxport\~��et
+ex��Cxpxport\~��et: Command not found
+tish error: #-2
+embox>
+r��expmrt�et
+tish error: #-22
+embox>
+��ex��exlsrt\Z��et
+�ex��exlsrt\Z��et: Command not found
+tish error: #-2
+embox>
+u��t�t
+u�t�t: Command not found
+tish error: #-2
+embox>
+osexport
+osexport: Command not found
+tish error: #-2
+embox>
+��ex�exportt\~oret
+�ex�exportt\~oret: Command not found
+tish error: #-2
+embox>
+dcH
+dcH: Command not found
+tish error: #-2
+embox>
+��ex��export\i��eU
+�ex��export\i��eU: Command not found
+tish error: #-2
+embox>
+��ex��expo�t\e��cd
+�ex��expo�t\e��cd: Command not found
+tish error: #-2
+embox>
+����expo�texpor�����expo�texport
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

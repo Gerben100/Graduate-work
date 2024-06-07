@@ -1,0 +1,84 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>%ddeddddddddddddddddembox>%ddedddddddddddddddd[K[6Cembox>d%ddedddddddddddddddd[K[7Cembox>dd%ddedddddddddddddddd[K[8Cembox>ddd%ddedddddddddddddddd[K[9Cembox>dddY%ddedddddddddddddddd[K[10Cembox>dddYd%ddedddddddddddddddd[K[11Cembox>dddYdd%ddedddddddddddddddd[K[12Cembox>dddYddd%ddedddddddddddddddd[K[13Cembox>dddYdddd%ddedddddddddddddddd[K[14Cembox>dddYddddK%ddedddddddddddddddd[K[15Cembox>dddYddddK#%ddedddddddddddddddd[K[16Cembox>dddYddddK#�%ddedddddddddddddddd[K[17Cembox>dddYddddK#�d%ddedddddddddddddddd[K[18Cembox>dddYddddK#�dK%ddedddddddddddddddd[K[19Cembox>dddYddddK#�dK#%ddedddddddddddddddd[K[20Cembox>dddYddddK#�dK#�%ddedddddddddddddddd[K[21Cembox>dddYddddK#�dK#�[K[21Cembox>dddYddddK#�dK#�[K[6Cembox>�dddYddddK#�dK#�[K[7Cembox>�dddYddddK#�dK#�[K[8Cembox>�ddddYddddK#�dK#�[K[9Cembox>�dddddYddddK#�dK#�[K[10Cembox>�ddddddYddddK#�dK#�[K[11Cembox>�dddbdddYddddK#�dK#�[K[12Cembox>�dddbddddYddddK#�dK#�[K[13Cembox>�dddbdddddYddddK#�dK#�[K[14Cembox>�dddbddzdddYddddK#�dK#�[K[15Cembox>�dddbddz[K[15C
+�dddbddz: Command not found
+tish error: #-2
+embox>��dembox>��d[K[6Cembox>���d[K[7Cembox>�d��d[K[8Cembox>�dd��d[K[9Cembox>�ddd��d[K[10Cembox>�dddg��d[K[11Cembox>�dddg$��d[K[12C
+�dddg$��d: Command not found
+tish error: #-2
+embox>
+ee\mid$[H[H[2Jembox>
+ee\mid$[K[17Cembox>
+ee\mid$[K[17Cembox>
+ee\mid$[K[6Cembox>[K[6Cembox>�dddg$��d[K[17Cdddddd#�embox>�dddg$��ddddddd#�[K[28Cembox>�dddg$��ddddddd#�[K[6Cembox>�dddg$��ddddddd#�[K[7Cembox>�w�dddg$��ddddddd#�[K[8Cembox>�dddbddz[K[15Cddddg$
+�dddbddzddddg$: Command not found
+tish error: #-2
+embox>
+ee\
+embox>�idd�]ddd+eRN{�c+++:G+embox>�dddbddzddddg$[K[21C+++d#�embox>�dddbddzddddg$+++d#�embox>x�dddbddzddddg$+++d#�embox>x�dddbddzddddg$+++d#�embox>�w�dddg$��d[K[19Cembox>�dddbddz[K[15C$��embox>�dddbddz$��[K[6Cembox>[K[6Cd
+d: Command not found
+tish error: #-2
+embox>Sdd]dddd#�embox>Sdd]dddd#�[K[6Cembox>dSdd]dddd#�[K[7Cembox>ddSdd]dddd#�[K[8Cembox>dddSdd]dddd#�[K[9Cembox>ddddSdd]dddd#�[K[10Cembox>ddddgSdd]dddd#�[K[11Cembox>ddddg$Sdd]dddd#�[K[12C
+ddddg$Sdd]dddd#�: Command not found
+tish error: #-2
+embox>
+e+\mid$[H[H[2Jembox>
+e+\mid$[K[16Cembox>
+e+\mid$[K[16Cembox>
+e+\mid$[K[6Cembox>[K[6Cddddddddd#�embox>ddddddddd#�[K[17Cembox>ddddddddd#�[K[6Cembox>�ddddddddd#�[K[7Cembox>�wddddddddd#�[Kembox>ddddg$Sdd]dddd#�[K[22Cdddddg$
+ddddg$Sdd]dddd#�dddddg$: Command not found
+tish error: #-2
+embox>
+dg$
+dg$: Command not found
+tish error: #-2
+embox>
+ee
+ee: Command not found
+tish error: #-2
+embox>
+ee\mi2embox>[Kembox>[Kembox>[Kd dddd#�embox>[Kembox>[Kembox>[Kembox>[Kembox>
+eeddRdg$
+eeddRdg$: Command not found
+tish error: #-2
+embox>
+eexfj_
+eexfj_: Command not found
+tish error: #-2
+embox>
+eecd\fjjlog�
+eecd\fjjlog�: Command not found
+tish error: #-2
+embox>��ujjexitje\fjjogu;mo56656?��5@@
+eexfj_: Command not found
+tish error: #-2
+embox>d��BX@����@@??@@@_@@@v�@@??@@@_�@@
+eeddRdg$: Command not found
+tish error: #-2
+embox>�66d��
+embox>@@@�v�@@??@@@
+@@@�@@??: Command not found
+tish error: #-2
+embox>
+Y\cd*�
+Y\cd*: Command not found
+tish error: #-2
+embox>
+ee\fjiogujj jjjexitje\fjjogutje\fjjogu;mo56
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

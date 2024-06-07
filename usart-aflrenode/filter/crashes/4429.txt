@@ -1,0 +1,192 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pin�
+embox>
+��FBembox>
+��F[K[13Cembox>
+��F[K[14Cembox>
+��F[K[15C�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8Cembox>
+[K[6Cembox>
+[K[7Cembox>F
+[K[8Cembox>FB
+[K[9Cembox>F
+[K[8Cembox>F
+[K[9Cembox>F[K[9Cembox>F[K[10Cembox>Fp[K[11Cembox>Fpo[K[12Cembox>Fpo�[K[13Cembox>Fpo�t[K[14Cembox>
+�[K[9C�FBembox>
+��F[K[12Cembox>
+��F[K[13Cembox>
+��F[K[14Cembox>
+��FF[K[15Cembox>
+��FFB[K[16Cembox>
+��FFB�[K[17Cembox>
+��FFB�[K[18Cembox>
+��FFB�<[K[19Cembox>
+��FFB�<�[K[20Cembox>
+��FFB�<�[K[21Cembox>
+��FFB�<��[K[22C
+�: Command not found
+tish error: #-2
+embox>
+��ls��
+�: Command not found
+tish error: #-2
+embox>
+���v�@Bembox>
+���v�@[K[18Cembox>
+���v�@[K[19Cembox>
+���v�@[K[20Cembox>
+���v�@[K[21Cembox>
+���v�@�[K[22C
+�: Command not found
+tish error: #-2
+embox>
+�l saembox>
+�l sa[K[14Cembox>
+�l sa[K[15Cembox>
+�l sa�[K[16Cembox>
+�l sa�J[K[17Cembox>
+�l sa�J�[K[18Cembox>
+�l sa�J�:[K[19Cembox>
+�l sa�J�:'[K[20Cembox>
+�l sa�J�:'[K[21C
+�l: Command not found
+tish error: #-2
+embox>
+yeei
+yeei: Command not found
+tish error: #-2
+embox>
+logout�l R@embox>
+logout�l R@[K[18Cembox>
+logout�l R@[K[19Cembox>
+yeei[K[11C_Q'�
+yeei: Command not found
+tish error: #-2
+embox>
+�l lsembox>
+�l ls[K[12C
+�l: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[7Cembox>l[K[8Cembox>ls[K[9Cembox>ls'[K[10Cembox>ls'a[K[11C
+embox>
+�l embox>
+�l [K[6Cembox>a
+�l [K[7C
+a: Command not found
+tish error: #-2
+embox>
+�l lsembox>
+�l ls[K[12Cembox>a
+�l [K[11C�^'a
+a: Command not found
+tish error: #-2
+embox>
+�l lembox>a
+�l [K[11Clsembox>a
+�l ls[K[6Cembox>aa
+�l ls[K[7C
+aa: Command not found
+tish error: #-2
+embox>
+�l lsembox>
+�l ls[K[12Cembox>
+�l ls[K[6Cembox>
+�l ls[K[7Cembox>
+�l ls[K[8Cembox>
+�l ls[K[6Cembox>
+�l ls[K[7Cembox>�
+�l ls[K[8Cembox>�Q
+�l ls[K[9Cembox>�Q'
+�l ls[K[10Cembox>�Q'a
+�l ls[K[11C
+embox>
+l�>
+l�>: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[8Cembox>
+[K[9Cembox>
+[K[10Cembox>
+[K[11Cembox>
+�[K[12Cembox>
+�Q[K[13Cembox>
+�Q'[K[14Cembox>
+�Q'a[K[15C
+tish error: #-22
+embox>
+@1#�embox>
+@1#[K[10C
+@1#: Command not found
+tish error: #-2
+embox>
+[?5h[?5lRtc�l lsembox>
+[?5h[?5lRtc�l ls[K[16Cembox>
+[?5h[?5lRtc�l ls[K[17Cembox>
+[?5h[?5lRtc�l ls[K[18Cembox>
+[?5h[?5lRtc�l ls[K[19Cembox>
+[?5h[?5lRtc�l ls[K[6Cembox>
+[?5h[?5lRtc�l ls[K[7Cembox>�
+[?5h[?5lRtc�l ls[K[8Cembox>�`
+[?5h[?5lRtc�l ls[K[9Cembox>�``
+[?5h[?5lRtc�l lsembox>�``_
+[?5h[?5lRtc�l lsembox>�``_'
+[?5h[?5lRtc�l lsembox>�``_'a
+[?5h[?5lRtc�l ls
+embox>
+���x%iembox>[K[6C[H[H[2Jembox>[K[6C
+embox>
+����xeiembox>
+����xei[K[18C[H[H[2Jembox>
+����xei[K[18Cembox>
+����xei�[K[19C
+�: Command not found
+tish error: #-2
+embox>
+d�embox>[K[12C[H[H[2Jembox>[K[12C
+d: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����[H[H[2J
+��: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+ �xeiei�xeiei[H[H[2J
+tish error: #-22
+embox>
+
+embox>���[H[H[2J
+embox>
+�xbr�������d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

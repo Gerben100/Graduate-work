@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+embox>�
+embox>fembox>f[K[7Cembox>f[K[6Cembox>�f[K[7Cembox>��f[K[8Cembox>���f[K[9Cembox>���f[K[11C
+embox>���f
+[K[11Cembox>���f�
+[K[12Cembox>���f�
+[K[6Cembox>[���f�
+[K[7Cembox>[N���f�
+[K[8Cembox>[NN���f�
+[K[9Cembox>[NNN���f�
+[K[10Cembox>[NNNN���f�
+[K[11Cembox>[NNNNN���f�
+[K[12Cembox>[NNNNNN���f�
+[K[13Cembox>[NNNNNNN���f�
+[K[14Cembox>[NNNNNNNN���f�
+[K[15Cembox>[NNNNNNNNq���f�
+[K[16Cembox>[NNNNNNNNq,���f�
+[K[17Cembox>[NNNNNNNNq,���f�
+[K[16Cembox>[NNNNNNNNq,���f�
+[K[15C
+[NNNNNNNNq,���f: Command not found
+tish error: #-2
+embox>
+��
+embox>NNNNembox>NNNN[K[9Cembox>NNNN[K[8Cembox>NNNN[K[7Cembox>NNNN[K[6Cembox>�NNNN[K[7Cembox>�NNNN[K[6Cembox>N�NNNN[K[7Cembox>NN�NNNN[K[8Cembox>NNN�NNNN[K[9Cembox>NNNN�NNNN[K[10Cembox>NNNN��NNNN[K[11Cembox>NNNN�NNNN[K[10Cembox>NNNN��NNNN[K[11Cembox>NNNN�[K[11C/�xembox>[NNNNNNNNq,���f[K[21CNNembox>[NNNNNNNNq,���fNN[K[22Cembox>[NNNNNNNNq,���fNN[K[21Cembox>[NNNNNNNNq,���fNN[K[20Cembox>[NNNNNNNNq,���cfNN[K[21Cembox>[NNNNNNNNq,���cdfNN[K[22Cembox>[NNNNNNNNq,���cdefNN[K[23Cembox>[NNNNNNNNq,���cdexfNN[K[24Cembox>[NNNNNNNNq,���cdexifNN[K[25Cembox>[NNNNNNNNq,���cdexitfNN[K[26Cembox>[NNNNNNNNq,���cdexitfNN[K[27Cembox>[NNNNNNNNq,���cdexitfNN[K[26C
+[NNNNNNNNq,���cdexitfNN: Command not found
+tish error: #-2
+embox>
+����embox>
+����[K[12Cembox>
+����[K[11Cembox>
+����[K[10Cembox>
+�����[K[11Cembox>
+�����[K[10Cembox>
+�����[K[9Cembox>
+������[K[10C
+tish error: #-22
+embox>Np[H[H[2Jembox>Np[K[8C1YNNNN����embox>Np1YNNNN����[K[19Cembox>Np1YNNNN����[K[18Cembox>Np1YNNNN����[K[17Cembox>Np1YNNNN�����[K[18Cembox>Np1YNNNN�����[K[17Cembox>Np1YNNNN�����[K[16Cembox>Np1YNNNN������[K[17C
+Np1YNNNN: Command not found
+tish error: #-2
+embox>Np[H[H[2Jembox>Np[K[8CNY��
+NpNY��: Command not found
+tish error: #-2
+embox>�embox>�[K[6Cembox>��[K[7C
+��: Command not found
+tish error: #-2
+embox>Np[H[H[2Jembox>Np[K[8CNYNembox>NpNYN[K[10Cembox>NpNN[K[9Cembox>NpNN[K[8Cembox>NpNN[K[9Cembox>NpNN[K[6Cembox>eNpNN[K[7Cembox>exNpNN[K[8Cembox>exlNpNN[K[9Cembox>exlsNpNN[K[10Cembox>exlsNpNN[K[9Cembox>exlsNpNN[K[8C
+exlsNp: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[6Cembox>
+[K[7Cembox>c
+[K[8Cembox>cd
+[K[9Cembox>cde
+[K[10Cembox>cdex
+[K[11Cembox>cdexi
+[K[12Cembox>cdexit
+[K[13Cembox>cdexit
+[K[12Cembox>cdexit
+[K[11C
+cdexit: Command not found
+tish error: #-2
+embox>
+���embox>
+���[Kembox>
+���[Kembox>
+���[K
+embox>�embox>�[Kembox>N�[Kembox>NN�[Kembox>NNN�[Kembox>NNNN�[Kembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[16Cembox>[K[15Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[19Cembox>[K[18Cembox>[K[17Cembox>[K[16C
+NNNNNNNNcdexitNNN�: Command not found
+tish error: #-2
+embox>
+�H�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

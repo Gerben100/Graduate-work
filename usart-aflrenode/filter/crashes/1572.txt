@@ -1,0 +1,183 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p��embox>[K[6C
+embox>
+lsK
+lsK: Command not found
+tish error: #-2
+embox>
+embox>
+lsK[K[10Clog�ut
+lsKlog�ut: Command not found
+tish error: #-2
+embox>
+c
+c: Command not found
+tish error: #-2
+embox>
+embox>
+c[K[8Cpinembox>
+lsKlog�ut[K[16Cpin�
+lsKlog�utpin: Command not found
+tish error: #-2
+embox>
+O����
+O�: Command not found
+tish error: #-2
+embox>
+expo�tcembox>
+expo�tc[K[14Cembox>
+expo�tc[K[15Cembox>
+expo�tc[K[16Cembox>
+expo�tcm[Kembox>
+expo�tcm�[Kembox>
+expo�tcm�[K[19C
+expo�tc: Command not found
+tish error: #-2
+embox>
+inn�
+in: Command not found
+tish error: #-2
+embox>
+embox>
+in[K[9C
+in: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[Kpipcdiny
+�pi: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+eee
+embox>
+p
+tish error: #-22
+embox>
+p_n1
+p_n1: Command not found
+tish error: #-2
+embox>
+embox>
+p����
+p����: Command not found
+tish error: #-2
+embox>
+p���
+���: Command not found
+tish error: #-2
+embox>
+pi� 
+pi�: Command not found
+tish error: #-2
+embox>
+@�i
+tish error: #-22
+embox>
+~i�iin
+n: Command not found
+tish error: #-2
+embox>
+
+owt: Command not found
+tish error: #-2
+embox>
+p���
+~ip��: Command not found
+tish error: #-2
+embox>
+�����b
+~i�����b: Command not found
+tish error: #-2
+embox>
+p�
+embox>export
+dexport: Command not found
+tish error: #-2
+embox>
++_in
++_in: Command not found
+tish error: #-2
+embox>
+2p�a���
+2p�a���: Command not found
+tish error: #-2
+embox>
+�
+~ip�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+!�
+embox>
+ 
+tish error: #-22
+embox>
+ڀ[?5h[?5l
+ڀ: Command not found
+tish error: #-2
+embox>
+pil
+~ippil: Command not found
+tish error: #-2
+embox>
+Dllogoutogout
+tish error: #-22
+embox>
+p��
+~ipp��: Command not found
+tish error: #-2
+embox>
+pi��
+~ippi�: Command not found
+tish error: #-2
+embox>
+ni�
+: Command not found
+tish error: #-2
+embox>
+ienlohout�
+ien: Command not found
+tish error: #-2
+embox>
+p 
+~ipp: Command not found
+tish error: #-2
+embox>
+0pin
+0pin: Command not found
+tish error: #-2
+embox>
+im��pim�logout�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

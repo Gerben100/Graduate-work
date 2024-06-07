@@ -1,0 +1,45 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Pg�
+embox>�g}g embox>[K[6Cembox>[K[6Cembox>o[K[7C
+o: Command not found
+tish error: #-2
+embox>
+g?U
+embox>embox>[K[6C%i�g�ggggggg ggggg �ogo
+%i�g�ggggggg: Command not found
+tish error: #-2
+embox>
+gIU
+embox>embox>[K[6C%i�rggembox>%i�rg[K[11Cggembox>%i�rggg[K[6Cembox>%i�rggg[K[7Cembox>%i�rggg[K[8Cembox>%i�rggg[K[9Cembox>%i�rggg[K[10Cembox>%i�rggg[K[11Cembox>%i�rggg[K[12Cembox>%i�rggg[K[13Cembox>%i�rggg[K[14Cembox>%i�rggg[K[15Cembox>%i�rggg[K[16Cembox>%i�rggg[K[17Cembox>%i�rggg[K[18Cembox>i%i�rggg[K[19Cembox>iP%i�rggg[K[20Cembox>iPg%i�rggg[K[21Cembox>iPg %i�rggg[K[22Cembox>iPg g%i�rggg[K[23Cembox>iPg gg%i�rggg[K[24Cembox>iPg ggg%i�rggg[K[25Cembox>iPg gggg%i�rggg[K[26Cembox>iPg ggggg%i�rggg[K[27Cembox>iPg ggggg %i�rggg[K[28Cembox>iPg ggggg �%i�rggg[K[29Cembox>iPg ggggg �o%i�rggg[K[30Cembox>iPg ggggg �og%i�rggg[K[31Cembox>iPg ggggg �ogo%i�rggg[K[32C
+iPg: Command not found
+tish error: #-2
+embox>
+U
+embox>embox>[K[6CggI�guy�ggiembox>[K[6CiPgcgR gg]���o
+iPgc: Command not found
+tish error: #-2
+embox>
+g?Ug gg�gg �o��l l�����pin��go
+g?Ug: Command not found
+tish error: #-2
+embox>
+g?U
+embox>embox>[K[6C%i�exportiPg ggggg �]go
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

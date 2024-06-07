@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>dxd��
+embox>�@�
+�@�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>dx
+[K[8Cembox>dxd
+[K[9Cembox>dxdx
+[K[10Cembox>dxdxp
+[K[11Cembox>dxdxpx
+[K[12Cembox>dxdxpxr
+[K[13Cembox>dxdxpxr�
+[K[14C
+dxdxpxr�: Command not found
+tish error: #-2
+embox>
+
+
+dxd��
+embox>
+embox>pdxd��
+embox>
+embox>p�
+p�: Command not found
+tish error: #-2
+embox>
+�exiembox>
+�exi[K[6Cembox>�
+�exi[K[7Cembox>�x
+�exi[K[8Cembox>�x�
+�exi[K[9Cembox>�x��
+�exi[K[10Cembox>�x���
+�exi[K[11C
+�x���: Command not found
+tish error: #-2
+embox>
+�Xembox>�x���
+�exi[K[16C@�exit
+�x���: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>dx
+[K[8Cembox>dx
+[K[9Cembox>dx
+[K[6Cembox>dx
+[K[7Cembox>dx
+[K[11C��
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>dx
+[K[8Cembox>dxd
+[K[9Cembox>dxd�
+[K[10Cembox>dxd��
+[K[11Cembox>dxd��
+[K[12Cembox>dxd��
+[K[13Cembox>dxd��
+[K[14Cembox>dxd��
+[K[15C
+dxd��: Command not found
+tish error: #-2
+embox>
+[?5h[?5l`x����
+embox>Ql
+Ql: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+embox>`�
+`�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>(
+[K[7C
+embox>�%Gpin
+�%Gpin: Command not found
+tish error: #-2
+embox>
+��dxd��
+embox>
+embox>p�
+p�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>d
+[K[7Cembox>di
+[K[8Cembox>did
+[K[9Cembox>did�
+[K[10Cembox>did��
+[K[11Cembox>did���
+[K[12C
+embox>��
+embox>
+embox>embox>p�[K[8C�embox>�%Gpin[K[12C�
+�%Gpin�: Command not found
+tish error: #-2
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>p�
+p�: Command not found
+tish error: #-2
+embox>
+�d"d"t
+�d"d"t: Command not found
+tish error: #-2
+embox>
+@exit6
+embox>�exit
+�exit: Command not found
+tish error: #-2
+embox>
+@@@\66
+embox>�exit
+�exit: Command not found
+tish error: #-2
+embox>
+d
+�: Command not found
+tish error: #-2
+embox>
+@@@\66���it
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

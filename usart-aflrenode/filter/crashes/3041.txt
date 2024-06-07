@@ -1,0 +1,151 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+� ^�
+embox>�� ^�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+@�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+jd)f�� Aembox>
+jd)f�� A[K[6Cembox>�
+jd)f�� A[K[7Cembox>�
+jd)f�� A[K[8C
+�: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[Kp�embox>
+adduser.confp�[K[22Cembox>
+adduser.confp�[K[23C
+adduser.confp�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lo
+o: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�>�.=�ex�ort
+�>�.=�ex�ort: Command not found
+tish error: #-2
+embox>
+[?5h[?5lp��embox>�>�.=�ex�ort[K$
+�>�.=�ex�ort: Command not found
+tish error: #-2
+embox>
+lo�out
+tish error: #-22
+embox>
+�pembox>
+�p[Kembox>[K[7Cembox>[K[8C
+embox>
+[?5h[?5ls��embox>
+[K
+tish error: #-22
+embox>
+embox>
+[?5h[?5lp}�'
+p}�': Command not found
+tish error: #-2
+embox>
+embox>
+. �xit�L1
+.: Command not found
+tish error: #-2
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>\@@p@���(xN(xje-
+[?5h[?5lp��
+embox>
+embox>
+embox>
+exit[?5h[?5l
+\@@[?5h[?5l: Command not found
+tish error: #-2
+embox>
+embox>
+[?5h[?5lp��xecd
+pxecd: Command not found
+tish error: #-2
+embox>
+��ixe/
+\@@: Command not found
+tish error: #-2
+embox>
+[?5h[?5lpx�ixe/
+\@@: Command not found
+tish error: #-2
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+[?5h[?5lp��t�
+embox>
+
+?�p@���(xN: Command not found
+tish error: #-2
+embox>
+  p 
+p: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+lrgqute��
+lrgqut: Command not found
+tish error: #-2
+embox>
+$x�/$x�/�i�d�L�ix�ix�ls
+$x�/$x�/i�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lplogout��:i������������e/
+\@@: Command not found
+tish error: #-2
+embox>
+[?5h[?5lp��i��
+\@@: Command not found
+tish error: #-2
+embox>
+[?5h[?5lp�e}it
+[?5h[?5lp�e}it: Command not found
+tish error: #-2
+embox>
+p�exizt
+p�exizt: Command not found
+tish error: #-2
+embox>
+�p�ptexi�t xi�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

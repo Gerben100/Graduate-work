@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ool�dmooooU�Rr
+ool�dmooooU�: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12C�lo�o�tembox>ool�dmooooU�[K[18C��@�e@(xe�embox>ool�dmooooU���@�e@(xe�[K[29Cembox>ool�dmooooU���@�e@(xeǲ[K[30Cembox>ool�dmooooU���@�e@(xeǚ�[K[31Cembox>ool�dmooooU���@�e@(xeǚN�[K[32Cembox>ool�dmooooU���@�e@(xeǚN��[K[33Cembox>ool�dmooooU���@�e@(xeǚN��[K[34Cembox>ool�dmooooU���@�e@(xeǚN�D�[K[35Cembox>ool�dmooooU���@�e@(xeǚN�Dx�[K[36Cembox>ool�dmooooU���@�e@(xeǚN�Dxr�[K[37Cembox>ool�dmooooU���@�e@(xeǚN�Dxrw�[K[38Cembox>ool�dmooooU���@�e@(xeǚN�Dxrwp�[K[39Cembox>ool�dmooooU���@�e@(xeǚN�Dxrwpo�[K[40Cembox>ool�dmooooU���@�e@(xeǚN�Dxrwpor�[K[41C
+ool�dmooooU���@: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12C�logo�tembox>ool�dmooooU���@[K[21Cembox>ool�dmooooU�[K[18CEL�e@(xemembox>ool�dmooooU�EL�e@(xem[K[28Cembox>ool�dmooooU�EL�e@(xe�m[K[29Cembox>ool�dmooooU�EL�e@(xe�em[K[30Cembox>ool�dmooooU�EL�e@(xe�eNm[K[31Cembox>ool�dmooooU�EL�e@(xe�eN�m[K[32Cembox>ool�dmooooU�EL�e@(xe�eN��m[K[33Cembox>ool�dmooooU�EL�e@(xe�eN��(m[K[34Cembox>ool�dmooooU�EL�e@(xe�eN��(xm[K[35Cembox>ool�dmooooU�EL�e@(xe�eN��(xem[K[36Cembox>ool�dmooooU�EL�e@(xe�eN��(xexm[K[37Cembox>ool�dmooooU�EL�e@(xe�eN��(xexpm[K[38Cembox>ool�dmooooU�EL�e@(xe�eN��(xexpom[K[39Cembox>ool�dmooooU�EL�e@(xe�eN��(xexporm[K[40C
+ool�dmooooU�EL: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cxpcdtembox>xpcd[K[10C��logo(xemembox>xpcd��logo(xem[K[20Cembox>xpcd��logo(xe�m[K[21Cembox>xpcd��logo(xe�em[K[22Cembox>xpcd��logo(xe�eNm[K[23Cembox>xpcd��logo(xe�eN�m[K[24Cembox>xpcd��logo(xe�eN��m[Kembox>xpcd��logo(xe�eN��(m[Kembox>xpcd��logo(xe�eN��(xm[Kembox>xpcd��logo(xe�eN��(xem[Kembox>xpcd��logo(xe�eN��(xexm[Kembox>xpcd��logo(xe�eN��(xexpm[Kembox>xpcd��logo(xe�eN��(xexpom[Kembox>xpcd��logo(xe�eN��(xexporm[K
+xpcd: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+exp oxpor
+exp: Command not found
+tish error: #-2
+embox>
+]
+]: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12CQembox>
+][K[8CgZ���embox>
+exp[K[10Ccd@rtembox>
+expcd@r[K[16C(xex�oW
+expcd@: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>e
+[Kembox>e�
+[Kembox>e
+�[Kembox>e
+�c[Kembox>[K[11C
+e: Command not found
+tish error: #-2
+embox>
+ex�$���������epitexitut�������������embox>[Kembox>[K[6C�wembox>�wembox>�[K[7Cembox>�embox> �embox> �
+tish error: #-22
+embox>
+tish error: #-22
+embox>
+ex�$�$ w�� 
+e: Command not found
+tish error: #-2
+embox>
+pin$�cd$e'cexit'cexitL
+e: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+ex���$�w� 
+tish error: #-22
+embox>
+eO�$���w������� 
+tish error: #-22
+embox>
+ex�$�$��w� 
+tish error: #-22
+embox>
+ex�$�� 
+tish error: #-22
+embox>
+ex�$[H[H[2J�$���w� 
+tish error: #-22
+embox>
+
+e: Command not found
+tish error: #-2
+embox>
+�q�,
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

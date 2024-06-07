@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e?�+embox>e?�[K[9Cembox>e?�[K[9C
+e?�: Command not found
+tish error: #-2
+embox>
+xxUt�l}YzUt�ls
+xxUt�l}YzUt�ls: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�is�����embox>�is�����[K[15C
+�is�����: Command not found
+tish error: #-2
+embox>
+�iiiiiii�embox>
+�iiiiiii[K[16C�embox>
+�iiiiiii[K[16C
+�iiiiiii: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+e?��embox>
+e?��[K[11C�iAii�?z�embox>
+e?���iAii�?z�[K[20C�i�Aii�embox>
+e?���iAii�?z��i�Aii[K[26C
+e?���iAii�?z��i�Aii: Command not found
+tish error: #-2
+embox>
+ei�i?export�embox>
+ei�i?export[K
+ei�i?export: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+
+embox>
+ll���
+ll���: Command not found
+tish error: #-2
+embox>
+E?�iiii�iii�
+E?�iiii�iii: Command not found
+tish error: #-2
+embox>
+e^�iiiiiiii
+e^�iiiiiiii: Command not found
+tish error: #-2
+embox>
+e?�iiiiJiCi�
+e?�iiiiJiCi: Command not found
+tish error: #-2
+embox>
+e��i���
+e��i���: Command not found
+tish error: #-2
+embox>
+e�o
+e�o: Command not found
+tish error: #-2
+embox>
+e/�iiiiimii��
+e/�iiiiimii��: Command not found
+tish error: #-2
+embox>
+
+�iiiii: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+65SF8��6export6566@@�{@@@@\@@@��{@@@@@
+65SF: Command not found
+tish error: #-2
+embox>
+e?�i��6656>6@@��6656>6@!�{@@@@\@@@@?@@mx@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

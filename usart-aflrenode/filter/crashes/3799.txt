@@ -1,0 +1,177 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>>��
+embox>
+��a embox>
+��a [K[6Cembox>�
+��a [K[7C
+�: Command not found
+tish error: #-2
+embox>
+fi��
+tish error: #-22
+embox>
+��
+tish error: #-22
+embox>
+���pinW
+��: Command not found
+tish error: #-2
+embox>
+���ŭ\�4\ exitoexportp#�@@@H?@@@@@@@
+���ŭ\: Command not found
+tish error: #-2
+embox>
+qut
+qut: Command not found
+tish error: #-2
+embox>
+��e�Mort�ŭ��expn�p�po�eembox>
+��e�Mort�ŭ��expn�p�po�[K[38C�@
+��e�Mort�ŭ: Command not found
+tish error: #-2
+embox>
+���ŭ@�4\ pexpoexpexpoexportpݿ@@@H?@E@
+���ŭ@�4\: Command not found
+tish error: #-2
+embox>@@@@
+@@@@: Command not found
+tish error: #-2
+embox>
+���ŭ@�4Q pexpoexportp#�@@@H?@@@@@@@
+���ŭ@: Command not found
+tish error: #-2
+embox>
+���ŭ@�4\ pexpo������������@H?@@@@@@@
+���ŭ@: Command not found
+tish error: #-2
+embox>
+���ŭ@d4\ exportlogoutH?@@@@@�������@@������
+���ŭ@: Command not found
+tish error: #-2
+embox>@@
+@@: Command not found
+tish error: #-2
+embox>
+��ŭ��cd�������������@�ŭ8d
+embox>
+ttti�fexitex�ortp#�@@@H@
+ttti�: Command not found
+tish error: #-2
+embox>
+���ŋ@�4\ pexpoexportp#�@@@H?@@@@@@@
+���ŋ@: Command not found
+tish error: #-2
+embox>
+���ŭ@�@@@@3@
+���ŭ@: Command not found
+tish error: #-2
+embox>
+���ŭL�4\ pexpoexportp#�@@�H?@@@@@@@
+���ŭL: Command not found
+tish error: #-2
+embox>
+���ŭ���2�
+embox>�y� �nb
+@@�: Command not found
+tish error: #-2
+embox>
+��xe@
+��xe: Command not found
+tish error: #-2
+embox>
+����
+@@�: Command not found
+tish error: #-2
+embox>
+���ŭ2�#�y�����#�nl
+���ŭ: Command not found
+tish error: #-2
+embox>
+�^��w[H[H[2Ji[?5h[?5l
+embox>�pin
+�pi: Command not found
+tish error: #-2
+embox>
+����
+tish error: #-22
+embox>
+���ŭ0�$�y� �nl
+@@�: Command not found
+tish error: #-2
+embox>
+���x-� �nl
+���x-�: Command not found
+tish error: #-2
+embox>
+K�z
+K�z: Command not found
+tish error: #-2
+embox>
+�pin
+�pin: Command not found
+tish error: #-2
+embox>
+���� nl
+����: Command not found
+tish error: #-2
+embox>
+��Tout tpi
+@@: Command not found
+tish error: #-2
+embox>
+pp
+pp: Command not found
+tish error: #-2
+embox>
+�@ڀ�56>
+�@ڀ: Command not found
+tish error: #-2
+embox>
+Ρ�ŭ@�
+�
+Ρ�ŭ@�: Command not found
+tish error: #-2
+embox>
+�ls��e
+|�: Command not found
+tish error: #-2
+embox>
+���ŭ@��ŭ@�
+@�: Command not found
+tish error: #-2
+embox>
+����l�@�
+����: Command not found
+tish error: #-2
+embox>
+���Ł@@��
+���Ł: Command not found
+tish error: #-2
+embox>
+���xiic3?tw��[?5h[?5lŭ@�
+���xii: Command not found
+tish error: #-2
+embox>
+�� ŭ@1t�
+��: Command not found
+tish error: #-2
+embox>
+���ŭ@�����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[7C,RKKexitembox>�,RKKexi[K[14C -
+�,RKKexi: Command not found
+tish error: #-2
+embox>
+e�����r����2
+e�����r����2: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C@(K`embox>
+�@(K[K[11Cembox>
+�@(K[K[11Cembox>
+�@(K[K[11C
+�@(K: Command not found
+tish error: #-2
+embox>
+4
+4: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C@KKKembox>
+�@KK[K[11C �
+�@KK: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+@R�Kembox>
+@R�[K[10C�-
+@R˗-: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8C@Q0Kembox>
+�@Q0[K[11C�-
+�@Q0�-: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>u
+�[K[7Cembox>u�
+�[K[8Cembox>u��
+�[K[9C
+u��: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K]embox>
+�][KKKembox>
+�]K[Kx-
+�]Kx-: Command not found
+tish error: #-2
+embox>
+���Rxit
+���Rxit: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+pin���
+��: Command not found
+tish error: #-2
+embox>
+lo�oumg��@�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

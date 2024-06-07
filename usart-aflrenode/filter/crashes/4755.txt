@@ -1,0 +1,124 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox> w
+w: Command not found
+tish error: #-2
+embox>
+d��rmi�e�
+d: Command not found
+tish error: #-2
+embox>
+��iei
+��i: Command not found
+tish error: #-2
+embox>
+dlplembox>
+��i[K[10Cinoembox>
+��iino[K[13C
+embox>pembox>passwd[K[12C
+embox>pembox>passwd[K[12C7
+passwd7: Command not found
+tish error: #-2
+embox>7in7�7
+7in7�7: Command not found
+tish error: #-2
+embox>
+dlplpinnembox>
+dlplpinn[K[15C
+embox>pembox>passwd[K[12C
+embox>pembox>passwd[K[12C7
+passwd7: Command not found
+tish error: #-2
+embox>�inoembox>�ino[K[10C
+embox>pembox>passwd[K[12C
+embox>pembox>passwd[K[12C
+passwd: Command not found
+tish error: #-2
+embox>7
+7: Command not found
+tish error: #-2
+embox>
+dlplpino,
+embox>p
+embox>p76
+passwd76: Command not found
+tish error: #-2
+embox>7
+7: Command not found
+tish error: #-2
+embox>
+dlplpinoembox>
+dlplpino[?5h[?5lp[?5h[?5l
+embox>p[?5h[?5l7exit
+embox>nlogoutoembox>nlogouto
+embox>p[?5h[?5l
+embox>p[?5h[?5l7oembox>p7o[?5h[?5lp
+p7o[?5h[?5lp: Command not found
+tish error: #-2
+embox>[?5h[?5l
+embox>p[?5h[?5l76
+p76: Command not found
+tish error: #-2
+embox>
+: Command not found
+tish error: #-2
+embox>
+dlplpino
+embox>p"[?5h[?5l
+pp7": Command not found
+tish error: #-2
+embox>7
+7: Command not found
+tish error: #-2
+embox>7
+7: Command not found
+tish error: #-2
+embox>
+dlplpino
+embox>p[?5h[?5l
+embox>p[?5h[?5l7
+p7: Command not found
+tish error: #-2
+embox>7iio
+embox>p[?5h[?5l
+p: Command not found
+tish error: #-2
+embox>
+embox>p[?5h[?5l7
+p7: Command not found
+tish error: #-2
+embox>7
+7: Command not found
+tish error: #-2
+embox>
+dlplp~no
+embox>pp[?5h[?5l7
+pp7: Command not found
+tish error: #-2
+embox>7ino
+embox>p[?5h[?5l
+embox>p[?5h[?5lR
+pR: Command not found
+tish error: #-2
+embox>7
+dlplpino��inoudT����exit�ֈl�no
+embox>p[?5h[?5l
+embox>p
+embox>7inop[?5h[?5l7dl
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

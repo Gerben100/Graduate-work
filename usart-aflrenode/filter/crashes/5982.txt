@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l�[?5h[?5l�embox>l�[?5h[?5l�[K[6Cembox>fl�[?5h[?5l�[K[7Cembox>ffl�[?5h[?5l�[K[8Cembox>ffIl�[?5h[?5l�[K[9Cembox>ffIll�[?5h[?5l�[K[10Cembox>ffIlsl�[?5h[?5l�[K[11Cembox>ffIlsfl�[?5h[?5l�[K[12Cembox>ffIlsffl�[?5h[?5l�[K[13Cembox>ffIlsfffl�[?5h[?5l�[K[14Cembox>ffIlsffffl�[?5h[?5l�[K[15Cembox>ffIlsfffffl�[?5h[?5l�[K[16Cembox>ffIlsffffffl�[?5h[?5l�[K[17Cembox>ffIlsfffffffl�[?5h[?5l�[K[18Cembox>ffIlsfffffffjl�[?5h[?5l�[K[19Cembox>ffIlsfffffffjfl�[?5h[?5l�[K[20Cembox>ffIlsfffffffjf�l�[?5h[?5l�[K[21Cembox>ffIlsfffffffjf�[?5h[?5ll�[?5h[?5l�[K[22Cembox>ffIlsfffffffjf�[?5h[?5ll�[?5h[?5l�[K[23Cembox>ffIlsfffffffjf�[?5h[?5l�l�[?5h[?5l�[K[24Cembox>ffIlsfffffffjf�[?5h[?5l�l�[?5h[?5l�[K[25Cembox>ffIlsfffffffjf�[?5h[?5l�lz�[?5h[?5l�[K[26Cembox>ffIlsfffffffjf�[?5h[?5l�lzx�[?5h[?5l�[K[27Cembox>ffIlsfffffffjf�[?5h[?5l�lzxi�[?5h[?5l�[K[28Cembox>ffIlsfffffffjf�[?5h[?5l�lzxit�[?5h[?5l�[K[29Cembox>ffIlsfffffffjf�[?5h[?5l�lzxit[?5h[?5l�[?5h[?5l�[K[30C[H[H[2Jembox>ffIlsfffffffjf�[?5h[?5l�lzxit[?5h[?5l�[?5h[?5l�[K[30Cembox>ffIlsfffffffjf�[?5h[?5l�lzxit[?5h[?5lW�[?5h[?5l�[K[31C
+ffIlsfffffffjf�[?5h[?5l: Command not found
+tish error: #-2
+embox>
+tembox>
+t[K[8Cembox>
+[K[7C�tembox>
+�t[K[9Ct��=�5
+�tt��=�5: Command not found
+tish error: #-2
+embox>
+�iembox>
+�i[K[6Cembox>p
+�i[K[7Cembox>pi
+�i[K[8Cembox>pin
+�i[K[9Cembox>pin2
+�i[K[10Cembox>pin2�
+�i[K[11C[?5h[?5lembox>pin2��
+�i[K[12Cembox>pin2���
+�i[K[13Cembox>pin2����
+�i[K[14C
+pin2����: Command not found
+tish error: #-2
+embox>
+exittntnexp�rm
+exittntnexp�rm: Command not found
+tish error: #-2
+embox>
+t��embox>
+t��[K[10C7i
+t��7i: Command not found
+tish error: #-2
+embox>
+tembox>
+t[K[8C�embox>
+t�[K[9C
+{
+t�: Command not found
+tish error: #-2
+embox>
+ti
+t: Command not found
+tish error: #-2
+embox>
+�embox>[K[6C
+embox>
+��l��lpinGpinGpin
+��l��lpinGpinGpin: Command not found
+tish error: #-2
+embox>
+po
+po: Command not found
+tish error: #-2
+embox>
+tttfi
+tttf: Command not found
+tish error: #-2
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+t��
+tttf: Command not found
+tish error: #-2
+embox>
+�FFK�it##�V�eey�eey���
+embox>
+��x%���x%Tx��xx
+��x���x%Tx��xx: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+tttttttttttttttttttttttttt�tttttttttt7tttttttttttt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

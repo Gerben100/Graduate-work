@@ -1,0 +1,99 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�dj
+�d: Command not found
+tish error: #-2
+embox>
+?`?@@@@@@@slo�ut``
+?`?@@@@@@@slo: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+2�embox>
+2[K[8Cporerexxit��Is
+2porerexxit��Is: Command not found
+tish error: #-2
+embox>
+�jtembox>
+�j[K[10Cl]embox>
+2porerexxit��Is[K[22C
+2porerexxit��Is: Command not found
+tish error: #-2
+embox>
+��m�g
+��m�: Command not found
+tish error: #-2
+embox>
+�:�embox>
+�:�[K[6Cembox>j
+�:�[K[7C
+j: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7C
+: Command not found
+tish error: #-2
+embox>
+�cJxex��cJxex�
+�cJxex: Command not found
+tish error: #-2
+embox>
+exitembox>
+�cJxex[K[14CJembox>
+�cJxexJ[K[6Cembox>c
+�cJxexJ[K[7Cembox>cx
+�cJxexJ[K[8Cembox>cxf
+�cJxexJ[K[9Cembox>cx
+�cJxexJ[K[8Cembox>cx�
+�cJxexJ[K[9Cembox>cx�
+�cJxexJ[K[6Cembox>cx�
+�cJxexJ[Kembox>cx�
+�cJxexJ[Kembox>c�x�
+�cJxexJ[Kembox>c�x�
+�cJxexJ[Kembox>c��x�
+�cJxexJ[K
+embox>
+�cDQxxsxxxx~iembox>
+�cDQxxsxxxx~[Kexit�y���
+�cDQ: Command not found
+tish error: #-2
+embox>
+�cJx~x��xi��
+�cJx~x�xi��: Command not found
+tish error: #-2
+embox>
+ii��
+ii��: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+embox>�cJlooutxexi�x)����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

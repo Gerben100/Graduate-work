@@ -1,0 +1,105 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>+go���ssssssss
++go���ssssssss: Command not found
+tish error: #-2
+embox>
+�����+gd��s�.�
+�����+gd: Command not found
+tish error: #-2
+embox>
++.���embox>
++.��[K[12Cembox>
++.��[K[12Ceo�
++: Command not found
+tish error: #-2
+embox>
+��cdembox>
+��c[K[10Cembox>
++[K[8C���
++���: Command not found
+tish error: #-2
+embox>
++go��embox>
++go��[K[6Cembox>
++go��[K[7Cembox>�
++go��[K[8Cembox>�+go��[K[8Cembox>��+go��[K[9C
+embox>
+embox>
+pineembox>
+pin[K[10C��embox>
++���[K[11C�
++����: Command not found
+tish error: #-2
+embox>
++go���j 
+embox>
+embox>
+embox>
++�`+�`embox>[K[6Cembox>[K[6C
+embox>
++embox>
++����[K[12C�G
+embox>embox>[K[6C
+embox>
+;
+;: Command not found
+tish error: #-2
+embox>
++gembox>
+;[K[8C
+;: Command not found
+tish error: #-2
+embox>
++�te� t
+embox>
+embox>embox>[K[6C
+embox>
+
+embox>
+embox>embox>[K[6Cembox>�[K[7C
+�: Command not found
+tish error: #-2
+embox>
++gogo�����j
+embox>
+embox>
+embox>
++cd�o-��[embox>
++cd�o-��[[K[6Cembox>�
++cd�o-��[[K[7Cembox>�
++cd�o-��[[K[8Cembox>�+cd�o-��[[K[8Cembox>��+cd�o-��[[K[9Cembox>��[+cd�o-��[[K[10Cembox>��[+cd�o-��[[K[11Cembox>��[+icd�o-��[[K[12Cembox>��[+iicd�o-��[[K[13Cembox>��[+iicd�o-��[[K[12Cembox>��[+i�icd�o-��[[K[13Cembox>��[+i�icd�o-��[
+�: Command not found
+tish error: #-2
+embox>
+w� ���
+w�: Command not found
+tish error: #-2
+embox>
+sZ��
+sZ��: Command not found
+tish error: #-2
+embox>
+dz��
+dz��: Command not found
+tish error: #-2
+embox>
+sl�
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

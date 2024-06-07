@@ -1,0 +1,72 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��t��ogo������ls���pitut��logo������������ep
+��t��ogo������ls���pitut��logo������������ep: Command not found
+tish error: #-2
+embox>pppitexitut��embox>pppitexitut��[K[6Cembox>�pppitexitut��[K[7C
+�pppitexitut��: Command not found
+tish error: #-2
+embox>
+���_t�embox>
+���_t[K[12Cngo��������lembox>
+���_tngo��������[K[23Cgo�d�embox>�pppitexitut��[K[20C�epitexit�embox>�pppitexitut���epitexit�[K[6Cembox>��pppitexitut���epitexit�[K[7Cembox>�t�pppitexitut���epitexit�embox>�t��pppitexitut���epitexit�embox>�t���pppitexitut���epitexit�embox>�t����pppitexitut���epitexit�embox>�t�����pppitexitut���epitexit�embox>�t������pppitexitut���epitexit�embox>�t����ѽ�pppitexitut���epitexit�embox>�t����ѽ��pppitexitut���epitexit�
+�t����ѽ��pppitexitut���epitexit�: Command not found
+tish error: #-2
+embox>epitexit�
+epitexit�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>�u
+�[K[8Cembox>�ut
+�[K[9Cembox>�ut�
+�[K[10Cembox>�ut��
+�[K[11Cembox>�ut��o
+�[K[12Cembox>�ut��o�
+�[K[13Cembox>�ut��o�o
+�[K[14Cembox>�ut��o�o�
+�[K[15Cembox>�ut��o�o��
+�[K[16Cembox>�ut��o�o���
+�[K[17Cembox>�ut��o�o����
+�[K[18Cembox>�ut��o�o�����
+�[K[19Cembox>�ut��o�o������
+�[K[20Cembox>�ut��o�o�������
+�[K[21Cembox>�ut��o�o��������
+�embox>�ut��o�o���������
+�embox>�ut��o�o����������
+�embox>�ut��o�o����������
+���pitut��������
+�ut��o�o����������: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>�
+�embox>�u
+�embox>�ut
+�embox>�ut�
+�embox>�ut��
+�embox>�ut��o
+�embox>�ut��og
+�embox>�ut��ogo
+�embox>�ut��ogo�
+�embox>�ut��ogo��
+�embox>�ut��ogo���
+�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

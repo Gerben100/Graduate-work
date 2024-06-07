@@ -1,0 +1,66 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�66cd>6@@embox>�66cd>6@@[K[15C��@@@@@@���@oexp@
+�66cd>6@@��@@@@@@���: Command not found
+tish error: #-2
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C��@@@@5logout6>�@@embox>
+�6656>6@@��@@@@5logout6>�@@[K[34C��@@@@\@@@?@@@@@@@@
+�6656>6@@��@@@@5logout6>�@@��@@@@\@@@?@@@@@@@@: Command not found
+tish error: #-2
+embox>@@@@@@expo
+@@@@@@expo: Command not found
+tish error: #-2
+embox>
+@@�
+embox>@@@@@@@@@@@@@@@@@@@@xG@@@?@@@@@@@@@@@@@@@
+embox>exqo
+exqo: Command not found
+tish error: #-2
+embox>
+�6656>6@@embox>
+�6656>6@@[K[16C@@@?@-@@@@@@@@@@@@@expo
+�6656>6@@: Command not found
+tish error: #-2
+embox>
+�Q656�6B@embox>
+�Q656�6B@[K[16C��@�
+embox>@�6B@embox>@�6B@[K[11C��@@@@@56�6B@embox>@�6B@��@@@@@56�6B@[K��@@@H@@@
+@�6B@��@@@: Command not found
+tish error: #-2
+embox>x@@@@@expo
+x@@@@@expo: Command not found
+tish error: #-2
+embox>
+�6A5�6O@�A
+@@@@expo: Command not found
+tish error: #-2
+embox>
+�6656>export6@@��@@@@@@@@@@@embox>[K[16C
+x@@@@@expo: Command not found
+tish error: #-2
+embox>@@@@@@@@@@@@@@@@expo
+embox>
+�6656>6@@@@\@@@@@@@@@@@@@@@expo
+�6656>6@@: Command not found
+tish error: #-2
+embox>
+�=656>6@A�lsc@@\@@=K\@@@=@@mx@@@��@Vxpo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

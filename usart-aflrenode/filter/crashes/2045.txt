@@ -1,0 +1,152 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>,T
+,T: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>,T[K[8Cdx?embox>,Tdx?[K[6Cembox>�,Tdx?[K[7Cembox>�,,Tdx?[K[8Cembox>�,T,Tdx?[K[9C
+�,T,Tdx?: Command not found
+tish error: #-2
+embox>
+oexpppp�ppppppqppppembox>
+oexpppp�ppppppqpppp[K[6Cembox>o
+oexpppp�ppppppqpppp[K[7Cembox>oq
+oexpppp�ppppppqpppp[K[8Cembox>oqT
+oexpppp�ppppppqpppp[K[9Cembox>oqTp
+oexpppp�ppppppqpppp[K[10Cembox>oqTpp
+oexpppp�ppppppqpppp[K[11Cembox>oqTppp
+oexpppp�ppppppqpppp[K[12Cembox>oqTpppp
+oexpppp�ppppppqpppp[K[13Cembox>oqTppppp
+oexpppp�ppppppqpppp[K[14Cembox>oqTppppp
+oexpppp�ppppppqpppp[K[15Cembox>oqTppppp�
+oexpppp�ppppppqpppp[K[16Cembox>oqTppppp�t
+oexpppp�ppppppqpppp[K[17Cembox>oqTppppp�t�
+oexpppp�ppppppqpppp[K[18Cembox>oqTppppp�t�(
+oexpppp�ppppppqpppp[K[19Cembox>oqTppppp�t�(
+oexpppp�ppppppqpppp[K[20C
+oqTppppp: Command not found
+tish error: #-2
+embox>
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��Uix
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��Uix: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��UixdxHembox>
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��UixdxHembox>T
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��UixdxHembox>T-
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��UixdxHembox>T-T
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��UixdxH
+T-T: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��Uix �,GG�,T
+�@�xi@@@@@Q?exp@�xi@@@@@Q?exp@��U@��Uix: Command not found
+tish error: #-2
+embox>
+$$�$T$$$T
+$$�$T$$$T: Command not found
+tish error: #-2
+embox>
+@oxi[��
+embox>d1iembox>
+$$�$T$$$T[K[16Cdxd�@ 
+embox>��$T
+embox>
+rt
+rt: Command not found
+tish error: #-2
+embox>
+iRT
+iRT: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+iRT[K[10CcdHHHH
+iRTcdHHHH: Command not found
+tish error: #-2
+embox>HTH
+HTH: Command not found
+tish error: #-2
+embox>T
+HTHT: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+embox>x{
+rt: Command not found
+tish error: #-2
+embox>
+
+embox>
+q��
+HTHTq�: Command not found
+tish error: #-2
+embox>
+���P#�
+��P: Command not found
+tish error: #-2
+embox>
+
+embox>pirt�
+pirt: Command not found
+tish error: #-2
+embox>
+pllrll�
+pllrll�: Command not found
+tish error: #-2
+embox>
+r
+embox>pr�
+pr: Command not found
+tish error: #-2
+embox>
+�
+HTH: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+x\i
+tish error: #-22
+embox>
+�Cx.
+�Cx: Command not found
+tish error: #-2
+embox>
+�lsr��D
+�lsr��D: Command not found
+tish error: #-2
+embox>
+��%@@@@@@@jjjjj.
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

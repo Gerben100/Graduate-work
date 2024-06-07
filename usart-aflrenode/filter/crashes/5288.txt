@@ -1,0 +1,98 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�������
+����: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[6Cembox>��[K[7Cembox>���[K[8C
+���: Command not found
+tish error: #-2
+embox>
+@
+embox>[?5h[?5l
+embox>�
+embox>
+
+embox>
+embox>@�
+embox>
+embox>_�
+_�: Command not found
+tish error: #-2
+embox>
+�export����ls��
+�export�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8Cembox>
+��[K[9Cembox>
+�i�[K[10Cembox>
+�it�[K[11Cembox>
+�ite�[K[12Cembox>
+�ite@�[K[13C
+tish error: #-22
+embox>
+@
+embox>��r
+embox>
+�g^��lex@embox>
+[K[7Cspin��=�
+tish error: #-22
+embox>
+�embox>
+�[K[8Cembox>
+��[K[9Cembox>
+��[K[10Cembox>
+��[K[11Cembox>
+��[K[12C�
+embox>
+: Command not found
+tish error: #-2
+embox>
+�
+embox>^<^�
+^: Command not found
+tish error: #-2
+embox>
+@embox>^[K[8C�dembox>[K[7C
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>embox>[K[6C��exit
+�: Command not found
+tish error: #-2
+embox>
+�}
+�}: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>d6F6>6T@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9C
+��@�@@@@@Qexport@: Command not found
+tish error: #-2
+embox>@@@@Qexport@<@@@@@D(xeN�I5d6>@��@@@@@
+@@@@Qexport@<@@@@@D: Command not found
+tish error: #-2
+embox>
+d�66F6>6T@6F6>6T@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

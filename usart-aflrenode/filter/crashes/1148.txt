@@ -1,0 +1,155 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�yx^
+�yx^: Command not found
+tish error: #-2
+embox>
+Y
+Y: Command not found
+tish error: #-2
+embox>
+�y
+tish error: #-22
+embox>
+@embox>
+[K[7Ci�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>�
+[K[8Cembox>�
+[K[9C
+embox>
+��z�
+tish error: #-22
+embox>
+��y�i�
+��y�i�: Command not found
+tish error: #-2
+embox>
+.embox>
+[K[9Cci�
+tish error: #-22
+embox>
+      �     ��                                
+: Command not found
+tish error: #-2
+embox>           e
+e: Command not found
+tish error: #-2
+embox>
+��yMi��yM~��
+�: Command not found
+tish error: #-2
+embox>
+embox>
+��ނ
+tish error: #-22
+embox>
+�WcM�
+tish error: #-22
+embox>
+[H[H[2J��ci�yci�[H[2Jy7i�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>�
+embox>
+���yAi�
+���yAi�: Command not found
+tish error: #-2
+embox>
+
+�z: Command not found
+tish error: #-2
+embox>
+�9�ogout
+tish error: #-22
+embox>
+a�y�w
+a: Command not found
+tish error: #-2
+embox>
+�ex�rt�
+�exrt�: Command not found
+tish error: #-2
+embox>
+@wog�`�
+@wog�`�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+
+embox>
+�yci�
+tish error: #-22
+embox>
+������YicQd
+�����YicQd: Command not found
+tish error: #-2
+embox>
+�y�����i�����L
+tish error: #-22
+embox>
++�yi�����V
+tish error: #-22
+embox>
+�bV�����L
+tish error: #-22
+embox>
+ ��
+��L: Command not found
+tish error: #-2
+embox>
+d
+d: Command not found
+tish error: #-2
+embox>
+�yi����L
+tish error: #-22
+embox>
+�xi�exit*
+tish error: #-22
+embox>
+�yi�����L
+tish error: #-22
+embox>
+�@L
+tish error: #-22
+embox>
+��y)i�����L
+tish error: #-22
+embox>
+M
+M: Command not found
+tish error: #-2
+embox>
+�"
+�": Command not found
+tish error: #-2
+embox>
+in��
+embox>����l�����������������������������[H[H[2J�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

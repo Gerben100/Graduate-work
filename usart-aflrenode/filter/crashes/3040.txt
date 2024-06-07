@@ -1,0 +1,116 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>rembox>r[K[6Cembox>�r[K[7Cembox>�r[K[8Cembox>� r[K[9Cembox>� rr[K[10Cembox>� rqr[K[11Cembox>� rqr[K[12Cembox>� rqr[K[13Cembox>� rq3r[K[14Cembox>� rqr3[K[14C
+�: Command not found
+tish error: #-2
+embox>
+�rembox>
+�r[K[6Cembox>
+�r[K[7Cembox>r
+�r[K[8Cembox>rX
+�r[K[9Cembox>rX�
+�r[K[10Cembox>rX� 
+�r[K[11C
+embox>
+r�����������cd�����rembox>
+r�����������cd�����r[K[30Cembox>
+r�����������cd�����r[K[31Cembox>
+r�����������cd�����rl[K[32Cembox>
+r�����������cd�����rlo[K[33Cembox>
+r�����������cd�����rlog[K[34Cembox>
+r�����������cd�����rlogo[K[35Cembox>
+r�����������cd�����rlogo�[K[36Cembox>
+r�����������cd�����rlogo��[K[37Cembox>
+r�����������cd�����rlogo��[K[38Cembox>
+r�����������cd�����rlogo��r[K[39Cembox>
+r�����������cd�����rlogo��r[K[40Cembox>
+r�����������cd�����rlogo��r[K[39Cembox>
+r�����������cd�����rlogo��r[K[40Cembox>
+r�����������cd�����rlogo��rl[K[41Cembox>
+r�����������cd�����rlogo��rlo[K[42Cembox>
+r�����������cd�����rlogo��rlog[K[43Cembox>
+r�����������cd�����rlogo��rlogo[K[44Cembox>
+r�����������cd�����rlogo��rlogou[K[45Cembox>
+r�����������cd�����rlogo��rlogouZ[K[46Cembox>
+r�����������cd�����rlogo��rlogouZ[K[46Cembox>
+r�����������cd�����rlogo��rlogouZ [K[47Cembox>
+r�����������cd�����rlogo��rlogouZ r[K[48Cembox>
+r�����������cd�����rlogo��rlogouZ re[K[49Cembox>
+r�����������cd�����rlogo��rlogouZ re[K[50Cembox>
+r�����������cd�����rlogo��rlogouZ re�[K[51Cembox>
+r�����������cd�����rlogo��rlogouZ re��[K[52C
+r�����������cd�����r: Command not found
+tish error: #-2
+embox>�[H[H[2Jembox>�[K[7C���
+�: Command not found
+tish error: #-2
+embox>
+pns
+pns: Command not found
+tish error: #-2
+embox>
+�rrj
+�: Command not found
+tish error: #-2
+embox>
+�{{{w{{{
+�{{{w{{{: Command not found
+tish error: #-2
+embox>
+ri
+ri: Command not found
+tish error: #-2
+embox>
+rr����lsj
+rr: Command not found
+tish error: #-2
+embox>
+membox>[Kembox>[K
+embox>
+rrd���embox>[K[17Cj
+rr: Command not found
+tish error: #-2
+embox>
+rkembox>
+rk[Kembox>
+rk[Kembox>
+rk[Kembox>[K[9Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+�: Command not found
+tish error: #-2
+embox>
+rr�Fpp@e�embox>
+rr�Fpp@e�embox>
+rr�Fpp@e�embox>
+rr�Fpp@e�embox>[K
+j: Command not found
+tish error: #-2
+embox>
+rrls
+embox>
+r���;
+embox>
+
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+rrpcdi
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

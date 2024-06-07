@@ -1,0 +1,48 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�c@d8e�66F6>6T@������@�c@x������@�c@xpo�@c
+�c@: Command not found
+tish error: #-2
+embox>5656>6T@embox>5656>6T@[K[14C��������embox>5656>6T@�������[K[21C�����embox>5656>6T@������������[K[6Cembox>�c@[K[9C����@@@@@@/@@@\
+�c@: Command not found
+tish error: #-2
+embox>
+�c@�66F6>6T@����embox>�c@[K[9C�@@�c@xport@<@@@@@@@@\@@@@@@?e
+�c@�@@�c@xport@<@@@@@@@@\@@@@@@?e: Command not found
+tish error: #-2
+embox>xp@��embox>xp@��[K[12C�@c5656>6T@embox>xp@���@c5656>6T@[K[23C�@@@@@@@@@?������������embox>xp@���@c5656>6T@�@@@@@@@@@?�����������[K����
+xp@��: Command not found
+tish error: #-2
+embox>�embox>xp@��[K[11C����@@@@@@/@@@\
+xp@��: Command not found
+tish error: #-2
+embox>
+�c@�@@@?�����66F6>6T@������@@�c@@@@?exp@��embox>
+�c@�@@@?�����66F6>6T@������@@�c@@@@?exp@��[K�@
+�c@�@@@?�����66F6>6T@������@@�c@@@@?exp@��: Command not found
+tish error: #-2
+embox>c5656>6T@embox>c5656>6T@[K[15C�@@@@@T@@@?������������embox>c5656>6T@�@@@@@T@@@?����������������embox>[K[49C����
+�c@�@@@?�����66F6>6T@������@@�c@@@@?exp@��: Command not found
+tish error: #-2
+embox>�@c5656>6T@embox>�@c5656>6T@[K�Z@@@@@A@@@\
+�@c5656>6T@�Z@@@@@A@@@\: Command not found
+tish error: #-2
+embox>
+�c@�66F6>6T@������@@�c@]pErt@<@@@@embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

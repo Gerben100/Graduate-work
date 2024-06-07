@@ -1,0 +1,106 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��I�pin�embox>��I�pin�[K[17C/�x�ittembox>��I�pin�/�x�it[K[23C�
+��I�pin: Command not found
+tish error: #-2
+embox>
+%�Ietembox>
+%�Ie[K[12C�
+%: Command not found
+tish error: #-2
+embox>
+g?�pum�u
+g?�: Command not found
+tish error: #-2
+embox>
+msH�
+�
+msH�: Command not found
+tish error: #-2
+embox>
+r�tembox>
+r�[K[12Co
+r�: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[10C�embox>
+�[K[11C�
+�: Command not found
+tish error: #-2
+embox>
+������RtRtcdI�tembox>
+������RtRtcdI�[K[29C�
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Cembox>
+[K[7C�iembox>
+�i[K[9Cembox>
+�i[K[10Cembox>
+��i[K[11Cembox>
+��yi[K[12Cembox>
+��y�i[K[13Cembox>
+��y��i[K[14Cembox>
+��y���i[K[15Cembox>
+��y���ei[K[16Cembox>
+��y���ei[Kembox>
+��y���ei[Kembox>
+��y���ei[Kembox>
+��y���e�i[K[18Cembox>
+��y���e�yi[K[19C
+�: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+�y
+tish error: #-22
+embox>
+embox>
+[Kembox>
+[K�embox>
+�[Kembox>
+�x[Kembox>[K[11Cembox>[K[12Cembox>[K[12C�ye��eembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22C
+tish error: #-22
+embox>
+embox>
+[Kembox>
+[K�����xeiembox>[K[16Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24C
+�����: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C���'xeembox>���'xeembox>g���'xeembox>g���'xeembox>g���'xeembox>g�y��'xeembox>g�ye��'xeembox>g�ye���'xeembox>g�ye����'xeembox>g�ye��e��'xeembox>g�ye��ep��'xeembox>g�ye��epi��'xeembox>g�ye��epin��'xeembox>g�ye��epin/��'xeembox>g�ye��epin/��'xeembox>g�ye��epin/��'xeembox>
+������yy
+������yy: Command not found
+tish error: #-2
+embox>
+S��ei�ye�
+�: Command not found
+tish error: #-2
+embox>
+��wei
+�: Command not found
+tish error: #-2
+embox>
+�����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

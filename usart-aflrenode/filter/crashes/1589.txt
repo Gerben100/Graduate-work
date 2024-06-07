@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�gexortdls`
+�gexortdls`: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��
+��: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�p
+[K[8Cembox>�pi
+[K[9Cembox>�piw
+[K[10Cembox>�piw�
+[K[11C
+�piw�: Command not found
+tish error: #-2
+embox>
+c���embox>
+c���[K[12Cembox>
+c���[K[13Cembox>
+c���[K[14C
+c��: Command not found
+tish error: #-2
+embox>
+~������cd���Wls�m
+tish error: #-22
+embox>
+embox>
+[K[7C��embox>
+c��[K[10C
+c��: Command not found
+tish error: #-2
+embox>
+�������������
+embox>W�
+W�: Command not found
+tish error: #-2
+embox>
+cd���W����o��o���
+embox>logeu��embox>W�[K[8C}s
+W�}s: Command not found
+tish error: #-2
+embox>
+�
+embox>o
+o: Command not found
+tish error: #-2
+embox>
+cdpinW���o�e�*����pinW���o�e��exiembox>[K[51C[H[H[2Jembox>[K[51C�embox>o[K[7C
+o: Command not found
+tish error: #-2
+embox>
+embox>o[K[7C
+embox>embox>
+[K[7C
+tish error: #-22
+embox>
+cd��W��
+embox>�embox>
+[K[7C�embox>o[K
+o: Command not found
+tish error: #-2
+embox>
+cd���W���c���
+embox>�embox>o[K
+o: Command not found
+tish error: #-2
+embox>
+�����W���o퓂
+embox>`�``p@embox>`�``pembox>o[K
+o: Command not found
+tish error: #-2
+embox>
+q�
+q�: Command not found
+tish error: #-2
+embox>
+��x
+embox>
+ eex
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

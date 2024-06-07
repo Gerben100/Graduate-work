@@ -1,0 +1,144 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��[H[H[2Jembox>��[K[8C�
+���: Command not found
+tish error: #-2
+embox>
+�h��
+�h�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+������
+����: Command not found
+tish error: #-2
+embox>
+~embox>
+����[K[11C��+embox>
+�[K[8C1
+�1: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����*�embox>
+����*�[K[13Cembox>
+����*[?5h[?5l�[K[14Cembox>
+����*[?5h[?5l��[K[15Cembox>
+����*[?5h[?5l�@�[K[16Cembox>
+����*[?5h[?5l�@��[K[17Cembox>
+����*[?5h[?5l�@���[K[18Cembox>
+����*[?5h[?5l�@����[K[19Cembox>
+����*[?5h[?5l�@�����[K[20Cembox>
+����*[?5h[?5l�@�����[K[21Cembox>
+����*[?5h[?5l�@�����[K[22Cembox>
+����*[?5h[?5l�@������[K[23C
+����: Command not found
+tish error: #-2
+embox>
+����e����t�
+����: Command not found
+tish error: #-2
+embox>
+e�e���in
+e�e���in: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ejogout
+�ejogout: Command not found
+tish error: #-2
+embox>
+v��j
+tish error: #-22
+embox>
+�i�piembox>
+�i�piembox>
+�i�piembox>�
+�i�piembox>��
+�i�pi
+embox>
+�2�3�4d�embox>
+[K[7C��embox>[K[6C~�cd��|���
+~�cd: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+@eellogout
+embox>
+
+embox>
+����lH
+����lH: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+���ls
+���ls: Command not found
+tish error: #-2
+embox>
+�R�
+: Command not found
+tish error: #-2
+embox>
+���"�
+���"�: Command not found
+tish error: #-2
+embox>
+�R���
+�R��: Command not found
+tish error: #-2
+embox>
+�R�exit
+�R�exit: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�3����
+�3���: Command not found
+tish error: #-2
+embox>
+�R�+��
+embox>
+pin�R�����
+pin�R�����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�Rexport����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

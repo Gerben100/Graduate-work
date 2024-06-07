@@ -1,0 +1,94 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xcxeiembox>xcxei[K[12Cembox>xcxeii[K[13Cembox>xcxeii[K[14Cembox>xcxeii[K[13Cembox>xcxeii[K[14Cembox>xcxeiic[K[15Cembox>xcxeiicu[K[16Cembox>xcxeiicu[K[17Cembox>xcxeiicu[K[16Cembox>xcxeiicud[K[17Cembox>xcxeiicud�[K[18Cembox>xcxeiicud�u[K[19Cembox>xcxeiicud�ue[K[20Cembox>xcxeiicud�ue�[K[21C
+xc: Command not found
+tish error: #-2
+embox>
+xc�
+embox>xeHembox>xeH[K[9Cembox>xeHi[K[10Cembox>xeHi[K[11Cembox>xeHi[K[10Cembox>xeHi[K[11Cembox>xeHi�[K[12Cembox>xeHi�u[K[13Cembox>xeHi�ue[K[14Cembox>xeHi�ue�[K[15C
+xeHi: Command not found
+tish error: #-2
+embox>
+xclcdembox>
+xclcd[K[12Cembox>
+xclcd[K[13Cembox>
+xclc�d[K[14Cembox>
+xclc�ud[K[15Cembox>
+xclc�utd[K[16Cembox>
+xclc�utid[K[17Cembox>
+xclc�utid[K[18Cembox>
+xclc�utiod[K[19Cembox>
+xclc�utiogd[K[20Cembox>
+xclc�utiogod[K[21Cembox>
+xclc�utiogoud[K[22Cembox>
+xclc�utiogoued[K[23Cembox>
+xclc�utiogoue�d[K[24C
+xc: Command not found
+tish error: #-2
+embox>
+xcxexcxeiembox>
+xcxexcxei[K[18Cembox>
+xcxexcxeii[K[19Cembox>
+xcxexcxeii[K[20C
+xc: Command not found
+tish error: #-2
+embox>�iembox>�i[K[9Cembox>�ii[K[10Cembox>�ii[K[11Cembox>�ii[K[10Cembox>�ii[K[11Cembox>�ii�[K[12Cembox>�ii�u[K[13Cembox>�ii�ue[K[14Cembox>�ii�ue�[K[15C
+embox>
+xdo
+embox>�ut
+�ut: Command not found
+tish error: #-2
+embox>
+{���embox>
+{��[K[10C
+{��: Command not found
+tish error: #-2
+embox>
+J
+J: Command not found
+tish error: #-2
+embox>
+x�lelllllllllllla
+x�: Command not found
+tish error: #-2
+embox>
+h�embox>
+h[K[8C
+h: Command not found
+tish error: #-2
+embox>
+xeembox>
+xe[K[10C
+x: Command not found
+tish error: #-2
+embox>
+edx
+edx: Command not found
+tish error: #-2
+embox>
+x ! eex
+x: Command not found
+tish error: #-2
+embox>
+x���
+x���: Command not found
+tish error: #-2
+embox>
+m�cOOOg2�OZO`O2OOOOOO`OOOOOjOOTOOOOOOOOOde
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

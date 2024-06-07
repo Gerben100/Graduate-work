@@ -1,0 +1,161 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�xits
+�xits: Command not found
+tish error: #-2
+embox>
+hh
+hh: Command not found
+tish error: #-2
+embox>
+a��^
+a��^: Command not found
+tish error: #-2
+embox>
+
+embox>p
+p: Command not found
+tish error: #-2
+embox>
+igembox>p[K[7Ct�
+p: Command not found
+tish error: #-2
+embox>
+
+embox>pinls�
+pinls�: Command not found
+tish error: #-2
+embox>
+�im�
+tish error: #-22
+embox>
+n�
+n�: Command not found
+tish error: #-2
+embox>
+<
+embox>pi�R
+pi: Command not found
+tish error: #-2
+embox>
+�
+embox>pin�
+pin�: Command not found
+tish error: #-2
+embox>
+[H[H[2Jembox>
+[K[10Cpin
+tish error: #-22
+embox>
+}
+}: Command not found
+tish error: #-2
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+$ $$$$$$$�
+$: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+���i
+embox>pn�
+pn�: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+ ls
+tish error: #-22
+embox>
+p�
+tish error: #-22
+embox>
+
+embox>p\n�
+p\n�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��export�
+��export�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+: Command not found
+tish error: #-2
+embox>
+lS[?5h[?5l%%ls
+lS%%: Command not found
+tish error: #-2
+embox>
+ls[?5h[?5l%%#l
+ls%%: Command not found
+tish error: #-2
+embox>
+_e_�[H[H[2J�
+_e_��: Command not found
+tish error: #-2
+embox>
+l%%���s
+embox>
+ls[?5h[?5l%��ls
+l%��: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+lsexiexit[H[H[2Jls't[H[2Jls'
+k: Command not found
+tish error: #-2
+embox>
+ls
+ls: Command not found
+tish error: #-2
+embox>
+ns[?5h[?5l%%ls
+ns%%: Command not found
+tish error: #-2
+embox>
+l���%
+l���: Command not found
+tish error: #-2
+embox>
+
+embox>pBdcd��\cd��B���������////�////�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

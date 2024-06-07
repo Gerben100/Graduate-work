@@ -1,0 +1,240 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i�
+embox>
+embox>
+[K[7CWWW
+tish error: #-22
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>
+aa
+aa: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C �
+tish error: #-22
+embox>
+embox>
+[K[7Cembox>
+[K[7C�@ 
+�@: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7Ccd���
+cd���: Command not found
+tish error: #-2
+embox>
+\\\\\\\\\\\\\\}\\\\@\@@eYp@�@@@@?@@@@@@@@@@@@\@:ex
+\\\\\\\\\\\\\\}\\\\@\@@eYp@�@@@@?@@@@@@@@@@@@\@:ex: Command not found
+tish error: #-2
+embox>Ko�
+Ko�: Command not found
+tish error: #-2
+embox>
+p[nembox>
+p[n[K
+p[n: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox> 
+embox> '
+embox> ''
+embox> '''
+embox> ''''
+embox> '''''
+embox> ''''''
+embox> '''''''
+embox> ''''''''
+embox> '''''''''
+embox> ''''''''''
+embox> '''''''''''
+embox> '''''''''''&
+embox> '''''''''''&�
+embox>
+p[n'''''embox>Ko�'''�'''[H[H[2Jembox>Ko�'''�''''%'l
+Ko�'''�: Command not found
+tish error: #-2
+embox>
+"&
+(null): Command not found
+tish error: #-2
+embox>
+ �s
+�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�rt
+tish error: #-22
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+�ii�i
+tish error: #-22
+embox>
+�s
+tish error: #-22
+embox>
+exit�
+exit�: Command not found
+tish error: #-2
+embox>
+diMdi
+tish error: #-22
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+'ii�ed
+tish error: #-22
+embox>
+qoTsexp��tl
+Ko�'''�exp��t: Command not found
+tish error: #-2
+embox>
+����i
+����i: Command not found
+tish error: #-2
+embox>
+l ��icd
+l: Command not found
+tish error: #-2
+embox>
+*�ii�i
+*: Command not found
+tish error: #-2
+embox>
+�����
+�: Command not found
+tish error: #-2
+embox>
+ekpOrtxb
+ekpOrtxb: Command not found
+tish error: #-2
+embox>
+�RR
+�RR: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+xo�rxxo�rx.
+tish error: #-22
+embox>
+@I!pY!
+tish error: #-22
+embox>
+b
+b: Command not found
+tish error: #-2
+embox>
+b
+tish error: #-22
+embox>
+��b
+tish error: #-22
+embox>
+�
+embox>s
+embox>
+u
+u: Command not found
+tish error: #-2
+embox>
+e
+embox>
+�D�e���exi��e
+tish error: #-22
+embox>
+`
+`: Command not found
+tish error: #-2
+embox>
+exit�exive
+(null): Command not found
+tish error: #-2
+embox>
+�i[?5h[?5l
+tish error: #-22
+embox>
+q
+q: Command not found
+tish error: #-2
+embox>
+���ei
+tish error: #-22
+embox>
+
+e: Command not found
+tish error: #-2
+embox>
+��Ei
+��Ei: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+�66=���cd
+�66=�: Command not found
+tish error: #-2
+embox>
+ei�
+embox>�d��
+(null): Command not found
+tish error: #-2
+embox>
+�66=XXXXXXXXXXXXXXXXMXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+�66=: Command not found
+tish error: #-2
+embox>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

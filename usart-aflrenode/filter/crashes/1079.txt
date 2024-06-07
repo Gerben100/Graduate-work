@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ecdtexcd�a;
+ecdtex: Command not found
+tish error: #-2
+embox>
+e
+e: Command not found
+tish error: #-2
+embox>
+
+a;
+a;: Command not found
+tish error: #-2
+embox>
+exembox>
+
+a;[K[10Cc�
+a;: Command not found
+tish error: #-2
+embox>
+uuembox>
+uu[K[6Cembox>�
+uu[K[7Cembox>��
+uu[K[8Cembox>��
+uu[K[9Cembox>��
+uu[K[6Cembox>���
+uu[K[7Cembox>�}��
+uu[K[8Cembox>�}��
+uu[K[9C
+�}: Command not found
+tish error: #-2
+embox>
+�xcd�aN
+�x: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+kx�embox>
+kx�[K[6Cembox>d
+kx�[K[7Cembox>d
+kx�[K[8Cembox>dk
+kx�[K[9Cembox>dkx
+kx�[K[10Cembox>dkxS
+kx�[K[11Cembox>dkxS�
+kx�[K[12Cembox>dkxS�;
+kx�[K[13C
+d: Command not found
+tish error: #-2
+embox>
+exembox>
+ex[K[6Cembox>(
+ex[K[7Cembox>(
+ex[K[8Cembox>(R
+ex[K[9Cembox>(Rd
+ex[K[10Cembox>(Rd�
+ex[K[11Cembox>(Rd�x
+ex[K[12Cembox>(Rd�x
+ex[K[13Cembox>(Rd�x1
+ex[K[14Cembox>(Rd�x1
+ex[K[15Cembox>(Rd�x1d
+ex[K[16Cembox>(Rd�x1d|
+ex[K[17Cembox>(Rd�x1d|�
+ex[K[18Cembox>(Rd�x1d|�a
+ex[K[19Cembox>(Rd�x1d|�a�
+ex[K[20C
+(: Command not found
+tish error: #-2
+embox>
+;�Qor@��x�Y�a;
+;�Qor@: Command not found
+tish error: #-2
+embox>
+exeembox>
+;�Qor@[K[13C+
+;�Qor@+: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8Cembox>
+�[K[9Cembox>
+��[K[10Cembox>
+��d[K[11Cembox>
+��d�[K[12Cembox>
+��d�:[K[13Cembox>
+��d�:c[K[14Cembox>
+��d�:ca[K[15C
+�: Command not found
+tish error: #-2
+embox>
+embox>[K�
+embox>
+II�xi[?5h[?5lWe�/t
+II�xi[?5h[?5lWe�/t: Command not found
+tish error: #-2
+embox>
+Iembox>
+[K[7Cembox>[K[6C�Iembox>�[K[7CIIembox>�Iembox>�[K[7Cembox>[K[6C
+embox>
+IGהjGߔi�
+IGהjGߔi�: Command not found
+tish error: #-2
+embox>
+0*�/�
+0*�/�: Command not found
+tish error: #-2
+embox>
+`cdlsW�WpQW�/export�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

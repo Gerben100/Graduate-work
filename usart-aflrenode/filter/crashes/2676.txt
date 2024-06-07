@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���&
+���&: Command not found
+tish error: #-2
+embox>
+embox>���&[K[10C�
+���&�: Command not found
+tish error: #-2
+embox>
+embox>���&�[K[11Cpmnembox>���&�pmn[K[6Cembox>���&[K[10C^inembox>���&^in[K[6Cembox>��&^in[K[6Cembox>2��&^in[K[7Cembox>2�&^in[K[7Cembox>2��&^in[K[8C
+2��&^in: Command not found
+tish error: #-2
+embox>
+embox>2��&^in[K[13Cpmnembox>2��&^inpmn[K[6Cembox>���&�pmn[K[14Cpin
+���&�pmnpin: Command not found
+tish error: #-2
+embox>
+pl�nembox>
+pl�n[K[6Cembox>n
+pl�n[K[7Cembox>n�
+pl�n[K[8Cembox>n��
+pl�n[K[9Cembox>n���
+pl�n[K[10Cembox>n���pl�n[K[10C
+n���pl�: Command not found
+tish error: #-2
+embox>
+embox>n���pl�[K[14Cpmn�inembox>n���pl�pmn�in[K[6Cembox>���pl�pmn�in[K[6Cembox>���pl�pmn�in[K[7Cembox>���&�pmnpin[Kp
+���&�pmnpinp: Command not found
+tish error: #-2
+embox>
+embox>���&�pmnpinp[Kgout�o�n�
+���&�pmnpinp: Command not found
+tish error: #-2
+embox>
+embox>���&�pmnpinp[Kxlsgolembox>[K[6Cxlsgolcgcgcuembox>xlsgolcgcgc[K[17Co
+xlsgolcgcgco: Command not found
+tish error: #-2
+embox>
+embox>[K[18C�mnembox>[K[6Cembox>[K[25Cpinembox>[K[6Cembox>[K[6Cembox>[K[7Cembox>[K[7Cembox>[K[8C
+�: Command not found
+tish error: #-2
+embox>
+Pembox>
+Pembox>�[K[7Cinembox>�inembox>�inembox>�inembox>�inembox>�inembox>�inembox>inembox>inembox>nembox>n
+: Command not found
+tish error: #-2
+embox>
+lsp
+p: Command not found
+tish error: #-2
+embox>
+pmn
+: Command not found
+tish error: #-2
+embox>
+cd�cd
+cd�cd: Command not found
+tish error: #-2
+embox>
+�pmp�pmnpinin
+pi: Command not found
+tish error: #-2
+embox>
+N�W�@
+N: Command not found
+tish error: #-2
+embox>
+pmnph(xeN�@koy
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

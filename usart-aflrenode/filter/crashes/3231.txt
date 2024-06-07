@@ -1,0 +1,39 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�embox>
+[K[7Ccd�66 6>embox>
+cd�66 6[K[14CaJ@@embox>
+cd�66 6aJ@@[K[6Cembox>e
+cd�66 6aJ@@[K[7Cembox>ex
+cd�66 6aJ@@[K[8Cembox>exi
+cd�66 6aJ@@[K[9Cembox>exit
+cd�66 6aJ@@[K[10Cembox>exit
+cd�66 6aJ@@[K[11Cembox>exit�
+cd�66 6aJ@@[K[12Cembox>exit�e
+cd�66 6aJ@@[K[13Cembox>exit�ex
+cd�66 6aJ@@[K[14Cembox>exit�exp
+cd�66 6aJ@@[K[15Cembox>exit�exp@
+cd�66 6aJ@@[K[16Cembox>exit�exp@i
+cd�66 6aJ@@[K[17Cembox>exit�exp@i@
+cd�66 6aJ@@[K[18Cembox>exit�exp@i@`
+cd�66 6aJ@@[K[19Cembox>exit�exp@i@`e
+cd�66 6aJ@@[K[20Cembox>exit�exp@i@`ex
+cd�66 6aJ@@[K[21C
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

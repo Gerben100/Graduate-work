@@ -1,0 +1,87 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>exp�embox>[K[6C�d�o�pex�ortembox>�d�o�pex�ort[K[18C/ls�_�iteembox>�d�o�pex�ort/ls�_�ite[K[29C/
+�d�o�pex�ort/ls�_: Command not found
+tish error: #-2
+embox>
+embox>�d�o�pex�ort/ls�_[K[24Cd��embox>�d�o�pex�ort/ls�_d��[K[6Cembox>0�d�o�pex�ort/ls�_d��[K[7Cembox>0��d�o�pex�ort/ls�_d��[K[8Cembox>0�x�d�o�pex�ort/ls�_d��[K[9Cembox>0�xd�o�pex�ort/ls�_d��[K[9Cembox>0�xd�o�pex�ort/ls�_d��[K[10Cembox>0�xd��o�pex�ort/ls�_d��[K[11Cembox>0�xd�i�o�pex�ort/ls�_d��[K[12Cembox>0�xd�it�o�pex�ort/ls�_d��[K[13Cembox>0�xd�ite�o�pex�ort/ls�_d��[K[14Cembox>0�xd�ite[K[14C/
+0�xd�ite/: Command not found
+tish error: #-2
+embox>
+,/
+,/: Command not found
+tish error: #-2
+embox>
+.0
+.0: Command not found
+tish error: #-2
+embox>
+�dexpnrt
+�dexpnrt: Command not found
+tish error: #-2
+embox>
+embox>
+�dexpnrt[K[15Cd��port����d����teembox>
+�dexpnrtd��port����d����te[K[33C/
+�dexpnrtd��port����d����te/: Command not found
+tish error: #-2
+embox>
+embox>[K[34Cd�����/�x3���embox>[K[56C
+�dexpnrtd��port����d����te/d���: Command not found
+tish error: #-2
+embox>
+embox>[K[34Cdembox>
+�dexpnrt[K[15C��embox>
+�dexpnrt��[K/�x�Zteembox>[K[28C/
+�dexpnrt�: Command not found
+tish error: #-2
+embox>
+embox>[K[16Cdembox>[K[35C��embox>[Kembox>[K/�xembox>
+�dexpnrt[K[15C�Kt
+�dexpnrt�Kt: Command not found
+tish error: #-2
+embox>
+j�������pinxembox>
+�dexpnrt�Kt[K!x iteembox>
+�dexpnrt�Kt!x ite/
+�dexpnrt�Kt!x: Command not found
+tish error: #-2
+embox>
+embox>[Kdembox>[K[18C��cdembox>[K[24C/�x��iteembox>[K[33C?
+�dexpnrt�Kt�: Command not found
+tish error: #-2
+embox>
+embox>[K[21Cdembox>[K[18Cdnd��W�o�embox>[K[28C
+�dexpnrt�Ktdnd: Command not found
+tish error: #-2
+embox>
+embox>[K[22Cdembox>[K[18Cdce~dpintlson
+�dexpnrt�Ktdce~dpintlson: Command not found
+tish error: #-2
+embox>
+�dembox>[K[23Cdue~
+�dexpnrt�Kt!xddddue~: Command not found
+tish error: #-2
+embox>
+d0�ue�dexit~�oVo
+d0�ue�dexit~�oVo: Command not found
+tish error: #-2
+embox>
+embox>[Kdembox>[Kdue~d`xitlsoK
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

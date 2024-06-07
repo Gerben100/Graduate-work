@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+uuuuuuuuelogmut
+uuuuuuuuelogmut: Command not found
+tish error: #-2
+embox>
+��cd
+��cd: Command not found
+tish error: #-2
+embox>
+E�
+E�: Command not found
+tish error: #-2
+embox>
+��lpin*embox>
+��lpin*[K[17Ci
+��lpin: Command not found
+tish error: #-2
+embox>
+�cd�embox>
+�cd�[K[11Clog�ytembox>
+��lpin[K[14C
+��lpin: Command not found
+tish error: #-2
+embox>
+���uYg lt�embox>
+���uYg lt�[K[17Ci
+���uYg: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>
+���uYg lt�i[K[18Cembox>
+���uYg lt�[K[17Cembox>
+���uYg lt[K[16Cembox>
+���uYg l[K[15Cembox>
+���uYg [K[14Cembox>
+���uYg[K[13Cembox>
+���uY[K[12Cembox>
+���u[K[11Cembox>
+���[K[10Cembox>
+��[K[9Cembox>
+�[K[8Cembox>
+[K[7Cembox>[K[6C�embox>[K[6C
+embox>
+��embox>
+��[K[9C�embox>
+���[K[10Cmo�ou�embox>
+���mo�ou�[K[16C�embox>
+���mo�ou��[K[17Cdo�outdl
+���mo�ou��do�outd: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[8Clogpin���I
+�logpin�: Command not found
+tish error: #-2
+embox>
+pembox>
+�logpin�[K[15Cnn`
+�logpin�nn`: Command not found
+tish error: #-2
+embox>
+�j
+�j: Command not found
+tish error: #-2
+embox>
+�oRig
+�o: Command not found
+tish error: #-2
+embox>
+��lot�zi
+��lot�: Command not found
+tish error: #-2
+embox>
+���ogo������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

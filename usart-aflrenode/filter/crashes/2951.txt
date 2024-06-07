@@ -1,0 +1,154 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>8eembox>8e[K[9Cembox>8e[K[10C����
+embox>
+eembox>
+e[K[10Ceembox>
+ee[K[13C!p
+tish error: #-22
+embox>
+
+embox>�igotembox>�igot[K[6C
+�i: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>�
+[K[9Cembox>�
+[K[10Cembox>�
+[K[11Cembox>�g
+[K[12Cembox>�go
+[K[13Cembox>�got
+[K[14Cembox>�got
+[K[15Cembox>�got
+[K[6C
+�: Command not found
+tish error: #-2
+embox>
+iipin@
+tish error: #-22
+embox>
+6>6T=
+6>6T=: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�export
+�export: Command not found
+tish error: #-2
+embox>
+g�igotembox>
+g�igot[K[6C
+tish error: #-22
+embox>
+i�embox>
+i[K[10Cstembox>
+ist[K[6C
+tish error: #-22
+embox>
+��i�gotembox>
+��i�got[K[6C
+��i: Command not found
+tish error: #-2
+embox>
+dx`iiiiiiiicdiiiiiiiiiiiiiiiiiiiembox>
+dx`iiiiiiiicdiiiiiiiiiiiiiiiiiii
+tish error: #-22
+embox>
+bo�g
+bo: Command not found
+tish error: #-2
+embox>
+embox>
+
+tish error: #-22
+embox>
+E�
+E�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+E���
+���: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P
+embox>P
+embox>
+EP�
+EP�: Command not found
+tish error: #-2
+embox>
+_
+_: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P[H[H[2J
+embox>�Hx
+�Hx: Command not found
+tish error: #-2
+embox>
+E��
+E��: Command not found
+tish error: #-2
+embox>
+B\�B
+B\�B: Command not found
+tish error: #-2
+embox>
+XZF�WEXJ
+ZF�WEXJ: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>O������Ox
+O�: Command not found
+tish error: #-2
+embox>
+E
+E: Command not found
+tish error: #-2
+embox>P�*=@@@@W@@�����@A8x
+P�*=@@@@W@@: Command not found
+tish error: #-2
+embox>
+Eexit����5Px
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

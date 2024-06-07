@@ -1,0 +1,184 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e
+embox>
+pin@embox>
+pin@[K[10Cembox>
+pin@[K[11Cembox>
+pin�@[K[12Cembox>
+pin�i@[K[13Cembox>
+pin�id@[K[14Cembox>
+pin�idn@[K[15Cembox>
+pin�idne@[K[16C
+pin: Command not found
+tish error: #-2
+embox>
+xe?��^e��p�^e��pxeހ�xeހ��ye�xpidne
+tish error: #-22
+embox>
+�
+embox>piNne
+piNne: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�+x�embox>
+�+x[K[11C@embox>
+�+x@[K[11Cembox>
+�+x@[K[12Cembox>
+�+x�@[K[13Cembox>
+�+x�^@[K[14Cembox>
+�+x�^e@[K[15C
+embox>�pembox>�p[K[8C��embox>�p��[K[10Cembox>�p��[K[11Cembox>�p��[K[12Cembox>�p��y�[K[13Cembox>�p��ye�[K[14Cembox>�p��ye��[K[15Cembox>�p��ye�x�[K[16Cembox>�p��ye�xp�[K[17Cembox>�p��ye�xpi�[K[18C
+�p: Command not found
+tish error: #-2
+embox>
+_e
+tish error: #-22
+embox>
+xe@embox>
+xe@[K[11Cembox>
+xe@[K[12Cembox>
+xe�@[K[13Cembox>
+xe�^@[K[14Cembox>
+xe�^e@[K[15Cembox>
+xe�^e�@[K[16Cembox>
+xe�^e��@[K[17Cembox>
+xe�^e��p@[K[18Cembox>
+xe�^e��p@[K[19Cembox>
+xe�^e��p[K[19Cxei�embox>
+xe�^e��pxei�[K[22Cembox>
+xe�^e��pxei�[K[23Cembox>
+xe�^e��pxei�[K[24Cembox>
+xe�^e��pxei�y�[K[25Cembox>
+xe�^e��pxei�ye�[K[26Cembox>
+xe�^e��pxei�ye��[K[27Cembox>
+xe�^e��pxei�ye�x�[K[28Cembox>
+xe�^e��pxei�ye�xe�[K[29Cembox>
+xe�^e��pxei�ye�xe�[K[30Cembox>
+xe�^e��pxei�ye�xe@�[K[31Cembox>
+xe�^e��pxei�ye�xe@�[K[30Cembox>
+xe�^e��pxei�ye�xe@�[K[31Cembox>
+xe�^e��pxei�ye�xe�@�[K[32Cembox>
+xe�^e��pxei�ye�xe�@�[K[33Cembox>
+xe�^e��pxei�ye�xe�@@�[K[34Cembox>
+xe�^e��pxei�ye�xe�@@�[K[33Cembox>
+xe�^e��pxei�ye�xe�@@�[K[34Cembox>
+xe�^e��pxei�ye�xe��@@�[K[35Cembox>
+xe�^e��pxei�ye�xe��^@@�[K[36Cembox>
+xe�^e��pxei�ye�xe��^e@@�embox>
+xe�^e��pxei�ye�xe��^e�@@�embox>
+xe�^e��pxei�ye�xe��^e��@@�embox>
+xe�^e��pxei�ye�xe��^e��p@@�embox>
+xe�^e��pxei�ye�xe��^e��p@@�embox>
+xe�^e��pxei�ye�xe��^e��p^@@�embox>
+xe�^e��pxei�ye�xe��^e��p^e@@�embox>
+xe�^e��pxei�ye�xe��^e��p^e�@@�embox>
+xe�^e��pxei�ye�xe��^e��p^e��@@�embox>
+xe�^e��pxei�ye�xe��^e��p^e��p@@�embox>
+xe�^e��pxei�ye�xe��^e��p^e��p@@�
+tish error: #-22
+embox>
+embox>xei�embox>xei�[K[9Cembox>xei�[K[10Cembox>xei�[K[11Cembox>xei�p�[K[12Cembox>xei�pi�[K[13Cembox>xei�pid�[K[14Cembox>xei�pidn�[K[15Cembox>xei�pidne�[K[16C
+xei: Command not found
+tish error: #-2
+embox>
+�oމo�xei�embox>
+�oމo�xei�[Kembox>
+�oމo�xei�[Kembox>
+�oމo�xei[?5h[?5l�[K[19Cembox>
+�oމo�xei[?5h[?5lz�[K[20Cembox>
+�oމo�xei[?5h[?5lzf�[K[21Cembox>xei[K[9Cxpcdxei�embox>xeixpcdxei�[K[16Cembox>xeixpcdxei�[Kembox>xeixpcdxei[?5h[?5l�[Kembox>xeixpcdxei[?5h[?5lz�[K[19Cembox>xeixpcdxei[?5h[?5lzf�[K[20Cembox>
+[K[7CxZcd
+xZcd: Command not found
+tish error: #-2
+embox>
+Ye@embox>
+Ye@[K[11Cembox>
+Ye[K[11C�^e��p�
+embox>@"�^e��pidne
+embox>
+xe@embox>
+xe@[K[11Cembox>
+xe@[K[12Cembox>
+xe�@[K[13Cembox>
+xe�^@[K[14Cembox>
+xe�^e@[K[15Cembox>
+xe�^e�@[K[16Cembox>
+xe�^e��@[K[17Cembox>
+xe�^e���@[K[18Cembox>
+xe�^e���p@embox>
+xe�^e���p@embox>
+xe�^e���pxei�embox>
+xe�^e���pxei�embox>
+xe�^e���pxei��embox>
+xe�^e���pxei�p�embox>
+xe�^e���pxei�p�embox>
+xe�^e���pxei�pxei�embox>
+xe�^e���pxei�pxei�embox>
+xe�^e���pxei�pxei�embox>
+xe�^e���pxei�pxei�embox>
+xe�^e���pxei�pxei�y�embox>
+xe�^e���pxei�pxei�ye�embox>
+xe�^e���pxei�pxei�ye��embox>
+xe�^e���pxei�pxei�ye�x�embox>
+xe�^e���pxei�pxei�ye�xp�embox>
+xe�^e���pxei�pxei�ye�xpi�embox>
+xe�^e���pxei�pxei�ye�xpid�embox>
+xe�^e���pxei�pxei�ye�xpidn�embox>
+xe�^e���pxei�pxei�ye�xpidn��
+tish error: #-22
+embox>
+ԣ�����x\����
+embox>���embox>���[K[6C[H[H[2Jembox>���[K[6Cembox>����[K[7Cembox>�^���[K[8Cembox>�^p���[K[9Cembox>�^pi���[K[10Cembox>�^pid���[K[11C
+�^pid�: Command not found
+tish error: #-2
+embox>
+r..t
+r..t: Command not found
+tish error: #-2
+embox>
+�
+embox>ne
+ne: Command not found
+tish error: #-2
+embox>
+�xe@
+�xe: Command not found
+tish error: #-2
+embox>
+� iS�in
+tish error: #-22
+embox>
+Xe�{it@[H[H[2Jxi�iii�ti
+tish error: #-22
+embox>
+xeiiiii
+xeiiiii: Command not found
+tish error: #-2
+embox>
+xe�^e��pd�iiiiiiiiii
+�xe�^e��p: Command not found
+tish error: #-2
+embox>
+�iiiiiiilsiicd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

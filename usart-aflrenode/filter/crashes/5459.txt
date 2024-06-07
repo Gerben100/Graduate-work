@@ -1,0 +1,135 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+embox>��`
+��`: Command not found
+tish error: #-2
+embox>
+cd������embox>
+cd������[K[16Cembox>
+cd�������[K[17Cembox>
+cd��������[K[18Cembox>
+cd��������`[K[19Cembox>
+cd��������`e[K[20Cembox>
+cd��������`e�[K[21C
+cd��: Command not found
+tish error: #-2
+embox>
+��x�e�embox>
+��x�e�[K[13Cembox>
+��x�e��[K[14Cembox>
+��x�e�e�[K[15Cembox>
+��x�e�e��[K[16C
+��: Command not found
+tish error: #-2
+embox>
+���inx�iembox>
+���inx�i[K[16Cembox>
+���inx�i�[K[17Cembox>
+���inx�i��[K[18Cembox>
+���inx�i��`[K[19Cembox>
+���inx�i��`e[K[20Cembox>
+���inx�i��`e�[K[21C
+���in: Command not found
+tish error: #-2
+embox>
+�d�lU�x��kitp����l
+�: Command not found
+tish error: #-2
+embox>
+��������������˃F�embox>
+��������������˃F�[K[25Cembox>
+��������������˃Fc�[K[26Cembox>
+��������������˃Fc��[K[27Cembox>
+��������������˃Fc���[K[28Cembox>
+��������������˃Fc����[K[29Cembox>
+��������������˃Fc����[K[30C
+��: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�@glogott�
+�@glogott�: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+embox>
+���[K[10C�
+���: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��po���������������������������������xit
+��po: Command not found
+tish error: #-2
+embox>
+�eembox>
+�embox>
+�embox>�
+�embox>�4
+�embox>�4-
+�embox>�4-d
+�
+�4-d: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+��keiexit
+��keiexit: Command not found
+tish error: #-2
+embox>
+kei
+: Command not found
+tish error: #-2
+embox>
+��
+%ei: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+logott��xtlomot�elcgott�w�$
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

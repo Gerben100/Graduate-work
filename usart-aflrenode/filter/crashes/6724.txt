@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lo�o�Xeiembox>lo�o�Xei[K[13Cembox>lo�o�Xei[K[14Cembox>lo�o�Xe�i[K[15Cembox>lo�o�Xe�yi[K[16Cembox>lo�o�Xe�yei[K[17Cembox>lo�o�Xe�ye�i[K[18Cembox>lo�o�Xe�ye��i[K[19Cembox>lo�o�Xe�ye��]i[K[20Cembox>lo�o�Xe�ye��]i[K[21Cembox>lo�o�Xe�ye��]i[K[20Cembox>lo�o�Xe�ye��]�i[K[21Cembox>lo�o�Xe�ye��]�yi[K[22Cembox>lo�o�Xe�ye��]�yei[K[23C
+lo�o�Xe: Command not found
+tish error: #-2
+embox>
+logouteiembox>
+logoutei[K[14Cembox>
+logoutei[K[15Cembox>
+logoute�i[K[16Cembox>
+logoute�yi[K[17Cembox>
+logoute�yei[K[18Cembox>
+logoute�ye�i[K[19Cembox>
+logoute�ye��i[K[20Cembox>
+logoute�ye��ei[K[21Cembox>
+logoute�ye��ei[K[22Cembox>
+logoute�ye��ei[K[21Cembox>
+logoute�ye��e�i[K[22Cembox>
+logoute�ye��e��i[K[23Cembox>
+logoute�ye��e��yi[K[24Cembox>
+logoute�ye��e��yei[K[25C
+logoute: Command not found
+tish error: #-2
+embox>
+ye
+ye: Command not found
+tish error: #-2
+embox>
+logott�������embox>
+logott�������[K[6Cembox>�
+logott�������[K[7Cembox>��
+logott�������[K[8Cembox>���
+logott�������[K[9Cembox>����
+logott�������[K[10Cembox>�����
+logott�������[K[11Cembox>������
+logott�������[K[12Cembox>������@
+logott�������[K[13Cembox>������@e
+logott�������[K[14C
+������@e: Command not found
+tish error: #-2
+embox>
+logo�teiembox>
+logo�tei[K[14Cembox>
+logo�tei[K[15Cembox>
+logo�te�i[K[16Cembox>
+logo�te�yi[Kembox>
+logo�te�yei[Kembox>
+logo�te�ye�i[K[19Cembox>
+logo�te�ye��i[K[20Cembox>
+logo�te�ye��i[K[21Cembox>
+logo�te�ye��i[K[6C
+embox>��ye
+embox>
+lolgouteiembox>������@e
+logott�������x�i�ye��eembox>������@e
+logott�������x�i�ye��eembox>
+lolgoutei[K[17C�
+lolgoutei�: Command not found
+tish error: #-2
+embox>
+logoutei�ye��Kembox>
+logoutei�ye��K[Kembox>
+logoutei�ye��K�[Kembox>
+logoutei�ye��K�y[Kembox>
+logoutei�ye��K�y�[Kembox>
+logoutei�ye��K�y��embox>
+logoutei�ye��K�y���embox>
+logoutei�ye��K�y���e
+logoutei: Command not found
+tish error: #-2
+embox>
+䁀
+䁀: Command not found
+tish error: #-2
+embox>
+logou����iembox>
+logou����i[K[16Cembox>
+logou����i[K[17Cembox>
+logou����i[K[18Cembox>
+䁀[K[10C|lste���{embox>
+䁀|lste���{[K[19Cembox>[K[16C�N�e
+logou�����N�e: Command not found
+tish error: #-2
+embox>
+l/gouteiembox>
+l/gouteiembox>
+l/goute�iembox>
+l/gouteiembox>
+l/gouteyiembox>
+l/gouteyeiembox>
+l/gouteye�iembox>
+l/gouteye��iembox>[Kembox>[Kembox>[K
+l/gouteye��e�ye: Command not found
+tish error: #-2
+embox>
+���������������embox>[K
+���������������ye�: Command not found
+tish error: #-2
+embox>
+@����������utey
+@����������utey: Command not found
+tish error: #-2
+embox>
+logexporlxport�oge�}
+logexporl: Command not found
+tish error: #-2
+embox>
+�|p_ctmu
+�|p_ctmu: Command not found
+tish error: #-2
+embox>
+lodlodute����epe
+lod: Command not found
+tish error: #-2
+embox>
+lgo
+lgo: Command not found
+tish error: #-2
+embox>
+logout��e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

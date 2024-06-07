@@ -1,0 +1,59 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�665@@@@�@@@D'@@@]@@@@:@@@@@@@|d@@@@@@@@�@@$����D'
+�665@@@@�@@@D'@@@]@@@@:@@@@@@@|d@@@@@@@@�@@$����D': Command not found
+tish error: #-2
+embox>@
+embox>�%@@@@embox>�%@@@@[K[6Cembox>@�%@@@@[K[7Cembox>@@�%@@@@[K[8Cembox>@@@�%@@@@[K[9Cembox>@@@@�%@@@@[K[10Cembox>@@@@>�%@@@@[K[11Cembox>@@@@>@�%@@@@[K[12Cembox>@@@@>@c�%@@@@[K[13Cembox>@@@@>@cd�%@@@@[K[14Cembox>@@@@>@cd�%@@@@[K[6Cembox>@@@@@>@cd�%@@@@[K[7Cembox>@@@@@@>@cd�%@@@@[K[8Cembox>@@@@@@@>@cd�%@@@@[K[9Cembox>@@@@@@@@>@cd�%@@@@[K[10Cembox>@@@@@@@@@>@cd�%@@@@[K[11Cembox>@@@@@@@@@@>@cd�%@@@@[K[12Cembox>@@@@@@@@@@@>@cd�%@@@@[K[13Cembox>@@@@@@@@@@@@>@cd�%@@@@[K[14Cembox>@@@@@@@@@@@@@>@cd�%@@@@[K[15Cembox>@@@@@@@@@@@@@@>@cd�%@@@@[K[16Cembox>@@@@@@@@@@J@@@@>@cd�%@@@@[K[17Cembox>@@@@@@@@@@J@@@@@>@cd�%@@@@[K[18Cembox>@@@@@@@@@@J@@@@@@>@cd�%@@@@[K[19Cembox>@@@@@@@@@@J@@?@@@@>@cd�%@@@@[K[20Cembox>@@@@@@@@@@J@@?@@@@>@cd�%@@@@[K[21Cembox>@@@@@@@@@@J@@?�@@@@>@cd�%@@@@[K[22Cembox>@@@@@@@@@@J@@?�@@@@@>@cd�%@@@@[K[23Cembox>@@@@@@@@@@J@@?�@@@@@@>@cd�%@@@@[K[24Cembox>@@@@@@@@@@J@@?�@@@@@@@>@cd�%@@@@[K[25Cembox>@@@@@@@@@@J@@?�@@@@@@@@>@cd�%@@@@[K[26Cembox>@@@@@@@@@@J@@?�@@@@@@@@@>@cd�%@@@@[K[27Cembox>@@@@@@@@@@J@@?�@@@@@@@@@@>@cd�%@@@@[K[28Cembox>@@@@@@@@@@J@@?�@@@@@@@@@@@>@cd�%@@@@[K[29Cembox>@@@@@@@@@@J@@?�@@@@@@@8@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8e@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8ex@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8exo@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8exoo@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8exoor@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8exoort@@@@>@cd�%@@@@[Kembox>@@@@@@@@@@J@@?�@@@@@@@8exoortd@@@@>@cd�%@@@@[K[37C
+@@@@@@@@@@J@@?: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>@[K[7Cembox>@[[K[8Cembox>@[x[K[9Cembox>@[xq[K[10Cembox>@[xqp[K[11C
+@[xqp: Command not found
+tish error: #-2
+embox>
+�665@logout@D'@@@]@@d@@@@@@@@@|�@@@@@@@@�@@@����D'
+�665@logout@D'@@@]@@d@@@@@@@@@|�@@@@@@@@�@@@����D': Command not found
+tish error: #-2
+embox>R
+embox>�%@@@@@@@@@@@@cdembox>�%@@@@@@@@@@@@cd[Kembox>@�%@@@@@@@@@@@@cd[Kembox>@@�%@@@@@@@@@@@@cdembox>@@e�%@@@@@@@@@@@@cdembox>@@ex�%@@@@@@@@@@@@cdembox>@@exi�%@@@@@@@@@@@@cdembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37C
+@@exit@@@@<@@@@@@@@@@@@@@@@@@@@�%@@@@@@@@@@@@cd: Command not found
+tish error: #-2
+embox>@@@@@@@embox>@@@@@@@[K[6Cembox>@@@@@@@@[K[7Cembox>@e@@@@@@@[K[8Cembox>@ex@@@@@@@[K[9Cembox>@exq@@@@@@@[K[10Cembox>@exqp@@@@@@@[K
+@exqp@@@@@@@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@k@@@@@@@@@@@@|d@@@@@@@@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+embox>@
+embox>�%@@@@@@@@@@@@cdembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37C
+@@@@@@@@@@J@@?: Command not found
+tish error: #-2
+embox>xoort@
+@exqpxoort@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@@@]@@@@����D'@exit
+embox>�%@@@@@@@@@@@@8@
+�%@@@@@@@@@@@@8@: Command not found
+tish error: #-2
+embox>@n@@@exzort@
+@exqp@n@@@exzort@: Command not found
+tish error: #-2
+embox>
+�665@@@@�@@@D'@a�]@@@` @@@@@@|c@@@@@@@@�@@@����D
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

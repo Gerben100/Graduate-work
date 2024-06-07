@@ -1,0 +1,224 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[8C�k�kkkkkkkkkkkkkkkkk
+embox>
+embox>
+[K[7C�embox>
+[K[7C]i�embox>
+]i�[K[6Cembox>
+]i�[K[7Cembox> 
+]i�[K[8Cembox> 
+]i�[K[9Cembox> �
+]i�[K[10Cembox> �]i�[K[10Cembox> �[?5h[?5l]i�[K[11Cembox> �[?5h[?5l]]i�[K[12Cembox> �[?5h[?5l]i]i�[K[13Cembox> �[?5h[?5l]i�]i�[K[14Cembox> �[?5h[?5l]i�i�[K[14Cembox> �[?5h[?5l]i�i�[K[15Cembox> �[?5h[?5l]i��[K[15Cembox> �[?5h[?5l]i�[K[15C]i�
+embox>@embox>[K[9Cx
+embox>
+��]i�Sxi�embox>
+��]i�Sxi�[K[6Cembox>
+��]i�Sxi�[K[7Cembox>�
+��]i�Sxi�[K[8Cembox>�^
+��]i�Sxi�[K[9Cembox>�^
+��]i�Sxi�[K[10C
+embox>
+�]iexport�embox>
+�]iexport�[K[6Cembox>
+�]iexport�[K[7Cembox>
+�]iexport�[K[8Cembox>�]iexport�[K[8Cembox>��]iexport�[K[9Cembox>��]iexport�[K[9Cembox>���]iexport�[K[10Cembox>���]iexport�[K[11Cembox>��]�]iexport�[K[12Cembox>��]i�]iexport�[K[13Cembox>��]i��]iexport�[K[14Cembox>��]i��]iexport�[K[6Cembox>��]i��]iexport�[K[7Cembox>��]i��]iexport�[K[8Cembox>��]i��]iexport�[K[8Cembox>���]i��]iexport�[K[9Cembox>���]i��]iexport�[K[9Cembox>���]i��]iexport�[K[10Cembox>�x��]i��]iexport�[K[11Cembox>�xS��]i��]iexport�[K[12Cembox>�xSx��]i��]iexport�[K[13C
+embox>
+��]i�embox>
+��]i�[K[6Cembox>
+��]i�[K[7Cembox>
+��]i�[K[8Cembox>��]i�[K[8Cembox>���]i�[K[9Cembox>���]i�[K[9Cembox>����]i�[K[10Cembox>����]i�[K[6Cembox>����]i�[K[7Cembox>x����]i�[K[8Cembox>xc����]i�[K[9Cembox>xcd����]i�[K[10Cembox>xcdS����]i�[K[11Cembox>xcdSx����]i�[K[12C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�]i�embox>
+�]i�[K[6Cembox>
+�]i�[K[7Cembox>@
+�]i�[K[8C
+embox>�embox>[K[6C�]U�embox>�]U�[K[6Cembox>�]U�[K[7Cembox>x�]U�[K[8Cembox>xS�]U�[K[9Cembox>xSx�]U�[K[10C
+embox>
+�embox>
+�[K[6C
+embox>�pi��xS\
+�pi��: Command not found
+tish error: #-2
+embox>
+"embox>
+[K[8C
+tish error: #-22
+embox>
+�
+��l{&tk
+tish error: #-22
+embox>
+embox>
+[K[8Cembox>
+[K[8Cdembox>
+d[K[10CY
+tish error: #-22
+embox>
+�embox>
+�[K[8C[H[H[2Jembox>
+�[K[8C�&tY
+��&tY: Command not found
+tish error: #-2
+embox>
+t
+tish error: #-22
+embox>
+��!
+embox>
+embox>
+embox>
+embox>
+[K[6Cembox>&
+[K[7Cembox>&t
+[K[8Cembox>&tY
+[K[9C
+&tY: Command not found
+tish error: #-2
+embox>
+embox>
+[K[8C'embox>
+'[K[9C�&tY
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[9C��t���Y
+tish error: #-22
+embox>
+embox>
+[K[8Cembox>
+[K[8Ccdsf
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>[K[6C�embox>�[K[7C�&tY
+��&tY: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kxbembox>
+xb[K�wi{l����t
+xb�wi{l����t: Command not found
+tish error: #-2
+embox>
+�embox>
+��wi�embox>
+��wipinembox>[K ��
+xb�wi{l����t: Command not found
+tish error: #-2
+embox>
+piP]]]@����
+tish error: #-22
+embox>
+[H[H[2J
+~��: Command not found
+tish error: #-2
+embox>
+�
+embox>[H[H[2J�B�g{��
+embox>
+��lo�o_t!!wi�O��n{d
+tish error: #-22
+embox>
+[H[H[2J�wi{l��d�
+�wi{l��d: Command not found
+tish error: #-2
+embox>
+�wi
+l�����: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�wi{l�"���
+tish error: #-22
+embox>
+���{l�
+tish error: #-22
+embox>
+�w��wi{l���
+�w��: Command not found
+tish error: #-2
+embox>
+dt�od�itlt�od�itod
+embox>�dg
+�g: Command not found
+tish error: #-2
+embox>
+�pore@��
+tish error: #-22
+embox>
+�
+��
+tish error: #-22
+embox>
+��
+embox>�d
+�d: Command not found
+tish error: #-2
+embox>
+7���
+7��: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+
+embox>��
+embox>
+���[?5h[?5l�
+tish error: #-22
+embox>
+= [?5h[?5l��
+=: Command not found
+tish error: #-2
+embox>
+��������������@[?5h[?5l
+~��: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�
+tish error: #-22
+embox>
+�
+exd_
+�: Command not found
+tish error: #-2
+embox>
+`'���lllllylllmlllllllll��
+~���: Command not found
+tish error: #-2
+embox>
+`��ls�ps�8
+��ls�ps�8: Command not found
+tish error: #-2
+embox>
+�������.� �cd��������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,71 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+�loppqppppl�pppxpNpppppp����ppp
+embox>�pccpxpcc�px
+�pcc: Command not found
+tish error: #-2
+embox>pNppopvp�
+pNppopvp�: Command not found
+tish error: #-2
+embox>
+�loppqpZppl�pppxpNpppppp����ppp
+embox>�pcbpxpcc�px
+�pcb: Command not found
+tish error: #-2
+embox>pNppppvpA
+pNppppvpA: Command not found
+tish error: #-2
+embox>
+�lohp�ppzpl�pppxpZpppxpp����ppp
+embox>�pembox>�[K[7Ccpxpcf�px
+�c: Command not found
+tish error: #-2
+embox>pNppppvpA
+pNppppvpA: Command not found
+tish error: #-2
+embox>
+�lopp���������������������PpppN�pccpxphc�pxpNp
+�lopp���������������������Ppp: Command not found
+tish error: #-2
+embox>pppvpA
+pppvpA: Command not found
+tish error: #-2
+embox>
+�oembox>[K[12Cqppppcpx�cbN0pppnp�������������������������
+pppvpAqppppc: Command not found
+tish error: #-2
+embox>ppxp�poqppppcpx�cbN0pppxpN~pNpp�pxppxp�px
+pppvpAqppppcqppppc: Command not found
+tish error: #-2
+embox>pN~pNppppptvpA
+pN~pNppppptvpA: Command not found
+tish error: #-2
+embox>
+�loppqppplpl�pc�pxpcpcpxpNppppvpA
+�loppqppplpl�pc�: Command not found
+tish error: #-2
+embox>
+�lpppqpp�pl�p��pN�
+embox>pNppopvpA
+pNppopvpA: Command not found
+tish error: #-2
+embox>
+�loppqppppl�pppxpNpppppp����plogoutpccpxpcc�px
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

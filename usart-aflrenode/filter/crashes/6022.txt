@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�GW@�
+�GW: Command not found
+tish error: #-2
+embox>
+?�
+?�: Command not found
+tish error: #-2
+embox>
+$embox>
+$[K[6Cembox>
+$[K[6C
+tish error: #-22
+embox>
+e$��
+e$: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>��
+embox>d��
+embox>
+GlT
+GlT: Command not found
+tish error: #-2
+embox>
+��it�
+��: Command not found
+tish error: #-2
+embox>
+GWembox>[K[6CK
+K: Command not found
+tish error: #-2
+embox>
+^
+^: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8C
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+
+embox>
+embox>Y"�
+embox>
+�o
+�o: Command not found
+tish error: #-2
+embox>
+xe
+xe: Command not found
+tish error: #-2
+embox>
+PPPP
+PPP: Command not found
+tish error: #-2
+embox>
+�c|��ld����c�ldgoutgohgoht
+�c|: Command not found
+tish error: #-2
+embox>
+lf�
+lf�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>������@
+@d��������: Command not found
+tish error: #-2
+embox>
+tei
+te��i: Command not found
+tish error: #-2
+embox>
+���������
+���������: Command not found
+tish error: #-2
+embox>
+
+{in
+tish error: #-22
+embox>
+�
+embox>���
+embox>��
+embox>x��l��
+x�: Command not found
+tish error: #-2
+embox>
+l�ce��
+l�ce��: Command not found
+tish error: #-2
+embox>
+�65cee
+�: Command not found
+tish error: #-2
+embox>
+0@@@
+PPP@@@: Command not found
+tish error: #-2
+embox>
+GA�66 6@@��@@@@@@@@@?@@o@5e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

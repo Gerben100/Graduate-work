@@ -1,0 +1,96 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Чc
+Чc: Command not found
+tish error: #-2
+embox>
+Ч��xei�������������c
+Ч��xei: Command not found
+tish error: #-2
+embox>
+���
+embox> o6)5%������d������c
+embox>
++���cd�d���vi+��璘c
++���cd�d�: Command not found
+tish error: #-2
+embox>
+Ч����itc3?[H[H[2Jembox>
+Ч����itc3?[K[18Cg3?[H[H[2Jembox>
+Ч����itc3?g3?[K[21CgX�oBt������c
+Ч����itc3?g3?gX�oBt������c: Command not found
+tish error: #-2
+embox>
+裏pia���§�c
+裏pia���§�c: Command not found
+tish error: #-2
+embox>
+�����o�o+��cd�����d������c
+�: Command not found
+tish error: #-2
+embox>
+l�cd�cembox>
+l�cd�[K[12C
+l�cd�: Command not found
+tish error: #-2
+embox>
+l��Vl�}
+l��Vl�}: Command not found
+tish error: #-2
+embox>
+o�R�o�
+o�R�o�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+}�
+embox>
+l��V���o}
+l��V�: Command not found
+tish error: #-2
+embox>
+l@�goutd����V�o}
+l: Command not found
+tish error: #-2
+embox>
+l��
+embox>
+extt�Y
+extt�Y: Command not found
+tish error: #-2
+embox>
+�@@@@@@@[?5h[?5l@@��@@@@@@@@[?5h[?5l
+embox>x@=@@@@@��
+embox>�@@@@\V�o}
+�@@@@\V�o}: Command not found
+tish error: #-2
+embox>
+@������
+@������: Command not found
+tish error: #-2
+embox>
+l��V�~
+l��V�: Command not found
+tish error: #-2
+embox>
+l������xi������M�������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

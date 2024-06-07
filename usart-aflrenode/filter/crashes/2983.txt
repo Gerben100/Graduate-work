@@ -1,0 +1,187 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+embox>�[K[7C�logott
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+pΜ
+pΜ: Command not found
+tish error: #-2
+embox>
+�p�
+�p�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>
+[K[8C
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��p�
+��p�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ߟ�p�
+ߟ�p�: Command not found
+tish error: #-2
+embox>
+�3�
+�3�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+�p3�we��
+�p3�: Command not found
+tish error: #-2
+embox>
+����
+����: Command not found
+tish error: #-2
+embox>
+�p��������3�
+�p��������3�: Command not found
+tish error: #-2
+embox>
+�embox>
+�embox>
+�embox>
+�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K��ls�cd�
+embox>�lcnse�b�ls�c
+embox>d�
+d�: Command not found
+tish error: #-2
+embox>
+��}e��linsm�t�@lsexit�cd�
+embox>de��linsm�
+d: Command not found
+tish error: #-2
+embox>Yinse@b�kscdt3
+: Command not found
+tish error: #-2
+embox>
+l�gtut�
+embox>
+�
+embox>
+�t��ls�UQ�c�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�����7�
+�: Command not found
+tish error: #-2
+embox>
+���ls�cd���l�nse�b�ls
+embox>
+d�: Command not found
+tish error: #-2
+embox>
+��ls�cd�
+embox>
+�
+embox>�linse�b�
+embox>�
+embox>�linse��ls�cd�
+embox>
+�t��ls�cd��lInsls�cb�e� �linsexporte�[H[H[2Jb
+�t��ls�cd�: Command not found
+tish error: #-2
+embox>�ls�cd�
+�ls�cd�: Command not found
+tish error: #-2
+embox>
+������H//+////Q,�/���� ����I�
+�e�d: Command not found
+tish error: #-2
+embox>�ls�cd�
+�ls�cd�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+8_8$8�
+8_8$8�: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+i����
+i����: Command not found
+tish error: #-2
+embox>
+@cd�
+@: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+�+[?5h[?5l�
+�+[?5h[?5l: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+@\@Fexp
+@\@Fexp: Command not found
+tish error: #-2
+embox>
+�
+��
+�: Command not found
+tish error: #-2
+embox>
+�*
+��: Command not found
+tish error: #-2
+embox>
+��cx�6�66>6pin
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

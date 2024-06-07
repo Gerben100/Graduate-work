@@ -1,0 +1,203 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>i�
+i�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7CC�i embox>i�[K[9C����
+i�����: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#xxe!!embox>
+#xxe!![K[15Cembox>
+#xxe!![K[16Cembox>
+#xxe!q![K[17Cembox>
+#xxe!qq![K[18Cembox>
+#xxe!qqq![K[19Cembox>
+#xxe!qqqq![K[20Cembox>
+#xxe!qqqqq![K[21Cembox>
+#xxe!qqqqqq![K[22Cembox>
+#xxe!qqqqqqq![K[23Cembox>
+#xxe!qqqqqqqq![K[24Cembox>
+#xxe!qqqqqqqqq![K[25Cembox>
+#xxe!qqqqqqqqqq![K[26Cembox>
+#xxe!qqqqqqqqqqq![K[27Cembox>
+#xxe!qqqqqqqqqqqq![K[28Cembox>
+#xxe!qqqqqqqqqqqqq![K[29Cembox>
+#xxe!qqqqqqqqqqqqqq![K[30Cembox>
+#xxe!qqqqqqqqqqqqqqq![K[31Cembox>
+#xxe!qqqqqqqqqqqqqqqq![K[32Cembox>
+#xxe!qqqqqqqqqqqqqqqqq![K[33Cembox>
+#xxe!qqqqqqqqqqqqqqqqqq![K[34Cembox>
+#xxe!qqqqqqqqqqqqqqqqqqq![K[35Cembox>
+#xxe!qqqqqqqqqqqqqqqqqqqq![K[36Cembox>
+#xxe!qqqqqqqqqqqqqqqqqqqqq![K[37Cembox>
+#xxe!qqqqqqqqqqqqqqqqqqqqq![K[38Cembox>
+#xxe!qqqqqqqqqqqqqqqqqqqqq![K[39C
+#x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#^xe!!embox>
+#^xe!![K[14Cembox>
+#^xe!![K[15Cembox>
+#^xe!q![K[16Cembox>
+#^xe!q`![K[17Cembox>
+#^xe!q`q![K[18Cembox>
+#^xe!q`qq![K[19Cembox>
+#^xe!q`qqq![K[20Cembox>
+#^xe!q`qqqq![K[21Cembox>
+#^xe!q`qqqqq![K[22Cembox>
+#^xe!q`qqqqqq![K[23Cembox>
+#^xe!q`qqqqqqq![K[24Cembox>
+#^xe!q`qqqqqqqq![K[25Cembox>
+#^xe!q`qqqqqqqqq![K[26Cembox>
+#^xe!q`qqqqqqqqqq![K[27Cembox>
+#^xe!q`qqqqqqqqqqq![K[28Cembox>
+#^xe!q`qqqqqqqqqqqq![K[29Cembox>
+#^xe!q`qqqqqqqqqqqqq![K[30Cembox>
+#^xe!q`qqqqqqqqqqqqqq![K[31Cembox>
+#^xe!q`qqqqqqqqqqqqqqq![K[32Cembox>
+#^xe!q`qqqqqqqqqqqqqqqq![K[33Cembox>
+#^xe!q`qqqqqqqqqqqqqqqqq![K[34Cembox>
+#^xe!q`qqqqqqqqqqqqqqqqqq![K[35Cembox>
+#^xe!q`qqqqqqqqqqqqqqqqqqq![K[36Cembox>
+#^xe!q`qqqqqqqqqqqqqqqqqqq![K[37Cembox>
+#^xe!q`qqqqqqqqqqqqqqqqqqq![K[38C
+#^: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#xxe!!embox>
+#xxe!![K[14Cembox>
+#xxe!![K[15Cembox>
+#xxe!q![K[16Cembox>
+#xxe!qq![K[17Cembox>
+#xxe!qqq![K[18Cembox>
+#xxe!qqqq![K[19Cembox>
+#xxe!qqqqq![K[20Cembox>
+#xxe!qqqqqq![K[21Cembox>
+#xxe!qqqqqqq![K[22Cembox>
+#xxe!qqqqqqq![K[23Cembox>
+#xxe!qqqqqqq�![K[24Cembox>
+#xxe!qqqqqqq�q![K[25Cembox>
+#xxe!qqqqqqq�q�![K[26Cembox>
+#xxe!qqqqqqq�q�q![K[27Cembox>
+#xxe!qqqqqqq�q�qq![K[28Cembox>
+#xxe!qqqqqqq�q�qqq![K[29Cembox>
+#xxe!qqqqqqq�q�qqqq![K[30Cembox>
+#xxe!qqqqqqq�q�qqqqU![K[31Cembox>
+#xxe!qqqqqqq�q�qqqqUr![K[32Cembox>
+#xxe!qqqqqqq�q�qqqqUrq![K[33Cembox>
+#xxe!qqqqqqq�q�qqqqUrqq![K[34Cembox>
+#xxe!qqqqqqq�q�qqqqUrqqq![K[35Cembox>
+#xxe!qqqqqqq�q�qqqqUrqqqq![K[36Cembox>
+#xxe!qqqqqqq�q�qqqqUrqqqq![K[37Cembox>
+#xxe!qqqqqqq�q�qqqqUrqqqq![K[38C
+#x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#ql�
+#ql�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C#xiKexitKKKKKKKKKKKKKKKKK@qqqqqqqq�qqqqqGqqqq
+#x: Command not found
+tish error: #-2
+embox>qq
+qq: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#xxe!!embox>
+#xxe!![K[14Cembox>
+#xxe!![K[15Cembox>
+#xxe!q![K[16Cembox>
+#xxe!q�![K[17Cembox>
+#xxe!q�l![K[18Cembox>
+#xxe!q�lo!embox>
+#xxe!q�log!embox>
+#xxe!q�logo!embox>
+#xxe!q�logou!embox>
+#xxe!q�logout!embox>
+#xxe!q�logoutq!embox>
+#xxe!q�logoutqq!embox>
+#xxe!q�logoutqqq!embox>
+#xxe!q�logoutqqqq!embox>
+#xxe!q�logoutqqqqx!embox>
+#xxe!q�logoutqqqqx!embox>
+#xxe!q�logoutqqqqx!embox>
+#xxe!q�logoutqqqqxxe!!embox>
+#xxe!q�logoutqqqqxxe!!embox>
+#xxe!q�logoutqqqqxxe!!embox>
+#xxe!q�logoutqqqqxxe!q!embox>
+#xxe!q�logoutqqqqxxe!q�!embox>
+#xxe!q�logoutqqqqxxe!q�l!embox>
+#xxe!q�logoutqqqqxxe!q�lo!embox>
+#xxe!q�logoutqqqqxxe!q�log!embox>
+#xxe!q�logoutqqqqxxe!q�logo!embox>
+#xxe!q�logoutqqqqxxe!q�logou!embox>
+#xxe!q�logoutqqqqxxe!q�logouq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqqqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqqqqqq!embox>
+#xxe!q�logoutqqqqxxe!q�logouqqqqqqqqq!
+#x: Command not found
+tish error: #-2
+embox>qqqqqqq
+qqqqqqq: Command not found
+tish error: #-2
+embox>
+embox>
+[K#xxe!!embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31C
+#x: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C#�
+embox>pi�e)!embox>
+#xembox>qqqqqqq/xxembox>qqqqqqq/xx
+qqqqqqq/xx: Command not found
+tish error: #-2
+embox>
+#xq
+#xq: Command not found
+tish error: #-2
+embox>
+#xxe�qq�qqqq
+#x: Command not found
+tish error: #-2
+embox>
+
+g: Command not found
+tish error: #-2
+embox>
+#xd[H[H[2Jxe!! qqqqqrdqqqqU�qqqxqqqq
+#x: Command not found
+tish error: #-2
+embox>
+��������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

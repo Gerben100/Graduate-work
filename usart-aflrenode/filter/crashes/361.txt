@@ -1,0 +1,144 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l�K\
+l�K\: Command not found
+tish error: #-2
+embox>
+l���l�������ܥ����������embox>l�K\[K[11C
+l�K\: Command not found
+tish error: #-2
+embox>
+[����������embox>
+[����������[K[18Cembox>
+[�����������[K[19Cembox>
+[�����������*[K[20Cembox>l�K\[K[11C
+l�K\: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>p
+[K[8Cembox>po
+[K[9Cembox>por
+[K[10Cembox>po
+[K[9Cembox>l�K\[K[11C�
+l�K\�: Command not found
+tish error: #-2
+embox>
+l�embox>l�K\�[K[12Cembox>l�K\[K[11Cl�
+l�K\l�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l�����embox>
+l�����[K[12Cembox>
+l�����[K[13Cembox>
+l������[K[14Cembox>
+l�������[K[15Cembox>
+l��������[K[16Cembox>
+l���������[K[17Cembox>
+l����������[K[18Cembox>
+l�����������[K[19Cembox>
+l������������[K[20Cembox>
+�embox>l�K\l�[K[13Cembox>l�K\�[K[12Cembox>l�K\l�[K[13C
+l�K\l�: Command not found
+tish error: #-2
+embox>
+l�� ��������embox>l�K\l�[K[13Cembox>
+�[K[30Cembox>l�K\l�[K[13Cembox>l�K\�[K[12C
+l�K\�: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[10C��J444����embox>l�K\�[K[12C�embox>l�K\�[K[12C
+l�K\�: Command not found
+tish error: #-2
+embox>
+]���exaort���������������embox>l�K\�[Kembox>l�K\l�[K[13Cembox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[Kembox>�
+embox>[K[30C���
+����: Command not found
+tish error: #-2
+embox>
+l�����exit
+l�K\�exit: Command not found
+tish error: #-2
+embox>
+l��������
+l�K\�: Command not found
+tish error: #-2
+embox>
+i������������������
+i������������������: Command not found
+tish error: #-2
+embox>
+llܺ�����������c
+l�K\�: Command not found
+tish error: #-2
+embox>
+l�������������[?5h[?5l
+l�K\�: Command not found
+tish error: #-2
+embox>
+lllcdlllllllWllll���lllmjlllllllllllllllll�@
+l�K\�exit�@: Command not found
+tish error: #-2
+embox>
+
+l�K\�exit: Command not found
+tish error: #-2
+embox>
+
+
+l�K\�exit: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+o��ls�&�
+l�K\�exit�: Command not found
+tish error: #-2
+embox>
+l���2
+l�K\�: Command not found
+tish error: #-2
+embox>
+
+����: Command not found
+tish error: #-2
+embox>
+l������@����cd�
+l�K\�: Command not found
+tish error: #-2
+embox>
+l
+���ܗ��66%G66666l
+���ܗ�ls�66%G6666666
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

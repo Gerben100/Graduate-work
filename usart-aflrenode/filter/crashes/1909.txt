@@ -1,0 +1,137 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>pi��ށ
+pi�: Command not found
+tish error: #-2
+embox>
+ ��
+tish error: #-22
+embox>
+embox>[K[6Cembox>
+[K[7Cembox>pi�[K[9C�
+pi��: Command not found
+tish error: #-2
+embox>
+@embox>pi��[K[10C[?5h[?5lm�
+pi��m: Command not found
+tish error: #-2
+embox>
+656>6@5 �embox>
+656>6@5 �[K[6Cembox>
+656>6@5 �[K[7Cembox>@
+656>6@5 �[K[8Cembox>@
+656>6@5 �[K[9Cembox>@@
+656>6@5 �[K[10Cembox>@@@
+656>6@5 �[K[11Cembox>@@@@
+656>6@5 �[K[12Cembox>@@@@@
+656>6@5 �[K[13Cembox>@@@@@@
+656>6@5 �[K[14Cembox>@@@@@@c
+656>6@5 �[K[15Cembox>@@@@@@cd
+656>6@5 �[K[16Cembox>@@@@@@cd@
+656>6@5 �[K[17Cembox>@@@@@@cd@@
+656>6@5 �[K[18Cembox>@@@@@@cd@@@
+656>6@5 �[K[19Cembox>@@@@@@cd@@@@
+656>6@5 �[K[20Cembox>@@@@@@cd@@@@@
+656>6@5 �[K[21Cembox>@@@@@@cd@@@@@@
+656>6@5 �[K[22Cembox>@@@@@@cd@@@@@@�
+656>6@5 �[K[23Cembox>@@@@@@cd@@@@@@�@
+656>6@5 �[K[24Cembox>@@@@@@cd@@@@@@�@�
+656>6@5 �[K[25C
+embox>
+embox>[K[6C0
+0: Command not found
+tish error: #-2
+embox>
+eembox>0[K[7C�export�
+0: Command not found
+tish error: #-2
+embox>
+w
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+lrހ��embox>�[K[8Cg�cd&��!embox>0[K[7Cembox>pi��m[K[11C/x
+pi��m/x: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�
+embox>
+embox>
+�]��
+�]�: Command not found
+tish error: #-2
+embox>
+erit�7���
+erit�7���: Command not found
+tish error: #-2
+embox>
+gn
+gn: Command not found
+tish error: #-2
+embox>
+���I�
+���I�: Command not found
+tish error: #-2
+embox>
+ddd
+dxddd: Command not found
+tish error: #-2
+embox>
+x
+]di: Command not found
+tish error: #-2
+embox>
+
+embox>
+xlMogut
+xlMogut: Command not found
+tish error: #-2
+embox>
+x]di�
+x]di�: Command not found
+tish error: #-2
+embox>
+x]Wr�
+x]Wr�: Command not found
+tish error: #-2
+embox>
+�e^s
+�e^s: Command not found
+tish error: #-2
+embox>
+f
+f: Command not found
+tish error: #-2
+embox>
+xBleeede'T@
+embox>3�c
+embox>3�c
+embox>J7edeF=@@e@�
+embox>
+xBl��F16"�6YY��
+xBl��F16: Command not found
+tish error: #-2
+embox>
+xBl��FyeeeeeeeeeeeOeeee'6T@
+embox>�@@@@@Q?exp@��nx
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

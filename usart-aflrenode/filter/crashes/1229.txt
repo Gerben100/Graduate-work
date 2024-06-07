@@ -1,0 +1,163 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>^�embox>^�[K[8C
+^�: Command not found
+tish error: #-2
+embox>
+�l,l{�
+�l,l{�: Command not found
+tish error: #-2
+embox>
+�آ�s#
+�آ�s#: Command not found
+tish error: #-2
+embox>
+@expls
+@expls: Command not found
+tish error: #-2
+embox>
+MMM�WMM
+MMM�WMM: Command not found
+tish error: #-2
+embox>
+i
+i: Command not found
+tish error: #-2
+embox>�|embox>
+i[K[8C#
+i#: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[9C�
+��: Command not found
+tish error: #-2
+embox>
+��iembox>
+��[K[9C
+��: Command not found
+tish error: #-2
+embox>
+x��cdexp
+x: Command not found
+tish error: #-2
+embox>
+�eyportx(i
+�eyportx(i: Command not found
+tish error: #-2
+embox>
+�5}(i
+�5}(i: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�@>Fcdx
+�@: Command not found
+tish error: #-2
+embox>
+�#f
+�#f: Command not found
+tish error: #-2
+embox>
+��x(X%�K�
+��x(X: Command not found
+tish error: #-2
+embox>
+x(xGi
+x(xGi: Command not found
+tish error: #-2
+embox>
+R� �
+R�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+
+z: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�c^ t�
+�c^: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+embox>
+llss�
+llss�: Command not found
+tish error: #-2
+embox>
+�l
+�l: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����u$
+����u$: Command not found
+tish error: #-2
+embox>
+H
+H: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>
+
+tish error: #-22
+embox>
+gm
+geum: Command not found
+tish error: #-2
+embox>
+�i�XelSgout/��~�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

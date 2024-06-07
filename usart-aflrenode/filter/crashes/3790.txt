@@ -1,0 +1,88 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C
+embox>A�66e�embox>A�66e�[K[15C�@eembox>A�66e��@[K[20C@�embox>A�66e��@@[K[23C@?@embox>A�66e��@@@?@[K[28C�@@eembox>A�66e��@@@?@�@@e[K[6Cembox>@A�66e��@@@?@�@@e[K[7Cembox>@�A�66e��@@@?@�@@e[K[8Cembox>@�^A�66e��@@@?@�@@e[K[9Cembox>@�^@A�66e��@@@?@�@@e[K[10Cembox>@�^@\A�66e��@@@?@�@@e[K[11C
+@�^@\A�66e�: Command not found
+tish error: #-2
+embox>
+
+�A�66e�+�?�embox>
+
+�A�66e�+�?[K[18C�@cdei@�embox>
+
+�A�66e�+�?�@cdei@[K[30C@?@@o4Xe�Ze@eembox>
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[6Cembox>@
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[7Cembox>@�
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[8Cembox>@�^
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[9Cembox>@�^@
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[10Cembox>@�^@\
+
+�A�66e�+�?�@cdei@@?@@o4Xe�Ze@e[K[11C
+@�^@\: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[KMxzorAembox>
+adduser.confMxzorA[K[6Cembox>^
+adduser.confMxzorA[K[7Cembox>^@
+adduser.confMxzorA[K[8Cembox>^@\
+adduser.confMxzorA[K[9C
+^@\: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>A�66@@@@@@@@@@@@@@@@@@@@@@eembox>A�66@@@@@@@@@@@@@@@@@@@@@@eembox>@A�66@@@@@@@@@@@@@@@@@@@@@@eembox>@�A�66@@@@@@@@@@@@@@@@@@@@@@eembox>@�^A�66@@@@@@@@@@@@@@@@@@@@@@eembox>@�^@A�66@@@@@@@@@@@@@@@@@@@@@@eembox>@�^@\A�66@@@@@@@@@@@@@@@@@@@@@@e
+@�^@\A�66@@@@@@@@@@@@@@@@@@@@@@e: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>A�66e�+@�embox>A�66e�+@[K[15C�:eembox>A�66e�+@�:[K@�@?@@b4Xe�Ze@eembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11C
+@�^@\A�66e�+: Command not found
+tish error: #-2
+embox>
+cdfn
+cdfn: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>A�6A�66eembox>A�6A�66[K[13C+@�embox>A�6A�66+@��?e��embox>A�6A�66+@��?e�@?@@oPXe�ZF-eembox>[K[6Cembox>[K[7Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9C
+^@\@A�6A�66+: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>�embox>��@embox>����@A�66��+@�?He�hnJ�Ze@eembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+@�^@\: Command not found
+tish error: #-2
+embox>
+\\\\
+\\\\: Command not found
+tish error: #-2
+embox>
+
+embox>A�66e�+A
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

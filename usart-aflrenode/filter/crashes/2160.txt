@@ -1,0 +1,102 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>>
+>: Command not found
+tish error: #-2
+embox>
+l;��ouoo
+l;��ouoo: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C�
+�: Command not found
+tish error: #-2
+embox>
+l�����ou
+l�����ou: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[8C��oupinoo
+l��oupinoo: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[8C�po�oo
+l�po�oo: Command not found
+tish error: #-2
+embox>
+l�oRo
+l: Command not found
+tish error: #-2
+embox>
+�pWyembox>
+�pW[K[10C���
+�pW���: Command not found
+tish error: #-2
+embox>
+���embox>
+�pW���[K[13C�poro����-
+�pW���: Command not found
+tish error: #-2
+embox>
+dembox>
+d[K[6Cembox>
+d[K[7Cembox>
+d[K[8Cembox>)
+d[K[9Cembox>)t
+d[K[10Cembox>)td
+d[K[11Cembox>)tdt
+d[K[12C
+embox>
+ncdQld
+ncdQl: Command not found
+tish error: #-2
+embox>
+[pQ��t�
+[pQ��t�: Command not found
+tish error: #-2
+embox>
+embox>[K[14CcQn�/
+[pQ��t�cQn�/: Command not found
+tish error: #-2
+embox>
+����������������������������R�
+���: Command not found
+tish error: #-2
+embox>
+pQM/
+���pQM: Command not found
+tish error: #-2
+embox>
+�pQ�/��
+�pQ�/��: Command not found
+tish error: #-2
+embox>
+cdqQ
+���pQMqQ: Command not found
+tish error: #-2
+embox>
+��/@
+��: Command not found
+tish error: #-2
+embox>
+ppp��pppppppp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

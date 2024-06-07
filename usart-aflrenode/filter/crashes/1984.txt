@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+e@jae�cx�66>T@@embox>
+e@jae�cx�66>T@@[K[6Cembox>
+e@jae�cx�66>T@@[K[7Cembox>�
+e@jae�cx�66>T@@[K[8Cembox>�5
+e@jae�cx�66>T@@[K[9Cembox>�5p
+e@jae�cx�66>T@@[K[10Cembox>�5po
+e@jae�cx�66>T@@[K[11Cembox>�5por
+e@jae�cx�66>T@@[K[12Cembox>�5port
+e@jae�cx�66>T@@[K[13Cembox>�5portQ
+e@jae�cx�66>T@@[K[14Cembox>�5portQe
+e@jae�cx�66>T@@[K[15Cembox>�5portQew
+e@jae�cx�66>T@@[K[16Cembox>�5portQew@
+e@jae�cx�66>T@@[K[17Cembox>�5portQew@@
+e@jae�cx�66>T@@[K[18Cembox>�5portQew@@@
+e@jae�cx�66>T@@[K[19Cembox>�5portQew@@@@
+e@jae�cx�66>T@@[K[20Cembox>�5portQew@@@@@
+e@jae�cx�66>T@@[K[21Cembox>�5portQew@@@@@<
+e@jae�cx�66>T@@[K[22Cembox>�5portQew@@@@@<@
+e@jae�cx�66>T@@[K[23Cembox>�5portQew@@@@@<@-
+e@jae�cx�66>T@@[K[24Cembox>�5portQew@@@@@<@-@
+e@jae�cx�66>T@@[K[25Cembox>�5portQew@@@@@<@-@@
+e@jae�cx�66>T@@[K[26Cembox>�5portQew@@@@@<@-@@@
+e@jae�cx�66>T@@[K[27Cembox>�5portQew@@@@@<@-@@@@
+e@jae�cx�66>T@@[K[28Cembox>�5portQew@@@@@<@-@@@@<
+e@jae�cx�66>T@@[K[29Cembox>�5portQew@@@@@<@-@@@@<@
+e@jae�cx�66>T@@[K[30Cembox>�5portQew@@@@@<@-@@@@<@@
+e@jae�cx�66>T@@[Kembox>�5portQew@@@@@<@-@@@@<@@A
+e@jae�cx�66>T@@[K[32Cembox>�5portQew@@@@@<@-@@@@<@@A@
+e@jae�cx�66>T@@[K[33Cembox>�5portQew@@@@@<@-@@@@<@@A@@
+e@jae�cx�66>T@@[K[34C
+�5portQew@@@@@<@-@@@@<@@A@@: Command not found
+tish error: #-2
+embox>@@��embox>@@��[K[11C�@embox>@@���[K[12C�l�go�ls����6embox>@@����l�go�ls����[K[24Cut$<6T@���^@@@@@@@G?@@��embox>@@����l�go�ls����ut$<6T@���^@@@@@@@G?@@�[K
+@@��: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[10C^e�cx�66F6>T@@embox>
+e@^e�cx�66F6>T@@[K[6Cembox>
+e@^e�cx�66F6>T@@[K[7Cembox>�
+e@^e�cx�66F6>T@@[K[8Cembox>�5
+e@^e�cx�66F6>T@@[K[9Cembox>�5p
+e@^e�cx�66F6>T@@[K[10Cembox>�5po
+e@^e�cx�66F6>T@@[K[11Cembox>�5por
+e@^e�cx�66F6>T@@[K[12Cembox>�5port
+e@^e�cx�66F6>T@@[K[13Cembox>�5portQ
+e@^e�cx�66F6>T@@[K[14Cembox>�5portQe
+e@^e�cx�66F6>T@@[K[15Cembox>�5portQew
+e@^e�cx�66F6>T@@[K[16Cembox>�5portQew@
+e@^e�cx�66F6>T@@[K[17Cembox>�5portQew@@
+e@^e�cx�66F6>T@@[K[18Cembox>�5portQew@@@
+e@^e�cx�66F6>T@@[K[19Cembox>�5portQew@@@@
+e@^e�cx�66F6>T@@[K[20Cembox>�5portQew@@@@@
+e@^e�cx�66F6>T@@[K[21Cembox>�5portQew@@@@@<
+e@^e�cx�66F6>T@@[K[22Cembox>�5portQew@@@@@<@
+e@^e�cx�66F6>T@@[K[23Cembox>�5portQew@@@@@<@@
+e@^e�cx�66F6>T@@[K[24Cembox>�5portQew@@@@@<@@@
+e@^e�cx�66F6>T@@[K[25Cembox>�5portQew@@@@@<@@@@
+e@^e�cx�66F6>T@@[K[26Cembox>�5portQew@@@@@<@@@@@
+e@^e�cx�66F6>T@@[K[27Cembox>�5portQew@@@@@<@@@@@@
+e@^e�cx�66F6>T@@[K[28Cembox>�5portQew@@@@@<@@@@@@@
+e@^e�cx�66F6>T@@[K[29Cembox>�5portQew@@@@@<@@@@@@@@
+e@^e�cx�66F6>T@@[K[30Cembox>�5portQew@@@@@<@@@@@@@@�
+e@^e�cx�66F6>T@@[K[31Cembox>�5portQew@@@@@<@@@@@@@@�
+e@^e�cx�66F6>T@@embox>�5portQew@@@@@<@@@@@@@@�
+e@^e�cx�66F6>T@@embox>�5portQew@@@@@<@@@@@@@@�
+e@^e�cx�66F6>T@@
+�5portQew@@@@@<@@@@@@@@�: Command not found
+tish error: #-2
+embox>�@@@<@@@@@@@��embox>�@@@<@@@@@@@���@embox>�@@@<@@@@@@@������6[[[[[[[out6<6T@��@@@@@@@
+�@@@<@@@@@@@��: Command not found
+tish error: #-2
+embox>@G?@@��embox>@G?@@�[K[12C�
+@G?@@��: Command not found
+tish error: #-2
+embox>
+e@e�cx�66F6>T@@embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[26Cembox>[K[27Cembox>[K[28C
+�5@@<@@@@@@@��: Command not found
+tish error: #-2
+embox>�logout6<6T@��@@@_@@@@G?@@��embox>[K[35C�
+�logout6<6T@: Command not found
+tish error: #-2
+embox>
+e@^e�cx�66F6>T@@��@@@@@<@@@@@@@@�
+�5por: Command not found
+tish error: #-2
+embox>�@@@<@@@@@�@���@���6���l�out6<6T@��@@@@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

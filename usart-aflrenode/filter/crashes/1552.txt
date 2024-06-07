@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>e@�cNNNNNNNNNNNNNNN�N;NNNNNUNND��@�e)po�t@<@@@@
+embox>@@;@\@@@embox>@@;@\@@[K[13C�@c6:56>6T@embox>@@;@\@@�@c6:56>6T@[K[24C�export@@@@?@
+embox>@lembox>@[K[7Cdx�?@
+@dx�?@: Command not found
+tish error: #-2
+embox>
+embox>@Q@@@�}ei
+@Q@@@�}ei: Command not found
+tish error: #-2
+embox>
+e@�cNNNNNNnfrt@<@@@@@@;embox>
+e@�cNNNNNNnfrt@<@@@@@@[K[30C @@Q@@@�@.6656>6T@embox>
+e@�cNNNNNNnfrt@<@@@@@@ @@Q@@@�@.6656>6T@[K�ex
+tish error: #-22
+embox>port@@@@?@
+embox>@Qrt@@$@?@
+embox>\@@@embox>\@@[K[9C�@c@@W]
+\@@�@c@@W]: Command not found
+tish error: #-2
+embox>
+e@xNNNN"<@@@@@@;\@@embox>
+e@xNNNN"<@@@@@@;\@[K[28C��cNNNNNembox>
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[6Cembox>N
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[7Cembox>NN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[8Cembox>NNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[9Cembox>NNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[10Cembox>NNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[11Cembox>NNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[12Cembox>NNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[13Cembox>NNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[14Cembox>NNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[Kembox>NNNNNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[22Cembox>NNNNNNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[23Cembox>NNNNNNNNNNNNNNNNNN
+e@xNNNN"<@@@@@@;\@��cNNNNN[K[24C
+NNNNNNNNNNNNNNNNNN: Command not found
+tish error: #-2
+embox>NND�@@/@export@<@@@@@@;\@@@gout6656>d@embox>NND�@@/@export@<@@@@@@;\@@@gout6656>d@�]�port
+NND�: Command not found
+tish error: #-2
+embox>@@@@?@embox>@@@@?@[K[13C@Q@@
+embox>@Q@@&�@/@@@]
+@Q@@&�@/@@@]: Command not found
+tish error: #-2
+embox>
+e@�cNNNexportNNembox>[K[22C���NNNNNNNNFembox>@Q@@&�@/@@@][KNNNNNNND�@@/@export
+@Q@@&�@/@@@]NNNNNNND�: Command not found
+tish error: #-2
+embox>@<@F@@@@;@\@embox>@<@F@@@@;@\@�expo�@@\@@@embox>[K�@@?@�0Qrt@@$�?DDDDD
+@<@F@@@@;@\@�expo�: Command not found
+tish error: #-2
+embox>DDDD�@/@@@]
+DDDD�@/@@@]: Command not found
+tish error: #-2
+embox>
+e@�cNNNNNNNNNNNNNNNNNNNNNdNNNND�
+embox>�@export@<@@@@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

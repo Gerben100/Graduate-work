@@ -1,0 +1,282 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���
+embox>
+t
+t: Command not found
+tish error: #-2
+embox>
+embox>
+t[K[10C����embox>
+t���[K[13C���������embox>
+t�����������[K[22C�}
+t���: Command not found
+tish error: #-2
+embox>
+embox>
+t���[K[13C�k
+t����k: Command not found
+tish error: #-2
+embox>
+l000900000pin090�0�0000��
+embox>8I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+embox>8I8888[K[12Cl000�pia090�0�0000��
+embox>8I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+embox>8I8888[K[12Cl000000pin090�0�0000��
+embox>8I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+embox>8I8888[K[12ClG000000pin090�0�0 00��
+embox>8I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+����f
+tish error: #-22
+embox>
+embox>
+[K[7Cl000�000pin 90�0�0000��
+embox>8I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+l0@��000pi0O0��
+embox>8I@888
+8I@888: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l�[?5h[?5l�[?5h[?5l
+8I8888��: Command not found
+tish error: #-2
+embox>
+�k0700000pin090�0�0000��
+embox>8I8838
+8I8838: Command not found
+tish error: #-2
+embox>
+l0000000008pin090�0�0
+8I8888: Command not found
+tish error: #-2
+embox>
+0000�000000005000000000000500
+tish error: #-22
+embox>
+l0000000pin09�0000��@I8888
+8I8888: Command not found
+tish error: #-2
+embox>
+����m
+��: Command not found
+tish error: #-2
+embox>
+�ye?�UG�ii
+8I8888: Command not found
+tish error: #-2
+embox>
+gd
+gd: Command not found
+tish error: #-2
+embox>
+Uexd�
+tish error: #-22
+embox>
+mpM
+mpM: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�ye?�U�vii
+8I8888�ye?�U�vii: Command not found
+tish error: #-2
+embox>
+�ye�USvii
+8I8888: Command not found
+tish error: #-2
+embox>
+yyyy��yyi
+tish error: #-22
+embox>
+�ye!�Uivii
+8I8888: Command not found
+tish error: #-2
+embox>
+X@
+X@: Command not found
+tish error: #-2
+embox>
+lx�
+lx�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+pin�
+pin�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�r
+�r: Command not found
+tish error: #-2
+embox>
+e�
+e�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+$
+$: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+expo�tr
+expo�tr: Command not found
+tish error: #-2
+embox>
+y
+y: Command not found
+tish error: #-2
+embox>
+5s5s
+5s5s: Command not found
+tish error: #-2
+embox>
+xxoxxx�xtxx|���x
+embox>
+xxox]hxtxx|���x
+embox>
+xxox]hxxx�x���x
+embox>
+xxox]hxxx�xtxx|
+embox>
+xxox]hxxx�xtxx|���x�xxxx|���������������xptrt�d
+xxox: Command not found
+tish error: #-2
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>
+xxox]hxxx�xtxx|���x
+embox>rt
+rt: Command not found
+tish error: #-2
+embox>
+xxox]hxxx�xtxx|���x��exit���ptrx��x|logout�xxd
+xxox: Command not found
+tish error: #-2
+embox>
+xxox���txx|���xexxxxx
+embox>
+x��xxsptwt�d
+8I8888: Command not found
+tish error: #-2
+embox>
+xxox���]hxxx�xtxx|���x
+embox>xptrt�d
+xptrt�d: Command not found
+tish error: #-2
+embox>
+xxoxdh�xlout������xptrt��xxx@��������������
+xxox: Command not found
+tish error: #-2
+embox>�xptr �d
+�xptr: Command not found
+tish error: #-2
+embox>
+�d
+�d: Command not found
+tish error: #-2
+embox>
+xxox]hxxx�xtxx|���x���xxxx|���������������xpt
+xxox: Command not found
+tish error: #-2
+embox>rt�d
+rt�d: Command not found
+tish error: #-2
+embox>
+x
+embox>�����xptrt�d
+8I8888: Command not found
+tish error: #-2
+embox>
+xxRxxx�xt�x|���xxptrt�d
+xx: Command not found
+tish error: #-2
+embox>
+xxox]hxxx�xtxx|���x
+embox>t�d
+t�d: Command not found
+tish error: #-2
+embox>
+�Vhxx��x|���m[H[H[2J
+d: Command not found
+tish error: #-2
+embox>�����t�d
+��: Command not found
+tish error: #-2
+embox>
+xxox]hxsx�xtxx|xsx�xt[?5h[?5l
+xxox: Command not found
+tish error: #-2
+embox>��xptrt�d
+��xptrt�d: Command not found
+tish error: #-2
+embox>
+xxox]hxxx�xtxx|���x
+embox>rt�d
+rt�d: Command not found
+tish error: #-2
+embox>
+xxexit}x]
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

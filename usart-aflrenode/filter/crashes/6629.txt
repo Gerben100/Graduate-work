@@ -1,0 +1,69 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>?tutttembox>?tuttt[K[13C��,����ot�embox>?tuttt��,����ot�[K[6Cembox>d?tuttt��,����ot�[K[7Cembox>d�?tuttt��,����ot�[K[8Cembox>d��?tuttt��,����ot�[K[9Cembox>d��y?tuttt��,����ot�[K[10Cembox>d��yr?tuttt��,����ot�[K[11Cembox>d��yr�?tuttt��,����ot�[K[12Cembox>d��yr��?tuttt��,����ot�[K[13Cembox>d��yr��c?tuttt��,����ot�[K[14Cembox>d��yr��cd?tuttt��,����ot�[K[15Cembox>d��yr��cdd?tuttt��,����ot�[K[16Cembox>d��yr��cdd�?tuttt��,����ot�[K[17Cembox>d��yr��cdd�t?tuttt��,����ot�[K[18Cembox>d��yr��cdd�tt?tuttt��,����ot�[K[19Cembox>d��yr��cdd�ttt?tuttt��,����ot�[K[20Cembox>d��yr��cdd�tttt?tuttt��,����ot�[K[21Cembox>d��yr��cdd�ttttt?tuttt��,����ot�[K[22Cembox>d��yr��cdd�tttttu?tuttt��,����ot�[K[23Cembox>d��yr��cdd�tttttu?tuttt��,����ot�[K[24C
+d��yr��cdd�tttttu?tuttt: Command not found
+tish error: #-2
+embox>
+�ttttttttttttttttytr
+�ttttttttttttttttytr: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+?tttt
+?tttt: Command not found
+tish error: #-2
+embox>
+?tut4tembox>
+?tut4t[K[14C����ͬ��ot��\d��yr��cdd�tttttu
+?tut4t: Command not found
+tish error: #-2
+embox>
+?tutttembox>
+?tuttt[K[14C�������ot��cd��yr��cdd�tatttu
+?tuttt: Command not found
+tish error: #-2
+embox>
+?tutttembox>
+?tuttt[K[14C��������t��cd��y����Fd�tttttu
+?tuttt: Command not found
+tish error: #-2
+embox>
+�
+embox>
+embox>
+?tutttembox>
+?tuttt[K[14C������embox>[K[6Cpt��cd��yr��cdd�Httttu
+pt��cd��yr��cdd�Httttu: Command not found
+tish error: #-2
+embox>
+?tutttembox>
+?tuttt�������ot��embox>[Kdݥyr��cdd�tttttu
+pt��cd��yr��cdd�Httttudݥyr��cdd�tttttu: Command not found
+tish error: #-2
+embox>
+?tuttzembox>
+?tuttzcd�������ot��cd��yr��d�tttttu
+?tuttz: Command not found
+tish error: #-2
+embox>
+?rcd[?5h[?5lsd�tt[?5h[?5ld�tt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

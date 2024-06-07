@@ -1,0 +1,258 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/kernel/task/multi/multi.c:351
+  in function task_start_exit
+
+task_self() != task_kernel_task()
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Zooo
+Zooo: Command not found
+tish error: #-2
+embox>
+���
+��: Command not found
+tish error: #-2
+embox>
+�xe�dx???????????????????????????
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+B>�56�}
+B>�56�}: Command not found
+tish error: #-2
+embox>
+�6656�embox>
+B>�56�}[K[14C
+B>�56�}: Command not found
+tish error: #-2
+embox>
+z&��Hembox>
+B>�56�}[K[14C
+B>�56�}: Command not found
+tish error: #-2
+embox>
+��������
+��������: Command not found
+tish error: #-2
+embox>
+/oembox>
+/[K[8C�n6� d7�l/oembox>
+/�n6� d7�l/[K[20C�on6�
+/�n6: Command not found
+tish error: #-2
+embox>
+�l���d�d
+�l: Command not found
+tish error: #-2
+embox>
+��embox>
+�l[K[9C
+�l: Command not found
+tish error: #-2
+embox>
+�6lomoutQ56�embox>
+�l[K
+�l: Command not found
+tish error: #-2
+embox>
+�orcd��zt
+�or: Command not found
+tish error: #-2
+embox>
+
+�
+�: Command not found
+tish error: #-2
+embox>
+orx^��deorxrx^��deorx^t
+tish error: #-22
+embox>
+�embox>
+[K[7C clogembox>
+ clogembox>
+ clog
+embox>
+@��1
+@: Command not found
+tish error: #-2
+embox>
+ �l?���ogou��l?��logou�trls�trls�
+tish error: #-22
+embox>
+�dd�ls{xpt
+tish error: #-22
+embox>
+F�����������������
+�[?5h[?5l
+xxgt
+F������: Command not found
+tish error: #-2
+embox>
+��cueo��Nt
+tish error: #-22
+embox>
+�tovxpttovxpt
+tish error: #-22
+embox>
+��cdeocdeorxptc�
+@: Command not found
+tish error: #-2
+embox>
+�
+embox>ctew�e@e�
+eeeQer�ptp`
+ctew�e@: Command not found
+tish error: #-2
+embox>
+�
+@: Command not found
+tish error: #-2
+embox>
+cdeov�p@
+cdeov�p@: Command not found
+tish error: #-2
+embox>
+�l��expXrt�g��
+�: Command not found
+tish error: #-2
+embox>
+��cdeorxpt
+@: Command not found
+tish error: #-2
+embox>
+�cd��rcdWosxp�
+�rcdWosxp�: Command not found
+tish error: #-2
+embox>
+pp
+pp: Command not found
+tish error: #-2
+embox>
+ex�ri
+ex�r�1iti: Command not found
+tish error: #-2
+embox>
+�
+embox>
+tish error: #-22
+embox>
+exitr�ftexntr�ft
+tish error: #-22
+embox>
+� eoexit���
+tish error: #-22
+embox>
+cdeo� t
+@cdeo�: Command not found
+tish error: #-2
+embox>
+cv
+cv: Command not found
+tish error: #-2
+embox>
+llll�lllll
+tish error: #-22
+embox>
+r�pt
+cdeoY~pt: Command not found
+tish error: #-2
+embox>
+eosdeorxpt
+tish error: #-22
+embox>
+�corx}t
+@orx}t: Command not found
+tish error: #-2
+embox>
+�pin
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+���des
+tish error: #-22
+embox>lsxpt
+embox>
+dedxpt
+de: Command not found
+tish error: #-2
+embox>
+�cdeogoutrxpt
+tish error: #-22
+embox>
+zn�oxp
+n�oxp: Command not found
+tish error: #-2
+embox>
+�����
+embox>
+�������t
+@�����t: Command not found
+tish error: #-2
+embox>
+cdcdrrxott
+tish error: #-22
+embox>
+�"cdeo�xpt
+tish error: #-22
+embox>
+��cdeorxpt
+�cdeorxpt: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ ��dcdeorx�rt��dcdeorx�rtpint
+�: Command not found
+tish error: #-2
+embox>
+������E t
+������E: Command not found
+tish error: #-2
+embox>
+��cdeor�pt
+tish error: #-22
+embox>
+�jrb��
+tish error: #-22
+embox>
+��cdeorlsxpt
+tish error: #-22
+embox>
+�cdeorxt
+tish error: #-22
+embox>
+���cdeor{pd���cdadeor{pt
+tish error: #-22
+embox>
+�pi.deorxpt
+pi.deorxpt: Command not found
+tish error: #-2
+embox>
+�cdeocdpt
+@pt: Command not found
+tish error: #-2
+embox>
+��bdeorxpt
+tish error: #-22
+embox>
+�ls��������������������������c�@�ckderxptcdlo
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

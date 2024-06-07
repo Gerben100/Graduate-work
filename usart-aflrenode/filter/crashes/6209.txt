@@ -1,0 +1,86 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��embox>��[K[8C
+embox>�tt�@|gottdtttttt�������
+�tt�: Command not found
+tish error: #-2
+embox>�embox>[K[6C�tttt�tt�@ttttttdttVttttttttogoutembox>[K[6C
+embox>�Vtt@�ttttttttd}tMembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6CttttttttttTtttt�t���@
+ttttttttttTtttt�t���@: Command not found
+tish error: #-2
+embox>tgost
+tgost: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+embox>�tt�@tgo2�stttttttttt�tttttttZt�tttttto��utembox>[K[6C�Vembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cttttttttttttttt�t
+ttttttttttttttt�t: Command not found
+tish error: #-2
+embox>�embox>�[K[6Cembox>Y�[K[7Cembox>Yt�[K[8Cembox>Ytg�[K[9Cembox>Ytgo�[K[10Cembox>Ytgon�[K[11Cembox>Ytgont�[K[12C
+Ytgont�: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+embox>�tt�@tgottdttttttembox>�tt�@tgottdtttttt[K
+�tt�: Command not found
+tish error: #-2
+embox>ttttttt�tt�@ttttttdttVtttttttogoutembox>[K[6C�V
+�V: Command not found
+tish error: #-2
+embox>tt@�tttttttttdttMembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Ctttttttttttttogoutembox>[K[6C
+embox>�Vtt@�vttttttttdttMembox>[K[6Cembox>[K[6Cembox>[K[6Cembox>[K[6Cttttttttttttttt�t��@
+ttttttttttttttt�t��: Command not found
+tish error: #-2
+embox>tgont
+tgont: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[9C
+embox>�tt�@tgodtttdtttttt�Vtt@�tt
+�tt�: Command not found
+tish error: #-2
+embox>tttttttttttttttttttttttt�tt�@t
+ttttttt�tt�: Command not found
+tish error: #-2
+embox>�t��@tgtttdttVttt
+�t��: Command not found
+tish error: #-2
+embox>
+��
+embox>�tt�@tgottdttttlttttttt�tt�@ttttttdttVttttttttogoM
+embox>ttttttttttt�tttttttdtdut�Vtt@�ttttt�t��@
+�Vtt: Command not found
+tish error: #-2
+embox>tgont
+tgont: Command not found
+tish error: #-2
+embox>
+��
+embox>�tt�@tglVs'to|tdttlsttont
+�tt�: Command not found
+tish error: #-2
+embox>
+��
+embox>�tt�@tgdtttttdttttttttt
+embox>tdttttttttt
+embox>tttt[tttttdbtM�ttttttttttt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

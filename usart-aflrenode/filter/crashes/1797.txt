@@ -1,0 +1,272 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lembox>l[K[6Cembox>(l[K[7Cembox>(xl[K[8Cembox>(xel[K[9Cembox>(xeNl[K[10Cembox>(xeNl[K[11Cembox>(xeNl[K[12Cembox>(xeNl[K[13Cembox>(xeN�l[K[14Cembox>(xeN�el[K[15Cembox>(xeN�eml[K[16Cembox>(xeN�eml[K[15Cembox>(xeN�e�ml[K[16Cembox>(xeN�e�6ml[K[17Cembox>(xeN�e�6Iml[K[18Cembox>(xeN�e�6Iml[K[19Cembox>(xeN�e�6I�ml[K[20Cembox>(xeN�e�6I�`ml[K[21Cembox>(xeN�e�6I�`6ml[K[22Cembox>(xeN�e�6I�`6@ml[K[23Cembox>(xeN�e�6I�`6@@ml[K[24Cembox>(xeN�e�6I�`6@@ml[K[25Cembox>(xeN�e�6I�`6@@ml[K[24Cembox>(xeN�e�6I�`6@@�ml[K[25Cembox>(xeN�e�6I�`6@@��ml[K[26Cembox>(xeN�e�6I�`6@@��Aml[K[27Cembox>(xeN�e�6I�`6@@��A�ml[K[28Cembox>(xeN�e�6I�`6@@��A�Aml[K[29Cembox>(xeN�e�6I�`6@@��A�A@ml[K[30Cembox>(xeN�e�6I�`6@@��A�A@@ml[K[31Cembox>(xeN�e�6I�`6@@��A�A@@@ml[K[32Cembox>(xeN�e�6I�`6@@��A�A@@@@ml[K[33Cembox>(xeN�e�6I�`6@@��A�A@@@@@ml[K[34Cembox>(xeN�e�6I�`6@@��A�A@@@@@@ml[K[35Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@ml[K[36Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@ml[K[37Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5ml[K[38Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@ml[K[39Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@ml[K[40Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@ml[K[41Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@ml[K[42Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@ml[K[43Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@ml[K[44Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@@ml[K[45Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@@@ml[K[46Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@@@@ml[K[47Cembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@@@@@ml[Kembox>(xeN�e�6I�`6@@��A�A@@@@@@@@5@@@@@@@@@@ml[K[49C
+(xeN: Command not found
+tish error: #-2
+embox>@\@@eymsp@�@@@@?@@@@@
+@\@@eymsp@�@@@@?@@@@@: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>
+l[K[7Cembox>x
+l[K[8Cembox>xe
+l[K[9Cembox>xeN
+l[K[10Cembox>xeN�
+l[K[11Cembox>xeN��
+l[K[12Cembox>xeN��(
+l[K[13Cembox>xeN��(x
+l[K[14Cembox>xeN��(xe
+l[K[15Cembox>xeN��(xem
+l[K[16Cembox>xeN��(xem
+l[K[15Cembox>xeN��(xe�m
+l[K[16Cembox>xeN��(xe�6m
+l[K[17Cembox>xeN��(xe�6Im
+l[K[18Cembox>xeN��(xe�6Im
+l[K[19Cembox>xeN��(xe�6I�m
+l[K[20Cembox>xeN��(xe�6I�>m
+l[K[21Cembox>xeN��(xe�6I�>6m
+l[K[22Cembox>xeN��(xe�6I�>6@m
+l[K[23Cembox>xeN��(xe�6I�>6@@m
+l[K[24Cembox>xeN��(xe�6I�>6@@m
+l[K[25Cembox>xeN��(xe�6I�>6@@m
+l[K[24Cembox>xeN��(xe�6I�>6@@�m
+l[K[25Cembox>xeN��(xe�6I�>6@@��m
+l[K[26Cembox>xeN��(xe�6I�>6@@��Am
+l[K[27Cembox>xeN��(xe�6I�>6@@��A�m
+l[K[28Cembox>xeN��(xe�6I�>6@@��A�Am
+l[K[29Cembox>xeN��(xe�6I�>6@@��A�A@m
+l[K[30Cembox>xeN��(xe�6I�>6@@��A�A@@m
+l[K[31Cembox>xeN��(xe�6I�>6@@��A�A@@@m
+l[K[32Cembox>xeN��(xe�6I�>6@@��A�A@@@@m
+l[K[33Cembox>xeN��(xe�6I�>6@@��A�A@@@@@m
+l[K[34Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@m
+l[K[35Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@m
+l[K[36Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@m
+l[K[37Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5m
+l[K[38Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@m
+l[K[39Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@m
+l[K[40Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@@@@m
+l[Kembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@@@@@m
+l[K[48Cembox>xeN��(xe�6I�>6@@��A�A@@@@@@@@5@@@@@@@@@@m
+l[K[49C
+xeN��(xe�6I: Command not found
+tish error: #-2
+embox>@?@@@@@
+@?@@@@@: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>(
+l[K[7Cembox>(x
+l[K[8Cembox>(xe
+l[K[9Cembox>(xeN
+l[K[10Cembox>(xeNV
+l[K[11Cembox>(xeNVV
+l[K[12Cembox>(xeNVVV
+l[K[13Cembox>(xeNVVVV
+l[K[14Cembox>(xeNVVVVV
+l[K[15Cembox>(xeNVVVVVV
+l[K[16Cembox>(xeNVVVVVVV
+l[K[17Cembox>(xeNVVVVVVVV
+l[K[18Cembox>(xeNVVVVVVVVV
+l[K[19Cembox>(xeNVVVVVVVVVV
+l[K[20Cembox>(xeNVVVVVVVVVVV
+l[K[21Cembox>(xeNVVVVVVVVVVVV
+l[K[22Cembox>(xeNVVVVVVVVVVVVV
+l[K[23Cembox>(xeNVVVVVVVVVVVVVV
+l[K[24Cembox>(xeNVVVVVVVVVVVVVVV
+l[K[25Cembox>(xeNVVVVVVVVVVVVVVVV
+l[K[26Cembox>(xeNVVVVVVVVVVVVVVVVV
+l[K[27Cembox>(xeNVVVVVVVVVVVVVVVVVV
+l[K[28Cembox>(xeNVVVVVVVVVVVVVVVVVVV
+l[K[29Cembox>(xeNVVVVVVVVVVVVVVVVVVVV
+l[K[30Cembox>(xeNVVVVVVVVVVVVVVVVVVVVV
+l[K[31Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVV
+l[K[32Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVVV
+l[K[33Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVV
+l[K[34Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVe
+l[K[35Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVey
+l[K[36Cembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeym
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeyms
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>�(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>��(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>���(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>���t(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>���tz(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+lembox>���tz?(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@
+l[K[12C
+���tz?(xeNVVVVVVVVVVVVVVVVVVVVVVVVeymsp@�@@@@: Command not found
+tish error: #-2
+embox>@@@@@
+@@@@@: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>(
+l[K[7Cembox>(x
+l[K[8Cembox>(xe
+l[K[9Cembox>(xe�
+l[K[10Cembox>(xe��
+l[K[11Cembox>(xe���
+l[K[12Cembox>(xe���(
+l[K[13Cembox>(xe���(x
+l[K[14Cembox>(xe���(xe
+l[Kembox>(xe���(xe[K[15Cembox>(xe���(xe[K[15Cembox>(xe���(xe[K[15Cembox>(xe���(xe[K[15Cembox>(xe���(xe[K[15Cembox>(xe���(xe[K[15Cmembox>(xe���(xem[K[15Cembox>(xe���(xe�m[K[16Cembox>(xe���(xe�6m[Kembox>(xe���(xe�6Im[Kembox>(xe���(xe�6Im[K[19Cembox>(xe���(xe�6I�m[K[20Cembox>(xe���(xe�6I�4m[K[21Cembox>(xe���(xe�6I�4@m[K[22Cembox>(xe���(xe�6I�4@@m[Kembox>(xe���(xe�6I�4@@5m[Kembox>(xe���(xe�6I�4@@5ym[Kembox>(xe���(xe�6I�4@@5ymm[Kembox>(xe���(xe�6I�4@@5ymsmembox>(xe���(xe�6I�4@@5ymspmembox>(xe���(xe�6I�4@@5ymsp@membox>(xe���(xe�6I�4@@5ymsp@�membox>(xe���(xe�6I�4@@5ymsp@�/membox>(xe���(xe�6I�4@@5ymsp@�/@membox>(xe���(xe�6I�4@@5ymsp@�/@@membox>(xe���(xe�6I�4@@5ymsp@�/@@@membox>(xe���(xe�6I�4@@5ymsp@�/@@@?membox>(xe���(xe�6I�4@@5ymsp@�/@@@?@membox>(xe���(xe�6I�4@@5ymsp@�/@@@?@@membox>(xe���(xe�6I�4@@5ymsp@�/@@@?@@@membox>(xe���(xe�6I�4@@5ymsp@�/@@@?@@@@membox>(xe���(xe�6I�4@@5ymsp@�/@@@?@@@@@m
+(xe���(xe�6I: Command not found
+tish error: #-2
+embox>
+lembox>
+l[K[6Cembox>(
+l[K[7Cembox>(x
+l[Kembox>(xe
+l[Kembox>(xeN
+l[Kembox>(xeN�
+l[Kembox>(xeN�[?5h[?5l
+l[Kembox>(xeN�[?5h[?5l(
+l[Kembox>(xeN�[?5h[?5l(x
+l[Kembox>(xeN�[?5h[?5l(xx
+l[Kembox>(xeN�[?5h[?5l(xxm
+l[K
+embox>�6I�>6@@embox>�6I�>6@@[K��A�A@@@@@@@)5@@@@@h@@@
+�6I: Command not found
+tish error: #-2
+embox>embox>[K@@@\@@eymsp@�@@@@_%@@@@
+@@@\@@eymsp@�@@@@_%@@@@: Command not found
+tish error: #-2
+embox>
+embox>
+[Kembox>
+[K
+embox>
+embox>�6I[Klogout���p������
+�6Ilogout���p������: Command not found
+tish error: #-2
+embox>
+embox>�6I[K
+�6I: Command not found
+tish error: #-2
+embox>
+embox>�6I[Kl?embox>[K[18Cl?�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[6C
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+d�
+d: Command not found
+tish error: #-2
+embox>
+lgoo�lpi�u
+lgoo�lpi: Command not found
+tish error: #-2
+embox>
+\l
+l: Command not found
+tish error: #-2
+embox>
+
+embox>
+wwww�
+embox>x
+x: Command not found
+tish error: #-2
+embox>
+���u
+�: Command not found
+tish error: #-2
+embox>
+���
+tish error: #-22
+embox>
+��
+tish error: #-22
+embox>
+���ye�ee"e�
+tish error: #-22
+embox>
+
+embox>
+dd@���@����ee�
+tish error: #-22
+embox>
+�k�
+�k�: Command not found
+tish error: #-2
+embox>
+�Ye�eee�
+tish error: #-22
+embox>
+l�ye�eee}
+tish error: #-22
+embox>
+l�ye� e[�
+tish error: #-22
+embox>
+l�yeee�
+tish error: #-22
+embox>
+Z�
+Z�: Command not found
+tish error: #-2
+embox>
+  �ye�eee�
+tish error: #-22
+embox>
+l�ye�eee�
+tish error: #-22
+embox>
+
+embox>
+lotlot
+lotlot: Command not found
+tish error: #-2
+embox>
+� 
+tish error: #-22
+embox>
+lGl 
+tish error: #-22
+embox>
+"
+: Command not found
+tish error: #-2
+embox>
+!lSg
+!l: Command not found
+tish error: #-2
+embox>
+lS������lexport
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>ettttt �,�t��h}embox>ettttt �,�t��h[K[22C�d
+embox>pembox>passwd[K[12C �ye�embox>passwd �ye�[K[6Cembox>passwd �ye�[K[7Cembox>,passwd �ye�[K[8Cembox>,�passwd �ye�[K[9Cembox>,passwd �ye�[K[8Cembox>,passwd �ye�[K[9Cembox>,passwd �ye�[K[10Cembox>,tpasswd �ye�[K[11Cembox>,ttpasswd �ye�[K[12Cembox>,ttUpasswd �ye�[K[13Cembox>,ttUtpasswd �ye�[K[14Cembox>,ttUttpasswd �ye�[K[15Cembox>,ttUttdpasswd �ye�[K[16Cembox>,ttUttdtpasswd �ye�[K[17Cembox>,ttUttdttpasswd �ye�[K[18Cembox>,ttUttdttVpasswd �ye�[K[19Cembox>,ttUttdttVtpasswd �ye�[K[20Cembox>,ttUttdttVt@passwd �ye�[K[21Cembox>,ttUttdttVt@epasswd �ye�[K[22Cembox>,ttUttdttVt@expasswd �ye�[K[23Cembox>,ttUttdttVt@exppasswd �ye�[K[24Cembox>,ttUttdttVt@expopasswd �ye�[K[25Cembox>,ttUttdttVt@exporpasswd �ye�[K[26Cembox>,ttUttdttVt@exportpasswd �ye�[K[27Cembox>,ttUttdttVt@exporttpasswd �ye�[K[28Cembox>,ttUttdttVt@exportt�passwd �ye�[K[29Cembox>,ttUttdttVt@exportt�passwd �ye�[K[30Cembox>,ttUttdttVt@exportt�@passwd �ye�[K[31Cembox>,ttUttdttVt@exportt�@tpasswd �ye�[K[32Cembox>,ttUttdttVt@exportt�@tgpasswd �ye�[K[33Cembox>,ttUttdttVt@exportt�@tgopasswd �ye�[K[34Cembox>,ttUttdttVt@exportt�@tgoupasswd �ye�[K[35C
+embox>
+e@embox>
+e@[K[10C
+embox>pembox>passwd[K[12C ttttttt@tgou
+passwd: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[10C
+embox>pembox>passwd[K[12C ttttttttttttttttt
+�
+passwd: Command not found
+tish error: #-2
+embox>lttVtttttdttVtttttt�tt�@tgou
+lttVtttttdttVtttttt�tt�: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[10C
+embox>pembox>passwd[K[12C tttttttttttttttttt�
+passwd: Command not found
+tish error: #-2
+embox>�embox>�[K[7C_i a_�@_itt�gt�@tgou
+�: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[10C
+embox>pembox>passwd[K[12C ttttttttttttttttttembox>�[K[8C
+�: Command not found
+tish error: #-2
+embox>embox>[K[6Cttttttt�lttVtttttdttVtttttt�tt�@tgou
+ttttttt�lttVtttttdttVtttttt�tt�: Command not found
+tish error: #-2
+embox>
+e@�
+embox>�[?5h[?5l �ttt�tt�ttttBtttt~tts\Vt
+�: Command not found
+tish error: #-2
+embox>ltttttt�tcdt@tgou
+ltttttt�tcdt@tgou: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K[10C
+embox>p[?5h[?5l ttttttsttttt�tttttt�
+p: Command not found
+tish error: #-2
+embox>lttVtttttdttVtttttt�tt�@tgou
+lttVtttttdttVtttttt�tt�: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K
+embox>p[?5h[?5l �kembox>p [K[9Ctttembox>p ttt[Kembox>p ttt[Kembox>p tttt[Kembox>p ttttt[Kembox>p tttttt[Kembox>p ttttttt[Kembox>[K[19Cembox>[K[20Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28C
+p: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K
+embox>p[?5h[?5l tttttx�ltttttttttttttembox>p [K[9C�lttVtttttdttVtttttt�tt�@tgou
+p: Command not found
+tish error: #-2
+embox>
+e@embox>
+e@[K
+embox>p[?5h[?5l tttttttttttWt
+p: Command not found
+tish error: #-2
+embox>ttttt�lttVtttttdttVtttttt�tt�@tgou
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

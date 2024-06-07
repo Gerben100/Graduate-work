@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>l�������
+l�������: Command not found
+tish error: #-2
+embox>
+l������#���rrrr�rrrrrrrrrrrembox>l�������[K[15C
+l�������: Command not found
+tish error: #-2
+embox>
+l������embox>l�������[K[15C
+l�������: Command not found
+tish error: #-2
+embox>
+l��@����embox>l�������[K[15C����pin
+l�����������pin: Command not found
+tish error: #-2
+embox>
+l������������������embox>l�����������pin[K[22C�
+l�����������pin�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+��@
+tish error: #-22
+embox>
+l������������������embox>
+[K[7Cembox>
+��[K[9Cembox>l�����������pin�[K[23C
+l�����������pin�: Command not found
+tish error: #-2
+embox>
+l�������������embox>l�����������pin�[K[23C
+l�����������pin�: Command not found
+tish error: #-2
+embox>
+l�������������#��embox>l�����������pin�[K[23Cembox>
+[K[7Cembox>
+��[K[9Cembox>l�����������pin�[K[23C
+l�����������pin�: Command not found
+tish error: #-2
+embox>
+l�����l������������embox>l�����������pin�[K[23Cembox>
+[K[7Cembox>
+��[K[9Cembox>l�����������pin�[K[23C
+l�����������pin�: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[8Cembox>
+[K[7C�
+embox>dttVYt�tdttV6exitYZtt�@tgousttexit�tt�
+dttVYt�tdttV6exitYZtt�: Command not found
+tish error: #-2
+embox>tgtembox>dttVYt�tdttV6exitYZtt�[K[28Cdcdce�tttcI���d�tVtttttmtlsttexit�tttmtl
+dttVYt�tdttV6exitYZtt�dcdce�tttcI���d�tVtttttmtlsttexit�tttmtl: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[8C�VYtttV�embox>
+e�VYtttV[K[15C���tt�embox>
+e�VYtttV���tt[K[20CtUttt�embox>
+e�VYtttV���tttUttt[Ktt�exi��tgou
+e�VYtttV���tt: Command not found
+tish error: #-2
+embox>td
+td: Command not found
+tish error: #-2
+embox>
+eembox>
+e[K[8Clstd�ttttttembox>td[K[8Cdcdce�ttt�embox>tddcdce�ttt[K[18C���dttVtt
+tddcdce�ttt���dttVtt: Command not found
+tish error: #-2
+embox>tttttembox>tttt[K[10Cttexil�tt�@tgoutd
+tttt: Command not found
+tish error: #-2
+embox>
+els#ttVYtttVYtttttttdcd
+ttttdcd: Command not found
+tish error: #-2
+embox>ce�ttt����dttVtttttttttexit�tt�@tgoutd
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

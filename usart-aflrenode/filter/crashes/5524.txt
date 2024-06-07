@@ -1,0 +1,110 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Ed���dxM�pM�embox>Ed���dxM�pM�[K[19Cembox>Ed���dxM�pM�[K[19Cembox>Ed���dxM�pM[K[18Cembox>Ed���dxM�pM[K[19C�iembox>Ed���dxM�pM�[K[24Cembox>Ed���dxM�pM�[K[25C�.i�
+Ed: Command not found
+tish error: #-2
+embox>
+E��
+E��: Command not found
+tish error: #-2
+embox>
+Ed���d
+Ed: Command not found
+tish error: #-2
+embox>
+E`logou�embox>
+E`logou�[K[20C�dx�
+E`logou: Command not found
+tish error: #-2
+embox>
+E���dxpM�embox>
+E���dxpM�[K[18Cembox>
+E���dxpM�[K[18Cembox>
+E���dxpM[K[17Cembox>
+E���dxpM[K[18C�i�
+E�: Command not found
+tish error: #-2
+embox>
+Ed��dx�embox>
+Ed��dx�[K[19Cembox>
+Ed��dx�[K[18Cembox>
+Ed��dx�[K[19C� i3
+Ed: Command not found
+tish error: #-2
+embox>
+Ed�
+Ed: Command not found
+tish error: #-2
+embox>
+F~exiembox>
+F~exi[K[11Cembox>
+F~exi[K[12Cembox>
+F~ex�i[K[13Cembox>
+F~ex�i[K[14Cembox>
+F~ex��i[K[15Cembox>
+F~ex��ii[K[16Cembox>
+F~ex��i&i[K[17Cembox>
+F~ex��i&�i[K[18C
+F~ex: Command not found
+tish error: #-2
+embox>
+z��embox>[K[6C#Y
+#Y: Command not found
+tish error: #-2
+embox>
+Ed�Ed�M�embox>
+Ed�Ed�M�[K[18Cembox>
+Ed�Ed�M�[K[18Cembox>
+Ed�Ed�M[K[17C��������������������������������embox>
+Ed�Ed�M���������������������������������
+Ed: Command not found
+tish error: #-2
+embox>i�
+embox>
+Ed��xp�@M�embox>
+Ed��xp�@M�[K[18Cembox>
+Ed��xp�@M�[K[18Cembox>
+Ed��xp�@M�[K[19C�i�
+Ed: Command not found
+tish error: #-2
+embox>
+ExX��exit�embox>
+ExX��exit�[K[17Cembox>
+ExX��exit�[K[6Cembox>
+ExX��exit�[K[18C�embox>
+ExX��exit��[K[19Cembox>
+ExX��exit��[K[6Cembox>
+ExX��exit��[K[20Cembox>
+ExX��exit��[K[20C�i�
+ExX��exit��: Command not found
+tish error: #-2
+embox>
+����embox>
+����� 
+tish error: #-22
+embox>
+Ek�@]�
+Ek�@: Command not found
+tish error: #-2
+embox>
+Ed
+Ed: Command not found
+tish error: #-2
+embox>�dxp"M�eit}g"�eyit
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

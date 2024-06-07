@@ -1,0 +1,91 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>Zembox>Z[K[6Cembox>[?5h[?5lZ[K[7Cembox>[?5h[?5l�Z[K[8Cembox>[?5h[?5l��Z[K[9Cembox>[?5h[?5l��ZZ[K[10Cembox>[?5h[?5l��ZZ[K[6Cembox>[?5h[?5l[?5h[?5l��ZZ[K[7Cembox>[?5h[?5l�[?5h[?5l��ZZ[K[8Cembox>[?5h[?5l��[?5h[?5l��ZZ[K[9Cembox>[?5h[?5l��[?5h[?5l��ZZ[K[10Cembox>[?5h[?5l��[?5h[?5l��ZZ[K[6Cembox>[?5h[?5l��[?5h[?5l��ZZ[K[7Cembox>[?5h[?5l��[?5h[?5l��ZZ[K[8Cembox>�[?5h[?5l��[?5h[?5l��ZZ[K[9Cembox>�g[?5h[?5l��[?5h[?5l��ZZ[K[10Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[11Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[12Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[6Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[7Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[6Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[7Cembox>�go[?5h[?5l��[?5h[?5l��ZZ[K[8Cembox>��go[?5h[?5l��[?5h[?5l��ZZ[K[9Cembox>���go[?5h[?5l��[?5h[?5l��ZZ[K[10Cembox>��o�go[?5h[?5l��[?5h[?5l��ZZ[K[11Cembox>��o�go[?5h[?5l��[?5h[?5l��ZZ[K[12Cembox>��o�go[?5h[?5l��[?5h[?5l��ZZ[K[6Cembox>��o�go[?5h[?5l��[?5h[?5l��ZZ[K[7Cembox>l��o�go[?5h[?5l��[?5h[?5l��ZZ[K[8Cembox>lo��o�go[?5h[?5l��[?5h[?5l��ZZ[K[9Cembox>lo���o�go[?5h[?5l��[?5h[?5l��ZZ[K[10Cembox>lo����o�go[?5h[?5l��[?5h[?5l��ZZ[K[11Cembox>lo��u��o�go[?5h[?5l��[?5h[?5l��ZZ[K[12C
+embox>
+Jomgod
+Jomgod: Command not found
+tish error: #-2
+embox>
+B���embox>
+B���[K[6Cembox>
+B���[K[7Cembox>
+B���[K[8Cembox>�
+B���[K[9Cembox>��
+B���[K[10Cembox>���
+B���[K[11Cembox>���o
+B���[K[12Cembox>���og
+B���[K[13Cembox>���ogo
+B���[K[14Cembox>���ogou
+B���[K[15C
+embox>
+
+tish error: #-22
+embox>
+@c�pin�ex����
+@c�pin�: Command not found
+tish error: #-2
+embox>
+Zc�c�xit����
+Zc�c�xit����: Command not found
+tish error: #-2
+embox>
+Zc�|Vx�embox>
+Zc�|Vx�[K[16Cembox>
+Zc�|Vx��[K[17C
+Zc�|: Command not found
+tish error: #-2
+embox>
+Pc��
+Pc��: Command not found
+tish error: #-2
+embox>
+��>>>>>>>>>>>>>>�@@dx�@�@@d�����
+��>>>>>>>>>>>>>>�@@dx�@�@@d�����: Command not found
+tish error: #-2
+embox>
+Zn���������j�����������
+Zn���������j�����������: Command not found
+tish error: #-2
+embox>
+Z�ex��Zc���
+Z: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Zc��"eexportx��
+Zc��: Command not found
+tish error: #-2
+embox>
+�tt��tttut
+�tt��tttut: Command not found
+tish error: #-2
+embox>
+e!��cd
+�tt��tttut: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�dDEt
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

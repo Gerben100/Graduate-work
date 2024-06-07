@@ -1,0 +1,255 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p
+p: Command not found
+tish error: #-2
+embox>
+�pp
+�pp: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+ls�nAiembox>
+ls�nA[K[14C
+ls: Command not found
+tish error: #-2
+embox>
+Z�r�
+tish error: #-22
+embox>
+xtP@t
+tish error: #-22
+embox>
+�Yembox>
+�[K[8Crp
+�rp: Command not found
+tish error: #-2
+embox>
+P~�@?@+oX
+P~�@?@+o: Command not found
+tish error: #-2
+embox>
+lOgout����wembox>
+lOgout����w[K[6Cembox>
+lOgout����w[Kembox>
+lOgout����w[K[8Cembox>$
+lOgout����w[K[9Cembox>$
+lOgout����w[K[10Cembox>$
+lOgout����w[K[9Cembox>$v
+lOgout����w[K[10C
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+@w�����������[?5h[?5lx1
+tish error: #-22
+embox>
+wembox>
+[K[7C��wembox>
+P~�@?@+o[K[15C��
+P~�@?@+o��: Command not found
+tish error: #-2
+embox>
+embox>
+embox>
+x1
+tish error: #-22
+embox>
+sw�embox>[K[?5h[?5lembox>[Kembox>[Kembox>[K
+x1: Command not found
+tish error: #-2
+embox>
+sw��[?5h[?5l�1
+tish error: #-22
+embox>
+s��m[?5h[?5lx�
+tish error: #-22
+embox>
+sxxyxxxpx�1
+tish error: #-22
+embox>
+sw���x�
+tish error: #-22
+embox>
+�3w�����x
+embox>
+8l
+8l: Command not found
+tish error: #-2
+embox>
+itsj------------------[?5h[?5l�xlogout1
+tish error: #-22
+embox>
+j
+j: Command not found
+tish error: #-2
+embox>
+�ee^�
+tish error: #-22
+embox>
+/e^�
+/: Command not found
+tish error: #-2
+embox>
+de�logout�
+tish error: #-22
+embox>
+te^�
+t: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+��e^cc��
+��e^cc�: Command not found
+tish error: #-2
+embox>
+��ӂ
+tish error: #-22
+embox>
+�����t 
+tish error: #-22
+embox>
+�epi
+^�^�: Command not found
+tish error: #-2
+embox>
+�y�l��ee^[H[H[2J
+tish error: #-22
+embox>
+@@��d
+@: Command not found
+tish error: #-2
+embox>
+J�@
+J�: Command not found
+tish error: #-2
+embox>
+^�pin@
+^�: Command not found
+tish error: #-2
+embox>
+M���@
+M���@: Command not found
+tish error: #-2
+embox>
+��u��uuuvuuuuu�uuuuo�ghouExpor@
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+Z�@����
+Z�: Command not found
+tish error: #-2
+embox>
+@
+@: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+exp�rtc
+exp�rtc: Command not found
+tish error: #-2
+embox>
+0@��@A@@@
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+embox>���
+embox>
+�@��
+�: Command not found
+tish error: #-2
+embox>
+
+embox>�
+KKKKKKKKKKKKKKKKKKKKKK���
+embox>
+�������
+������: Command not found
+tish error: #-2
+embox>
+@��#
+@: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+��
+embox>
+���
+tish error: #-22
+embox>
+cd
+cd: Command not found
+tish error: #-2
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+�It
+�It: Command not found
+tish error: #-2
+embox>
+xd
+tish error: #-22
+embox>
+�j_i�logout�wecd�w_�x
+tish error: #-22
+embox>
+�????
+x?,�_2�_8x`�x
+x1: Command not found
+tish error: #-2
+embox>
+
+embox>��ec ��ye�$
+
+x1: Command not found
+tish error: #-2
+embox>
+  
+�: Command not found
+tish error: #-2
+embox>
+?_ed�
+?: Command not found
+tish error: #-2
+embox>
+�%exY
+exit: exit code should be numerical value
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

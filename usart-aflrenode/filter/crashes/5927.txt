@@ -1,0 +1,130 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+: Command not found
+tish error: #-2
+embox>
+]�
+]�: Command not found
+tish error: #-2
+embox>
+ xit�
+xit�: Command not found
+tish error: #-2
+embox>
+qogyx���ogyx���qogyx����k�
+tish error: #-22
+embox>
+��Q`@[H[H[2Jembox>
+��Q`@[K[13Cembox>
+��Q`@[K[12Cembox>
+��Q`@[K[13Cembox>
+��Q`*@[K[14Cembox>
+��Q`*@[K[15C����@�@`@[H[H[2Jembox>
+��Q`*@����@�@`@[K[27Cembox>
+��Q`*@����@�@`@[K[26Cembox>
+��Q`*@����@�@`@[K[27Cembox>
+��Q`*@����@�@`%@[K[28Cembox>
+��Q`*@����@�@`%@[K[29C
+tish error: #-22
+embox>Qd
+Qd: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�jq��cembox>
+�jq��[K[14C�embox>
+[K[7Cembox>Qd[K[8Cembox>
+[K[7C
+tish error: #-22
+embox>
+ks�`d@cd#
+ks�`d@: Command not found
+tish error: #-2
+embox>
+j[H[H[2Jembox>
+j[K[8Cembox>[K[6C
+embox>
+kq�cd@"embox>
+kq�cd@"[K[13Cembox>
+kq�cd@@"[K[14Cembox>
+kq�cd@@"[K[15C
+kq�cd@@: Command not found
+tish error: #-2
+embox>
+ kq�cdDembox>
+ kq�cdD[K[15Cembox>
+ kq�cdD[K[16Cembox>
+ kq�cdD�[K[17Cembox>
+ kq�cdD�c[K[18Cembox>
+ kq�cdD�cd[K[19Cembox>
+ kq�cdD�cd[K[20Cembox>
+ kq�cdD�cd[K[19Cembox>
+ kq�cdD�cdU[K[20Cembox>
+ kq�cdD�cdUU[K[21Cembox>
+ kq�cdD�cdUUUembox>
+ kq�cdD�cdUUUUembox>
+ kq�cdD�cdUUUUUembox>
+ kq�cdD�cdUUUUUUembox>
+ kq�cdD�cdUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUUUUembox>
+ kq�cdD�cdUUUUUUUUUUUUUUUtembox>
+ kq�cdD�cdUUUUUUUUUUUUUUUtembox>
+ kq�cdD�cdUUUUUUUUUUUUUUUt�
+kq�cdD�cdUUUUUUUUUUUUUUU: Command not found
+tish error: #-2
+embox>
+�q�cd�embox>
+�q�cd�[K[13Cembox>
+�q�cd�[K[14C
+�q�cd�: Command not found
+tish error: #-2
+embox>
+cdkU�cdembox>
+cdkU�cd[K[13Cembox>
+cdkU�cd[K[14Cembox>
+cdkU�c@d[K[15Cembox>
+cdkU�c@d[K[16Cembox>
+cdkU�c@d[K
+cdkU�c@: Command not found
+tish error: #-2
+embox>
+�q�embox>
+cdkU�c@[K[15Cd@embox>
+cdkU�c@d@[Kembox>
+cdkU�c@d@[K
+�q�: Command not found
+tish error: #-2
+embox>
+kq�cd@
+kq�cd@�: Command not found
+tish error: #-2
+embox>
+�����������eY�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

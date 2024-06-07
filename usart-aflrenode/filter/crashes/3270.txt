@@ -1,0 +1,100 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+ll�
+ll�: Command not found
+tish error: #-2
+embox>
+embox>
+ll�[K[10Cڀ���
+ll�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>
+�[K[8C�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+
+embox>��
+��: Command not found
+tish error: #-2
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+embox>
+���[K[10Cembox>
+��[K[9Cembox>
+��[K[6Cembox>��[K[6Cembox> ��[K[7Cembox> ���[K[8Cembox> ���[K[9Cembox> ���[K[10Cembox> ���[K[11Cembox> ���[K[10Cembox> �w��[K[11Cembox> �w�[K[12Cembox> �w�[K[13Cembox> �w��F�[K[14Cembox> �w��FB�[K[15Cembox> �w��F�[K[14Cembox> �w�[K[13Cembox> �w���[K[14Cembox> �w���[K[13C
+�: Command not found
+tish error: #-2
+embox>
+embox> �[K[8Cembox> [K[7Cembox>[K[6C,,2��
+,,2: Command not found
+tish error: #-2
+embox>
+embox>,,2[Kembox>,,[Kembox>,[K��VB~��embox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26C
+,: Command not found
+tish error: #-2
+embox>
+embox>,[K[7Cembox>[K[6Cembox>embox>embox>,,2~embox>,,2~embox>,,~embox>,,~embox>,,~embox>,,~embox>,,~embox>�,,~embox>��,,~embox>���,,~embox>����,,~embox>����,,~embox>����,,~embox>����,,~
+embox>
+embox>,,2[Kdembox>[K[14C�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12C
+embox>
+~d
+~d: Command not found
+tish error: #-2
+embox>
+embox>
+~dembox>
+~embox>
+~embox>�
+~embox>��
+~embox>���
+~embox>����
+~embox>����)
+~embox>����)#
+~embox>����)#
+~embox>����)#~embox>����)#�~embox>����)#��~embox>����)#���~embox>����)#��~�embox>����)#��~F�embox>����)#��~Fd�embox>����)#��~F�embox>����)#��~F�embox>����)#��~F��embox>����)#��~F��embox>����)#��~F�F�embox>����)#��~F�FB�embox>����)#��~F�FB��embox>����)#��~F�FB��embox>����)#��~F�FB��
+����)#��~F: Command not found
+tish error: #-2
+embox>
+
+���4: Command not found
+tish error: #-2
+embox>
+��{
+tish error: #-22
+embox>
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

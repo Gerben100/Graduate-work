@@ -1,0 +1,239 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>xembox>[K[6C��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+x?embox>
+�[K[8Cxpt7e�embox>
+�xpt7e�[K[16Cembox>
+�xpt7e�[K[17Cembox>��[K[8C@
+��@: Command not found
+tish error: #-2
+embox>
+x?6ls'>Et6@@@?@@
+x: Command not found
+tish error: #-2
+embox>
+xDe��[poutembox>
+xDe��[pout[K[19Cembox>
+xDe��[pout[K[20Cembox>
+xDe��[pout[K[21Cembox>
+xDe��[pourt[K[22Cembox>
+xDe��[pour6t[K[23Cembox>
+xDe��[pour6)t[K[24Cembox>
+xDe��[pour6)�t[K[25Cembox>
+xDe��[pour6)�dt[K[26Cembox>
+xDe��[pour6)�dt[K[27Cembox>
+xDe��[pour6)�dt[K[28Cembox>
+xDe��[pour6)�dt[K[29Cembox>
+xDe��[pour6)�d>t[K[30Cembox>
+xDe��[pour6)�d>1t[K[31Cembox>
+xDe��[pour6)�d>1\t[K[32Cembox>
+xDe��[pour6)�d>1\�t[K[33Cembox>
+xDe��[pour6)�d>1\�@t[K[34Cembox>
+xDe��[pour6)�d>1\�@@t[K[35Cembox>
+xDe��[pour6)�d>1\�@@?t[K[36Cembox>
+xDe��[pour6)�d>1\�@@?@t[K[37Cembox>
+xDe��[pour6)�d>1\�@@?@@t[K[38C
+x: Command not found
+tish error: #-2
+embox>
+xI56expt6dembox>
+xI56expt6d[K[21Cembox>
+xI56expt6d[K[22Cembox>
+xI56expt6dp[K[23Cembox>
+xI56expt6dpt[K[24Cembox>
+xI56expt6dpt6[K[25Cembox>
+xI56expt6dpt6d[K[26Cembox>
+xI56expt6dpt6d[K[27Cembox>
+xI56expt6dpt6d[K[28Cembox>
+xI56expt6dpt6d[K[29Cembox>
+xI56expt6dpt6d[K[30Cembox>
+xI56expt6dpt6d[K[29Cembox>
+xI56expt6dpt6d[K[30Cembox>
+xI56expt6dpt6d[[K[31Cembox>
+xI56expt6dpt6d[p[K[32Cembox>
+xI56expt6dpt6d[pt[K[33Cembox>
+xI56expt6dpt6d[pt6[K[34Cembox>
+xI56expt6dpt6d[pt6[[K[35Cembox>
+xI56expt6dpt6d[pt6[p[K[36Cembox>
+xI56expt6dpt6d[pt6[pt[K[37Cembox>
+xI56expt6dpt6d[pt6[pt6[K[38Cembox>
+xI56expt6dpt6d[pt6[pt6[K[39Cembox>
+xI56expt6dpt6d[pt6[pt6?[K[40Cembox>
+xI56expt6dpt6d[pt6[pt6?�[K[41Cembox>
+xI56expt6dpt6d[pt6[pt6?�@[K[42Cembox>
+xI56expt6dpt6d[pt6[pt6?�@[K[43Cembox>
+xI56expt6dpt6d[pt6[pt6?�@[K[44Cembox>
+xI56expt6dpt6d[pt6[pt6?�@[K[45Cembox>
+xI56expt6dpt6d[pt6[pt6?�@[K[44Cembox>
+xI56expt6dpt6d[pt6[pt6?�@6[K[45Cembox>
+xI56expt6dpt6d[pt6[pt6?�@6)[K[46Cembox>
+xI56expt6dpt6d[pt6[pt6?�@6)5[K[47Cembox>
+xI56expt6dpt6d[pt6[pt6?�@6)5'[K[48Cembox>
+xI56expt6dpt6d[pt6[pt6?�@6)5'>embox>
+xI56expt6dpt6d[pt6[pt6?�@6)5'>1
+x: Command not found
+tish error: #-2
+embox>@@@@?@@
+@@@@?@@: Command not found
+tish error: #-2
+embox>
+x?xpinptKdlȕsembox>
+x?xpinptKdlȕs[K[6Cembox>
+x?xpinptKdlȕs[K[7Cembox>�
+x?xpinptKdlȕs[K[8Cembox>�@
+x?xpinptKdlȕs[K[9Cembox>�@@
+x?xpinptKdlȕs[K[10Cembox>�@@@
+x?xpinptKdlȕs[K[11Cembox>�@@@@
+x?xpinptKdlȕs[K[12Cembox>�@@@@?
+x?xpinptKdlȕs[K[13Cembox>�@@@@?6
+x?xpinptKdlȕs[K[14Cembox>�@@@@?6@
+x?xpinptKdlȕs[K[15Cembox>�@@@@?6@
+x?xpinptKdlȕs[K[16Cembox>�@@@@?6@b
+x?xpinptKdlȕs[K[17Cembox>�@@@@?6@b'
+x?xpinptKdlȕs[K[18Cembox>�@@@@?6@b'>
+x?xpinptKdlȕs[K[19Cembox>�@@@@?6@b'>1
+x?xpinptKdlȕsembox>�@@@@?6@b'>1p
+x?xpinptKdlȕsembox>�@@@@?6@b'>1pt
+x?xpinptKdlȕsembox>�@@@@?6@b'>1pt6
+x?xpinptKdlȕsembox>�@@@@?6@b'>1pt6
+x?xpinptKdlȕsembox>�@@@@?6@b'>1pt6
+x?xpinptKdlȕsembox>�@@@@?6@b'>1pt6
+x?xpinptKdlȕsembox>@@@@?@@[K[13C
+@@@@?@@: Command not found
+tish error: #-2
+embox>
+embox>[K[6C6ddembox>6d[K[12C6dembox>@@@@?@@[K[13C[H[H[2Jembox>@@@@?@@[K[13C? ontd"embox>@@@@?@@? ontd"[K[23C[H[2Jembox>@@@@?@@? ontd"[K[23Cembox>@@@@?@@? ontd"?[K[24Cembox>@@@@?@@? ontd"?�[K[25Cembox>@@@@?@@? ontd"?�[K[26Cembox>@@@@?@@? ontd"?�[K[27Cembox>@@@@?@@? ontd"?�?[K[28Cembox>@@@@?@@? ontd"?�?@[K[29Cembox>@@@@?@@? ontd"?�?@@[K[30C
+@@@@?@@?: Command not found
+tish error: #-2
+embox>
+x?�expttttttttttttttt6@embox>@@@@?@@?[K[14Cembox>@@@@?@@[K[13C6)5'>1@@@@?@@
+@@@@?@@6)5'>1@@@@?@@: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>>
+�[K[8Cembox>>x
+�[K[9Cembox>>x{
+�[K[10Cembox>>x{1
+�[K[11Cembox>>x{11
+�[K[12Cembox>>x{111
+�[K[13Cembox>>x{111t
+�embox>>x{111t'
+�embox>>x{111t'e
+�embox>>x{111t'ep
+�embox>>x{111t'epo
+�embox>>x{111t'epor
+�embox>>x{111t'epor1
+�
+embox>
+x?�expt6dembox>
+x?�expt6dembox>
+x?�expt6dembox>
+x?�expt6d[embox>
+x?�expt6d[pembox>
+x?�expt6d[ptembox>
+x?�expt6d[pt6embox>
+x?�expt6d[pt6Iembox>
+x?�expt6d[pt6I5embox>
+x?�expt6d[pt6I56embox>
+x?�expt6d[pt6I56@embox>
+x?�expt6d[pt6I56embox>
+x?�expt6d[pt6I56 embox>
+x?�expt6d[pt6I56 )embox>
+x?�expt6d[pt6I56 )5embox>
+x?�expt6d[pt6I56 )5'embox>
+x?�expt6d[pt6I56 )5'>embox>
+x?�expt6d[pt6I56 )5'>1embox>
+x?�expt6d[pt6I56 )5'>1@embox>
+x?�expt6d[pt6I56 )5'>1@@embox>
+x?�expt6d[pt6I56 )5'>1@@'embox>
+x?�expt6d[pt6I56 )5'>1@@'@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6)embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6)5embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6)5'embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6)5'>embox>
+x?�expt6d[pt6I56 )5'>1@@'@@?@@6)5'>1
+x: Command not found
+tish error: #-2
+embox>@@@@?@@
+@@@@?@@: Command not found
+tish error: #-2
+embox>
+x?��6dembox>
+x?��6d[Kembox>
+x?��6d[Kembox>
+x?��6d[[Kembox>
+x?��6d[p[Kembox>
+x?��6d[pt[Kembox>
+x?��6d[pt6[Kembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45C
+x: Command not found
+tish error: #-2
+embox>
+x"�expt6dM�i�[?5h[?5l����������5'>1@@@@?@@
+x: Command not found
+tish error: #-2
+embox>
+xNNSspio��og6Iinembox>
+xNNSspio��og6IinTw?�e�pt6dlembox>
+x[K[8Cxi���embox>
+xxi���[K[15Cp56@embox>
+xxi���p56@[K
+x: Command not found
+tish error: #-2
+embox>6)5'>n@@@M@@
+6)5'>n@@@M@@: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+s
+s: Command not found
+tish error: #-2
+embox>
+����ܝl@
+����ܝl@: Command not found
+tish error: #-2
+embox>
+x�ll�
+x�: Command not found
+tish error: #-2
+embox>
+���������������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

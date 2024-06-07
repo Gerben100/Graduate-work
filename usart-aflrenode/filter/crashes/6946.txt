@@ -1,0 +1,126 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�1embox>�[K[7CXx�pxx�px
+�Xx�pxx�px: Command not found
+tish error: #-2
+embox>
+embox>�Xx�pxx�px[K[16C1embox>�Xx�pxx�px[K[16C e�po�
+embox>�Xx�pxx�px e�po�[K[23C eq[?5h[?5lembox>�Xx�pxx�px e�po� e[K[27CxxX�xpx
+�Xx�pxx�px: Command not found
+tish error: #-2
+embox>
+�exitexportxxXxqpx
+�exitexportxxXxqpx: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8Cx�Uxx2x
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[K[8CcdXxxpx
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6CcdxXoxx�1embox>cdxXoxx�[K[16CcdxXoxx
+embox>
+����&
+����&: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+lld�g
+lld�g: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�[Kx�?exitxppx
+�: Command not found
+tish error: #-2
+embox>
+�1embox>
+�1[Kembox>
+�1[Kembox>
+�1[Kembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15C
+embox>
+�1embox>
+�[KxxxXx�px
+�: Command not found
+tish error: #-2
+embox>
+��x
+��x: Command not found
+tish error: #-2
+embox>
+��embox>
+�embox>
+�embox>
+�embox>x
+�embox>xq
+�embox>xqX
+�embox>xqXx
+�embox>xqXxx
+�embox>xqXx
+�embox>xqXx�
+�
+embox>
+�1pinembox>
+�1pi�1pinxpx
+�1pi�1pinxpx: Command not found
+tish error: #-2
+embox>
+�1embox>
+�embox>
+�embox>
+�embox>
+x�embox>
+xt�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+tish error: #-22
+embox>
+ �ertpx
+tish error: #-22
+embox>
+x
+x: Command not found
+tish error: #-2
+embox>
+�1�����
+�: Command not found
+tish error: #-2
+embox>
+xxxo�x
+tish error: #-22
+embox>
+"qqqqqq}Xxx
+(null): Command not found
+tish error: #-2
+embox>
+�1exitx�1������������������������������������
+�1exitx�: Command not found
+tish error: #-2
+embox>��������������������������������������������xxXxxp
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

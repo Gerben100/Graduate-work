@@ -1,0 +1,90 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�U��
+�U: Command not found
+tish error: #-2
+embox>
+d��up����
+d��up�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+dq��yembox>
+ [K[8C
+tish error: #-22
+embox>
+dq��embox>
+dq��[K[13Cembox>
+ [K[8Cembox>
+ [K[8Cembox>
+ [K[9Cembox>
+ [K[10C
+tish error: #-22
+embox>
+Pgou�ldembox>
+Pgou�l[K[17C[?5h[?5l�t
+Pgou: Command not found
+tish error: #-2
+embox>
+�pinembox>
+�pin[K[12Cembox>
+�pin[K[12Cdq������������
+tish error: #-22
+embox>
+dq��embox>
+dq��[K[13Cy ��
+dq: Command not found
+tish error: #-2
+embox>
+d�cd�exttttttttttS[��[?5h[?5lw#ttQ�cd
+d: Command not found
+tish error: #-2
+embox>
+dttttt[��[?5h[?5lw#ttQex��cd
+dttttt[��[?5h[?5lw#ttQex: Command not found
+tish error: #-2
+embox>
+d�cd[�export���Uembox>[K���|embox>[Kembox>
+dembox>
+dqembox>
+[Kt�t[���w#ttembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[K
+t�t[���w#tt��ew�ew#t: Command not found
+tish error: #-2
+embox>ttQ�BP
+ttQ�BP: Command not found
+tish error: #-2
+embox>
+d�ctt�tttt[td��eUs���[?5h[?5lw#ttQ�cd
+d: Command not found
+tish error: #-2
+embox>
+d�cd��e�tttttttttt[��[?5h[?5lw#t�Q�[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+d: Command not found
+tish error: #-2
+embox>[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l[?5h[?5l
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

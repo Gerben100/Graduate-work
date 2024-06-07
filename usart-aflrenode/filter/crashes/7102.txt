@@ -1,0 +1,82 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>d
+d: Command not found
+tish error: #-2
+embox>
+�u�p
+�u�: Command not found
+tish error: #-2
+embox>
+�jA
+�jA: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>
+[K[7Cembox>�
+[K[8Cembox>�s
+[K[9Cembox>�s�
+[K[10Cembox>�s�u
+[K[11Cembox>�s�ux
+[K[12Cembox>�s�ux
+[K[13Cembox>�s�ux
+[K[6Cembox>�s�ux
+[K[7Cembox>�s�ux
+[K[8Cembox>p�s�ux
+[K[9C
+embox>
+pembox>
+�jA[K[10Cd
+�jA: Command not found
+tish error: #-2
+embox>
+�pt�
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7Cembox>�
+[K[8Cembox>��
+[K[9Cembox>���
+[K[10C
+���: Command not found
+tish error: #-2
+embox>
+outpouttttttttttttttt�tttp
+outpouttttttttttttttt: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+o
+o: Command not found
+tish error: #-2
+embox>
+�����~d oembox>
+�����~d o[K[6Cembox>
+�����~d o[K[7Cembox>�����~d o[K[7Cembox>������~d o[K[8Cembox>�����~d o[K[8Cembox>�x����~d o[K[9Cembox>�����~d o[K[8Cembox>������~d o[K[9Cembox>��l����~d o[K[10Cembox>��lo����~d o[K[11Cembox>��loZ����~d o[K[12Cembox>��loZo����~d o[K[13Cembox>��loZou����~d oembox>��loZout����~d oembox>��loZout`����~d oembox>��loZout�`���~d oembox>��loZout�`l���~d oembox>��loZout�`lo���~d oembox>��loZout�`log���~d oembox>��loZout�`logo���~d oembox>��loZout�`logou���~d oembox>��loZout�`logout���~d oembox>��loZout�`logou���~d oembox>��loZout�`logou����~d oembox>��loZout�`logou�`���~d oembox>��loZout�`logou�`����~d oembox>��loZout�`logou�`�6���~d oembox>��loZout�`logou�`�6&���~d oembox>��loZout�`logou�`�6&5���~d oembox>��loZout�`logou�`�6&56���~d oembox>��loZout�`logou�`�6&56r���~d oembox>��loZout�`logou�`�6&56r���~d oembox>��loZout�`logou�`�6&56r@���~d oembox>��loZout�`logou�`�6&56r@@���~d oembox>��loZout�`logou�`�6&56r@@c���~d oembox>��loZout�`logou�`�6&56r@@c���~d oembox>[K[7Cembox>[K[8Cembox>[K[9C
+66@: Command not found
+tish error: #-2
+embox>@@�d@@@iFiF@@O@@9\emembox>[Kw@@@c?exp@embox>66@[K56r@:c66@@icd
+66@56r: Command not found
+tish error: #-2
+embox>�ex�t@@;c�656>%TQelogout��
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

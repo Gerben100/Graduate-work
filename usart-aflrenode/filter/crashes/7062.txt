@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>embox>[K[6C��port�6656?embox>��port�6656?[K[6Cembox>��port�6656?[K[7Cembox>��port�6656?[K[8Cembox>e��port�6656?[K[9Cembox>ex��port�6656?[K[10Cembox>exp��port�6656?[K[11Cembox>expp��port�6656?[K[12Cembox>expp@��port�6656?[K[13Cembox>expp@@��port�6656?[K[14Cembox>expp@@@��port�6656?[K[15Cembox>expp@@@@��port�6656?[K[16Cembox>expp@@@@@��port�6656?[K[17Cembox>expp@@@@@R��port�6656?[K[18Cembox>expp@@@@@Re��port�6656?[K[19Cembox>expp@@@@@Rex��port�6656?[K[20Cembox>expp@@@@@Rex���port�6656?[K[21Cembox>expp@@@@@Rex���port�6656?[K[22Cembox>expp@@@@@Rex�P��port�6656?[K[23Cembox>expp@@@@@Rex�P��port�6656?[K[41Cx3embox>expp@@@@@Rex�P��port�6656?x[K[42C���
+embox>
+embox>
+embox>
+embox>!
+embox>
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C(embox>[K[7C�pinh���exp|hhh�hhhhhhhhhx�hhhhhhhhhhhhh
+embox>h
+h: Command not found
+tish error: #-2
+embox>
+embox>[K[6C6.lo�
+6.lo�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>[K[6C;�i
+embox>
+embox>[K[6C�o*�,,"exit,,�i
+�o: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8C��ut
+���: Command not found
+tish error: #-2
+embox>
+embox>[K[6C*i
+embox>
+embox>[K[6Cembox>[K[6CQ�^�X
+Q�^�X: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��i�
+�: Command not found
+tish error: #-2
+embox>
+@eembox>
+@e[K[9Ch�exi*��
+@e: Command not found
+tish error: #-2
+embox>
+cda
+cda: Command not found
+tish error: #-2
+embox>
+*�i
+: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�M�oW
+�M�oW: Command not found
+tish error: #-2
+embox>
+*�WWWWWWWWWJlogoutWWW�WWWWWWWWWWVembox>�M�oWoW
+�M�oWoW: Command not found
+tish error: #-2
+embox>
+D^ loW
+D: Command not found
+tish error: #-2
+embox>
+pin 
+tish error: #-22
+embox>
+ �^ dW
+�^: Command not found
+tish error: #-2
+embox>
+�~%loW
+�~%loW: Command not found
+tish error: #-2
+embox>
+�sbHoW
+�sbHoW: Command not found
+tish error: #-2
+embox>
+.���������[��������%�����������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

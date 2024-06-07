@@ -1,0 +1,74 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+[K[7C
+embox>�7ntgoutd�tttt�ttt�iitttt
+�7ntgoutd�tt: Command not found
+tish error: #-2
+embox>embox>[K[7Cembox>[K[8Cembox>t[K[9Cembox>tt[K[10Cembox>ttd[K[11Cembox>ttdy[K[12Cembox>ttdyt[K[13Cembox>ttdytV[K[14Cembox>ttdytVt[K[15Cembox>ttdytVtt[K[16Cembox>ttdytVttt[K[17Cembox>ttdytVtttt[K[18Cembox>ttdytVttttt[K[19Cembox>ttdytVtttttt[K[20Cembox>ttdytVttttttt[K[21Cembox>ttdytVtttttttt[K[22Cembox>ttdytVttttttttt[K[23Cembox>ttdytVtttttttttt[K[24Cembox>ttdytVttttttttttt[K[25Cembox>ttdytVtttttttttttt[K[26Cembox>ttdytVttttttttttttt[K[27Cembox>ttdytVtttttttttttttt[K[28Cembox>ttdytVttttttttttttttt[K[29Cembox>ttdytVtttttttttttttttc[K[30Cembox>ttdytVtttttttttttttttcd[K[31Cembox>ttdytVtttttttttttttttcd�[K[32Cembox>ttdytVtttttttttttttttcd�t[K[33Cembox>ttdytVtttttttttttttttcd�tt[K[34Cembox>ttdytVtttttttttttttttcd�ttp[K[35Cembox>ttdytVtttttttttttttttcd�ttpi[K[36Cembox>ttdytVtttttttttttttttcd�ttpin[K[37Cembox>ttdytVtttttttttttttttcd�ttpint[K[38Cembox>ttdytVtttttttttttttttcd�ttpintg[K[39Cembox>ttdytVtttttttttttttttcd�ttpintgo[K[40Cembox>ttdytVtttttttttttttttcd�ttpintgou[K[41Cembox>ttdytVtttttttttttttttcd�ttpintgout[K[42Cembox>ttdytVtttttttttttttttcd�ttpintgoutd[K[43Cembox>ttdytVtttttttttttttttcd�ttpintgoutd�[Kembox>ttdytVtttttttttttttttcd�ttpintgoutd�t[Kembox>ttdytVtttttttttttttttcd�ttpintgoutd�tt[Kembox>ttdytVtttttttttttttttcd�ttpintgoutd�tt�[Kembox>ttdytVtttttttttttttttcd�ttpintgoutd�tt�l[K
+embox>stttt@ttdytVtttttttttt�tttt�ttpi1btd�
+stttt: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd[K[12C7sttttttd|tVtttttttt���lstttttembox>passwd7sttttttd|tVtttttttt���lsttttt[Kembox>passwd7sttttttd|tVtttttttt���lsttttt[Kembox>passwd7sttttttd|tVtttttttt���lstttttt[Kembox>passwd7sttttttd|tVtttttttt���lsttttttp[Kembox>passwd7sttttttd|tVtttttttt���lsttttttpt[K[51Cembox>passwd7sttttttd|tVtttttttt���lsttttttptt[K[52Cembox>passwd7sttttttd|tVtttttttt���lsttttttpttt[K[53Cembox>passwd7sttttttd|tVtttttttt���lsttttttptttt[K[54Cembox>passwd7sttttttd|tVtttttttt���lsttttttpttttd[Kembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdt[Kembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdtt[Kembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttV[Kembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdyembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttttembox>passwd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttttttembox>asswd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttttttembox>sswd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttttttttembox>swd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttttttttembox>wd7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttttttttttembox>d7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttttttttttembox>7sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVtttttttttttttttembox>sttttttd|tVtttttttt���lsttttttpttttdttVtttdtdytVttttttttttttttt�
+passwd7sttttttd|tVtt: Command not found
+tish error: #-2
+embox>ttpintgoutd�
+ttpintgoutd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>pembox>passwd�sttttttdttVtt�ttpin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+passwd�sttttttdttVtt�ttpin: Command not found
+tish error: #-2
+embox>tg�utd�
+tg�utd�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+embox>p7sttttttdttVtembox>passwd7sttttttdttVtttttttttembox>[K[6Cls@embox>ls[K[9Ctttembox>lsttt[K[13Cembox>lsttt[K[14Cembox>lstttt[K[15Cembox>lsttttt[K[16Cembox>lstttttd[K[17Cembox>lstttttdy[K[18Cembox>lstttttdyt[K[19Cembox>lstttttdytV[K[20Cembox>lstttttdytVt[K[21Cembox>lstttttdytVtt[K[22Cembox>lstttttdytVttXembox>lstttttdytVttXtembox>tg�utd�[K[13Cttttttt�ttpi������������
+tg�utd�ttttttt�ttpi������������: Command not found
+tish error: #-2
+embox>��������������ntgoutd�
+��������������ntgoutd�: Command not found
+tish error: #-2
+embox>
+
+embox>pexportttttttdttVttttttttlsstttt
+pilsn�j �tVtttttttttport@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

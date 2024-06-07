@@ -1,0 +1,129 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>���x�embox>���x�[K[6Cembox>����x�[K[7Cembox>����x�[K[8Cembox>������x�[K[9Cembox>������x�[K[10Cembox>�������x�[K[11Cembox>��������x�[K[12Cembox>�����r���x�[K[13Cembox>�����ro���x�[K[14Cembox>�����rog���x�[K[15Cembox>�����rogo���x�[K[16Cembox>�����rogou���x�[K[17Cembox>�����rogou����x�[K[18Cembox>�����rogou����x�[K[19Cembox>�����rogou����x�[K[20Cembox>�����rogou����x�[K[21Cembox>�����rogou����x�[K[22C
+���: Command not found
+tish error: #-2
+embox>
+�embox>���[K[9C���x�������rogou�embox>������x�������rogou�[K[6C
+�����: Command not found
+tish error: #-2
+embox>
+�embox>�����[K[11Cembox>����[K[10C���y���rogou�embox>�������y���rogou�[K[6C
+�����: Command not found
+tish error: #-2
+embox>
+�embox>�����[K[11C��d0[?5h[?5lx�����puembox>�������d0[?5h[?5lx�����pu[K[6Cembox>��������d0[?5h[?5lx�����pu[K[7Cembox>�g�������d0[?5h[?5lx�����pu[K[8Cembox>�g�������d0[?5h[?5lx�����pu[K[9Cembox>�g��������d0[?5h[?5lx�����pu[K[10Cembox>�g���������d0[?5h[?5lx�����pu[K[11Cembox>�g���������d0[?5h[?5lx�����pu[K[12Cembox>�g���������d0[?5h[?5lx�����pu[K[13Cembox>�g���������d0[?5h[?5lx�����pu[K[14Cembox>�g���������d0[?5h[?5lx�����pu[K[6C
+�g: Command not found
+tish error: #-2
+embox>
+���[?5h[?5lx��Tembox>
+���x��T[K[6C
+��: Command not found
+tish error: #-2
+embox>
+6,����embox>
+6,���[K[12C��@@@I56Q6@@embox>
+6,�����@@@I56Q6@@[K[24Clogou��@�@�xe����r�
+6,�����@@@I56Q6@@logou��@�@: Command not found
+tish error: #-2
+embox>@�yembox>@�y[K[6C
+embox>
+�embox>
+6,�����@@@I56Q6@@logou��@�@�e�embox>
+6,�����@@@I56Q6@@logou��@�@�e�embox>�
+6,�����@@@I56Q6@@logou��@�@�e�embox>
+6,�����@@@I56Q6@@logou��@�@�e�embox> 
+6,�����@@@I56Q6@@logou��@�@�e�embox> �
+6,�����@@@I56Q6@@logou��@�@�e�embox> �y
+6,�����@@@I56Q6@@logou��@�@�e�embox> �ye
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeH
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi�
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j�
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j��
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j��y
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j��ye
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j��yel
+6,�����@@@I56Q6@@logou��@�@�e�embox> �yeHi��j��yelt
+6,�����@@@I56Q6@@logou��@�@�e�embox>[K[22Cembox>[K[23Cembox> 
+6,�����@@@I56Q6@@logou��@�@�e�embox> 6,�����@@@I56Q6@@logou��@�@�e�embox> 86,�����@@@I56Q6@@logou��@�@�e�embox> 886,�����@@@I56Q6@@logou��@�@�e�embox> 8886,�����@@@I56Q6@@logou��@�@�e�embox> 888�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�6,�����@@@I56Q6@@logou��@�@�e�embox> 888��6,�����@@@I56Q6@@logou��@�@�e�embox> 888�y�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�ye�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yee�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeeP�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeeP�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeeP�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeePd�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeePd��6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeePdމ�6,�����@@@I56Q6@@logou��@�@�e�embox> 888�yeePdމ��6,�����@@@I56Q6@@logou��@�@�e�
+embox>t�
+t�: Command not found
+tish error: #-2
+embox>��p�embox>��p�[K[6Cembox>��p�[K[7Cembox>�p�[K[8Cembox>� ��p�[K[9Cembox>� ���p�[K[10Cembox>� ��p�[K[9Cembox>� ��p�[K[8Cembox>� ��p�[K[9Cembox>�� ��p�[K[10Cembox>��y ��p�[K[11Cembox>��ye ��p�[K[12Cembox>��yeH ��p�[K[13Cembox>��yeHi ��p�[K[14Cembox>��yeHi ��p�[K[15Cembox>��yeHi1 ��p�[K[16Cembox>��yeHi1� ��p�[K[17Cembox>��yeHi1�� ��p�[K[18Cembox>��yeHi1��1 ��p�embox>��yeHi1��11 ��p�embox>��yeHi1��111 ��p�embox>��yeHi1��111� ��p�embox>��yeHi1��111�� ��p�embox>��yeHi1��111��j ��p�embox>��yeHi1��111��j� ��p�embox>��yeHi1��111��j�� ��p�embox>��yeHi1��111��j��y ��p�embox>��yeHi1��111��j��ye ��p�embox>��yeHi1��111��j��yel ��p�embox>��yeHi1��111��j��yelt ��p�embox>��yeHi1��111��j��yelt| ��p�
+embox>
+�embox>t�[K[8C�e�embox>t��e�[K[6Cembox>�t��e�[K[7Cembox>t��e�[K[6Cembox>t��e�[K[7Cembox>�t��e�[K[8Cembox>�yt��e�[K[9Cembox>�yet��e�[K[10Cembox>�yeHt��e�[K[11Cembox>�yeHit��e�[K[12Cembox>�yeHi�t��e�[K[13Cembox>�yeHi��t��e�[K[14Cembox>�yeHi��jt��e�[K[15Cembox>�yeHi��j�t��e�[K[16Cembox>�yeHi��j��t��e�embox>�yeHi��j��yt��e�embox>�yeHi��j��yet��e�embox>�yeHi��j��yelt��e�embox>�yeHi��j��yeltt��e�embox>�yeHi��j��yeltct��e�embox>�yeHi��j��yeltcdt��e�embox>t��e�[K[6Cembox>��e�[K[6Cembox>x��e�[K[7Cembox>xe��e�[K[8Cembox>xei��e�[K[9Cembox>xei��e�[K[10Cembox>xei��e�[K[9Cembox>xei��e�[K[10Cembox>xei���e�[K[11Cembox>xei�y��e�[K[12Cembox>xei�ye��e�[K[13Cembox>xei�yee��e�[K[14Cembox>xei�yeeP��e�[K[15Cembox>xei�yeeP��e�[K[16Cembox>xei�yeeP��e�[K[15Cembox>xei�yeePd��e�embox>xei�yeePd���e�embox>xei�yeePdމ��e�embox>xei�yeePdމ���e�
+embox>t�
+t�: Command not found
+tish error: #-2
+embox>��p�embox>��p�embox>��p�embox>�p�embox>�y��p�embox>�y���p�embox>�y��p�embox>�y��p�embox>�y��p�embox>��y��p�embox>��yy��p�embox>��yey��p�embox>��yeHy��p�embox>��yeHy��p�embox>��ye�Hy��p�embox>��ye��Hy��p�embox>��ye��jHy��p�embox>��ye��j�Hy��p�embox>��ye��j��Hy��p�embox>��ye��j��yHy��p�embox>��ye��j��yeHy��p�embox>��ye��j��yelHy��p�embox>��ye��j��yeltHy��p�embox>[K
+embox>
+�embox>t��e�embox>t��e�embox>�t��e�embox>t��e�embox>t��e�embox>�t��e�embox>�yt��e�embox>�yet��e�embox>�yeHt��e�embox>�yeHit��e�embox>�yeHi�t��e�embox>�yeHi��t��e�embox>�yeHi��jt��e�embox>�yeHi��j�t��e�embox>�yeHi��j��t��e�embox>�yeHi��j��vt��e�embox>�yeHi��j��vet��e�embox>�yeHi��j��velt��e�embox>[Kembox>[Kembox>[Kembox>t��e�embox>��e�embox>x��e�embox>xe��e�embox>xei��e�embox>xei��e�embox>xei��e�embox>xei��e�P
+embox>t���p
+t���p: Command not found
+tish error: #-2
+embox>�
+embox>
+��xPi�
+embox>�yeHi�j��yelt
+embox>Y���x�
+embox>yelt|
+yelt|: Command not found
+tish error: #-2
+embox>
+�d�e�
+embox>t�
+t�: Command not found
+tish error: #-2
+embox>��p�
+embox>
+��exe[?5h[?5li�
+embox>t���p�@�y�
+t���p�: Command not found
+tish error: #-2
+embox>yelt|
+yelt|: Command not found
+tish error: #-2
+embox>
+��e�
+embox>eHi��j��
+embox>
+��e�|
+embox>
+��e�[?5h[?5l��j��ogQ{�yeltcz1xei�
+embox>��yeHi��j��yelt|
+embox>
+��e�
+embox>t�
+t�: Command not found
+tish error: #-2
+embox>��exitp�
+embox>
+���e�
+xelog�uteePdމ: Command not found
+tish error: #-2
+embox>eHi��j��yelt|
+eHi��j��yelt|: Command not found
+tish error: #-2
+embox>
+��e�
+embox>yeeeeeeeeeeeeeeeeeeeeeej��yelt|
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

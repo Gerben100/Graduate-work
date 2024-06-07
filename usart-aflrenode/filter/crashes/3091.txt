@@ -1,0 +1,80 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>[K[6C�
+embox>�@@�
+�@@�: Command not found
+tish error: #-2
+embox>
+�g��������
+�: Command not found
+tish error: #-2
+embox>
+�n�
+embox>������,,
+�����: Command not found
+tish error: #-2
+embox>
+U
+U: Command not found
+tish error: #-2
+embox>
+����
+embox>�@@embox>
+U[K[8C�,,
+U: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�
+embox>�@<embox>
+U[K[8C�,,
+U: Command not found
+tish error: #-2
+embox>
+�@�
+embox>�@2@embox>
+U[K[8C���J@Btt�embox>
+U���J@Btt[K[16C�i�2@embox>�����[K[11C���J@Btt�embox>��������J@Btt[K[19C���@P�@P
+��������J@Btt���: Command not found
+tish error: #-2
+embox>�@2@embox>��������J@Btt���[K[22C���J�Btt�embox>��������J@Btt������J�Btt���@Btt�embox>��������J@Btt������J�Btt���@Btt����embox>��������J@Btt������J�Btt���@Btt����embox>��������J@Btt������J�Btt���@Btt���U�embox>��������J@Btt������J�Btt���@Btt���UU�embox>��������J@Btt������J�Btt���@Btt���UUU�
+��������J@Btt������J�Btt���: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C��@@@x�@@Btt�embox>
+��@@@x�@@Btt[K��itc��embox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[37Cembox>[K[38Cembox>[K[39Cembox>[K[40Cembox>[K[41Cembox>[K[42Cembox>[K[43Cembox>[K[44Cembox>[K[45Cembox>[K[46Cembox>[K[47C
+�: Command not found
+tish error: #-2
+embox>�embox>[K[6C��itc�embox>��itc[K[12C��@@@x�@@Btt�embox>��itc��@@@x�@@Btt��i�Uls
+��it: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7C�
+embox>�@@embox>��it@@@@Btt�embox>��it@@@@Btt��ttc��embox>[Kembox>[Kembox>[Kembox>[K
+��it@: Command not found
+tish error: #-2
+embox>
+�embox>
+[K�embox>
+[K�
+embox>�@@embox>��it@@t�@@Btt�embox>[K��ttc��embox>[Kembox>[Kembox>[K
+embox>�@@@t�@@Btt�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,214 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�embox>�[K[7C�����������������������Yembox>������������������������[K[30C
+������������������������: Command not found
+tish error: #-2
+embox>
+embox>������������������������[K[30C�Yembox>�������������������������[K[32C�
+������������������������: Command not found
+tish error: #-2
+embox>
+�A�Rembox>
+�A�[K[10C
+�A�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7C
+embox>
+ߐ��htembox>
+ߐ��h[K[14Cembox>
+ߐ��[K[13Crogot�no{7embox>
+�A�[K[10C77�X�t7ls"7�cdembox>
+�A�77�X�t7ls"7�cd[K[6Cembox>t
+�A�77�X�t7ls"7�cd[K[7Cembox>tp
+�A�77�X�t7ls"7�cd[K[8Cembox>tpo
+�A�77�X�t7ls"7�cd[K[9Cembox>tpo�
+�A�77�X�t7ls"7�cd[K[10Cembox>tpo
+�A�77�X�t7ls"7�cd[K[9Cembox>tpor
+�A�77�X�t7ls"7�cd[K[10Cembox>tporo
+�A�77�X�t7ls"7�cd[K[11Cembox>tporog
+�A�77�X�t7ls"7�cd[K[12Cembox>tporogo
+�A�77�X�t7ls"7�cd[K[13Cembox>tporogot
+�A�77�X�t7ls"7�cd[K[14C
+tporogot: Command not found
+tish error: #-2
+embox>�no{7'77�X�t7lp7"7�cdembox>�no{7'77�X�t7lp7"7�cd[K[6Cembox>t�no{7'77�X�t7lp7"7�cd[K[7Cembox>t7�no{7'77�X�t7lp7"7�cd
+t7�no{7'77�X�t7lp7"7: Command not found
+tish error: #-2
+embox>
+�x��htembox>
+�x��h[K[14Cembox>
+�x��[K[13Crogot�no{7embox>t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tt7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tpt7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp�t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��pt7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��p7t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��p7"t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��p7"7t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��p7"7t7�no{7'77�X�t7lp7"777eX�t7lls7�cdembox>tp��p7"7�t7�no{7'77�X�t7lp7"777eX�t7lls7�cd
+tp��p7"7: Command not found
+tish error: #-2
+embox>cdembox>cd[K[6Cembox>tcd[K[7Cembox>t7cd[K[8C
+t7: Command not found
+tish error: #-2
+embox>
+�x��htembox>
+�x��h[K[14Cembox>
+�x��[K[13Crogot�no{7embox>t7[K[8C77eX�t7ls"7�cdembox>t777eX�t7ls"7�cd[Kembox>tt777eX�t7ls"7�cd[Kembox>tpt777eX�t7ls"7�cd[Kembox>tpot777eX�t7ls"7�cd[Kembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16C
+tpopin�p7lt777eX�t7ls"7: Command not found
+tish error: #-2
+embox>ogout"7�cdembox>[K[6Cembox>[K[7Cembox>[K[8C
+t7ogout"7: Command not found
+tish error: #-2
+embox>
+�x��htrogot�no{777eX�twls"7�cd
+tpo�p7"7: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+�x��htrogot�no�{777eX�t7ls"7�cd
+tcd�p7"7: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+�x��htrogot�norogot�no{7�77eX
+�x�: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+�x��htrogot�n{777eX�t7ls"7�t7ls"7�cd
+�: Command not found
+tish error: #-2
+embox>d
+t7tpo�p7"7: Command not found
+tish error: #-2
+embox>
+�x��`trogot�no{777eX�t7ls"7�cd
+tpy�p7"7: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+{77.eX�V7ls"7��cd
+t7tpo�p7;7: Command not found
+tish error: #-2
+embox>
+�x��htrogot�no{7�7IX�t7ls"7�cd
+t�o�p7"7: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+�x��htrogo�no{777eX�tSls"7�cd
+tpo�p7"7: Command not found
+tish error: #-2
+embox>cd
+t7: Command not found
+tish error: #-2
+embox>
+d77eX�tJ�
+11ls"7��d
+embox>te�portX�cd
+�dte�portX: Command not found
+tish error: #-2
+embox>
+� {3��
+embox> p{3��
+embox> pini
+tish error: #-22
+embox>
+�[?5h[?5l{3��
+embox> p{3��
+embox> tini
+tish error: #-22
+embox>
+k
+k: Command not found
+tish error: #-2
+embox>
+�{3��
+embox> p{3��
+�oini: Command not found
+tish error: #-2
+embox>
+d{3��
+embox> ��[H[H[2J
+embox> pini
+tish error: #-22
+embox>
+��3��
+embox> p{�3��
+embox> p3��
+embox> pini
+tish error: #-22
+embox>
+�3exitl
+�3exitl: Command not found
+tish error: #-2
+embox>
+{3�{3��
+embox> ploin�i
+tish error: #-22
+embox>
+���j�e��{6�eZil���ort�
+embox> pp�i
+tish error: #-22
+embox>
+���� pini
+����: Command not found
+tish error: #-2
+embox>
+@F.x��Qni�y��ye��QQQ;
+@: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+�logout�
+�logout�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+���p2�p2
+��p2�p2: Command not found
+tish error: #-2
+embox>
+��Kplsp2pin
+��Kplsp2: Command not found
+tish error: #-2
+embox>
+2
+tish error: #-22
+embox>
+p2
+p2: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+���Kp2�Kp2�O2
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

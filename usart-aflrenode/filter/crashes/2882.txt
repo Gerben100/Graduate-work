@@ -1,0 +1,89 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>__plsi�@p
+__plsi�@p: Command not found
+tish error: #-2
+embox>
+_Ipi�;p
+_Ipi�;p: Command not found
+tish error: #-2
+embox>
+�oo�embox>
+�oo[K[10C�
+�oo�: Command not found
+tish error: #-2
+embox>
+_exort,_
+embox>��Nlsp
+��Nlsp: Command not found
+tish error: #-2
+embox>
+__embox>
+__[K[6Cembox>N
+__[K[7Cembox>NK
+__[K[8Cembox>NKi
+__[K[9Cembox>NKi�
+__[K[10Cembox>NKi�g
+__[K[11Cembox>NKi�gp
+__[K[12C
+NKi�gp: Command not found
+tish error: #-2
+embox>
+bb`b�
+bb`b�: Command not found
+tish error: #-2
+embox>
+__�exporportptp
+__�exporportptp: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+__ NpUembox>
+__ NpU[K[15Cp
+__: Command not found
+tish error: #-2
+embox>
+____�____@__embox>
+____�____@_[Kembox>
+____�____@_[Kembox>
+____�____@_[Kembox>[K[19Cembox>[K[20Cembox>[K[21C[H[H[2Jembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[30Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[30Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33C[H[2Jembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[39C
+____�____@: Command not found
+tish error: #-2
+embox>_#_Wembox>_#_[K[9Cembox>[K[6C�y��eiiiy��eiii
+embox>
+____�____#__embox>
+____�____#_embox>
+____�____#_embox>
+____�____#_embox>
+____�____#�_embox>
+____�____#�y_embox>
+____�____#�ya_[H[H[2Jembox>
+____�____#�ya_embox>
+____�____#�ya�_embox>
+____�____#�ya�C_embox>
+____�____#�ya�Ci_embox>
+____�____#�ya�Ci�_embox>
+____�____#�ya�Ci��_embox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30C
+____�____#: Command not found
+tish error: #-2
+embox>
+____�t_�_#__[H[H[2J
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

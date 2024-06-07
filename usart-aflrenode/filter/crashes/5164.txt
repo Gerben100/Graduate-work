@@ -1,0 +1,97 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>8�t��
+embox>�b�
+�b�: Command not found
+tish error: #-2
+embox>
+3����
+3: Command not found
+tish error: #-2
+embox>
+3�embox>
+3[K[9CexRoRd
+3: Command not found
+tish error: #-2
+embox>
+3���xpor�exCCCWCembox>
+3���xpor�exCCCW[K[23CCCCCCCCpordt
+3: Command not found
+tish error: #-2
+embox>
+ce]it"�
+ce]it"�: Command not found
+tish error: #-2
+embox>
+3i�[?5h[?5l
+embox>x@port
+x@port: Command not found
+tish error: #-2
+embox>
+3���zembox>x@port[K[12Cxpopd
+x@portxpopd: Command not found
+tish error: #-2
+embox>
+3�embox>
+3[K[9C�embox>
+3[K[9Cembox>
+3[K[10C�rt
+3: Command not found
+tish error: #-2
+embox>
+�t@%
+�t@%: Command not found
+tish error: #-2
+embox>
+�embox>
+[K[7Cv
+tish error: #-22
+embox>
+8���embox>
+8��[K[11Cexpor���
+8: Command not found
+tish error: #-2
+embox>
+loxp��t
+loxp��t: Command not found
+tish error: #-2
+embox>
+@nembox>
+@[Ke�V��}}����
+@e�V��}}����: Command not found
+tish error: #-2
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+t\�eN�eNp
+�: Command not found
+tish error: #-2
+embox>
+2��������rt
+2: Command not found
+tish error: #-2
+embox>
+3��exp
+�tcd�xp�tcd
+3: Command not found
+tish error: #-2
+embox>
+&���exp�r3t
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

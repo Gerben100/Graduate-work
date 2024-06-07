@@ -1,0 +1,61 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>p@56r@:c666@@@�?embox>p@56r@:c666@@@�?[K[6Cembox>@p@56r@:c666@@@�?[K[7Cembox>@@p@56r@:c666@@@�?[K[8Cembox>@@ip@56r@:c666@@@�?[K[9Cembox>@@icp@56r@:c666@@@�?[K[10Cembox>@@icdp@56r@:c666@@@�?[K[11Cembox>@@icdp@56r@:c666@@@�?[K[12Cembox>@@icd�p@56r@:c666@@@�?[K[13Cembox>@@icd�p@56r@:c666@@@�?[K[14Cembox>@@icd�ep@56r@:c666@@@�?[K[15Cembox>@@icd�exp@56r@:c666@@@�?[K[16Cembox>@@icd�ex�p@56r@:c666@@@�?[K[17Cembox>@@icd�ex�tp@56r@:c666@@@�?[K[18Cembox>@@icd�ex�t@p@56r@:c666@@@�?[K[19Cembox>@@icd�ex�t@@p@56r@:c666@@@�?[K[20Cembox>@@icd�ex�t@@;p@56r@:c666@@@�?[K[21Cembox>@@icd�ex�t@@;cp@56r@:c666@@@�?[K[22Cembox>@@icd�ex�t@@;c�p@56r@:c666@@@�?[K[23Cembox>@@icd�ex�t@@;c�6p@56r@:c666@@@�?[K[24Cembox>@@icd�ex�t@@;c�65p@56r@:c666@@@�?[K[25Cembox>@@icd�ex�t@@;c�656p@56r@:c666@@@�?[K[26Cembox>@@icd�ex�t@@;c�656>p@56r@:c666@@@�?[K[27Cembox>@@icd�ex�t@@;c�656>%p@56r@:c666@@@�?[K[28Cembox>@@icd�ex�t@@;c�656>%Tp@56r@:c666@@@�?[K[29Cembox>@@icd�ex�t@@;c�656>%TQp@56r@:c666@@@�?[K[30Cembox>@@icd�ex�t@@;c�656>%TQep@56r@:c666@@@�?[K[31Cembox>@@icd�ex�t@@;c�656>%TQelp@56r@:c666@@@�?[K[32Cembox>@@icd�ex�t@@;c�656>%TQelop@56r@:c666@@@�?[Kembox>@@icd�ex�t@@;c�656>%TQelogp@56r@:c666@@@�?[K[34Cembox>@@icd�ex�t@@;c�656>%TQelogop@56r@:c666@@@�?[K[35Cembox>@@icd�ex�t@@;c�656>%TQelogoup@56r@:c666@@@�?[K[36C
+@@icd�ex�t@@;c�656>%TQelogoup@56r: Command not found
+tish error: #-2
+embox>t@@embox>@@icd�ex�t@@;c�656>%TQelogoup@56r[K[41C@@@�@embox>@@icd�ex�t@@;c�656>%TQelogoup@56r@@@�[K@ L@@@t[?5h[?5l@embox>@@icd�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t[K L@@@t[?5h[?5l
+t[?5h[?5liy6r@@c66@@embox>@icd�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@embox>icd�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�embox>cd�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?embox>d�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@embox>�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@embox>�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@embox>�ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@embox>ex�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iembox>x�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iFembox>�t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@embox>t@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@embox>@@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@Oembox>@;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@embox>;c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@embox>c�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9embox>�656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\embox>656>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\eembox>56>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\eembox>6>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\eembox>>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\eembox>%TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\eembox>TQelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ewembox>Qelogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@embox>elogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@embox>logoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@embox>ogoup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@cembox>goup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@c@embox>oup@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@c@@embox>up@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@c@@Lembox>p@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@c@@Lcembox>@56r@@@�@ L@@@t L@@@t
+tiy6r@@c66@@@�?@@@@iF@@O@@9\ew@@@c@@Lc?
+@@icd�ex�t@@;c�656>%TQelogoup@56r: Command not found
+tish error: #-2
+embox>exp@embox>@@icd�ex�t@@;c�656>%TQelogoup@56r[K[41C56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qaembox>@icd�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qalembox>icd�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@embox>cd�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@embox>d�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@9embox>�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@9\embox>�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@9\eembox>�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@9\e
+@@icd�ex�t@@;c�656>%TQelogoup@56r56c666@@@�?@@@@icd�ex�t@@;c�656>%�Qal@@9\e: Command not found
+tish error: #-2
+embox>
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

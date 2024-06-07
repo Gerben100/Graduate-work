@@ -1,0 +1,172 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�k
+�k: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>��[K[10C/�embox>��/�[K[6Cembox>��/�[K[7Cembox>��/�[K[6Cembox>��/�[K[7Cembox>�k[K[8C���46�ecx�66F�>ls�
+�k���46: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>��[K[10C/�embox>��/�[K[12C/�"embox>�k���46[K[13C���66����66
+�k���46���66: Command not found
+tish error: #-2
+embox>�e�>ls66embox>�e�>ls6[K[13C�cx¿
+�e�>ls6�cx¿: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cembox>[K[6C��Z6��Z6[?5h[?5l��Z6��Z6[?5h[?5l�
+embox>s�
+s�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>��[K[10C/�embox>��/�[K[6Cembox>��/�[K[7Cembox>s�[K[8C��fcx��66embox>�e�>ls6�cx¿[K[18C�e�cx�66F�>ls�
+�e�>ls6�cx¿�e�cx�66F�>ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�x�66F�>ls��embox>�x�66F�>ls��[Kembox>�x�66F�>ls��[K[7Cembox>�e�>ls6�cx¿�e�cx�66F�>ls���embox>s���fcx��66[K�e�cx�66F�>ls�
+s���fcx��66�e�cx�66F�>ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>��[K[10C/�embox>��/�[K[6Cembox>��/�[K[7Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32Cembox>[K[32C6F�>ls�
+s���fcx��66�e�cx�66F�>ls�6F�>ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�embox>�[K[9C/�embox>�/�[K[6Cembox>�/�[K[7Cembox>6�/�[K[8Cembox>6F�/�[K[9Cembox>6F��/�[K[10Cembox>6F�>�/�[K[11Cembox>6F�>l�/�[K[12Cembox>6F�>ls�/�[Kembox>6F�>ls��/�[K
+embox>
+embox>[K[6C��embox>��[K[10C/�embox>��/�[K[6Cembox>��/�[K[7Cembox>[K[32C��66F�>ls�
+s���fcx��66�e�cx�66F�>ls���66F�>ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�Tembox>�T[K[10C/�embox>�T/�[K[6Cembox>�T/�[K[7Cembox>[K[32C�>ls�
+s���fcx��66�e�cx�66F�>ls��>ls�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C��embox>[K[6C�e�xeembox>�e�xe[K[11C/��embox>�e�xe/��[K[6Cembox>[K[32C
+�ls��e�c�embox>[K[33C�@
+�e�>ls6�cx¿�e�cx�66F�>ls���@: Command not found
+tish error: #-2
+embox>embox>[K[6C�e�wx�x�65F�>�s�
+�e�wx�x�65F�>�s�: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6C
+tish error: #-22
+embox>
+embox>[K[6C���eembox>���e[K
+�: Command not found
+tish error: #-2
+embox>
+'embox>[K[6C
+embox>
+embox>[K[6C��
+�
+�: Command not found
+tish error: #-2
+embox>
+embox>[K�@
+embox>���
+�: Command not found
+tish error: #-2
+embox>
+��
+�: Command not found
+tish error: #-2
+embox>
+��e@!
+�: Command not found
+tish error: #-2
+embox>
+����
+�: Command not found
+tish error: #-2
+embox>
+��+�����
+��+: Command not found
+tish error: #-2
+embox>
+�9�expxrt�`s
+�: Command not found
+tish error: #-2
+embox>
+6�������L���L
+6�: Command not found
+tish error: #-2
+embox>
+
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�E��
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+�
+tish error: #-22
+embox>
+���
+���: Command not found
+tish error: #-2
+embox>
+�N
+�N: Command not found
+tish error: #-2
+embox>
+�����e��e�
+�: Command not found
+tish error: #-2
+embox>
+it�
+it�: Command not found
+tish error: #-2
+embox>
+
+embox>
+pind
+tish error: #-22
+embox>
+�F�
+�: Command not found
+tish error: #-2
+embox>
+��*��
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+d��K!��
+d��K!��: Command not found
+tish error: #-2
+embox>
+��eit������������������������
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

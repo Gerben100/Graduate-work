@@ -1,0 +1,64 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>8goD
+8goD: Command not found
+tish error: #-2
+embox>
+@���������
+@: Command not found
+tish error: #-2
+embox>
+loout��embox>
+@[K[8Cembox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+ 7tv
+tish error: #-22
+embox>
+Soocd�
+Soocd�: Command not found
+tish error: #-2
+embox>
+looeexport���4��
+looeexport��: Command not found
+tish error: #-2
+embox>
+������
+���: Command not found
+tish error: #-2
+embox>
+lout����oout�����
+lout����oout�����: Command not found
+tish error: #-2
+embox>
+loout����lll
+loout����lll: Command not found
+tish error: #-2
+embox>
+loout�����������������������������
+loout�: Command not found
+tish error: #-2
+embox>
+loo�����
+loo�����: Command not found
+tish error: #-2
+embox>
+l/�xoout����
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

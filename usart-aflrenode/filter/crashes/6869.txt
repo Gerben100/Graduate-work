@@ -1,0 +1,149 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>lRembox>l[K[7Cxx�embox>lxx�[K[6Cembox>lxx�[K[7Cembox> lxx�[K[8Cembox> rlxx�[K[9Cembox> r8lxx�[K[10Cembox> r88lxx�[K[11Cembox> r888lxx�[K[12Cembox> r8888lxx�[K[13Cembox> r88888lxx�[K[14Cembox> r888888lxx�[K[15Cembox> r8888888lxx�[K[16Cembox> r88888888lxx�[K[17Cembox> r888888888lxx�[K[18Cembox> r8888888888lxx�[K[19Cembox> r88888888888lxx�[K[20Cembox> r888888888888lxx�[K[21Cembox> r888888888888�lxx�[K[22Cembox> r888888888888��lxx�[K[23Cembox> r888888888888��lxx�[K[24Cembox> r888888888888��lxx�[K[25Cembox> r888888888888��llxx�[K[26Cembox> r888888888888��lslxx�[K[27Cembox> r888888888888��ls8lxx�[K[28Cembox> r888888888888��ls88lxx�[K[29Cembox> r888888888888��ls888lxx�[K[30Cembox> r888888888888��ls8888lxx�[K[31Cembox> r888888888888��ls88888lxx�[K[32Cembox> r888888888888��ls888880lxx�[K[33Cembox> r888888888888��ls8888808lxx�[K[34Cembox> r888888888888��ls88888088lxx�[K[35Cembox> r888888888888��ls888880888lxx�[K[36Cembox> lxx�[K[8Cembox>lxx�[K[6Cembox>lxx�[K[6Cembox>8lxx�[K[7Cembox>88lxx�[K[8Cembox>88Glxx�[K[9Cembox>88Gwlxx�[K[10Cembox>88Gwplxx�[K[11Cembox>88Gwplxx�[K[10C
+88Gwpl: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[6C8888888888[88[$�
+8888888888[88[$�: Command not found
+tish error: #-2
+embox>
+lRCembox>
+lR[K[9C�xxx�embox>
+lR�xxx�[K[6Cembox>
+lR�xxx�[K[7Cembox> 
+lR�xxx�[K[8Cembox> r
+lR�xxx�[K[9Cembox> r8
+lR�xxx�[K[10Cembox> r88
+lR�xxx�[K[11Cembox> r888
+lR�xxx�[K[12Cembox> r8888
+lR�xxx�[K[13Cembox> r88888
+lR�xxx�[K[14Cembox> r888888
+lR�xxx�[K[15Cembox> r8888888
+lR�xxx�[K[16Cembox> r88888888
+lR�xxx�[K[17Cembox> r888888888
+lR�xxx�[K[18Cembox> r8888888888
+lR�xxx�[K[19Cembox> r88888888888
+lR�xxx�[K[20Cembox> r88888888888
+lR�xxx�[K[21Cembox> r88888888888
+lR�xxx�[K[22Cembox> r88888888888lR�xxx�[K[22Cembox> r88888888888lR�xxx�[K[23Cembox> r888888888888lR�xxx�[K[24Cembox> r8888888888888lR�xxx�[K[25Cembox> r88888888888888lR�xxx�[K[26Cembox> r888888888888888lR�xxx�[K[27Cembox> r8888888888888888lR�xxx�[K[28Cembox> r8888888888888888#lR�xxx�[K[29Cembox> r8888888888888888#8lR�xxx�[K[30Cembox> r8888888888888888#lR�xxx�[K[29Cembox> r8888888888888888#elR�xxx�[K[30Cembox> r8888888888888888#eR�xxx�[K[30Cembox> r8888888888888888#e�R�xxx�[K[31Cembox> r8888888888888888#e�eR�xxx�[K[32Cembox> r8888888888888888#e�eiR�xxx�[K[33Cembox> r8888888888888888#e�ei�R�xxx�[K[34Cembox> r8888888888888888#e�ei�iR�xxx�[K[35Cembox> R�xxx�[K[8Cembox>R�xxx�[K[6Cembox>8R�xxx�[K[7Cembox>8FR�xxx�[K[8Cembox>8FeR�xxx�[K[9Cembox>8FewR�xxx�[K[10C
+8FewR�xxx�: Command not found
+tish error: #-2
+embox>pembox>[K[6CcK888$�8[88[88
+cK888$�8[88[88: Command not found
+tish error: #-2
+embox>
+lRCembox>
+lR[K[9C�xx��embox>
+lR�xx��[K[6Cembox>
+lR�xx��[K[7Cembox>�
+lR�xx��[K[8Cembox>��
+lR�xx��[K[9Cembox>���
+lR�xx��[K[10Cembox>����
+lR�xx��[K[11Cembox>�����
+lR�xx��[K[12Cembox>����� 
+lR�xx��[K[13Cembox>����� r
+lR�xx��[K[14Cembox>����� r8
+lR�xx��[Kembox>����� r88
+lR�xx��[Kembox>����� r888
+lR�xx��[Kembox>����� r8888
+lR�xx��[Kembox>����� r88888
+lR�xx��embox>����� r88888�
+lR�xx��embox>����� r88888��
+lR�xx��embox>����� r88888��8
+lR�xx��embox>����� r88888��88
+lR�xx��embox>����� r88888��888
+lR�xx��embox>����� r88888��8888
+lR�xx��embox>����� r88888��88888
+lR�xx��embox>����� r88888��888888
+lR�xx��embox>����� r88888��888888Q
+lR�xx��embox>����� r88888��888888Q8
+lR�xx��embox>����� r88888��888888Q88
+lR�xx��embox>����� r88888��888888Q888
+lR�xx��embox>����� r88888��888888Q8888
+lR�xx��embox>����� r88888��888888Q88888
+lR�xx��embox>����� r88888��888888Q888888
+lR�xx��embox>����� r88888��888888Q8888888
+lR�xx��embox>����� r88888��888888Q8888888Q
+lR�xx��embox>����� r88888��888888Q8888888Q8
+lR�xx��embox>����� r88888��888888Q8888888Q88
+lR�xx��embox>����� r88888��888888Q8888888Q888
+lR�xx��embox>����� r88888��888888Q8888888Q8888
+lR�xx��embox>����� r88888��888888Q8888888Q88888
+lR�xx��embox>����� r88888��888888Q8888888Q888888
+lR�xx��embox>����� r88888��888888Q8888888Q8888888
+lR�xx��embox>����� r88888��888888Q8888888Q88888888
+lR�xx��embox>����� r88888��888888Q8888888Q888888888
+lR�xx��
+embox>88888888embox>[K[6Cembox>[K[6Cembox>[K[6C88ewpembox>[K[6Cembox>[K[6Cembox>[K[6C878888[88[$�
+878888[88[$�: Command not found
+tish error: #-2
+embox>
+lRCembox>
+lR[K[9C�xxx�embox>
+lR�xxx�[K[6Cembox>
+lR�xxx�[K[7Cembox> 
+lR�xxx�[K[8Cembox> z
+lR�xxx�[K[9Cembox> z�
+lR�xxx�[Kembox> z�y
+lR�xxx�[K[11Cembox> z�yu
+lR�xxx�[K[12Cembox> z�yui
+lR�xxx�[K[13Cembox> z�yui�
+lR�xxx�[K[14Cembox> z�yui�f
+lR�xxx�[Kembox>878888[88[$�[K�embox>878888[88[$�[Kui�embox>878888[88[$�ui�[K[20Cembox>878888[88[$�ui�[K[21Cembox>878888[88[$�ui��[K[22Cembox>878888[88[$�ui�y�[Kembox>878888[88[$�ui�y��[Kembox>878888[88[$�ui�y�8�[Kembox>878888[88[$�ui�y�88�[Kembox>878888[88[$�ui�y�888�embox>878888[88[$�ui�y�8888�embox>878888[88[$�ui�y�8888��embox>878888[88[$�ui�y�8888�8�embox>878888[88[$�ui�y�8888�88�embox>878888[88[$�ui�y�8888�888�embox>878888[88[$�ui�y�8888�8888�embox>878888[88[$�ui�y�8888�88888�embox>878888[88[$�ui�y�8888�888888�embox>878888[88[$�ui�y�8888�8888888�embox>�[K[6Cembox>�[K[6Cembox>�[K[6Cembox>8�[K[7Cembox>88�[K[8Cembox>88e�[K[9Cembox>88ew�[K[10C
+88ew�: Command not found
+tish error: #-2
+embox>pembox>[K[6Cembox>[K[6Cembox>[K[6C888@88xxx�embox>888@88xxx�[K[6Cembox>888@88xxx�[K[7Cembox> 888@88xxx�embox> z888@88xxx�embox> z�888@88xxx�embox> z�y888@88xxx�embox> z�yu888@88xxx�embox> z�yui888@88xxx�embox> z�yui�888@88xxx�embox> z�yui�f888@88xxx�embox>88ew�[K[11C�embox>88ew�[K[11Cui�embox>88ew�ui�[K[13Cembox>88ew�ui�[K[14Cembox>88ew�ui��[K[15Cembox>88ew�ui�y�[K[16Cembox>88ew�ui�y��[K[17Cembox>88ew�ui�y�8�[K[18Cembox>88ew�ui�y�88�embox>88ew�ui�y�888�embox>88ew�ui�y�8888�embox>88ew�ui�y�8888��embox>88ew�ui�y�8888�8�embox>88ew�ui�y�8888�88�embox>88ew�ui�y�8888�888�embox>88ew�ui�y�8888�8888�embox>88ew�ui�y�8888�88888�embox>88ew�ui�y�8888�888887�embox>88ew�ui�y�8888�8888878�embox>�[K[6C
+�: Command not found
+tish error: #-2
+embox>embox>[K[6Cembox>[K[6C88ewpembox>[K[6Cembox>[K[6Cembox>[K[6C888888�8[$�8[$�
+888888: Command not found
+tish error: #-2
+embox>
+lR2embox>
+lR[K�|xx�embox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10Cembox>[K[11Cembox>[K[12Cembox>[K[13Cembox>[K[14Cembox>[K[15Cembox>[K[16Cembox>[K[17Cembox>[K[18Cembox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38Cembox>[K[8Cembox>[K[6Cembox>[K[6Cembox>[K[7Cembox>[K[8Cembox>[K[9Cembox>[K[10C
+88ew: Command not found
+tish error: #-2
+embox>pembox>[K[6Cembox>[K[6Cembox>[K[6C888888[8![$�
+888888[8![$�: Command not found
+tish error: #-2
+embox>
+lRCembox>
+lR�xxx�embox>
+lR�xxx�embox>
+lR�xxx�embox> 
+lR�xxx�embox> r
+lR�xxx�embox> r8
+lR�xxx�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox> 
+lR�xxx�embox>
+lR�xxx�embox>8
+lR�xxx�embox>8/
+lR�xxx�embox>8/e
+lR�xxx�embox>8/ew
+lR�xxx�
+8/ew: Command not found
+tish error: #-2
+embox>pembox>[K[6Cxxx�embox>xxx�embox>xxx�embox> xxx�embox> rxxx�embox> r8xxx�embox> r88xxx�embox> r888xxx�embox> r8888xxx�embox> r88888xxx�embox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox>[Kembox> xxx�embox>xxx�embox>8xxx�embox>88xxx�embox>888xxx�embox>8888xxx�embox>88888xxx�embox>888888xxx�embox>888888[xxx�
+888888[xxx�: Command not found
+tish error: #-2
+embox>88[$�
+88[$�: Command not found
+tish error: #-2
+embox>
+lR/�x88888888V8[$�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

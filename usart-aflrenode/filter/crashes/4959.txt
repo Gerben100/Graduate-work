@@ -1,0 +1,163 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�����������������������export��xeiembox>�����������������������export��xei[K[42Cembox>�����������������������export��xei[K[43Cembox>�����������������������export��xei�[K[44Cembox>�����������������������export��xei�y[K[45Cembox>�����������������������export��xei�ye[K[46Cembox>�����������������������export��xei�ye�[K[47C
+embox>
+���������Ȁ������Ț������ȴ�embox>
+���������Ȁ������Ț������ȴ�[K[6Cembox>e
+���������Ȁ������Ț������ȴ�[K[7Cembox>eh
+���������Ȁ������Ț������ȴ�[K[8Cembox>eh�
+���������Ȁ������Ț������ȴ�[K[9Cembox>eh�
+���������Ȁ������Ț������ȴ�[K[8Cembox>eh�
+���������Ȁ������Ț������ȴ�[K[9Cembox>eh��
+���������Ȁ������Ț������ȴ�[K[10Cembox>eh�y�
+���������Ȁ������Ț������ȴ�[K[11Cembox>eh�yl�
+���������Ȁ������Ț������ȴ�[K[12Cembox>eh�yl��
+���������Ȁ������Ț������ȴ�[K[13Cembox>eh�yl�e�
+���������Ȁ������Ț������ȴ�[K[14Cembox>eh�yl�e��
+���������Ȁ������Ț������ȴ�[K[15Cembox>eh�yl�e�c�
+���������Ȁ������Ț������ȴ�[Kembox>eh�yl�e�cd�
+���������Ȁ������Ț������ȴ�[K[17C
+eh: Command not found
+tish error: #-2
+embox>
+������Ȁxeiembox>
+������Ȁxei[K[18Cembox>
+������Ȁxei[K[19Cembox>
+������Ȁxeiy[K[20Cembox>
+������Ȁxeiye[K[21Cembox>
+������Ȁxeiye�[K[22C
+������Ȁxei: Command not found
+tish error: #-2
+embox>
+embox>
+[K[6Cembox>D
+[K[7Cembox>D�
+[K[8Cembox>D�d
+[K[9Cembox>D�d
+[K[10Cembox>D�d
+[K[6Cembox>eD�d
+[K[7Cembox>exD�d
+[K[8Cembox>expD�d
+[K[9Cembox>expoD�d
+[K[10Cembox>exporD�d
+[K[11Cembox>exportD�d
+[K[12Cembox>exportD�d
+[K[11Cembox>exportD�d
+[K[12Cembox>exportD�d
+[K[11Cembox>exportD�d
+[K[12Cembox>exporetD�d
+[K[13Cembox>expore�tD�d
+[K[14C
+expor: Command not found
+tish error: #-2
+embox>
+�/u������Ⱥ�export�7������exportiembox>
+�/u������Ⱥ�export�7������exporti[K[43Cembox>
+�/u������Ⱥ�export�7������exporti[Kembox>
+�/u������Ⱥ�export�7������exporti�[Kembox>
+�/u������Ⱥ�export�7������exporti�y[Kembox>
+�/u������Ⱥ�export�7������exporti�ye[Kembox>
+�/u������Ⱥ�export�7������exporti�ye�[K
+�: Command not found
+tish error: #-2
+embox>
+���er��ye�
+���er�: Command not found
+tish error: #-2
+embox>
+xei�mm���p
+tish error: #-22
+embox>
+embox>
+[K[7C[?5h[?5lq
+[?5h[?5lq: Command not found
+tish error: #-2
+embox>
+embox>
+[K[7C
+tish error: #-22
+embox>
+@�
+@: Command not found
+tish error: #-2
+embox>
+x_�lstembox>[K[13Cembox>[K[14Cembox>[K[15C
+tish error: #-22
+embox>
+embox>
+embox>embox>xembox>xembox>xembox>x�
+x: Command not found
+tish error: #-2
+embox>�e�p
+�e�p: Command not found
+tish error: #-2
+embox>
+p�x
+p�: Command not found
+tish error: #-2
+embox>
+�eey}�pRrtu
+tish error: #-22
+embox>
+xeie��Zse�p
+�e�p: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+l
+l: Command not found
+tish error: #-2
+embox>
+xi
+tish error: #-22
+embox>
+xi
+tish error: #-22
+embox>e��e
+e��e: Command not found
+tish error: #-2
+embox>
+��w�i
+��: Command not found
+tish error: #-2
+embox>�y���e�xei
+embox>
+xi��e�
+embox>i���ycei
+ye��e: Command not found
+tish error: #-2
+embox>
+xi
+tish error: #-22
+embox>e
+e: Command not found
+tish error: #-2
+embox>
+xi
+tish error: #-22
+embox>
+xigye���e�i�xe�xi
+�: Command not found
+tish error: #-2
+embox>
+logout�� ����ıx�������������������logout�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

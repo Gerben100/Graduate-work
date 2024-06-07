@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[7Cembox>
+�[K[8Cembox>
+��[K[9C
+tish error: #-22
+embox>
+embox>
+adduser.conf[K[19C�logcdembox>
+adduser.conf�logcd[K[6Cembox>
+adduser.conf�logcd[K[7Cembox>�
+adduser.conf�logcd[K[8Cembox>��
+adduser.conf�logcd[K[9Cembox>���
+adduser.conf�logcd[K[10Cembox>����
+adduser.conf�logcd[K[11Cembox>�����
+adduser.conf�logcd[K[12Cembox>������
+adduser.conf�logcd[K[13Cembox>�������
+adduser.conf�logcd[K[14Cembox>��������
+adduser.conf�logcd[K[15Cembox>���������
+adduser.conf�logcd[K[16C
+embox>
+embox>
+adduser.conf[K[19Cembox>
+adduser.con[K[18Clogcdembox>[K[6C��������
+embox>
+embox>
+adduser.conf[K[19C:�gcF����
+embox>������
+embox>
+it�y�t,pine�it�y�t,embox>
+it�y�t,pine�it�y�t[K[30C
+it�y: Command not found
+tish error: #-2
+embox>
+embox>
+adduser.conf[Kembox>
+adduser.conf[K[6Cembox>�
+adduser.conf[K[7Cembox>�}
+adduser.conf[K[8Cembox>�}
+adduser.conf[K[9Cembox>�}
+adduser.conf[K[10C
+�}: Command not found
+tish error: #-2
+embox>
+embox>[K[6C�
+�: Command not found
+tish error: #-2
+embox>
+7�������"
+7�������": Command not found
+tish error: #-2
+embox>
+�
+embox>�
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�v�����������������������������������������������
+�v�����������������������������������������������: Command not found
+tish error: #-2
+embox>�����[?5h[?5lyembox>�����y[K[6Cembox>������y[K[7Cembox>�������y[K[8Cembox>��0�����y[K[9Cembox>��0������y[K
+��0������y: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+[?5h[?5l�Yembox>
+�Y[K[6Cembox>�
+�Y[K[7Cembox>�y
+�Y[K[8Cembox>�
+y�Y[K[9Cembox>�
+y��Y[K[10C
+�: Command not found
+tish error: #-2
+embox>
+[?5h[?5lu�dy
+u�dy: Command not found
+tish error: #-2
+embox>
+[?5h[?5l
+tish error: #-22
+embox>
+porttnnnnpinl�ls�dh
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

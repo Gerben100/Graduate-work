@@ -1,0 +1,159 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>kf��[?5h[?5l�
+kf���: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>
+�[K[7Cembox>m
+�[K[8C
+embox>
+p
+p: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+dMoyxpt
+dMoyxpt: Command not found
+tish error: #-2
+embox>
+���y
+���: Command not found
+tish error: #-2
+embox>
+��x
+�: Command not found
+tish error: #-2
+embox>
+embox>[K[6C!x
+!x: Command not found
+tish error: #-2
+embox>
+v
+v: Command not found
+tish error: #-2
+embox>
+Bxkd!x7!x@@ @@^cembox>
+Bxkd!x7!x@@ @@^@@@@A@^@
+tish error: #-22
+embox>
+1embox>
+[K[7Cembox>
+v[K[8C�y��e�embox>!x[K[8C@
+!x: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+x%i
+x%i: Command not found
+tish error: #-2
+embox>
+!x
+tish error: #-22
+embox>
+�7O
+�7O: Command not found
+tish error: #-2
+embox>
+cd
+tish error: #-22
+embox>
+�! 
+�!: Command not found
+tish error: #-2
+embox>
+_!x
+_!x: Command not found
+tish error: #-2
+embox>
+�xeixe  xe
+�xeixe: Command not found
+tish error: #-2
+embox>
+�!x
+tish error: #-22
+embox>
+!}
+tish error: #-22
+embox>
+�Tx
+�Tx: Command not found
+tish error: #-2
+embox>
+!�
+tish error: #-22
+embox>
+%dxpx
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+
+tish error: #-22
+embox>
+
+tish error: #-22
+embox>
+
+x%i: Command not found
+tish error: #-2
+embox>
+,
+,: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+G
+G: Command not found
+tish error: #-2
+embox>
+,
+,: Command not found
+tish error: #-2
+embox>
+lsll
+lsll: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+,
+,: Command not found
+tish error: #-2
+embox>
+tt
+tt: Command not found
+tish error: #-2
+embox>
+,ls,======�===========,,
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

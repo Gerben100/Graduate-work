@@ -1,0 +1,93 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>f�embox>f�[K[8CE
+f�E: Command not found
+tish error: #-2
+embox>
+f�embox>
+f�[K[6Cembox>
+f�[K[6Cembox>y
+f�[K[7Cembox>y�
+f�[K[8Cembox>y��
+f�[K[9Cembox>y��x
+f�[K[10Cembox>y��xe
+f�[K[11Cembox>y��xe�
+f�[K[12Cembox>y��xe�
+f�[K[13Cembox>y��xe��
+f�[K[14Cembox>y��xe��U
+f�[K[15C
+y��xe�: Command not found
+tish error: #-2
+embox>
+flogou���embox>
+flogou��[K[16CC
+flogou�: Command not found
+tish error: #-2
+embox>
+e�E
+e�E: Command not found
+tish error: #-2
+embox>
+_@embox>
+_@[K[6Cembox>
+_@[K[7Cembox>@
+_@[K[8Cembox>@
+_@[K[6Cembox>�@
+_@[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+vls
+vls: Command not found
+tish error: #-2
+embox>
+fembox>
+f[K[8Cembox>
+f[K[8CE
+fE: Command not found
+tish error: #-2
+embox>
+exportembox>
+expor[K[12CE
+exporE: Command not found
+tish error: #-2
+embox>
+g�
+g�: Command not found
+tish error: #-2
+embox>
+fsV�oinnembox>[K[16Ct
+fsV: Command not found
+tish error: #-2
+embox>
+f{embox>
+fsV@m
+fsV@m: Command not found
+tish error: #-2
+embox>
+d�dd
+fsV@mdd: Command not found
+tish error: #-2
+embox>
+����loglinout��prLl_�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

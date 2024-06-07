@@ -1,0 +1,76 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+ï¿½exï¿½ï¿½@ï¿½embox>[K[6Ciï¿½embox>iï¿½[K[6Cembox>eiï¿½[K[7Cembox>exiï¿½[K[8Cembox>expiï¿½[K[9Cembox>expï¿½iï¿½[K[10Cembox>expï¿½riï¿½[K[11Cembox>expï¿½rtiï¿½[K[12Cembox>expï¿½rtiï¿½[K[13Cembox>expï¿½rtiiï¿½[K[14Cembox>expï¿½rtiiiï¿½[K[15Cembox>expï¿½rtiiiiï¿½[K[16Cembox>expï¿½rtiiiiiï¿½[K[17Cembox>expï¿½rtiiiiiiï¿½[K[18Cembox>expï¿½rtiiiiiKiï¿½[K[19Cembox>expï¿½rtiiiiiKdiï¿½[K[20Cembox>expï¿½rtiiiiiKdï¿½iï¿½[K[21Cembox>expï¿½rtiiiiiKdï¿½iiï¿½[K[22Cembox>expï¿½rtiiiiiKdï¿½iiiï¿½[K[23Cembox>expï¿½rtiiiiiKdï¿½iiiiï¿½[K[24Cembox>expï¿½rtiiiiiKdï¿½iiieiï¿½[K[25Cembox>expï¿½rtiiiiiKdï¿½iiiexiï¿½[K[26Cembox>expï¿½rtiiiiiKdï¿½iiiexpiï¿½[K[27Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½iï¿½[K[28Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½riï¿½[K[29Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rtiï¿½[K[30Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]iï¿½[K[31Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]ï¿½iï¿½[K[32Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]ï¿½ï¿½iï¿½[K[33Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]ï¿½ï¿½@iï¿½[K[34Cembox>expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]ï¿½ï¿½@iiï¿½[K[35C
+expï¿½rtiiiiiKdï¿½iiiexpï¿½rt]ï¿½ï¿½@iiï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½exï¿½ï¿½ekitï¿½
+ï¿½exï¿½ï¿½ekitï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6C
+embox>
+embox>[K[6Cï¿½xitotï¿½totï¿½ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6Czogï¿½xitoBitotï¿½
+zogï¿½xitoBitotï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6Cï¿½ï¿½ï¿½ï¿½nembox>ï¿½ï¿½ï¿½ï¿½n[K[12CMxiï¿½xrgoUoooootï¿½tï¿½ï¿½
+ï¿½ï¿½ï¿½ï¿½nMxiï¿½xrgoUoooootï¿½tï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6Czogï¿½xitotitembox>zogï¿½xitotit[K
+zogï¿½xitotit: Command not found
+tish error: #-2
+embox>
+zxooexittï¿½ï¿½exitogï¿½xootï¿½ï¿½ï¿½
+zxooexittï¿½ï¿½exitogï¿½xootï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½pï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+embox>[K[6Czkgï¿½nttï¿½embox>zkgï¿½nttï¿½[Kembox>zkgï¿½nttiï¿½[Kembox>zkgï¿½nttitï¿½embox>zkgï¿½nttitoï¿½embox>zkgï¿½nttitoï¿½ï¿½embox>zkgï¿½nttitoï¿½iï¿½embox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23C
+zkgï¿½nttitoï¿½itotï¿½ï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+Yoï¿½ï¿½tttttttt
+Yoï¿½ï¿½tttttttt: Command not found
+tish error: #-2
+embox>
+zogtotitotï¿½ï¿½
+zogtotitotï¿½ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½
+ï¿½: Command not found
+tish error: #-2
+embox>
+ï¿½e
+ï¿½e: Command not found
+tish error: #-2
+embox>
+ï¿½ï¿½Iï¿½ö‡‘‚zotï¿½d
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

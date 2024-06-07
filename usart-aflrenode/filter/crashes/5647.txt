@@ -1,0 +1,173 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>��:xexpor�embox>��:xexpor�[K[6Cembox>��:xexpor�[K[7Cembox>D��:xexpor�[K[8Cembox>D��:xexpor�[K[9Cembox>D ��:xexpor�[K[10Cembox>D R��:xexpor�[K[11C
+embox>
+��� xexlogdutportembox>
+��� xexlogdutport[K[6Cembox>
+��� xexlogdutport[K[7C
+embox>
+it`pRptembox>
+it`pRpt[K[13Cembox>
+it`pRpt[K[14Cembox>
+it`pRp�t[K[15Cembox>
+it`pRp�t[K[16Cembox>
+it`pRp� t[K[17Cembox>
+it`pRp� it[K[18C
+it`pRp: Command not found
+tish error: #-2
+embox>
+iexport
+iexport: Command not found
+tish error: #-2
+embox>
+�� m
+��: Command not found
+tish error: #-2
+embox>
+��:xe|porti
+��:xe|porti: Command not found
+tish error: #-2
+embox>
+������:p�embox>
+��:xe|porti[K[18C�embox>[K[6Cembox>[K[6Cembox>
+�� m[K[11C" i
+��: Command not found
+tish error: #-2
+embox>
+a:������tP9i9i
+a:������t: Command not found
+tish error: #-2
+embox>
+��UD��
+��U: Command not found
+tish error: #-2
+embox>
+��:xexportembox>
+��:xexport[Kembox>
+��:xexport[Kembox>D
+��:xexport[Kembox>Da
+��:xexport[K[9Cembox>Da 
+��:xexport[K[10Cembox>Da i
+��:xexport[K[11C
+embox>
+��:xexp>xtdD i
+��:xexp>xt: Command not found
+tish error: #-2
+embox>
+S
+S: Command not found
+tish error: #-2
+embox>
+��embox>
+�[K[8Cc
+�: Command not found
+tish error: #-2
+embox>
+�������embox>
+������[K
+������: Command not found
+tish error: #-2
+embox>
+��embox>
+��[K[6Cembox>�
+��[K[7Cembox>�
+��[K[8Cembox>�
+��[K[9Cembox>��
+��[K[10Cembox>�ʹ
+��[K[11Cembox>�ʹ�
+��[K[12Cembox>�ʹ��
+��embox>�ʹ���
+��embox>�ʹ���N
+��embox>�ʹ���Ns
+��
+�: Command not found
+tish error: #-2
+embox>
+�s
+tish error: #-22
+embox>
+��
+tish error: #-22
+embox>
+��j_
+��j_: Command not found
+tish error: #-2
+embox>
+��N y
+��N: Command not found
+tish error: #-2
+embox>
+j�O�
+j�O�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+[?5h[?5l�%%%j: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�[?5h[?5l
+tish error: #-22
+embox>
+�oooo
+�oooo: Command not found
+tish error: #-2
+embox>
+�0
+Unreconized command: /
+
+embox>
+�
+embox>o�
+o�: Command not found
+tish error: #-2
+embox>
+@�
+@�: Command not found
+tish error: #-2
+embox>
+o
+o: Command not found
+tish error: #-2
+embox>
+export
+export: Command not found
+tish error: #-2
+embox>
+�ooOo
+�ooOo: Command not found
+tish error: #-2
+embox>
+@@��o
+@@��o: Command not found
+tish error: #-2
+embox>
+�ooooo
+�ooooo: Command not found
+tish error: #-2
+embox>
+�
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

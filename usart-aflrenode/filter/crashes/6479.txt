@@ -1,0 +1,232 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>rj��j�embox>rj��j�[K[22Cembox>rj��jo�[K[23Cembox>rj��jo!�[K[24Cembox>rj��jo!L�[K[25Cembox>rj��jo!L!�[K[26Cembox>rj��jo!L!L�[K[27Cembox>rj��jo!L!Lx�[K[28Cembox>rj��jo!L!Lx��[K[29Cembox>rj��jo!L!Lx��[K[30Cembox>rj��jo!L!Lx��[K[29Cembox>rj��jo!L!Lx�o�[K[30Cembox>rj��jo!L!Lx�or�[K[31Cembox>rj��jo!L!Lx�or��[K[32Cembox>rj��jo!L!Lx�or��[K[33Cembox>rj��jo!L!Lx�or��[K[34C
+embox>
+!�embox>
+!�[K[9Cembox>
+!o�[K[10Cembox>
+!or�[K[11Cembox>
+!orj�[K[12Cembox>
+!orj�[K[13Cembox>
+!orj�[K[14Cembox>
+!orj�[K[15Cembox>
+!orj��[K[16Cembox>
+!orj���[K[17Cembox>
+!orj���[K[18Cembox>
+!orj���[K[19Cembox>
+!orj���[K[20Cembox>
+!orj���[K[21Cembox>
+!orj���[K[22Cembox>
+!orj����[K[23Cembox>
+!orj����[K[22Cembox>
+!orj��o��[K[23Cembox>
+!orj��or��[K[24Cembox>
+!orj��orj��[K[25Cembox>
+!orj��orj��[K[26Cembox>
+!orj��orjo��[K[27Cembox>
+!orj��orjor��[K[28Cembox>
+!orj��orjor���[K[29Cembox>
+!orj��orjor����[K[30Cembox>
+!orj��orjor����[K[31Cembox>
+!orj��orjor����[K[32Cembox>
+!orj��orjor��j��[K[33Cembox>
+!orj��orjor��j���[K[34Cembox>
+!orj��orjor��j���[K[35Cembox>
+!orj��orjor��j���[K[36C
+tish error: #-22
+embox>
+!�embox>
+!�[K[11Cembox>
+!o�[K[12Cembox>
+!or�[K[13Cembox>
+!orj�[K[14Cembox>
+!orj
+�[K[15Cembox>
+!orj
+r�[K[16Cembox>
+[K[7CL!Lx�embox>
+L!Lx�[K[15Cembox>
+L!Lx�o[K[16Cembox>
+L!Lx�o[K[17Cembox>
+L!Lx�o[K[18Cembox>
+L!Lx�o�[K[19Cembox>
+L!Lx�o��[K[20Cembox>
+L!Lx�o��[K[21Cembox>
+L!Lx�o��[K[22Cembox>
+L!Lx�o��j[K[23Cembox>
+L!Lx�o��j�[K[24Cembox>
+L!Lx�o��j�[K[25Cembox>
+L!Lx�o��j�[K[26C
+tish error: #-22
+embox>
+!8�
+!8�: Command not found
+tish error: #-2
+embox>
+!L!�x�embox>
+!L!�x�[K[14Cembox>
+!L!�x�o[K[15Cembox>
+!L!�x�or[K[16Cembox>
+!8�[K[10C�embox>
+!8��[K[15Cembox>
+!8�o�[K[16Cembox>
+!8�or�[K[17Cembox>
+!8�orj�[K[18Cembox>
+!8�orj��[K[19Cembox>
+!8�orj� �[K[20Cembox>
+!8�orj� �[K[21Cembox>
+!8�orj� ��[K[22Cembox>
+!8�orj� ���[K[23Cembox>
+!8�orj� ���[K[24Cembox>
+!8�orj� ���[K[25Cembox>
+!8�orj� ��j�[K[26Cembox>
+!8�orj� ��j��[K[27Cembox>
+!8�orj� ��j���[K[28Cembox>
+!8�orj� ��j���[K[29C
+!8�: Command not found
+tish error: #-2
+embox>
+!L!Lx�embox>
+!L!Lx�[K[14Cembox>
+!L!Lx�o[K[15Cembox>
+!L!Lx�or[K[16Cembox>
+!8�[K[10Crembox>
+[K[7C�embox>
+�[K[12Cembox>
+o�[K[13Cembox>
+or�[K[14Cembox>
+orj�[K[15Cembox>
+orj�[K[16Cembox>
+orj�[K[17Cembox>
+orj�[K[18Cembox>
+orj��[K[19Cembox>
+orj��[K[20Cembox>
+orj��[K[21Cembox>
+orj��[K[22Cembox>
+orj���[K[23Cembox>
+orj���[K[22Cembox>
+orj�o��[K[23Cembox>
+orj�or��[K[24Cembox>
+orj�orl��[K[25Cembox>
+orj�orls��[K[26Cembox>
+orj�orlsj��[K[27Cembox>
+orj�orlsj��[K[28Cembox>
+orj�orlsj��[K[29Cembox>
+orj�orlsj��[K[30Cembox>
+orj�orlsj���[K[31Cembox>
+orj�orlsj����[K[32Cembox>
+orj�orlsj����[K[33Cembox>
+orj�orlsj����[K[34Cembox>
+orj�orlsj��j��[K[35Cembox>
+orj�orlsj��j���[K[36Cembox>
+orj�orlsj��j���[K[37C
+tish error: #-22
+embox>
+: Command not found
+tish error: #-2
+embox>
+!@�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ 
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+ xit
+tish error: #-22
+embox>
+ 
+tish error: #-22
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+td
+td: Command not found
+tish error: #-2
+embox>
+
+: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��
+��: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+tish error: #-22
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+4
+4: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+�a�{xiieiet
+xiieiet: Command not found
+tish error: #-2
+embox>
+tit
+t: Command not found
+tish error: #-2
+embox>
+iiieii����������������������������������iiiiiiiii
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,104 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>�s
+�: Command not found
+tish error: #-2
+embox>
+����l�l
+����l�l: Command not found
+tish error: #-2
+embox>
+���Sembox>
+���[K[14Cl
+���l: Command not found
+tish error: #-2
+embox>
+��logout���56>6cd@@embox>
+��logout���56>6cd@@[K[27C�@�o�n@&a@1@@@@X[H[H[2Jembox>
+��logout���56>6cd@@�@�o�n@&a@1@@@@X[K[44C@@e
+��logout��: Command not found
+tish error: #-2
+embox>
+���embox>
+��[K[9C6?ex�o�s@@@@\@@e
+��6?ex�o�s@@@@\@@e: Command not found
+tish error: #-2
+embox>
+����665embox>
+����66[K[13C��@@@@@@@@@=6>6@@embox>
+����66��@@@@@@@@@=6>6@@��@@@@@@@@@=@@@@J@@@@@\
+����66��@@@@@@@@@=6>6@@��@@@@@@@@@=@@@@J@@@@@\: Command not found
+tish error: #-2
+embox>@@e
+@@e: Command not found
+tish error: #-2
+embox>
+��ˠ6656>6@@embox>
+��ˠ6656>6@@[K��@@@@@@@@@=@@@@@@@embox>
+��ˠ6656>6@@��@@@@@@@@@=@@@@@@@��@@@@@@@@@@@\@
+���: Command not found
+tish error: #-2
+embox>@e
+@e: Command not found
+tish error: #-2
+embox>
+����66=6>6@@embox>
+����66=6>6@@[K[19C�embox>
+����66=6>6@@[K[19C@@@@�@@@K@@@@@@@@@@\@@e
+����66=6>6@@@@@@: Command not found
+tish error: #-2
+embox>
+�embox>
+�[K[6Cembox>�
+�[K[7Cembox>��
+�[K[8Cembox>��6
+�[K[9Cembox>��6@
+�[K[10Cembox>��6@=
+�[K[11Cembox>��6@=@
+�[K[12Cembox>��6@=@@
+�[K[13Cembox>��6@=@@G
+�[K[14Cembox>��6@=@@G@
+�[K[15Cembox>��6@=@@G@@
+�[Kembox>��6@=@@G@@@
+�[Kembox>��6@=@@G@@@@
+�[Kembox>��6@=@@G@@@@@
+�[Kembox>��6@=@@G@@@@@@
+�[Kembox>��6@=@@G@@@@@@@
+�[Kembox>��6@=@@G@@@@@@@\
+�[Kembox>��6@=@@G@@@@@@@\@
+�[Kembox>��6@=@@G@@@@@@@\@@
+�[Kembox>��6@=@@G@@@@@@@\@@e
+�[K
+��6@=@@G@@@@@@@\@@e: Command not found
+tish error: #-2
+embox>
+����66�embox>[K[13C@@
+embox>�@@@@@@@@logoptmlogout@@e@@V@@@@@@=
+�@@@@@@@@logoptmlogout@@e@@V@@@@@@=: Command not found
+tish error: #-2
+embox>@@
+@@: Command not found
+tish error: #-2
+embox>
+����@@@@\Y@e
+����@@@@\Y@e: Command not found
+tish error: #-2
+embox>
+���@@embox>[K��@@@@@@@@@cd@@@@@@d@@@@@@@@@@\@@e
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\

@@ -1,0 +1,107 @@
+ ASSERTION FAILED on CPU 0
+  at /home/gerben/embox/src/init/start_script.c:67
+  in function run_script
+
+1==0
+
+
+
+Started shell [tish] on device [diag]
+loading start script:
+embox>
+embox>
+���
+tish error: #-22
+embox>
+embox>
+[K[6Cembox>�
+[K[7C
+�: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+����dd
+����: Command not found
+tish error: #-2
+embox>
+�
+�: Command not found
+tish error: #-2
+embox>
+��cx�66F6>6T@embox>
+��cx�66F6>6T@[K[6Cembox>�
+��cx�66F6>6T@[K[7Cembox>��
+��cx�66F6>6T@[K[8Cembox>��@
+��cx�66F6>6T@[K[9Cembox>��@@
+��cx�66F6>6T@[K[10Cembox>��@@@
+��cx�66F6>6T@[K[11Cembox>��@@@d
+��cx�66F6>6T@[K[12Cembox>��@@@d@
+��cx�66F6>6T@[K[13Cembox>��@@@d@�
+��cx�66F6>6T@[K[14Cembox>��@@@d@�e
+��cx�66F6>6T@[K[15Cembox>��@@@d@�ex
+��cx�66F6>6T@[K[16Cembox>��@@@d@�exp
+��cx�66F6>6T@[K[17Cembox>��@@@d@�expo
+��cx�66F6>6T@[K[18Cembox>��@@@d@�expor
+��cx�66F6>6T@[K[19Cembox>��@@@d@�export
+��cx�66F6>6T@[K[20Cembox>��@@@d@�export@
+��cx�66F6>6T@[K[21Cembox>��@@@d@�export@<
+��cx�66F6>6T@[K[22Cembox>��@@@d@�export@<�
+��cx�66F6>6T@[K[23Cembox>��@@@d@�export@<�@
+��cx�66F6>6T@[K[24Cembox>��@@@d@�export@<�@@
+��cx�66F6>6T@[K[25Cembox>��@@@d@�export@<�@@�
+��cx�66F6>6T@[K[26Cembox>��@@@d@�export@<�@@��
+��cx�66F6>6T@[K[27Cembox>��@@@d@�export@<�@@���
+��cx�66F6>6T@[K[28Cembox>��@@@d@�export@<�@@����
+��cx�66F6>6T@[K[29Cembox>��@@@d@�export@<�@@�����
+��cx�66F6>6T@[K[30Cembox>��@@@d@�export@<�@@������
+��cx�66F6>6T@[K[31Cembox>��@@@d@�export@<�@@�������
+��cx�66F6>6T@[K[32Cembox>��@@@d@�export@<�@@��������
+��cx�66F6>6T@[K[33Cembox>��@@@d@�export@<�@@���������
+��cx�66F6>6T@embox>��@@@d@�export@<�@@����������
+��cx�66F6>6T@embox>��@@@d@�export@<�@@����������@
+��cx�66F6>6T@embox>��@@@d@�export@<�@@����������@@
+��cx�66F6>6T@embox>��@@@d@�export@<�@@����������@@@
+��cx�66F6>6T@[K[38C
+��@@@d@�export@<�@@����������@@@: Command not found
+tish error: #-2
+embox>@@\@@@@@@? xp@��embox>@@\@@@@@@? xp@��[K[23C�@~6656>6T@embox>@@\@@@@@@? xp@���@~6656>6T@�@@@@@@@@@?@@A@@
+@@\@@@@@@?: Command not found
+tish error: #-2
+embox>/@@O
+Unreconized command: /@@O
+embox>
+��cx�66F6>6T@embox>
+��cx�66F6>6T@[K[6Cembox>�
+��cx�66F6>6T@[K[7Cembox>��
+��cx�66F6>6T@[K[8Cembox>��@
+��cx�66F6>6T@[K[9Cembox>��@@
+��cx�66F6>6T@[Kembox>��@@@
+��cx�66F6>6T@[Kembox>��@@@d
+��cx�66F6>6T@[Kembox>��@@@d@
+��cx�66F6>6T@[Kembox>��@@@d@�
+��cx�66F6>6T@[Kembox>��@@@d@�e
+��cx�66F6>6T@embox>��@@@d@�ex
+��cx�66F6>6T@embox>��@@@d@�exp
+��cx�66F6>6T@embox>��@@@d@�expo
+��cx�66F6>6T@embox>[K[19Cembox>[K[20Cembox>[K[21Cembox>[K[22Cembox>[K[23Cembox>[K[24Cembox>[K[25Cembox>[K[26Cembox>[K[27Cembox>[K[28Cembox>[K[29Cembox>[K[30Cembox>[K[31Cembox>[K[32Cembox>[K[33Cembox>[K[34Cembox>[K[35Cembox>[K[36Cembox>[K[37Cembox>[K[38C
+��@@@d@�export@<�@@����������@@@: Command not found
+tish error: #-2
+embox>@@\@@@@@@? xp@��embox>[K[23C�@~6656>6T@embox>[K[34C�@H@@@@@@@?@@@@P
+@@\@@@@@@?: Command not found
+tish error: #-2
+embox>/@@@
+Unreconized command: /@@@
+embox>
+��cx�66F6>6Y@
+
+
+  ______
+ |  ____|                                            __          __
+ | |___  _ __ ___            ____  ____  ____  _____/ /   _____ / /
+ |  ___|| '_ ` _ \          / __ \/ __ \/ __ \/ ___/ /   |_____| |
+ | |____| | | | | |_ _ _   / /_/ / /_/ / /_/ (__  )_/    |_____| |
+ |______|_| |_| |_(_|_|_)  \____/\____/ .___/____(_)           | |
+                                     /_/                        \_\
